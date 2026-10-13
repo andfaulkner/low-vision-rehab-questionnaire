@@ -8,7 +8,9 @@ There is no code here. This is the data folder for a systematic literature revie
 
 - `data/LVR_screening_sheet_2.xlsx` is the **source of truth**: a screening workbook with formulas and drop-down validation.
 - `data/LVR_screening_sheet_2_<Sheet>.csv` are flat exports of each tab, one file per tab, for easy reading. They are snapshots: formulas are flattened to their cached values, and they go out of date whenever the xlsx changes. Regenerate them rather than editing them.
-- `openpyxl` is not installed. To read the xlsx, unzip it and parse `xl/sharedStrings.xml` and `xl/worksheets/sheetN.xml` with the Python standard library. Hyperlinks are stored in `xl/worksheets/_rels/sheet2.xml.rels`, not in the cells.
+- To work with an xlsx, first check whether `openpyxl` is installed (`python3 -c "import openpyxl"`).
+  - **If it is,** use it to read and write xlsx files. The DOI hyperlinks are on the cells (`cell.hyperlink`), not in the cell values. Saving a workbook with openpyxl removes the cached results of its formulas, so after saving the source workbook, recalculate it in Excel or LibreOffice before exporting CSVs from it.
+  - **If it isn't,** unzip the xlsx and parse `xl/sharedStrings.xml` and `xl/worksheets/sheetN.xml` with the Python standard library. Hyperlinks are stored in `xl/worksheets/_rels/sheet2.xml.rels`, not in the cells. Homebrew `python3` refuses a plain `pip install`; to install openpyxl, run `python3 -m pip install --user --break-system-packages openpyxl`.
 
 ## Workbook structure
 
