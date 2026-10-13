@@ -82,3 +82,9 @@ One agent sees the step-2 summaries of all survivors and keeps the 30 most relev
 
 - **Strict decision (AI):** `Include` or `Exclude`.
 - **Strict rationale (AI):** 1–3 sentences that give the step the decision was made at (Step 1, 2 or 3), the instrument (if any), the evidence type, and the specific reason. They also say whether the full text or only the abstract was used.
+
+## Outcome of the run on 13 Oct 2026
+
+- 127 subagents screened one paper each: 113 from the full text and 14 from the title and abstract only. Records 1, 9, 11, 16, 23, 30, 42, 57, 58, 70, 103 and 127 have no text file. For record 48, the text file contains a different paper, and for record 69, it contains only the supplementary tables.
+- Step 1 included **29** papers and excluded 98. 31 of the exclusions had no vision questionnaire at all, so they were excluded automatically.
+- 29 is inside the 15–30 target range, so steps 2 and 3 were not run.
