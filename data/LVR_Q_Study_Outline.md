@@ -89,6 +89,34 @@ Titles and abstracts were screened against predefined eligibility criteria by on
 - Jackson ML et al. Vision Rehabilitation Preferred Practice Pattern. Ophthalmology 2023;130(3):P271–P335
 - Evaluating measurement properties of PROMs in glaucoma: a systematic review. Ophthalmology Glaucoma 2023
 - HealthLink BC: Legal blindness
+- Gothwal VK et al. Andhra Pradesh Eye Disease Study – Visual Function Questionnaire: further improvements in psychometric properties using Rasch analysis. Ophthalmic Epidemiol 2012
+- Potter T et al. Concordance between self-reported visual difficulty and objective visual impairment: the National Health and Aging Trends Study. Ophthalmology 2024
+- Wolffsohn JS et al. Design of the low vision quality-of-life questionnaire (LVQOL) and measuring the outcome of low-vision rehabilitation. Am J Ophthalmol 2000
+- Labreche T et al. Development and validation of Visual Impairment as a Risk for Falls Questionnaire. Age Ageing 2018
+- Stalin A et al. Development of a screening tool for reduced vision among inpatients of hospital rehabilitation units. Optom Vis Sci 2025
+- Rowe FJ et al. European Stroke Organisation (ESO) guideline on visual impairment in stroke. Eur Stroke J 2025
+- Babcock-Parziale J et al. Evaluating psychometric properties of a clinical and a self-report blind rehabilitation outcome measure. J Rehabil Res Dev 2005
+- Tabrett DR et al. Factors influencing self-reported vision-related activity limitation in the visually impaired. IOVS 2011
+- Pengo M et al. Impact of visual impairment on vision-related quality of life in Parkinson's disease. J Parkinsons Dis 2022
+- Sahu A et al. Is the high contrast visual acuity chart a good predictor of improvement in visual acuity with low vision aids? Indian J Ophthalmol 2021
+- Stelmack JA et al. Measuring low-vision rehabilitation outcomes with the NEI VFQ-25. IOVS 2002
+- Stelmack JA et al. Measuring outcomes of vision rehabilitation with the Veterans Affairs Low Vision Visual Functioning Questionnaire. IOVS 2006
+- Selivanova A et al. Outcomes after comprehensive vision rehabilitation using vision-related quality of life questionnaires: Impact of Vision Impairment and National Eye Institute Visual Functioning Questionnaire. Optom Vis Sci 2019
+- Szlyk JP et al. Performance of the Veterans Affairs Low Vision Visual Functioning Questionnaire. J Vis Impair Blind 2004
+- La Grow SJ. Predicting perceived quality of life scores from the National Eye Institute 25-item Visual Function Questionnaire. Optom Vis Sci 2007
+- Gresset J et al. Prevalence of visual impairment and utilization of rehabilitation services in the visually impaired elderly population of Quebec. Optom Vis Sci 2002
+- Murro V et al. Reading ability and quality of life in Stargardt disease. Eur J Ophthalmol 2017
+- Macnaughton J et al. Rehabilitation needs and activity limitations of adults with a visual impairment entering a low vision rehabilitation service in England. Ophthalmic Physiol Opt 2019
+- Smith TM et al. Responsiveness of the Revised Low Vision Independence Measure (LVIM-R). Am J Occup Ther 2020
+- Chou R et al. Screening for visual impairment in older adults: systematic review to update the 1996 U.S. Preventive Services Task Force recommendation. NCBI Bookshelf (NBK35192) 2009
+- Massof RW et al. Self-reported importance and difficulty of driving in a low-vision clinic population. IOVS 2007
+- Subramanian A et al. Spatial localization in visual impairment. IOVS 2006
+- Di Maggio I et al. The Veterans Affairs Low-Vision Visual Functioning Questionnaire-48 (VA LV VFQ-48): performance of the Italian version. Eur J Ophthalmol 2020
+- Sumi I et al. The relationship between visual disability and visual field in patients with glaucoma. Ophthalmology 2003
+- Dickson G et al. Time required for screening for visual impairment in primary care: a randomized comparison of 3 common visual tests. J Prim Care Community Health 2012
+- Surawatsatien N et al. Translation and testing psychometric properties of the Thai version of Vision Bolt-On EQ-5D in patients with visual impairment. Value Health Reg Issues 2026
+- Pérez-Mañá L et al. Validation of the Spanish version of the Low Vision Quality of Life Questionnaire. J Optom 2022
+- Bibby SA et al. Vision and self-reported mobility performance in patients with low vision. Clin Exp Optom 2007
 
 Still to screen …
 
