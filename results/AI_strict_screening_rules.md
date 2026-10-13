@@ -89,3 +89,20 @@ One agent sees the step-2 summaries of all survivors and keeps the 30 most relev
 - 127 subagents screened one paper each: 113 from the full text and 14 from the title and abstract only. Records 1, 9, 11, 16, 23, 30, 42, 57, 58, 70, 103 and 127 have no text file. For record 48, the text file contains a different paper, and for record 69, it contains only the supplementary tables.
 - Step 1 included **29** papers and excluded 98. 31 of the exclusions had no vision questionnaire at all, so they were excluded automatically.
 - 29 is inside the 15–30 target range, so steps 2 and 3 were not run.
+
+## Key sources added by hand
+
+Eight of the key sources in `data/LVR_Q_Study_Outline.md` were not found by the PubMed and Scopus searches, so they were not among the 127 records. They were added to the results as records 128–135, below the 29 screened includes, and marked Include **without being screened**. Their "Strict rationale (AI)" says so. They were not added to the screening workbook (`data/LVR_screening_sheet_2.xlsx`), so its Counts tab and PRISMA numbers do not include them.
+
+| ID | Source |
+|---|---|
+| 128 | Wu et al. 2024, *Estimating Visual Acuity Without a Visual Acuity Chart* (TVST) |
+| 129 | Vinokurtseva et al. 2023, *Evaluating Measurement Properties of Patient-Reported Outcome Measures in Glaucoma: A Systematic Review* (Ophthalmol Glaucoma) |
+| 130 | Ernst et al. 2025, *Factors Associated with Referral to Low Vision for Patients with Advanced Glaucoma* (Life, vol. 16, 2026) |
+| 131 | Swenor et al. 2017, *Impact of the Ability to Divide Attention on Reading Performance in Glaucoma* (IOVS) |
+| 132 | HealthLink BC, *Legal blindness* (web page, current as of 12 Oct 2022) |
+| 133 | Nguyen et al. 2014, *Reading ability and reading engagement in older adults with glaucoma* (IOVS) |
+| 134 | Kaleem et al. 2017, *Referral to Low Vision Services for Glaucoma Patients* (J Glaucoma) |
+| 135 | Jackson et al. 2023, *Vision Rehabilitation Preferred Practice Pattern* (Ophthalmology) |
+
+With these, the results list 37 Includes.
