@@ -1,0 +1,994 @@
+[page 1]
+International Journal of Pharmaceutical and Healthcare Marketing
+®
+
+Off-label drug use – price analysis for Avastin in ophthalmology
+Stephan Michels Malaika Kurz-Levin Christian Schmitz
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+Article information:
+To cite this document:
+Stephan Michels Malaika Kurz-Levin Christian Schmitz, (2009),"Off-label drug use – price analysis for
+®
+Avastin in ophthalmology", International Journal of Pharmaceutical and Healthcare Marketing, Vol. 3 Iss 1
+pp. 59 - 73
+Permanent link to this document:
+http://dx.doi.org/10.1108/17506120910948511
+Downloaded on: 06 May 2016, At: 12:52 (PT)
+References: this document contains references to 36 other documents.
+To copy this document: permissions@emeraldinsight.com
+The full text of this document has been downloaded 389 times since 2009*
+
+Users who downloaded this article also downloaded:
+(2002),"The concept of complexity in organisations and information systems", Kybernetes, Vol. 31 Iss 1 pp.
+30-43 http://dx.doi.org/10.1108/03684920210414907
+(2005),"Judging the quality of internet-based health information", Performance Measurement and Metrics,
+Vol. 6 Iss 2 pp. 80-96 http://dx.doi.org/10.1108/14678040510607803
+(2016),"Drivers of successful international business strategy: Insights from the evolution of a trading
+company", International Journal of Emerging Markets, Vol. 11 Iss 1 pp. 89-110 http://dx.doi.org/10.1108/
+IJoEM-09-2012-0120
+
+Access to this document was granted through an Emerald subscription provided by emerald-srm:270633 []
+
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald for
+Authors service information about how to choose which publication to write for and submission guidelines
+are available for all. Please visit www.emeraldinsight.com/authors for more information.
+
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company
+manages a portfolio of more than 290 journals and over 2,350 books and book series volumes, as well as
+providing an extensive range of online products and additional customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the Committee
+on Publication Ethics (COPE) and also works with Portico and the LOCKSS initiative for digital archive
+preservation.
+
+
+[page 2]
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+*Related content and download information correct at time of download.
+
+
+[page 3]
+The current issue and full text archive of this journal is available at
+www.emeraldinsight.com/1750-6123.htm
+
+CASE STUDY
+
+Off-label drug use – price
+analysis for Avastinw
+in ophthalmology
+
+Price analysis
+for Avastinw
+
+59
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+Stephan Michels and Malaika Kurz-Levin
+Department of Ophthalmology, University Eye Hospital, Zurich,
+Switzerland, and
+
+Christian Schmitz
+Institute of Marketing and Retailing, University of St Gallen,
+St Gallen, Switzerland
+Abstract
+Purpose – The use of drugs outside the approved indication, called off-label use, is a growing
+phenomenon in medical practice. Especially, when a drug approved for systemic use is used locally in
+small quantities, the drug price per treatment can fall far below the potential value of the drug. This
+paper aims to outline the potential value of off-label Avastinw used for wet/neovascular age-related
+macular degeneration (AMD), the leading cause of legal blindness in western countries.
+Design/methodology/approach – The van Westendorp price sensitivity measurement (PSM)
+method was used to find an optimal price range for an Avastin formulation potentially approved by
+German regulatory authorities for neovascular/wet AMD. A survey was conducted among a majority
+of German AMD specialists as the central part of the buying center. Germany, the largest
+pharmaceutical market in Europe, was selected for the study.
+Findings – The effective total response rate was 25.1 percent (51 questionnaires).The price range
+found is clearly above the price for currently used “off-label” Avastin and far below the price for other
+comparable drugs approved for the treatment of neovascular AMD. The van Westendorp PSM method
+found for Avastin used in the eye the optimal price at e95 ($131), the indifference price at e200 ($276)
+and the acceptable price range between e90 ($124) and e310 ($428). The discussion provides further
+implications for pricing strategies for new drugs.
+Originality/value – As price sensitivity and availability of drugs have become an increasingly
+political and public topic, off-label application of drugs is turning into an important challenge for the
+pharmaceutical industry. Taken in total, the results provide support for the view that off-label
+application not only creates major threats for pharmaceutical companies, but can also offer growth
+opportunities.
+Keywords Pharmaceuticals industry, Drugs, Germany
+Paper type Case study
+
+Introduction
+Age-related macular degeneration (AMD) is a chronic disease of the elderly population
+(de Jong, 2006). It is the most frequent cause of legal blindness in the western
+industrialized countries including Germany (Buch, 2005; Friedman et al., 2004;
+The authors have not obtained any support (not financial, no other form of support) from the
+pharmaceutical industry for this research. They have no conflict of interest.
+
+International Journal of
+Pharmaceutical and Healthcare
+Marketing
+Vol. 3 No. 1, 2009
+pp. 59-73
+q Emerald Group Publishing Limited
+1750-6123
+DOI 10.1108/17506120910948511
+
+
+[page 4]
+IJPHM
+3,1
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+60
+
+Klaver et al., 1998). Multiple studies have shown that the disease has a prevalence that
+increases with age (Friedman et al., 2004). The most frequent cause for blindness
+among patients with AMD is the neovascular, so-called “wet” form of AMD. It is
+characterized by new, pathologic vessel growth in the eye.
+The use of drugs outside the approved indication, so-called off-label use, is a
+growing phenomenon in medical practice. Especially, when a drug approved for
+systemic use is used locally in small quantities, the drug price per treatment can fall far
+below the potential value of the drug. This case study outlines the potential value of
+off-label use of Avastinw for wet/neovascular AMD.
+Anti-VEGF therapy
+Pathologic vessel growth, so-called angiogenesis, has been a major field of interest in
+cancer treatment since the early 1970s. Especially, one growth factor has been strongly
+associated with angiogenesis in different forms of cancers. This factor has been termed
+the “Vascular Endothelial Growth Factor” (VEGF). In the mid-1990s, the importance of
+VEGF slowly became also evident for a number of ocular diseases associated with
+pathologic vessel growth and increased vascular permeability (Aiello et al., 1995;
+Spilsbury et al., 2000; Ozaki et al., 1997; Williams, 1998).
+Anti-VEGF therapy was primarily developed to support chemotherapy in cancer
+treatment. Its value in ophthalmology became apparent later. Many of the current
+anti-VEGF drugs in ophthalmology are related anti-VEGF cancer drugs.
+Several pharmaceutical companies have started to develop drugs to inhibit VEGF in
+the eye. The first companies to obtain regulatory approval for intraocular anti-VEGF
+treatment were Eyetech Pharmaceuticals (Pegaptanib/Macugenw-2004) and Genentech
+Inc. (Ranibizumab/Lucentisw-2006). Both drugs bind VEGF. Lucentis was designed to
+bind all subforms of VEGF, whereas Macugenw was designed to just bind the most
+frequent subform VEGF-165. Even though both drugs have not been directly compared
+in clinical trials, it appears evident, based on clinical trials and clinical experience, that
+Macugen is only able to slow down vision loss in patients with “wet” AMD, whereas
+Lucentis is able to stabilize vision in more than 90 percent of such patients at one and
+two years follow-up (Chakravarthy et al., 2006; Rosenfeld et al., 2006). In addition, a
+significant portion of patients is regaining vision. These are impressive results,
+especially when compared to treatment options ten years ago when destructive,
+thermal lasers were used to stop the progression of “wet” AMD with very poor
+functional outcomes.
+Lucentis is widely used for “wet” AMD in countries where it is approved and
+reimbursed by health care systems.
+Avastin
+The worldwide first anti-VEGF drug to obtain marketing authorization was Avastin
+(Bevacizumab) in early 2004. It was first approved for the treatment of widespread
+cancer of the colon in combination with a chemotherapy regimen. The drug, designed
+for intravenous infusion, was derived from the same precursor mouse antibody as
+Lucentis. As of 2004, Avastin was used “off label” (outside the approved indication)
+first as a systemic infusion and later as an injection into the eye (Michels et al., 2005;
+Moshfeghi et al., 2006; Rosenfeld, Fung and Puliafito, 2005; Rosenfeld, Moshfeghi
+and Puliafito, 2005). There is an increasing number of prospective clinical studies
+
+
+[page 5]
+Price analysis
+for Avastinw
+
+61
+
+Limits for “off-label” therapy in Germany
+In the current situation, it appears obvious that the Lucentis is the drug most
+AMD-specialists would use for the treatment of wet AMD. This drug is effective,
+available, and is usually reimbursed by health care insurances. The default decision
+seems clearly in favor of Lucentis. However, a second look shows that the situation is
+more complex.
+
+1,500
+
+Drug Price per Treatment
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+showing effectiveness of Avastin for “wet” AMD (Algvere et al., 2008; Bashshur et al.,
+2007, 2008; Schouten et al., 2009; Weigert et al., 2008). Large controlled clinical trials,
+financed without the support of the pharmaceutical industry, have just been initiated.
+The current literature places Avastin in the same range as Lucentis with regard to
+safety and effectiveness. Avastin, when used as an intraocular injection, is relatively
+inexpensive, since the drug has been priced for systemic infusions typically requiring
+5 mg/kg Avastin (80 kg person: 400 mg/per treatment). For intraocular injection only a
+very small amount of Avastinw (commonly: 1.25 mg) is needed. In Germany,
+comparable to many other countries, the price for 1 mg Avastin is currently about
+e4.40. Figure 1 shows price and effectiveness for different treatment options in
+neovascular AMD.
+The splitting of the drug under sterile conditions by a pharmacy is more expensive
+than the Avastin drug dose itself. This procedure is necessary because Avastin is
+marketed in 100 and 400 mg vials. The cost of the preparation is variable but
+commonly ranges between e20 and 30. Owing to similar safety and effectiveness to
+Lucentis and due to the very low price per ocular treatment, Avastin has become a
+worldwide used “off-label” therapy for “wet” AMD. Avastin is also being used with
+increasing frequency for other very common diseases such as diabetic
+retinopathy/maculopathy or retinal vascular occlusions.
+
+1,000
+
+500
+
+0
+Low
+
+Medium
+Effectiveness
+
+High
+
+Figure 1.
+Price and effectiveness of
+different drugs/treatments
+for neovascular AMD
+
+
+[page 6]
+IJPHM
+3,1
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+62
+
+There is strong cost awareness in Germany and overall budgets are limited
+(Statistisches Bundesamt, 2006). Even though Lucentis is reimbursed, it is obvious to
+most ophthalmologists that the introduction of an inexpensive new treatment will have
+significant impact on future budgets and reimbursement of other ophthalmologic
+services in private practice and in clinics. In addition, there is the option for
+inexpensive but “off-label” Avastin. AMD specialists have used this drug “off-label”
+for more than a year before Lucentis was approved and are currently using it for
+VEGF-related eye diseases other than neovascular/“wet” AMD, as mentioned earlier.
+The German legislature has clear guidelines for the reimbursement of off-label
+drugs. Three aspects have to be fulfilled to obtain reimbursement for off-label therapy:
+(1) treatment of a severe disease;
+(2) no other approved therapy available; and
+(3) good chance of treatment success based on current data.
+With the approval of Lucentis, an effective drug for all lesion types of neovascular
+AMD has become available, which should lead to a reimbursement halt for Avastin in
+Germany. However, it currently becomes obvious that this legislation is not enforced.
+A further important aspect is the potential risk of legal actions against AMD
+specialists following an adverse event using Avastin for the treatment of neovascular
+AMD. To date, no such case has been reported.
+The present study addresses several areas of interest. Different from pricing finding
+strategies for new drugs under patent protection used by the pharmaceutical industry,
+the study uses – as commonly done for products in unregulated markets – the central
+part of the buying center to find a price range for a potentially approved Avastin eye
+formulation for the treatment of wet AMD in Germany.
+Several aspects affect the industry when considering prices for innovative, new
+drugs. On the one hand, there are clearly drivers for lower drug prices such as overall
+health care costs, rising health care insurance costs, decreasing budgets for
+ophthalmologists, and risk for lower reimbursement of medical professional work in
+case of higher drug prices. On the other hand, very low prices for new, innovative, and
+most effective drugs will clearly limit pharmaceutical industry’s interest in further
+research and development of new products in that field, and will subsequently affect
+future treatment options. In addition, a marketing authorization improves doctor’s
+safety with regard to reimbursement and legal issues and justifies a higher drug price.
+The purpose of this case study is to discuss the pricing implications for an Avastin
+formulation potentially approved in Germany in comparison to other treatments for
+wet AMD.
+Methods
+Germany was selected for the Avastin price analysis in ophthalmology for several
+reasons. The German market is the largest pharmaceutical market within the
+European Union and the third largest in the world. German AMD specialists, different
+from their colleagues in other EU countries, had in 2007 the largest experience with all
+anti-VEGF drugs. This was primarily due to the rapid adoption of Avastin as off-label
+AMD treatment and the fast nation-wide reimbursement of Lucentis following its
+European approval. In addition, cost-consciousness is high among German
+ophthalmologists in the context of overall spending in ophthalmology being
+
+
+[page 7]
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+reduced over the last years (2 13 percent between 2002 and 2004; Statistisches
+Bundesamt, 2006).
+The AMD specialists were considered as the central part of the buying center
+(Figure 2), in an intermediary role among patients, pharmaceutical industry, insurance
+companies, and health care authorities.
+AMD specialists, familiar with AMD treatments, were specifically addressed in
+order to obtain the most valuable answers and to outline the current market situation.
+The selectivity for this specific subgroup of ophthalmologists clearly limits the size
+and the power of the survey. The publicly available PDT/Visudynew user list (PDT,
+2007), last updated January 2007, was used to contact AMD specialists in Germany.
+This list has the advantage that it is the most comprehensive publicly available list of
+AMD specialists belonging to different interest groups (e.g. private practice vs public
+hospital). In total, 203 surveys were sent to AMD specialists.
+In general, it is most difficult to obtain a precise product price using a survey since
+the customer-buying center typically has difficulty naming an exact price. The
+customer buying center rather buys a product within a specific price range. van
+Westendorp took this aspect into account by developing the price sensitivity
+measurement (PSM) method, which is a technique developed as a survey methodology
+for the measurement of price perceptions (Vlosky et al., 1999). The PSM has been
+adapted by researchers and has been delivering reliable research results for specific
+product contexts (Allen and Maybin, 2004; Lyon, 2002; Draeger, 2000).
+The van Westerdorp method allows obtaining an acceptable price range for a
+certain product. A majority of customers accept a price within this range. The most
+relevant findings in this type of analysis are considered to be the optimal price point
+(OPP), the indifference price point (IPP) and the acceptable price range. To determine
+the price sensitivity, the van Westendorp method requires answering a special set of
+four questions (Allen and Maybin, 2004; Draeger, 2000). To derive a high-external
+validity, the structure of the individual questions asks the respondents to qualify their
+price based on an implied assumption about quality (Vlosky et al., 1999). Furthermore,
+the researcher forces a response with no point of reference other than the concept and
+the question (van Westendorp, 1976). The four questions, which directly ask
+respondents about prices are:
+(1) Up to which price would you consider the product as low priced?
+(2) At what price would you say the product is expensive but worth a
+consideration?
+
+Price analysis
+for Avastinw
+
+63
+
+Insurance Companies
+Health Care Authorities
+
+AMD-Specialist
+
+Patient
+Pharmaceutical
+Industry
+
+Figure 2.
+Buying center for AMD
+treatments
+
+
+[page 8]
+IJPHM
+3,1
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+64
+
+(3) At what price would you consider the product as too expensive and you would
+stop buying it?
+(4) Below which price would you consider the product too cheap and you would
+doubt its quality?
+The intersection of the cumulative frequency distribution of the questions “too
+expensive” and “too cheap” is the OPP. At this point, the resistance to buy a product is
+the lowest. Optimal in this sense refers to the equal trade-off in extreme sensitivities to
+the price at both ends of the price spectrum. The IPP is found at the intersection of the
+cumulative frequency distribution of the questions “expensive” and “low priced”.
+It refers to the price point with an equal number of respondents rating the price as
+either “low priced” or “expensive”. The acceptable price range of a product is found
+between the crossing of the curves “too expensive” and “low priced” and “too cheap”
+and “expensive”.
+We integrated the van Westendorp PSM method for an Avastin formulation
+potentially approved in Germany for the treatment of “wet” AMD into a larger
+questionnaire.
+The price for Avastin when used intraocularly is calculated based on the price of
+e4.40/mg ($6/mg). The injection procedure (filling of dead space in injection needle)
+requires l2.7 mg in order to inject 1.5 mg. Accordingly, the Avastin drug price for a
+single intraocular treatment was set at e12 ($16.60). The most variable price of
+compounding the 400 mg Avastin vials is not taken into calculation. This compares to
+a Lucentis price of about e1,500 ($2,070) per treatment.
+To position the price analysis in a relevant context, we additionally evaluated
+baseline demographics (age and gender), the setting in which AMD patients were
+treated (public hospital, private practice, and private hospital), the number of AMD
+treatments performed each month, and the use of certain treatments.
+Sample description
+A total of 203 questionnaires were sent to AMD specialists listed in the publicly
+available PDT/Visudyne user list in June 2007. In total, 51 questionnaires were
+returned by August 15, 2007. The response rate was 25.1 percent.
+The mean age of the responding AMD-specialist was 44.2 years (SD 8.2 years).
+The majority was male (40 vs 11).
+The mean number of patients with neovascular AMD treated per month per AMD
+specialist was 117. Based on these data, the participating AMD specialists would
+perform approximately 71,600 treatments per year. Taking into consideration a
+minimum (van Leeuwen et al., 2003) and maximum (Schrader, 2006) estimated
+incidence of neovascular AMD per year in Germany, the market share of each AMD
+treatment, the mean number of treatments of each AMD treatment per year (Bressler,
+2001; D’Amico et al., 2006; Fung et al., 2007; Gragoudas et al., 2004; Leydolt et al., 2008),
+and an estimated treatment duration of two years (except Lucentis – was approved
+February 2007), an estimate on the overall number of AMD treatments within one year
+can be given.
+The estimated range of 20,000-50,000 new wet AMD cases per year in Germany
+would lead to approximately 137,000-345,000 AMD treatments per year. The total
+
+
+[page 9]
+proportion of wet AMD treatments performed by AMD specialists responding to the
+survey was between 20.75 and 52.14 percent.
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+Market share
+According to the questionnaire, the shares for different treatments for neovascular
+AMD in Germany were distributed in July 2007 as follows: Lucentis was used on
+average in 57.1 percent cases for treatment in wet AMD, Avastin in 29 percent,
+Macugen in 5.9 percent, PDT with Visudyne in 5.5 percent and other treatments in 2.3
+percent cases. Figure 3 shows these results.
+Based on the market share for each drug currently used for the treatment of wet
+AMD, sales can be estimated for 2007 as shown in Table I.
+
+Price analysis
+for Avastinw
+
+65
+
+Price analysis
+The van Westendorp analysis provided the OPP, the IPP and the acceptable price
+range for an Avastin formulation potentially approved for wet AMD. Figure 4 shows
+the cumulative curves for each of the four questions.
+The OPP is at the intersection of the cumulative frequency curves “too cheap” or
+“too expensive”. The resistance “to buy” is here the lowest. The OPP is, according the
+survey at e95 ($131).
+The IPP refers to the price point with equal number of respondents rating the price
+as either “low priced” or “expensive”. The IPP according to the survey was at e200
+($276).
+The upper and lower limits of the acceptable price range are found at the crossing of
+the curves “too expensive” and “low priced” and “too cheap” and “expensive”. The
+acceptable price range was found to be between e90 ($124) and e310 ($428).
+Table II estimates the sales for an Avastin formulation potentially approved for wet
+AMD based on OPP, IPP, and maximum price within the acceptable price range.
+Discussion
+The current price range of about e12 ($16.60) for Avastin to e1,500 ($2,070) for Lucentis
+for a single intraocular treatment using two very similar anti-VEGF drugs is currently
+difficult to comprehensively explain. The strongest arguments in favor of a higher
+2.27%
+5.86%
+
+Macugen
+Lucentis
+PDT
+Avastin
+Others
+
+29.03%
+
+5.54%
+
+57.12%
+
+Figure 3.
+Market share of AMD
+treatments according to
+survey in July 2007 in
+Germany
+
+
+[page 10]
+Table I.
+Estimated sales for 2007
+based on market share in
+survey
+1,100
+2,800
+5,800
+
+1,100
+2,800
+
+5,800
+
+14,500
+
+Max
+b
+
+4.3 (2nd year)d
+
+4.3 (1st year)
+
+3.4 (1st year)
+2.2 (2nd year)c
+
+8.5 (1st year)
+7 (2nd year)b
+
+5.6 (1st year)a
+
+, 15
+, 36
+, 10
+, 25
+, 0.6
+
+, 800
+, 1,600
+, 12 (2.7 mg from
+400 mg vial)
+
+, 1.5
+
+, 96
+, 239
+
+Estimated total sales (e)
+2007 (Mio)
+
+, 1,500
+
+Drug price (e)
+
+Notes: PrONTO Study (Fung et al., 2007); vision studies (Gragoudas et al., 2004; D’Amico et al., 2006; Chakravarthy et al., 2006); c treatment of
+Age-related Macular Degeneration with Photodynamic Therapy (TAP) Study Group (1999; Bressler, 2001); dno 2 year data available (Leydolt et al., 2008).
+TX, treatment; The table’s estimates contain several assumptions: incidence of neovascular AMD per year is estimated for Germany based on the
+Rotterdam Eye Study (min) (van Leeuwen et al., 2003) and on estimates by Schrader (max) (Schrader, 2006). Number of retreatments in 1st and 2nd year of
+treatment is based on selected studies published in the medical literature; patients requiring more than two years of treatment are not taken into account;
+loss of patients in follow-up is not taken into account
+
+a
+
+1,200
+2,900
+
+1,200
+2,900
+
+14,500
+
+0
+0
+
+11,400
+28,500
+
+Lucentisw
+Min
+Max
+Macugenw
+Min
+Max
+Visudynew
+Min
+Max
+Avastinw
+Min
+
+Mean number of TX (1st and
+2nd year)
+
+66
+
+No. of patients started TX No. of patients started TX
+in 2007
+in 2006
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+IJPHM
+3,1
+
+
+[page 11]
+Price analysis
+for Avastinw
+
+Results PSM
+80
+low priced
+expensive
+too expensive
+too cheap
+
+Percent of AMD Specialists
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+70
+60
+
+67
+
+50
+IPP: 200
+40
+30
+20
+
+OPP: 95
+
+10
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+APR: 90-310
+
+250
+
+300
+
+350
+
+400
+Price in
+
+Lucentis price are the higher level of scientific evidence and its approval for intraocular
+use in wet AMD. The growing political debate on this topic in Europe and the United
+States obviously indicates that these arguments are not satisfactory to everyone (Lee
+and Radford, 2008; Pollack, 2005). The presented pricing strategy for an Avastin
+formulation approved for intraocular use in neovascular AMD fundamentally differs
+from the price evaluation strategies used by the pharmaceutical industry for newly
+approved drugs under patent protection. Drug prices are most commonly based on
+costs for research and development, production, marketing and sales plus two
+variables: profit margin and accruals for the company’s unsuccessful drugs that never
+reached the market. The pharmaceutical industry estimates the cost of bringing a new
+drug to the market currently at e800 million ($1.1billion). Profit margins can be
+estimated, but accruals for unsuccessful drugs are impossible to estimate. For market
+leaders and blockbusters like Lucentis or Avastin (cancer treatment) these accruals are
+above average.
+The concept of presented price analysis is based on the finding that the market of
+anti-VEGF drugs in ophthalmology is more competitive than expected. The off-label
+status of a drug regarding a specific indication is a limiting factor but clearly does not
+exclude a drug from the market. In this market situation, the AMD specialists is seen
+as the central part of the buying center and as the mediator within the network of
+patients, pharmaceutical industry, insurance companies and health care authorities.
+Based on these findings the AMD specialists are addressed in the price analysis.
+To find an acceptable price range from the perspective of AMD specialists, the
+van Westendorp PSM method was chosen. This tool is commonly used by marketing
+specialists. It aims to find an acceptable price range rather than a specific price for a
+product in open, unregulated markets. The OPP for the ophthalmic Avastin
+formulation, the point where the resistance to buy is the lowest, was at e95 ($131). This
+is about eight times the current Avastin price when used off-label. Estimated sales in
+
+Figure 4.
+van Westendorp PSM
+
+
+[page 12]
+Table II.
+Estimated sales (2007)
+for Avastinw formulation
+potentially approved
+for wet AMD
+4.3
+4.3
+4.3
+4.3
+4.3
+4.3
+4.3
+
+Estimated total
+sales (e) 2007 (Mio)
+, 0.6 , 1.5
+, 4.7 , 12
+, 7.1 , 18
+, 10 , 25
+, 15 , 29
+, 16 , 39
+, 23 , 46
+
+Drug price (e)
+, 12 (3 mg from 400 mg vial)
+95
+95
+200
+200
+310
+310
+
+Notes: OPP, optimal price point; IPP, indifference price point; MAX. PR, maximum of acceptable price range; TX, treatment; maximum and minimum
+number of new cases with neovascular AMD in Germany per year
+
+Base case
+5,800 14,500 5,800 14,500
+OPP (29 percent market share)
+5,800 14,500 5,800 14,500
+OPP (58 percent market share)
+11,600 29,000 5,800 14,500
+IPP (29 percent market share)
+5,800 14,500 5,800 14,500
+IPP (58 percent market share)
+11,600 29,000 5,800 14,500
+MAX. PR (29 percent market share) 5,800 14,500 5,800 14,500
+MAX. PR (29 percent market share) 11,600 29,000 5,800 14,500
+
+No. of
+patients
+started TX in
+Mean number (per year)
+2006
+Min
+Max
+of TX 1st and 2nd year
+
+68
+
+Avastinw
+
+No. of patients
+started TX in
+2007
+Min
+Max
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+IJPHM
+3,1
+
+
+[page 13]
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+Germany based on the OPP could reach about e16 million ($22 million) per year, in case
+of an incidence of wet AMD of 50,000 per year and a doubling of the current market
+share. The IPP according the survey was at e200 ($276). Transferring assumptions for
+incidence of wet AMD and market share from the OPP to the IPP would lead to sales of
+e29 million ($40 million) per year. The acceptable price range was found to be between
+e90 ($124) and e310 ($428). At the upper limit of the acceptable price range, the point of
+marginal expensiveness, sales would increase to e45 million ($62 million) under the
+conditions described above for OPP and IPP.
+The price range resulting from the presented study can be interpreted from different
+perspectives. On the one hand, it reflects the value of such therapy from the perspective
+of an AMD specialist. On the other hand, it could show the monetary value of reducing
+legal costs and reimbursement risks to AMD specialists by approving Avastin for wet
+AMD. But, most likely it is a price compromise taking into account interests of all parts
+of the buying center.
+Major disadvantages of the van Westendorp PSM method used in the survey are
+according to the literature inconsistent answers to the four questions in up to
+20 percent. In addition, the price focused questions could lead to too low prices (Lyon,
+2002). To limit especially the underestimation of prices monadic tests asking a single
+buy (yes or no) question are usually favored. However, monadic testing requires a
+relatively narrow price focus and a large number of interviewees. Neither is the case in
+the presented situation. The price range of comparable anti-VEGF drugs ranges from
+e12 ($16.60) to e1,500 ($2,070) and the overall potentially accessible number of AMD
+specialists in Germany was limited. Following the van Westendorp PSM a monadic
+testing could be performed based on the findings in this survey and within a larger
+international community of AMD specialists.
+The study has further limitations. There is lack of precise data on the number of
+new wet AMD cases in Germany per year, requiring estimates on a maximum and
+minimum incidence. The number of treatments per year for each AMD drug is based
+on selected studies and may not reflect daily clinical routine. Furthermore, patients lost
+in follow-up and requiring treatment for more than two years are not taken into
+account.
+In the longer term, an approved Avastin formulation for the intraocular treatment of
+wet AMD could be of advantage for all stakeholders. More patients, especially when
+taking a broader, international perspective, would gain access to an effective
+anti-VEGF therapy, not only for the treatment of neovascular AMD, but potentially
+also for the treatment of other frequent neovascular/exudative ocular diseases such as
+diabetic retinopathy/maculopathy or retinal vessel occlusions.
+It is difficult to predict the outcome of a comparable survey in the USA, the largest
+pharmaceutical market in the world. There is however some rationale that the price
+range for an Avastin formulation potentially approved for the treatment of “wet” AMD
+by the FDA would be lower. Reasons for this assumption are the large percentage of
+AMD specialist in the USA using Avastin for “wet” AMD, the reimbursement of
+Avastin for “wet” AMD by Medicare and the large “Comparison of Age-related
+macular degeneration Treatment Trials” comparing directly Avastin to Lucentis.
+Genentech’s efforts to stop the intraocular use of Avastin by “Dear doctor letters”
+indicating that Avastin is dangerous to be used in the eye and by threatening
+compounding pharmacies (splitting of Avastin into small doses) with Avastin delivery
+
+Price analysis
+for Avastinw
+
+69
+
+
+[page 14]
+IJPHM
+3,1
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+70
+
+stoppages, are likely to reduce the price range. The authors consider scenarios based
+on the current situation:
+.
+The pharmaceutical industry decides to pursue an approval process of Avastin
+for neovascular AMD in Germany and other countries outside the USA. It is
+likely that a slightly modified Avastin formulation will be proposed to justify an
+increase in sales price. It appears possible that an Avastin formulation for
+ophthalmic use could be sold for e200-310 ($276-428) according to the survey.
+Sales in Germany could be at the range of e40 million per year. Regulatory
+agencies could potentially accept an accelerated approval process not only for
+neovascular AMD but also for other neovascular/exudative ocular diseases. The
+sales price for Lucentis will be reduced to maintain a relevant market share.
+.
+The pharmaceutical industry decides against an approval process for Avastin
+for the treatment of neovascular AMD. Several European countries will initiate
+an approval process against the interest of the industry. In Italy, such an
+approval process has already taken place. The German Minister of Health has
+considered such a process. She is gaining support for this strategy from health
+care insurance companies. Owing to the low price (e12/$16.60), sales of Avastin
+for ophthalmic use will be in the range of e1.6 million ($2.2 million) in Germany
+per year. Lucentis will almost disappear from the market. The future incentive
+for the pharmaceutical industry to bring new drugs for neovascular AMD into
+the markets will be reduced.
+.
+Neither the pharmaceutical industry nor governmental agencies pursue an
+approval process for ophthalmic use. This represents more or less the current
+situation. The use of Avastin will depend on further trials comparing Avastin
+and Lucentis, on reimbursement strategies by insurance companies and
+potentially on court rulings. If the situation in Germany is similar to the USA,
+Lucentis sales will slowly decrease whereas Avastin sales will increase.
+Sanctions against German compounding pharmacies by the pharmaceutical
+industry will have – as in the USA – little effect.
+The price setting strategy, presented in this case may be a useful way to find an
+acceptable price range for a new, innovative drug in a presumably regulated, but in
+reality competitive market with large price spreads.
+References
+Aiello, L.P., Pierce, E.A., Foley, E.D., Takagi, H., Chen, H., Riddle, L., Ferrara, N., King, G.L. and
+Smith, L.E. (1995), “Suppression of retinal neovascularization in vivo by inhibition of
+vascular endothelial growth factor (VEGF) using soluble VEGF-receptor chimeric
+proteins”, Proceedings of the National Academy of Sciences USA, Vol. 92, pp. 10457-61.
+Algvere, P.V., Steen, B., Seregard, S. and Kvanta, A. (2008), “A prospective study on intravitreal
+bevacizumab (Avastin) for neovascular age-related macular degeneration of different
+durations”, Acta Ophthalmologica Scandinavica, Vol. 86 No. 5, pp. 482-9.
+Allen, T. and Maybin, K. (2004), “Using focus group data to set new product prices”, Journal of
+Product & Brand Management, Vol. 13, pp. 15-24.
+Bashshur, Z.F., Haddad, Z.A., Schakal, A., Jaafar, R.F., Saab, M. and Noureddin, B.N. (2008),
+“Intravitreal bevacizumab for treatment of neovascular age-related macular degeneration:
+a one-year prospective study”, American Journal of Ophthalmology, Vol. 145, pp. 249-56.
+
+
+[page 15]
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+Bashshur, Z.F., Schakal, A., Hamam, R.N., El Haibi, C.P., Jaafar, R.F. and Noureddin, B.N. (2007),
+“Intravitreal bevacizumab vs verteporfin photodynamic therapy for neovascular
+age-related macular degeneration”, Archives of Ophthalmology, Vol. 125, pp. 1357-61.
+Bressler, N.M. (2001), “Photodynamic therapy of subfoveal choroidal neovascularization in
+age-related macular degeneration with verteporfin: two-year results of 2 randomized
+clinical trials-tap report 2”, Archives of Ophthalmology, Vol. 119, pp. 198-207.
+Buch, H. (2005), “Fourteen-year incidence of age-related maculopathy and cause-specific
+prevalence of visual impairment and blindness in a Caucasian population: the Copenhagen
+city eye study”, Acta Ophthalmologica Scandinavica, Vol. 83, pp. 5-32.
+Chakravarthy, U., Adamis, A.P., Cunningham, E.T. Jr, Goldbaum, M., Guyer, D.R., Katz, B. and
+Patel, M. (2006), “Year two efficacy results of two randomized controlled clinical trials of
+pegaptanib for neovascular age-related macular degeneration”, Ophthalmology, Vol. 113,
+pp. 1508 e1-25.
+D’Amico, D.J., Masonson, H.N., Patel, M., Aadamis, A.P., Cunningham, E.T. Jr, Guyer, D.R. and
+Katz, B. (2006), “Pegaptanib sodium for neovascular age-related macular degeneration:
+two-year safety results of the two prospective, multicenter, controlled clinical trials”,
+Ophthalmology, Vol. 113, pp. 992-1001 e6.
+de Jong, P.T. (2006), “Age-related macular degeneration”, New England Journal of Medicine,
+Vol. 355, pp. 1474-85.
+Draeger, R. (2000), “Measuring and analyzing price sensitivity by level of product usage”, Journal
+of Professional Pricing, available at: http://members.pricingsociety.com/articles/
+Measuring-and-Analyzing-Price-Sensitivity-by-Level-of-Product-Usage.pdf (accessed
+October 24, 2008).
+Friedman, D.S., O’Colmain, B.J., Munoz, B., Tomany, S.C., McCarty, C., de Jong, P.T.,
+Nemesure, B., Mitchell, P. and Kempen, J. (2004), “Prevalence of age-related macular
+degeneration in the United States”, Archives of Ophthalmology, Vol. 122, pp. 564-72.
+Fung, A.E., Lalwani, G.A., Rosenfeld, P.J., Dubovy, S.R., Michels, S., Feuer, W.J., Puliafito, C.A.,
+Davis, J.L., Flynn, H.W. Jr and Esquiabro, M. (2007), “An optical coherence
+tomography-guided, variable dosing regimen with intravitreal ranibizumab (Lucentis)
+for neovascular age-related macular degeneration”, American Journal of Ophthalmology,
+Vol. 143, pp. 566-83.
+Gragoudas, E.S., Aadamis, A.P., Cunningham, E.T. Jr, Feinsod, M. and Guyer, D.R. (2004),
+“Pegaptanib for neovascular age-related macular degeneration”, New England Journal of
+Medicine, Vol. 351, pp. 2805-16.
+Klaver, C.C., Wolfs, R.C., Vingerling, J.R., Hofman, A. and de Jong, P.T. (1998), “Age-specific
+prevalence and causes of blindness and visual impairment in an older population: the
+Rotterdam study”, Archives of Ophthalmology, Vol. 116, pp. 653-8.
+Lee, A.C. and Radford, J. (2008), “The ranibizumab saga of drug profiteering”, British Medical
+Journal, Vol. 337, p. 1532.
+Leydolt, C., Michels, S., Prager, F., Garhoefer, G., Georgopoulos, M., Polak, K. and
+Schmidt-Erfurth, U. (2008), “Effect of intravitreal bevacizumab in neovascular
+age-related macular degeneration using an OCT-based treatment regimen: six and
+twelve months results”, Acta Ophthalmologica Scandinavica (in press).
+Lyon, D.W. (2002), “The price is right”, Marketing Research, Vol. 4, pp. 8-13.
+Michels, S., Rosenfeld, P.J., Puliafito, C.A., Marcus, E.N. and Venkatraman, A.S. (2005), “Systemic
+bevacizumab (Avastin) therapy for neovascular age-related macular degeneration
+twelve-week results of an uncontrolled open-label clinical study”, Ophthalmology,
+Vol. 112, pp. 1035-47.
+
+Price analysis
+for Avastinw
+
+71
+
+
+[page 16]
+IJPHM
+3,1
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+72
+
+Moshfeghi, A.A., Rosenfeld, P.J., Puliafito, C.A., Michels, S., Marcus, E.N., Lenchus, J.D. and
+Venkatraman, A.S. (2006), “Systemic bevacizumab (Avastin) therapy for neovascular
+age-related macular degeneration: twenty-four-week results of an uncontrolled open-label
+clinical study”, Ophthalmology, Vol. 113, pp. 2002 e1-12.
+Ozaki, H., Hayshi, H., Vinores, S.A., Moromizato, Y., Campochiaro, P.A. and Oshima, K. (1997),
+“Intravitreal sustained release of VEGF causes retinal neovascularization in rabbits and
+breakdown of the blood-retinal barrier in rabbits and primates”, Experimental Eye
+Research, Vol. 64, pp. 505-17.
+PDT (2007), “PDT/Visudynew user list”, available at: www.augeninfo.de/listen/pdt-anw.pdf
+(accessed October 24, 2008).
+Pollack, A. (2005), “Genentech on competition with itself on eye drug”, The New York Times,
+available at: www.nytimes.com/2005/09/27/business/27place.html?pagewanted ¼ print
+(accessed October 24, 2008).
+Rosenfeld, P.J., Fung, A.E. and Puliafito, C.A. (2005), “Optical coherence tomography findings
+after an intravitreal injection of bevacizumab (avastin) for macular edema from central
+retinal vein occlusion”, Ophthalmic Surgery, Lasers and Imaging, Vol. 36, pp. 336-9.
+Rosenfeld, P.J., Moshfeghi, A.A. and Puliafito, C.A. (2005), “Optical coherence tomography
+findings after an intravitreal injection of bevacizumab (avastin) for neovascular
+age-related macular degeneration”, Ophthalmic Surgery, Lasers and Imaging, Vol. 36,
+pp. 331-5.
+Rosenfeld, P.J., Brown, D.M., Heier, J.S., Boyer, D.S., Kaiser, P.K., Chung, C.Y. and Kim, R.Y.
+(2006), “Ranibizumab for neovascular age-related macular degeneration”, New England
+Journal of Medicine, Vol. 355, pp. 1419-31.
+Schouten, J.S., La Heij, E.C., Webers, C.A., Lundqvist, I.J. and Hendrikse, F. (2009), “A systematic
+review on the effect of bevacizumab in exudative age-related macular degeneration”,
+Graefe’s Archive for Clinical and Experimental Ophthalmology, Vol. 247 No. 1, pp. 1-11.
+Schrader, W.F. (2006), “Age-related macular degeneration: a socioeconomic time bomb in our
+aging society”, Ophthalmologe, Vol. 103, pp. 742-8.
+Spilsbury, K., Garrett, K.L., Shen, W.Y., Constable, I.J. and Rakoczy, P.E. (2000), “Overexpression
+of vascular endothelial growth factor (VEGF) in the retinal pigment epithelium leads to the
+development of choroidal neovascularization”, American Journal of Pathology, Vol. 157,
+pp. 135-44.
+Statistisches Bundesamt (2006), “Gesundheit: Ausgaben, Krankheitskosten und Personal 2004”,
+available at: www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pk/
+2006/Gesundheit/Pressebroschuere,property ¼ file.pdf (accessed October 24, 2008).
+Treatment of age-related macular degeneration with photodynamic therapy (TAP) Study Group
+(1999), “Photodynamic therapy of subfoveal choroidal neovascularization in age-related
+macular degeneration with verteporfin: one-year results of two randomized clinical trials –
+TAP report”, Archives of Ophthalmology, Vol. 117, pp. 1329-45.
+van Leeuwen, R., Klaver, C.C., Vingerling, J.R., Hofman, A. and de Jong, P.T. (2003), “The risk and
+natural course of age-related maculopathy: follow-up at 6 1/2 years in the Rotterdam
+study”, Archives of Ophthalmology, Vol. 121, pp. 519-26.
+van Westendorp, P.H. (1976), “NSS – price sensitivity meter (PSM) – a new approach to study
+consumer perception on price”, Proceedings of the ESOMAR Congress, Venice, Italy.
+Vlosky, R.P., Ozanne, L.K. and Fontenot, R.J. (1999), “A conceptual model of US consumer
+willingness-to-pay for environmentally certified wood products”, Journal of Consumer
+Marketing, Vol. 16, pp. 116-7.
+
+
+[page 17]
+Weigert, G., Michels, S., Sacu, S., Varga, A., Prager, F., Geitzenauer, W. and Schmidt-Erfurth, U.
+(2008), “Intravitreal bevacizumab (Avastin) therapy versus photodynamic therapy plus
+intravitreal triamcinolone for neovascular age-related macular degeneration: 6-month
+results of a prospective, randomised, controlled clinical study”, British Journal of
+Ophthalmology, Vol. 92, pp. 356-60.
+Williams, B. (1998), “Angiotensin II, VEGF, and diabetic retinopathy”, Lancet, Vol. 351, pp. 837-8.
+
+Price analysis
+for Avastinw
+
+Downloaded by Nanyang Technological University At 12:52 06 May 2016 (PT)
+
+73
+About the authors
+Stephan Michels, MD, MBA, is an Assistant Professor at the Department of Ophthalmology at
+the University of Zurich, Switzerland. Together with Dr Malaika Kurz-Levin, he heads the
+Medical Retina Department. He studied medicine in Germany, France, Italy and the USA before
+completing his residency in Ophthalmology at the University of Lübeck (Germany). His medical
+retina fellowship with Professor Philip J Rosenfeld at the Bascom Palmer Eye Institute in Miami
+(USA) was supported by the German Research Foundation (DFG). In 2007, he became an
+Assistant Professor in Ophthalmology at the Medical University of Vienna (Austria) before
+accepting his current position in Zurich. In 2008, he completed an executive MBA at the
+University of St Gallen. He has published more than 50 papers in peer-reviewed journals mostly
+on the treatment of age-related macular degeneration (AMD). Stephan Michels is the
+corresponding author and can be contacted at: stephan.michels@usz.ch
+Malaika Kurz-Levin, MD, is Co-head of Medical Retina at the Department of Ophthalmology
+at the University of Zurich, Switzerland. She completed medical school in Zurich Switzerland and
+completed her Residency in Ophthalmology at the Department of Ophthalmology at the
+University of Zurich, Switzerland. She then had a two-year fellowship in Medical Retina with
+Professor Alan Bird at Moorfields Hospital in London (UK). She subsequently became Faculty
+member at the Department of Ophthalmology at the University of Zurich and was Head of
+Medical Retina, a position shared since 2007 with PD Dr Michels. Her research focus is on AMD
+and diabetic retinopathy.
+Christian Schmitz is an Assistant Professor of Marketing at the Institute of Marketing,
+University of St Gallen in Switzerland. Of German origin, he studied Economics and Business
+Administration at the University of Duisburg (Germany), at the Catholic University of Eichstaett
+(Germany) and the European Business School London (UK). His doctoral thesis examined
+working relationships among manufacturers and international distributors. Recent research
+topics are sales management, personal selling, industrial marketing, and pricing decisions.
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+

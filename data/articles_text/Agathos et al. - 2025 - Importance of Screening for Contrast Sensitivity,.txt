@@ -1,0 +1,1419 @@
+[page 1]
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does
+not imply endorsement of, or agreement with, the contents by NLM or the National Institutes
+of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Am J Ophthalmol. Author manuscript; available in PMC: 2025 Sep 26.
+Published in final edited form as: Am J Ophthalmol. 2025 Aug 31;280:481–492. doi: 10.1016/j.ajo.2025.08.051
+
+Importance of screening for contrast sensitivity, falls, and mobility
+limitations in older adults with maculopathy
+Catherine P Agathos 1,a, Natela M Shanidze 1, Donald C Fletcher 1
+Author information Article notes Copyright and License information
+PMCID: PMC12462652 NIHMSID: NIHMS2111896 PMID: 40889625
+The publisher's version of this article is available at Am J Ophthalmol
+
+Abstract
+Objective:
+Assess the potential value of adding questions on falls/balance difficulties due to vision loss and testing
+contrast sensitivity in patients with maculopathy (mainly age-related macular degeneration, AMD) to
+help guide referral for mobility rehabilitation.
+
+Design:
+Cross-sectional study.
+
+
+[page 2]
+Participants:
+125 patients over 55 years old with binocular maculopathy and intact peripheral vision presenting for a
+low vision rehabilitation consultation.
+
+Methods:
+Patients were asked questions regarding difficulties with their balance and mobility, including the 9-item
+Glaucoma Activity Limitation questionnaire (GAL-9). For analysis, patients were grouped by visual
+impairment severity using better-eye visual acuity (VA) and binocular contrast sensitivity (CS).
+
+Main Outcome Measures:
+Visual function, self-reported balance and mobility difficulties, falls history, and rehabilitation referrals
+were examined across visual impairment severity groups.
+
+Results:
+52% of patients reported balance or gait difficulties and 36% attributed mobility limitations to vision
+loss. Increasing vision deficit severity related to greater mobility concerns (>50% of patients in the
+severe categories rated difficulty as 3/5 or higher) and higher referral rates. Scores on the GAL-9
+increased with greater vision loss and were predicted by contrast sensitivity, female sex, larger relative
+scotomata and falls history (R2 = 0.45, p < 0.0001). CS was a better predictor of mobility difficulties
+than VA. Based on reported concerns, 31.2% of patients were referred to orientation and mobility
+training and/or physical therapy (>50% in the severe groups).
+
+Conclusions:
+Mobility limitations and falls affect a substantial proportion of AMD patients yet may go undiscussed in
+eye clinics. Incorporating screening questions and explicit discussion of mobility difficulties in clinical
+practice in maculopathy can help elucidate patient mobility limitations. Realization of these limitations is
+the prerequisite to initiate appropriate referrals to low vision and mobility specialists to improve mobility
+and manage falls risk. Clinical practice may also benefit from assessment of contrast sensitivity as this is
+a better indicator of difficulties in daily living. Our results, along with prior literature, underscore the
+need to recognize the role of central vision loss, and vision loss more broadly, in mobility decline. Thus, a
+
+
+[page 3]
+central vision loss-specific mobility questionnaire may be needed to facilitate patient screening in the
+future.
+Keywords: central field loss, age-related macular degeneration, screening, falls, mobility, aging, contrast
+
+sensitivity
+
+Introduction
+Falls are a major and growing concern as they are the second leading cause of unintentional injury
+deaths worldwide1 and the mortality rate of falls in individuals over 65 is increasing2. Falls among older
+adults are dangerous and costly: in the US alone, falls-related costs are projected to increase to $100
+billion by 20303.
+Visual impairment impacts mobility, increases fall risk, and is most prevalent among older adults4–6. Age related visual impairments due to peripheral retinal damage, (e.g., glaucoma), are considered significant
+contributors to mobility limitations7,8 given that peripheral vision is important for motion perception9,10,
+spatial orientation11, and balance and locomotion12,13. The association between falls and central visual
+impairment (e.g., age-related macular degeneration, AMD), however, is less emphasized clinically14,15,
+despite a body of work revealing mobility difficulties16–21, increased fall risk22–24 and fall-related
+anxiety25–28 in these patients, all of which reduce quality of life, and increase incidence of depression
+and mortality29. AMD is typically associated with and assessed in terms of loss of high acuity vision30–33,
+as patients usually notice visual impairment when they experience difficulty with high-acuity tasks34. As
+a result, these tasks represent primary complaints35 and falls are typically not considered a priority in
+AMD care36. Additionally, although central visual field loss is associated with decline in contrast
+sensitivity34,37, which is important for successful performance of daily tasks including balance and
+mobility19,38–46, standard clinical practice for maculopathy does not include contrast sensitivity
+assessment47. Given that AMD is the most common cause of irreversible age-related visual impairment in
+industrialized countries48, affecting nearly 200 million individuals worldwide49 and increasing with the
+aging population50; failure to systematically consider its effects on balance and mobility can lead to
+significant consequences for the autonomy, safety, and longevity of this population.
+This study aimed to assess the potential value of a short falls/balance and mobility screening during low
+vision consultations for the management of central visual field loss. Additionally, given the lack of a
+central field loss-specific equivalent, we used the Glaucoma Activity Limitation questionnaire (GAL-951)
+to further probe patients’ mobility difficulties. Finally, in addition to assessing patients’ self-reports of
+balance and mobility concerns relative to the severity of their vision loss, we also report resultant patient
+referral rates for mobility rehabilitation.
+
+
+[page 4]
+Methods
+Participants
+This cross-sectional study was reviewed by the Smith-Kettlewell Eye Research Institute’s (SKERI)
+Institutional Review Board (IRB) and conforms with the the tenets of the declaration of Helsinki and the
+Health Insurance Portability and Accountability Act (HIPAA) regulations. Questionnaire, visual function,
+and demographic data were collected for 125 patients with maculopathy (26 males) who visited DCF’s
+clinical practice at the Bicknell Envision Vision Rehabilitation Center in Wichita, KS over a one-year
+period. Inclusion criteria were the presence of binocular maculopathy and an intact peripheral visual
+field. Participants represent patients who were referred to DCF’s clinic for low vision rehabilitation. Male
+and female sex was defined as having one or two X chromosomes respectively; in our sample, all
+participants had no more than two sex chromosomes. Prior to the start of their appointment, patients
+were asked for their consent to be asked additional (mobility-related) questions and for de-identified
+data collected during the appointment to be used for research and shared with the study team. All
+patients invited to participate agreed to do so. All patients with glaucoma, retinitis pigmentosa,
+neurological vision loss, diabetic retinopathy, or other peripheral vision loss were excluded. Patients
+presenting with other concomitant eye pathologies such as retinal vascular occlusions, cataracts, or other
+ocular media opacities were also excluded. Out of 125 patients, 9 had hereditary maculopathy
+(Stargardt’s disease) and the other 116 presented with age-related macular degeneration. Maculopathy
+was confirmed via macular perimetry using the Scanning Laser Ophthalmoscope (MAIA, CenterVue,
+Fremont, CA, USA) monocularly in each eye. Intact peripheral visual fields were confirmed using
+confrontation visual field testing and medical history.
+
+Visual function testing and visual impairment severity grouping
+Visual acuity (VA) was measured monocularly in each eye, with habitual correction, using the ETDRS
+chart at 0.5, 1.0, or 2.0 meters (according to individuals’ abilities). Contrast sensitivity (CS) was
+measured binocularly, with habitual correction, at 30 cm using the LEA symbols test52, which provides
+figures between 25% and 0.6% contrast in six increments with score equivalents of 0.6 to 2.2 logCS. The
+LEA test is used in DCF’s clinical practice as it does not require familiarity with the roman alphabet, thus
+accommodating a wide range of ages and linguistic backgrounds. The California Central Visual Field Test
+(CCVFT)53 was used to estimate dense and relative binocular scotoma sizes. Horizontal and vertical
+scotoma diameters were averaged.
+
+
+[page 5]
+We examined questionnaire responses against vision metrics along a continuum and by grouping
+individuals according to visual impairment severity. Visual impairment severity as defined by the
+International Classification of Diseases (ICD) is based on visual acuity of the better eye and influences
+patient care and eligibility for benefits/legal rights. Given contrast sensitivity’s higher relevance to
+mobility and daily living tasks19,38–46, we also categorized visual impairment severity based on binocular
+CS. For VA-based grouping, we used standard WHO ICD-11 cutoffs54 of mild: VA < 0.54 logMAR (<
+20/70), moderate: VA = 0.54 – 1.0 logMAR (20/70 to 20/200), and severe acuity vision loss: VA >1.0
+logMAR (>20/200). For contrast sensitivity-based grouping, we classified our participants based on
+prior work55; mild: CS ≥ 1.6 logCS (≤2.5% contrast), moderate: 1.30 logCS (5%), and severe contrast
+vision loss: CS ≤1.0 logCS (≥10%).
+
+Mobility-related Questions and Referrals
+Patients were asked general questions relating to their mobility and balance (Table 2, G1–5), followed by
+nine questions pertaining to activity-specific task scenarios (GAL-951), to which participants reported
+their degree of difficulties on a 5-point Likert scale (Table 2, Q1–9). We chose the GAL-9 given its focus
+on mobility scenarios in daily life for visually impaired individuals (albeit with glaucoma), and its short
+length – key consideration for an in-consultation screening tool. While the GAL-9 was developed for
+peripheral vision loss, most mobility concerns it assesses are common across low vision. We used this
+tool to highlight mobility-related issues often overlooked in individuals with maculopathies in the clinic.
+Developing and validating a maculopathy-specific analog to the GAL-9 was beyond the scope of the
+current study.
+
+
+[page 6]
+Table 2.
+Balance- and mobility-related questions used in the study
+Question
+
+Response Format
+
+G1
+
+How many times have you fallen in
+the past 12 months?
+
+# of falls
+
+G2
+
+Do you have problems with balance
+or gait?
+(e.g.., decreased balance or difficulty
+
+Yes/No
+
+walking etc.)
+G3
+
+Do you have mobility problems
+because of your vision?
+
+G4
+
+Yes/No
+
+Do you have mobility problems for
+other reasons?
+(i.e., do you have issues with moving Yes/No
+around that are not related to vision,
+e.g., arthritis)
+
+G5
+
+Have you received O&M training?
+
+Yes/No
+
+How much difficulty does your vision give you, even with glasses, with the following
+activities?
+①
+
+None ② A little ③ Some ④ Quite a lot ⑤ Severe
+
+Q1
+
+Walking after dark/dusk
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Q2
+
+Seeing at night
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Q3
+
+Walking on uneven ground
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Q4
+
+Adjusting to dim lights
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Q5
+
+Going from light to dark room and
+①
+
+②
+
+③
+
+④
+
+⑤
+
+vice versa
+Q6
+
+Seeing objects come from the side
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Q7
+
+Walking on steps/stairs
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Q8
+
+Judging distance of foot to step/curb
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+
+[page 7]
+Q9
+
+Question
+
+Response Format
+
+Finding dropped objects
+
+①
+
+②
+
+③
+
+④
+
+⑤
+
+Open in a new tab
+
+As part of DCF’s standard practice, all patients are referred to occupational therapy (OT). Referrals to
+orientation and mobility training (O&M) and/or physical therapy (PT) were made on a case-by-case
+basis for patients with significant mobility/balance complaints, and considering their insurance coverage
+and other factors influencing their ability to follow-up with the referral (e.g., transportation).
+
+Analysis
+This study’s outcomes measures were patients’ responses on the falls and mobility questionnaires (Table
+2) and whether they obtained referrals. All outcomes were examined across the entire patient sample
+and grouped by visual impairment severity. The total score of responses on the GAL-9 was also examined
+in relation to the covariates of age, sex, visual function metrics, and number of falls. The GAL-9 total
+score was calculated as the sum of individual question scores (thus with a maximum score of 45). Self reports on falls, balance, and mobility difficulties were examined in terms of frequency. Statistical
+relationships were examined using Spearman correlations. Normality was tested using the Shapiro-Wilk
+test. We used a generalized linear model of the GAL-9 total score with age, sex, visual acuity in the better
+and worse eye, binocular contrast sensitivity, binocular relative and dense scotoma size estimates, and
+number of falls (G1, Table 2) as the initial set of predictor variables to identify key factors in mobility
+limitations of our participant sample (Full Model in Table 3). The model was optimized using Akaike
+information criterion (AIC) estimation and retaining variables that did not present high collinearity
+(Preferred Model in Table 3). Alpha level was set at 0.05. All statistical analyses were performed using
+Prism 10 software (GraphPad Software, LLC, Boston, USA).
+
+
+[page 8]
+Table 3.
+Linear regression model results for the full and simplified (preferred) models.
+
+Predictor
+
+F (DFn, DFd)
+
+Estimate
+(β)
+
+F (8, 116) =
+Intercept
+
+12.84
+
+29.80
+
+(regression)
+Age
+Visual Acuity
+
+12.84
+
+29.80
+
+VIF
+
+15.96 to
+
+<0.0001
+
+43.64
+−0.259 to
+0.005
+−2.625 to
+
+P-value
+
+1.189
+
+0.0594
+
+1.716
+
+0.5926
+
+F (1, 116) = 3.63
+
+−0.127
+
+F (1, 116) = 0.29
+
+0.975
+
+−2.588 to
+6.035
+
+1.918
+
+0.4302
+
+F (1, 116) = 0.63
+
+1.723
+
+−10.09 to
+−2.777
+
+2.244
+
+0.0007
+
+F (1, 116) =
+12.14
+
+−6.434
+
+−1.097 to
+−0.028
+
+9.031
+
+0.0393
+
+Binocular
+F (1, 116) = 4.35
+Relative Scotoma
+
+−0.563
+
+0.196 to
+1.012
+
+8.647
+
+0.0041
+
+Falls 12 months
+
+0.604
+
+1.022
+
+0.0030
+
+1.125
+
+0.0001
+
+(better eye)
+Visual Acuity
+(worse eye)
+Full model Contrast
+Sensitivity
+
+Binocular Dense
+Scotoma
+
+X chromosomes
+
+F (1, 116) = 8.59
+F (1, 116) =
+15.50
+
+5.449
+
+F (5, 119) =
+
+Preferred
+Model
+
+F (8, 116) =
+
+95% CI
+
+Intercept
+
+19.44
+
+31.20
+
+(regression)
+Age
+Contrast
+Sensitivity
+
+F (1, 119) = 1.88
+
+−0.088
+
+F (1, 119) =
+23.78
+
+−7.580
+
+4.575
+
+0.359 to
+1.706
+2.708 to
+8.191
+18.58 to
+
+<0.0001
+
+43.82
+−0.216 to
+0.039
+−10.66 to
+−4.503
+
+1.093
+
+0.1734
+
+1.573
+
+<0.0001
+
+
+[page 9]
+Predictor
+
+Binocular
+Relative Scotoma
+Falls 12 months
+X chromosomes
+
+F (DFn, DFd)
+
+Estimate
+(β)
+
+F (1, 119) = 6.47
+
+0.232
+
+F (1, 119) =
+10.08
+F (1, 119) =
+15.62
+
+1.077
+5.382
+
+95% CI
+
+0.0513 to
+0.412
+0.405 to
+1.749
+2.685 to
+8.078
+
+VIF
+
+P-value
+
+1.667
+
+0.0123
+
+1.005
+
+0.0019
+
+1.076
+
+0.0001
+
+Open in a new tab
+
+Full model: DF = 116; R2 = 0.47; Probability Correct = 23.7%.
+Preferred Model: DF = 119; R2 = 0.45; Probability Correct = 76.3%; AICc Difference = −2.34.
+
+DFn/DFd: degrees of freedom numerator/denominator; CI: confidence interval; VIF: variance
+inflation factor
+
+Results
+Patient Characteristics
+125 patients participated in this study, including 26 males. Participant ages ranged from 56 to 98 years
+(average: 80.6 ± 8.7). There were no sex differences in terms of age (Kolmogorov-Smirnov test,
+p=0.14) and number of falls in the past year (Fisher’s exact test, p=0.43). Summary visual function data
+are presented in Table 1 along with demographics for the entire sample and according to severity of
+visual impairment. In our sample, 30.4% of patients had mild, 47.2% had moderate, and 22.4% had
+severe deficit, as defined by visual acuity. Grouping by contrast sensitivity, 31.2% of participants had
+mild deficitb, 46.4% had moderate, and 22.4% had severe vision deficit. The proportion of patients
+grouped in the same level of visual impairment severity based on VA and CS was 59% in the mild, 60.3%
+in the moderate, and 42.9% in the severe category. There were no age differences between categories for
+either grouping (one-way ANOVA, p>0.2).
+
+
+[page 10]
+Table 1.
+Summary demographics and visual function data for all patients and grouped by visual
+impairment severity using visual acuity (VA) and contrast sensitivity (CS).
+
+Age
+
+Years
+
+since
+(years)
+diagnosis
+
+VA in
+
+VA in
+
+better
+
+worse
+
+eye
+eye
+(logMAR) (logMAR)
+
+Dense
+
+Relativ
+
+Binocular CS Scotoma Scotom
+(log(CS))
+
+Diameter Diamet
+(°)
+(°)
+
+Total
+
+N=125
+
+80.6 ±
+1.8 ± 1.7
+8.7
+
+0.75 ±
+0.34
+
+1.21 ±
+0.38
+
+N=38
+
+80.3 ±
+
+0.39 ±
+
+1.06 ±
+
+(6M,
+
+8.3
+
+0.10
+
+0.51
+
+0.74 ±
+
+1.20 ±
+
+0.13
+
+0.30
+
+79.8 ±
+3.1 ± 2.4
+7.7
+
+1.25 ±
+0.16
+
+1.43 ±
+0.20
+
+N=39
+
+79.7 ±
+
+0.49 ±
+
+0.93 ±
+
+(7M,
+
+7.9
+
+0.21
+
+0.39
+
+0.83 ±
+
+1.29 ±
+
+0.30
+
+0.30
+
+(26 M,
+
+1.37 ± 0.43 5.0 ± 5.9 8.9 ± 7
+
+20.8%)
+Mild
+
+1.4 ± 0.8
+
+1.62 ± 0.41 2.3 ± 3.6 5.5 ± 4
+
+15.8%)
+Moderate
+VA Loss
+
+N=59
+
+81.2 ±
+
+(14M,
+23.7%)
+
+9.4
+
+1.5 ± 1.4
+
+1.37 ± 0.34 3.8 ± 4.7 7.5 ± 6
+
+Severe
+
+N=28
+(6M,
+
+1.04 ± 0.40
+
+11.4 ±
+6.3
+
+16.4 ±
+8.6
+
+21.4%)
+CS Loss
+
+Mild
+
+1.7 ± 1.6
+
+1.87 ± 0.26 1.8 ± 2.4 4.3 ± 3
+
+17.9%)
+Moderate
+
+N=58
+(14M,
+24.1%)
+
+81.5 ±
+8.7
+
+1.8 ± 1.3
+
+1.30 ± 0.00 5.4 ± 6.3 8.9 ± 7
+
+
+[page 11]
+Age
+(years)
+
+Years
+since
+diagnosis
+
+VA in
+better
+
+VA in
+worse
+
+Dense Relativ
+Binocular CS Scotoma Scotom
+
+eye
+
+eye
+
+(log(CS))
+
+(logMAR) (logMAR)
+
+Diameter Diamet
+(°)
+
+(°)
+
+Severe
+
+N=28
+(5M,
+
+80.2 ±
+9.8
+
+2.1 ± 2.3
+
+0.93 ±
+
+1.44 ±
+
+0.36
+
+0.30
+
+0.82 ± 0.27 8.8 ± 6.3
+
+15.4 ±
+7.8
+
+17.9%)
+Open in a new tab
+
+Mean values are provided with standard deviation. VA: visual acuity; CS: contrast sensitivity;
+M: male participants. Dense and relative scotoma size are binocular estimates based on the
+CCVFT53.
+
+Self-Reports of Falls, Balance, and Mobility Complaints
+41.6% of patients reported having at least one fall in the previous twelve months. The maximum
+reported number of falls was 10 (one participant), and the average was 1 fall/person within each
+severity group (regardless of classification type – VA or CS). Figure 1 A&B shows a detailed breakdown
+of the number of falls across the cohort (peach bars) and separated into the three severity groups. While
+there was a higher ratio of patients with severe impairment (teal) who had 2–4 falls, several participants
+in the mild (violet) and moderate (blue) groups had the highest number of falls in a year.
+
+
+[page 12]
+Figure 1. Patient reports of number of falls in the past twelve months and balance and
+mobility problems (C, D) for the total cohort (peach) and by disease severity based on
+visual acuity (A, C) and contrast sensitivity (B, D).
+
+Open in a new tab
+
+Fall frequency (A, B) was similar among groups, with the most recurrent fallers emerging in the
+mild (violet) and moderate (blue) groups. C, D: Percentage of patients reporting difficulties
+with balance and gait (Balance & Gait), and mobility due to their vision (Mobility Vision), due to
+other factors (Mobility Other), and their overlap (Mobility Both). Note that grouping by contrast
+
+
+[page 13]
+sensitivity (D) reveals a greater proportion of patients in the severe category (teal) reporting
+difficulties, compared to those in the mild (violet) and moderate (blue) categories.
+
+In our sample, 52% of patients reported having balance or gait problems (“Balance & Gait” in Figure 1,
+C&D). This incidence was closely maintained across severity groups when grouped by visual acuity of the
+better eye: 50.0% of participants in the mild, 52.5% in the moderate, and 53.6% in the severe
+impairment categories complained of balance or gait issues. When grouped by binocular contrast
+sensitivity, however, incidence of reported balance problems increased with severity: 38.5% in the mild;
+48.3% in the moderate, and 78.6% in the severe participant group.
+36% of patients reported mobility difficulties which they attributed to vision deficits (“Mobility Vision” in
+Figure 1C&D), compared to 31.3% with non-vision-related mobility difficulties (“Mobility Other” in
+Figure 1C&D), with a 19.1% overlap (“Mobility Both” in Figure 1C&D). When grouped by VA, 23.7% in
+the mild, 33.9% in the moderate, and 57.1% in the severe groups complained of mobility difficulties due
+to their vision deficit. When grouped by CS, 18.0% in the mild, 31.0% in the moderate, and 71.4% in the
+severe groups complained of vision deficit-related mobility difficulties.
+When grouped by VA, 21.6% in the mild, 30.2% in the moderate, and 48.0% in the severe groups said
+they had mobility difficulties that were not related to vision loss. When participants were grouped by CS,
+20.5% in the mild, 26.4% in the moderate, and 60.9% in the severe groups reported mobility difficulties
+that were not vision related.
+
+Activity limitation questionnaire responses
+The average GAL-9 total score for the entire sample was 21.0 ± 7.9. Figure 2 A&B shows mean total
+scores on the GAL-9 questionnaire for patients grouped according to visual impairment severity. Mean
+total scores were significantly higher in patients with severe as opposed to moderate and mild visual
+impairment, whether severity grouping was based on VA or CS (one-way ANOVA with Tukey adjustment
+for multiple comparisons for VA-grouping: F(2,97) = 8.05, p < 0.001; mean scores per VA group:
+meanmild = 18.0 ± 8.0; meanmoderate = 20.8 ± 7.5; meansevere = 25.4 ± 6.5; for CS-grouping: F(2,97)
+= 37.47, p < 0.0001; mean scores per CS group: meanmild = 15.8 ± 5.5; meanmoderate = 20.5 ± 6.9;
+meansevere = 29.1 ± 5.7). Additionally, when grouped by CS, the scores of patients with moderate vision
+loss were also significantly higher than those of patients with mild vison loss.
+
+
+[page 14]
+Figure 2. Mean total score on the GAL-9 questionnaire for each visual impairment severity
+group and relationship to visual function.
+
+Open in a new tab
+
+Mean total scores based on visual acuity (A) and contrast sensitivity (B). In both cases, mean
+total scores were significantly higher in patients with severe as opposed to moderate and mild
+visual impairment. When grouped by contrast sensitivity, the difference in total scores between
+moderate and mild groups was also significant. Relationship between total score on the GAL-9
+and binocular contrast sensitivity (C), visual acuity of the better eye (D) and worse eye (E) for
+each patient. Significant relationships were found for all three metrics indicating a higher score
+associated with worse visual function (p < 0.0001). A: *: p = 0.02; **: p = 0.0003; ns: not
+
+
+[page 15]
+significant. VA: visual acuity; CS: contrast sensitivity. B: ***: p = 0.001; ****: p < 0.001. Error
+bars: standard deviation.
+
+Next, we examined the GAL-9 total scores against patients’ visual function metrics and number of falls in
+the previous year. Figure 2 also shows the relationship between the total score on the GAL-9 and visual
+acuity (Figure 2D&E) and contrast sensitivity (Figure 2C) metrics for all patients. We found significant
+relationships for all three metrics with a higher score being associated with worse visual function (better
+eye VA: Spearman ρ = 0.39, p < 0.0001, 95% CI: 0.22 — 0.53; worse eye VA: ρ = 0.37, p < 0.0001,
+
+95% CI: 0.21 — 0.52; binocular CS: ρ = −0.62, p < 0.0001, 95 % CI: −0.72 — −0.49).
+To determine the best set of predictors of the GAL-9 total response score, we used linear regression
+modeling with age, sex, better and worse eye visual acuities, binocular contrast sensitivity, relative and
+dense binocular scotoma estimates, and the number of falls in the last 12 months as the initial set of
+predictors. We simplified the model using AIC prediction error estimation (R2 = 0.45, p < 0.0001).
+While both relative and dense binocular scotoma estimates were identified as significant predictors, they
+were highly correlated leading to elevated variance inflation factors (see VIFs in Full Model of Table 3),
+only the relative scotoma estimate was included in the simplified model as this was associated with the
+best AIC score. The significant predictors in the optimized model were: sex (β = 5.38, p = 0.0001),
+contrast sensitivity (β = −7.58, p < 0.0001), relative binocular scotoma size (β = 0.23, p = 0.0123) and
+falls (β = 1.08, p = 0.0019). Age was also included in the model but was not in itself significant (β =
+−0.09, p = 0.173). Lower contrast sensitivity, female sex, larger relative scotomata, and number of falls
+were linked to greater mobility-related activity difficulties (higher GAL-9 total). The model results (full
+and AIC preferred) are presented in Table 3.
+Figure 3C shows the frequency distribution of patients’ ratings of their difficulties for individual items on
+the GAL-9. Activities relating to dark environments (Q1,2), lighting transitions (Q4,5), and uneven
+surfaces (Q3) were rated as most difficult. Q3 “walking on uneven ground” and Q6 “seeing objects from
+the side” were rated as the most and least difficult, respectively. The degree of difficulty reported
+increased with visual impairment severity, with more than 70% of patients in the ‘severe’ group rating
+most questions as ‘somewhat’ or more difficult (≥3/5, Figure 3A&B).
+
+
+[page 16]
+Figure 3. Patients’ difficulty ratings on the GAL-9.
+
+Open in a new tab
+
+The proportion of patients in each visual impairment severity group based on visual acuity (A)
+and on contrast sensitivity (B) scoring individual questions with a 3 out of 5 or higher (i.e.,
+“some”, “quite a lot” or “severe” difficulty) is shown for mild (violet), moderate (blue), and
+severe (teal) groups. C. The number of patients scoring each question (color-coded in the figure
+legend) on the 5-point Likert scale. D. The percentage of patients receiving referrals for O&M
+and/or PT in total and grouped by visual impairment severity (based on visual acuity and
+contrast sensitivity). More than 50% of patients in the severe groups were referred. Note the
+greater proportional differences between moderate and severe groups when using contrast
+
+
+[page 17]
+sensitivity as a severity classifier, as opposed to visual acuity in A, B and D. VA: visual acuity;
+CS: contrast sensitivity.
+
+Referrals
+A total of 31.2% of our cohort obtained referrals to mobility rehabilitation (Figure 3D). When grouped
+by acuity, 21.1% of patients in the mild, 28.8% in the moderate, and 50.0% in the severe groups were
+given referrals to O&M and/or physical therapy rehabilitation professionals. This breakdown when using
+contrast sensitivity for severity grouping was: 15.4% in the mild, 25.9% in the moderate, and 64.3% in
+the severe groups. Patients receiving referrals had significantly higher total GAL-9 scores (U=373.5,
+p<0.00001; meanreferred= 28.5 ± 6.9, meannot-referred= 17.6 ± 5.6). Prior to the study, four patients in
+our sample had been referred to O&M (G5, Table 2; and thus did not obtain new referrals). All patients
+received referrals to occupational therapy as part of clinic’s standard practice.
+
+Discussion
+Balance, mobility, and falls are clinically important issues in central field loss
+The outcomes of this study highlight the importance of low vision care professionals addressing fall risk
+and mobility in individuals with central visual field loss (CFL) in the clinic, both to guide referrals and
+help patients reflect on the nature of these limitations. Participants’ responses challenge the traditional
+view that low vision patients with an intact peripheral field are less likely to have balance and mobility
+limitations15,56,57. Over half of our sample reported balance problems, and many expressed mobility
+difficulties attributed to vision loss, adding to evidence suggesting that mobility limitation and fall-risk
+are major issues in CFL needing consideration in low vision care15,22,23,58.
+Screening patients by asking about fall history and balance/mobility complaints is an important first step
+in enhancing standard clinical practice, since patients, especially older adults, seldom spontaneously
+volunteer information that feeds into the stigma of disability59 (and likely not to their eye-care
+provider). A mobility-focused questionnaire, complemented by visual function screening, can also inform
+appropriate referrals.
+In line with prior work28,23,24,60, 41% of our sample reported at least one fall in the previous year. The
+fact that only participants in the mild and moderate groups reported having 5 or more falls may reflect
+reduced activity in the severe group16,25,26. This relationship warrants further investigation as fewer falls
+
+
+[page 18]
+may also be masking the serious issues of isolation. Indeed, this confound is why a finer screening tool
+that addresses daily living tasks is needed.
+Our findings suggest that AMD patients have similar mobility difficulties as those with glaucoma, as
+evidenced by the reported concerns on the mobility scenarios of the GAL-9 questionnaire (except,
+unsurprisingly, Q6). Total scores were also close to those reported by glaucoma patients in the
+literature61. While we do not attempt to validate the GAL-9 in AMD or suggest that it be used for
+screening in patients with maculopathies, our findings are in line with studies reporting comparable
+mobility issues, and fall risk and incidence in individuals with central and peripheral field loss21,60,62.
+The prevalence of falls (Figure 1A&B) and referral rates in the mild group (Figure 3D) suggest that the
+bar for balance/mobility rehabilitation needs to be lowered for all CFL patients – particularly since
+patients with better VA or monocular field loss are unlikely to be referred for low vision rehabilitation
+despite clear benefits63,64.
+Given the high prevalence of visual impairment and comorbidities/fall risk factors in older adults6,59,
+inquiring about such issues by all clinicians is important for rehabilitation needs and recommended in
+the fall-risk literature65. Early identification of balance/mobility difficulties in the vision clinic is
+important as i) vision loss often progresses over time, likely compounding age-related mobility decline
+and ii) these difficulties tend to be attributed to aging66,67 rather than visual impairment by both the
+patient and their provider. Indeed, in our cohort, most patients did not volunteer their concerns prior to
+being asked about balance and mobility.
+Finally, research on fall risk and balance/motor control68–72 suggests that balance/mobility
+deficits18,19,29,73,74, higher incidence of falls22–24,75, and concerns about falling26,28,76 in CFL may also
+be due to a combination of visual and oculomotor deficits77–79, visual dependence80, and cognitive
+decline74 in this population. Mobility rehabilitation professionals can leverage their expertise to address
+these problems in CFL patients following appropriate referrals from eye-care professionals.
+
+Role of visual function in mobility concerns
+In agreement with prior work19,40,81, a key finding in our study is that contrast sensitivity is associated
+more strongly and is more discriminative of balance and mobility difficulties than visual acuity. These
+findings further underscore the clinical value of CS assessment for understanding functional vision in
+AMD (and more generally low vision), particularly in the context of fall risk19,40,41. Indeed, a number of
+studies highlight the better discriminative ability of CS measures, as opposed to VA31,46,82, and its
+relation to performing activities of daily living, including balance/mobility19,38–46. Further, CS is a more
+sensitive marker of AMD progression and treatment effects than VA37,83, making contrast sensitivity
+
+
+[page 19]
+testing especially valuable in clinical practice. In the present study, as in studies of peripheral field
+loss51,84, we found that the GAL-9 total score was associated with both CS and VA. This commonality
+highlights that mobility is of broad concern across low vision.
+
+Study limitations
+There are several limitations to our study. First, while we do report on patients’ balance and mobility
+concerns, we do not use an AMD-specific, validated questionnaire to do so. Instead, we rely on an
+instrument developed for assessment of patients with peripheral field loss, general mobility questions,
+and questions relating to falls. We chose this approach for several reasons. First, unlike for peripheral
+vision loss51,84,85, there is currently no CFL-specific mobility questionnaire. The more general quality of
+life questionnaires validated for AMD, like the Impact of Visual Impairment86 and the Macular Disease
+on Quality of Life87 or general low vision questionnaires, such as the NEI-VFQ are longer and have a
+limited focus on mobility concerns, making their implementation in the clinic less practical. On the other
+hand, general balance and mobility-specific questionnaires like the Activities-specific Balance Confidence
+(ABC) scale88 are not focused on vision-specific limitations. Thus, we chose the GAL-9, which was shown
+previously to be effective at detecting mobility concerns in glaucoma, with a good discriminative ability
+of disease stage89. Our findings suggest that those with AMD have similar mobility concerns to those
+with glaucoma61 on the same set of tasks.
+A further limitation is the disproportionate number of female to male patients in our sample. While there
+were no sex differences in terms of age and number of falls (see Methods), the regression models
+revealed that women were more likely to report mobility and balance concerns. Given the older age of
+our participants, the larger proportion of women in our sample is likely due to differences in lifespan (as
+illustrated by the demographics of our sample’s region90). This trend is consistent with similar studies in
+macular degeneration28, as well as what is observed in our clinic, where women outnumber men by a
+factor of 5 regardless of pathology.
+Finally, it is important to note that all participants surveyed in this study were patients in a low vision
+rehabilitation clinic, having been referred there due to functional limitations. It is possible that if
+surveyed from general eye clinics, the patient population profile may be different both in terms of
+patient awareness of the functional deficits, as well as the deficits themselves. These potential differences
+bear investigation in future research.
+Finally, recall bias may be a concern when self-reporting falls history, particularly as studies indicate that
+older adults tend to under-report their number of falls91–93. This is mostly due to misperceptions of what
+constitutes a fall or forgetting falls that were not injurious. This issue with self-reporting falls history is
+
+
+[page 20]
+also why it is encouraged to complement history with questionnaires regarding specific mobility or
+stepping situations, questionnaires on concerns about falling and objective balance and mobility
+assessments92.
+
+Conclusions and future directions for falls prevention in maculopathy patients
+Contrast sensitivity and balance/mobility screening are key to enhancing CFL (and more broadly low
+vision) care. While the GAL-9 revealed mobility difficulties of maculopathy patients in our study, our
+research suggests the need for a mobility questionnaire validated specifically for CFL. Building on this
+study’s and prior literature’s findings that contrast sensitivity is most closely related to mobility
+limitations, other ways of mitigating fall risk could be through contrast enhancement. For example,
+refraction could be optimized using contrast enhancing filters and augmented reality devices, while
+indoor lighting can enhance scene contrast in different environments. Screenings like the one used in
+this study can also be refined and complemented with objective balance/mobility assessments like
+measuring walking speed59 which is known to be affected by CFL18,94, and is easy to implement in the
+clinic. Today, fall-risk identification and mitigation are feasible and promising. The development of
+enhanced screening and referral practices is a key next step in the care of individuals with central field
+loss.
+
+Highlights.
+Balance and mobility difficulties are prevalent in individuals with maculopathies
+Screening via self-report in the clinic can reveal balance/mobility difficulties
+Inquiring about fall risk-related concerns can lead to appropriate referrals
+Contrast sensitivity correlates better than visual acuity with mobility issues
+
+Acknowledgements/Disclosure:
+a. This work was funded by NIH grants T32-EY-025201 and R01-EY-036172, the NIDILRR RERC Program
+grant 90REGE001, and the Smith-Kettlewell Eye Research Institute.
+b. The authors have no conflicts of interest to declare relative to this study. DCF receives nonclinical
+income from being a medical malpractice expert witness.
+
+
+[page 21]
+c. We thank Drs August Colenbrander and Manfred Mackeben from the Smith-Kettlewell Eye Research
+Institute, and Dr. Ronald Schuchard from the Envision Research Institute for their initial input and Dr.
+Adrien Chopin at the Smith-Kettlewell Eye Research Institute for his help on statistical analyses.
+
+Footnotes
+b
+
+Note that contrast sensitivity thresholds above 1.6 logCS are not technically considered visual
+
+impairment55. For simplicity and consistency across comparisons with visual impairment severity
+according to visual acuity, we use the term “mild deficit” nonetheless.
+
+References
+1. World Health Organization (WHO). Falls. https://www.who.int/news-room/factsheets/detail/falls . 2021. Accessed December 11, 2023. https://www.who.int/newsroom/fact-sheets/detail/falls
+2. Crane MA, Lam A, Christmas C, Gemmill A, Romley JA. Epidemiology of mortality attributed
+to falls in older adults in the US, 1999–2020. J Am Geriatr Soc. 2024;72(1):303–307. doi:
+10.1111/jgs.18600 [DOI ] [PubMed] [Google Scholar ]
+3. Houry D, Florence C, Baldwin G, Stevens J, McClure R. The CDC Injury Center’s Response to
+the Growing Public Health Problem of Falls Among Older Adults. Am J Lifestyle Med.
+2015;10(1):74–77. doi: 10.1177/1559827615600137 [DOI ] [PMC free article] [PubMed]
+[Google Scholar ]
+4. Black A, Wood J. Vision and falls. Clin Exp Optom. 2005;88(4):212–222. [DOI ] [PubMed]
+[Google Scholar ]
+5. Lord SR, Dayhew J. Visual Risk Factors for Falls in Older People. J Am Geriatr Soc.
+2001;49(5):508–515. doi: 10.1046/j.1532-5415.2001.49107.x [DOI ] [PubMed] [Google
+Scholar ]
+6. Saftari LN, Kwon OS. Ageing vision and falls: a review. J Physiol Anthropol. 2018;37(1):11.
+[DOI ] [PMC free article] [PubMed] [Google Scholar ]
+7. Friedman DS, Freeman E, Munoz B, Jampel HD, West SK. Glaucoma and Mobility
+Performance: The Salisbury Eye Evaluation Project. Ophthalmology. 2007;114(12):2232–
+2237.e1. doi: 10.1016/j.ophtha.2007.02.001 [DOI ] [PubMed] [Google Scholar ]
+
+
+[page 22]
+8. Turano KA, Rubin GS, Quigley HA. Mobility Performance in Glaucoma. Invest Ophthalmol Vis
+Sci. 1999;40(12):2803–2809. [PubMed] [Google Scholar ]
+9. Th Brandt, Dichgans J, Koenig E. Differential effects of central versus peripheral vision on
+egocentric and exocentric motion perception. Exp Brain Res. 1973;16(5):476–491. doi:
+10.1007/BF00234474 [DOI ] [PubMed] [Google Scholar ]
+10. Nakayama K Biological image motion processing: A review. Vision Res. 1985;25(5):625–
+660. doi: 10.1016/0042-6989(85)90171-3 [DOI ] [PubMed] [Google Scholar ]
+11. Turano KA, Yu D, Hao L, Hicks JC. Optic-flow and egocentric-direction strategies in walking:
+Central vs peripheral visual field. Vision Res. 2005;45(25):3117–3132. doi:
+10.1016/j.visres.2005.06.017 [DOI ] [PubMed] [Google Scholar ]
+12. Amblard B, Carblanc A. Role of Foveal and Peripheral Visual Information in Maintenance of
+Postural Equilibrium in Man. Percept Mot Skills. 1980;51(3):903–912. doi:
+10.2466/pms.1980.51.3.903 [DOI ] [PubMed] [Google Scholar ]
+13. Marigold DS. Role of peripheral visual cues in online visual guidance of locomotion. Exerc
+Sport Sci Rev. 2008;36(3):145–151. doi: 10.1097/JES.0b013e31817bff72 [DOI ] [PubMed]
+[Google Scholar ]
+14. Popescu ML, Boisjoly H, Schmaltz H, et al. Age-Related Eye Disease and Mobility Limitations
+in Older Adults. Invest Ophthalmol Vis Sci. 2011;52(10):7168–7174. doi: 10.1167/iovs.117564 [DOI ] [PubMed] [Google Scholar ]
+15. Freeman EE, Muñoz B, Rubin G, West SK. Visual Field Loss Increases the Risk of Falls in
+Older Adults: The Salisbury Eye Evaluation. Invest Ophthalmol Vis Sci. 2007;48(10):4445–
+4450. doi: 10.1167/iovs.07-0326 [DOI ] [PubMed] [Google Scholar ]
+16. Sengupta S, Nguyen AM, van Landingham SW, et al. Evaluation of real-world mobility in
+age-related macular degeneration. BMC Ophthalmol. 2015;15(1):9. doi: 10.1186/1471-241515-9 [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+17. Timmis MA, Pardhan S. Patients with Central Visual Field Loss Adopt a Cautious Gait
+Strategy during Tasks That Present a High Risk of Falling. Invest Ophthalmol Vis Sci.
+2012;53(7):4120–4129. doi: 10.1167/iovs.12-9897 [DOI ] [PubMed] [Google Scholar ]
+18. Varadaraj V, Mihailovic A, Ehrenkranz R, Lesche S, Ramulu PY, Swenor BK. Gait
+characteristics of age-related macular degeneration patients. Transl Vis Sci Technol.
+2017;6(4):14. [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+
+
+[page 23]
+19. Wood JM, Lacherez PF, Black AA, Cole MH, Boon MY, Kerr GK. Postural Stability and Gait
+among Older Adults with Age-Related Maculopathy. Invest Ophthalmol Vis Sci.
+2009;50(1):482–487. doi: 10.1167/iovs.08-1942 [DOI ] [PubMed] [Google Scholar ]
+20. Turano KA, Yu D, Hao L, Hicks JC. Optic-flow and egocentric-direction strategies in walking:
+Central vs peripheral visual field. Vision Res. 2005;45(25):3117–3132. [DOI ] [PubMed]
+[Google Scholar ]
+21. Turano KA, Broman AT, Bandeen-Roche K, et al. Association of Visual Field Loss and
+Mobility Performance in Older Adults: Salisbury Eye Evaluation Study. Optom Vis Sci.
+2004;81(5):298–307. doi: 10.1097/01.opx.0000134903.13651.8e [DOI ] [PubMed] [Google
+Scholar ]
+22. Szabo SM, Janssen PA, Khan K, Lord SR, Potter MJ. Neovascular AMD: an overlooked risk
+factor for injurious falls. Osteoporos Int. 2010;21(5):855–862. [DOI ] [PubMed] [Google
+Scholar ]
+23. Wood JM, Lacherez P, Black AA, Cole MH, Boon MY, Kerr GK. Risk of Falls, Injurious Falls,
+and Other Injuries Resulting from Visual Impairment among Older Adults with Age-Related
+Macular Degeneration. Invest Ophthalmol Vis Sci. 2011;52(8):5088–5092. doi:
+10.1167/iovs.10-6644 [DOI ] [PubMed] [Google Scholar ]
+24. Szabo SM, Janssen PA, Khan K, Potter MJ, Lord SR. Older Women with Age-Related Macular
+Degeneration Have a Greater Risk of Falls: A Physiological Profile Assessment Study. J Am
+Geriatr Soc. 2008;56(5):800–807. doi: 10.1111/j.1532-5415.2008.01666.x [DOI ] [PubMed]
+[Google Scholar ]
+25. Nguyen AM, Arora KS, Swenor BK, Friedman DS, Ramulu PY. Physical activity restriction in
+age-related eye disease: a cross-sectional study exploring fear of falling as a potential mediator.
+BMC Geriatr. 2015;15(1):1–10. [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+26. van Landingham SW, Massof RW, Chan E, Friedman DS, Ramulu PY. Fear of falling in age related macular degeneration. BMC Ophthalmol. 2014;14(1):10. doi: 10.1186/1471-2415-1410 [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+27. White UE, Black AA, Delbaere K, Wood JM. Determinants of concern about falling in adults
+with age-related macular degeneration. Ophthalmic Physiol Opt. 2021;41(2):245–254. doi:
+10.1111/opo.12777 [DOI ] [PubMed] [Google Scholar ]
+
+
+[page 24]
+28. White UE, Black AA, Delbaere K, Wood JM. Longitudinal Impact of Vision Impairment on
+Concern About Falling in People With Age-Related Macular Degeneration. Transl Vis Sci
+Technol. 2022;11(1):34. doi: 10.1167/tvst.11.1.34 [DOI ] [PMC free article] [PubMed]
+[Google Scholar ]
+29. Taylor DJ, Hobby AE, Binns AM, Crabb DP. How does age-related macular degeneration
+affect real-world visual ability and quality of life? A systematic review. BMJ Open.
+2016;6(12):e011504. doi: 10.1136/bmjopen-2016-011504 [DOI ] [PMC free article]
+[PubMed] [Google Scholar ]
+30. Hogg RE, Chakravarthy U. Visual function and dysfunction in early and late age-related
+maculopathy. Prog Retin Eye Res. 2006;25(3):249–276. doi: 10.1016/j.preteyeres.2005.11.002
+[DOI ] [PubMed] [Google Scholar ]
+31. Fletcher DC, Schuchard RA. Visual Function in Patients With Choroidal Neovascularization
+Resulting From Age-Related Macular Degeneration: The Importance of Looking Beyond Visual
+Acuity. Optom Vis Sci. 2006;83(3):178–189. doi: 10.1097/01.opx.0000204510.08026.7f
+[DOI ] [PubMed] [Google Scholar ]
+32. Klein R, Wang Q, Klein BE, Moss SE, Meuer SM. The relationship of age-related
+maculopathy, cataract, and glaucoma to visual acuity. Invest Ophthalmol Vis Sci.
+1995;36(1):182–191. [PubMed] [Google Scholar ]
+33. Stahl A The Diagnosis and Treatment of Age-Related Macular Degeneration. Dtsch Ärztebl
+Int. 2020;117(29–30):513–520. doi: 10.3238/arztebl.2020.0513 [DOI ] [PMC free article]
+[PubMed] [Google Scholar ]
+34. Schultz NM, Braunack-Mayer L, Schwartz J, Gaspar L. The Patient Experience: Symptoms
+and Impact of Dry Age-Related Macular Degeneration. Ophthalmol Ther. 2021;10(1):151–164.
+doi: 10.1007/s40123-020-00325-y [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+35. Park W Vision Rehabilitation for Age- Related Macular Degeneration. Int Ophthalmol Clin.
+1999;39(4):143–162. Accessed March 18, 2024. https://journals.lww.com/internatophthalmology/citation/1999/03940/Vision_Rehabilitation_for_Age__Related_Macular.10.aspx
+[DOI ] [PubMed] [Google Scholar ]
+36. Lindsley KB, Hutfless S, Hawkins BS, et al. Evaluation of Clinical Questions and PatientImportant Outcomes Associated With the Treatment of Age-Related Macular Degeneration.
+JAMA Ophthalmol. 2018;136(11):1217–1225. doi: 10.1001/jamaophthalmol.2018.3456
+[DOI ] [PMC free article] [PubMed] [Google Scholar ]
+
+
+[page 25]
+37. Kleiner RC, Enger C, Alexander MF, Fine SL. Contrast Sensitivity in Age-Related Macular
+Degeneration. Arch Ophthalmol. 1988;106(1):55–57. doi:
+10.1001/archopht.1988.01060130061028 [DOI ] [PubMed] [Google Scholar ]
+38. Luu W, Kalloniatis M, Bartley E, et al. A holistic model of low vision care for improving
+vision-related quality of life. Clin Exp Optom. 2020;103(6):733–741. doi: 10.1111/cxo.13054
+[DOI ] [PubMed] [Google Scholar ]
+39. Lesmes LA, Jackson ML, Bex P. Visual function endpoints to enable dry AMD clinical trials.
+Drug Discov Today Ther Strateg. 2013;10(1):e43–e50. doi: 10.1016/j.ddstr.2012.11.002
+[DOI ] [PMC free article] [PubMed] [Google Scholar ]
+40. Kuyk T, Elliott JL. Visual Factors and Mobility in Persons With Age-Related Macular
+Degeneration. J Rehabil Res Dev. 1999;36(4):303–312. [PubMed] [Google Scholar ]
+41. Lord SR. Visual risk factors for falls in older people. Age Ageing. 2006;35:42–45. doi:
+10.1093/ageing/afl085 [DOI ] [PubMed] [Google Scholar ]
+42. Rubin GS, Roche KB, Prasada-Rao P, Fried LP. Visual Impairment and Disability in Older
+Adults. Optom Vis Sci. 1994;71(12):750. [DOI ] [PubMed] [Google Scholar ]
+43. West SK, Rubin GS, Broman AT, et al. How Does Visual Impairment Affect Performance on
+Tasks of Everyday Life?: The SEE Project. Arch Ophthalmol. 2002;120(6):774–780. doi:
+10.1001/archopht.120.6.774 [DOI ] [PubMed] [Google Scholar ]
+44. Marron JA, Bailey IL. Visual Factors and Orientation-Mobility Performance. Optom Vis Sci.
+1982;59(5):413–426. [DOI ] [PubMed] [Google Scholar ]
+45. Owsley C, Sloane ME. Contrast sensitivity, acuity, and the perception of “real-world” targets.
+Br J Ophthalmol. 1987;71(10):791–796. doi: 10.1136/bjo.71.10.791 [DOI ] [PMC free
+article] [PubMed] [Google Scholar ]
+46. Lennerstrand G, Ahlström CO. Contrast sensitivity in macular degeneration and the relation
+to subjective visual impairment. Acta Ophthalmol (Copenh). 1989;67(3):225–233. doi:
+10.1111/j.1755-3768.1989.tb01863.x [DOI ] [PubMed] [Google Scholar ]
+47. Vingopoulos F, Wai KM, Katz R, Vavvas DG, Kim LA, Miller JB. Measuring the Contrast
+Sensitivity Function in Non-Neovascular and Neovascular Age-Related Macular Degeneration:
+The Quantitative Contrast Sensitivity Function Test. J Clin Med. 2021;10(13):2768. doi:
+10.3390/jcm10132768 [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+
+
+[page 26]
+48. Klein R, Chou CF, Klein BEK, Zhang X, Meuer SM, Saaddine JB. Prevalence of age-related
+macular degeneration in the US population. Arch Ophthalmol. Published online 2011. doi:
+10.1001/archophthalmol.2010.318 [DOI ] [PubMed] [Google Scholar ]
+49. Wong WL, Su X, Li X, et al. Global prevalence of age-related macular degeneration and
+disease burden projection for 2020 and 2040: a systematic review and meta-analysis. Lancet
+Glob Health. 2014;2(2):e106–e116. [DOI ] [PubMed] [Google Scholar ]
+50. Friedman DS, O’Colmain BJ, Muñoz B, et al. Prevalence of Age-Related Macular
+Degeneration in the United States. Arch Ophthalmol. Published online 2004. doi:
+10.1001/archopht.122.4.564 [DOI ] [PubMed] [Google Scholar ]
+51. Khadka J, Pesudovs K, McAlinden C, Vogel M, Kernt M, Hirneiss C. Reengineering the
+Glaucoma Quality of Life-15 Questionnaire with Rasch Analysis. Invest Ophthalmol Vis Sci.
+2011;52(9):6971–6977. doi: 10.1167/iovs.11-7423 [DOI ] [PubMed] [Google Scholar ]
+52. Leat SJ, Wegmann D. Clinical Testing of Contrast Sensitivity in Children: Age-related Norms
+and Validity. Optom Vis Sci. 2004;81(4):245–254. [DOI ] [PubMed] [Google Scholar ]
+53. Fletcher DC, Schuchard RA, Renninger LW. Patient Awareness of Binocular Central Scotoma
+in Age-Related Macular Degeneration. Optom Vis Sci. 2012;89(9):1395–1398. doi:
+10.1097/OPX.0b013e318264cc77 [DOI ] [PubMed] [Google Scholar ]
+54. Dandona L, Dandona R. Revision of visual impairment definitions in the International
+Statistical Classification of Diseases. BMC Med. 2006;4(1):7. doi: 10.1186/1741-7015-4-7
+[DOI ] [PMC free article] [PubMed] [Google Scholar ]
+55. Leat SJ, Legge GE, Bullimore MA. What Is Low Vision? A Re-evaluation of Definitions.
+Optom Vis Sci. 1999;76(4):198–211. [DOI ] [PubMed] [Google Scholar ]
+56. Long RG, Rieser JJ, Hill EW. Mobility in individuals with moderate visual impairments. J Vis
+Impair Blind. 1990;84(3):111–118. [Google Scholar ]
+57. Johns Hopkins Medicine. Age-Related Macular Degeneration (AMD). February 7, 2024.
+Accessed March 13, 2024. https://www.hopkinsmedicine.org/health/conditions-anddiseases/agerelated-macular-degeneration-amd
+58. Garrigan H, Hamati J, Lalakia P, Frasso R, Salzman B, Hyman L. Does Age-Related Macular
+Degeneration (AMD) Treatment Influence Patient Falls and Mobility? A Systematic Review.
+Ophthalmic Epidemiol 2022;29(2):128–138. doi: 10.1080/09286586.2021.1921227 [DOI ]
+[PubMed] [Google Scholar ]
+
+
+[page 27]
+59. Montero-Odasso M, van der Velde N, Martin FC, et al. World guidelines for falls prevention
+and management for older adults: a global initiative. Age Ageing. 2022;51(9):afac205. doi:
+10.1093/ageing/afac205 [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+60. Tsang JY, Wright A, Carr MJ, et al. Risk of Falls and Fractures in Individuals With Cataract,
+Age-Related Macular Degeneration, or Glaucoma. JAMA Ophthalmol. 2024;142(2):96–106. doi:
+10.1001/jamaophthalmol.2023.5858 [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+61. Nayyar S, Kumar S, Rehman O, Ichhpujani P, Singla E. Impact of moderate and severe
+primary open-angle glaucoma on quality of life due to activity limitation. Indian J Ophthalmol.
+2022;70(2):552–557. doi: 10.4103/ijo.IJO_1687_21 [DOI ] [PMC free article] [PubMed]
+[Google Scholar ]
+62. Lovie-Kitchin JE, Soong GP, Hassan SE, Woods RL. Visual Field Size Criteria for Mobility
+Rehabilitation Referral. Optom Vis Sci. 2010;87(12):E948. doi:
+10.1097/OPX.0b013e3181ff99be [DOI ] [PubMed] [Google Scholar ]
+63. Larochelle RD, Patnaik JL, Lynch AM, Mandava N, Hanson K. Low Vision Referral Patterns in
+Intermediate Age-Related Macular Degeneration. Curr Eye Res. 2022;47(12):1641–1645. doi:
+10.1080/02713683.2022.2135104 [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+64. Coker MA, Huisingh CE, McGwin G Jr, et al. Rehabilitation Referral for Patients With
+Irreversible Vision Impairment Seen in a Public Safety-Net Eye Clinic. JAMA Ophthalmol.
+2018;136(4):400–408. doi: 10.1001/jamaophthalmol.2018.0241 [DOI ] [PMC free article]
+[PubMed] [Google Scholar ]
+65. Ellmers TJ, Freiberger E, Hauer K, et al. Why should clinical practitioners ask about their
+patients’ concerns about falling? Age Ageing. 2023;52(4):afad057. doi:
+10.1093/ageing/afad057 [DOI ] [PubMed] [Google Scholar ]
+66. Paraskevoudi N, Balcı F, Vatakis A. “Walking” through the sensory, cognitive, and temporal
+degradations of healthy aging. Ann N Y Acad Sci. Published online 2018. doi:
+10.1111/nyas.13734 [DOI ] [PubMed] [Google Scholar ]
+67. Ambrose AF, Paul G, Hausdorff JM. Risk factors for falls among older adults: A review of the
+literature. Maturitas. 2013;75(1):51–61. doi: 10.1016/j.maturitas.2013.02.009 [DOI ]
+[PubMed] [Google Scholar ]
+68. Chapman GJ, Hollands MA. Evidence for a link between changes to gaze behaviour and risk
+of falling in older adults during adaptive locomotion. Gait Posture. 2006;24(3):288–294. doi:
+
+
+[page 28]
+10.1016/j.gaitpost.2005.10.002 [DOI ] [PubMed] [Google Scholar ]
+69. Young WR, Williams AM. How fear of falling can increase fall-risk in older adults: Applying
+psychological theory to practical observations. Gait Posture. 2015;41(1):7–12. doi:
+10.1016/j.gaitpost.2014.09.006 [DOI ] [PubMed] [Google Scholar ]
+70. Barr C, McLoughlin JV, van den Berg MEL, Sturnieks DL, Crotty M, Lord SR. Visual field
+dependence is associated with reduced postural sway, dizziness and falls in older people
+attending a falls clinic. J Nutr Health Aging. 2016;20(6):671–675. doi: 10.1007/s12603-0150681-y [DOI ] [PubMed] [Google Scholar ]
+71. Totilienė M, Uloza V, Lesauskaitė V, et al. Impaired Subjective Visual Vertical and Increased
+Visual Dependence in Older Adults With Falls. Front Aging Neurosci. 2021;13:667608. [DOI ]
+[PMC free article] [PubMed] [Google Scholar ]
+72. Muir-Hunter SW, Wittwer JE. Dual-task testing to predict falls in community-dwelling older
+adults: a systematic review. Physiotherapy. 2016;102(1):29–40. doi:
+10.1016/j.physio.2015.04.011 [DOI ] [PubMed] [Google Scholar ]
+73. Elliott DB, Patla AE, Flanagan JG, et al. The Waterloo Vision and Mobility Study: postural
+control strategies in subjects with ARM. Ophthalmic Physiol Opt. 1995;15(6):553–559.
+[PubMed] [Google Scholar ]
+74. Kotecha A, Chopra R, Fahy RTA, Rubin GS. Dual tasking and balance in those with central
+and peripheral vision loss. Invest Ophthalmol Vis Sci. 2013;54:5408–5415. doi:
+10.1167/iovs.13-12026 [DOI ] [PubMed] [Google Scholar ]
+75. Chung SD, Hu CC, Lin HC, Kao LT, Huang CC. Increased fall risk in patients with
+neovascular age-related macular degeneration: a three-year follow-up study. Acta Ophthalmol
+(Copenh). 2017;95(8):e800–e801. doi: 10.1111/aos.13281 [DOI ] [PubMed] [Google
+Scholar ]
+76. Wang MY, Rousseau J, Boisjoly H, et al. Activity Limitation due to a Fear of Falling in Older
+Adults with Eye Disease. Invest Ophthalmol Vis Sci. 2012;53(13):7967–7972. doi:
+10.1167/iovs.12-10701 [DOI ] [PubMed] [Google Scholar ]
+77. Verghese P, Vullings C, Shanidze N. Eye Movements in Macular Degeneration. Annu Rev Vis
+Sci. 2021;7:773–791. [DOI ] [PMC free article] [PubMed] [Google Scholar ]
+78. Kuyk T, Liu L, Elliott J, Fuhr P. Visual search training and obstacle avoidance in adults with
+visual impairments. J Vis Impair Blind. 2010;104(4):215–227. [Google Scholar ]
+
+
+[page 29]
+79. Radvay X, Duhoux S, Koenig-Supiot F, Vital-Durand F. Balance training and visual
+rehabilitation of age-related macular degeneration patients. J Vestib Res. 2007;17(4):183–193.
+doi: 10.3233/VES-2007-17404 [DOI ] [PubMed] [Google Scholar ]
+80. Agathos CP, Shanidze NM. Visual Field Dependence Persists in Age-Related Central Visual
+Field Loss. Invest Ophthalmol Vis Sci. 2024;65(2):22. doi: 10.1167/iovs.65.2.22 [DOI ] [PMC
+free article] [PubMed] [Google Scholar ]
+81. Bibby SA, Maslin ER, Mcilraith R, Soong GP. Vision and self-reported mobility performance
+in patients with low vision. Clin Exp Optom. 2007;90(2):115–123. doi: 10.1111/j.14440938.2007.00120.x [DOI ] [PubMed] [Google Scholar ]
+82. Ivers RQ, Mitchell P, Cumming RG. Visual function tests, eye disease and symptoms of visual
+disability: a population-based assessment. Clin Experiment Ophthalmol. 2000;28(1):41–47. doi:
+10.1046/j.1442-9071.2000.00236.x [DOI ] [PubMed] [Google Scholar ]
+83. Preti RC, Ramirez LMV, Pimentel SLG, et al. Effect of a Single Intravitreal Bevacizumab
+Injection on Contrast Sensitivity and Macular Thickness in Eyes with Macular Edema from
+Central Retinal Vein Occlusion: A Prospective, Nonrandomized, Three-Month Follow-Up Study.
+Ophthalmic Res. 2014;51(3):140–145. doi: 10.1159/000357737 [DOI ] [PubMed] [Google
+Scholar ]
+84. Turano KA, Geruschat DR, Stahl JW, Massof RW. Perceived visual ability for independent
+mobility in persons with retinitis pigmentosa. Invest Ophthalmol Vis Sci. 1999;40(5):865–877.
+[PubMed] [Google Scholar ]
+85. Nelson P, Aspinall P, Papasouliotis O, Worton B, O’Brien C. Quality of Life in Glaucoma and
+Its Relationship with Visual Function. J Glaucoma. 2003;12(2):139. [DOI ] [PubMed] [Google
+Scholar ]
+86. Lamoureux EL, Pallant JF, Pesudovs K, Rees G, Hassell JB, Keeffe JE. The Impact of Vision
+Impairment Questionnaire: An Assessment of Its Domain Structure Using Confirmatory Factor
+Analysis and Rasch Analysis. Invest Ophthalmol Vis Sci. 2007;48(3):1001–1006. doi:
+10.1167/iovs.06-0361 [DOI ] [PubMed] [Google Scholar ]
+87. Mitchell J, Bradley C. Design of an Individualised Measure of the Impact of Macular Disease
+on Quality of Life (the MacDQoL). Qual Life Res. 2004;13(6):1163–1175. doi:
+10.1023/B:QURE.0000031348.51292.4a [DOI ] [PubMed] [Google Scholar ]
+
+
+[page 30]
+88. Powell LE, Myers AM. The Activities-specific Balance Confidence (ABC) Scale. J Gerontol
+Ser A. 1995;50A(1):M28–M34. doi: 10.1093/gerona/50A.1.M28 [DOI ] [PubMed] [Google
+Scholar ]
+89. Jones L, Garway-Heath DF, Azuara-Blanco A, et al. Are Patient Self-Reported Outcome
+Measures Sensitive Enough to Be Used as End Points in Clinical Trials?: Evidence from the
+United Kingdom Glaucoma Treatment Study. Ophthalmology. 2019;126(5):682–689. doi:
+10.1016/j.ophtha.2018.09.034 [DOI ] [PubMed] [Google Scholar ]
+90. Residents by Gender and Age in Kansas | Data USA. Accessed May 22, 2025.
+https://datausa.io/profile/geo/kansas#residents
+
+[Google Scholar ]
+
+91. Ganz DA, Higashi T, Rubenstein LZ. Monitoring Falls in Cohort Studies of Community Dwelling Older People: Effect of the Recall Interval. J Am Geriatr Soc. 2005;53(12):2190–2194.
+doi: 10.1111/j.1532-5415.2005.00509.x [DOI ] [PubMed] [Google Scholar ]
+92. Freiberger E, de Vreede P. Falls recall—limitations of the most used inclusion criteria. Eur
+Rev Aging Phys Act. 2011;8(2):105–108. doi: 10.1007/s11556-011-0078-9 [DOI ] [Google
+Scholar ]
+93. Sanders KM, Stuart AL, Scott D, Kotowicz MA, Nicholson GC. Validity of 12-Month Falls
+Recall in Community-Dwelling Older Women Participating in a Clinical Trial. Int J Endocrinol.
+2015;2015(1):210527. doi: 10.1155/2015/210527 [DOI ] [PMC free article] [PubMed]
+[Google Scholar ]
+94. Agathos CP, Velisar A, Shanidze NM. A Comparison of Walking Behavior during the
+Instrumented TUG and Habitual Gait. Sensors. 2023;23(16):7261. doi: 10.3390/s23167261
+[DOI ] [PMC free article] [PubMed] [Google Scholar ]
+

@@ -1,0 +1,2092 @@
+[page 1]
+1
+
+Benefit of an electronic head-mounted Low Vision Aid
+
+2
+3
+4
+
+Michael D. Crossland1, Sandra D. Starke2,3, Piotr Imielski3, James S. Wolffsohn4, Andrew R. Webster1
+
+5
+6
+
+1
+
+NIHR Biomedical Research Centre for Ophthalmology at Moorfields Eye Hospital and UCL Institute
+
+7
+
+of Ophthalmology, London, UK
+2
+
+8
+
+School of Engineering, University of Birmingham, Birmingham, UK
+3
+
+9
+
+GiveVision, Birmingham, UK
+
+4
+
+10
+
+Aston University, Birmingham, UK
+
+11
+12
+
+Word count: 4293
+
+13
+
+Number of tables: 2
+
+14
+
+Number of figures: 3
+
+15
+16
+
+Correspondence to:
+
+17
+
+Michael Crossland
+
+18
+
+Department of Optometry
+
+19
+
+Moorfields Eye Hospital NHS Foundation Trust
+
+20
+
+162 City Road
+
+21
+
+London
+
+22
+
+EC1V 2PD
+
+23
+
+UK
+
+24
+
+Email: mcrossland@nhs.net
+
+25
+
+
+[page 2]
+26
+
+DISCLOSURE
+
+27
+
+SDS and PI received salary support from Vision Technologies Ltd during this study. MDC, JSW and
+
+28
+
+ARW have no conflict of interest and have no proprietary interest in any of the materials mentioned
+
+29
+
+in this article.
+
+30
+31
+
+FUNDING STATEMENT
+
+32
+
+This work was supported by the Technology Strategy Board (Innovate UK) (Biomedical Catalyst 2017
+
+33
+
+Round 1 - Primer (Digital Health Catalyst)). The views expressed are those of the authors and not
+
+34
+
+necessarily those of Moorfields Eye Hospital, the National Institute for Health Research or the
+
+35
+
+Department of Health and Social Care.
+
+36
+37
+
+
+[page 3]
+38
+
+ABSTRACT
+
+39
+40
+
+Purpose: To evaluate the efficacy of electronic head-mounted Low Vision Aid (ehLVA) SightPlus
+
+41
+
+(GiveVision, UK) and to determine which people with low vision would see themselves likely using an
+
+42
+
+ehLVA like this.
+
+43
+
+Methods: Sixty participants with Low Vision aged 18 to 93 used SightPlus during an in-clinic study
+
+44
+
+session using a mixed methods design. Visual acuity (ETDRS), contrast sensitivity (Pelli Robson) and
+
+45
+
+reading performance (MNREAD) were measured binocularly at baseline (no device), with the device
+
+46
+
+in ‘normal’ mode (zoom only), and with preferred enhanced mode (zoom and one out of four digital
+
+47
+
+image enhancements). At the end of the session, a short questionnaire recorded willingness to use
+
+48
+
+an ehLVA like SightPlus, potential use cases, positive/negative comments and adverse effects.
+
+49
+
+Results: Binocular distance visual acuity improved significantly by 0.63 logMAR on average
+
+50
+
+(p<0.0001) to 0.20 logMAR. Contrast sensitivity improved significantly by 0.22 log units (p<0.0001) to
+
+51
+
+1.21 log units with zoom only and by 0.40 log units to 1.37 log units with zoom and preferred image
+
+52
+
+enhancement. Reading performance improved significantly for near visual acuity and critical print
+
+53
+
+size (p<0.015), however reading speed significantly decreased (p<0.0001). Nearly half (47%) of the
+
+54
+
+participants indicated they would use an ehLVA like SightPlus, especially for television, reading and
+
+55
+
+entertainment (e.g. theatre). Multivariate logistic regression showed that proportion of lifetime
+
+56
+
+affected, baseline contrast sensitivity and use of electronic LVAs explained 41% of the variation in
+
+57
+
+willingness to use.
+
+58
+
+Conclusions: SightPlus improves visual function in people with low vision and would be used in its
+
+59
+
+current form by half of the people who tried it. Adverse effects were rare and resolved when the
+
+60
+
+device was removed. Future work should focus on comparing ehLVAs through repeatable real-world
+
+61
+
+tasks and impact on quality of life.
+
+62
+
+
+[page 4]
+63
+
+Introduction
+
+64
+
+Electronic head-mounted Low Vision Aids (ehLVAs) have experienced a technological step change
+
+65
+
+over the last decade.1 2 A 2017 review of head-mounted displays for people with low vision
+
+66
+
+highlighted the advantages of such technology over conventional desk-mounted or handheld sight
+
+67
+
+aids.3 Since early commercial devices such as the Low Vision Enhancement System were first
+
+68
+
+produced in the 1990s,4 advances in consumer technology have led to the availability of smaller,
+
+69
+
+lighter, more versatile ehLVAs, including SightPlus (GiveVision, Birmingham, UK), eSight (eSight
+
+70
+
+Corporation, Toronto, ON, Canada), Iris Vision (Iris Vision Global, Pleasanton, CA, USA), OxSight
+
+71
+
+(OxSight Ltd, Oxford, UK) the new JORDY (Enhanced Vision Services, Huntington Beach, CA, USA),
+
+72
+
+with several other devices being developed. 5-8 SightPlus is a commercially available ehLVA and
+
+73
+
+registered as a Class I medical device. It is designed around a smartphone (serving as a camera,
+
+74
+
+image processor and display) inserted into a virtual reality (VR) headset serving as the optical
+
+75
+
+system. To date, clinical evidence for the efficacy of VR-and-smartphone-based ehLVAs such as
+
+76
+
+SightPlus is lacking.
+
+77
+78
+
+Modern ehLVAs can embed digital sight enhancement algorithms that have been proven effective in
+
+79
+
+laboratory settings for decades.9-16 A 2015 review of 37 research papers highlighted the benefit of
+
+80
+
+various image processing techniques for the visually impaired, albeit with inconsistent preferences
+
+81
+
+between people.1 A more recent review of ehLVAs illustrated existing strategies to sight
+
+82
+
+enhancement and showed improvements in contrast sensitivity.2 However, to date, only two studies
+
+83
+
+have been published demonstrating efficacy of wearables across substantial patient numbers: one
+
+84
+
+for the eSight ehLVA device,17 and one for Orcam, a spectacle mounted text-to-speech system.18 The
+
+85
+
+eSight study showed improvements in visual acuity, contrast sensitivity, reading performance and
+
+86
+
+functional vision in a self-selected group of 51 adults who had demonstrated motivation to wear the
+
+87
+
+device. Data are lacking for people unaware of ehLVAs or for a more general population of people
+
+88
+
+with visual impairment.
+
+
+[page 5]
+89
+90
+
+In this study, we evaluated the performance of SightPlus (GiveVision, Birmingham, UK; Figure 1).
+
+91
+
+This device was chosen as it was commercially available in the United Kingdom, was relatively
+
+92
+
+affordable, and there were anecdotal reports of significant visual benefits associated with this
+
+93
+
+device. We hypothesised that acuity, contrast sensitivity and reading speed would improve similarly
+
+94
+
+to a different ehLVA using different technology (eSight). We anticipated that poorer baseline acuity
+
+95
+
+and familiarity with electronic low vision aids would predict willingness to use the device.
+
+96
+
+97
+98
+99
+
+Figure 1. The SightPlus device, with its wireless remote control.
+
+
+[page 6]
+100
+101
+
+Figure 2. Text and a pictorial scene as displayed through five different modes offered by SightPlus.
+
+102
+
+a. Reference image; b. Normal mode, c. Enhanced mode, d. Contrast mode, e. Inverted mode, f. Text
+
+103
+
+mode.
+
+104
+105
+
+Materials and Methods
+
+106
+107
+
+Ethics
+
+108
+
+Ethical approval for the study was obtained from the Health Research Authority (IRAS number
+
+109
+
+237229), and local approval was obtained from the North Thames Clinical Research Network.
+
+110
+
+Participants gave written informed consent after the purpose of the study was explained and prior
+
+111
+
+to any data collection.
+
+112
+113
+
+Participants
+
+
+[page 7]
+114
+
+Sixty participants were recruited from low vision and medical retina clinics at Moorfields Eye
+
+115
+
+Hospital. This clinic is in a tertiary centre with a relatively high proportion of younger patients with
+
+116
+
+inherited retinal disease.19 All participants met the definition of visual impairment suggested by Leat:
+
+117
+
+having best monocular or binocular visual acuity of worse than 6/7.5, horizontal visual field of less
+
+118
+
+than 146 degrees to Goldmann III4e targets, or contrast sensitivity worse than 1.5 log units.20 All
+
+119
+
+were over 18 years of age, fluent in written and spoken English and able to hear and understand
+
+120
+
+instructions whilst wearing the device.
+
+121
+122
+
+Materials
+
+123
+
+SightPlus offers proprietary sight enhancement software through a smartphone (S8, Samsung, South
+
+124
+
+Korea) mounted in a virtual reality headset (Prime, Homido, France), controlled through a handheld
+
+125
+
+Bluetooth remote control. The device weighs 465g. The smartphone has a total screen resolution of
+
+126
+
+2960 x 1440 pixels (approximately half width used per eye) and presents a digital image on an
+
+127
+
+AMOLED screen. The headset’s lenses provide an approximately 110 degree diagonal (80 degree
+
+128
+
+horizontal) field of view, while the software offers approximately 0.7x to 24.3x magnification (38x
+
+129
+
+relative zoom). Brightness, exposure, blue light filter and inter-pupillary distance are customisable.
+
+130
+
+SightPlus has five image enhancement modes (Figure 2), each of which modifies the whole image:
+
+131
+
+‘Normal mode’ shows a full colour video feed. ‘Enhanced mode’ enables subtle feature
+
+132
+
+enhancement by modulating selected spatial frequency components, resulting in sharper edges and
+
+133
+
+smoother colours. ‘Contrast mode’ offers strong edge enhancement. ‘Inverted mode’ displays an
+
+134
+
+inverted greyscale image, rendering white as black and vice versa. ‘Text mode’ offers a binary image
+
+135
+
+(default: yellow on black) based on edge detection and thresholding, making it most suitable for
+
+136
+
+reading.
+
+137
+138
+
+Procedure
+
+
+[page 8]
+139
+
+Data collection was performed following a low vision assessment conducted as part of a routine low
+
+140
+
+vision clinic assessment by the first author. As part of this initial assessment, baseline visual acuity
+
+141
+
+was measured binocularly with best refractive correction on a retro illuminated distance logMAR
+
+142
+
+chart (Lighthouse Series ETDRS chart, Precision Vision, Woodstock, IL, USA). Letter-by-letter scoring
+
+143
+
+was used and participants were encouraged to guess until no letters were correctly identified on a
+
+144
+
+line. Where no letters were read at 4m, the chart was moved to 2 metres, 1 metre, and 50cm. If no
+
+145
+
+letters were identified from 50cm, hand movements and perception of light was used. Contrast
+
+146
+
+sensitivity was measured using a Pelli-Robson chart at 1 metre (Precision Vision, Woodstock, IL, USA)
+
+147
+
+with the triplet being scored as read correctly when two of three letters were read. Reading
+
+148
+
+performance (near visual acuity, critical print size, reading speed) was measured using the iPad
+
+149
+
+version of the MNREAD test (Regents of the University of Minnesota, Minneapolis, MN, USA).21
+
+150
+
+Visual field data were extracted from the participant’s medical records. Those with loss only within
+
+151
+
+the central 15 degrees were classified as having central loss, those with loss only beyond 15 degrees
+
+152
+
+as peripheral loss, those with loss in both regions as mixed, and without field loss as no field loss.
+
+153
+154
+
+During the study session, each participant wore SightPlus for approximately 10-15 minutes under
+
+155
+
+the supervision of the first author. Interpupillary distance of the device was adjusted optically and in
+
+156
+
+software to ensure there was no diplopia and participants were allowed to become comfortable
+
+157
+
+with its controls. All image enhancement modes were demonstrated. Once the participant was
+
+158
+
+comfortable with the device and its controls, visual acuity, contrast sensitivity and reading
+
+159
+
+performance were then assessed with the device: first in normal mode, and subsequently in the
+
+160
+
+preferred image enhancement mode. Free choice of enhancement mode was allowed to explore the
+
+161
+
+best-case scenario achievable with SightPlus; time constraints did not allow a systematic assessment
+
+162
+
+of all modes. Participants were able to use a freely chosen zoom level for a given task. Data
+
+163
+
+collection was terminated if participants self-reported nausea or any other unpleasant effects
+
+164
+
+preventing them from continuing the session or if they expressed the wish to withdraw.
+
+
+[page 9]
+165
+166
+
+Statistical analysis: efficacy
+
+167
+
+A repeated measures ANOVA was performed to compare between baseline, normal mode and
+
+168
+
+preferred enhanced mode for distance visual acuity, contrast sensitivity and reading performance
+
+169
+
+metrics (near visual acuity, critical print size and reading speed). In case of significance, pairwise
+
+170
+
+post-hoc tests with Bonferroni correction were conducted.
+
+171
+172
+
+Statistical analysis: willingness to use device
+
+173
+
+Willingness to use an ehLVA like SightPlus was assessed against the following 15 individual predictor
+
+174
+
+variables through sub-group analysis: demographic factors (age, gender, work status (working, not
+
+175
+
+working), current use of electronic magnifiers (yes, no)); disease factors (progressive or stable, time
+
+176
+
+since diagnosis, percentage lifetime with sight loss); visual metrics (type of visual field loss (central,
+
+177
+
+visual, peripheral, mixed, none) as well as baseline, difference and end point in normal mode for
+
+178
+
+binocular visual acuity and binocular contrast sensitivity. For continuous variables, an independent t-
+
+179
+
+test was performed, with ‘would use’ as the grouping variable. For nominal data, a Х2 test was
+
+180
+
+performed. Stepwise multivariate regression was performed using the same demographic, disease
+
+181
+
+and visual factors.
+
+182
+183
+
+Qualitative analysis
+
+184
+
+At the end of the session, a semi-structured questionnaire was administered, where each participant
+
+185
+
+was asked four of the following five questions:
+
+186
+
+1. ‘Would you be willing to use a device like this?’
+
+187
+
+2. (If response to question 1 is ‘yes’): ‘what would you use it for?’;
+
+188
+
+3. (If reponse to question 1 is ‘no’): ‘why not?’
+
+189
+
+4. ‘What are the strengths of the device at present?’
+
+190
+
+5. ‘What are the weaknesses of the device at present?’
+
+
+[page 10]
+191
+
+Participants were encouraged to answer each question as fully as possible. Key points were written,
+
+192
+
+and the investigator confirmed the responses with the participant. A grounded theory approach was
+
+193
+
+used for analysis, where responses were coded and grouped into categories. Categories of responses
+
+194
+
+are reported.
+
+195
+196
+
+Adverse effects
+
+197
+
+Participants were asked whether they experienced nausea, claustrophobia, headache, eyestrain, or
+
+198
+
+any other adverse response.
+
+199
+200
+
+Results
+
+201
+
+Mean (SD) participant age was 51.4 (18.7) years. 23 participants (38%) were female. Mean (SD)
+
+202
+
+visual acuity with both eyes open was 0.82 (0.39) logMAR (6/40; 20/132) with a range of 0.04
+
+203
+
+logMAR (6/7; 20/22) to hand movements. Eight participants (13%) had no visual field loss, 27 (45%)
+
+204
+
+had central field loss, 17 (28%) had peripheral field loss, and eight (13%) had both central and
+
+205
+
+peripheral field loss.
+
+206
+207
+
+Eleven participants had retinitis pigmentosa or Usher syndrome, 11 had other inherited retinal
+
+208
+
+diseases, 11 had inherited macular diseases, 6 had age-related macular disease, 6 had optic neuritis,
+
+209
+
+3 had albinism, 2 had glaucoma, and 2 had diabetic eye disease. One participant had each of optic
+
+210
+
+atrophy, optic neuritis, congenital cataract, aniridia, achromatopsia, paediatric glaucoma, congenital
+
+211
+
+stationary night blindness, chronic central serous retinopathy, and Leber’s congenital amaurosis.
+
+212
+213
+
+A. Efficacy
+
+214
+
+Visual acuity (Table 1, Figure 3) was significantly different between conditions (F = 223.14, p <
+
+215
+
+0.0001, ηp2 = 0.817). Post hoc analysis revealed a significant difference between baseline and normal
+
+216
+
+mode (p < 0.0001) as well as baseline and preferred enhanced mode (p < 0.0001), but not between
+
+
+[page 11]
+217
+
+normal and enhanced mode (p = 0.292). Visual acuity improved by a mean (SD) of 0.63 (0.34)
+
+218
+
+logMAR – more than 6 lines on the sight chart – to 0.20 (0.28) logMAR in normal mode (N = 58) and
+
+219
+
+by 0.70 (0.32) logMAR – 7 lines – to 0.16 (0.26) logMAR in preferred enhanced mode (N = 51). Visual
+
+220
+
+acuity improved in all but one participant, achieving 0.2 logMAR or better irrespective of baseline
+
+221
+
+acuity in 67% of participants.
+
+222
+223
+
+Contrast sensitivity (Table 1, Figure 3) was significantly different between conditions (F = 52.45, p <
+
+224
+
+0.0001, ηp2 = 0.527). Post hoc analysis revealed a significant difference between all pairwise
+
+225
+
+comparisons (p < 0.0001). Contrast sensitivity improved by a mean (SD) of 0.22 (0.30) log units to
+
+226
+
+1.21 (0.47) log units (6%) in normal mode (N = 55) and by 0.40 (0.31) log units to 1.37 (0.50) log units
+
+227
+
+(4%) in preferred enhanced mode (N = 48).
+
+228
+229
+
+For reading performance (Table 1), near visual acuity (Figure 3) was significantly different between
+
+230
+
+conditions (F = 6.07, p = 0.015, ηp2 = 0.155). Post hoc analysis revealed a borderline significant
+
+231
+
+difference between baseline and normal (p = 0.051) and preferred enhanced mode (p = 0.049), but
+
+232
+
+not between the two modes (p = 1.000). Near visual acuity improved by a mean (SD) of 0.15 (0.35)
+
+233
+
+logMAR to 0.44 (0.32) logMAR – about font size 9 pt – in normal mode (N = 47) and by 0.16 (0.35) to
+
+234
+
+0.46 (0.31) logMAR in preferred enhanced mode (N = 34). Critical print size was significantly different
+
+235
+
+between conditions (F = 5.87, p = 0.005, ηp2 = 0.168). Post hoc analysis revealed a significant
+
+236
+
+difference between baseline and normal (p = 0.043) and baseline and preferred enhanced mode (p =
+
+237
+
+0.028), but not between the two modes (p = 1.000). Critical print size improved by a mean (SD) of
+
+238
+
+0.22 (0.33) logMAR to 0.54 (0.33) – about font size 11 pt – in normal mode (N = 43) and by 0.21
+
+239
+
+(0.34) logMAR to 0.55 (0.33) in preferred enhanced mode (N = 30). Peak reading speed was
+
+240
+
+significantly different between conditions (F = 11.47, p < 0.0001, ηp2 = 0.283). Post hoc analysis
+
+241
+
+revealed a significant difference between baseline and normal (p = 0.002) and preferred enhanced
+
+242
+
+mode (p = 0.007), but not between the two modes (p = 0.604). Peak reading speed fell by a mean
+
+
+[page 12]
+243
+
+(SD) of 24.98 (30.55) words per minute to 56.02 (37.30) words per minute in normal mode (N = 43)
+
+244
+
+and by 24.07 (34.16) words per minute to 62.23 (40.56) words per minute in preferred enhanced
+
+245
+
+mode (N = 30).
+
+246
+247
+
+Table 1. Efficacy metrics.
+
+248
+
+Outcomes for five efficacy metrics across the three study conditions. Conditions with the same
+
+249
+
+superscript (a,b) were significantly different from each other in pairwise post-hoc tests (Bonferroni
+
+250
+
+correction) following a repeated measures ANOVA. Not all participants completed all conditions: for
+
+251
+
+example, some participants were unable to align the device for certain tests, and some participants
+
+252
+
+were unable to read with it. Where participants disliked all enhanced modes, assessment was not
+
+253
+
+performed with the enhanced mode.
+
+254
+
+Distance Visual Acuity
+(ETDRS, in logMAR)
+Contrast sensitivity (Pelli Robson, in log units)
+Near Visual Acuity
+(MNREAD, in logMAR)
+Critical Print Size
+(MNREAD, in logMAR)
+Reading Speed (MNREAD,
+in words/minute)
+255
+256
+
+No device, baseline
+
+With device, normal
+mode
+
+Mean
+(SD)
+0.82
+(0.39)a,b
+0.99
+(0.45)a
+0.56
+(0.30)
+0.75
+(0.24)
+79.34
+(47.82)a,b
+
+Mean
+(SD)
+0.20
+(0.28)a
+1.21
+(0.47) a
+0.44
+(0.32)
+0.54
+(0.33)
+56.02
+(37.30)a
+
+N
+59
+57
+57
+53
+53
+
+N
+59
+56
+49
+44
+44
+
+With device,
+preferred enhanced
+mode
+Mean
+N
+(SD)
+0.16
+52
+(0.26)b
+1.37
+49
+(0.50) a
+0.46
+36
+(0.31)
+0.55
+31
+(0.33)
+62.23
+31
+(40.56)b
+
+
+[page 13]
+257
+258
+
+Figure 3. Mean (SE) distance visual acuity, contrast sensitivity and near visual acuity across the three
+
+259
+
+study conditions. ‘Enhanced mode’ describes the preferred enhanced mode chosen by participants.
+
+260
+261
+
+B. Willingness to use ehLVA
+
+262
+
+A total of 28 participants (47%) indicated that they would use an ehLVA like SightPlus, 27
+
+263
+
+participants (45%) would not and 5 participants (8%) were not sure.
+
+264
+265
+
+Examined individually, seven variables had a significant effect on willingness to use an ehLVA like
+
+266
+
+SightPlus (Table 2): age, affected proportion lifetime, baseline contrast sensitivity, difference in
+
+267
+
+visual acuity with SightPlus (baseline vs. normal mode), history (acquired vs. inherited), use of e-LVAs
+
+268
+
+including smartphones/tablets (yes / no) and work status (working / not working).
+
+269
+
+Multivariate logistic regression resulted in a model with three variables: proportion of lifetime
+
+270
+
+affected (Х2 = 6.4, p = 0.012), baseline contrast sensitivity (Х2 = 5.6, p = 0.018) and use of e-LVAs (Х2 =
+
+271
+
+13.1, p < 0.001). This model explained 41% of the observed variation (Cox and Snell pseudo R2 =
+
+272
+
+0.405).
+
+273
+274
+
+Table 2. Willingness to use ehLVA vs. individual variables.
+
+275
+
+Predictive power of individual variables for willingness to use an ehLVA like SightPlus. Outcomes of
+
+276
+
+independent t-tests for continuous variables and Х2 tests for categorical variables. Effect size
+
+
+[page 14]
+277
+
+calculated as the mean difference between ‘yes’ and ‘no’ cohort. * significant effect with alpha =
+
+278
+
+0.05.
+Would you use an ehLVA like SightPlus?
+No
+Variable
+
+N
+
+Mean
+(SD)
+
+Age (years)
+Time since diagnosis
+(years)
+Proportion lifetime with
+sight loss (fraction, 0 to 1)
+Binocular VA, baseline
+(logMAR)
+Binocular CS, baseline (log
+units)
+Binocular VA, end point in
+normal mode (logMAR)
+Binocular CS, end point in
+normal mode (log units)
+Binocular VA, difference in
+normal mode (logMAR)
+Binocular CS, difference in
+normal mode (log units)
+
+27
+
+58 (20)
+
+28
+
+43 (16)
+
+Effect size
+(mean
+difference)
+15
+
+27
+
+15 (18)
+
+28
+
+23 (13)
+
+-7
+
+0.082
+
+-0.28
+
+0.003*
+
+-0.17
+
+0.113
+
+0.25
+
+0.031*
+
+0.05
+
+0.476
+
+0.19
+
+0.108
+
+0.20
+
+0.029*
+
+-0.09
+
+0.278
+
+Gender (male (A)/ female
+(B))
+History (inherited (A)/
+acquired (B))
+Progression (progressive
+(A)/ stable (B))
+Use of e-LVAs (yes (A)/ no
+(B))
+Work status (working (A)/
+not working (B))
+Visual field status (central,
+full, mixed, peripheral)
+279
+280
+
+Yes
+
+C. Preferred mode
+
+27
+27
+25
+26
+23
+26
+23
+
+0.30
+(0.35)
+0.72
+(0.42)
+1.18
+(0.35)
+0.20
+(0.31)
+1.39
+(0.43)
+-0.53
+(0.33)
+0.19
+(0.30)
+
+N
+
+Mean
+(SD)
+
+28
+27
+27
+28
+28
+27
+27
+
+0.58
+(0.31)
+0.89
+(0.35)
+0.92
+(0.46)
+0.15
+(0.23)
+1.19
+(0.42)
+-0.74
+(0.33)
+0.28
+(0.30)
+
+p-value
+0.003*
+
+Count A
+
+Count B
+
+Count A
+
+Count B
+
+16
+
+11
+
+17
+
+11
+
+1.000
+
+15
+
+12
+
+25
+
+3
+
+0.007*
+
+20
+
+7
+
+22
+
+6
+
+0.758
+
+5
+
+22
+
+20
+
+8
+
+<0.001*
+0.015*
+0.394
+
+
+[page 15]
+281
+
+A total of 35 participants (58%) preferred the ‘normal’ mode, ten (17%) preferred ‘inverted’, three
+
+282
+
+(5%) preferred ‘contrast’, two preferred ‘enhanced’ and one preferred ‘text’. The remaining seven
+
+283
+
+participants reported that preference depended on the task.
+
+284
+285
+
+D. Qualitative analysis
+
+286
+
+The 33 participants who indicated that they would use an ehLVA like SightPLus or that were not sure
+
+287
+
+reported a total of 20 different activities as envisaged use cases: television (N=14), reading (N=7),
+
+288
+
+theatre (N=6). reading with children (N=3), finding things (N=3), low light conditions (N=3),
+
+289
+
+cinema/films (N=3), school/college (N=3), watching sports (N=2), signs (N=2), faces (N=2), computer
+
+290
+
+(N=2), buses (N=1), board games (N=1), gardening (N=1), needle threading (N=1), seeing packets
+
+291
+
+(N=1), form filling (N=1) and video games (N=1).
+
+292
+293
+
+The most commonly cited strengths of the device were the image clarity (N=10), the image
+
+294
+
+brightness (N=6), the level of zoom (N=5) and its comfort (N=2).
+
+295
+296
+
+The most frequent criticism of the device was its weight (too heavy, N=26), aesthetic appearance
+
+297
+
+(N=14), image movement or image lag (N=12), preference of own magnifiers (N=9) and not being
+
+298
+
+able to walk with the device (N=6). Other reasons included occlusion of the far periphery through
+
+299
+
+the headset (N=5), not finding it helpful (N=4) and disorientation or problems with depth perception
+
+300
+
+(N=4).
+
+301
+302
+
+Adverse reactions
+
+303
+
+Most of the participants did not report any adverse reaction (48 of 60 participants, 80%). Twelve
+
+304
+
+participants (20%) reported a single adverse reaction and none reported multiple adverse reactions.
+
+305
+
+The most frequently reported adverse reactions were nausea (N=4, 7%) and dizziness (N=4, 7%).
+
+306
+
+Three participants experienced a headache with the device and one participant (with a documented
+
+
+[page 16]
+307
+
+history of dry eye) described “sore eyes”. No participants reported claustrophobia or eye strain. In
+
+308
+
+all cases, symptoms resolved on removal of the headset while participants were in clinic. For six
+
+309
+
+participants (three with nausea, and one with each of headache, sore eyes and dizziness), reactions
+
+310
+
+were severe enough for the investigator to terminate the study session early. Data for these
+
+311
+
+participants until the point of termination were analysed.
+
+312
+313
+
+Discussion
+
+314
+315
+
+Summary of findings
+
+316
+
+This study investigated improvements in vision and the willingness to use an ehLVA using SightPlus
+
+317
+
+(GiveVision, UK). SightPlus provided clinically significant and functionally relevant improvements in
+
+318
+
+visual acuity and contrast sensitivity: distance visual acuity improved by more than 6 lines on a
+
+319
+
+logMAR chart, and contrast sensitivity improved by 8 letters with image enhancement. Half of our
+
+320
+
+study population indicated willingness to use the device. Examining predictor variables individually,
+
+321
+
+we found a significant effect for willingness to use an ehLVA for those with younger age, longer
+
+322
+
+proportion of lifetime with visual impairment, lower baseline contrast sensitivity, greater
+
+323
+
+improvement in visual acuity with SightPlus (baseline vs. normal mode), inherited sight loss
+
+324
+
+(compared to acquired sight loss), existing use of electronic LVAs (including smartphones/tablets)
+
+325
+
+and working. Multivariate logistic regression reduced this parameter space to the proportion of
+
+326
+
+lifetime affected, baseline contrast sensitivity and use of electronic LVAs, explaining 41% of the
+
+327
+
+variation in the data. This illustrates that while the examined factors may predict the likelihood of
+
+328
+
+uptake to a degree, factors beyond the scope of this study also play a role. While we anticipated that
+
+329
+
+current use of electronic LVAs would predict willingness to use, we were surprised to find that
+
+330
+
+baseline acuity was not a predictor. This shows that lifestyle and other factors maybe more
+
+331
+
+important for the relevance of ehLVAs.
+
+332
+
+
+[page 17]
+333
+
+Efficacy
+
+334
+
+Improvements in performance on standard sight tests were similar to those reported for the eSight
+
+335
+
+ehLVA device, which gave a mean (SD) of 0.20 (0.31) logMAR (compared to 0.20 (0.28) logMAR in
+
+336
+
+the present study) and contrast sensitivity of 1.44 (0.44) log units (compared to 1.21 (0.47) log units
+
+337
+
+in normal mode and 1.37 (0.50) log units with preferred enhanced mode in the present study).17
+
+338
+
+While participants in the eSight trial were self-selected through wanting to use eSight, participants in
+
+339
+
+the present study were a random sample from a low vision clinic. Given the similarity between our
+
+340
+
+results and the eSight study, a prior disposition of wanting to use an ehLVA is unlikely to predict
+
+341
+
+efficacy.
+
+342
+343
+
+For reading performance, we found a smaller positive effect compared to eSight:17 near visual acuity
+
+344
+
+and critical print size improved significantly with SightPlus, albeit to a smaller degree (near visual
+
+345
+
+acuity improved from 0.90 to 0.33 logMAR with eSight and 0.56 to 0.44 logMAR with SightPlus;
+
+346
+
+critical print size improved from 1.08 to 0.59 logMAR for eSight and 0.75 to 0.54 logMAR with
+
+347
+
+SightPlus). While in the eSight study there was no significant effect of the ehLVA on reading speed,17
+
+348
+
+we detected a significant decrease in reading speed with SightPlus (from 79 to 56 words per minute
+
+349
+
+in normal mode and to 62 words per minute in preferred enhanced mode). A reduction in reading
+
+350
+
+speed could be explained by reduced visual span, or by image movement. A 2018 review of studies
+
+351
+
+evaluating reading aids for people with low vision found that reading speed may be highest in stand-
+
+352
+
+mounted electronic CCTVs compared to optical devices, with further evidence for longer reading
+
+353
+
+durations and better ease of use.22 Comparing stand-mounted CCTV and head-mounted devices
+
+354
+
+(HMDs), the review reported similar performance between the two: for HMDs, on average 66 words
+
+355
+
+per minute and near visual acuity of 0.92 logMAR; for CCTVs, 3.1 words per minute more for reading
+
+356
+
+speed and 0.05 logMAR more for near visual acuity. It is important to note that near visual acuity for
+
+357
+
+the ehLVAs reported here substantially exceeded those outcomes. Despite the reduced speed in our
+
+358
+
+study, several participants indicated that they would choose to use SightPlus for reading, perhaps
+
+
+[page 18]
+359
+
+because of the increased working distance, comprehension or comfort of reading, none of which we
+
+360
+
+assessed.
+
+361
+362
+
+Willingness to use
+
+363
+
+Half of our study population indicated that they were willing to use an ehLVA like SightPlus,
+
+364
+
+especially for activities such as television, reading or theatre, with many individual activities named.
+
+365
+
+Similarly, a recent large-scale review into functional sight in AMD reported that face recognition,
+
+366
+
+perception of scenes, computer use, meal preparation, shopping, cleaning, watching TV, reading and
+
+367
+
+self-care are among the tasks negatively affected by sight loss.23 Future ehLVAs should aim to
+
+368
+
+support such common activities to enable independence and improvement in quality of life.
+
+369
+370
+
+Seven individual variables predicted a higher willingness to use an ehLVA like SightPlus. Our results
+
+371
+
+agree with the literature summarised in a recent review:24 for example, younger age has been found
+
+372
+
+to be a predictor of better compliance; duration of vision loss may predict greater uptake (similar to
+
+373
+
+our ‘proportion of lifetime affected’ predictor). In our study, as in most previous work, there was no
+
+374
+
+effect of baseline acuity on uptake or benefit. Our univariate and multivariate analysis showed that
+
+375
+
+existing use of electronic devices was a strong predictor for willingness to use an ehLVA like
+
+376
+
+SightPlus. It is not clear whether comfort with technology was a significant factor in this. The role of
+
+377
+
+technological literacy should be explored in future studies, especially for older people. Proportion of
+
+378
+
+lifetime affected and baseline contrast sensitivity also had an effect in this model. Those diagnosed
+
+379
+
+for proportionally longer may have adapted more to their sight loss and be more willing to seek
+
+380
+
+assistance,25 although this requires further research.
+
+381
+382
+
+The most common reasons for not wanting to use the device were its weight, 465g (26 of 60
+
+383
+
+participants), its appearance (14 of 60 participants) and perceived image movement or image lag (12
+
+384
+
+of 60 participants). Weight and appearance are inherent to virtual reality (VR) headset-based
+
+
+[page 19]
+385
+
+solutions like SightPlus or IRIS Vision, although can be overcome through bespoke designs such as
+
+386
+
+that pioneered by eSight. In future, creating lighter and more comfortable to wear devices will be an
+
+387
+
+important design consideration. Perceived image movement and image lag can arise from head
+
+388
+
+movement, throttled processing speed or optical image stabilisation resulting in slight lag of the
+
+389
+
+scene relative to head movement. Improved image stabilisation, zero-lag image processing and
+
+390
+
+compensation for fast changes in head orientation could all make this effect less noticeable.
+
+391
+392
+
+Exactly half of those who met the World Health Organisation criterion for low vision (visual acuity
+
+393
+
+poorer than 6/18) would use a ehLVA like SightPlus, compared to 47% of our complete sample. We
+
+394
+
+could not determine the lower acuity limit for SightPlus to be useful: the participant with the
+
+395
+
+poorest visual acuity (perception of light in the right eye, hand movements in the left eye) improved
+
+396
+
+to 0.06 logMAR (6/7; 20/23) and would use the device for work and television.
+
+397
+398
+
+Outlook
+
+399
+
+As more wearable low vision devices become available, a standardised test battery or unified task
+
+400
+
+inventory of real-life activities would enable true comparison of different devices and quantify their
+
+401
+
+impact on performance of common daily tasks. No such comparison has yet been performed, and
+
+402
+
+limited data are available on new wearable devices.2 Assessment of visual function beyond acuity
+
+403
+
+and contrast sensitivity has been called for in a large-scale review of visual function and quality of
+
+404
+
+life in AMD23 and would enable comprehensive evaluation and benchmarking of all types of low
+
+405
+
+vision aids. A comparative study of devices would be invaluable to clinicians, patients and carers.
+
+406
+
+Our clinical experience with this device suggests that existing inventories may need to be revised to
+
+407
+
+reflect common, modern real-world tasks across a broad age group. Any such evaluation package
+
+408
+
+should contain tasks most commonly needing visual aids by people with low vision while being
+
+409
+
+repeatable across different institutions. Examples of this include the inclusion of face recognition by
+
+410
+
+Wittich17 and a bespoke (albeit unvalidated) task inventory used by Orcam.18 Future work should
+
+
+[page 20]
+411
+
+expand on this to include measurable performance, avoiding the confounding effects of self-
+
+412
+
+reporting and observation. The impact of ehLVAs on quality of life needs to be established in order
+
+413
+
+to facilitate any future health economic assessments.
+
+414
+415
+
+Study limitations
+
+416
+
+Our inclusion criteria were deliberately broad in order to determine who would most benefit from
+
+417
+
+this system. Since we did not find clear cut-offs with regards to minimum or maximum baseline
+
+418
+
+visual acuity for those who benefit from an ehLVA, future work should either use a stratified
+
+419
+
+sampling method with a larger sample size, or focus on specific disease conditions to identify patient
+
+420
+
+beneficiaries more robustly. Visual acuity may not be a predictor of benefit or uptake, and future
+
+421
+
+work should continue to examine a broad range of predictor variables.
+
+422
+423
+
+In this study, we allowed participants free choice of the image enhancement mode which they found
+
+424
+
+most useful for a given task. Our results for ‘preferred enhanced mode’ hence contain different
+
+425
+
+modes. Although visual acuity and contrast sensitivity improved further with image enhancement
+
+426
+
+as well as zoom, 58% of participants preferred the ‘normal’ mode. It is important to note that the
+
+427
+
+outcomes we used were letter and text based. Enhancement mode preferences for images
+
+428
+
+containing a broader range of colours and spatial frequencies (such as natural scenes or TV) may
+
+429
+
+differ. Previous research has shown that participants tend to prefer the most natural looking image
+
+430
+
+rendering through lower level enhancements, and that preferences depend on the nature of sight
+
+431
+
+loss and image content.16 26 Further work is needed to link image enhancement modes to tasks and
+
+432
+
+sight loss conditions, as has been attempted by other groups.12 13
+
+433
+434
+
+Adverse reactions were reported by 12 participants (20%), with nausea and dizziness being the most
+
+435
+
+common unpleasant sensations. Nausea has been reported as a side-effect of wearable devices.8 17
+
+436
+
+These symptoms resolved as soon as the device was removed. Six participants (10%) were not able
+
+
+[page 21]
+437
+
+to complete the full study session due to adverse effects. Future work should investigate the causes
+
+438
+
+of these adverse effects and should endeavour to remove them by, for example, providing a less
+
+439
+
+enclosed design.
+
+440
+441
+
+Conclusions
+
+442
+
+This augmented reality low vision aid improves visual acuity, contrast sensitivity and near visual
+
+443
+
+acuity. Approximately half of the people we demonstrated it to would want to use it, primarily for
+
+444
+
+distance tasks. Uptake of the device would be higher if it was lighter and more cosmetically
+
+445
+
+acceptable. We recommend that adults with low vision are given the opportunity to evaluate ehLVAs
+
+446
+
+until larger scale studies can help better characterise those for whom these devices will prove
+
+447
+
+particularly beneficial.
+
+448
+449
+
+The efficacy of ehLVAs has now been demonstrated in two devices with different form factor and
+
+450
+
+display technology (eSight and SightPlus). Research now needs to move beyond the clinic, to
+
+451
+
+quantify the benefits of these systems for visually impaired people at work, in education, and at
+
+452
+
+home. We hope that electronic, head-mounted low vision aids become more widely used and that
+
+453
+
+they will increase the number of tasks which can be easily performed by people with visual
+
+454
+
+impairment.
+
+455
+456
+
+References
+
+457
+458
+459
+460
+461
+462
+463
+464
+465
+
+1. Moshtael H, Aslam T, Underwood I, Dhillon B. High Tech Aids Low Vision: A Review of Image
+Processing for the Visually Impaired. Transl Vis Sci Technol 2015;4(4):6.
+2. Deemer AD, Bradley CK, Ross NC, Natale DM, Itthipanichpong R, Werblin FS, et al. Low Vision
+Enhancement with Head-mounted Video Display Systems: Are We There Yet? . Optom Vis Sci
+2018;95(9):774-84.
+3. Ehrlich J, Ojeda L, Wicker D, Day S, Howson A, Lakshminarayanan V, et al. Head-Mounted Display
+Technology for Low-Vision Rehabilitation and Vision Enhancement. Am J Ophthalmol
+2017;176:26-32.
+
+
+[page 22]
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+
+4. Massof RW, Rickman DL. Obstacles encountered in the development of the low vision
+enhancement system. Optom Vis Sci 1992;69(1):32-41.
+5. Itoh Y, Klinker G. Vision enhancement: defocus correction via optical see-through head-mounted
+displays. Proc. 6th Augment. Hum. Int. Conf 2015:1-8.
+6. Zhao Y. ForeSee : A Customizable Head-Mounted Vision Enhancement System for People with Low
+Vision. ASSETS ’15 17th Int. ACM SIGACCESS Conf. Comput. Access 2015:239-49.
+7. Moshtael H, Fu L, Underwood I, Dhillon B. Evaluation of Head-Mounted Displays for Macular
+Degeneration: A Pilot Study. In: Chen YW, Tanaka S, Howlett R, Jain L, editors. Innovation in
+Medicine and Healthcare 2016. InMed 2016. Smart Innovation, Systems and Technologies,
+Vol 60. Cham, Switzerland: Springer, 2016.
+8. Deemer A, Deremeik J, Massof RW, Bradley C, Fujiwara K, Werblin FS, et al. Evaluation of a Virtual
+Bioptic Telescope and Virtual Projection Screen for Low Vision Patients. Invest Ophthalmol
+Vis Sci 2018;59(9):2563.
+9. Hwang AD, Peli E. An augmented-reality edge enhancement application for Google glass. Optom
+Vis Sci 2014;91(8):1021-30.
+10. Lawton T. Improved word recognition for observers with age-related maculopathies using
+compensation filters. Clin Vis Sci 1988;3(2):125-35.
+11. Lawton TB. Improved Reading Performance Using Individualized Compensation Filters for
+Observers with Losses in Central Vision. Ophthalmology 1989;96(1):115-26.
+12. Leat SJ, Mei M. Custom-devised and generic digital enhancement of images for people with
+maculopathy. Ophthalmic & physiological optics 2009;29(4):397-415.
+13. Leat SJ, Omoruyi G, Kennedy A, Jernigan E. Generic and customised digital image enhancement
+filters for the visually impaired. Vision Res 2005;45(15):1991-2007.
+14. Peli E, Goldstein RB, Young GM, C.L. T, Buzney SM. Image enhancement for the visually impaired.
+Simulations and experimental results. Invest Ophthalmol Vis Sci 1991;32(8):2337-50.
+15. Peli E, Lee E, Trempe CL, Buzney S. Image enhancement for the visually impaired: the effects of
+enhancement on face recognition. J Opt Soc Am A 1994;11(7):1929-39.
+16. Tang J, Kim J, Peli E. Image enhancement in the JPEG domain for people with vision impairment.
+IEEE transactions on biomedical engineering 2004;51(11):2013-23.
+17. Wittich W, Lorenzini M-C, Markowitz SN, Tolentino M, Gartner SA, Goldstein JE, et al. The Effect
+of a Head-mounted Low Vision Device on Visual Function. Optom Vis Sci 2018;95(9):774-84.
+18. Moisseiev E, Mannis M. Evaluation of a Portable Artificial Vision Device Among Patients With
+Low Vision. JAMA Ophthalmol 2016;134(7):748-52.
+19. Crossland MD, Silver J. Thirty years in an urban low vision clinic: Changes in prescribing habits of
+low vision practitioners. Optometry and vision science 2005;82:617-22.
+20. Leat SJ, Legge GE, Bullimore MA. What is low vision? A re-evaluation of definitions. Optom Vis Sci
+1999;76(4):198-211.
+21. Calabrèse A, To L, Berkholtz E, Rafian P, Legge GE. Comparing performance on the MNREAD iPad
+application with the MNREAD acuity chart. Journal of vision 2018;18(1):8.
+22. Virgili G, Acosta R, Grover LL, Bentley S, Giacomelli G. Reading aids for adults with low vision.
+Cochrane Database Syst Rev 2013;23(10):CD003303.
+23. Taylor DJ, Hobby AE, Binns AM, D.P. C. How does age-related macular degeneration affect real world visual ability and quality of life? A systematic review. BMJ Open 2016;6(12):e011504.
+24. Lorenzini M-C, Wittich W. Factors related to teh use of magnifying low vision aids: a scoping
+review. Disabil Rehabil 2019;23:1-13.
+25. Crossland MD, Culham LE. Psychological aspects of visual impairment. Optometry in Practice
+2000;1(1):21-26.
+26. Fullerton M, Peli E. Digital Enhancement of Television Signals for People with Visual Impairments:
+Evaluation of a Consumer Product. J. Soc. Inf. Disp. 2008;16(3):493-500.
+

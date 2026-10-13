@@ -1,0 +1,1065 @@
+[page 1]
+This may be the author’s version of a work that was submitted/accepted
+for publication in the following source:
+Black, Alexander, Wood, Joanne, Lovie-Kitchin, Jan, & Newman, Beth
+(2008)
+Visual impairment and postural sway among older adults with glaucoma.
+Optometry and Vision Science, 85(6), pp. 489-497.
+This file was downloaded from: https://eprints.qut.edu.au/15454/
+
+© Consult author(s) regarding copyright matters
+This work is covered by copyright. Unless the document is being made available under a
+Creative Commons Licence, you must assume that re-use is limited to personal use and
+that permission from the copyright owner must be obtained for all other uses. If the document is available under a Creative Commons License (or other specified license) then refer
+to the Licence for details of permitted re-use. It is a condition of access that users recognise and abide by the legal requirements associated with these rights. If you believe that
+this work infringes copyright please provide details by email to qut.copyright@qut.edu.au
+
+Notice: Please note that this document may not be the Version of Record
+(i.e. published version) of the work. Author manuscript versions (as Submitted for peer review or as Accepted for publication after peer review) can
+be identified by an absence of publisher branding and/or typeset appearance. If there is any doubt, please refer to the published source.
+https://doi.org/10.1097/OPX.0b013e31817882db
+
+
+[page 2]
+VISUAL IMPAIRMENT AND POSTURAL SWAY AMONG OLDER ADULTS WITH
+GLAUCOMA
+Alex A Black,1 Joanne M Wood,1 Jan E Lovie-Kitchin1 and Beth M Newman2
+1
+
+School of Optometry and Institute of Health and Biomedical Innovation, Queensland
+
+University of Technology
+2
+
+School of Public Health and Institute of Health and Biomedical Innovation, Queensland
+
+University of Technology
+
+CORRESPONDING AUTHOR:
+Alex Black
+School of Optometry and Institute of Health and Biomedical Innovation
+Queensland University of Technology
+Brisbane, Australia
+Email: aa.black@qut.edu.au
+
+
+[page 3]
+ABSTRACT
+
+PURPOSE: To investigate the effect of visual impairment on postural sway among older
+adults with open-angle glaucoma.
+
+METHODS: This study included 54 community-dwelling participants with open-angle
+glaucoma, aged 65 and older. Binocular visual field loss was estimated from merged
+monocular Humphrey Field Analyzer visual field results and retinal nerve fiber layer
+(RNFL) thickness was obtained from the Stratus Optical Coherence Tomographer.
+Postural sway was measured under four conditions: eyes open and closed, on a firm and a
+foam surface. Data were collected for additional vision measures (visual acuity and
+contrast sensitivity), physical performance measures (self-reported physical activity levels
+and six-minute walk test), and demographic measures (age, gender, body mass index and
+medical history). Multivariate linear regressions, adjusting for confounding factors, were
+performed to determine the association between visual loss and postural sway.
+
+RESULTS: Participants with greater binocular visual field loss or thinner RNFL thickness
+showed increased postural sway, both on firm and foam surfaces, independent of age,
+gender, BMI and physical performance levels. These visual loss measures were
+significant predictors of postural sway, explaining almost 20% of its variance on the foam
+surface. Furthermore, participants with greater inferior hemifield visual field loss showed
+increased postural sway on the foam surface. Increasing glaucomatous visual impairment
+was accompanied by a steady decrease of the visual contribution to postural control.
+
+CONCLUSION: Among older adults with glaucoma, greater visual field loss or thinner
+RNFL thickness is associated with reduced postural stability. This postural instability may
+be a contributing factor in the increased risk of falls among older adults with glaucoma.
+
+KEY WORDS: glaucoma; visual field; postural sway; balance; ageing
+
+
+[page 4]
+Falls occur increasingly frequently as people age, with more than a third of adults aged 65
+and older experiencing a fall each year.1,2 Many experience physical and emotional
+injuries as a result,1,2 with falls being the leading cause of injury-related hospitalization and
+death in the older population.3 A number of visual function measures have been identified
+as contributing to falls,4 which is important given the increasing loss of visual function with
+age.5 In particular, ageing is associated with an increased prevalence of visual field loss,
+primarily due to glaucoma.6,7 Several large population studies have found significant
+associations between visual field loss and poor mobility8 or falls.7,9,10 Individuals with
+glaucoma report difficulties with mobility,11 demonstrate reduced mobility performance,12
+and are more likely to experience a fall1,13 or a hip fracture14 than those without glaucoma.
+There is also evidence that the use of nonmiotic topical glaucoma medications
+(predominantly beta-blockers) can increase the risk of falling in this population.2,15
+However, the underlying factors that lead to falls among older adults with glaucomatous
+visual field loss are not fully understood.
+
+Reduced postural control is an important factor in terms of falls assessment as it has been
+identified as an important risk factor for falling.16,17 The visual system plays an important
+role in postural control, together with the vestibular and somatosensory systems. 18 It has
+been well documented that postural control among individuals with normal vision is
+impaired in the presence of simulations of visual impairment, including refractive blur, 19-21
+cataract blur,20 and visual field restriction.21,22 Studies have also demonstrated reduced
+postural stability in individuals with true visual impairment including age-related macular
+degeneration,23 and cataracts, with improvements in postural stability being recorded
+following cataract surgery.24 Of direct relevance to the research reported here is the study
+of Shabana et al25 who assessed postural stability using force platform analysis in 35
+open-angle glaucoma patients and 21 age-matched controls. While no significant
+differences in sway measures between the two groups were found, their sample of
+glaucoma patients was relatively young (aged 40-66 years) which is not necessarily
+representative of glaucoma patients in general. It is important to fully explore the
+relationship between visual field loss and postural stability within an older population, given
+the increasing prevalence of glaucoma in those aged 60 years and older.6
+
+Evidence suggests that ageing is associated with an increase in the contribution of vision
+to postural control, which acts to compensate for the age-related deterioration in the
+
+
+[page 5]
+somatosensory and vestibular systems.26-28 However, ocular disease is accompanied by a
+decrease in the visual contribution to postural control.25,29,30 Shabana et al25 demonstrated
+that visual field loss from glaucoma was significantly associated with a reduction in the
+visual contribution to postural control, by an amount that correlated with the extent of
+visual field loss. Similar studies have found that that the visual contribution to postural
+control is reduced among individuals with retinitis pigmentosa29 and with central field
+loss.30 These findings suggest that older adults with visual impairment arising from ocular
+disease are more likely to show signs of reduced postural stability due to declines in
+several balance sensory systems.
+
+The current study aimed to examine the effect of glaucomatous visual impairment on
+postural sway in a community-based sample of older adults and to assess its impact on
+the visual contribution to postural control. This study extends previous research by
+assessing postural sway in an older glaucoma population, with adjustment for several
+possible confounding factors and incorporating a comprehensive set of vision measures.
+
+METHODS:
+Subjects
+Fifty-four community-dwelling individuals aged 65 or older diagnosed and currently being
+treated for open-angle glaucoma were recruited for this study. Participants were recruited
+from the clinical records of the Queensland University of Technology Optometry Clinic and
+private ophthalmology practices. Participants were required to have no significant ocular
+or visual pathway disease leading to visual field loss, other than glaucoma, including any
+form of cataracts graded 3.0 or worse as defined by the Lens Opacities Classification
+System III.31 Participants with Parkinson ’s Disease, with a history of dizziness or
+vestibular disease, who used walking aids, or with signs of cognitive impairment (Minimental State Examination score <24 out of 30)32 were excluded. The research followed
+the tenets of the Declaration of Helsinki, and informed consent was obtained prior to
+participant assessment. The research was approved by the Queensland University of
+Technology Human Research Ethics Committee.
+
+Visual Function Assessment
+All participants underwent an eye examination which included ophthalmoscopy, slit-lamp
+biomicropscopy and fundus photography, to confirm eligibility for the study. Presenting
+
+
+[page 6]
+monocular visual acuities (VA) were measured with participants’ habitual refractive
+correction using the Bailey-Lovie high contrast letter chart at 6 metres. Visual acuity was
+scored as the total number of letters read correctly, converted to logMAR units. 33 Contrast
+sensitivity (CS) was measured monocularly with habitual refractive correction using the
+Pelli-Robson letter chart at 1 meter with a +0.75DS working distance correction in place,34
+and scored as the number of letters correctly identified. 35 The better of the two monocular
+scores were used, given that they closely predict binocular visual function. 36
+
+Visual fields were assessed using the Humphrey Field Analyzer II (model 750, Carl Zeiss
+Meditec Inc., Dublin, CA). All participants had previous experience with automated
+perimetry, and testing was performed by an experienced optometrist (AB) to ensure
+reliable visual field data. Monocular 24–2 SITA-Standard threshold tests were performed,
+and graded using the Advanced Glaucoma Intervention Study (AGIS) visual field scoring
+criteria.37 The right and left fields were merged to create a binocular visual field extending
+60º horizontally (VF60), based on the more sensitive of the two visual field locations in
+each eye,38 and a mean deviation score was calculated. In addition, monocular 81-point,
+single intensity (24dB) screening strategy tests were performed. The results were merged
+to create a 96-point binocular visual field extending 120º horizontally (VF120) based on the
+more sensitive of the two visual field locations in each eye according to the method
+described by Turano et al.8 The total number of points missed was counted for the
+binocular VF120 visual field. Retinal nerve fibre layer (RNFL) thickness, in micrometers
+(μm), was measured for each eye using the Stratus OCT 3000 (software version 4.0.5,
+Carl Zeiss Meditec Inc, Dublin, CA).39,40 Well-focused, centred scans with a signal
+strength > 6 using the Fast RNFL Thickness 3.46 Scan protocol were included in the
+analyses. The thicker average RNFL thickness of the two eyes was used as a measure of
+binocular visual function.
+
+Demographic and Physical Performance Assessment
+Data were collected on demographic information (age and gender) and medical
+information (self-rated health, medical history and current medication use). The number of
+falls in the 12 months prior to participation in the study was determined by self-report.
+Cognitive status was assessed using the standardized Mini-Mental State Examination
+(MMSE) to ensure inclusion eligibility.32 Body mass index (BMI) was calculated as weight
+divided by the square of height. Self-reported physical activity levels were assessed using
+
+
+[page 7]
+the Physical Activity Scale for the Elderly (PASE).41,42 This is a validated questionnaire
+specific to the older population, based on a range of leisure, household, and occupational
+activities performed seven days prior to assessment. Participants completed a six-minute
+walk test (6MWT), which is a sub-maximal performance-based measure of functional
+exercise level, incorporating the impact of co-morbidities, overall muscle strength,
+endurance and disability.43-45 In this test the distance, in metres, that a participant could
+quickly walk along an indoor, well-lit level corridor for a period of 6 minutes was recorded.
+
+Postural Sway Assessment
+Postural sway was measured during quiet stance with a swaymeter (Prince of Wales
+Medical Research Institute, Sydney, Australia) which determines the amount of body
+displacement at waist height. The device consists of a rod attached to the participant’s
+waist with a firm belt. Body movement is recorded with a pen onto graph paper attached
+to a table positioned behind the subject. This device provides a simple, valid clinical
+measure of postural control, used frequently in falls risk assessment.46 Full descriptions of
+the apparatus and procedures along with test-retest reliability have been described
+elsewhere.47
+
+Testing was performed with bare feet set comfortably apart, with arms relaxed by the sides
+and gaze directed forwards with habitual refractive correction. Sway was measured for 30
+seconds in each of four conditions: (i) eyes open, firm surface; (ii) eyes closed, firm
+surface; (iii) eyes open, foam surface; (iv) eyes closed, foam surface. The firm surface
+was a carpeted, level floor. The foam surface was a high-density foam rubber (70cm by
+60cm by 15cm thick), used to reduce the somatosensory contribution to postural stability.
+Postural sway in each condition was calculated as the logarithm of the total sway area
+(mm²), determined by the product of maximal amplitude of anterior-posterior and lateral
+sway. Larger values indicated a greater amount of postural sway.
+
+The visual contribution to postural stability was calculated using a Visual Stability Ratio
+(VSR). Previous studies have established that compared to the Romberg quotient, this
+ratio has less variability and a normal distribution.25,48 The VSR was defined as
+Visual Stability Ratio (VSR) = 1 – (postural sway with eyes open, on foam)
+(postural sway with eyes closed, on foam)
+
+
+[page 8]
+A value of 0 or less indicated no visual contribution to postural stability. Values greater
+than 0 indicated a visual contribution, such that less postural sway occurred with eyes
+open as compared with eyes closed.
+
+Statistical Analysis
+Statistical analyses were performed using SPSS (version 14.0, SPSS, Chicago, IL) and pvalues less than .05 were used to indicate statistical significance. Standard measures of
+central tendency were used to describe the study population with respect to demographic,
+physical performance and visual function measures. VF60 scores were inverse log
+transformed and VF120 scores were square-root transformed to normalize their
+distributions. Bivariate correlations were performed between the demographic, physical
+performance and visual function measures with the postural sway measures (eyes open
+and closed, firm and foam surface) and VSR. Correlations were expressed as Pearson’s r
+unless otherwise stated. Spearman’s rank test was used for variables not considered
+normally distributed.
+
+Separate linear regression models were used to determine the association between
+postural sway (eyes open, firm and foam surface) and each of the binocular visual loss
+measures (VF120, VF60 and RNFL thickness). Characteristics considered likely to be
+associated with visual impairment and postural sway based on previous literature and
+clinical judgments were included as potential confounders. Reductions in physical
+functional status and well-being are associated with visual impairment,49 while reductions
+in lower-limb and musculoskeletal function can affect postural sway. 18,50 Therefore, the
+PASE, 6MWT and BMI variables were included in the analyses to adjust for the
+participants’ level of functional status, in addition to demographics characteristics such as
+age and gender, regardless of their statistical significance with the visual function and
+postural sway measures.
+
+To assess the association between the degree of hemifield asymmetry and postural sway,
+we included the Hemifield Difference Score (HDS) for each binocular visual loss measure
+into the linear regression models, adjusting for overall visual loss (for that particular
+measure) and confounding variables. This score was derived due to multicollinearity
+considerations, as strong correlations existed between loss in the superior and inferior
+
+
+[page 9]
+hemifields on VF120, VF60 and RNFL thickness. Separate scores were calculated for
+each binocular visual loss measure: difference in percentage of points seen in the inferior
+and superior field areas on VF120; difference in mean deviation between the inferior and
+superior field areas on VF60; and difference in RNFL thickness between the better-eye
+superior quadrant and the better-eye inferior quadrant. In each case, positive values
+indicated a greater degree of superior hemifield vision loss relative to the inferior hemifield.
+
+Finally, separate linear regression models were used to determine the association
+between VSR and each of the binocular visual loss measures. Because the VSR
+determines the visual contribution to postural stability, these models were adjusted only for
+age and gender.
+In addition to obtaining the squared multiple correlation coefficients (R2) for the linear
+regression models, the squared semipartial correlations (sr2) were examined because
+these express the unique contribution of each predictor variable to the dependent variable.
+Residuals were evaluated in all models to confirm the model assumptions of normality,
+linearity and homoscedasticity. The impact of collinearity among explanatory factors was
+examined by calculation of variance inflation factors (VIF) and multi-collinearity
+(unacceptably high degree of correlation between the variables) was defined as a VIF
+value of 3 or more.51
+
+RESULTS:
+The demographic, physical performance, postural sway and visual function characteristics
+of the 54 participants are presented in Table 1. The mean age was 74.4 years (sd ± 5.8).
+A greater proportion of men participated in the study (n=33, 61%), although there was no
+significant difference in age between males and females (t(52)=0.41, p=0.69). In the
+previous 12 months, 19 subjects (35%) reported at least one fall and six subjects (11%)
+reported two or more falls, with no gender differences between fallers ( 2; p=0.35) or
+multiple fallers ( 2; p=0.14). According to the AGIS visual field scoring criteria in the
+better-eye, 30 participants had no field loss, 12 mild loss and 12 moderate or worse.
+There was a high correlation between AGIS visual field scores between each eye (r=0.71,
+p<0.001, Spearman’s). Due to missing or poor OCT scans, RNFL data were only
+available for 48 participants. The treatment of glaucoma in all but one participant was by
+
+
+[page 10]
+means of topical anti-glaucoma medications. Of these, 19 (36%) were using two or more
+topical preparations and 22 (42%) were using a topical beta-blocker medication.
+
+The correlations between the demographic, physical performance and visual function
+measures and postural sway are summarized in Table 2. On the firm surface with eyes
+open, postural sway was significantly correlated with age and 6MWT, along with VF120,
+VF60 and RNFL thickness. There were no significant correlations with postural sway on
+the firm surface with eyes closed. On the foam surface with eyes open, postural sway was
+significantly correlated with PASE and 6MWT, in addition to AGIS score, VF120, VF60 and
+RNFL thickness. Only age was significantly correlated with postural sway on the foam
+surface with eyes closed. Figure 1 shows the relationship between VF120 and postural
+sway on the foam surface with eyes open. On the firm surface, males had significantly
+larger postural sway areas compared with females (t(52)=2.07, p=0.04), however no
+difference was found on the foam surface (t(52)=1.42, p=0.16). There were no significant
+differences in postural sway in all conditions between those using topical glaucoma beta blocker medications and those not using these medications (p>0.05).
+
+Table 3 presents the results from the linear regression models examining the effect of
+binocular visual loss on postural sway and VSR. With eyes open on the firm surface,
+postural sway was significantly associated with VF120 and RNFL thickness, independent
+of age, gender, BMI, PASE and 6MWT, while VF60 just failed to reach statistical
+significance (β=0.25, p=0.08). Examination of the squared semi-partial correlations
+revealed that these measures uniquely explained 5 to 8% of its variance. Postural sway
+with eyes open on the firm surface was not associated with any of the HDS measures,
+after adjusting for age, gender, BMI, PASE, 6MWT and overall visual loss.
+
+On the foam surface with eyes open, postural sway on the foam surface was significantly
+associated with all binocular visual loss measures (VF120, VF60 and RNFL thickness),
+independent of age, gender, BMI, PASE and 6MWT. The squared semi-partial
+correlations revealed that these measures uniquely explained 17 to 20% of its variance.
+Postural sway on the foam surface with eyes open was significantly associated with HDS
+(VF120), after adjusting for age, gender, BMI, PASE, 6MWT and VF120 score, uniquely
+explaining around 9% of its variance. There was some association between postural
+
+
+[page 11]
+sway on the foam surface and HDS (VF60), but this failed to reach statistical significance
+(β = 0.24, p=0.07), while no association was found with HDS (RNFL).
+
+Because two participants could not complete the sway testing with eyes closed on the
+foam condition unassisted, VSR data were available for 52 participants. All binocular
+visual loss measures were significant predictors of VSR, independent of age and gender.
+The RNFL thickness measure was the strongest predictor of VSR, uniquely explaining
+almost 23% of its variance. Figure 2 plots the relationship between RNFL thickness and
+VSR. There was no significant association between VSR and VA (r=-0.07, p=0.63,
+Spearman’s), CS (r=0.18, p=0.20, Spearman’s) or age (r=0.10, p=0.48). There was no
+significant difference in VSR between males and females (t(50)=-0.43, p=0.67).
+DISCUSSION:
+This study found a significant association between glaucomatous visual impairment and
+postural sway in older adults. Greater binocular visual field loss or thinner RNFL thickness
+was significantly associated with increased postural sway with eyes open, particularly on
+the foam surface, independent of age, gender, body mass index and physical performance
+level. This cohort demonstrated similar levels of physical function compared to that of the
+general community-dwelling older population, in terms of their self-reported physical
+activity,42 performance on the six-minute walk test,44 and the number of reported falls.12,13
+It is likely that in a frailer population, the effect of glaucomatous visual impairment on
+postural stability may be even greater.
+These results do not support those of Shabana et al,25 who failed to find any significant
+differences in postural sway between subjects with glaucomatous visual field loss and
+those with normal vision, based on measures of force platform sway velocities. To explain
+their findings, Shabana et al25 demonstrated that the glaucoma patients, aged between 40
+and 66 years, showed greater somatosensory contributions to postural stability to maintain
+steady stance, as compared to controls. While there are differences in the measures of
+sway and the degree of visual impairment between studies, it is likely that Shabana et al’s
+failure to find an association between visual field loss and postural sway is due to their
+considerably younger sample as compared to those tested in the current study. Ageing,
+particularly in those aged over 60, is associated with significant declines in the
+somatosensory and vestibular systems,26-28 in addition to an increasing prevalence of
+
+
+[page 12]
+glaucoma.6 The findings from the current study suggest that older adults with
+glaucomatous visual impairment are less likely to increase their somatosensory
+contribution to postural stability, resulting in greater postural sway.
+
+Our results are more consistent with previous studies which have examined the influence
+of peripheral visual field loss on postural sway among normally sighted individuals. 22,52,53
+Straube et al52 and Nougier et al53 both demonstrated signficant contributions of peripheral
+vision to the maintence of postural stability, in addition to the contribution of central vision.
+More recently, Berensci et al22 reported that peripheral vision provides a stronger postural
+stabilizing effect than central vision. Their study showed that significant improvements in
+postural stability occurred with peripheral visual stimulation as compared to stimulation of
+the central four degrees.
+
+The current study found that the effect of visual field loss on postural sway was
+considerably stronger on the foam surface, explaining almost 20% of its variance, as
+compared to almost 8% of the variance on the firm surface. This is consistent with
+findings from previous studies,18,20,25,54 as the contribution of vision to postural control
+increases to maintain balance in compensation for the reduced somatosensory input.
+Importantly, the findings on the foam surface emphasize the significant relationship
+between vision and balance and further highlight the detrimental effect of glaucomatous
+visual impairment on postural control. There was no association between any of the vision
+measures and postural sway with eyes closed, which was expected given the lack of
+visual input during these conditions.
+
+There was evidence in the current study to suggest that a greater degree of inferior
+hemifield visual field loss was associated with increased postural sway, particularly on the
+foam surface. This was not supported by the findings on the firm surface, possibly due to
+the weak visual contribution in this condition. In contrast to the visual field loss results,
+hemifield differences in RNFL thickness were not associated with postural sway on the
+foam surface. This disparity may be due to the smaller data set used in the RNFL
+analyses or inaccuracies in regional RNFL measurement, which are known to vary
+according to the distance measured from the optic nerve rim.55
+
+
+[page 13]
+Previous studies with visually impaired individuals have indicated that greater loss in the
+central and lower visual field areas are significantly associated with reduced mobility
+performance.8,56 Moreover, there is some evidence that falls may occur more frequently in
+those with inferior visual field loss.9 Coleman et al9 reported that the odds of falling among
+older women with severe inferior visual field loss, as compared to no inferior loss, was
+91% higher, while the odds of falling among those with severe superior visual field loss, as
+compared to no superior visual field loss, was 74% higher. While it is likely that the inferior
+visual area is critical to mobility performance, particularly for obstacle detection and
+avoidance, the findings from the current study are the first to suggest that the inferior
+visual field may provide a stronger contribution to postural stability than the superior visual
+field.
+
+It has been hypothesized that the inferior visual field provides a greater contribution to the
+dorsal visual pathway, a pathway that travels from the primary visual cortex to the
+posterior parietal lobe and mediates visually guided movements. 57,58 A number of
+behavioral studies have shown that the inferior visual field is more effective in visually
+guided reaching and aiming movements compared to the superior visual field. 57,58 The
+cortical control of postural stability may incorporate this visuo-motor pathway, given our
+findings that a greater degree of inferior visual field loss reduces postural stability.
+
+In this study, the contribution of vision to postural control was shown to decline steadily
+with increased binocular visual loss, independent of age and gender, in agreement with
+previous studies.25,29 Shabana et al25 demonstrated that individuals with glaucomatous
+visual field loss reduce their visual contribution to postural stability, by an amount that
+correlated with severity of field loss. In their study, the mean deviation visual field index in
+the worse-eye was the strongest correlate with the visual stabilization ratio (r=0.40,
+Spearman’s). The magnitudes of association are comparable to the current study, despite
+the differences in the cohort characteristics and the postural stability and visual field
+measures analyzed. In a study by Turano et al,29 individuals with retinitis pigmentosa
+demonstrated a steady decrease in visual contribution to stability, correlating strongly with
+severity of disease (r = -0.59). In the same study, they further demonstrated that artificial
+field restriction in those with normal vision is correlated with a reduction in the visual
+contribution to stability, although not to the same extent as in those with retinitis
+pigmentosa.
+
+
+[page 14]
+Interestingly in the current study thinning of the RNFL was the strongest predictor of the
+visual contribution to postural stability, explaining nearly 23% of its variance, twice that of
+the binocular visual field measures. This disparity was not evident in the postural sway
+models. This stronger association may be due to the fact that damage to the RNFL may
+precede visual field loss,39 or that RNFL thickness may reflect declines in other visual
+functions that influence postural control, such as motion detection.59 This may be an
+important direction for future research, given that previous studies indicate that motion
+sensitivity is significantly reduced in glaucoma patients.60,61
+
+This study may have been improved by using force platform analysis, which can provide
+extensive data pertaining to velocity, area and displacement of the centre of pressure
+occurring at ground level. However, no one sway measure is able to completely reflect the
+complex nature of postural stability, due to the many inherent factors that can contribute to
+the variability of these measures.62 While the sway measure used in the current study is
+less detailed than force platform data, it does provide a basic representation of body trunk
+displacement, shown to be a valid measure of underlying balance impairment. 63 While
+there was no exclusion of subjects based on any lower limb pathology, the inclusion of
+alternative measures of physical function (PASE and 6MWT), which is influenced by lower
+leg strength and co-morbidities,42,43,45 overcomes this limitation.
+
+The strengths of this study include the use of various binocular visual loss measures which
+reflect the level of visual disability encountered under normal binocular viewing conditions
+and the use of analytical techniques which adjusted for potential confounding variables.
+Importantly, this study assessed an older cohort with glaucoma, aged over 65 years who
+have been identified as being more likely to experience falls or fall-related injuries.1,14
+
+In summary, the findings of this study indicate that greater binocular visual field loss or
+thinner RNFL thickness in older adults with glaucoma is significantly associated with
+increased postural sway. Furthermore, postural sway was greater in those with a greater
+degree of inferior hemifield visual field loss, particularly on the foam surface. Increasing
+loss of visual field or RNFL thickness was accompanied by a steady decrease of the visual
+contribution to postural control. These postural changes may be an underlying factor in
+the increased risk of falls and fall-related injuries among older adults with glaucoma.1,13,14
+
+
+[page 15]
+Ensuring that eye-care practitioners, supporting health-care workers and individuals with
+glaucoma are aware of these findings may assist in reducing the occurrence of future falls.
+
+Acknowledgments:
+This project was supported by Queensland University of Technology and Institute of
+Health and Biomedical Innovation. We thank all of the subjects who participated in the
+study, Philippe Lacherez for assistance with statistical advice and Chris Johnson for
+assistance in visual field data conversion.
+
+
+[page 16]
+REFERENCES
+1. Dolinis J, Harrison JE, Andrews GR. Factors associated with falling in older Adelaide
+residents. Aust N Z J Public Health 1997;21:462-8.
+2. Ivers RQ, Cumming RG, Mitchell P, Attebo K. Visual impairment and falls in older
+adults: the Blue Mountains Eye Study. J Am Geriatr Soc 1998;46:58-64.
+3. Stevens JA, Corso PS, Finkelstein EA, Miller TR. The costs of fatal and non-fatal falls
+among older adults. Inj Prev 2006;12:290-5.
+4. Black A, Wood J. Vision and falls: a review. Clin Exp Optom 2005;88:212-22.
+5. Haegerstrom-Portnoy G, Schneck ME, Brabyn JA. Seeing into old age: vision function
+beyond acuity. Optom Vis Sci 1999;76:141-58.
+6. Rudnicka AR, Mt-Isa S, Owen CG, Cook DG, Ashby D. Variations in primary open angle glaucoma prevalence by age, gender, and race: a Bayesian meta-analysis.
+Invest Ophthalmol Vis Sci 2006;47:4254-61.
+7. Ramrattan RS, Wolfs RC, Panda-Jonas S, Jonas JB, Bakker D, Pols HA, et al.
+Prevalence and causes of visual field loss in the elderly and associations with
+impairment in daily functioning: the Rotterdam Study. Arch Ophthalmol
+2001;119:1788-94.
+8. Turano KA, Broman AT, Bandeen-Roche K, Munoz B, Rubin GS, West S. Association
+of visual field loss and mobility performance in older adults: Salisbury Eye Evaluation
+Study. Optom Vis Sci 2004;81:298-307.
+9. Coleman AL, Cummings SR, Yu F, Kodjebacheva G, Ensrud KE, Gutierrez P, et al.
+Binocular visual-field loss increases the risk of future falls in older white women. J Am
+Geriatr Soc 2007;55:357-64.
+10. Freeman EE, Munoz B, Rubin G, West SK. Visual field loss increases the risk of falls
+in older adults: the Salisbury eye evaluation. Invest Ophthalmol Vis Sci 2007;48:444550.
+11. Nelson P, Aspinall P, Papasouliotis O, Worton B, O'Brien C. Quality of life in glaucoma
+and its relationship with visual function. J Glaucoma 2003;12:139-50.
+12. Turano KA, Rubin GS, Quigley HA. Mobility performance in glaucoma. Invest
+Ophthalmol Vis Sci 1999;40:2803-9.
+13. Haymes SA, Leblanc RP, Nicolela MT, Chiasson LA, Chauhan BC. Risk of falls and
+motor vehicle collisions in glaucoma. Invest Ophthalmol Vis Sci 2007;48:1149-55.
+14. Ivers RQ, Cumming RG, Mitchell P, Simpson JM, Peduto AJ. Visual risk factors for hip
+fracture in older people. J Am Geriatr Soc 2003;51:356-63.
+15. Glynn RJ, Seddon JM, Krug JH, Jr., Sahagian CR, Chiavelli ME, Campion EW. Falls in
+elderly patients with glaucoma. Arch Ophthalmol 1991;109:205-10.
+16. Maki BE, Holliday PJ, Topper AK. A prospective study of postural balance and risk of
+falling in an ambulatory and independent elderly population. J Gerontol 1994;49:M7284.
+
+
+[page 17]
+17. Stalenhoef PA, Diederiks JP, Knottnerus JA, Kester AD, Crebolder HF. A risk model
+for the prediction of recurrent falls in community-dwelling elderly: a prospective cohort
+study. J Clin Epidemiol 2002;55:1088-94.
+18. Lord SR, Menz HB. Visual contributions to postural stability in older adults.
+Gerontology 2000;46:306-10.
+19. Anand V, Buckley JG, Scally A, Elliott DB. Postural stability in the elderly during
+sensory perturbations and dual tasking: the influence of refractive blur. Invest
+Ophthalmol Vis Sci 2003;44:2885-91.
+20. Anand V, Buckley JG, Scally A, Elliott DB. Postural stability changes in the elderly with
+cataract simulation and refractive blur. Invest Ophthalmol Vis Sci 2003;44:4670-5.
+21. Paulus WM, Straube A, Brandt T. Visual stabilization of posture. Physiological stimulus
+characteristics and clinical aspects. Brain 1984;107 ( Pt 4):1143-63.
+22. Berencsi A, Ishihara M, Imanaka K. The functional role of central and peripheral vision
+in the control of posture. Hum Mov Sci 2005;24:689-709.
+23. Elliott DB, Patla AE, Flanagan JG, Spaulding S, Rietdyk S, Strong G, et al. The
+Waterloo Vision and Mobility Study: postural control strategies in subjects with ARM.
+Ophthalmic Physiol Opt 1995;15:553-9.
+24. Schwartz S, Segal O, Barkana Y, Schwesig R, Avni I, Morad Y. The effect of cataract
+surgery on postural control. Invest Ophthalmol Vis Sci 2005;46:920-4.
+25. Shabana N, Cornilleau-Peres V, Droulez J, Goh JC, Lee GS, Chew PT. Postural
+stability in primary open angle glaucoma. Clin Experiment Ophthalmol 2005;33:26473.
+26. Choy NL, Brauer S, Nitz J. Changes in postural stability in women aged 20 to 80
+years. J Gerontol A Biol Sci Med Sci 2003;58:525-30.
+27. Woollacott MH. Systems contributing to balance disorders in older adults. J Gerontol A
+Biol Sci Med Sci 2000;55:M424-8.
+28. Era P, Sainio P, Koskinen S, Haavisto P, Vaara M, Aromaa A. Postural balance in a
+random sample of 7,979 subjects aged 30 years and over. Gerontology 2006;52:20413.
+29. Turano K, Herdman SJ, Dagnelie G. Visual stabilization of posture in retinitis
+pigmentosa and in artificially restricted visual fields. Invest Ophthalmol Vis Sci
+1993;34:3004-10.
+30. Turano KA, Dagnelie G, Herdman SJ. Visual stabilization of posture in persons with
+central visual field loss. Invest Ophthalmol Vis Sci 1996;37:1483-91.
+31. Chylack LT, Jr., Wolfe JK, Singer DM, Leske MC, Bullimore MA, Bailey IL, et al. The
+Lens Opacities Classification System III. The Longitudinal Study of Cataract Study
+Group. Arch Ophthalmol 1993;111:831-6.
+32. Folstein MF, Robins LN, Helzer JE. The Mini-Mental State Examination. Arch Gen
+Psychiatry 1983;40:812.
+33. Bailey IL, Lovie JE. New design principles for visual acuity letter charts. Am J Optom
+Physiol Opt 1976;53:740-5.
+
+
+[page 18]
+34. Pelli DG, Robson JG, Wilkins AJ. The design of a new letter chart for measuring
+contrast sensitivity. Clin Vis Sci 1988;2:187-99.
+35. Elliott DB, Bullimore MA, Bailey IL. Improving the reliability of the Pelli-Robson contrast
+sensitivity test. Clin Vis Sci 1991;6:471-5.
+36. Rubin GS, Munoz B, Bandeen-Roche K, West SK. Monocular versus binocular visual
+acuity as measures of vision impairment and predictors of visual disability. Invest
+Ophthalmol Vis Sci 2000;41:3327-34.
+37. Advanced Glaucoma Intervention Study. 2. Visual field test scoring and reliability.
+Ophthalmology 1994;101:1445-55.
+38. Nelson-Quigg JM, Cello K, Johnson CA. Predicting binocular visual field sensitivity
+from monocular visual field results. Invest Ophthalmol Vis Sci 2000;41:2212-21.
+39. Sihota R, Sony P, Gupta V, Dada T, Singh R. Diagnostic capability of optical
+coherence tomography in evaluating the degree of glaucomatous retinal nerve fiber
+damage. Invest Ophthalmol Vis Sci 2006;47:2006-10.
+40. Costa RA, Skaf M, Melo LA, Jr., Calucci D, Cardillo JA, Castro JC, et al. Retinal
+assessment using optical coherence tomography. Prog Retin Eye Res 2006;25:32553.
+41. Washburn RA, Smith KW, Jette AM, Janney CA. The Physical Activity Scale for the
+Elderly (PASE): development and evaluation. J Clin Epidemiol 1993;46:153-62.
+42. Chad KE, Reeder BA, Harrison EL, Ashworth NL, Sheppard SM, Schultz SL, et al.
+Profile of physical activity levels in community-dwelling older adults. Med Sci Sports
+Exerc 2005;37:1774-84.
+43. Enright PL, McBurnie MA, Bittner V, Tracy RP, McNamara R, Arnold A, et al. The 6min walk test: a quick measure of functional status in elderly adults. Chest
+2003;123:387-98.
+44. Lord SR, Menz HB. Physiologic, psychologic, and health predictors of 6-minute walk
+performance in older people. Arch Phys Med Rehabil 2002;83:907-11.
+45. Bean JF, Kiely DK, Leveille SG, Herman S, Huynh C, Fielding R, et al. The 6-minute
+walk test in mobility-limited elders: what is being measured? J Gerontol A Biol Sci Med
+Sci 2002;57:M751-6.
+46. Lord SR, Menz HB, Tiedemann A. A physiological profile approach to falls risk
+assessment and prevention. Phys Ther 2003;83:237-52.
+47. Lord SR, Clark RD, Webster IW. Postural stability and associated physiological factors
+in a population of aged persons. J Gerontol 1991;46:M69-76.
+48. Cornilleau-Peres V, Shabana N, Droulez J, Goh JC, Lee GS, Chew PT. Measurement
+of the visual contribution to postural steadiness from the COP movement:
+methodology and reliability. Gait Posture 2005;22:96-106.
+49. Chia EM, Wang JJ, Rochtchina E, Smith W, Cumming RR, Mitchell P. Impact of
+bilateral visual impairment on health-related quality of life: the Blue Mountains Eye
+Study. Invest Ophthalmol Vis Sci 2004;45:71-6.
+
+
+[page 19]
+50. Sturnieks DL, Tiedemann A, Chapman K, Munro B, Murray SM, Lord SR.
+Physiological risk factors for falls in older people with lower limb arthritis. J Rheumatol
+2004;31:2272-9.
+51. Ryan TP. Modern Regression Methods. New York: John Wiley & Sons, Inc.; 1997.
+52. Straube A, Krafczyk S, Paulus W, Brandt T. Dependence of visual stabilization of
+postural sway on the cortical magnification factor of restricted visual fields. Exp Brain
+Res 1994;99:501-6.
+53. Nougier V, Bard C, Fleury M, Teasdale N. Contribution of central and peripheral vision
+to the regulation of stance. Gait Posture 1997;5:34-41.
+54. Anand V, Buckley J, Scally A, Elliott DB. The effect of refractive blur on postural
+stability. Ophthalmic Physiol Opt 2002;22:528-34.
+55. Gabriele ML, Ishikawa H, Wollstein G, Bilonick RA, Kagemann L, Wojtkowski M, et al.
+Peripapillary nerve fiber layer thickness profile determined with high speed, ultrahigh
+resolution optical coherence tomography high-density scanning. Invest Ophthalmol Vis
+Sci 2007;48:3154-60.
+56. Lovie-Kitchin J, Mainstone J, Robinson J, Brown B. What areas of the visual field are
+important for mobility in low vision patients? Clin Vis Sci 1990;5:249-63.
+57. Khan MA, Lawrence GP. Differences in visuomotor control between the upper and
+lower visual fields. Exp Brain Res 2005;164:395-8.
+58. Krigolson O, Heath M. A lower visual field advantage for endpoint stability but no
+advantage for online movement precision. Exp Brain Res 2006;170:127-35.
+59. Kelly JW, Loomis JM, Beall AC. The importance of perceived relative motion in the
+control of posture. Exp Brain Res 2005;161:285-92.
+60. McKendrick AM, Badcock DR, Morgan WH. The detection of both global motion and
+global form is disrupted in glaucoma. Invest Ophthalmol Vis Sci 2005;46:3693-701.
+61. Falkenberg HK, Bex PJ. Sources of motion-sensitivity loss in glaucoma. Invest
+Ophthalmol Vis Sci 2007;48:2913-21.
+62. Hageman PA, Leibowitz JM, Blanke D. Age and gender effects on postural control
+measures. Arch Phys Med Rehabil 1995;76:961-5.
+63. Goldberg A, Hernandez ME, Alexander NB. Trunk repositioning errors are increased in
+balance-impaired older adults. J Gerontol A Biol Sci Med Sci 2005;60:1310-4.
+
+
+[page 20]
+Table 1: The characteristics of the 54 study participants
+Characteristic
+Demographics
+Age (years), mean ± sd (range)
+
+74.4 ± 5.8 (65 - 90)
+
+Female, n (%)
+
+21 (39%)
+
+Chronic conditions
+Diabetes Mellitus, n (%)
+
+4 (7%)
+
+Previous hip fracture, n (%)
+
+2 (4%)
+
+Self-rated health, n (%)
+Excellent, Very Good,
+Good, Fair
+
+24 (42%)
+31 (59%)
+
+Poor
+
+0 (0%)
+
+Falls in previous year, n (%)
+One or more
+Two or more
+
+19 (35%)
+6 (11%)
+
+Body mass index (kg/m2), mean ± sd
+
+26.6 ± 3.2
+
+PASE (weighted score), mean ± sd
+
+126.2 ± 48.5
+
+Six-minute walk test (metres), mean ± sd
+Postural sway, eyes open on firm, log(mm2), mean ± sd
+
+503.1 ± 71.1
+2.19 ± 0.37
+
+Postural sway, eyes open on foam, log(mm2), mean ± sd
+
+2.82 ± 0.32
+
+Visual Stability Ratio (VSR), mean ± sd
+
+0.16 ± 0.08
+
+Visual acuity, better eye (logMAR), med (range)
+Contrast sensitivity, better eye (logCS), med (range)
+
+0.05 (-0.26 – 0.52)
+1.60 (0.65 – 1.70)
+
+Visual field severity (AGIS score), better eye, n (%)
+No defect (AGIS = 0)
+
+30 (56%)
+
+Mild defect (AGIS = 1-5)
+Moderate defect (AGIS = 6-11)
+
+12 (22%)
+6 (11%)
+
+Severe to end-stage defect (AGIS = 12-20)
+
+6 (11%)
+
+Visual field VF60, mean deviation (dB), med (range)
+
+-2.50 (+1.60 – -28.00)
+
+Hemifield difference score VF60 (dB), mean ± sd
+Visual field VF120, points missed, med (range)
+
+0.45 ± 3.84
+28 (6 - 96)
+
+Hemifield difference score VF120 (%), mean ± sd
+
+4 ± 16
+
+Average RNFL thickness (μm), better eye, mean ± sd (n=48)
+
+84.7 ± 18.8
+
+Hemifield difference score RNFL (μm), mean ± sd
+
+-6.73 ± 20.63
+
+PASE = Physical Activity Scale for the Elderly; AGIS = Advanced Glaucoma Intervention Study;
+VF60 = Binocular 60º visual field; VF120 = Binocular 120º visual field; RNFL = Retinal Nerve Fiber
+Layer thickness; SD = standard deviation.
+
+
+[page 21]
+Table 2: Correlation coefficients between demographic, physical performance and visual
+function measures and postural sway.
+Postural
+sway,
+eyes open,
+firm
+
+Postural
+sway,
+eyes closed,
+firm
+
+Postural
+sway,
+eyes open,
+foam
+
+Postural
+sway,
+eyes closed,
+foam
+
+Age
+
+0.30 *
+
+0.14
+
+0.25
+
+0.40 **
+
+PASE score
+
+-0.22
+
+-0.21
+
+-0.33 *
+
+-0.08
+
+Six-minute walk test
+
+-0.30 *
+
+-0.10
+
+-0.27 *
+
+-0.09
+
+0.07
+
+0.07
+
+-0.14
+
+-0.27
+
+0.03
+
+0.01
+
+0.21
+
+0.26
+
+Contrast sensitivity, better
+eye†
+
+-0.10
+
+-0.11
+
+-0.15
+
+-0.08
+
+AGIS Score†
+
+0.26
+
+0.11
+
+0.43 **
+
+0.16
+
+Binocular 120º visual field
+(VF120)
+
+0.34 *
+
+0.13
+
+0.51 **
+
+0.23
+
+Binocular 60º visual field
+(VF60)
+
+0.33 *
+
+0.13
+
+0.46 **
+
+0.23
+
+Average RNFL thickness,
+better eye
+
+-0.34 *
+
+-0.01
+
+-0.47 **
+
+-0.07
+
+Body mass index
+Visual acuity, better eye
+
+†
+
+PASE = Physical Activity Scale for the Elderly; AGIS = Advanced Glaucoma Intervention Study;
+RNFL = Retinal Nerve Fiber Layer.
+*P<.05; **P <.01; †Spearman’s Rank Correlation
+
+
+[page 22]
+Table 3: Results of multiple linear regression analyses of the association between
+glaucomatous visual loss and postural sway and visual stability ratio (VSR).
+Dependent Variable
+
+Predictor
+
+Model R²
+
+Standardized
+
+Squared
+
+(%)
+
+β
+
+semi-partial
+correlation sr² (%)
+
+Postural sway with eyes
+open, on firm
+
+VF120 a
+
+26.8
+
+0.27 *
+
+6.3
+
+VF60
+
+a
+
+25.7
+
+0.25
+
+5.1
+
+RNFL
+
+a
+
+29.9
+
+-0.31 *
+
+7.5
+
+HDS (VF120) b
+HDS (VF60)
+
+28.5
+
+0.15
+
+1.7
+
+b
+
+30.4
+
+0.25
+
+4.7
+
+b
+
+32.2
+
+0.18
+
+2.3
+
+HDS (RNFL)
+Postural sway with eyes
+open, on foam
+
+VF120 a
+
+39.7
+
+0.48 **
+
+19.4
+
+VF60
+
+a
+
+37.2
+
+0.45 **
+
+16.9
+
+RNFL
+
+a
+
+37.9
+
+-0.48 **
+
+17.6
+
+HDS (VF120) b
+HDS (VF60)
+
+48.9
+
+0.35 **
+
+9.2
+
+b
+
+41.7
+
+0.24
+
+4.5
+
+b
+
+38.3
+
+0.08
+
+0.4
+
+HDS (RNFL)
+Visual stability ratio (VSR)
+
+VF120 c
+VF60
+
+12.8
+
+-0.35 *
+
+11.4
+
+c
+
+10.5
+
+-0.32 *
+
+9.1
+
+c
+
+24.3
+
+0.50 **
+
+22.9
+
+RNFL
+
+VF120 = Binocular 120º visual field; VF60 = Binocular 60º visual field; RNFL = Retinal nerve fiber
+layer thickness; HDS = Hemifield Difference Score.
+a
+
+Adjusted for age, gender, BMI, PASE, 6MWT
+Adjusted for age, gender, BMI, PASE, 6MWT, and overall visual loss
+c
+Adjusted for age, gender
+b
+
+*P<.05; **P <.01
+
+
+[page 23]
+Figure 1: Binocular 120º visual field score (VF120) as a function of postural sway area
+(mm²), with eyes open on a foam surface. Dotted line represents the least squares
+regression fit to the data, Y = 0.09 X + 2.35; r=0.51, p<0.001. * Square root transformed.
+
+Figure 2: Average retinal nerve fiber layer (RNFL) thickness in the better-eye
+(micrometers) as a function of visual stability ratio (VSR). Dotted line represents the least
+squares regression fit to the data, Y = 0.002 X - 0.018; r=0.48, p=0.001.
+

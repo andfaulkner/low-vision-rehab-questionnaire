@@ -1,0 +1,645 @@
+[page 1]
+Downloaded from http://bjo.bmj.com/ on September 10, 2015 - Published by group.bmj.com
+
+BJO Online First, published on August 6, 2015 as 10.1136/bjophthalmol-2015-306621
+Clinical science
+
+Low luminance deﬁcit and night vision symptoms
+in intermediate age-related macular degeneration
+Zhichao Wu, Robyn H Guymer, Robert P Finger
+▸ Additional material is
+published online only. To view
+please visit the journal online
+(http://dx.doi.org/10.1136/
+bjophthalmol-2015-306621).
+Centre for Eye Research
+Australia, Royal Victorian Eye
+and Ear Hospital, University of
+Melbourne, Victoria, Australia
+Correspondence to
+Zhichao Wu, Macular Research
+Unit, Centre for Eye Research
+Australia, Level 1, 32 Gisborne
+Street, East Melbourne, VIC
+3002, Australia;
+wu.z@unimelb.edu.au
+Received 12 January 2015
+Revised 15 July 2015
+Accepted 17 July 2015
+
+ABSTRACT
+Background/aims To determine the relationship
+between self-reported visual difﬁculties under low
+luminance conditions (night vision symptoms) and visual
+function measures in intermediate age-related macular
+degeneration (AMD).
+Methods One hundred participants with bilateral
+intermediate AMD were examined in a prospective cross sectional study with visual function measures including
+best-corrected visual acuity (BCVA), low luminance visual
+acuity (LLVA) and microperimetry in both eyes. A 10-item
+Night Vision Questionnaire (NVQ-10) was then used to
+determine the degree of self-reported night vision
+symptoms experienced by each participant. For analyses,
+low luminance deﬁcit (LLD) was derived as the difference
+between LLVA and BCVA, and microperimetric mean
+sensitivity (MS; all points) and central sensitivity (CS;
+points within the central 1°) were determined. Rasch
+analysis was used to estimate the person measure of
+night vision symptoms, and its relationship with visual
+function parameters was determined.
+Results NVQ-10 person measures were signiﬁcantly
+associated with LLD (β coefﬁcient=0.067, 95% CI 0.005
+to 0.130, p=0.034), but not BCVA, LLVA,
+microperimetric MS or CS ( p≥0.090). Participants with
+the highest degree of self-reported night vision
+symptoms (fourth quartile of person measure) had
+signiﬁcantly worse LLD than those with the least
+difﬁculty (ﬁrst quartile of person measure; p=0.019).
+Conclusions In individuals with bilateral intermediate
+AMD, LLD was associated with self-reported night vision
+symptoms, suggesting that this measure may better
+capture the visual difﬁculties experienced by these
+individuals under low luminance conditions than the
+conventional measure of photopic visual acuity.
+
+Vision Questionnaire (NVQ-10). However, the
+relationship between the degree of night vision
+symptoms and clinical measures of visual function
+under low luminance has not yet been examined.
+These relationships are important to determine in
+order to identify clinical measures that can better
+reﬂect such visual difﬁculties, which are not currently captured using the conventional measure of
+photopic visual acuity.10
+Speciﬁcally, we sought to examine the relationship between night vision symptoms measured by
+the NVQ-10 and the visual function measures of
+low luminance visual acuity (LLVA) and microperimetry in this study. Microperimetry was examined
+since we had previously observed that perimetric
+retinal sensitivity was reduced and exhibited a
+greater rate of decline in areas that subsequently
+developed GA,11 and LLVA was examined since it
+exhibits a close relationship with microperimetric
+retinal sensitivity.2 In addition, these two measures
+are performed under low luminance conditions,
+which may better reﬂect the degree of visual difﬁculty under low luminance conditions assessed by
+the NVQ-10 than the conventional measure of
+photopic visual acuity.
+
+METHODS
+This study involved the prospective recruitment of
+a consecutive series of participants with bilateral
+intermediate AMD, and it was approved by the
+Human Ethics Committee of the Royal Victorian
+Eye and Ear Hospital (RVEEH) and was conducted
+in accordance with the Declaration of Helsinki.
+Written informed consent was obtained from all
+participants.
+
+Participants
+INTRODUCTION
+
+To cite: Wu Z, Guymer RH,
+Finger RP. Br J Ophthalmol
+Published Online First:
+[please include Day Month
+Year] doi:10.1136/
+bjophthalmol-2015-306621
+
+The early stages of age-related macular degeneration (AMD) are associated with a statistically but
+not clinically signiﬁcant reduction in visual acuity
+measured under optimal illumination and high contrast conditions.1 2 However, previous studies
+have reported that individuals with the early stages
+of AMD report vision-related difﬁculties in performing daily activities compared with those with
+normal retinal health.3–5 These difﬁculties are especially marked for activities performed under low
+luminance conditions.5–7
+The degree of self-reported visual difﬁculties
+under low luminance conditions (referred to as
+night vision symptoms) has been reported to be
+associated with an increased risk of developing
+advanced AMD,8 especially geographic atrophy
+(GA).8 9 In these studies, the degree of night vision
+symptoms were measured using the 10-item Night
+
+Participants were recruited from private ophthalmology clinics and the medical retina clinics at the
+RVEEH. The inclusion criteria were being 50 years
+of age or older, having a best-corrected visual
+acuity (BCVA) of 20/40 (or 0.30 logarithm of the
+minimum angle of resolution (logMAR)) or better
+and having intermediate AMD (deﬁned as having at
+least drusen >125 μm12) in both eyes. The exclusion criteria included the presence of any choroidal
+neovascularisation, any atrophic changes including
+GA detected on colour fundus photography,
+drusen-associated atrophy or nascent GA detected
+on spectral-domain optical coherence tomography
+(SD-OCT),13 signiﬁcant cataracts, glaucoma,
+amblyopia or any corneal pathology that would
+compromise vision in either eye. Participants were
+also excluded if they had diabetes, had any neurologic or systemic disease affecting vision, were
+taking any medication known to affect retinal
+
+Wu Z, et al. Br J Ophthalmol 2015;0:1–4. doi:10.1136/bjophthalmol-2015-306621
+
+Copyright Article author (or their employer) 2015. Produced by BMJ Publishing Group Ltd under licence.
+
+1
+
+
+[page 2]
+Downloaded from http://bjo.bmj.com/ on September 10, 2015 - Published by group.bmj.com
+
+Clinical science
+function, had any physical or mental impairment preventing
+them from participating in this study or were unable to sign a
+consent form.
+
+Examination procedures
+Visual acuity measurements and microperimetry examinations
+were performed prior to fundus imaging, to prevent bleaching
+of the retina from the imaging light sources.
+
+Visual acuity measurements
+A standardised refraction protocol was performed monocularly
+using an Early Treatment of Diabetic Retinopathy Study
+(ETDRS) refraction chart at a testing distance of 4 m and with a
+standard test luminance of 85 cd/m2. BCVA was also measured
+at the same distance. A 2.0-log unit neutral density ﬁlter (Kodak
+Wratten ﬁlter; Kodak, Rochester, New York, USA) was then
+placed in front of the study eye and LLVA was measured without
+additional time for adaptation, since a previous study has shown
+that no additional period of adaptation was required for eyes
+with GA when using this procedure to measure LLVA.14 15 For
+all measurements, participants were asked to guess all the letters
+in a given line, and visual acuity measurements were recorded in
+logMAR, with each letter given a score of 0.02 logMAR.
+
+Microperimetry examination
+Microperimetric examinations were performed using the
+Macular Integrity Assessment (MAIA, CenterVue, Padova, Italy)
+microperimeter as outlined in detail previously.16 Brieﬂy, they
+were performed following pupillary dilation using 1 drop of 1%
+tropicamide and 1 drop of 2.5% phenylephrine to achieve a
+pupil diameter of at least 6 mm. All participants were given
+identical verbal instructions regarding how to perform the
+microperimetry examination.
+The MAIA performs fundus tracking using a line-scanning
+laser ophthalmoscope with a super-luminescent diode illumination that has a central wavelength of 850 nm. It uses the entire
+fundus as a reference when performing fundus tracking, capturing the fundus images at 25 frames per second. With fundus
+tracking, test stimuli can be presented at the same retinal location throughout the test independent of shifts in ﬁxation. A red
+circular ﬁxation target of 1° diameter was used in this study, and
+Goldman III stimuli were presented for 200 ms against a background of 1.27 cd/m2 using a 4–2 threshold strategy. The
+maximum stimulus luminance was 318 cd/m2, creating a
+dynamic range of 36 dB of differential contrast. A customised
+stimulus grid (CERA AMD 6° grid) consisting of 37 points
+located at 0°, 1°, 2.33°, 4° and 6° from ﬁxation was used in this
+study, designed by our group speciﬁcally for the assessment of
+the macular region in AMD.
+In this study, two examinations were performed on the right
+eye followed by one examination on the left eye for all participants; approximately 3 min of rest was given between each test
+to minimise the effect of fatigue. The ﬁrst examination of the
+right eye was discarded from the analyses to avoid the inﬂuence
+of an intrasession learning effect, as previously reported.16 Test
+reliability for the second examination was assessed by the frequency of false-positive responses, measured by presentations of
+suprathreshold stimulus to the physiological blind spot, which
+was manually located on the MAIA before the presentation of
+the ﬁrst stimuli. Any test with false-positive responses of >25%
+was considered unreliable and was repeated. This cut-off was
+chosen because the MAIA presents a false-positive stimulus
+approximately every 1 min, and there are typically only four to
+2
+
+ﬁve false-positive stimuli presented in each test given the short
+duration of the examinations.
+The average retinal sensitivity of all points within the stimulus
+grid in this study was termed mean sensitivity (MS). The
+average of the ﬁve stimuli within the central 1° (comprising of
+one point at 0° and four points at 1°) was termed central sensitivity (CS), and was analysed in this study since it reﬂects foveal
+function, and we have found previously that it corresponds
+closely with visual acuity measurements.2
+
+Imaging and fundus grading
+Fundus imaging was performed using colour fundus photography (Canon CR6-45NM; Canon, Saitama, Japan), and nearinfrared reﬂectance (NIR), fundus autoﬂuorescence (FAF) and
+SD-OCT line and volume scans all performed on a Spectralis
+HRA+OCT (Heidelberg Engineering, Heidelberg, Germany). A
+45° diameter colour fundus photograph and 30°×30° NIR and
+FAF images centred on the macular were acquired. For
+SD-OCT, a high-resolution horizontal single-line scan was performed with 100 frames averaged, followed by a volume scan of
+49 B-scans of the central 20°×20° area, with 25 frames averaged
+for each B-scan. An experienced grader performed all the
+grading on colour fundus photographs17 to determine the presence of intermediate AMD according to a recent clinical classiﬁcation system.12 The multimodal imaging modalities were then
+used to ensure that the inclusion and exclusion criteria were met
+(such as the absence of atrophic changes).
+
+Night Vision Questionnaire
+The NVQ measures night vision functioning using a 10-item
+scale derived from four items of the National Eye Institute
+Vision Functioning Questionnaire (NEI-VFQ) 25 items and six
+items of a night vision symptom list.8 Response options are
+Likert scales with ﬁve options rating difﬁculty (‘None’, ‘A little
+difﬁculty’, ‘Moderate difﬁculty’, ‘Extreme difﬁculty’, ‘Stopped
+doing this because of your eyesight’; item 1–4) or four options
+rating impact (‘Not at all bothered’, ‘A little bothered’,
+‘Somewhat bothered’, ‘Very bothered’; item 5–10). Items 1–3
+could not be scored if the participant answered ‘Stopped doing
+this for other reasons or not interested in doing this’ or ‘Not
+currently driving’. Given the ubiquity of lighting at night-time
+in the urbanised society where this cohort was examined, the
+item content is related to mesopic rather than scotopic visual
+function. Thus, we refer to the construct captured by the
+NVQ-10 as night vision symptoms, but we assessed its association with measures of mesopic rather than scotopic visual function. A list of all items can be found in online supplementary
+table S1.
+
+Statistical analysis
+We performed Rasch analysis on the NVQ-10 using Winsteps
+software (V.3.68, Chicago, Illinois, USA) to estimate scores that
+approximate interval-level measurement ( person measure;
+expressed in log of the odds units (logits)) from raw ordinal
+data. The NVQ-10 person measures capture night vision symptoms, with a higher person measures score indicating more
+severe night vision symptoms.
+In this study, the eye with better BCVA was speciﬁed as the
+study eye for all visual function measures to be analysed. When
+BCVA was the same in both eyes, the eye with the better LLVA
+was speciﬁed as the study eye; the study eye was randomly allocated using computer-generated numbers if LLVA was also the
+same in both eyes. The association between the person measure
+score of night vision symptom estimated from Rasch analysis
+Wu Z, et al. Br J Ophthalmol 2015;0:1–4. doi:10.1136/bjophthalmol-2015-306621
+
+
+[page 3]
+Downloaded from http://bjo.bmj.com/ on September 10, 2015 - Published by group.bmj.com
+
+Clinical science
+Table 1 Characteristics of visual function measures from the
+better eye of the study participants
+Parameter
+Visual acuity
+(logMAR)
+Microperimetry (dB)
+
+Best-corrected visual acuity
+Low luminance visual acuity
+Low luminance deficit
+Mean sensitivity
+Central sensitivity
+
+Mean±SD
+
+Range
+
+−0.03±0.09
+0.24±0.15
+0.27±0.12
+26.9±1.7
+26.5±2.1
+
+−0.22 to 0.16
+−0.02 to 0.80
+0.10 to 0.80
+21.0 to 30.8
+20.0 to 30.0
+
+logMAR, logarithm of the minimum angle of resolution.
+
+and clinical parameters (including age and the visual function
+measures) were determined using univariate linear regression
+analyses. The person measure score was then grouped into quartiles, and the visual function measures were compared between
+the quartiles using a Kruskal–Wallis test with post hoc
+Bonferroni tests. All statistical analyses were performed using
+commercially available statistical software (IBM SPSS Statistics,
+software V.21; IBM/SPSS, Chicago, Illinois, USA).
+
+RESULTS
+A total of 100 participants were included in this study. Their
+mean age was 69.8±7.4 years (range 51–81 years), 74 participants (74%) were female and 13 participants (13%) were not
+currently drivers (having answered ‘Stopped doing this for other
+reasons or not interested in doing this’ or ‘Not currently
+driving’ in response to items 1–3). The characteristics of the
+visual function measures are outlined in table 1.
+
+Night vision symptoms and visual function measures
+The mean Rasch-generated person measure score for self reported night vision symptoms for this cohort was −2.85
+±1.86 logits (range −5.78 to 1.50). Using univariate linear
+regression analyses, the person measure score was only signiﬁcantly associated with low luminance deﬁcit (LLD; β coefﬁcient=0.067, 95% CI 0.005 to 0.130, p=0.034), but not
+age, BCVA, LLVA and microperimetric MS and CS ( p≥0.090;
+table 2). These ﬁndings remained the same after including age
+as a covariate in each of the univariate linear regression analyses
+(data not shown).
+Grouping participants into quartiles based on the
+Rasch-generated person measure score for self-reported night
+vision symptoms, there were no signiﬁcant differences in BCVA,
+LLVA and microperimetric MS and CS between these groups
+( p≥0.098). However, there was a signiﬁcant difference between
+the groups for LLD ( p=0.012), and post hoc analysis revealed
+
+Table 2 Factors associated with night vision functioning on
+univariate linear regression analysis
+Parameter
+
+β Coefficient 95% CI
+
+Age (years)
+Visual acuity (letters)*
+Best-corrected visual acuity (BCVA)
+Low luminance visual acuity (LLVA)
+Low luminance deficit (LLD)
+Microperimetry (dB)*
+Mean sensitivity (MS)
+Central sensitivity (CS)
+
+0.031
+
+−0.019 to 0.091 0.223
+
+−0.001
+−0.043
+0.067
+
+−0.086 to 0.084 0.984
+−0.093 to 0.007 0.090
+0.005 to 0.130 0.034
+
+−0.145
+−0.107
+
+−0.366 to 0.077 0.197
+−0.280 to 0.066 0.222
+
+p Value
+
+* Visual acuity and microperimetry parameters are obtained from the better eye.
+
+Wu Z, et al. Br J Ophthalmol 2015;0:1–4. doi:10.1136/bjophthalmol-2015-306621
+
+that LLD was signiﬁcantly worse for participants in the fourth
+quartile (median, IQR=15.5 letters, 12–19 letters) compared
+with participants in the ﬁrst quartile (median, IQR=12.0 letters,
+9–15 letters; p=0.019), but not the second and third quartile
+(p=1.000).
+
+DISCUSSION
+In this study, LLD but not microperimetric retinal sensitivity
+was signiﬁcantly associated with the degree of self-reported
+night vision symptoms measured using the NVQ-10 in individuals with bilateral intermediate AMD. Since the degree of
+these symptoms have been previously reported to confer an
+increased risk of progression to advanced AMD,8 9 LLD may
+also potentially confer such prognostic information and can be
+used as a clinical visual function parameter to reﬂect the degree
+of such symptoms. Therefore, the ﬁndings of this study suggest
+that LLD may be a useful visual function parameter that can be
+easily implemented in clinical settings and may better capture
+the degree of night vision symptoms experienced by individuals
+with intermediate AMD than the conventional measure of
+BCVA.
+To date, this is the ﬁrst study to examine the relationship
+between the degree of self-reported night vision symptoms measured using the NVQ-10 and clinical measures of visual function
+under low luminance conditions. The only other questionnaire
+designed speciﬁcally to assess self-reported low luminance visual
+difﬁculties is the Low Luminance Questionnaire (LLQ), containing 32 items which assesses problems with activities under low
+luminance conditions.6 Using the LLQ, persons with AMD have
+been found to report a signiﬁcant impairment independent of
+their degree of visual impairment.18 The self-reported low luminance difﬁculty as measured by the LLQ has also been found to
+correlate with the rod-mediated, but not cone-mediated, components of dark adaptation measured at a peripheral retinal location.6 Since the two studies are not directly comparable because
+of the measures used and disease severity of the participants
+included, it remains to be examined whether rod-mediated measures better correlate with self-reported night vision symptoms
+as measured by the NVQ-10 in eyes with intermediate AMD
+without substantial loss of BCVA. However, it is more likely that
+a battery of visual function measures is required to capture the
+extent of self-reported night vision symptoms, since different
+activities under low luminance conditions are mediated by
+different components of vision; for example, ‘reading in dim
+light’ (item 6 on the NVQ-10) is likely to require foveal cone mediated function, as compared with a more general ‘vision at
+night’ (item 5 on the NVQ-10) which may involve rod-mediated
+function predominantly. Given the ubiquity of lighting at nighttime in the urbanised society where this cohort was examined,
+vision at night is unlikely to be only rod mediated.
+In this study, we found that LLD, but not BCVA or LLVA, was
+associated with the degree of night vision symptoms by the
+NVQ-10. This is likely due to individuals reporting the degree
+of visual difﬁculty under low luminance condition relative to
+those under optimal lighting conditions as their intraindividual
+reference, in a similar way that LLD reﬂects visual function
+under low luminance conditions relative to those under optimal
+lighting conditions. We also found in this study that only LLD,
+but not microperimetric retinal sensitivity, was found to be associated with the degree of night vision symptoms by the
+NVQ-10, even though we have previously found a signiﬁcant
+relationship between central retinal sensitivity and LLVA.2
+Although both measures are performed under a similar luminance level, they capture distinctly different aspects of visual
+3
+
+
+[page 4]
+Downloaded from http://bjo.bmj.com/ on September 10, 2015 - Published by group.bmj.com
+
+Clinical science
+function. Microperimetry measures luminance increment thresholds (and thus varying levels of contrast against the background)
+and involves only the visual process of detection, while the
+measure of LLVA involves the visual processes of detection, resolution and identiﬁcation at a single level of contrast.19 Thus,
+although microperimetric retinal sensitivity may detect a greater
+degree of foveal functional deﬁcit than the visual acuity measures,2 the ﬁndings of this study suggest that visual acuity measures under low luminance conditions may better reﬂect visual
+difﬁculties experienced by individuals. These ﬁndings are especially important when considering relevant clinical end points—
+namely, ‘a characteristic or variable that reﬂects how a patient
+feels, functions or survives’, as deﬁned by the Biomarkers
+Deﬁnitions Working Group20—for interventional studies targeting the early stages of AMD.10 21
+There are several limitations in this study that are important
+to note, including the small sample size and the lack of a
+control group, with the latter meaning that the degree of
+self-reported night vision difﬁculties experienced by healthy
+individuals and individuals with intermediate AMD could not
+be directly compared. However, given that the primary aim of
+this study was to examine the associations between such night
+vision difﬁculties and visual function measures in individuals
+with intermediate AMD, the lack of a control group does not
+detract from our interpretation of the results. In addition, the
+highly standardised measurements of visual function in this
+cohort and use of Rasch analysis provides conﬁdence that these
+ﬁndings are valid for the sample we examined, and can be extrapolated with caution. While the inclusion criteria of having a
+BCVA of 20/40 or better may also have limited the range of participants examined, these participants were still characterised by
+having a wide range of different visual functions when measured
+using LLVA and microperimetry. In addition, the majority of
+individuals with intermediate AMD do not have a BCVA worse
+than this cut-off unless they suffer from additional ocular
+disease, which makes our sample representative of the majority
+of individuals with intermediate AMD. This criterion was also
+chosen since it fell within the vision requirements for driving in
+Australia, and allowed an examination of participants that
+would be otherwise considered to have relatively preserved
+vision clinically. Although the degree of night vision symptoms
+have been found to confer an increased risk of progression to
+advanced AMD,8 9 it also remains to be determined in future
+longitudinal studies whether LLD confers prognostic value for
+the early stages of AMD, given the association found between
+these two parameters found in this study. Despite previous
+studies demonstrating that a period of dark adaptation was not
+required when measuring LLVA,14 15 there is a possibility that
+we might have underestimated LLVA when using this method in
+this study. However, this procedure was consistent for all the
+measurements performed in this study, and is therefore unlikely
+to inﬂuence the results of this study. Future studies would also
+beneﬁt from examining near visual acuity (which was not examined in this study), since reading is an aspect of visual difﬁculty
+often reported by participants with the early stages of AMD
+that can be measured clinically.
+In conclusion, this study showed that the degree of self reported visual difﬁculty under low luminance conditions in
+individuals with intermediate AMD is signiﬁcantly associated
+with LLD, but not microperimetric retinal sensitivity. These
+ﬁndings suggest that LLD may be a useful visual function
+measure that can be easily implemented in clinical settings to
+reﬂect such visual difﬁculty, beyond what is captured by the conventional measure of photopic visual acuity.
+4
+
+Contributors All authors were involved in the design and conduct of the study,
+the collection and management of the data, analysis and interpretation of the data
+and preparation, review or approval of the manuscript.
+Funding This work was in part supported by the German Research Council (DFG FI
+1540/5-1, grant to RPF) and by National Health and Medical Research Council
+(NHMRC) project grants (#590205 and #1008979) and Centre for Clinical Research
+Excellence grant #529923, a Macular Disease Foundation Australia Research Grant
+(RHG), the BrightFocus Foundation and the Charles Viertel Charitable Foundation,
+the Lloyd and Kathleen Ansell Ophthalmology Foundation, the Mankiewicz-Zelkin
+Fellowship of the University of Melbourne and The Menzies Foundation. The funders
+had no role in the design and conduct of the data, preparation, review or approval
+of the manuscript and decision to submit the manuscript for publication.
+Competing interests None declared.
+Patient consent Obtained.
+Ethics approval Human Ethics Committee of the Royal Victorian Eye and Ear Hospital.
+Provenance and peer review: Not commissioned; externally peer reviewed.
+
+REFERENCES
+1
+2
+3
+
+4
+
+5
+6
+
+7
+8
+
+9
+
+10
+11
+12
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+20
+
+21
+
+Klein R, Wang Q, Klein B, et al. The relationship of age-related maculopathy,
+cataract, and glaucoma to visual acuity. Invest Ophthalmol Vis Sci 1995;36:182–91.
+Wu Z, Ayton LN, Luu CD, et al. Low luminance visual acuity and microperimetry in
+age-related macular degeneration. Ophthalmology 2014;121:1612–19.
+Clemons TE, Chew EY, Bressler SB, et al. National Eye Institute Visual Function
+Questionnaire in the Age-Related Eye Disease Study (AREDS): AREDS Report No.
+10. Arch Ophthalmol 2003;121:211–17.
+The Complications of Age-Related Macular Degeneration Prevention Trial Research
+Group. Baseline characteristics, the 25-Item National Eye Institute Visual
+Functioning Questionnaire, and their associations in the Complications of
+Age-Related Macular Degeneration Prevention Trial (CAPT). Ophthalmology
+2004;111:1307–16.
+Scilley K, Jackson GR, Cideciyan AV, et al. Early age-related maculopathy and
+self-reported visual difﬁculty in daily life. Ophthalmology 2002;109:1235–42.
+Owsley C, McGwin G Jr, Scilley K, et al. Development of a questionnaire to assess
+vision problems under low luminance in age-related maculopathy. Invest
+Ophthalmol Vis Sci 2006;47:528–35.
+Owsley C, McGwin G, Jackson GR, et al. Cone- and rod-mediated dark adaptation
+impairment in age-related maculopathy. Ophthalmology 2007;114:1728–35.
+Ying GS, Maguire MG, Liu C, et al. Night vision symptoms and progression of
+age-related macular degeneration in the complications of age-related macular
+degeneration prevention trial. Ophthalmology 2008;115:1876–82.
+Ying GS, Maguire MG, Complications of Age-Related Macular Degeneration
+Prevention Trial Research Group. Development of a risk score for geographic atrophy
+in complications of the age-related macular degeneration prevention trial.
+Ophthalmology 2011;118:332–8.
+Csaky KG, Richman EA, Ferris FL. Report from the NEI/FDA ophthalmic clinical trial
+design and endpoints symposium. Invest Ophthalmol Vis Sci 2008;49:479–89.
+Luu CD, Dimitrov PN, Robman L, et al. Role of ﬂicker perimetry in predicting onset
+of late-stage age-related macular degeneration. Arch Ophthalmol 2012;130:690–9.
+Ferris FL III, Wilkinson C, Bird A, et al. Clinical classiﬁcation of age-related macular
+degeneration. Ophthalmology 2013;129:844–51.
+Wu Z, Luu CD, Ayton LN, et al. Optical coherence tomography deﬁned changes
+preceding the development of drusen-associated atrophy in age-related macular
+degeneration. Ophthalmology 2014;121:2415–22.
+Sunness JS, Rubin GS, Broman A, et al. Low luminance visual dysfunction as a
+predictor of subsequent visual acuity loss from geographic atrophy in age-related
+macular degeneration. Ophthalmology 2008;115:1480–8. e1482.
+Sunness JS, Rubin GS, Applegate CA, et al. Visual function abnormalities and
+prognosis in eyes with age-related geographic atrophy of the macula and good
+visual acuity. Ophthalmology 1997;104:1677–91.
+Wu Z, Ayton LN, Guymer RH, et al. Intrasession test–retest variability of
+microperimetry in age-related macular degeneration. Invest Ophthalmol Vis Sci
+2013;54:7378–85.
+Bird AC, Bressler NM, Bressler SB, et al. An International Classiﬁcation and Grading
+System for age-related maculopathy and age-related macular degeneration. Surv
+Ophthalmol 1995;39:367–74.
+Finger RP, Fenwick E, Owsley C, et al. Visual functioning and quality of life under
+low luminance: evaluation of the German low luminance questionnaire. Invest
+Ophthalmol Vis Sci 2011;52:8241–9.
+Neelam K, Nolan J, Chakravarthy U, et al. Psychophysical function in age-related
+maculopathy. Surv Ophthalmol 2009;54:167–210.
+Atkinson AJ, Colburn WA, DeGruttola VG, et al. Biomarkers and surrogate
+endpoints: Preferred deﬁnitions and conceptual framework. Clin Pharmacol Ther
+2001;69:89–95.
+Lesmes LA, Jackson ML, Bex P. Visual function endpoints to enable dry AMD
+clinical trials. Drug Discov Today Ther Strateg 2013;10:e43–50.
+
+Wu Z, et al. Br J Ophthalmol 2015;0:1–4. doi:10.1136/bjophthalmol-2015-306621
+
+
+[page 5]
+Downloaded from http://bjo.bmj.com/ on September 10, 2015 - Published by group.bmj.com
+
+Low luminance deficit and night vision
+symptoms in intermediate age-related
+macular degeneration
+Zhichao Wu, Robyn H Guymer and Robert P Finger
+Br J Ophthalmol published online August 6, 2015
+
+Updated information and services can be found at:
+http://bjo.bmj.com/content/early/2015/08/06/bjophthalmol-2015-30662
+1
+
+These include:
+
+Supplementary Supplementary material can be found at:
+Material http://bjo.bmj.com/content/suppl/2015/08/06/bjophthalmol-2015-3066
+21.DC1.html
+
+References
+
+This article cites 21 articles, 5 of which you can access for free at:
+http://bjo.bmj.com/content/early/2015/08/06/bjophthalmol-2015-30662
+1#BIBL
+
+Email alerting
+service
+
+Receive free email alerts when new articles cite this article. Sign up in the
+box at the top right corner of the online article.
+
+Topic
+Collections
+
+Articles on similar topics can be found in the following collections
+Retina (1502)
+Epidemiology (987)
+
+Notes
+
+To request permissions go to:
+http://group.bmj.com/group/rights-licensing/permissions
+To order reprints go to:
+http://journals.bmj.com/cgi/reprintform
+To subscribe to BMJ go to:
+http://group.bmj.com/subscribe/
+

@@ -1,0 +1,479 @@
+[page 1]
+Author’s Accepted Manuscript
+Eye diagnosis differentiates seasonality outcomes
+in persons with severe visual impairment
+Heller Madsen, Henrik Dam, Ida Hageman
+
+www.elsevier.com/locate/jad
+
+PII:
+DOI:
+Reference:
+
+S0165-0327(16)31738-4
+http://dx.doi.org/10.1016/j.jad.2017.04.014
+JAD8888
+
+To appear in: Journal of Affective Disorders
+Received date: 12 October 2016
+Revised date: 28 February 2017
+Accepted date: 2 April 2017
+Cite this article as: Heller Madsen, Henrik Dam and Ida Hageman, Eye diagnosis
+differentiates seasonality outcomes in persons with severe visual impairment,
+Journal of Affective Disorders, http://dx.doi.org/10.1016/j.jad.2017.04.014
+This is a PDF file of an unedited manuscript that has been accepted for
+publication. As a service to our customers we are providing this early version of
+the manuscript. The manuscript will undergo copyediting, typesetting, and
+review of the resulting galley proof before it is published in its final citable form.
+Please note that during the production process errors may be discovered which
+could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+
+[page 2]
+Eye diagnosis differentiates seasonality outcomes in persons with severe
+visual impairment
+Heller Madsen*, Henrik Dam, Ida Hageman
+Mental Health Center Copenhagen, University of Copenhagen
+*Correspondence to: Helle Østergaard Madsen Mental Health Center Copenhagen,
+Rigshospitalet, Edel Sauntes Alle 10, 2100 København Ø, Denmark. +45 20762694.
+Helle.oestergaard.madsen@regionh.dk
+Abstract
+Background
+Light plays a crucial role in both the pathogenesis and treatment of seasonal affective disorder
+(SAD). Consequently decreased retinal sensitivity to light has been suggested to be a risk
+factor for SAD. In a population of persons with severe visual impairment we recently found a
+highly increased prevalence of SAD. We now aimed to identify eye disorders or anatomical
+locations with specific association to seasonality.
+Methods
+In 912 cases (33%) from our prior seasonal pattern assessment questionnaire (SPAQ)
+screening study, we retrieved eye diagnoses from the Danish national register of patients and
+analyzed for specific eye disorders or anatomical locations that significantly differentiated
+SPAQ outcomes (global seasonality score, GSS and SPAQ-SAD prevalence).
+Results
+Persons with early life eye disorders (congenital conditions or retinopathy of prematurity)
+reported less symptoms of SAD (median GSS 4.5) than persons with acquired eye disorders
+(median GSS 5.0, p=0.005). Persons with macular degenerative disorders (MD) had highly
+increased seasonality outcomes (hazard ratio 2.23, p=0.002, median GSS 5 vs. 8, p=0.01).
+Limitations
+the study is a cross-sectional study based on a self-report questionnaire. Register data may be
+incomplete.
+Conclusions
+
+
+[page 3]
+MD is significantly associated to high-level seasonality and SAD prevalence. Early life eye
+disorder is associated to slightly lower seasonality compared to acquired eye disorder.
+Longitudinal studies are needed to assess causality.
+
+Introduction
+Seasonal mood swings are widespread in countries with large seasonal variation in
+photoperiod (Magnusson, 2000). The syndrome of seasonal affective disorder (SAD) was
+initially described in 1984 and today it appears as a subtype of major depressive disorder in
+the DSM-5 (American Psychiatric Association, 2013; Rosenthal et al., 1984). The criteria for
+SAD are depressive episodes with a recurrent seasonal pattern of onset and remission,
+absence of non-seasonal major depressive episodes for at least two years, and a high degree
+of recurrence over the lifespan. SAD is characterized by classical depressive symptoms as
+decreases in mood and energy levels and social withdrawal but is often accompanied by
+atypical symptoms of hypersomnia and hyperphagia, specifically a carbohydrate craving
+which often lead to weight gain (Rosenthal et al., 1984). SAD is highly prevalent in countries
+with large seasonal variation in photoperiod where prevalence rates as high as 8-12 % are
+reported in northern parts of the United States and Scandinavia when applying the frequently
+used screening tool, the Seasonal Pattern Assessment Questionnaire (SPAQ) (Magnusson,
+2000). Studies using clinical interview or the more diagnostically valid Seasonal Health
+Questionnaire consistently report lower estimates with rates around 2-5 % for central
+European countries (Pjrek et al., 2016; Thompson et al., 2004).
+Light treatment (first choice treatment), psychotherapy and antidepressant medication are
+effective treatments (Golden et al., 2005; Rohan et al., 2009, 2016) but the intertwining
+neurobiological, cognitive and environmental factors leading to the condition remain unclear.
+Light is suggested to play a key role in the pathogenesis of SAD due to the temporal and
+geographical association to photoperiodic variety and the strong treatment effect of light. It
+has been suggested that the retinal sensitivity to light is reduced in SAD patients who
+consequently are unable to maintain optimal light input to the brain when light levels are
+poor (Rohan et al., 2009). Clinical investigations attempting to address this hypothesis have
+produced inconsistent evidence for the hypothesis, which may be partly attributable to the
+diversity of the methodologies used. Electrooculographic ratios (EOG), which measure the
+
+
+[page 4]
+total retinal electrical response to light, seem to be diminished in SAD patients whereas it has
+not been possible to find consistent evidence for any specific photoreceptor dysfunction. In
+recent years pupillometry has been introduced as a means to investigate the function of the
+small number of intrinsically photosensitive retinal ganglion cells (ipRGCs), which play a role
+in the unconscious non-image forming visual functions of light transmission. Although the
+blue light sensitive ipRGCs are few in number and only convey a fraction of the total light
+input, their function have been attempted linked to affective disorder because of their
+projections from the retina and to brain regions with influence on circadian function and
+mood regulation (Roecklein et al., 2013). Empirical evidence for this association is however
+rather sparse. One pupillometric study has found a reduced ipRGC function in SAD patients
+(Roecklein et al., 2013) and one study has reported an effect of blue-blocking glasses as add on treatment for acute mania (Henriksen et al., 2016). It remains unclear whether the effect
+of light therapy for depression is attributable to blue or other wavelengths (Anderson et al.,
+2016).
+In recent years there have been multiple reports of an increased risk of
+depression among persons with visual impairment but the condition is often overlooked and
+left untreated (Nollett et al., 2016). We recently reported the finding of an increased
+prevalence of SAD in this population (Madsen et al., 2016). In the present study we aimed to
+identify specific subgroups with increased prevalence of SAD symptoms. Apart from
+identifying potential vulnerable groups we believe such findings may contribute to the
+clarification of the pathogenesis of SAD.
+Methods
+Population
+All members of the Danish Association of the Blind (DAB) between 18 and 65
+years (2781 persons) were invited to our primary study investigating the prevalence of SAD
+symptoms among persons with severe visual impairment. Of these, 1647 persons (59%)
+completed the questionnaire. The DAB is a private organization of approximately 12.000
+persons, which is assumed to be approximately 50% of all eligible Danish citizens with visual
+impairment or blindness. Membership is only offered to persons with residual vision below
+6/60 Snellen visual acuity. To be as accepted as a member, residual vision has to be
+documented by an ophthalmologist.
+
+
+[page 5]
+Survey
+The study was performed in a cross-sectional design using audio, large print or
+Braille font questionnaires and telephone follow up (Madsen et al., 2012, 2016).
+Questionnaires were distributed in late October 2010. The letters contained the
+questionnaires, an information letter, a stamped return envelope and information that replies
+could be returned in email, post or to an open telephone line. Moreover the members were
+informed that they would be contacted by telephone and offered a telephone interview if no
+reply was received within 2 months. All replies were thus completed between late October
+and February.
+Questionnaire
+The Seasonal Pattern Assessment Questionnaire (SPAQ) measures seasonal
+variation (0-4 points) in 6 items, which are sleep duration, energy level, mood, body weight,
+appetite and social activity level. The items combine to a global seasonality score (GSS) with a
+range of 0-24. Moreover the SPAQ rates to which degree the seasonal variation is a problem
+and identifies the time of year of most discomfort. The SPAQ criteria for SAD (SPAQ-SAD) are
+1) a GSS > 10, 2) seasonal variation considered a problem to at least a moderate degree and 3)
+winter time discomfort (November-February)(Kasper et al., 1989). In addition to completing
+the SPAQ, respondents reported their ability to perceive light, to determine direction of light
+or to count fingers at 1 meter.
+Eye diagnoses
+The National Danish Register of Patients contains information of all in- and
+outpatient contacts with Danish hospitals since 1977. Our register search included all
+diagnoses of eye disease or extensive eye surgery according to the applied ICD-8 and 10
+classifications (Madsen et al., 2012). Eye disorders were consequently organized according to
+anatomical location (optical nerve, retina, vitreous humor, iris, lens, cornea and miscellaneous
+(congenital an- or microphthalmia, bulbar degeneration, degenerative myopia,
+endophthalmitis). The major disorders within the optical nerve and retina were tested
+specifically (glaucoma, optical atrophy, diabetic retinopathy, retinitis pigmentosa (RP),
+retinopathy of prematurity (ROP), retinal detachment and macular degeneration (MD)).
+
+
+[page 6]
+We computed a group of diagnoses with perinatal onset “early life eye disorders”
+including all visually impairing conditions registered as congenital (in ICD-10 labelled “DQ”)
+including congenital cataract, congenital glaucoma, congenital retinal degeneration,
+microphthalmia and ROP.
+Analysis
+Data were analyzed in SPSS version 22. Gross comparisons were made by use of
+Mann Whitney U, Chi2-tests or Fisher’s exact test when appropriate. Eye conditions with
+statistically significant effects on seasonality parameters (GSS or SPAQ-SAD prevalence)
+(p<0.05) were tested in a general linear regression model and a logistic regression model
+adjusting for gender, age, reply method, light perception status (+/- light perception) and
+other major eye disorders (glaucoma, optical atrophy, diabetic retinopathy, RP, ROP, retinal
+detachment and MD). Only winter-type seasonality was included in the analysis why persons
+with non-seasonal or summer pattern were excluded from the analysis of GSS.
+Ethics
+The study was approved by the Danish Data Protection Agency. The study is an observational
+study and as such it does not need approval from any ethical committee according to Danish
+law.
+Results:
+Of the 1647 participants enrolled in the original survey, 1347 stated their eye
+diagnosis and/or gave permission for us to perform linkage to the registers. In 912 cases it
+was possible to retrieve one or more eye diagnoses from the register, which corresponds to
+33 % of the 2781 persons invited to participate in the study. The majority were registered
+with more than one eye diagnosis (table 1), the two most frequent being glaucoma (23%) and
+cataract (56%). In cases of bilateral enucleation, prior eye diagnoses were not included.
+Respondents with summer (n=24) or a non-seasonal pattern (n=9) of discomfort were not
+included in analysis of eye disorder effect on GSS to ensure that we were testing for winter
+seasonality exclusively.
+Persons registered with an early life eye disorder (n=193) had significantly lower
+GSS (median 4.5, p=0.005) than persons with eye disorders acquired later in life (median 5.0)
+
+
+[page 7]
+(table 2). In multivariate analysis adjusting for gender, age, interview method, light
+perception status and other eye disorder this effect remained significant (p=0.01). For SPAQSAD prevalence the difference was not significant (17% versus 20%, p=0.36).
+Persons registered with MD (n=90) had significantly increased GSS (median 8.0)
+and SPAQ-SAD prevalence (32.2%) compared to persons without a diagnosis of MD (GSS
+median 5.0, SPAQ-SAD 18.2%, p<0.01). This effect remained significant in multivariate
+analysis of GSS (p<0.01) adjusting for gender, age, interview method, light perception status
+and other eye disorder. The hazard ratio for SPAQ-SAD in MD was 2.23 (95% confidence
+intervals 1.35-6.74, p=0.002) in logistic regression analysis.
+There was no significant association between seasonality parameters (GSS and
+SPAQ-SAD prevalence) and any anatomical location of eye disorder (optical nerve, retina,
+vitreous humor, iris, lens or cornea), nor between seasonality parameters and any specific eye
+diagnosis (glaucoma, optical atrophy, RP, ROP or retinal detachment) besides MD. For persons
+with diabetic retinopathy the prevalence of SAD was significantly increased from 18.1% to
+25.0%, but there was no difference in GSS (p=0.65).
+Twenty persons had bilateral anophthalmia. Of these, only one person had a GSS
+above 10. Although a highly interesting finding, the lack of power in this subgroup prevents
+statistical testing.
+
+Discussion:
+We recently reported a highly increased prevalence of SAD symptoms (SPAQSAD 17%) in a population with severe visual impairment or blindness (Madsen et al., 2016).
+Through subsequent linkage to the Danish Register of Patients we find that persons with early
+life eye disorder report less mood seasonality than persons with eye disorders acquired later
+in life. Persons with eye disorders causing degeneration of the macula are more prone to
+report symptoms of SAD than persons with other eye disorders. The causality of the
+association between visual impairment and mood seasonality is unknown but it is plausible
+that visual impairment limit light input to the brain with consequent effects on mood and
+energy levels. Some eye conditions physically block the light input through the eye whereas
+others impair the regulation of the retinal light sensitivity causing a suboptimal light input.
+
+
+[page 8]
+Persons with early life eye disorder report lower seasonal variation in the
+measured mood and behavioral parameters. This finding is in line with other research
+addressing the impact of perinatal light conditions on neurobiological systems. Thus animal
+studies have shown that both retinal and circadian systems undergo persistent modifications
+depending on the perinatal light conditions (Ciarleglio et al., 2011; Jackson et al., 2014).
+Studies assessing the effect of season of birth on mood seasonality find that persons born
+during short photoperiods are less vulnerable to SAD than persons born during long
+photoperiods (Natale et al., 2007). It is possible that a perinatal lesion or blockage in ocular
+light transmission may lead to neurobiological alterations that mimic those seen in people
+born during short photoperiod and accordingly lead to a reduced vulnerability to develop
+SAD.
+Age-related macular degeneration (AMD) is the primary cause of severe visual
+impairment and blindness in developed countries. Recent studies show that depression may
+be overrepresented in AMD compared to other eye disorders (Cimarolli et al., 2015) which
+might represent a bias to our finding. However, the SPAQ measures seasonal mood variation
+and not current depressive symptoms why we do not believe that our finding of increased
+SAD is attributable to an increased prevalence of depression. AMD causes degeneration of the
+outer retinal layers including the photoreceptors and the condition is therefore not expected
+to affect the ipRGCs. However recently a pupillometric study found a reduced ipRGC function
+in early stage AMD (Maynard et al., 2015). A reduced ipRGC function may predispose persons
+to develop SAD through reductions of blue light signals, possibly even more so in combination
+with the use of tinted eyewear. This is often advised in AMD since there is some evidence for
+sun exposure being a risk factor for AMD. However, as our data give no suggestion to the
+causality of the association between SAD and MD the reverse relationship is also plausible.
+Graw et al showed that SAD patients increase their outdoor light exposure in summer
+compared to healthy controls (Graw et al., 1999) which may increase their risk of retinal
+photo damage and in turn to AMD and visual impairment. These relations can only be
+investigated in longitudinal studies. If AMD is a risk factor for SAD, it is a highly prevalent one.
+It seems of relevance to screen for seasonal components of depressive symptoms when
+strategies to handle the increased risk of depression among visually impaired are
+implemented. Currently there are however only limited knowledge of effect and tolerability of
+
+
+[page 9]
+light therapy in populations with severe eye disorder or visual impairment (Partonen et al.,
+1995).
+The post-illumination pupillary response to blue light (PIPR) is currently the only
+measure of ipRGC function and has not yet been assessed across all eye disorders. In
+glaucoma there seem to be significant damage to ipRGCs (Cui et al., 2015) but our data
+showed no evidence for increased seasonality in this group or in other retinal diseases. The
+finding of an increased SPAQ-SAD prevalence among persons with diabetic retinopathy was
+not accompanied by a difference in GSS and we do therefore not consider it a valid expression
+of increased seasonality.
+There are some limitations to consider. The cross-sectional design and the self report of seasonality and light perception pose inherent risks of bias. The SPAQ is not a
+diagnostic tool but is acceptable for screening purposes. The National Danish Register of
+Patients does not include hospital contacts prior to 1977 or information of contacts to private
+ophthalmologists where the majority of eye disorders are handled. In 735 cases (26%) it was
+not possible to retrieve eye diagnoses. We expect these cases to have permanent impairments
+with onset prior to 1977, e.g. eye injury, but also progressive eye diseases without treatment
+potential. Of the non-responders, 9% were deceased or had severe competing illness or
+disability, 9% refused to participate and 23% could not be reached. The rather low response
+rate poses a risk of selection bias but the effect cannot be determined. Our data offer no
+means to identify a reliable onset of eye disorder or visual impairment.
+Conclusions
+Persons with acquired eye disorders have increased mood seasonality compared to persons
+with early life eye disorders. Macular degenerative disorders are associated with increased
+seasonality. Longitudinal studies are needed to establish causality. When handling depression
+among persons with visual impairment, a potential seasonality pattern should be assessed as
+this may influence treatment strategy.
+References
+American Psychiatric Association, 2013. Diagnostic and Statistical Manual of Mental
+Disorders, 5th Edition (DSM-5). Diagnostic Stat. Man. Ment. Disord. 4th Ed. TR. 280.
+
+
+[page 10]
+Anderson, J.L. et al, 2016. Are short (blue) wavelengths necessary for light treatment of
+seasonal affective disorder? Chronobiol. Int. 528, 1–13.
+Ciarleglio, C.M. et al, 2011. Perinatal photoperiod imprints the circadian clock. Nat. Neurosci.
+14, 25–27.
+Cimarolli, V.R. et al, 2015. Anxiety and depression in patients with advanced macular
+degeneration: current perspectives. Clin. Ophthalmol. 10, 55–63.
+Cui, Q. et al, 2015. The injury resistant ability of melanopsin-expressing intrinsically
+photosensitive retinal ganglion cells. Neuroscience 284, 845.853.
+Golden, R.N. et al, 2005. The efficacy of light therapy in the treatment of mood disorders: a
+review and meta-analysis of the evidence. Am J Psychiatry 162, 656–662.
+Graw, P. et al, 1999. Winter and summer outdoor light exposure in women with and without
+seasonal affective disorder. J. Affect. Disord. 56, 163–169.
+Henriksen, T.E. et al, 2016. Blue-blocking glasses as additive treatment for mania: A
+randomized placebo-controlled trial. Bipolar Disord. 18, 221–232.
+Jackson, C.R. et al, 2014. Circadian perinatal photoperiod has enduring effects on retinal
+dopamine and visual function. J Neurosci 34, 4627–4633.
+Kasper, S. et al, 1989. Epidemiological findings of seasonal changes in mood and behavior. A
+telephone survey of Montgomery County, Maryland. Arch. Gen. Psychiatry 46, 823–833.
+Madsen, H.O. et al, 2012. Study protocol: a cross-sectional survey of seasonal affective
+disorder in Danish populations with and without severe visual impairments. BMJ Open 2,
+e001020–e001020.
+Madsen, H.O. et al, 2016. High prevalence of seasonal affective disorder among persons with
+severe visual impairment. Br. J. Psychiatry 208, 56 65-61.
+Magnusson, A., 2000. An overview of epidemiological studies on seasonal affective disorder.
+Acta Psychiatr. Scand. 101, 176–184.
+Maynard, M.L. et al, 2015. Melanopsin-mediated post-illumination pupil response in early age related macular degeneration. Investig. Ophthalmol. Vis. Sci. 56, 6906–6913.
+Natale, V. et al, 2007. Season of birth modulates mood seasonality in humans. Psychiatry Res.
+153, 199–201.
+Nollett, C.L. et al, 2016. Depression in visual impairment trial (Depvit): A randomized clinical
+trial of depression treatments in people with low vision. Investig. Ophthalmol. Vis. Sci. 57,
+4247–4254.
+
+
+[page 11]
+Partonen, T. et al, 1995. Effects of exposure to morning bright light in the blind and sighted
+controls. Clin. Physiol. 15, 637–646.
+Pjrek, E. et al, 2016. Epidemiology and socioeconomic impact of seasonal affective disorder in
+Austria. Eur. Psychiatry 32, 28–33.
+Roecklein, K. a. et al, 2013. Melanopsin, photosensitive ganglion cells, and seasonal affective
+disorder. Neurosci. Biobehav. Rev. 37, 229–239.
+Rohan, K.J. et al, 2016. Outcomes one and two winters following cognitive-behavioral therapy
+or light therapy for seasonal affective disorder. Am. J. Psychiatry 173, 244–251.
+Rohan, K.J. et al, 2009. Biological and psychological mechanisms of seasonal affective
+disorder: A Review and Integration. Curr. Psychiatry Rev. 5, 37–47.
+Rosenthal, N.E. et al, 1984. Seasonal affective disorder. A description of the syndrome and
+preliminary findings with light therapy. Arch. Gen. Psychiatry 41, 72–80.
+Thompson, C. et al, 2004. Prevalence of seasonal affective disorder in primary care; a
+comparison of the seasonal health questionnaire and the seasonal pattern assessment
+questionnaire. J. Affect. Disord. 78, 219–226.
+
+
+[page 12]
+Table 1. Prevalence of eye disorders
+N (%)
+No eyes
+
+21 (2)
+
+Optical nerve
+
+291 (32)
+
+Glaucoma
+
+211 (23)
+
+Optical atrophy
+
+86 (9)
+
+Retina
+
+535 (59)
+
+Diabetic retinopathy
+
+173 (19)
+
+Retinitis pigmentosa
+
+164 (18)
+
+Retinopathy of prematurity
+
+59 (9)
+
+Retinal detachment
+
+164 (18)
+
+Macular degeneration
+
+90 (10)
+
+Vitreous humor or anterior segment (excluding cataract)
+
+89 (10)
+
+Cataract
+
+492(56)
+
+Miscellanous
+
+21 (2)
+
+Early life eye disorder a
+
+193 (2)
+
+a Congenital visually impairing conditions and retinopathy of prematurity
+
+Table 2. Global seasonality score (GSS) and prevalence of SPAQ-SAD in early life eye disorders
+and macular degeneration
+n
+
+GSS
+median
+
+GSS
+GSS
+mean standard
+deviation
+
+SPAQSAD
+n
+
+SPAQ-SAD
+prevalence
+
+Early life eye disorder
+193 4.5
+5.1
+4.2
+33
+17.1
+No early life eye
+719 5.0
+6.3
+5.1
+145
+20.2
+disorder
+Significance
+0.005*
+0.36**
+a
+Adjusted significance
+0.01
+0.15b
+Macular degeneration
+90
+8.0
+8.2
+5.8
+29
+32.2
+No macular
+822 5.0
+5.8
+4.8
+149
+18.1
+degeneration
+Significance
+<0.001*
+0.001**
+Adjusted significance
+<0.01a
+0.002b
+GSS: global seasonality score; SPAQ: seasonal pattern assessment questionnaire.
+*Mann-Whitney U, ** Chi2, 2-sided, a General linear model adjusted for gender, age, reply
+method and light perception, bLogistic regression adjusted for gender, age, reply method, light
+perception and other eye disorders (glaucoma, optical atrophy, diabetic retinopathy, retinitis
+pigmentosa, retinopathy of prematurity, retinal detachment, macular degeneration/early life
+eye disorder)
+
+
+[page 13]
+Highlights
+
+
+
+
+
+Eye diagnoses differentiate seasonality in persons with severe visual impairment
+Early life eye disorder is associated with lower seasonality scores than acquired eye disorders.
+Macular degeneration is associated with high-level seasonality
+

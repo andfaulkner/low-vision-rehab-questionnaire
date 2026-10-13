@@ -1,0 +1,1273 @@
+[page 1]
+Ophthalmic & Physiological Optics ISSN 0275-5408
+
+Functional visual fields: relationship of visual field areas to
+self-reported function
+Hikmat Subhi1, Keziah Latham1, Joy Myint2 and Michael D. Crossland3
+1
+
+Anglia Ruskin University, Cambridge, 2University of Hertfordshire, Hatfield, and 3Moorfields Eye Hospital NHS Foundation Trust, London, UK
+
+Citation information: Subhi H, Latham K, Myint J & Crossland MD. Functional visual fields: relationship of visual field areas to self-reported
+function. Ophthalmic Physiol Opt 2017. doi: 10.1111/opo.12362
+
+Keywords: mobility function, self-reported
+function, visual fields
+Correspondence: Hikmat Subhi
+E-mail address: hikmat.subhi@pgr.anglia.ac.uk
+Received: 13 October 2016; Accepted: 24
+January 2017
+
+Abstract
+Purpose: The aim of this study is to relate areas of the visual field to functional
+difficulties to inform the development of a binocular visual field assessment that
+can reflect the functional consequences of visual field loss.
+Methods: Fifty-two participants with peripheral visual field loss undertook binocular assessment of visual fields using the 30-2 and 60-4 SITA Fast programs on
+the Humphrey Field Analyser, and mean thresholds were derived. Binocular
+visual acuity, contrast sensitivity and near reading performance were also determined. Self-reported overall and mobility function were assessed using the Dutch
+ICF Activity Inventory.
+Results: Greater visual field loss (0–60°) was associated with worse self-reported
+function both overall (R2 = 0.50; p < 0.0001), and for mobility (R2 = 0.64;
+p < 0.0001). Central (0–30°) and peripheral (30–60°) visual field areas were similarly related to mobility function (R2 = 0.61, p < 0.0001 and R2 = 0.63,
+p < 0.0001 respectively), although the peripheral (30–60°) visual field was the best
+predictor of mobility self-reported function in multiple regression analyses. Superior and inferior visual field areas related similarly to mobility function (R2 = 0.56,
+p < 0.0001 and R2 = 0.67, p < 0.0001 respectively). The inferior field was found to
+be the best predictor of mobility function in multiple regression analysis.
+Conclusion: Mean threshold of the binocular visual field to 60° eccentricity is a
+good predictor of self-reported function overall, and particularly of mobility
+function. Both the central (0–30°) and peripheral (30–60°) mean threshold are
+good predictors of self-reported function, but the peripheral (30–0°) field is a
+slightly better predictor of mobility function, and should not be ignored when
+considering functional consequences of field loss. The inferior visual field is a
+slightly stronger predictor of perceived overall and mobility function than the
+superior field.
+
+Introduction
+The functional consequences of visual field loss are known
+to include diminished mobility,1–3 diminished ability to
+complete activities such as reading or watching television,4
+and an increased risk of falling.4–6 Binocular visual field
+assessment is thought to represent functional abilities better
+than monocular assessment, especially in individuals with
+visual impairment, as most activities of daily living are usually performed with both eyes open.7–10 However, there is
+no standard reference method for assessing binocular
+
+functional fields. Currently available conventional visual
+fields tests are designed to detect and monitor the progression of disease, and no visual field test currently available is
+optimised for reflecting the functional consequences of
+visual field loss. Although there are numerous studies that
+relate self-reported function11–27 or performance28–34 to
+visual field parameters, few do so with the intention of
+developing a clinically applicable method of functional field
+assessment.
+Development of a binocular visual field test that can
+reflect functional difficulty would be a valuable tool in low
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+1
+
+
+[page 2]
+Functional visual fields
+
+H Subhi et al.
+
+vision assessment. Quantification of visual field loss with
+an understanding of how scores relate to functional difficulty would be helpful not only in assessing and managing
+the low vision patient, but also in determining robust criteria for visual impairment registration as compared to visual
+field criteria currently in place in the UK that are open to
+significant subjective interpretation.35
+Previous studies have related visual field loss to function,11–33 but many of these have used conventional
+monocular visual fields tests that do not reflect the binocular field,11,12,15–20,28 or have assessed the visual field using
+monocular threshold tests to construct a binocular field
+plot.14,21 Of the studies that have assessed the visual field
+binocularly, the majority have assessed the visual field out
+to 30°.13,30 Those studies that have assessed the binocular
+visual field past 30° have used kinetic27,29,31,32,34 or suprathreshold test strategies such as the Esterman visual field
+test.22–26 Threshold sensitivities of the peripheral visual
+field have not previously been determined.
+The current study builds on previous work that used a
+threshold paradigm to assess the binocular visual field out
+to 30° and found that mean thresholds can predict self reported overall and mobility function.13 However, it is not
+known if testing the visual field past 30° is of further benefit. Furthermore, numerous studies have suggested the particular significance of the inferior visual field for mobility
+function,28,29,36–39 and inferior visual field loss has been
+shown to impair mobility performance28,29,39 and perceived
+mobility function,36 increase postural sway,37 and increase
+the risk of falling37,38 in individuals with no visual impairment,28,38 with early visual field loss,36,37 or with simulated
+field loss.39 It is not known whether the inferior field
+remains more significant to mobility function in individuals with a greater degree of visual field loss. The importance
+of the inferior visual field to overall self-reported function
+is also unclear.
+The current study uses a binocular threshold test to
+extend the findings of Tabrett and Latham13 and assesses
+the visual field out to 60° to determine whether the functional visual field would benefit from being assessed beyond
+30° from fixation, and to test the significance of the inferior
+field to mobility function in a sample of individuals with
+moderate to severe visual field loss. Findings will be used to
+aid the design of binocular functional field test that assesses
+important areas of the visual field, as a potential clinical
+tool for the low vision assessment.
+Methods
+Participants with self-reported peripheral visual field loss
+were recruited. Individuals with conditions not primarily
+affecting peripheral visual function, such as macular degeneration, were excluded from the study, along with those
+2
+
+under 18 years old and those unable to perform verbal
+evaluations in English. Ethical approval was granted by
+Anglia Ruskin University Faculty of Science and Technology Research Ethics committee. The tenets of the Declaration of Helsinki were upheld. All participants gave
+informed consent after the nature of the study was
+explained. All data collection was conducted by one experienced optometrist.
+A face-to-face interview elicited demographic characteristics (Table 1). The Dutch ICF Activity Inventory (D-AI)40,41
+was used to determine self-reported function in Activities of
+Daily Living, since it covers a wide range of goals relevant to
+people with peripheral visual field loss.43 The original questionnaire assesses the difficulty of 47 rehabilitation goals,
+nested within nine domains of the World Health Organisation International Classification of Functioning framework.42 In the current study, participants were asked to
+grade their perceived level of difficulty for 43 goals. These
+represented the 47 goals proposed by Bruijning et al.40 but
+excluded the two goals underpinning the 10th emotional
+health domain, and a further two relating to driving and
+riding a bicycle that have been shown not to fit the unidimensional construct of the questionnaire in people with
+peripheral vision loss.43 Respondents could indicate that a
+goal was not important or not applicable to them, which
+was scored as missing data. If the goal was relevant, difficulty was rated on a five-point Likert scale (none, slight,
+moderate, very difficult, impossible). Responses to the four
+goals of the mobility domain (mobility at home, mobility
+indoors, mobility outdoors, and using public transport)
+were used to determine self-reported mobility function.
+High contrast distance visual acuity was assessed binocularly and scored by-letter with participants’ habitual distance spectacle correction using a 3 m internally
+illuminated ETDRS logMAR chart.44 If the largest letters
+could not be read at 3 m, the chart was moved 50% closer
+to the participant to 1.5 and 0.75 m. MNRead charts were
+used at 40 cm to determine binocular clinical reading performance with habitual near spectacle correction or a distance correction with +2.50 reading addition where
+appropriate.45,46 Participants with acuity that was not measureable but with perception of light were assigned distance
+and near reading acuities of 3.00logMAR.47 Contrast sensitivity was measured binocularly with participants’ habitual
+distance spectacle correction using a Pelli-Robson Chart48
+at 1 m scored on a letter by letter basis.49 Participants with
+no measurable CS function were assigned a score of
+0.00logCS.47
+Binocular visual field assessments were performed using
+the Humphrey Field Analyser50 utilising the monocular test
+strategy for the right eye with a standard size III Goldmann
+white target. The chin rest was positioned as far right as
+possible and the left hand side of the chin rest was used.
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+
+[page 3]
+H Subhi et al.
+
+Functional visual fields
+
+Table 1. Descriptive statistics of the variables assessed (n = 52). The
+mean  S.D., and the median (interquartile range) are given for the
+clinical visual function variables
+
+Table 1 (continued)
+
+Demographic variables
+
+Have you fallen in the past 12 months?, n (%)
+
+Gender, n (%)
+Male
+
+31 (60)
+
+Female
+
+21 (40)
+
+Demographic variables
+
+Yes
+
+23 (44)
+
+No
+
+29 (56)
+
+Mean
+(S.D.)
+
+Age (years)
+Median
+
+61 (49–68)
+
+Binocular distance
+31–96
+
+visual acuity
+
+RP
+
+21 (40)
+
+Binocular contrast
+
+Glaucoma
+
+22 (42)
+
+sensitivity
+
+Vascular
+
+2 (4)
+
+Ocular diagnosis, n (%)
+
+2 (4)
+
+Overall visual field
+
+15 (6–26)
+1–63
+
+(0–30°; mean
+
+22 (42)
+
+Peripheral visual field
+
++0.18 (0.02–0.41)
+
+0.13–3.00
+
+11.7 (1.4)
+
+11.8 (2.1–20.7)
+
+0.0–27.1
+
+14.1 (1.6)
+
+13.0 (3.1–24.1)
+
+0.0–31.8
+
+8.7 (1.1)
+
+7.5 (0.0–15.5)
+
+0.0–23.0
+
+11.1 (1.3)
+
+10.2 (2.0–19.2)
+
+0.0–27.6
+
+12.2 (1.4)
+
+8.9 (1.9–22.8)
+
+0.0–28.3
+
+2.09 (0.26)
+
+1.48 (0.72–3.40)
+
+0.52–6.00
+
+2.81 (0.46)
+
+1.66 (0.21–5.79)
+
+4.19–7.27
+
+(30–60°; mean
+6 (12)
+
+threshold, dB)
+Superior visual field
+
+24 (46)
+
+(0–60°; mean
+
+Alone
+
+14 (27)
+
+Inferior visual field
+
+With partner
+
+33 (63)
+
+(0–60°; mean
+
+With other
+
+4 (8)
+
+Warden assisted
+
+1 (2)
+
+Living arrangements, n (%)
+
+threshold, dB)
+
+threshold, dB)
+Dutch Activity Inventory Person measures
+
+Current employment status, n (%)
+
+Overall self-reported
+
+Working full time
+
+16 (31)
+
+function (logits)
+
+Working part time
+
+5 (10)
+
+Self-reported
+
+Student
+
+3 (6)
+
+mobility
+
+Unemployed
+
+1 (2)
+
+function (logits)
+
+Retired
+
+26 (50)
+
+*Number of comorbid conditions from a list of 12 common medical
+conditions representing general health status.56
+
+Number of prescribed medications (n)
+Median
+
++0.50 (0.12)
+
+threshold, dB)
+
+impaired
+Not registered
+
+0.00–1.95
+
+threshold, dB)
+Central visual field
+
+sight impaired
+Registered sight
+
++1.63 (1.20–1.95)
+
+(0–60°; mean
+
+Registration status, n (%)
+Registered severely
+
++1.44 (0.08)
+
+Binocular visual field variables
+5 (10)
+
+(25% IQ–75% IQ)
+Min–max
+
+0.22–3.00
+
+acuity (logMAR)
+
+Duration of visual impairment (years)
+Median
+
++0.07 ( 0.07–0.46)
+
+(logCS units)
+Binocular reading
+
+detachments/tears
+Other
+
++0.34 (0.09)
+
+(logMAR)
+
+occlusion
+Retinal
+
+Range
+
+Clinical function variables
+
+(25% IQ–75% IQ)
+Min–max
+
+Median
+(25% IQ–75% IQ)
+
+2 (0.5–2.5)
+
+(25% IQ–75% IQ)
+Min-max
+
+0–11
+
+Number of co-morbidities* (n)
+Median
+
+2 (1–3)
+
+(25% IQ–75% IQ)
+Min–max
+
+0–5
+
+Use of mobility aids, n (%)
+White cane or
+
+20 (38)
+
+guide dog
+No mobility
+
+32 (62)
+
+aids used
+Use of low vision aids, n (%)
+
+32 (62)
+
+Yes
+
+23 (44)
+
+No
+
+29 (56)
+
+(continued)
+
+Since implementing monocular tests binocularly using the
+HFA invalidates conventional methods of fixation monitoring51 participant’s fixation was monitored manually.13,30,52
+Other reliability indices provided by the HFA, including
+false positives and false negatives, were also reviewed. The
+test was stopped, the participant reinstructed, and a new
+test started if during the first attempt false negative or false
+positive responses exceeded 50%, or if poor fixation was
+observed by the practitioner. The subsequent test attempt
+was not interrupted if poor reliability indices or poor
+fixation was observed. All cases were used in subsequent
+analyses.
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+3
+
+
+[page 4]
+Functional visual fields
+
+H Subhi et al.
+
+The SITA Fast 30-2 threshold test was used to evaluate
+binocular central visual field to 30° eccentricity with 76
+points spaced six degrees apart (Figure 1). The SITA Fast
+60-4 threshold test was used to assess the binocular peripheral field from 30 to 60° eccentricity with 60 points spaced
+12 degrees apart (Figure 1). These grid patterns were chosen as they are familiar to clinicians and arguably a gold
+standard pattern for visual field assessment used for diagnostic purposes. For the 30-2 assessment, near correction
+adapted from the habitual distance correction was provided
+in full aperture trial lenses used in adult half-eye trial
+frames with lens centration corrected for near. The 60-4
+test was performed uncorrected to minimise the possibility
+of lens and frame artefacts. The purpose of the study was to
+assess functional visual fields in the most habitual form that
+was appropriate. Whilst it might be considered that the use
+of the refractive correction normally used for mobility (including multifocals) would be most habitual, the perimeter
+used had a working distance of 33 cm and therefore assessment with correction incorporating a distance element
+would have underestimated sensitivity. Instead, the established HFA protocols of using near correction for the central 30° and no correction in the 30–60° field were used. It
+should therefore be noted that the results will not reflect
+variations in visual field sensitivity resulting from refractive
+correction, such as rim artefacts or near blur from progressive addition lenses.
+
+Analyses
+The absolute threshold values from the SITA Fast 30-2 and
+60-4 tests were used to calculate mean threshold of the central (0–30°) and the peripheral (30–60°), and superior and
+inferior visual field.
+Responses to the D-AI were converted to person
+measures using Rasch analysis (see Supporting Information
+for details), where higher person measures indicate greater
+perceived ability. To determine overall self-reported function, responses to all 43 goals were assessed. Responses to
+the four goals of the mobility domain (mobility at home,
+mobility indoors, mobility outdoors, and using public
+transport) were used to determine self-reported mobility
+function and were Rasch analysed in isolation.
+To investigate the relationship between the predictor
+variables and self-reported function Mann–Whitney U tests
+were conducted for the dichotomous predictors to establish
+whether the means of the independent samples significantly
+differed, Kruskal–Wallis tests were performed on the nominal/categorical data as a non-parametric determination of
+differences between the independent groups, and non-parametric two-tailed Spearman’s rho bivariate correlations
+were conducted to investigate the relationship between the
+continuous predictor variables and self-reported visual
+function. A Bonferroni corrected significance level of
+p = 0.0025 (=0.05/20) was used.
+
+Figure 1. Threshold values representing the median threshold of the sample (n = 52) at each test location for (a) central 30-2, and (b) peripheral
+60-4 tests.
+
+4
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+
+[page 5]
+H Subhi et al.
+
+Functional visual fields
+
+Table 2. Relationship between the variables assessed, and self reported overall and mobility function
+
+Demographic variables
+Dichotomous variables (U)
+Gender
+Use of mobility aids
+Use of low vision aids
+Have you fallen in the
+past 12 months?
+Nominal variables (v²)
+Ocular diagnosis
+Living arrangements
+Current
+employment status
+Sight loss registration
+Continuous variables (R2)
+Age
+Duration of
+visual impairment
+Number of medications
+
+Overall
+D-AI score
+
+Mobility
+function
+
+U = 286.00,
+p = 0.52
+*U = 112.50,
+p < 0.001
+*U = 107.50,
+p < 0.001
+U = 208.50,
+p = 0.020
+
+U = 275.00,
+p = 0.39
+*U = 101.50,
+p < 0.001
+U = 166.50,
+p = 0.020
+U = 225.00,
+p = 0.046
+
+v² = 13.57,
+p = 0.009
+v² = 0.98,
+p = 0.81
+v² = 2.71,
+p = 0.61
+*v² = 26.92,
+p < 0.001
+
+v² = 15.35,
+p = 0.004
+v² = 1.79,
+p = 0.62
+v² = 2.00,
+p = 0.74
+*v² = 23.66,
+p < 0.001
+
+R2 = 0.03,
+p = 0.23
+R2 = 0.16,
+p = 0.004
+R2 = 0.00,
+p = 0.50
+R2 = 0.12,
+p = 0.015
+
+R2 = 0.05,
+p = 0.10
+*R2 = 0.23,
+p < 0.001
+R2 = 0.01,
+p = 0.52
+R2 = 0.07,
+p = 0.060
+
+Number of
+comorbidities
+Clinical function variables (R2)
+Distance visual acuity
+*R2 = 0.52,
+(logMAR)
+p < 0.001
+Contrast sensitivity
+*R2 = 0.52,
+(logCS units)
+p < 0.001
+Binocular reading
+*R2 = 0.54,
+acuity (logMAR)
+p < 0.001
+Binocular visual field variables (R2)
+Overall field (0–60°)
+*R2 = 0.50,
+p < 0.001
+Central field (0–30°)
+*R = 0.49,
+p < 0.001
+Peripheral
+*R2 = 0.48,
+field (30–60°)
+p < 0.001
+Superior visual
+*R2 = 0.41,
+p < 0.001
+field (0–60°)
+Inferior visual
+*R2 = 0.55,
+field (0–60°)
+p < 0.001
+
+*R2 = 0.40,
+p < 0.001
+*R2 = 0.38,
+p < 0.001
+*R2 = 0.42,
+p < 0.001
+*R2 = 0.64,
+p < 0.001
+*R2 = 0.61,
+p < 0.001
+*R2 = 0.63,
+p < 0.001
+*R2 = 0.56,
+p < 0.001
+*R2 = 0.67,
+p < 0.001
+
+*p ≤ 0.0025, for all others p > 0.0025.
+
+To allow for the prediction of self-reported visual function by a linear combination of two or more predictor variables, and to explore the unique variance explained by each
+predictor variable, clinical function variables were entered
+into the regression model in a forward stepwise manner
+using an alpha of 0.05.
+
+Collinearity statistics were assessed to determine whether
+scores for different visual field areas were independent.
+These measures included the tolerance and variance inflation factor statistics. Variance inflation factors (VIF)
+greater than 10,53 and a tolerance statistic below 0.154,55
+would indicate a multi-collinearity bias.
+Results
+Fifty-two participants took part, and Table 1 illustrates the
+descriptive statistics for the parameters assessed. All participants were able to complete both visual field tests binocularly. Twelve percent of participants had difficulty either
+seeing the standard fixation target or maintaining single
+vision during the assessment. For these participants, a custom fixation target consisting of a black 2 mm high contrast pericentral ring around the fixation spot was used to
+aid fixation. The SITA Fast 30-2 assessment took on average 5 min 14 s (11 s), and the 60-4 took on average
+4 min 59 s (7 s). The median threshold values of the
+sample for each location within the central 30-2 and
+peripheral 60-4 test programmes are demonstrated in Figure 1.
+Table 2 shows the relationships between the parameters
+assessed and the outcome measures of overall self-reported
+function and self-reported mobility function.
+Self-reported overall and mobility related function were
+significantly worse for individuals who reported using
+mobility aids than for those who did not (U = 112.50,
+p < 0.0001 and U = 101.50, p < 0.0001 respectively), and
+for those with more severe visual impairment as indicated
+by their visual registration status (R2 = 0.50 p < 0.0001;
+R2 = 0.45 p < 0.0001 respectively). Overall self-reported
+function was more difficult for participants who reported
+using low vision aids than those who did not (U = 107.50,
+p < 0.0001). Longer duration of visual impairment was a
+significant predictor of worse self-reported mobility function (R2 = 0.23, p < 0.0001). Acuity and contrast sensitivity variables all correlated significantly (p ≤ 0.0025) with
+overall and mobility related self-reported visual function,
+where worse visual function measures were associated with
+worse perceived function.
+Greater visual field loss (0–60°) was associated with
+worse self-reported overall function (R2 = 0.50;
+p < 0.0001). Worse overall binocular visual field was in
+particular a good predictor of greater self-reported difficulty in mobility related activities (R2 = 0.64, p < 0.0001).
+Splitting the visual field into central (0–30°) and peripheral (30–60°) areas, the relationship between the visual field
+and self-reported function did not appear to be greatly
+dependent on eccentricity. The peripheral (30–60°) and
+central (0–30°) visual field were similarly correlated with
+self-reported function for both overall function (R2 = 0.49,
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+5
+
+
+[page 6]
+Functional visual fields
+
+H Subhi et al.
+
+p < 0.0001 central and R2 = 0.48, p < 0.0001 peripheral)
+and mobility related function (R2 = 0.61, p < 0.0001 central and R2 = 0.63, p < 0.0001 peripheral), where greater
+visual field loss is associated with worse perceived function.
+The superior and inferior visual field areas were also similarly related to overall (R2 = 0.41, p < 0.0001 superior and
+R2 = 0.56, p < 0.0001 inferior) and mobility related function R2 = 0.55, p < 0.0001 superior and R2 = 0.67,
+p < 0.0001 inferior), but with a tendency for the inferior
+fields to be better correlated to perceived function.
+Although there was a strong correlation between the central (0–30°) and the peripheral (30–60°) visual field scores
+(R2 = 0.85, p < 0.0001), and between the superior and
+inferior visual field scores (R2 = 0.85, p < 0.0001), further
+investigation suggested these relationships were unlikely to
+adversely affect the results obtained by including both variables in subsequent multiple regression analyses due to
+multi-collinearity. Variance inflation factors were lower
+than required at 5.85 and 4.2953 and the tolerance statistics
+of 0.17 and 0.23 were greater than required.54,55 Therefore,
+although thresholds are related to one another, the relative
+roles of the central (0–30°) and peripheral (30–60°) field,
+and of the superior and inferior field in reflecting functional difficulty can be appropriately investigated with
+regression analyses.
+The variables of central (0–30°) and peripheral (30–60)
+visual field mean thresholds, binocular visual acuity, and
+binocular contrast sensitivity were entered into stepwise
+multiple regressions to determine which independently
+explained significant amounts of variance in overall and
+mobility self-reported function (Table 3a). The peripheral
+(30–60°) visual field was found to account for most variance (50%) in overall self-reported function. Also significant in this model was binocular contrast sensitivity, which
+explained a further 9% of variance. For self-reported
+mobility function, the peripheral (30–60°) visual field
+explained 59% of the variance in self-reported mobility
+function. When combined with binocular contrast sensitivity this increased to 67%.
+Further stepwise regression analyses were conducted
+including the superior and inferior visual field mean
+thresholds, binocular visual acuity, and binocular contrast
+sensitivity (Table 3b). The inferior visual field explained
+54% of overall self-reported function, and 61% when combined with binocular contrast sensitivity. The inferior visual
+field was also found to account for most variance (61%) in
+self-reported mobility function. Binocular contrast sensitivity explained a further 7% of variance.
+Discussion
+The aim of this study was to investigate which areas of the
+binocular threshold visual field should be measured in
+6
+
+Table 3. Results of stepwise regression analyses to determine which
+clinical function variables best represent overall self-reported function,
+and mobility function (n = 52). Variables included: (a) central (0–30°)
+and peripheral (30–60°) visual field, contrast sensitivity, distance visual
+acuity; (b) superior and inferior visual field, contrast sensitivity, distance
+visual acuity
+
+(a)
+Overall D-AI score
+Peripheral (30–60°) field
+Binocular CS
+R2
+Mobility function
+Peripheral (30–60°) field
+Binocular CS
+R2
+(b)
+Overall D-AI function
+Inferior visual field
+Binocular CS
+R2
+Mobility function
+Inferior visual field
+Binocular CS
+R2
+
+B
+
+SE B
+
+b
+
+R2 change
+
+p
+
+0.12
+1.11
+0.59
+
+0.03
+0.33
+
+0.51
+0.36
+
+0.50
+0.09
+
+<0.001
+0.002
+
+0.24
+1.83
+0.67
+
+0.04
+0.53
+
+0.58
+0.34
+
+0.59
+0.08
+
+<0.001
+0.001
+
+0.10
+0.99
+0.61
+
+0.02
+0.33
+
+0.56
+0.32
+
+0.54
+0.07
+
+<0.001
+0.004
+
+0.19
+1.68
+0.68
+
+0.03
+0.53
+
+0.61
+0.31
+
+0.61
+0.07
+
+<0.001
+0.002
+
+B, unstandardised regression coefficients; SE B, standard errors; b, standardised regression coefficients; R2 change, amount of additional variance by including predictors from sample.
+
+order to best reflect self-reported function. Both central
+(0–30°) and peripheral (30–60°) mean thresholds related
+well to self-reported function (Table 2), but it was the
+peripheral (30–60°) field that was the best predictor of both
+overall and mobility related self-reported function in this
+sample (Table 3a). Therefore, in order to accurately determine the functional consequences of visual field loss, the
+peripheral visual field should also be considered (Table 4).
+That the peripheral visual field is important for mobility
+function is supported by previous findings using several
+different outcome measures. In a sample of older adults,
+the status of peripheral visual field (20–60°) was significantly correlated with the risk of falling, whereas the central
+visual field (0–20°) was not.57 Also, correcting for central
+visual impairment alone may be insufficient to effectively
+decrease rates of falls relating to visual impairment.58
+Monocular kinetic visual field extent in people with Retinitis Pigmentosa has also been found to be significantly associated with mobility function as assessed on a mobility
+course, with worse function in subjects with fields contained within the central 20°.59 Orientation and mobility
+performance has been shown to be worse when the visual
+field loss is peripheral than when the loss is central,60 with
+an increased risk of tripping over obstacles also associated
+with peripheral visual impairment.28 The relationship
+between visual field loss and function is also likely to be
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+
+[page 7]
+H Subhi et al.
+
+influenced by compensatory scanning behaviour used by
+individuals with visual field loss which may improve task
+performance.61–64
+Other studies have indicated that the central visual field
+is more strongly related to mobility function, however. The
+field of view required for navigation in subjects with artificially restricted fields is between 10.9 and 32.1° depending
+on contrast conditions.34 It has been proposed that the central 37° is most important for mobility function in individuals with low vision,29 and Tabrett and Latham13 found the
+central 10–30° best predicted visual related activity limitation in mobility tasks (although fields were not assessed
+beyond 30°). In subjects with glaucoma, perceived mobility
+function was best explained by the function of the inferior
+5° from fixation.65
+The variance in findings of these studies is likely attributed to differences in the methods of assessing the visual
+field, and how mobility is assessed. Several previous studies
+have assessed the visual field binocularly using kinetic paradigms that include the peripheral visual field,28,29,31,32 while
+others have used threshold techniques restricted to the central 30° visual field.13,30,52 Only the present study has considered threshold fields beyond 30°. In terms of mobility,
+some studies have used falls as an outcome measure,57,58
+others have used objective performance on mobility
+courses,28–34 while others including the present study have
+used questionnaires to assess perceived function.1,13,21,22,24
+Since it has been suggested that the different areas of the
+visual field are used for different purposes in mobility, with
+the central field used to guide walking and the peripheral
+field used to establish and update an accurate representation of spatial structure for navigation,66 relationships
+between field and mobility may depend on the specific
+mobility issues that the outcome measure used taps into.
+The results of this study also support the significance
+of the inferior visual field for mobility function that has
+been previously demonstrated.28,29,36–39 Visual field loss
+in the inferior mid-periphery (20–40°) has been shown
+to adversely affect mobility more than loss of the visual
+field in other areas.29 Similarly, visual field loss in the
+lower peripheral region has shown comparable decrements in walking speed on a mobility course.28,39 The
+inferior visual field has also been shown to relate significantly to perceived mobility function.36 One potential
+reason for the increased importance of inferior field in
+mobility is that the inferior field may provide a stronger
+contribution to postural stability than the superior visual
+field.37 It has also been suggested that the inferior visual
+field contributes a greater proportion of the visual information used in determining lower limb movements, foot
+placement, and obstacle detection.39 Individuals tend to
+fixate approximately two steps ahead when walking,67
+but loss of information from the lower visual field
+
+Functional visual fields
+
+results in reduced step length when walking across
+uneven terrain.39
+It should be noted that previous studies demonstrating
+the importance of the inferior visual field for mobility function have assessed subjects whose degree of visual field loss
+was likely less than that of many of the participants in our
+sample. Over half of the current sample were registered
+sight impaired (Table 1), and although this may relate to
+visual acuity rather than fields, individuals with visual field
+loss were recruited, and Table 1 shows a relatively good
+median acuity, suggesting visual field loss was the primary
+reason for registration. Previous studies have evaluated
+older adults with no visual impairment,28,29 normally
+sighted subjects with simulated field loss,39 participants
+with glaucoma,36,37 and a mixed sample with half the participants having visual impairment.29 In the present study
+we have demonstrated that loss in the inferior visual field
+remains a better indicator of perceived mobility function
+than the superior field in individuals with a greater degree
+of established visual impairment.
+While the association between the inferior visual field
+and mobility is well documented, the significance of the
+inferior visual field to overall function has not previously
+been investigated. The inferior visual field was also selected
+as the primary predictor of overall perceived function in
+the present study, indicating the significance of the inferior
+visual field for general function. This could be explained by
+the presence of more ecologically relevant information in
+this region of space.68
+A further predictor of overall and mobility self-reported
+function was binocular contrast sensitivity. This supports
+previous research that has shown that while visual acuity,
+visual field, and contrast sensitivity correlate significantly
+with mobility performance, the visual field and contrast
+sensitivity are stronger predictors than visual acuity.60,69–71
+The combined effect of visual field and contrast sensitivity
+in other studies of low vision groups has been shown to
+account for between 39% and 64% of the variance in measured mobility performance,32,59,72 similar to the 59–67%
+found here.
+Whilst this study assesses binocular static thresholds to
+60° eccentricity, previous studies have assessed the binocular visual field past 30° with supra-threshold or kinetic
+paradigms. In people with glaucoma, the Esterman suprathreshold field test has been shown to relate well to self reported function in some studies23,24 but not in
+others.22,25,26 Other studies have found an association
+between the visual field assessed kinetically and self reported function,1,31 and mobility performance.29,31–33
+Whether a binocular threshold visual field is a more appropriate way to assess functional field loss is not clear as few
+studies to date have compared different visual field strategies and their ability to reflect functional loss. One study
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+7
+
+
+[page 8]
+Functional visual fields
+
+H Subhi et al.
+
+did not find significant differences in how well different
+visual field protocols related to self-reported function,73
+whereas another found that of several visual field protocols
+only the Esterman field score correlated with self-reported
+function.74 It is yet to be determined whether a threshold
+binocular visual field test assessing both central and peripheral field could yield stronger correlation with functional
+ability than other methods of visual field assessment,
+although the extent of variance explained in the present
+study is promising.
+In the present study, a cohort with a wide range of visual
+field sensitivities from mild to profound loss were assessed
+in order to examine the relationship between field loss and
+functional ability. In future work, a larger sample and
+inclusion of a normally sighted cohort may be needed to
+provide robust regressions and to examine the ability of
+any proposed functional field test to discriminate between
+people with and without field loss. Alternative considerations of multi-colinearity in the data might also need to be
+considered. The use of a single self-reported outcome provides a broad indication of general mobility function, but
+does not explore specific mobility tasks. These broad
+mobility goals are however less likely to be biased by field
+area-specific tasks such as tripping over obstacles or walking into overhanging objects.
+In conclusion, peripheral and central fields both have a
+role in reflecting the functional difficulties of people with
+field loss and should be considered in a functional visual
+field assessment. The significance of the inferior field to
+both mobility function and overall function has also been
+demonstrated in individuals with moderate to severe visual
+field loss. A binocular threshold test that assesses to 60° can
+represent the functional abilities of individuals with peripheral visual impairment. However, what remains to be determined is whether a threshold method is preferable to
+alternative paradigms such as supra-threshold or kinetic
+fields in producing an outcome that can be used clinically
+and best describes functional difficulty. Further research
+will determine the most appropriate method of assessing
+visual fields in the low vision assessment by comparing
+different visual field protocols.
+Disclosure
+The authors report no conflicts of interest and have no proprietary interest in any of the materials mentioned in this
+article.
+Acknowledgement
+This research is funded by a College of Optometrists Postgraduate Research Scholarship.
+
+8
+
+References
+1. Bibby SA, Maslin ER, McIlraith R & Soong GP. Vision and
+self-reported mobility performance in patients with low
+vision. Clin Exp Optom 2007; 90: 115–123.
+2. Nelson P, Aspinall P, Papasouliotis O, Worton BO & Brien
+C. Quality of life in glaucoma and its relationship with
+visual function. J Glaucoma 2003; 12: 139–150.
+3. Tabrett DR & Latham K. Factors influencing self-reported
+vision-related activity limitation in the visually impaired.
+Invest Ophthalmol Vis Sci 2011; 52: 5293–5302.
+4. Ramrattan RS, Wolfs RC, Panda-Jonas S et al. Prevalence
+and caused of visual field loss in the elderly and associations
+with impairment in daily functioning: the Rotterdam Study.
+Arch Ophthalmol 2001; 119: 1788–1794.
+5. Sherwood M, Garcia-Siekavizza A, Meltzer M et al. Glaucoma’s impact on quality of life and its relation to clinical
+indicators. Ophthalmology 1998; 105: 561–566.
+6. Ivers RQ, Cumming RG, Mitchell P et al. Visual impairment and falls in older adults: the Blue Mountains Eye
+Study. J Am Geriatr Soc 1998; 46: 58–64.
+7. Nelson-Quigg JM, Cello K & Johnson CA. Predicting binocular visual field sensitivity from monocular visual field
+results. Invest Ophthalmol Vis Sci 2000; 41: 2212–2221.
+8. Schneck ME, Haegerstom-Portnoy G, Lott L & Brabyn JA.
+Monocular vs. binocular measurement of spatial vision in
+elders. Optom Vis Sci 2010; 87: 526–531.
+9. Asaoka R, Crabb D, Yamashita T, Russell R, Wany YX &
+Garway-Heath DF. Patients have two eyes!: binocular versus
+better eye visual field indices. Invest Ophthalmol Vis Sci
+2011; 52: 7007–7011.
+10. Crabb DP, Smith ND, Glen FC, Burton R & Garway-Heath
+DF. How does glaucoma look? Patient perception of visual
+field loss. Ophthalmology 2013; 120: 1120–1126.
+11. Gutierrez P, Wilson MR, Johnson C et al. Influence of glaucomatous visual field loss on health-related quality of life.
+Arch Ophthalmol 1997; 115: 777–784.
+12. El-Gasim M, Munoz B, West S & Scott A. Associations
+between self-rated vision score, vision tests and self-reported
+visual function in the Salisbury Eye Evaluation Study. Invest
+Ophthalmol Vis Sci 2013; 54: 6439–6445.
+13. Tabrett DR & Latham K. Important areas of the central
+binocular visual field for daily functioning in the visually
+impaired. Ophthalmic Physiol Opt 2012; 32: 156–163.
+14. Aspinall PA, Johnson ZK, Azuara-Blanco A, Montarzino A,
+Brice R & Vickers A. Evaluation of quality of life and priorities of patients with glaucoma. Invest Ophthalmol Vis Sci
+2008; 49:1907–1915.
+15. Seo JH, Yu HG & Lee BJ. Assessment of functional vision
+score and vision-specific quality of life in individuals with
+retinitis pigmentosa. Korean J Ophthalmol 2009; 23: 164–
+168.
+16. Varma R, Wu J, Chong K, Azen SP, Hays RD; Los Angeles
+Latino Eye Study Group. Impact of severity and bilaterality
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+
+[page 9]
+H Subhi et al.
+
+of visual impairment on health-related quality of life. Ophthalmology 2006; 113: 1846–1853.
+17. Nelson P, Aspinall P & O’Brien C. Patient’s perception of
+visual impairment in glaucoma: a pilot study. Br J Ophthalmol 1999; 83: 546–552.
+18. Szlyk JP, Fishman GA, Alexander KR et al. Relationship
+between difficulty in performing daily activities and clinical
+measures of visual function in patients with retinitis pigmentosa. Arch Ophthalmol 1997; 115: 53–59.
+19. Szlyk JP, Fishman GA, Grover S, Revelins BI & Derlacki DJ.
+Difficulty in performing everyday activities in patients with
+juvenile macular dystrophies: comparison with patients with
+retinitis pigmentosa. Br J Ophthalmol 1998; 82: 1372–1376.
+20. Parrish RK II, Gedde SJ, Scott IU et al. Visual function and
+quality of life among patients with glaucoma. Arch Ophthalmol 1997; 115: 1447–1455.
+21. Crabb DP & Viswanathan AC. Integrated visual fields: a new
+approach to measuring the binocular field of view and visual
+disability. Graefes Arch Clin Exp Ophthalmol 2004; 243: 210–
+216.
+22. Noe G, Ferraro J, Lamoureux E, Rait J & Keeffe JE. Associations between glaucomatous visual field loss and participation in activities of daily living. Clin Exp Optom 2003; 31:
+482–486.
+23. Mills RP & Drance SM. Esterman disability rating in severe
+glaucoma. Ophthamology 1986; 93: 371–378.
+24. Fujita K, Yasuda N, Nakamoto K & Fukuda T. The relationship between difficulty in daily living and binocular visual
+field in patients with glaucoma. Nihon Ganka Gakkai Zasshi
+2008; 112: 447–450.
+25. Jampel HD. Glaucoma patients’ assessment of their visual
+function and quality of life. Tr Am Ophth Soc 2001; 99: 301–
+317.
+26. Jampel HD, Friedman DS, Quigley H et al. Correlation of
+the binocular visual field with patients’ assessment of vision.
+Invest Ophthalmol Vis Sci 2002; 43: 1059–1067.
+27. Turano KA, Rubin GS & Quigley HA. Mobility performance in glaucoma. Invest Ophthalmol Vis Sci 1999; 40:
+2803–2309.
+28. Turano KA, Broman AT, Bandeen-Roche K, Munoz B,
+Rubin GS & West S. Association of visual field loss and
+mobility performance in older adults: Salisbury Eye Evaluation Study. Optom Vis Sci 2004; 81: 298–307.
+29. Lovie-Kitchin JE, Mainstone J, Robinson J & Brown B. What
+areas of the visual field are important for mobility in low
+vision patients? Clin Vis Sci 1990; 5: 249–263.
+30. Black A, Lovie-Kitchin J, Woods R, Arnold N, Byrnes J &
+Murrish J. Mobility performance with retinitis pigmentosa.
+Clin Exp Optom 1996; 80: 1–12.
+31. Haymes SA, Johnston AW & Heyes AD. Relationship
+between vision impairment and ability to perform activities
+of daily living. Ophthalmic Physiol Opt 2002; 22: 79–91.
+32. Haymes S, Guest D, Heyes A & Johnston A. Mobility of people with retinitis pigmentosa as a function of vision and psychological variables. Optom Vis Sci 1996; 73: 621–637.
+
+Functional visual fields
+
+33. Lovie-Kitchin JE, Soong GP, Hassan SE & Woods RL. Visual
+field size criteria for mobility rehabilitation referral. Optom
+Vis Sci 2010; 87: 948–957.
+34. Hassan SE, Hicks JC, Lei H & Turano KA. What is the minimum field of view required for efficient navigation? Vision
+Res 2007; 47: 2115–2123.
+35. Guerin E, Bouliotis G & King A. Visual impairment registration: evaluation of agreement among ophthalmologists. Eye
+2014; 28: 808–813.
+36. Black AA, Wood JM & Lovie-Kitchin JE. Inferior field loss
+increases rate of falls in older adults with glaucoma. Optom
+Vis Sci 2011; 88: 1275–1282.
+37. Black AA, Wood JM, Lovie-Kitchin JE & Newman BM.
+Visual impairment and postural sway among older adults
+with glaucoma. Optom Vis Sci 2008; 85: 489–497.
+38. Coleman AL, Cummings SR, Yu F et al. Binocular visual field loss increases the risk of future falls in older white
+women. J Am Geriatr Soc 2007; 55: 357–364.
+39. Marigold DS & Patla AE. Visual information from the lower
+visual field is important for walking across multi-surface terrain. Exp Brain Res 2008; 188: 23–31.
+40. Bruijning JE, van Nispen RMA & van Rens GHMB. A Dutch
+ICF version of the Activity Inventory: results from a pilot
+study among visually impaired persons. BMC Health Serv
+Res 2010; 10: 318.
+41. Bruijning JE, van Rens GHMB, Knol DL & van Nispen
+RMA. Psychometric analyses to improve the Dutch ICF
+Activity Inventory. Optom Vis Sci 2013; 90: 806–819.
+42. World Health Organisation. International Classification of
+Functioning, Disability and Health, World Health Organisation: ICF, Geneva, Switzerland, 2001.
+43. Latham K, Baranian M, Timmis MA & Pardhan S. Difficulties with goals of the Dutch ICF Activity Inventory: perceptions of those with retinitis pigmentosa and of those who
+support them. Invest Ophthalmol Vis Sci 2015; 56: 2381–
+2391.
+44. Ferris FL, Kassoff A, Bresnick GH & Bailey IL. New visual
+acuity charts for clinical research. Am J Ophthalmol 1982;
+94: 91–96.
+45. Mansfield J, Ahn SJ, Legge GE & Luebker A. A new reading acuity chart for normal and low vision. Ophthalmic & visual
+optics/noninvasive assessment of the visual system. OSA
+Tech Digest 1993; 3: 232–235.
+46. Ahn SJ, Legge GE & Luebker A. Printed cards for measuring
+low-vision reading speed. Vision Res 1995; 35: 1939–1944.
+47. Myint J, Latham K, Mann D, Gomersall P, Wilkins A &
+Allen P. The relationship between visual function and
+performance in rifle shooting for athletes with vision impairment. BMJ Open Sport Exerc Med 2016; 2(1): e000080.
+48. Pelli DG, Robson JG & Wilkins AJ. The design of a new letter chart for measuring contrast sensitivity. Clin Vis Sci
+1988; 2: 187–199.
+49. Elliott DB, Bullimore MA & Bailey IL. Improving the reliability of the Pelli-Robson contrast sensitivity test. Clin Vis
+Sci 1991; 6: 471–475.
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+
+9
+
+
+[page 10]
+Functional visual fields
+
+H Subhi et al.
+
+50. HFA. Carl Zeiss Meditec, Inc., Dublin, CA.
+51. Heijl A & Krakau C. An automatic perimeter for glaucoma
+visual field screening and control. Graefes Arch Clin Exp
+Ophthalmol 1975; 197: 13–23.
+52. Leat SJ & Lovie-Kitchin J. Visual impairment and the useful
+field of vision. Ophthalmic Physiol Opt 2006; 26: 392–403.
+53. Field AP. Discovering Statistics Using SPSS, 2nd edn. SAGE
+publications Ltd.: London, 2005.
+54. Menard S. Applied Logistic Regression Analysis: Sage University Series on Quantitative Applications in the Social Sciences.
+Sage: Thousand Oaks, CA, 1995.
+55. O’Brien RM. A caution regarding rules of thumb for variance inflation factors. Qual Quant 2007; 41: 673–690.
+56. van Nispen RMA, Hoeijmakers JGJ, de Boer MR et al.
+Agreement between self-reported co-morbidity of visually
+impaired older patients and reports from their general practitioners. Visual Impair Res 2008; 10: 49–56.
+57. Freeman EE, Munoz B, Rubin GS & West SK. Visual field
+loss increases the risk of falls in older adults: the Salisbury eye
+evaluation. Invest Ophthalmol Vis Sci 2007; 48: 4445–4450.
+58. Patino CM, McKean-Cowdin R, Azen SP, Allison JC,
+Choudhury F & Varma R. Central and peripheral visual
+impairment and the risk of falls and falls with injury. Ophthalmology 2010; 117: 199.
+59. Geruschat DR, Turano KA & Stahl JW. Traditional measures
+of mobility performance and retinitis pigmentosa. Optom
+Vis Sci 1998; 75: 525–537.
+60. Marron JA & Bailey IL. Visual factors and orientation-mobility performance. Am J Optom Physiol Opt 1982; 59: 413–426.
+61. Pambakian ALM, Wooding DS, Patel N, Morland AB, Kennard C & Mannan SK. Scanning the visual world: a study of
+patients with homonymous hemianopia. J Neurol Neurosurg
+Psychiatry 2000; 69: 751–759.
+62. Zihl J. Visual scanning behavior in patients with homonymous hemianopia. Neuropsychologia 1995; 33: 287–303.
+63. Chen CS, Lee AW, Clarke G et al. Vision-related quality of
+life in patients with complete homonymous hemianopia
+post stroke. Top Stroke Rehabil 2009; 16: 445–453.
+64. Loetscher T, Chen C, Wignall S et al. A study on the natural
+history of scanning behaviour in patients with visual field
+defects after stroke. BMC Neurol 2015; 15: 321–325.
+
+10
+
+65. Sumi I, Shirato S, Matsumoto S & Araie M. The relationships between visual disability in patients with glaucoma.
+Ophthalmology 2003; 110: 332–339.
+66. Turano KA, Yu D, Hao L & Hicks JC. Optic-flow and egocentric-direction strategies in walking: central vs peripheral
+visual field. Vision Res 2005; 45: 3117–3132.
+67. Land MF. Eye movements and the control of actions in
+everyday life. Prog Retin Eye Res 2006; 25: 296–324.
+68. Rezec AA & Dobkins KR. Attentional weighting: a possible
+account of visual field asymmetries in visual search? Spat Vis
+2004; 17: 269–293.
+69. Bailey IL. New procedures for detecting early vision losses in
+the elderly. Optom Vis Sci 1993; 70: 299–305.
+70. Kuyk T, Elliott JL & Fuhr PS. Visual correlates of mobility in
+real world settings in older adults with low vision. Optom
+Vis Sci 1998; 75: 538–547.
+71. Hassan SE, Lovie-Kitchin JE & Woods RL. Vision and
+mobility performance of subjects with age-related macular
+degeneration. Optom Vis Sci 2002; 79: 697–707.
+72. Long RG, Reiser JJ & Hill EW. Mobility in individuals with
+moderate visual impairments. J Vis Impair Blind 1990; 84:
+111–118.
+73. Choy ES, Mills RP & Drance SM. Automated Esterman testing of disability in glaucoma. In: Seventh International Visual
+Field Symposium (Greve E & Heiji A, editors), Junk Publishers: Amsterdam, the Netherlands, 1986; pp. 527–535.
+74. Yanagisawa M, Kato S, Kunimatsu S & Tamura M. Relationship between vision-related quality of life in Japanese
+patients and methods for evaluating visual field. Jpn J Ophthalmol 2011; 55: 132–137.
+
+Supporting Information
+Additional Supporting Information may be found in the
+online version of this article:
+Appendix S1. Calculation of Person Measures with
+Rasch analysis.
+Table S1. Item parameters of the 43 goals of the Dutch
+ICF Activity Inventory as determined by Rasch analysis.
+
+© 2017 The Authors Ophthalmic & Physiological Optics © 2017 The College of Optometrists
+

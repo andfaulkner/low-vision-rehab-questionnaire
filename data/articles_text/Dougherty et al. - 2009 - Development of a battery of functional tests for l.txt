@@ -1,0 +1,1110 @@
+[page 1]
+1040-5488/09/8608-0955/0 VOL. 86, NO. 8, PP. 955–963
+OPTOMETRY AND VISION SCIENCE
+Copyright © 2009 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Development of a Battery of Functional Tests
+for Low Vision
+Bradley E. Dougherty*, Scott R. Martin*, Corey B. Kelly†, Lisa A. Jones‡, Thomas W. Raasch§,
+and Mark A. Bullimore¶
+
+ABSTRACT
+Purpose. We describe the development and evaluation of a battery of tests of functional visual performance of everyday
+tasks intended to be suitable for assessment of low vision patients.
+Methods. The functional test battery comprises—Reading rate: reading aloud 20 unrelated words for each of four print
+sizes (8, 4, 2, & 1 M); Telephone book: finding a name and reading the telephone number; Medicine bottle label: reading
+the name and dosing; Utility bill: reading the due date and amount due; Cooking instructions: reading cooking time on
+a food package; Coin sorting: making a specified amount from coins placed on a table; Playing card recognition:
+identifying denomination and suit; and Face recognition: identifying expressions of printed, life-size faces at 1 and 3 m.
+All tests were timed except face and playing card recognition. Fourteen normally sighted and 24 low vision subjects were
+assessed with the functional test battery. Visual acuity, contrast sensitivity, and quality of life (National Eye Institute Visual
+Function Questionnaire 25 [NEI-VFQ 25]) were measured and the functional tests repeated. Subsequently, 23 low vision
+patients participated in a pilot randomized clinical trial with half receiving low vision rehabilitation and half a delayed
+intervention. The functional tests were administered at enrollment and 3 months later.
+Results. Normally sighted subjects could perform all tasks but the proportion of trials performed correctly by the low
+vision subjects ranged from 35% for face recognition at 3 m, to 95% for the playing card identification. On average, low
+vision subjects performed three times slower than the normally sighted subjects. Timed tasks with a visual search
+component showed poorer repeatability. In the pilot clinical trial, low vision rehabilitation produced the greatest
+improvement for the medicine bottle and cooking instruction tasks.
+Conclusions. Performance of patients on these functional tests has been assessed. Some appear responsive to low vision
+rehabilitation.
+(Optom Vis Sci 2009;86:955–963)
+Key Words: low vision, functional test, quality of life
+
+O
+
+ne goal of low vision rehabilitation is to improve a patient’s performance of everyday tasks. Performance can
+be assessed by self-report or by evaluating performance
+directly. In the past decade, there has been a great deal of energy
+devoted to the development of visual functioning questionnaires
+and the analysis of their results.1–7 The NEI-VFQ-25 is the most
+commonly used instrument for the evaluation of vision-specific
+health-related quality of life.1 It consists of a set of questions that
+
+*OD, MS
+†
+OD
+‡
+PhD, FAAO
+§
+OD, PhD, FAAO
+¶
+MCOptom, PhD, FAAO
+The Ohio State University, College of Optometry, Columbus, Ohio.
+
+are asked of patients regarding their vision and how much difficulty they have performing various activities.
+There has been less attention paid to the direct assessment of
+performance. A number of studies have assessed functional visual
+performance in normally sighted subjects, low vision patients, or
+both and a selection is listed in Table 1.7–18 Some studies have
+examined one task, but many have assessed a range of activities of
+daily living including identifying the pertinent information on a
+bill or food packet, telling the time, face recognition, and mobility.
+A standardized battery of functional visual tests could serve two
+roles. First, performance-based visual function could be used as an
+independent outcome measure to assess the influence of low vision
+rehabilitation on a patient’s ability to perform everyday tasks. Second, tests of performance-based visual function could serve to
+validate self-reported measures of visual function or vision-related
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 2]
+956 Functional Test Battery for Low Vision—Dougherty et al.
+
+TABLE 1.
+Previous studies measuring functional performance in patients
+Authors
+
+Patients
+
+Functional performance measures
+
+Ebert et al.8
+Applegate et al.9
+Alexander et al.10
+
+64 mixed patients
+293 cataract patients
+100 AMD patients
+
+Ross et al.11
+
+144 low vision patients
+
+Bullimore et al.12
+Turco et al.13
+Elliott et al.14
+
+Ross et al.16
+
+15 AMD patients
+94 low vision patients
+25 cataract patients, 15
+normally sighted
+97 normally sighted
+patients
+155 low vision patients
+
+Paper currency, color vision, clock, reading fixed print size
+Mental status, timed manual tests (writing), simulated eating, Wechsler maze No. 3
+Large print Reader’s Digest (fixed distance), clock, color vision, identify household
+products, facial expression
+Identify common objects, reading tasks of various sizes, daily living and leisure
+activities
+Face recognition at various distances
+Spot reading of a bill, short-term reading three print sizes, paper currency, clock
+Face recognition, reading rate, mobility orientation
+
+Haymes et al.7
+
+122 low vision patients
+
+Szlyk et al.26
+Owsley et al.17
+
+62 retinitis pigmentosa
+patients
+342 older adults
+
+Owsley et al.18
+
+173 older adults
+
+Altangerel et al.39
+
+43 glaucoma patients
+
+West et al.15
+
+Semi-tandem stand, functional reach, stair climb and descend, inserting a plug,
+looking up and dialing a telephone number, and reading newsprint
+Reader’s Digest, soup can, pepper test, searching, writing, make change with bills
+and coins, dial phone, identify objects, TV viewing
+18 tasks, including reading newspaper print, using telephone book, reading bill,
+reading medicine label, reading packet labels, recognizing faces, using
+telephone, and identifying coins
+64 tasks including reading newspaper, writing checks, recognizing facial
+expressions, reading a food label, and mobility
+17 tasks including reading ingredients on cans of food, instructions on medicine
+bottles, finding phone number, locating items on crowded shelf, and using
+screwdriver
+Finding telephone number, making change, finding and reading ingredients on can
+of food, finding food items on a shelf, reading instructions on medicine bottle
+Dialing phone, using calculator, opening lock, box finding, coin finding, reading,
+mobility
+
+quality of life. Some of the tasks that have been used in performance-based assessments are covered in specific NEI-VFQ-25
+items. The literature suggests that there is a moderate correlation
+between quality of life scores and certain objective measures of
+visual status.19 –23 Nonetheless, a better understanding of the relationship between standardized tests of visual performance and
+quality of life measures is needed (National Advisory Eye Council,
+1993). Patients may not accurately assess their own ability to perform everyday tasks24 –26 and estimates may be confounded by
+cognitive ability and depression.27–29
+It has been previously demonstrated that patients’ performance
+on performance-based assessments are indicative of their ability to
+complete the tested tasks in real-world situations.15 Performance based measures would provide clinicians and researchers with a
+means of evaluating a patient’s functional abilities accurately. The
+goals of this preliminary study were
+1. To develop a battery of tests of functional visual performance;
+2. To evaluate the ability of normally sighted and low vision subjects to perform each of the tests;
+3. To evaluate the repeatability of each test, particularly with respect to time taken to perform the task; and
+4. To assess the responsiveness of each test to low vision rehabilitation in a pilot randomized clinical trial.
+Although previous studies have developed similar batteries of
+tests in larger samples, this study evaluates the repeatability of time
+taken to perform activities of daily living and the effect of low
+vision rehabilitation on ability to perform the tasks.
+
+METHODS
+Test Philosophy and Development
+Early in the development of these tests, the authors consulted
+with several authorities in the field regarding visual function tests,
+including those used in the Salisbury Eye Evaluation15,30 and the
+Women’s Health and Aging Study.31
+Tasks were selected based on the following criteria:
+1. The task was representative of common and relevant tasks encountered in everyday life.11,32 The goal was to include tasks
+with which patients were familiar and would be likely to aspire
+to perform.
+2. The task was similar to a specific question in vision-specific
+quality of life instruments, particularly the NEI-VFQ-25.1,33
+The NEI-VFQ-25 was developed on the basis of focus groups
+of visually impaired patients, so rather than conduct our own
+focus groups, we selected tasks assessed in the NEI-VFQ-25.
+Five of the items from the NEI-VFQ-25 are listed in Table 2,
+along with the corresponding functional performance measure
+developed in the current study.
+3. The task could be administered with the subject seated. Orientation and mobility tasks were, thus, not considered.
+4. The task was appropriate for use in a multicenter clinical study.
+The goal was to use readily available items such as playing cards,
+coins, and food packets or materials that could be reproduced
+easily and inexpensively. Computer-based tests were not used
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 3]
+Functional Test Battery for Low Vision—Dougherty et al.
+
+957
+
+TABLE 2.
+NEI-VFQ-25 questions used as a motivation for the functional test battery
+VFQ item
+5
+6
+
+11
+A3
+A4
+
+Question
+
+Functional performance measure
+
+How much difficulty do you have reading ordinary print in newspapers?
+How much difficulty do you have doing work or hobbies that require you
+to see well up close, such as cooking, sewing, fixing things
+around the house, or using hand tools?
+Because of your eyesight, how much difficulty do you
+have seeing how people react to things you say?
+Wearing glasses, how much difficulty do you have reading the small
+print in a telephone book, on a medicine bottle, or on legal forms?
+Because of your eyesight, how much difficulty do you have figuring
+out whether bills you receive are accurate?
+
+Reading
+Cooking instructions
+
+Face recognition
+Telephone, medicine label
+Utility bills
+
+For all questions, the possible responses are 1. No difficulty at all, 2. A little difficulty, 3. Moderate difficulty, 4. Extreme difficulty,
+5. Stopped doing this because of your eyesight, and 6. Stopped doing this for other reasons or not interested in doing this.
+
+to make the task materials as standardized as possible, and familiar to the participants.
+A battery of eight tests of functional visual performance of everyday tasks was developed. The test items are
+• Reading rate for 8, 4, 2, and 1 M print;
+• Finding a name on a telephone directory page;
+• Reading the dosing information on a medicine bottle;
+• Reading the due date and amount due on a utility bill;
+• Reading the cooking instructions on a box of packaged food;
+• Selecting coins corresponding to a given amount;
+• Recognizing playing cards;
+• Identifying facial expressions at 1 and 3 m using printed life-size
+faces.
+
+Reading Rate
+Although a number of reading tests were available,34 –37 none
+suited our needs. Some tests had only a limited amount of text at
+each print size and others had multiple print sizes on the same page.
+The Minnesota Low-Vision Reading Test37 would have been appropriate, but, we wanted a block of text of a single size on a
+separate page, so a new test was developed containing a limited
+range of print sizes: 8, 4, 2, and 1 M. Words were printed on charts
+arranged into 20-word paragraphs of five lines with four words per
+line. All words were chosen randomly, without replacement, from
+a list of 510 common English words. Each line had one each of 3,
+4, 5, and 6 letter words. There was no capitalization or punctuation
+and words were printed in Times Roman font, black-on-white, on
+8.5 ⫻ 11-inch paper, with landscape orientation. The different
+letter sizes were arranged into a set, beginning with 8 M and ending
+with 1 M. A total of 10 sets were created.
+Reading rate was measured using two randomly chosen sets of
+charts. Testing commenced with the largest print size (8 M) in a
+given set. Immediately, following the completion of the first set,
+the second set was presented to the subject, for a total of two sets.
+If a subject could not read a given print size, the smaller sizes were
+not attempted. Words correct were scored on a separate sheet. If
+the subject read a word incorrectly, and immediately corrected
+themselves, he or she was given credit for that word. The subject
+
+was timed for each print size and reading rate was later calculated in
+words per minute.
+
+Finding a Telephone Number
+The subject was required to find and read aloud a telephone
+number. Previous studies have required the subject to then dial
+the number,11,15,16,38,39 but it was felt that finding the number
+was the most visually demanding task and the test was limited to
+this aspect of the task.7,17 This also avoided the selection of a
+specific type of telephone with which the subject may or may
+not have been familiar.
+Two pages from a local telephone directory were reproduced
+(Ameritech, Columbus area codes 614 & 740, 1996 –1997 White
+Pages, pages 710 and 926). The print size of the names and numbers was 10 point. For each trial, the subject was required to find
+and read a telephone number for a name given by the examiner.
+The name was printed in 80-point Times Roman, read to the
+subject, and placed in front of the subject for their reference. Four
+names were available and for each trial the subject had to find two
+names. The subject was timed for each name. The number read
+was transcribed and later checked for accuracy.
+
+Medicine Bottle Label Identification
+The subject was required to identify information on a medicine
+bottle label. This task has been adopted by other authors7,17,29 but
+excluded by others.16 Dummy prescription medicine bottles were
+prepared to contain the following information: a generic patient
+name (Amy or John Smith), a topical agent (hydrocortisone 1%
+cream), and a dosing schedule (apply to affected area daily, twice,
+three times, or four times daily). Other information, including a
+doctor’s name, was also printed to simulate a typical label. These
+bottles were assembled by The Ohio State University College of
+Pharmacy who informed us that there is no standard way of printing labels. The chosen labels were matte finished white with laser
+printed instructions in 12-point serif print. Eight different labels
+were created, and the subject was tested for four randomly chosen
+bottles. The subject was asked to read aloud the patient’s name and
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 4]
+958 Functional Test Battery for Low Vision—Dougherty et al.
+
+how often the drug is supposed to be used or taken. The subject
+was timed for each bottle. The information they read was transcribed and later checked for accuracy.
+
+Reading Utility Bills
+The subject was required to identify information on a utility bill.
+This task is similar to that used by Turco et al.13 and Haymes et al.7
+Utility bills sent by local companies (American Electric Power,
+Columbia Gas, Ameritech, and AT&T Calling Card) were reproduced. These bills were modified to mask the customer name and
+address. Four different bills were created, and the subject was tested
+for two chosen at random. The subject was asked to read aloud the
+amount due and due date. The print size of the relevant information was 16 point. The subject was timed for each bill. The date
+and amount that they read was transcribed and later checked for
+accuracy.
+
+Cooking Instructions
+The subject was required to identify information on a cooking
+time on a packet of food. Similar tasks have been developed by
+other researchers.7,16,17,38 Ferrucci et al.38 required that the subject
+also place the food in a microwave oven, but it was felt that this
+would be confounded by the level of familiarity with the microwave used. Six packets (Rice-A-Roni, Near East Rice Pilaf, Duncan
+Hines Angel Food Cake, Jiffy Biscuit Mix, Food Club Noodles
+and Sauce, and Food Club Onion Soup Mix) were chosen from a
+local supermarket and the subject was tested for two chosen at
+random. The print size of the relevant information was between 8
+and 16 point. The subject was presented a packet and asked to read
+aloud the conventional (or stovetop) cooking time, as opposed to
+the microwave cooking time or other recipes that may have been
+present on the box. The subject was timed for each packet. The
+cooking time that they read was transcribed and later checked for
+accuracy.
+
+Coin Sorting
+The subject was required to select coins to equal a given amount. A number of studies have utilized a money sorting
+task.7,8,13,16,17,38,39 Some have tested with only paper currency,8,13
+while others have used only coins7,17,39 and one group used both.16
+It was decided not to use paper currency because of the confounding issue of new and old bills.
+Five coins of each denomination (penny, nickel, dime, and
+quarter) were randomly placed in front of the subject. The subject
+was then instructed to separate or pick out the coins that equaled a
+given amount. Ten amounts were used (18, 33, 38, 47, 57, 62, 71,
+81, 86, and 90 cents) all of which required a minimum total of five
+coins of three different denominations. Two amounts were chosen
+at random. The subject was timed for each amount. The amount
+that they selected was transcribed and later checked for accuracy.
+
+Playing Card Recognition
+The subject was required to identify a playing card in a task
+similar to that used by Ross et al.16 A standard-sized deck was used
+
+with the Jokers, Jacks, Queens, Kings, and Aces removed. After
+thoroughly shuffling the deck, the subject was sequentially presented with five cards and asked to identify the number and suit.
+The subject was not allowed to pick up the card but could shift
+his/her position. This test was not timed and was scored only for
+accuracy.
+
+Face Recognition
+The subject was required to identify facial expressions. Face
+recognition has been assessed in a number of studies.7,10,12,14,40 – 42
+Photos were selected from the “Pictures of Facial Affect” CDROM (Consulting Psychologists Press, Palo Alto, CA) used in
+previous studies12,14,41,42 and printed as life-size on 8.5 ⫻ 11-inch
+white paper. Eight sets of four faces were printed. Each set contained two male and two female faces in four different facial expressions: happy, sad, angry (or disgusted), and frightened (or
+surprised).
+Subjects were presented with a randomly chosen set of four faces
+at 1 m followed by a different set at 3 m. These test distances were
+adopted based on our experience12 that normally sighted subjects
+could perform this task at both distances. Only expression recognition was tested to simplify the test and to avoid the need for a
+training session or the use of a key with the names of the characters
+to be tested.
+The subject was provided with a key on which were printed the
+following words in 80-point Times Roman font: happy, sad, disgusted, angry, confused, frightened, and surprised. This sheet was
+intended to provide suggestions for the subject should they have
+difficulty describing the expression. In responding, synonyms were
+acceptable, e.g., smiling for happy, dejected for sad. Based on our
+prior experience, the disgusted and angry were considered equivalent as were surprised and frightened.12 This test was not timed and
+was scored only on accuracy.
+
+Subjects and Testing Protocol
+To evaluate the battery of tests, 14 normally sighted subjects and
+24 low vision subjects participated in a single session. The protocol
+was approved by The Ohio State University Biomedical Sciences
+Institutional Review Board and informed consent was obtained
+from all participants before testing. Inclusion criteria for the low
+vision subjects were as follows: at least 60 years of age with previous
+adult reading ability; age-related central vision loss with best corrected visual acuity between 20/40 and 20/400, and the ability to
+use at least one upper extremity. Normally sighted subjects had to
+be at least 60 years of age, have best-corrected visual acuity better
+than 20/40, adult reading ability, and the ability to use at least one
+upper extremity. All normally sighted subjects were recruited by
+word-of-mouth. One low vision subject was a word-of-mouth referral, and the rest were recruited by phone from the Low Vision
+Service of The Ohio State University College of Optometry. All
+subjects were reimbursed $20 for their participation. If a subject
+was unable to travel but willing to participate, all the testing equipment was taken to the subject’s home, with their permission, and
+he or she was tested there.
+Subjects were first assessed using the following tests: visual acuity, contrast sensitivity, and the NEI-VFQ-25. The subject was
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 5]
+Functional Test Battery for Low Vision—Dougherty et al.
+
+then assessed using the battery of functional tests. After a 5- to
+10-min break, the battery of functional tests was repeated with
+different versions of the test material.
+High-contrast visual acuity was measured monocularly and binocularly, with habitual correction, using Bailey-Lovie charts at a
+distance of 4 m.43 When necessary the test distance was halved.
+Subjects were required to attempt all five letters before continuing
+to the next line. Visual acuity was scored on a letter by letter basis,
+and converted to logMAR.44 Only binocular visual acuity was used
+in analyses. Contrast sensitivity was measured binocularly using
+the Pelli-Robson Contrast Sensitivity chart45 at 1 m utilizing habitual correction. Contrast Sensitivity was scored on a letter by
+letter basis in log CS.46 The NEI-VFQ-251 was administered to all
+subjects verbally. The standard 25 questions were supplemented
+with items A3 and A4 from the Appendix as these items corresponded to some of the functional tasks (Table 2).
+
+Functional Test Administration
+The subject was seated comfortably at a large table and a gray
+paperboard surface was used. Full room illumination was used and
+a 50-watt halogen adjustable table lamp was available if the subject
+used a lamp on a regular basis or the lighting conditions in the
+testing room warranted increased illumination. This lamp provided an average illumination of 2919 lux on the gray paperboard
+work surface which had an average luminance of 68.8 cd/m2.
+Subjects performed each task using their habitual spectacle correction. Low vision subjects were also encouraged to use any low
+vision device(s) that they might find suitable for a given task. All
+tests except face recognition and playing card recognition were
+timed using a digital stopwatch. The examiner could not coach the
+subject or give any indication of his/her accuracy for each trial,
+however, the subject was given periodic encouragement. A written
+protocol which included specific instructions for the subject and
+instructions on timing, recording, and scoring of tests was developed to promote consistency. Neither testing distance nor subject
+posture was fixed for any of the testing.
+
+Data Analysis
+A Wilcoxon rank sum test was performed on the time taken for
+the first administration of each timed task to determine if there was
+a difference in overall performance between the low vision and
+normally sighted groups. Ordinal data such as the face recognition and playing card recognition tasks were analyzed using Wilcoxon signed-rank tests to assess differences among trials, and
+Wilcoxon rank sum tests to assess differences between groups.
+Signed-rank testing was completed for the Medicine Label task to
+determine whether there was a learning effect for the task. Spearman correlation coefficients were determined for each task and
+visual acuity and contrast sensitivity. All the above tests were performed using SAS (Statistical Analysis System) or STATA version
+10.0 (Stata Corp). Repeatability for each of the timed tasks was
+assessed by determining the 95% limits of agreement, a method
+more appropriate for clinical tests than the correlation coefficient.47 The difference between the time taken (or reading rate) for
+the first and second administration was calculated for each subject.
+The 95% limits of agreement was then calculated as the mean ⫾
+
+959
+
+1.96 ⫻ SD. The breadth of the limits of agreement indicates the
+repeatability of the test; the narrower these limits of agreement, the
+more repeatable the test.
+
+Responsiveness of Functional Tests to Low
+Vision Rehabilitation
+The responsiveness of the test battery was evaluated subsequently in a pilot randomized clinical trial of the effects of low
+vision rehabilitation conducted at the University of Alabama Birmingham, The University of Waterloo, University of California at
+Berkeley, and The Ohio State University. Twenty-six patients with
+age-related vision loss and best-corrected visual acuity worse than
+20/40 were recruited. At an initial visit, informed consent was
+obtained and baseline data collected including performance on the
+functional tests. At the conclusion of this visit, the subject was
+randomized to either an immediate or a delayed intervention. Patients randomized to immediate intervention were scheduled for
+an intervention visit, to occur within 2 weeks. The intervention
+consisted of a single office visit of up to 2 h where optical aids were
+prescribed and training given. Three months after randomization,
+all patients attended for an outcome visit. Consequently, one
+group had received the intervention 3 months prior, and one had
+received no intervention. After outcome measures were performed,
+those in the delayed intervention group received the intervention.
+
+RESULTS
+The characteristics of the participants are summarized in Table
+3. The mean age (⫾SD) of the normally sighted subjects was
+73.2 ⫾ 8.6 years and the mean age of the low vision subjects was
+TABLE 3.
+Demographics of participating subjects
+Low vision
+
+Normal vision
+
+10 (42)
+14 (58)
+
+5 (36)
+9 (64)
+
+Age
+60–70
+70–80
+80 and over
+
+3
+7
+13
+
+2
+7
+5
+
+Visual acuity
+20/60 or better
+⬍20/60–20/100
+⬍20/100–20/200
+⬍20/200
+
+3 (12)
+6 (25)
+8 (33)
+7 (30)
+
+14 (100)
+0
+0
+0
+
+Contrast sensitivity
+1.50 or better
+⬍1.50–1.20
+⬍1.20–0.90
+⬍0.90
+
+4 (17)
+4 (17)
+11 (46)
+5 (21)
+
+12 (86)
+2 (14)
+0
+0
+
+Low vision aid use
+Used low vision aid
+No aid used
+
+22 (92)
+2 (8)
+
+0
+14 (100)
+
+Gender
+Male
+Female
+
+The numbers in parenthesis are percentages.
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 6]
+960
+
+Functional Test Battery for Low Vision—Dougherty et al.
+
+TABLE 4.
+Proportion of trials for each task completed by each
+subject group
+Low vision
+group (%)
+
+Task
+Reading 8 M print
+Reading 4 M print
+Reading 2 M print
+Reading 1 M print
+Telephone book
+Medicine bottle label
+Utility bill
+Cooking instructions
+Coin sorting
+Playing card
+Face recognition at 1 m
+Face recognition at 3 m
+
+96
+96
+87
+79
+53
+71
+79
+61
+87
+95
+70
+35
+
+Normally
+sighted (%)
+100
+100
+100
+100
+96
+98
+99
+91
+91
+100
+84
+90
+
+TABLE 5.
+Median reading rate (interquartile range) for each print size
+and each subject group (in words per minute)
+Low vision
+
+Normally sighted
+
+Print size
+
+N
+
+Reading
+rate
+
+N
+
+Reading
+rate
+
+95% LoA
+
+8M
+4M
+2M
+1M
+
+23
+23
+21
+19
+
+46.6 (70.0)
+40.9 (61.1)
+41.4 (47.2)
+30.9 (37.1)
+
+14
+14
+14
+14
+
+124.8 (29.5)
+128.4 (43.8)
+127.7 (32.5)
+117.6 (29.4)
+
+⫺22 to ⫹26
+⫺32 to ⫹30
+⫺25 to ⫹28
+⫺26 to ⫹27
+
+Also included are the numbers of subjects able complete the
+task more than one-half the time. The final column represents the
+repeatability of the reading rate in terms of the 95% limits of
+agreement (LoA).
+
+76.8 ⫾ 7.5 years. One low vision subject was found to be 57 years
+old after testing had been completed. Women accounted for
+71.4% of the normally sighted subjects and 62.5% of the low
+vision subjects. The median logMAR visual acuity was ⫹0.13
+(20/27; range ⫽ 20/15 to 20/35) for the normally sighted subjects
+and ⫹0.89 (20/155; range ⫽ 20/50 to 20/500) for the low vision
+subjects.
+The proportion of trials performed correctly by each group for
+each task is shown in Table 4. Normally sighted subjects could
+perform all tasks, but made occasional errors. The instructions
+were easily understood and the tasks performed with little difficulty. The proportion of trials performed correctly by the low
+vision subjects ranged from 35% for facial expression recognition
+at 3 m, to 95% for the playing card identification.
+Medians, interquartile ranges, and 95% limits of agreement for
+the reading task are reported in Table 5. Medians, interquartile
+ranges, and 95% limits of agreement for the other timed tasks are
+reported in Table 6. In general, low vision patients took around
+three times longer to complete all tasks and demonstrated more
+variability in time taken. Wilcoxon rank sum testing confirmed
+significant differences in time taken between the low vision and
+normally sighted groups for all timed tasks (p ⬍ 0.007) and for
+
+TABLE 6.
+Median time (interquartile range) to complete each task (in
+s) for those in each subject group (N) able to consistently
+complete the task
+Normally
+sighted
+
+Low vision
+Task
+
+N
+
+Time
+
+N
+
+Time
+
+95% LoA (s)
+
+Telephone
+number
+11 60.0 (71.7) 13 12.3 (8.0) ⫺96.9 to ⫹78.2
+Medicine bottle
+label
+18 11.2 (10.9) 14 5.0 (2.9) ⫺22.3 to ⫹9.8
+Utility bill
+19 30.0 (43.2) 14 10.4 (10.3) ⫺68.0 to ⫹61.4
+Cooking
+instructions 14 40.6 (38.2) 14 14.3 (11.9) ⫺54.8 to ⫹47.3
+Coin sorting
+24 8.9 (13.5) 14 4.5 (2.0) ⫺15.8 to ⫹16.6
+The final column represents the repeatability of the test for each
+task in terms of the 95% limits of agreement (LoA).
+
+TABLE 7.
+Proportion of trials for each task completed by a small
+sample of low vision patients participating in a randomized
+clinical trial of low vision rehabilitation
+Treatment group
+(%)
+
+Control group (%)
+
+Task
+
+Pre Post Change Pre Post Change
+
+Reading 1 M print
+Telephone book
+Medicine bottle label
+Utility bill
+Cooking instructions
+Coin sorting
+Face recognition at 1 m
+Face recognition at 3 m
+
+73
+50
+64
+72
+55
+81
+68
+41
+
+91
+64
+95
+85
+79
+91
+75
+41
+
+⫹18
+⫹14
+⫹31
+⫹13
+⫹22
+⫹10
+⫹7
+0
+
+42
+38
+58
+54
+29
+75
+85
+58
+
+58
+46
+54
+58
+33
+73
+83
+52
+
+⫹16
+⫹8
+⫺4
+⫹4
+⫹4
+⫺2
+⫺2
+⫺6
+
+Treatment patients (N ⫽ 11), control data (N ⫽ 12).
+
+reading rates at all four print sizes (p ⬍ 0.001). The asymmetry of
+the 95% limits of agreement interval for the medicine bottle task
+indicates that subjects were significantly quicker on the second trial
+and this was confirmed by a Wilcoxon signed-rank test.
+Performance on some of the functional tasks was associated with
+clinical measures of vision in the low vision subjects. Visual acuity,
+but not contrast sensitivity, was significantly poorer in those subjects unable to perform the telephone number, medicine label,
+utility bill, and cooking instruction tasks (p ⬍ 0.05, Wilcoxon
+rank sum test). Both visual acuity and contrast sensitivity were
+significantly poorer in those subjects unable to identify more than
+one-half of the facial expressions at 3 m (p ⬍ 0.05, Wilcoxon rank
+sum test).
+
+Responsiveness of Functional Tests to Low
+Vision Rehabilitation
+Twenty-three subjects completed the pilot randomized clinical
+trial: 11 in the intervention group and 12 in the control group. The
+results for the functional tests are shown in Table 7. These are pilot
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 7]
+Functional Test Battery for Low Vision—Dougherty et al.
+
+data and, thus, have not been subjected to statistical analysis, nonetheless, some trends are worthy of note. In the treatment group,
+performance improved most dramatically (from 64 to 95%) for the
+medicine bottle task. In contrast, face recognition performance
+changed little, as devices were not prescribed for distance tasks.
+Most other tasks showed small but meaningful improvement, although only 64% of subjects could successfully locate telephone
+numbers. Performance in the control group changed little following the 3-month delay period, suggesting that this outcome measure may be repeatable in terms of completion rate. Two control
+subjects showed increased ability to read 1 M print at the outcome
+visit, most likely due to an updated spectacle prescription.
+
+DISCUSSION
+The battery of tests described here are similar to those developed
+independently by other authors.7,17 All functional tasks in our
+battery could be performed by normally sighted subjects, although
+occasional errors were made. Performance varied across tasks in the
+low vision group. The most difficult task was face recognition at
+3 m, but performance approached that of normally sighted subjects
+for other tasks and was not significantly different for playing card
+recognition. Our low vision subjects, like those of Haymes et al.,
+found the telephone number task among the most challenging.
+The cooking instructions task was challenging for our low vision
+group and a similar task was the most difficult for Owsley et al.’s
+subjects.17 The battery of tests can be administered by individuals
+with a range of experience. All data were collected by an optometrist or a second-year optometry student. Approaches that require
+grading of performance may require an occupational therapist or
+low vision specialist.7,26,39
+Even when the low vision subjects were able to perform the task,
+they did so significantly more slowly than the normally sighted
+group, taking around three times as long. The time for completion
+was significantly different between the two groups for all timed
+tasks. The time taken to perform many of the tasks was very variable and probably a result of the visual search requirements of the
+task. Sometimes, the subject would begin on the correct side of a
+food packet or at a location on the telephone directory page close to
+the required name. On other occasions, the subject had to rotate a
+box or scan a large part of the page to find the required information. This resulted in poor repeatability for time taken as indicated
+by the rather broad limits of agreement. In contrast, the reading
+task which required no visual search, gave acceptable limits of
+agreement. The limits of agreement were calculated using data
+from both groups of subjects, resulting in a somewhat skewed
+distribution and limits of agreement that were sometimes larger
+than the mean. Thus, the absolute values should be treated with
+some caution, but the poor repeatability is evident.
+Owsley et al.17 have developed two separate groups of tests; a
+17-item version intended for use in studies of visual impairment
+and a shorter five-item version for the assessment of cognitive
+abilities.18 Both batteries were evaluated thoroughly, and Owsley
+et al. advocate the use of time to complete the task as the outcome
+measure. Haymes et al.7 developed an ordinal scale that incorporates both task completion and accuracy. We found time to be
+highly variable between test sessions but used subjects with a
+broader range of visual ability than Owsley et al.,17 who do not
+
+961
+
+report the repeatability of their timed tests. Thus, we are hesitant to
+use time as an indicator of an individual’s worsening due to disease
+progression or improvement due to visual rehabilitation. Nonetheless, there is little overlap between the time taken by the two groups
+(Table 6), suggesting that these tests are able to distinguish between groups of subjects with different levels of visual ability.
+Some of the tasks are ready to be implemented without modification, including the telephone book, utility bill, and coin sorting.
+The complete battery can be administered to a normally sighted
+patient in ⬍15 min with low vision patients requiring up to 30
+min. The medicine bottle label task was the only task that showed
+a practice effect with the low vision subjects’ time improving on the
+second administration. The data suggest that this effect could be
+minimized by allowing a single untimed trial to familiarize the
+subject with the task. Accuracy did not improve significantly
+(⬍6%) on the second administration, so allowing the subject to
+practice would not be necessary if time were not an outcome variable. Although the data are not reported here, one of the food
+packets had cooking instructions that were read quicker, but not
+more accurately, than the others. This suggests that further standardization may be warranted if time were to be used as an outcome variable. Owsley et al.17 used three different cans of food and
+the mean time varied by a factor of two. The playing card task
+failed to discriminate between normally sighted and low vision
+subjects, so it was eliminated from the battery of tests used in the
+pilot randomized clinical trial. Low vision subjects also performed
+well on the coin sorting task but considerably slower than the
+normally sighted subjects. Performance was correlated with visual
+acuity so the task should probably be retained, as it is the easiest to
+standardize. It also has a cognitive component that might make it
+useful in some circumstances. Given that the Telephone Book,
+Medicine Bottle Label, and Cooking instructions tasks yield the
+poorest performance among low vision patients and that performance appears to improve substantially in response to low vision
+rehabilitation, these three tasks might be the most appropriate to
+incorporate into future studies.
+There are limitations to our study. Compared with similar studies, only a modest number of subjects were tested; 38 in the main
+study and 23 in the pilot randomized clinical trial. This may limit
+the generalizability of the results. Cognitive factors may have contributed to task performance and variability and in the repeatability study we did not make any assessment of cognitive status.29 The
+visual status of any given subject may have been confounded by
+this and other factors that impact task performance including dexterity. In the pilot randomized clinical trial, all patients had to
+achieve a minimum score of 21 on the mini-mental state examination to be eligible. Our analyses did not include multivariate models of task performance taking into account age, visual acuity, etc.,
+but unlike previous studies,17,18 it was not our goal to make a
+comprehensive evaluation of the factors associated with task performance. As stated above, we tested patients with their habitual
+low vision aids and this undoubtedly confounded the correlations
+with clinical tests. We did not measure inter-rater repeatability. It
+is possible that this battery of tests is likely to be less susceptible to
+inter-rater variability because, unlike other test batteries,7,16 there
+is no observer-graded component. Our observers needed only to
+record the time taken and whether or not a task was successfully
+completed. This cannot be confirmed, however, without further
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 8]
+962 Functional Test Battery for Low Vision—Dougherty et al.
+
+testing. Finally, we did not control for low vision aid use by our
+subjects. All low vision subjects had received a thorough examination in the Low Vision Service of The Ohio State University College of Optometry. Although we recorded whether or not the
+subject elected to use their habitual aid, we did not incorporate this
+into our data analysis.
+In summary, we have developed a battery of tests of functional
+vision performance intended for the evaluation of low vision rehabilitation in research or in individual patients. We have used the
+tests in a small, multicenter pilot study of low vision rehabilitation
+and found performance on some of the tests to improve in comparison to a control group. Further studies are needed to validate
+the instrument for use in large clinical trials.
+
+ACKNOWLEDGMENTS
+We thank Dawn DeCarlo, Robert Dister, Robert Kleinstein, and Susan Leat
+for contributing some of the data for the pilot randomized clinical trial.
+This work was supported by grants R21-EY11502 and T35-EY07151
+from the National Eye Institute, National Institutes of Health and the Ohio
+Lions Eye Research Foundation.
+Received May 28, 2008; accepted March 24, 2009.
+
+REFERENCES
+1. Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S, Hays RD.
+Development of the 25-item National Eye Institute Visual Function
+Questionnaire. Arch Ophthalmol 2001;119:1050–8.
+2. Massof RW, Rubin GS. Visual function assessment questionnaires.
+Surv Ophthalmol 2001;45:531–48.
+3. Massof RW, Fletcher DC. Evaluation of the NEI visual functioning
+questionnaire as an interval measure of visual ability in low vision.
+Vision Res 2001;41:397–413.
+4. Stelmack JA, Stelmack TR, Massof RW. Measuring low-vision rehabilitation outcomes with the NEI VFQ-25. Invest Ophthalmol Vis
+Sci 2002;43:2859–68.
+5. Stelmack JA, Szlyk JP, Stelmack TR, Demers-Turco P, Williams RT,
+Moran D, Massof RW. Psychometric properties of the Veterans Affairs Low-Vision Visual Functioning Questionnaire. Invest Ophthalmol Vis Sci 2004;45:3919–28.
+6. Pesudovs K, Garamendi E, Keeves JP, Elliott DB. The Activities of
+Daily Vision Scale for cataract surgery outcomes: re-evaluating validity with Rasch analysis. Invest Ophthalmol Vis Sci 2003;44:2892–9.
+7. Haymes SA, Johnston AW, Heyes AD. The development of the Melbourne low-vision ADL index: a measure of vision disability. Invest
+Ophthalmol Vis Sci 2001;42:1215–25.
+8. Ebert EM, Fine AM, Markowitz J, Maguire MG, Starr JS, Fine SL.
+Functional vision in patients with neovascular maculopathy and poor
+visual acuity. Arch Ophthalmol 1986;104:1009–12.
+9. Applegate WB, Miller ST, Elam JT, Freeman JM, Wood TO, Gettlefinger TC. Impact of cataract surgery with lens implantation on
+vision and physical function in elderly patients. JAMA 1987;257:
+1064–6.
+10. Alexander MF, Maguire MG, Lietman TM, Snyder JR, Elman MJ,
+Fine SL. Assessment of visual function in patients with age-related
+macular degeneration and low visual acuity. Arch Ophthalmol 1988;
+106:1543–7.
+11. Ross CK, Stelmack JA, Stelmack TR, Fraim M. Preliminary examination of the reliability and relation to clinical state of a measure of
+low vision patient functional status. Optom Vis Sci 1991;68:918–23.
+12. Bullimore MA, Bailey IL, Wacker RT. Face recognition in age-related
+maculopathy. Invest Ophthalmol Vis Sci 1991;32:2020–9.
+
+13. Turco PD, Connolly J, McCabe P, Glynn RJ. Assessment of functional vision performance: a new test for low vision patients. Ophthalmic Epidemiol 1994;1:15–25.
+14. Elliott DB, Patla A, Bullimore MA. Improvements in clinical and
+functional vision and perceived visual disability after first and second
+eye cataract surgery. Br J Ophthalmol 1997;81:889–95.
+15. West SK, Rubin GS, Munoz B, Abraham D, Fried LP. Assessing functional status: correlation between performance on tasks conducted in a
+clinic setting and performance on the same task conducted at home. The
+Salisbury Eye Evaluation Project Team. J Gerontol A Biol Sci Med Sci
+1997;52:M209–17.
+16. Ross CK, Stelmack JA, Stelmack TR, Guihan M, Fraim M. Development and sensitivity to visual impairment of the Low Vision Functional Status Evaluation (LVFSE). Optom Vis Sci 1999;76:212–20.
+17. Owsley C, McGwin G, Jr, Sloane ME, Stalvey BT, Wells J. Timed
+instrumental activities of daily living tasks: relationship to visual function in older adults. Optom Vis Sci 2001;78:350–9.
+18. Owsley C, Sloane M, McGwin G, Jr, Ball K. Timed instrumental
+activities of daily living tasks: relationship to cognitive function and
+everyday performance assessments in older adults. Gerontology 2002;
+48:254–65.
+19. Mangione CM, Phillips RS, Seddon JM, Lawrence MG, Cook EF,
+Dailey R, Goldman L. Development of the ‘Activities of Daily Vision
+Scale’. A measure of visual functional status. Med Care 1992;30:
+1111–26.
+20. Carabellese C, Appollonio I, Rozzini R, Bianchetti A, Frisoni GB,
+Frattola L, Trabucchi M. Sensory impairment and quality of life in a
+community elderly population. J Am Geriatr Soc 1993;41:401–7.
+21. Scott IU, Schein OD, West S, Bandeen-Roche K, Enger C, Folstein
+MF. Functional status and quality of life measurement among ophthalmic patients. Arch Ophthalmol 1994;112:329–35.
+22. Steinberg EP, Tielsch JM, Schein OD, Javitt JC, Sharkey P, Cassard
+SD, Legro MW, Diener-West M, Bass EB, Damiano AM, Steinwachs DM, Sommer A. The VF-14. An index of functional impairment in patients with cataract. Arch Ophthalmol 1994;112:630–8.
+23. Damiano AM, Steinberg EP, Cassard SD, Bass EB, Diener-West M,
+Legro MW, Tielsch J, Schein OD, Javitt J, Kolb M. Comparison of
+generic versus disease-specific measures of functional impairment in
+patients with cataract. Med Care 1995;33:AS120–30.
+24. Friedman SM, Munoz B, Rubin GS, West SK, Bandeen-Roche K,
+Fried LP. Characteristics of discrepancies between self-reported visual
+function and measured reading speed. Salisbury Eye Evaluation
+Project Team. Invest Ophthalmol Vis Sci 1999;40:858–64.
+25. Tejeria L, Harper RA, Artes PH, Dickinson CM. Face recognition in
+age related macular degeneration: perceived disability, measured disability, and performance with a bioptic device. Br J Ophthalmol
+2002;86:1019–26.
+26. Szlyk JP, Seiple W, Fishman GA, Alexander KR, Grover S, Mahler
+CL. Perceived and actual performance of daily tasks: relationship to
+visual function tests in individuals with retinitis pigmentosa. Ophthalmology 2001;108:65–75.
+27. Rubenstein LZ, Schairer C, Wieland GD, Kane R. Systematic biases
+in functional status assessment of elderly adults: effects of different
+data sources. J Gerontol 1984;39:686–91.
+28. Kiyak HA, Teri L, Borson S. Physical and functional health assessment in normal aging and in Alzheimer’s disease: self-reports vs family reports. Gerontologist 1994;34:324–30.
+29. Windham BG, Griswold ME, Fried LP, Rubin GS, Xue QL, Carlson
+MC. Impaired vision and the ability to take medications. J Am Geriatr Soc 2005;53:1179–90.
+30. West SK, Rubin GS, Broman AT, Munoz B, Bandeen-Roche K,
+Turano K. How does visual impairment affect performance on tasks
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+
+
+[page 9]
+Functional Test Battery for Low Vision—Dougherty et al.
+of everyday life? The SEE Project. Salisbury Eye Evaluation. Arch
+Ophthalmol 2002;120:774–80.
+31. Fried LP, Young Y, Rubin G, Bandeen-Roche K. Self-reported preclinical disability identifies older women with early declines in performance and early disease. J Clin Epidemiol 2001;54:889–901.
+32. Schulz EM, Lambert RW, Becker SW, Wright BD, Bezruczko N. An
+assessment of the needs of rehabilitated veterans. J Vis Impair Blind
+1985;79:301–5.
+33. Mangione CM, Lee PP, Pitts J, Gutierrez P, Berry S, Hays RD.
+Psychometric properties of the National Eye Institute Visual Function Questionnaire (NEI-VFQ). NEI-VFQ Field Test Investigators.
+Arch Ophthalmol 1998;116:1496–504.
+34. Stelmack J, Stelmack TR, Fraim M, Warrington J. Clinical use of the
+Pepper Visual Skills for Reading Test in low vision rehabilitation.
+Am J Optom Physiol Opt 1987;64:829–31.
+35. Ahn SJ, Legge GE, Luebker A. Printed cards for measuring low-vision
+reading speed. Vision Res 1995;35:1939–44.
+36. Bailey IL, Lovie JE. The design and use of a new near-vision chart.
+Am J Optom Physiol Opt 1980;57:378–87.
+37. Legge GE, Ross JA, Luebker A, LaMay JM. Psychophysics of reading.
+VIII. The Minnesota Low-Vision Reading Test. Optom Vis Sci
+1989;66:843–53.
+38. Ferrucci L, Guralnik J, Bandeen-Roche KJ, Lafferty ME, Pahor M,
+Fried LP. Physical performance measures. In: Fried LP, Kasper JD,
+Guralnik JM, Simonsick EM, eds. The Woman’s Health and Aging
+Study: Health and Social Characteristics of Older Women with Disability. chapter 4. Bethesda, MD: National Institutes of Health;
+1995. Available at: http://www.grc.nia.nih.gov/branches/ledb/
+whasbook/chap4/chap4.htm. Accessed May 20, 2009.
+
+963
+
+39. Altangerel U, Spaeth GL, Steinmann WC. Assessment of function
+related to vision (AFREV). Ophthalmic Epidemiol 2006;13:67–80.
+40. Peli E, Goldstein RB, Young GM, Trempe CL, Buzney SM. Image
+enhancement for the visually impaired. Simulations and experimental
+results. Invest Ophthalmol Vis Sci 1991;32:2337–50.
+41. Elliott DB, Bullimore MA, Patla AE, Whitaker D. Effect of a cataract
+simulation on clinical and real world vision. Br J Ophthalmol 1996;
+80:799–804.
+42. Lott LA, Haegerstrom-Portnoy G, Schneck ME, Brabyn JA. Face
+recognition in the elderly. Optom Vis Sci 2005;82:874–81.
+43. Bailey IL, Lovie JE. New design principles for visual acuity letter
+charts. Am J Optom Physiol Opt 1976;53:740–5.
+44. Bailey IL, Bullimore MA, Raasch TW, Taylor HR. Clinical grading
+and the effects of scaling. Invest Ophthalmol Vis Sci 1991;32:
+422–32.
+45. Pelli DG, Robson JG, Wilkins AJ. The design of a new letter chart for
+measuring contrast sensitivity. Clin Vis Sci 1988;2:187–99.
+46. Elliott DB, Bullimore MA, Bailey IL. Improving the reliability of the
+Pelli-Robson contrast sensitivity test. Clin Vis Sci 1991;6:471–5.
+47. Bland JM, Altman DG. Statistical methods for assessing agreement
+between two methods of clinical measurement. Lancet 1986;1:
+307–10.
+
+Mark A. Bullimore
+The Ohio State University, College of Optometry
+338 West 10th Avenue
+Columbus, Ohio 43210
+e-mail: bullimore.1@osu.edu
+
+Optometry and Vision Science, Vol. 86, No. 8, August 2009
+

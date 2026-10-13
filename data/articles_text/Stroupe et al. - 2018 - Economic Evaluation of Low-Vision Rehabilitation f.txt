@@ -1,0 +1,1541 @@
+[page 1]
+Research
+
+JAMA Ophthalmology | Original Investigation
+
+Economic Evaluation of Low-Vision Rehabilitation
+for Veterans With Macular Diseases in
+the US Department of Veterans Affairs
+Kevin T. Stroupe, PhD; Joan A. Stelmack, OD, MPH; X. Charlene Tang, MD, PhD, MPH; Yongliang Wei, MS;
+Scott Sayers, PhD; Domenic J. Reda, PhD; Ellen Kwon, OD; Robert W. Massof, PhD; for the LOVIT II Study Group
+Invited Commentary
+IMPORTANCE Examining costs and consequences of different low-vision (LV) programs
+provides important information about resources needed to expand treatment options
+efficiently.
+OBJECTIVE To examine the costs and consequences of LV rehabilitation or basic LV services.
+DESIGN, SETTING, AND PARTICIPANTS The US Department of Veterans Affairs (VA) Low Vision
+Intervention Trial (LOVIT) II was conducted from September 27, 2010, to July 31, 2014, at 9 VA
+facilities and included 323 veterans with macular diseases and a best-corrected distance
+visual acuity of 20/50 to 20/200. Veterans were randomized to receive basic LV services that
+provided LV devices without therapy, or LV rehabilitation that added a therapist to LV
+services who provided instruction and homework on using LV devices, eccentric viewing, and
+environmental modification. We compared costs and consequences between these groups.
+INTERVENTIONS Low-vision devices without therapy and LV devices with therapy.
+MAIN OUTCOMES AND MEASURES Costs of providing basic LV services or LV rehabilitation
+were assessed. We measured consequences as changes in functional visual ability from
+baseline to follow-up 4 months after randomization using the VA Low Vision Visual
+Functioning Questionnaire. Visual ability was measured in dimensionless log odds units
+(logits).
+RESULTS Of 323 randomized patients, the mean (SD) age was 80 (10.5) years, 314 (97.2%)
+were men, and 292 (90.4%) were white. One hundred sixty (49.5%) received basic LV
+services and 163 (50.1%) received LV rehabilitation. The mean (SD) total direct health care
+costs per patient were similar between patients who were randomized to receive basic LV
+services ($1662 [$671]) or LV rehabilitation ($1788 [$864]) (basic LV services, $126 lower;
+95% CI, $299 lower to $35 higher; P = .15). However, basic LV services required less time and
+had lower transportation costs. Patients receiving LV rehabilitation had greater
+improvements in overall visual ability, reading ability, visual information processing, and visual
+motor skill scores.
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT00958360.
+
+Author Affiliations: Author
+affiliations are listed at the end of this
+article.
+Group Information: The LOVIT II
+Study group members are listed at
+the end of this article.
+
+JAMA Ophthalmol. doi:10.1001/jamaophthalmol.2018.0797
+Published online April 12, 2018.
+
+Corresponding Author: Kevin T.
+Stroupe, PhD, Center of Innovation
+for Complex Chronic Healthcare,
+Edward Hines Jr Veterans Affairs
+Hospital, 5000 S Fifth Ave (151 H),
+Hines, IL 60141
+(kevin.stroupe@va.gov).
+
+(Reprinted) E1
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+
+[page 2]
+Research Original Investigation
+
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+C
+
+Key Points
+
+hronic visual impairments (low vision [LV] and blindness) are among the 10 most prevalent causes of disability in the United States,1 with an estimated 240 000
+new cases of visual impairment annually.2 Visual impairments often limit functional ability, hindering the performance of common tasks, such as reading, social interaction,
+and recreation.3 The estimated financial burden of visual problems in the United States was more than $139 billion annually
+in 2013.4 The leading causes of LV are diseases most prevalent in older patients, such as patients typically treated at US
+Department of Veterans Affairs (VA) health care facilities, including age-related macular degeneration, glaucoma, diabetic retinopathy, and optic neuropathies.5 More than 1 million US veterans age 45 years and older have visual
+impairments: 157 000 with legal blindness and 1 026 000 with
+LV not severe enough to be classified as legally blind.6
+Although no cures exist for most of the diseases causing
+age-related vision loss, rehabilitation programs have the potential to restore independence and improve quality of life for
+individuals with vision loss. The VA has established a comprehensive nationwide rehabilitation system called the “Continuum of Care for Visually Impaired Veterans,” designed to
+enhance inpatient services provided by VA blind rehabilitation centers and expand outpatient LV and blind rehabilitation services.6 Under this system, each of the VA’s regional networks has LV services, including a basic LV service available
+at all VA eye clinics, as well as intermediate and advanced LV
+services at selected facilities. While previous studies have
+found that VA rehabilitation programs have a very large positive association with improved functional ability, few studies
+have compared the costs and consequences of different services along this continuum of care, which are needed to guide
+policy makers and develop informed clinical practice
+guidelines.7
+The VA Low Vision Intervention Trial II (LOVIT II) study
+involved a multicenter, randomized clinical trial (RCT) at VA
+sites to compare LV rehabilitation with basic LV services. To
+our knowledge, LOVIT II was the first multicenter RCT comparing LV rehabilitation with basic LV services for patients with
+macular diseases and near normal or moderate levels of visual impairment.8,9 In this study, we examined the costs and
+consequences of LV rehabilitation or basic LV services.
+
+Methods
+
+Question What are the costs and consequences of low-vision
+rehabilitation (including therapy and homework to teaching
+low-vision device use, eccentric viewing, and environmental
+modification) compared with basic low-vision services (low-vision
+devices dispensed without therapy) for veterans with macular
+diseases and a visual acuity of 20/50 to 20/200?
+Findings In this randomized clinical trial, health care costs were
+similar between patients receiving low-vision rehabilitation and
+basic low-vision services. However, low-vision rehabilitation
+required more time and transportation but was more effective
+for some patients.
+Meaning These findings suggest that low-vision rehabilitation
+was more effective with similar health care costs; however,
+low-vision rehabilitation may involve a greater time commitment
+and cost to patients.
+
+tions about their use and maintenance. Because most LV clinics in the study did not stock LV devices, patients with basic
+LV services may have had a second trip to the VA for device
+dispensing. With LV rehabilitation, both an optometrist and
+LV therapist are involved. An LV therapist dispensed the LV devices and provided 2 or 3 (1.5- to 2.5-hour) therapy sessions
+to improve the use of remaining vision and use of LV devices.
+Contact time with the therapist depended on the devices prescribed and the patient’s progress learning the skills that were
+taught. Low-vision rehabilitation also included structured
+homework, allowing patients to practice the effective use of
+remaining vision and LV devices.
+LOVIT II assessed changes in visual reading ability (estimated from patients’ difficulty ratings of reading items on the
+VA Low Vision Visual Functioning Questionnaire [VA LV
+VFQ-48])10-12 between the LV rehabilitation and basic LV service arms from preintervention baseline to 4 months (2 months
+after completion of treatment). Additional measures included changes in overall visual ability, mobility, visual information processing, and visual motor skills.
+This study was conducted in compliance with the tenets
+of the Declaration of Helsinki for research in human participants. The protocol and written informed consents were approved by the VA Central Institutional Review Board. Study
+oversight was provided by an independent data monitoring
+committee and the VA Cooperative Studies Program Coordinating Center (Hines, Illinois).
+
+Setting and Patients
+The design of the LOVIT II study has been described elsewhere.8,9
+Briefly, 323 patients eligible for VA health care services with a primary eye diagnosis (better-seeing eye) of macular disease and
+a best-corrected distance visual acuity of 0.40 to 1.00 logMAR
+(6/15-6/60 or 20/50-20/200 Snellen), using the Early Treatment
+of Diabetic Retinopathy Chart were randomized to receive LV rehabilitation or basic LV services at 9 VA facilities. All participants
+received an optometric LV examination, and they were eligible
+to receive the same LV devices without charge.
+With basic LV services, an optometrist performs an LV examination and provides LV devices with minimal instrucE2
+
+Study Design
+We compared health care utilization, costs, and consequences between patients in the LOVIT II study who received
+either LV rehabilitation or basic LV services. We measured direct health care utilization and costs of LV rehabilitation and
+basic LV service from the health care clinician’s (ie, the VA’s)
+perspective. Costs were converted to 2017 US dollars using the
+Personal Consumption Expenditures health index, which is the
+Bureau of Economic Analysis’s price index for health care
+consumption.13 Additionally, we assessed resource utilization from the patients’ and informal caregivers’ perspectives.
+
+JAMA Ophthalmology Published online April 12, 2018 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+jamaophthalmology.com
+
+
+[page 3]
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+Informal caregivers were family members or friends of the patient. We measured consequences as changes in functional visual ability from baseline to 4 months after randomization
+using the VA LV VFQ-48.
+
+Utilization and Cost Assessment
+For basic LV services, direct health care use and costs were assessed for the initial optometry examination, a device dispensing visit if needed, and the devices. For LV rehabilitation, direct utilization and costs were assessed for the initial
+optometry examination, therapy sessions, and devices. Low vision devices were dispensed during therapy sessions for the
+LV rehabilitation group. We assessed personnel time from patient-level study forms or through staff interviews and applied relevant wage rates. The VA overhead costs were determined as a proportion of direct costs.14 The costs of the LV
+devices were based on acquisition costs.
+Indirect resource utilization and costs were assessed
+from the patient’s and informal caregiver’s perspectives.
+Indirect resource utilization consisted of time and transportation. We estimated the time that patients spent traveling
+to and receiving basic LV services or LV rehabilitation. For
+patients who received basic LV services, this consisted of
+the time traveling to and receiving the initial optometry
+examination and the time traveling to and receiving the LV
+devices. For patients who received LV rehabilitation, this
+consisted of the time traveling to and receiving the initial
+optometry examination, traveling to and receiving the LV
+therapy sessions, and the time performing the homework.
+We estimated the time traveling to health care facilities
+using web-based mapping software based on zone improvement plan codes of veterans and LV outpatient centers. Veterans kept logs of time spent on homework. Additionally, LV
+therapists recorded the time spent in each training session.
+Informal caregivers’ time included time spent with veterans
+traveling to and receiving LV services and time assisting
+with activities of daily living. Informal caregivers’ time
+spent assisting patients with activities of daily living during
+a typical week was collected during each study assessment.
+We also estimated distances from veterans’ homes to VA LV
+outpatient centers and calculated transportation costs using
+federal reimbursement rates.15
+
+Original Investigation Research
+
+Analysis
+The analysis was performed on an intent-to-treat basis in which
+patients were analyzed based on the group to which they were
+randomized regardless of whether they crossed over to the other
+treatment group or left the study early. Of the 163 patients assigned to receive LV rehabilitation, 161 (98.8%) received the LV
+rehabilitation as assigned, and of the 160 patients assigned to
+receive basic LV services, 154 (96.3%) received the services as
+assigned.20 We performed a cost-consequences analysis to compare costs and outcomes of the LV rehabilitation or basic LV services. We calculated 95% CIs around differences in mean utilization and costs between patients randomized to receive LV
+rehabilitation or basic LV services using bootstrapping
+procedures.21 Differences were statistically significant at the 5%
+level if the 95% CIs did not include 0. We compared consequences in terms of functional visual ability between patients
+in the LV rehabilitation or basic LV services groups. We measured
+consequences as changes in the VA LV VFQ-48 visual ability
+measures between baseline and follow up. Differences in mean
+VA LV VFQ-48 visual ability measures between rehabilitation
+and basic LV services were compared using t tests. Cohen d was
+used to calculate the magnitude of treatment effects as small
+(0.2), medium (0.5), or large (0.8).22 SAS software, version 9.4
+(SAS Institute), was used to perform all analyses.
+
+Sensitivity Analyses
+As sensitivity analyses, we examined both costs and consequences by preplanned stratification of a best-corrected distance visual acuity better-eye (BCDVA better-eye) of 20/50 to
+20/63 and worse than 20/63 to 20/200.20 Additionally, the LV
+devices were often not stocked, requiring a second dispensing visit. We estimated indirect resource utilization and transportation cost savings to patients and informal caregivers that
+could occur if the devices were stocked and patients could receive their LV devices during the day of the initial LV examination.
+
+Results
+The mean (SD) age of patients in both groups was approximately 80 (10.5) years, 314 (97.2%) were men, and 292 (90.4%)
+were white. The study sample is described elsewhere.20
+
+Functional Visual Ability Assessment
+Functional visual ability was assessed using the VA LV VFQ48, which was developed to measure outcomes of vision
+rehabilitation programs.10-12,16-18 The instrument contains 1
+primary question with 3 subquestions for each of the 48
+items. The items were chosen from 4 functional domains
+(reading ability, mobility, visual motor skills, and visual
+information processing) that depend heavily on vision and
+are affected positively by rehabilitation programs. The questionnaire was administered to patients by telephone before
+they participated in vision rehabilitation programs and at
+follow-up. Measures are estimated from a Rasch analysis and
+expressed in logits.19 We calculated the change in logits from
+baseline to follow up for the overall VA LV VFQ-48 scores
+and each of the 4 functional domains.
+jamaophthalmology.com
+
+Resource Use and Costs
+Although time for the initial optometry examination was similar for both groups (1.41 hours), patients with basic LV services often required a second device-dispensing visit (Table 1).
+Consequently, the average direct costs per patient to the VA
+for the LV optometry examination were $87 (95% CI, $76$97; P < .001) higher for the basic LV services group. Most patients in the LV rehabilitation group had 3 visits (2 for therapy
+[mean, 1.9] and 1 for the LV examination). Low-vision therapists averaged over 6.3 hours per patient with a mean (SD) cost
+of $276 ($145) per patient. The total costs of LV devices were
+$178 higher in the basic LV group (95% CI, $21-$327 higher;
+P = .02). However, the mean (SD) total direct costs per patient of basic LV services ($1662 [$671]) and LV rehabilitation
+(Reprinted) JAMA Ophthalmology Published online April 12, 2018
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+E3
+
+
+[page 4]
+Research Original Investigation
+
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+Table 1. Direct Health Care Utilization and Costs
+Mean (SD)
+Basic LV Services (n = 160)
+
+LV Rehabilitation (n = 163)
+
+Resource Use, h
+
+Cost, $b
+
+Resource Use, h
+
+Cost, $b
+
+Resource Use, h
+
+Optometry examination
+
+NA
+
+385 (55)
+
+NA
+
+298 (42)
+
+NA
+
+Optometrist’s time/cost
+
+3.45 (0.51)
+
+261 (39)
+
+2.60 (0.39)
+
+197 (29)
+
+0.85 (0.76 to 0.95)
+
+65 (57 to 72)
+
+Optometrist’s preparation
+and completion time
+
+1.17 (0.22)
+
+88 (17)
+
+1.17 (0.22)
+
+89 (17)
+
+−0.003 (−0.05 to 0.05)
+
+0 (−4 to 3)
+
+Examination
+
+1.41 (0.38)
+
+107 (29)
+
+1.41 (0.36)
+
+107 (28)
+
+0.0016
+(−0.076 to 0.081)
+
+0 (−7 to 6)
+
+Device dispensing with
+demonstration of use
+and maintenance
+
+0.86 (0.26)
+
+65 (20)
+
+NA
+
+NA
+
+NA
+
+Additional time/cost
+
+0.02 (0.11)
+
+1 (8)
+
+0.02 (0.13)
+
+2 (10)
+
+−0.0048
+(−0.033 to 0.021)
+
+0 (−2 to 2)
+
+Administrative and clerical support
+for optometry examination
+
+0.33 (0.02)
+
+10 (1)
+
+0.44 (0.06)
+
+13 (2)
+
+−0.12 (−0.13 to −0.10)
+
+−3 (−4 to −3)
+
+Overhead for optomety
+examination
+
+NA
+
+114 (16)
+
+NA
+
+88 (12)
+
+NA
+
+26 (22 to 29)
+
+LV therapy
+
+NA
+
+13 (8)
+
+NA
+
+404 (208)
+
+NA
+
+−391 (−424 to −360)
+
+Therapist’s time/cost
+
+0.10 (0.13)
+
+4 (6)
+
+6.31 (3.32)
+
+276 (145)
+
+−6.21 (−6.69 to −5.69)
+
+−272 (−295 to −249)
+
+87 (76 to 97)
+
+NA
+
+NA
+
+NA
+
+2.39 (1.09)
+
+105 (48)
+
+NA
+
+NA
+
+Therapy session/homework
+review
+
+NA
+
+NA
+
+3.74 (2.56)
+
+164 (112)
+
+NA
+
+NA
+
+Additional time/cost
+
+0.10 (0.13)
+
+4 (6)
+
+0.17 (0.34)
+
+8 (15)
+
+−0.078
+(−0.15 to −0.031)
+
+−3 (−6 to −1)
+
+0.16 (0.02)
+
+5 (1)
+
+0.28 (0.06)
+
+8 (2)
+
+−0.12 (−0.13 to −0.10)
+
+−3 (−4 to −3)
+
+Overhead for LV therapy
+
+NA
+
+4 (2)
+
+NA
+
+119 (61)
+
+NA
+
+−115 (−125 to −106)
+
+Total optometry and therapy cost
+
+NA
+
+390 (82)
+
+NA
+
+702 (208)
+
+NA
+
+−311 (−347 to −278)
+178 (21 to 327)
+
+Devices and supplies
+
+NA
+
+1265 (655)
+
+NA
+
+1086 (741)
+
+NA
+
+Monocular telescope
+
+NA
+
+84 (92)
+
+NA
+
+63 (88)
+
+NA
+
+21 (1 to 40)
+
+Teleloupes
+
+NA
+
+183 (211)
+
+NA
+
+150 (199)
+
+NA
+
+33 (−12 to 79)
+
+Pocket magnifier
+
+NA
+
+39 (29)
+
+NA
+
+29 (27)
+
+NA
+
+11 (5 to 17)
+
+Stand magnifier
+
+NA
+
+121 (107)
+
+NA
+
+100 (108)
+
+NA
+
+21 (−1 to 44)
+−1 (−5 to 2)
+
+Intermediate distance device
+
+NA
+
+8 (16)
+
+NA
+
+9 (17)
+
+NA
+
+Reading glasses
+
+NA
+
+95 (134)
+
+NA
+
+88 (131)
+
+NA
+
+7 (−22 to 36)
+
+Large inline video magnifier
+
+NA
+
+388 (538)
+
+NA
+
+360 (528)
+
+NA
+
+28 (−89 to 144)
+
+Portable video magnifier
+
+NA
+
+206 (282)
+
+NA
+
+145 (255)
+
+NA
+
+62 (3 to 121)
+
+Outdoor filters
+
+NA
+
+21 (23)
+
+NA
+
+21 (23)
+
+NA
+
+0 (−5 to 5)
+
+Prescription sunglasses
+
+NA
+
+50 (115)
+
+NA
+
+38 (102)
+
+NA
+
+12 (−11 to 34)
+
+Indoor filters
+
+NA
+
+7 (16)
+
+NA
+
+5 (14)
+
+NA
+
+2 (−1 to 6)
+
+Reading stand
+
+NA
+
+23 (31)
+
+NA
+
+28 (32)
+
+NA
+
+−5 (−11 to 2)
+
+Lamp
+
+NA
+
+36 (53)
+
+NA
+
+49 (56)
+
+NA
+
+−13 (−24 to 0)
+
+−5.59 (−6.12 to −5.11)
+
+−126 (−299 to 35)
+
+Total direct cost
+
+4.04 (0.54)
+
+1662 (671)
+
+9.63 (3.37)
+
+Abbreviations: LV, low vision; NA, not available.
+Difference in mean resource use or costs between patients randomized
+to receive basic LV service or LV rehabilitation (ie, basic LV service−LV
+rehabilitation).
+
+($1788 [$864]) were similar for overall study patients (basic LV
+services, $126 lower; 95% CI, $299 lower to $35 higher; P = .15).
+From the patient’s perspective, basic LV services
+involved a mean (SD) time commitment of 5.93 (2.43) hours
+per patient while LV rehabilitation required 12.86 (6.79)
+hours (6.93 fewer hours for basic LV services; 95% CI, 5.848.13 fewer hours; P < .001) (Table 2). Additionally, informal
+caregivers spent less time assisting patients with basic LV
+services because they spent less time driving to clinic visits
+E4
+
+Cost, $
+
+Therapist’s preparation and
+completion time
+
+Administrative and clerical support
+for LV therapy
+
+a
+
+Difference, Mean (95% CI)a
+
+Characteristic
+
+b
+
+1788 (864)
+
+The hourly wage rates (not including benefits) were estimated as $58.31
+for the optometrist, $33.66 for the LV therapist, and $22.81 for administrative
+and clerical support.
+
+(2.25 fewer hours for basic LV services; 95% CI, 1.15-3.44
+fewer hours; P < .001). Moreover, transportation costs from
+the patient and caregiver’s perspectives were $31 (95% CI,
+$21-$47; P < .001) lower for patients in the basic LV services
+group.
+Sensitivity analyses are shown in Table 3. For patients
+with BCDVA better-eye scores of 20/50 to 20/63, the mean
+(SD) total direct health care costs per patient of basic LV services ($1386 [$583]) and LV rehabilitation ($1542 [$640])
+
+JAMA Ophthalmology Published online April 12, 2018 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+jamaophthalmology.com
+
+
+[page 5]
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+Original Investigation Research
+
+Table 2. Indirect Resource Utilization and Costs of Patients and Caregivers
+Mean (SD)
+Basic LV Services (n = 160)
+Resource Use, h
+
+Cost, $b
+
+Patient’s transportation
+to outpatient clinic
+
+3.58 (2.42)
+
+NA
+
+Patient’s care from
+optometrist
+
+2.27 (0.50)
+
+Patient’s therapy from LV
+therapist
+
+LV Rehabilitation (n = 163)
+
+Difference, Mean (95% CI)a
+
+Cost, $b
+
+Resource Use, h
+
+Cost, $
+
+5.69 (3.71)
+
+NA
+
+−2.11 (−2.84 to −1.47)
+
+NA
+
+NA
+
+1.41 (0.36)
+
+NA
+
+0.86 (0.76 to 0.95)
+
+NA
+
+0.08 (0.04)
+
+NA
+
+3.86 (2.61)
+
+NA
+
+−3.77 (−4.20 to −3.39)
+
+NA
+
+Patient’s time doing
+homework
+
+NA
+
+NA
+
+1.90 (2.26)
+
+NA
+
+NA
+
+NA
+
+Total patient time
+
+Time
+
+Resource Use, h
+
+Patient’s time
+
+5.93 (2.43)
+
+NA
+
+12.86 (6.79)
+
+NA
+
+−6.93 (−8.13 to −5.84)
+
+NA
+
+Caregiver’s time
+
+3.64 (3.46)
+
+NA
+
+5.89 (6.48)
+
+NA
+
+−2.25 (−3.44 to −1.15)
+
+NA
+
+Transportation
+to outpatient clinicb
+
+53.19 (45.42)
+
+28 (24)
+
+60 (81)
+
+−59.41 (−87.98 to −9.65) −32 (−47 to −21)
+
+112.60 (151.28)
+b
+
+Abbreviations: LV, low vision; NA, not available.
+a
+
+Difference in mean resource use or costs between patients randomized
+to receive basic LV service or LV rehabilitation (ie, basic LV service−LV
+rehabilitation).
+
+Resource use for transportation was measured in miles. We estimated
+distances from veterans’ homes to US Department of Veterans Affairs LV
+outpatient centers and estimated transportation costs using the federal
+reimbursement rate of $0.535 per mile for private automobiles.14
+
+Table 3. Sensitivity Analyses
+Mean (SD)
+Basic LV Services (n = 160)
+
+LV Rehabilitation (n = 163)
+
+Difference, Mean (95% CI)a
+
+Resource Use, h
+
+Cost, $
+
+Resource Use, h
+
+Cost, $
+
+Resource Use
+
+Cost, $
+
+BCDVA better-eye score
+20/50-20/63 (n = 132)
+
+3.99 (0.58)
+
+1386 (583)
+
+8.57 (2.31)
+
+1542 (640)
+
+−4.59
+(−5.16 to −4.00)
+
+−156
+(−362 to 59)
+
+BCDVA better-eye score
+<20/63-20/200 (n = 191)
+
+4.07 (0.50)
+
+1856 (663)
+
+10.35 (3.77)
+
+1955 (955)
+
+−6.28
+(−7.00 to −5.48)
+
+−99
+(−339 to 130)
+
+Patient time
+
+3.23 (1.31)
+
+NA
+
+12.86 (6.79)
+
+NA
+
+−9.63
+(−10.73 to −8.61)
+
+NA
+
+Caregiver’s time
+
+2.05 (1.92)
+
+NA
+
+5.89 (6.48)
+
+NA
+
+−3.84
+(−5.00 to −2.95)
+
+NA
+
+Transportation to outpatient clinic
+
+27.18 (22.95)
+
+−85.42
+(−114.25 to −66.54)
+
+−46
+(−63 to −36)
+
+Characteristic
+Stratified by BCDVA
+
+LV devices dispensed on same visit as LV
+examination in basic LV services
+
+15 (12)
+
+112.60 (151.28)
+
+60 (81)
+
+Abbreviations: BCDVA, best-corrected distance visual acuity; LV, low vision;
+NA, not available.
+
+a
+
+were similar (basic LV services $156 lower; 95% CI, $362
+lower to $59 higher; P = .15). Additionally, for patients with
+BCDVA better-eye scores of less than 20/63 to 20/200, the
+mean (SD) total direct health care costs per patient of basic
+LV services ($1856 [$663]) and LV rehabilitation ($1955
+[$955]) were similar (basic LV services $99 lower; 95% CI,
+$339 lower to $130 higher; P = .15). If LV devices were dispensed on the same day as the LV examination for patients
+with basic LV, then the patient’s time would be 9.63 (95% CI,
+8.61-10.73) hours lower, the informal caregiver’s time would
+be 3.84 (95% CI, 2.95-5.00) hours lower, and transportation
+costs would be $46 (95% CI, $36-$63) lower for patients in
+the basic LV services group than patients in the LV rehabilitation group.
+
+tion than for patients who received basic LV services for
+reading ability (0.34-logit greater improvement; 95% CI,
+0.001-0.69; P= .05), overall visual ability (0.27-logit greater
+improvement; 95% CI, 0.06-0.49; P = .01), visual information processing (0.27-logit greater improvement; 95% CI,
+0.01-0.53; P= .04), and visual motor skills (0.37-logit greater
+improvement; 95% CI, 0.08-0.66; P = .01) (Figure). The
+mean (SD) reading ability increased from 0.51 (1.43) to 1.80
+(1.35) logits for the LV rehabilitation group, a 1.29- (1.66) logit
+increase, and from 0.51 (1.44) to 1.45 (1.68) logits for the
+basic LV group, a 0.95- (1.46) logit increase. Overall visual
+ability increased from a mean (SD) of 0.61 (1.10) to 1.32 (1.24)
+logits for patients receiving LV rehabilitation, a 0.70- (1.06)
+logit increase, and from 0.61 (1.02) to 1.04 (1.21) logits for
+patients with basic LV, a 0.43- (0.89) logit increase. However,
+when stratified by BCDVA better-eye, changes in VA LV
+VFQ-48 scores were only significant for patients with a
+BCDVA better-eye worse than 20/63 to 20/200.
+
+Functional Visual Ability
+Changes in VA LV VHQ-48 scores between baseline and 4
+months were greater for patients who received LV rehabilitajamaophthalmology.com
+
+Difference in mean resource use or costs between patients randomized to
+basic LV service or LV rehabilitation (ie, basic LV service−LV rehabilitation).
+
+(Reprinted) JAMA Ophthalmology Published online April 12, 2018
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+E5
+
+
+[page 6]
+Research Original Investigation
+
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+Figure. Comparison of Mean Changes in Veterans Affairs Low-Vision Visual Functioning Questionnaire
+(VA LV VFQ-48) Scores
+A Low-vision rehabilitation vs basic low-vision services
+
+Mean Change in VFQ-48 Scores, Logits
+
+1.8
+1.6
+
+a
+
+Low-vision rehabilitation
+Basic low-vision services
+
+1.4
+1.2
+a
+
+1.0
+
+a
+
+a
+0.8
+0.6
+0.4
+0.2
+0
+
+Reading
+Effect Size = 0.22
+
+B
+
+Mobility
+Effect Size = 0.17
+
+Visual Information
+Effect Size = 0.23
+
+Visual Motor
+Effect Size = 0.28
+
+Overall
+Effect Size = 0.28
+
+Visual Information
+Effect Size = 0.20
+
+Visual Motor
+Effect Size = 0.24
+
+Overall
+Effect Size = 0.17
+
+BCDVA better-eye, 20/50-20/63
+
+Mean Change in VFQ-48 Scores, Logits
+
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+
+Reading
+Effect Size = 0.02
+
+C
+
+Mobility
+Effect Size = 0.02
+
+BCDVA better-eye, 20/63-20/200
+a
+
+Mean Change in VFQ-48 Scores, Logits
+
+1.8
+1.6
+1.4
+1.2
+a
+
+a
+
+Visual Motor
+Effect Size = 0.30
+
+Overall
+Effect Size = 0.35
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+
+Reading
+Effect Size = 0.33
+
+Mobility
+Effect Size = 0.22
+
+Visual Information
+Effect Size = 0.25
+
+A, Low-vision rehabilitation vs basic
+low-vision services. B, Low-vision
+rehabilitation vs basic low-vision
+services, best-corrected distance
+visual acuity (BCDVA) better-eye
+score of 20/50 to 20/63.
+C, Low-vision rehabilitation vs basic
+low-vision services, BCDVA
+better-eye score of more than 20/63
+to 20/200. The effect size
+characterizes the magnitude of the
+treatment effect as small (0.2),
+medium (0.5), or large (0.8). The bars
+represent the standard error of the
+mean.
+a
+
+Discussion
+US Department of Veterans Affairs services for veterans with
+blindness and visual impairment include comprehensive inpatient rehabilitation programs as well as multidisciplinary and
+basic LV programs.23 The LOVIT trial evaluated an intense outpatient LV rehabilitation program for veterans with legal blindE6
+
+ness with macular diseases (habitual distance visual acuity better-eye worse than 20/100-20/400) compared with a waiting list control group. 24 LOVIT II complemented LOVIT by
+comparing the outcomes of 2 types of outpatient LV programs for veterans who had less severe visual impairment from
+macular diseases (BCDVA better-eye, 20/50-20/200).9,20 The
+mean (SD) direct health care costs were similar for basic LV services and LV rehabilitation: $1662 ($671) per patient for basic
+
+JAMA Ophthalmology Published online April 12, 2018 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+Pⱕ.05.
+
+jamaophthalmology.com
+
+
+[page 7]
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+LV services compared with $1788 ($864) per patient for multidisciplinary LV rehabilitation. Moreover, LV rehabilitation was
+associated with improvement in several dimensions of functional visual ability, particularly for patients with greater impairment (ie, BCDVA better-eye worse than 20/63-20/200).
+However, LV rehabilitation may involve a greater time commitment and cost to patients and informal caregivers.
+In the private sector, LV services are provided in outpatient
+settings.25 Thus, our findings might be most generalizable to
+health care systems that provide a continuum of blind rehabilitation services or those that provide care limited to 1 setting that
+are considering an expansion of care delivery services. The transportation of veterans to the outpatient LV program may provide
+a barrier to access such a program. Multiple trips to an outpatient
+clinic may be an issue for some veterans. In sensitivity analyses,
+we showed that the time and transportation burden for patients
+and caregivers would be less if devices are stocked and patients
+could receive their LV devices on the same day as the examination.
+The VA has committed over $40 million to establish a comprehensive nationwide rehabilitation system, including outpatient rehabilitation, for veterans and active-duty personnel with
+blindness or visual impairment. The 10 regional blind centers continue to provide comprehensive care, and outpatient rehabilitation capabilities have been developed.26 LOVIT II provides
+evidence for the effectiveness of the basic and LV rehabilitation
+programs that are currently available in the system. Moreover,
+
+ARTICLE INFORMATION
+Accepted for Publication: February 13, 2018.
+Published Online: April 12, 2018.
+doi:10.1001/jamaophthalmol.2018.0797
+Author Affiliations: Center of Innovation for
+Complex Chronic Healthcare, Edward Hines Jr
+Veterans Affairs Hospital, Hines, Illinois (Stroupe);
+Department of Public Health Sciences, Loyola
+University–Chicago, Maywood, Illinois (Stroupe);
+Blind Rehabilitation Center, Edward Hines Jr
+Veterans Affairs Hospital, Hines, Illinois (Stelmack,
+Sayers); Illinois College of Optometry, Chicago
+(Stelmack); Department of Ophthalmology and
+Visual Science, University of Illinois at Chicago,
+School of Medicine, Chicago (Stelmack, Sayers);
+Cooperative Studies Program Coordinating Center,
+Edward Hines Jr Veterans Affairs Hospital, Hines,
+Illinois (Tang, Wei, Reda); Washington DC Medical
+Center, Washington (Kwon); Wilmer Eye Institute,
+Johns Hopkins University School of Medicine,
+Baltimore, Maryland (Massof).
+Author Contributions: Drs Stroupe and Stelmack
+had full access to all of the data in the study and
+takes responsibility for the integrity of the data and
+the accuracy of the data analysis.
+Concept and design: Stroupe, Stelmack, Wei, Reda,
+Kwon.
+Acquisition, analysis, or interpretation of data:
+Stroupe, Stelmack, Tang, Wei, Sayers, Kwon.
+Drafting of the manuscript: Stroupe, Stelmack, Wei,
+Kwon.
+Critical revision of the manuscript for important
+intellectual content: Stroupe, Stelmack, Tang,
+Sayers, Reda, Kwon.
+Statistical analysis: Stroupe, Tang, Wei, Kwon.
+Obtained funding: Stelmack, Tang, Reda.
+jamaophthalmology.com
+
+Original Investigation Research
+
+the current continuum of care programs could be refined based
+on the results from LOVIT II.
+
+Limitations
+Although our cost-consequences analysis cannot be compared
+with treatments for other conditions, it indicates to policy makers the costs associated with improving the functional visual ability of veterans with LV with macular diseases. Additionally, not
+all costs were collected at a patient level. Moreover, the costs included were those directly related to the intervention. The interventions’ downstream effect on health care costs was not considered (eg, patients who were better equipped to deal with their
+LV may have fewer ophthalmology visits in the future and may
+avoid falls). Consequently, the results may understate the economic benefits of the intervention.
+
+Conclusions
+Low-vision rehabilitation was associated with improvement
+in several dimensions of visual function, with similar direct
+health care costs as for basic LV services. However, LV rehabilitation may involve a greater time commitment and costs
+to patients and caregivers. As the VA has committed additional resources to outpatient blind rehabilitation, the LOVIT
+and LOVIT II programs may provide a useful model for expanding outpatient LV services.
+
+Administrative, technical, or material support:
+Stelmack, Tang, Sayers, Reda, Kwon.
+Supervision: Stelmack, Sayers, Reda, Kwon.
+Conflict of Interest Disclosures: All authors have
+completed and submitted the ICMJE Form for
+Disclosure of Potential Conflicts of Interest and
+none were reported.
+Funding/Support: Funding for this research was
+provided by the US Department of Veterans Affairs
+(VA) Rehabilitation Research and Development
+grant C6958R. Funding for the low-vision devices
+prescribed and dispensed to veteran participants
+was provided by the VA Prosthetics Service.
+LOVIT II Study Group Members: Chair’s office:
+Joan Stelmack, OD, MPH, Edward Hines Jr. VA
+Hospital (principal investigator); Robert W. Massof,
+PhD, Wilmer Eye Institute (coinvestigator); Scott
+Sayers, PhD, Edward Hines Jr VA Hospital (national
+coordinator and interviewer); Nancy Ellis, MS,
+Clement J. Zablocki VA Medical Center (VAMC)
+(national coordinator and interviewer); Stephan
+Rinne, MS, Edward Hines Jr VA Hospital
+(interviewer); and Timothy Korwin, BS, Edward
+Hines Jr VA Hospital (interviewer). Hines
+Cooperative Studies Program Coordinating Center:
+Domenic J. Reda, PhD (director); X. Charlene Tang,
+MD, PhD, MPH (biostatistician); Kevin T. Stroupe,
+PhD (health economist); Dan Lippel, MA (project
+manager); Yongliang Wei, MS (statistical
+programmer); Kelly Tir, BA (data management
+programmer); and Maria Rachelle (in-house
+monitor/site contact and data coordinator).
+Participating Clinical Sites: Baltimore VAMC–
+Maryland Health Care System: Rex Ballinger, OD
+(site investigator and low-vision optometrist); Olga
+Whitman, OD (assistant site investigator, site
+
+coordinator, and low-vision optometrist); Chana
+Hurvitz, MA (low-vision therapist); and Sheila Davis,
+MA (low-vision therapist. Cincinnati VAMC: Timothy
+Morand, OD (site investigator and low-vision
+optometrist); Mary Colleen Rogge, RN, BSN (site
+coordinator); and Brittany Swedelius, MA (low vision therapist). Dayton VAMC: Timothy Morand,
+OD (site investigator and low-vision optometrist);
+Cynthia Thompson (site coordinator); and Brian
+Joos, MS (low-vision therapist). Edward Hines Jr VA
+Hospital: Joan Stelmack, OD, MPH (site investigator
+and low-vision optometrist); Scott Sayers, PhD (site
+coordinator); Stephen Rinne, MA (site coordinator);
+Timothy Korwin, BS (site coordinator); and Jack
+Houston, MSEd, MBA (low-vision therapist). William
+S. Middleton Memorial Veterans Hospital: Karen
+Brahm, OD (site coordinator and low-vision
+optometrist); David LaCrosse, BS (site coordinator);
+and Amy Wurf, MSEd (low-vision therapist).
+Clement J. Zablocki Veterans Affairs Medical Center:
+Kenneth Rose, OD (site investigator and low-vision
+optometrist); Joseph Berman, PT, MHS (site
+coordinator); Nancy Ellis, MS (site coordinator); and
+Claire Seefeldt, OTR (low-vision therapist).
+Philadelphia VAMC: Denise Wilcox, OD, PhD (site
+coordinator and low-vision optometrist); Connie
+Chronister, OD (assistant site coordinator and
+low-vision optometrist); Rajkaran Sachdej, BS (site
+coordinator); and Janet Meyers, MS, OTR
+(low-vision therapist). Washington, DC, VAMC: Ellen
+Kwon, OD (site coordinator and low-vision
+optometrist); Andrew Pierce, BS (site coordinator);
+and LaShandra Holmes-Russell, MS (low-vision
+therapist); W. G. (Bill) Hefner VA Medical Center:
+Roger W. Cummings, OD (site coordinator and
+low-vision optometrist); Almeda Ruger, MS (site
+coordinator and low-vision therapist); Kimberly B.
+
+(Reprinted) JAMA Ophthalmology Published online April 12, 2018
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+E7
+
+
+[page 8]
+Research Original Investigation
+
+Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases
+
+Gordon, MSN, RN (site coordinator); Brandy Carroll,
+OD, MPH (low-vision optometrist); Gary Mancil, OD
+(low-vision optometrist); and Philip Roels, OD
+(low-vision optometrist). Consultants: Donald
+Fletcher, MD, California Pacific Medical Center;
+Janet Sunness, MD, Greater Baltimore Medical
+Center; and Gislin Dagnelie, PhD, Wilmer Eye
+Institute. Data monitoring committee: chair,
+Thomas W. Raasch, OD, PhD, The Ohio State
+University; Mae O. Gordon, PhD, Washington
+University School of Medicine (biostatistician);
+Leslie G. Hyman, PhD, Stony Brook University
+Medical Center; and Patti S. Wimbs-Fuhr, OD, PhD,
+Birmingham VA Medical Center (low-vision
+optometrist).
+Role of the Funder/Sponsor: The VA had no role in
+the design and conduct of the study; collection,
+management, analysis, and interpretation of the
+data; preparation, review, or approval of the
+manuscript; and decision to submit the manuscript
+for publication.
+Disclaimer: The views expressed are solely those of
+the authors.
+REFERENCES
+1. Brault MW, Hootman J, Helmick CG, Theis KA,
+Armour BS. Prevalence and most common causes
+of disability among adults—United States, 2005.
+https://www.cdc.gov/mmwr/preview/mmwrhtml
+/mm5816a2.htm. Accessed December 13, 2016.
+2. Massof RW. A model of the prevalence and
+incidence of low vision and blindness among adults
+in the U.S. Optom Vis Sci. 2002;79(1):31-38.
+3. Department of Veterans Affairs, Veterans Health
+Administration, Blind Rehabilitation Service.
+Coordinated Services for Blinded Veterans IB 11-59
+(revised) P87250. Washington, DC: Department of
+Veterans Affairs;1996.
+4. Rein DB. Vision problems are a leading source of
+modifiable health expenditures. Invest Ophthalmol
+Vis Sci. 2013;54(14):ORSF18-22-F22.
+5. US Department of Health and Human Services.
+Vision Research A National Plan: 1999-2003; NIH
+Publication No. 98-4120. Bethesda, MD: National Eye
+Institute; 1998:117-130.
+6. US Department of Veterans Affairs, Office of
+Public and Intergovernmental Affairs. VA improves
+
+E8
+
+services for blinded and low-vision veterans.
+https://www.va.gov/opa/pressrel/pressrelease.cfm
+?id=1280. Accessed March 6, 2018.
+7. Binns AM, Bunce C, Dickinson C, et al.
+How effective is low vision service provision?
+A systematic review. Surv Ophthalmol. 2012;57(1):
+34-65.
+8. Stelmack JA, Tang XC, Wei Y, Massof RW;
+Low-Vision Intervention Trial Study Group. The
+effectiveness of low-vision rehabilitation in 2
+cohorts derived from the veterans affairs
+Low-Vision Intervention Trial. Arch Ophthalmol.
+2012;130(9):1162-1168.
+9. Stelmack JA, Tang XC, Reda DJ, Stroupe KT,
+Rinne S, Massof RW; LOVIT II Study Group. VA
+LOVIT II: a protocol to compare low vision
+rehabilitation and basic low vision. Ophthalmic
+Physiol Opt. 2012;32(6):461-471.
+10. Stelmack J, Szlyk JP, Stelmack T, et al. Use of
+Rasch person-item map in exploratory data
+analysis: a clinical perspective. J Rehabil Res Dev.
+2004;41(2):233-241.
+11. Stelmack JA, Szlyk JP, Stelmack TR, et al.
+Measuring outcomes of vision rehabilitation with
+the Veterans Affairs Low Vision Visual Functioning
+Questionnaire. Invest Ophthalmol Vis Sci. 2006;47
+(8):3253-3261.
+12. Szlyk JP, Stelmack J, Massof RW, et al.
+Performance of the veterans affairs low vision
+visual functioning questionnaire. J Vis Impair Blind.
+2004;98:261-275. https://www.afb.org/jvib
+/newjvibabstract.asp?articleid=/JVIB/jvib980502.
+Accessed March 6, 2018.
+13. Dunn A, Grosse SD, Zuvekas SH; Health
+Services Research. Adjusting health expenditures
+for inflation: a review of measures for health
+services research in the United States. Health Serv
+Res. 2018;53(1):175-196.
+14. Smith MW, Richardson SS. HERC Technical
+Report #17: Dialysis Treatment Use and Costs
+Reported in VA Administrative Databases. Health
+Economics Resource Center of Health Service R&D
+Services. Menlo Park, CA: Department of Veterans
+Affairs; 2007.
+15. Internal Revenue Service. 2017 standard
+mileage rates for business, medical and moving
+
+announced. https://www.irs.gov/newsroom/2017
+-standard-mileage-rates-for-business-and
+-medical-and-moving-announced. Accessed
+November 13, 2017.
+16. Stelmack JA, Szlyk JP, Stelmack TR, et al.
+Psychometric properties of the Veterans Affairs
+Low-Vision Visual Functioning Questionnaire. Invest
+Ophthalmol Vis Sci. 2004;45(11):3919-3928.
+17. Stelmack J, Rosenbloom A, Brenneman C,
+Stelmack T. Patient’s perceptions of the need for
+low vision devices. J Vis Impair Blind. 2003;97(9):
+521-535. https://www.afb.org/jvib/Newjvibabstract
+.asp?articleid=JVIB970902. Accessed March 6, 2018.
+18. Stelmack JA, Moran D, Dean D, Massof RW.
+Short- and long-term effects of an intensive
+inpatient vision rehabilitation program. Arch Phys
+Med Rehabil. 2007;88(6):691-695.
+19. Bond TG, Fox CM. Applying the Rasch Model:
+Fundamental Measurement in the Human Sciences.
+Mahwah: Lawrence Erlbaum Assoc; 2001.
+20. Stelmack JA, Tang XC, Wei Y, et al; LOVIT II
+Study Group. Outcomes of the Veterans Affairs Low
+Vision Intervention Trial II (LOVIT II): a randomized
+clinical trial. JAMA Ophthalmol. 2017;135(2):96-104.
+21. Efron B, Tibshirani R. An Introduction to the
+Bootstrap. New York: Chapman and Hall; 1993.
+22. Cohen J. Statistical Power Analysis for the
+Behavioral Sciences. 2nd ed. Hillsdale, NJ: Lawrence
+A Erlbaum; 1988.
+23. Rehabilitation and Prosthetics Services. Blind
+rehabilitation service: continuum of care for
+veterans and service members with visual
+impairment. http://www.rehab.va.gov/blindrehab/.
+Accessed April 29, 2016.
+24. Stelmack JA, Tang XC, Reda DJ, Rinne S, Mancil
+RM, Massof RW; LOVIT Study Group. Outcomes of
+the Veterans Affairs Low Vision Intervention Trial
+(LOVIT). Arch Ophthalmol. 2008;126(5):608-617.
+25. Department of Veterans Affairs, Veterans
+Health Administration, Blind Rehabilitation Service.
+Coordinated Services for Blind Veterans IB 11-59
+(revised). Washington, DC: Department of Veterans
+Affairs; 1996:87250.
+26. Spotswood S. VA prepares overhaul of blind
+rehab services. US Med. 2007;43:1-4.
+
+JAMA Ophthalmology Published online April 12, 2018 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/13/2018
+
+jamaophthalmology.com
+

@@ -1,0 +1,1229 @@
+[page 1]
+Spatial Localization in Visual Impairment
+Ahalya Subramanian and Christine Dickinson
+PURPOSE. To investigate self-reported difficulties experienced
+by visually impaired subjects in real-world tasks requiring judgment of space and distance and to determine whether laboratory measures of spatial localization predict self-reported difficulty with spatial tasks better than traditional measures of
+visual function, such as visual acuity and contrast sensitivity.
+METHODS. Forty-two subjects with visual impairment participated. The Spatial Localization Questionnaire (SLQ) was developed to investigate self-reported spatial localization difficulties,
+and subjects answered the questionnaire as part of the study.
+Subjects also completed a variety of clinical vision tests (visual
+acuity, contrast sensitivity, stereo acuity, and reading speed)
+and laboratory vision tests (vernier acuity, bisection acuity, and
+visual direction).
+RESULTS. The SLQ was found to have good validity. Several
+significant correlations were found between the Rasch analysis
+ability scores for the questionnaire and the clinical and laboratory vision tests. Using stepwise regression analysis, we found
+that vernier acuity and contrast sensitivity accounted for 42%
+of the variance in the Rasch scores (P ⬍ 0.001).
+CONCLUSIONS. The findings indicate that certain subjects with
+visual impairment have difficulty with real-world spatial tasks,
+as indicated by the SLQ. Of note, these difficulties were better
+predicted by vernier acuity (a resolution test) and contrast
+sensitivity, rather than vernier or bisection bias, which measure localization. (Invest Ophthalmol Vis Sci. 2006;47:78 – 85)
+DOI:10.1167/iovs.05-0137
+
+M
+
+any people with visual impairment complain about
+difficulties with activities requiring judgment of space
+and depth. Examples include negotiating steps and pouring
+liquids. It is well known that subjective complaints of difficulty are not necessarily well correlated to objective measurements.1,2 For example, difficulties with activities of
+daily living are not well correlated with clinical measures of
+visual acuity.3–5 In particular, difficulties with spatial tasks
+do not appear to be related to the level of visual acuity and
+visual field loss,6,7 but performance may depend on an
+individual’s ability to localize objects in the surrounding
+visual world. This ability is commonly referred to as spatial
+localization and has traditionally been measured using hyperacuity tasks such as vernier acuity, bisection acuity, spatial interval discrimination, and stereo acuity.8,9 Spatial localization has been investigated in retinitis pigmentosa,6,7
+glaucoma,10,11 and amblyopia.12–15 It has also been used as
+a method of determining potential acuity in cataract16
+
+From the Faculty of Life Sciences, University of Manchester,
+Manchester, United Kingdom.
+Supported by Guide Dogs for the Blind Association Grant SR70C.
+Submitted for publication February 2, 2005; revised June 3 and
+August 7, 2005; accepted November 28, 2005.
+Disclosure: A. Subramanian, None; C. Dickinson, None
+The publication costs of this article were defrayed in part by page
+charge payment. This article must therefore be marked “advertisement” in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+Corresponding author: Christine Dickinson, Faculty of Life Sciences, University of Manchester, Moffat Building, PO Box 88, Manchester M60 1QD, UK.
+
+78
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+and to screen for metamorphopsia in early age-related macular disease (ARM).17 Turano and Schuchard6 measured spatial localization in visually impaired individuals with central
+and peripheral visual field loss and found that poor spatial
+localization is not a necessary consequence of visual field
+loss, since some subjects with visual field loss made spatial
+relationship judgments with an accuracy comparable to that
+of subjects with normal vision.
+Several questionnaires and instruments have been developed specifically for use with a visually impaired population to
+identify difficulties with functional vision. Some notable examples are the National Eye Institute Visual Function Questionnaire (NEI-VFQ),18 The Daily Living Tasks Dependent on Vision
+(DLTV),19 Low Vision Quality of Life Questionnaire
+(LVQOL),20 Melbourne Low Vision ADL Index (MLVAI),21 and
+Veterans Affairs Low Vision Visual Functioning Questionnaire
+(VA LV VFQ-48).22 Although many of these questionnaires have
+items related to difficulties with spatial tasks, none of the
+existing questionnaires is exclusively designed to identify such
+difficulties. There was therefore a need to develop a questionnaire that would specifically ask questions that relate to the
+difficulties experienced with tasks requiring judgments of
+space and depth. This questionnaire could be used to identify
+visually impaired individuals who experience functional difficulties in tasks that require distance or space judgments. These
+difficulties could then be correlated to clinical and laboratory
+tests to identify which tests best predict spatial localization
+ability. The results of those tests that best predict such difficulty could then be used clinically to give appropriate advice to
+patient and plan rehabilitation services.
+Vernier and bisection acuity quantify an individual’s ability
+to determine relative location, and these measures were therefore chosen for this study, to objectively assess relative location
+abilities. For certain tasks such as reaching and grasping, however, this information may be insufficient, and the subject will
+also require information about absolute direction. No previous
+studies have addressed the judgment of “straight ahead” in the
+visually impaired and methods used for normally sighted individuals23,24 may not be suitable. It is known that perceived
+visual direction is shifted in the direction opposite to that of
+eccentric gaze,25 and this phenomenon is particularly relevant
+in patients with a central field defect, who consistently use an
+eccentric PRL to replace the fovea. An experiment was therefore designed to measure visual direction. Accurate perception
+of object size also appears to be relevant to performance of
+these activities. It is well known that for normally sighted
+subjects, the perceived size of an object does not change when
+altering the viewing distance between the object and the
+observer, despite the fact that there is a change in retinal image
+size (size constancy).26,27 Size constancy, however, has been
+found to be normal in a range of visually impaired individuals28,29 and so was not included in this study.
+The purpose of this study was to investigate possible correlation between visual function and self-reported real-world
+spatial localization difficulties in visually impaired individuals.
+We hypothesize that laboratory measures of spatial localization
+will predict self-reported difficulty with spatial tasks much
+better than traditional measures of visual function, such as
+visual acuity and contrast sensitivity.
+Investigative Ophthalmology & Visual Science, January 2006, Vol. 47, No. 1
+Copyright © Association for Research in Vision and Ophthalmology
+
+
+[page 2]
+IOVS, January 2006, Vol. 47, No. 1
+
+METHODS
+Subjects
+Visually impaired subjects who participated in the study were recruited either from the Low Vision Clinic at the Manchester Royal Eye
+Hospital or the Low Vision Clinic at University of Manchester Institute
+of Science and Technology (UMIST). All the subjects from the
+Manchester Royal Eye Hospital had been referred to the Low Vision
+Clinic by their ophthalmologists. Subjects who were recruited from
+UMIST were referred by optometrists, ophthalmologists, or rehabilitation workers or were self-referred. Visually impaired individuals were
+recruited for the study only if they had visual acuity between 6/6 and
+6/60 (0.0 –1.0 logMAR [logarithm of the minimum angle of resolution])
+in the better eye and no better than 6/9.5 (0.2 logMAR) in the poorer
+eye and had attended an appointment at a low-vision clinic. Although
+some subjects recruited in the low-vision category had better visual
+acuity than would normally be categorized as visually impaired, all
+these subjects had attended a low-vision clinic complaining of visual
+problems despite their good vision, suggesting that they experienced
+or perceived difficulty that was not in proportion to their measured
+visual acuity loss. Subjects who lived in a hospital or nursing home
+and/or did not speak English were excluded. Subjects were also excluded if they failed to achieve 17 correct responses (of a possible 22)
+on the Mini Mental State Examination for the Blind (MMBlind).30
+Forty-two individuals participated in the study, although only 40
+completed all the experiments. Two subjects missed the second visit
+because of ill health.
+
+Testing Procedures
+Most of the subjects (n ⫽ 39) completed the experimental test procedure over two sessions (median duration between sessions, 2 weeks;
+range, 1– 8 weeks) and the remaining subject completed the tests in
+one session. Visual acuity, at both distance and near, and contrast
+sensitivity measurements were tested on the first visit. The spatial
+localization questionnaire (SLQ) was also administered to all subjects
+(n ⫽ 42) on the first visit. Visual acuity at distance was repeated at the
+second visit, to check that the vision remained stable between visits.
+None of the subjects had a clinically significant change in visual acuity
+(difference of greater than 0.1 logMAR) between visits.31 The remainder of the experiments were randomly divided between the two visits.
+An objective and subjective refraction was performed on all subjects, and all subsequent testing was performed using the best correction for the viewing distance.
+Ethics committee approval for the study was obtained from the
+Central Manchester Local Ethics Research Committee (Reference Number: CEN/00/111), and the study adhered to the tenets of the Declaration of Helsinki. Before participating in the study, all individuals gave
+informed consent.
+
+Spatial Localization Questionnaire
+A questionnaire was developed to investigate practical difficulties relating to judgments of space and distance at close range in visually
+impaired subjects. Possible questions were either short listed from
+previous questionnaires18 –21,32–36 or were based on the investigators’
+experience. A list of 233 potential questions was constructed, of which
+39 were retained for investigation. These questions were pilot-tested
+on a sample group of 20 elderly, visually impaired individuals attending
+a low-vision clinic. Based on subject response and feedback (e.g.,
+questions that required additional explanation or were applicable to
+very few subjects) the questionnaire was further reduced. The final
+version of the SLQ consisted of 30 questions rated on a five-point scale
+(5, no difficulty; 4, slight difficulty; 3, moderate difficulty; 2, severe
+difficulty/regularly uses sensory substitution; 1, cannot do task because
+of vision/gets someone else to do it; NA: has never done task/cannot do
+task because of reasons unrelated to vision). All the SLQ items started
+with the phrase “How much difficulty do you have. . . .” The SLQ was
+validated using Rasch analysis,37 which is based on a probabilistic
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+Spatial Localization in Visual Impairment
+
+79
+
+model and has recently been used to validate several vision-related
+quality-of-life questionnaires.21–22,38 – 41 The Rasch analysis was performed with a joint maximum likelihood estimation (student version of
+Winsteps, ver 3.33; Mesa Press, Chicago, IL). This analysis can be used
+to transform raw data into abstract equal-interval scales and to measure
+construct validity.42 Rasch analysis may require a reduction in the
+instruments’ items and response categories for the data to fit the
+model. It should be noted that the questionnaire was administered to
+42 subjects, which may be too small a sample size for assessing the
+psychometric properties of a new questionnaire. The questionnaire
+took no more than 15 minutes to administer.
+
+Clinical Vision Tests
+Visual acuity at distance was measured with the Early Treatment
+Diabetic Retinopathy Study (ETDRS) chart.43 Reading speed was assessed with the MNREAD acuity charts and established protocols.44
+Contrast sensitivity was measured using the Pelli-Robson contrast sensitivity chart.45 All these measures were performed binocularly and
+monocularly. Stereopsis was tested using the Frisby Stereo Test.46,47
+Visual fields were not measured as part of the study.
+
+Laboratory Vision Tests
+All targets for the vernier and bisection acuity experiments were
+generated in a program written in C⫹⫹ with Delphi and were projected by a data projector (model CP-X320W; Hitachi, Tokyo, Japan)
+onto a white screen that was 4.5 m away from the subject. System
+resolution was 1024 ⫻ 768 pixels, and 1 pixel subtended 45 seconds
+of arc at the subject’s eye. The projector was fixed at a distance of 2 m
+from the screen and was not in the subject’s line of sight. The luminance of the target was 300 cd/m2, and the background was 105
+cd/m2. Testing was binocular with the room lights switched on, giving
+illuminance of 800 lux. The method of constant stimuli is usually used
+because of decreased variability, but because it requires several hundred trials to determine threshold, the method of adjustment was used
+to avoid subject fatigue.
+
+Vernier Acuity
+The vernier target that was used consisted of two bright white vertical
+lines, 3° ⫻ 1° in size, placed one above the other and separated by a
+gap of 1°, on a dark background. The top part of the target was fixed
+and the bottom part was positioned either to the left or right. The
+subject was required to use the keyboard to move the bottom target so
+that it was aligned with the top target. The subject received no
+feedback on performance. The examiner randomly displaced the bottom target either left or right before each threshold determination. The
+experiment was repeated 17 times, and the first two trials were
+discarded to account for any learning effects. Each set of 17 trials took
+no more than 10 minutes to perform. If the bottom line was displaced
+to the right, the displacement was considered positive, and if it was
+displaced to the left, the displacement was considered negative. The
+mean of the vernier displacements was taken to be the vernier bias,
+which indicates accuracy or mean error of alignment, and the SD was
+taken to be the vernier acuity.
+
+Bisection Acuity
+Bisection acuity was measured to determine whether subjects had any
+difficulty in dividing a spatial interval into two equal parts. The bisection target consisted of a horizontal bright white line with a vertical
+bright white cursor on a black background. Two different lengths of
+horizontal line were tested (1° and 3°) with a standard width of 20
+minarc for both. No references were found in literature that suggested
+ideal line lengths particularly for visually impaired subjects. When
+assessing the optimum performance of normally sighted subjects, this
+experiment is normally conducted as a three-line bisection task requiring the observer to judge when a central line is an equal distance from
+two outer lines with a separation of only a few minutes of arc (e.g.,
+
+
+[page 3]
+80
+
+Subramanian and Dickinson
+
+Wang et al.48). The larger target used in this experiment was chosen to
+be appropriate to poor acuity and to represent the scale of real-life
+practical tasks. The size of the vertical cursor used was always the same
+(1° ⫻ 20 minarc), regardless of the horizontal line length tested. The
+subject viewed a horizontal line on the screen with a vertical cursor
+displaced randomly, either to the right or the left of the center of the
+horizontal line. The subject had to use the computer keyboard to move
+the cursor so that it divided the line into two equal halves. A total of 17
+trials were performed for both the line lengths, and the first two trials
+for each line length were discarded. The order of performing the
+experiments was randomized so that some subjects performed the
+experiment with the 3° line first, whereas others performed the experiment with the 1° line first. Each experiment took no more than 10
+minutes to perform. Similar to vernier acuity, the mean of the bisection
+measurements was taken to be the bisection bias, and the SD was taken
+to be the bisection acuity.
+
+Visual Direction
+The experimental setup consisted of an optical bench in the frontoparallel plane with a movable target mounted on it. The target was a red
+LED (2 mm ⫻ 1 cm) enclosed in a black surround that could be moved
+using two strings. The distance between the subject and the target was
+60 cm, and the target was at eye level. The subject’s head was stabilized with a chin rest with a special attachment for the subject to place
+his or her nose. The apparatus was constructed so that the subject
+would not move his or her head. It was assumed that the veridical
+“straight ahead” was an imaginary line drawn from the subject’s nose
+to the target. A millimeter scale was attached to the optical bench and
+the assumed position of “straight ahead” was marked as zero. Subjects
+viewed the target through a window constructed using matt-black card
+so that only the target was visible. The background was also black. At
+the start of each experiment the examiner displaced the target either
+left or right of the central position. The subjects were instructed to
+move the target using the two strings (which were at the side of the
+table) until they felt that the target was straight in front of them.
+Subjects were instructed to make judgments with both their eyes open
+and under no circumstances to close one eye. Strings were used to
+adjust the target so that the patient could not use any information from
+hand position to judge visual direction. If the subject was unable to see
+the red LED (and five subjects could not), they were instructed to look
+at the black surround (4 cm ⫻ 2.5 cm, angular measure of 3.81° ⫻
+2.38° at 60 cm) enclosing the LED. Five readings were taken per
+subject, which did not take more than 5 minutes to perform. The mean
+of the visual direction measurements was taken to be the visual direction bias, and the SD was taken to be the visual direction ability.
+
+RESULTS
+All statistical tests were performed on computer (SPSS, ver.
+10.0; SPSS Inc., Chicago, IL).
+
+Subject Demographics
+The mean age of the visually impaired subjects was 73 years
+(range, 36 – 89 ⫾ 12.5 years [SD]). Of the subjects, 76.2% (n ⫽
+32) had bilateral ARM, 9.6% (n ⫽ 4) had bilateral idiopathic
+optic atrophy, 4.7% (n ⫽ 2) had bilateral ARM with glaucoma,
+4.7% (n ⫽ 2) had bilateral diabetic retinopathy, 2.4% (n ⫽ 1)
+had bilateral macular holes, and 2.4% (n ⫽ 1) had bilateral
+resolved cystoid macular edema. The median duration of the
+ocular disease was 3 years (range, 1– 60) in the right eye and
+3.5 years (range, 0.5– 80) in the left eye. The best corrected
+binocular visual acuity of the subjects was 0.47 ⫾ 0.30 logMAR.
+
+Spatial Localization Questionnaire
+The Rasch model estimates item difficulty and person ability as
+log odds ratios (logits). In Table 1, item difficulty refers to the
+logit item measure, and “error” refers to the standard error
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+IOVS, January 2006, Vol. 47, No. 1
+estimate for each item. Positive item measures imply that items
+require better localization ability than the average items and
+negative item measures imply that items require less localization ability than average items. The fit of the items is assessed
+either using the infit mean square (information-weighted fit) or
+the outfit mean square (outlier-sensitive fit) statistic which
+compares the differences between the predicted and observed
+responses. Alternatively, the outfit and the infit ZSTD can be
+used, which are the normalized infit and outfit mean squares
+expressed in model SD units. The ZSTDs were used to assess fit
+in the present study. For an item to fit the model well, it is
+usually assumed that the ZSTD should be between ⫹2 or ⫺2
+SD units.40 Rasch analysis was initially performed on the 30item SLQ. Items 8 and 23 lay outside the acceptable ZSTD
+range, however, because the ZSTD statistics were very close to
+the acceptable range it was decided to retain these items for
+subsequent analysis. Items 16 (fastening buttons) and 25 (playing bingo) were considered redundant based on the fact that
+only seven subjects had difficulty with item 16 and only five
+found item 25 applicable, and it was therefore decided to
+delete these items. Analysis with the reduced 28-item questionnaire resulted in a subject reliability index of 0.95 and item
+reliability index of 0.94. Rasch analysis on the reduced item
+SLQ is summarized in Table 1. Again, the ZSTDs for items 8 and
+23 were very close to the acceptable ⫾2 ZSTD tolerance,
+suggesting that the misfit of these items can be attributed to
+noise rather than anomalous responses by some subjects. It
+was therefore decided to retain these items in the SLQ. The
+person–item map for the reduced item SLQ is illustrated in
+Figure 1. The vertical line is a logit scale and represents localization ability. Persons appear on the left-hand side of the scale
+in ascending order of ability, with the more able subjects
+appearing at the top of the scale and the less able appearing at
+the bottom. Items appear on the right-hand side of the scale in
+ascending order of difficulty, with the more difficult items
+being at the top of the scale and the least difficult items
+appearing at the bottom. Analysis of the person–item map
+indicates that there are too few items at the top of the scale,
+which implies that the instrument would be unable to distinguish between people with high ability. Also, many of the
+items are clustered together, indicating a redundancy based on
+the fact that they are measuring the same ability.
+Rasch analysis can be used to determine whether sufficient
+numbers of category responses (rating scales) have been used
+or whether categories need to be added or merged with other
+categories. In the present study, a small sample size was used
+to validate the questionnaire, and in such circumstances it is
+extremely difficult to make decisions about the use of response
+categories.49 It was therefore decided to retain all five categories in the analysis, and category response curves were not
+calculated. Rasch ability scores (in logits) for the SLQ (26-item,
+five-point rating scale) were used for subsequent data analysis,
+since these scores were interval scores. These scores ranged
+from ⫺1.58 to 3.41, with a mean value of 0.58 ⫾ 1.24 (SD).
+
+Relationship between Visual Function Tests
+and SLQ
+The means and standard deviations for the clinical and laboratory vision tests are listed in Table 2. To determine which
+variables may be predictive of subjective real-world spatial
+tasks, stepwise regression analysis was performed using 11
+variables (distance acuity, reading speed, contrast sensitivity,
+vernier acuity and bias, bisection acuity and bias (1° and 3°
+targets), visual direction, and visual direction ability) and only
+binocular scores were included. Because stereopsis was measurable in only five subjects, it was not included in the regression analysis. The SLQ person–ability scores were the depen-
+
+
+[page 4]
+Spatial Localization in Visual Impairment
+
+IOVS, January 2006, Vol. 47, No. 1
+
+81
+
+TABLE 1. Rasch Analysis on the Reduced Item SLQ
+Item
+Number
+26
+27
+4
+28
+20
+29
+30
+6
+10
+2
+24
+1
+14
+15
+17
+9
+5
+19
+13
+21
+3
+18
+22
+7
+11
+23
+12
+8
+
+Item Details
+
+Count
+
+Item Difficulty
+(Logits)
+
+Error
+
+Infit
+MNSQ
+
+ZSTD
+
+Outfit
+SQ
+
+ZSTD
+
+Threading a needle
+Sewing a button
+Writing in straight lines
+Using a screwdriver
+Crossing the road
+Using a hammer
+Writing in crossword boxes
+Measuring cooking ingredients
+Knob setting on appliances
+Squares on forms
+Changes in ground level
+Telephone buttons
+Inserting plugs
+Inserting key into keyhole
+Judging when zipper is in place
+Microwave buttons
+Judging when a cup is full
+Putting coins into a slot
+Changing batteries
+Judging the next stair
+Signing name on a check
+Shaving/applying makeup
+Avoiding obstacles
+Judging food on a plate
+Finding utensils in a closet box
+Walking in a straight line
+Tops on bottles/jars
+Quantity of food to put on plate
+Mean
+SD
+
+39
+28
+42
+33
+42
+32
+30
+27
+39
+42
+42
+42
+42
+42
+42
+32
+42
+37
+39
+42
+42
+38
+42
+42
+41
+35
+42
+40
+39
+5
+
+2.81
+1.61
+0.62
+0.57
+0.5
+0.48
+0.47
+0.41
+0.31
+0.28
+0.05
+0.02
+⫺0.01
+⫺0.04
+⫺0.04
+⫺0.13
+⫺0.16
+⫺0.2
+⫺0.26
+⫺0.28
+⫺0.4
+⫺0.49
+⫺0.62
+⫺0.75
+⫺0.97
+⫺1.18
+⫺1.19
+⫺1.42
+0
+0.84
+
+0.25
+0.24
+0.17
+0.19
+0.17
+0.19
+0.19
+0.21
+0.18
+0.17
+0.17
+0.17
+0.17
+0.17
+0.17
+0.2
+0.17
+0.19
+0.18
+0.17
+0.18
+0.18
+0.18
+0.18
+0.19
+0.22
+0.2
+0.21
+0.19
+0.02
+
+1.26
+1.44
+0.84
+1.07
+0.99
+0.6
+1.45
+1.56
+0.9
+1.12
+1.04
+0.9
+0.96
+1.07
+0.99
+1.15
+1.07
+0.75
+1.01
+0.91
+0.87
+1.31
+0.81
+0.88
+1.29
+1.8
+0.71
+0.49
+1.04
+0.29
+
+0.8
+1.3
+⫺0.8
+0.3
+⫺0.1
+⫺1.8
+1.6
+1.8
+⫺0.4
+0.6
+0.2
+⫺0.5
+⫺0.2
+0.3
+0
+0.5
+0.3
+⫺1.1
+0
+⫺0.4
+⫺0.6
+1.1
+⫺0.8
+⫺0.5
+1.1
+2.2
+⫺1.2
+⫺2.2
+0
+1
+
+1.32
+1.49
+1.06
+0.95
+1.25
+0.54
+1.33
+1.52
+0.76
+1.15
+1.12
+0.82
+0.78
+0.92
+0.89
+1.05
+1.24
+0.61
+0.84
+0.92
+0.83
+1.55
+0.74
+0.77
+1.35
+2.31
+0.53
+0.42
+1.04
+0.39
+
+0.7
+1.2
+0.2
+⫺0.2
+0.9
+⫺1.8
+1.0
+1.3
+⫺0.9
+0.5
+0.4
+⫺0.6
+⫺0.8
+⫺0.3
+⫺0.4
+0.1
+0.7
+⫺1.2
+⫺0.4
+⫺0.2
+⫺0.5
+1.1
+⫺0.7
+⫺0.6
+0.6
+1.5
+⫺1.0
+⫺1.2
+0
+0.9
+
+Count refers to the total number of subjects who answered an item. Item difficulty refers to the estimate of visual ability required by the item.
+Error refers to the standard error of the estimate of item measure. Infit MNSQ refers to the infit mean square. Outfit MNSQ refers to the outfit mean
+square.
+
+dent measure. Stepwise regression analysis revealed that two
+variables— contrast sensitivity and vernier acuity—accounted
+for 42% of the variability observed in the questionnaire score
+(r ⫽ 0.64, r2 ⫽ 0.42; P ⬍ 0.0001). Pearson’s correlation
+coefficients were also calculated for each of these variables
+with the SLQ and are listed in Table 2. The regression coefficients (B) with their standard errors for the regression equation
+are summarized in Table 3.
+
+DISCUSSION
+It is generally accepted that some visually impaired subjects
+have more difficulty performing activities of daily living than is
+suggested by their visual acuity (see, for example, Rubin et
+al.50). In the particular case of real-world tasks that require the
+judgment of depth and space, no study has been attempted to
+explain why certain visually impaired subjects have difficulties
+with these tasks and what visual factors might be predictive of
+these difficulties. In the present study, we developed a questionnaire that enabled us to discriminate between different
+levels of self-reported difficulty experienced in such tasks by
+visually impaired individuals.
+The results of the Rasch analysis indicate that the SLQ is a
+valid questionnaire, as the infit and outfit statistics seem favorable, with very little noise and dependency in the data, with
+the exception of items 8 (quantity of food to put on plate) and
+23 (walking in a straight line). These items may be misfitting,
+because subjects may have misunderstood the question or may
+have confounded the question with other factors. For example,
+walking in a straight line may have been confounded with
+physical ability. The easiest item on the questionnaire was
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+fastening a button. This is not a surprising finding, as subjects
+may be able to do this task by touch, irrespective of the level
+of acuity and precision. In contrast, threading a needle requires
+good acuity and precision; and, unsurprisingly, this was the
+most difficult item on the questionnaire. As discussed in the
+results section, the SLQ may not distinguish between subjects
+at the higher end of the ability scale. It can be argued that
+questions are not required that would distinguish between
+people with high ability, because such persons do not have any
+functional difficulty and therefore do not need any help. Questions are required that distinguish people with low and medium levels of ability and the items in the questionnaire seem
+to cover this range. Although the SLQ was found to be a valid
+measure, it was validated on a small sample in subjects mainly
+affected by ARM (32 subjects who took part in this study had
+ARM), who were specifically chosen for the study. In the
+future, the SLQ should be validated on a larger, more random
+visually impaired population and test–retest values need to be
+established.
+The main hypothesis in the present study was that laboratory measures of spatial localization would predict self-reported difficulty with spatial tasks much better than traditional
+clinical measures of visual function, such as visual acuity or
+contrast sensitivity. The laboratory measures investigated were
+vernier acuity and bias and bisection acuity and bias. We
+thought that measures of vernier and bisection bias would
+predict self-reported difficulties with spatial tasks better than
+vernier and bisection acuity; because, theoretically, bias or
+constant error should correlate with spatial localization,
+whereas precision or variable error (vernier and bisection
+acuity) should correlate with resolution. In the present study,
+
+
+[page 5]
+82
+
+Subramanian and Dickinson
+
+FIGURE 1. Person ability/item difficulty map for the 26-item SLQ. Left
+of vertical line: persons (represented by X). Right: items. Harder items
+and more able people are at the top of the scale, and easier items and
+less able people are at the bottom. The scale is in log units (logits).
+
+the only bias measure that correlated significantly with self reported spatial localization difficulties was vernier bias. The
+other measures of bias did not correlate significantly. Measures
+of precision, however, seemed to be better correlated with the
+spatial localization score, with both vernier acuity and bisection acuity for the larger target size correlating significantly.
+When a stepwise regression analysis was performed, it was
+found that vernier acuity and contrast sensitivity were the two
+variables that best predicted the spatial localization score. It
+appears that visually impaired subjects, particularly those subjects with ARM, have greater difficulty with precision judgments and may simply be more variable at performing tasks,
+and this variability may explain why they have difficulty with
+tasks that require judgments of space and depth. Turano and
+Schuchard6 and Turano7 found localization defects in individuals who had from retinitis pigmentosa, and these defects
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+IOVS, January 2006, Vol. 47, No. 1
+seemed to be independent of visual acuity and visual field loss.
+The finding of the present study that changes in contrast
+sensitivity correlate significantly with the variability in the
+questionnaire score is similar to results in several previous
+studies. It has been shown that contrast sensitivity correlates
+significantly with various tasks of daily living, such as reading
+performance,51–53 mobility,54 and perception of faces55 and
+with difficulties in tasks requiring distance judgments.3
+Although there was a small but significant correlation between the questionnaire score and visual acuity, other measures of visual function were better predictors of self-reported
+difficulty with real-world spatial tasks. Other investigators have
+found a similar lack of correlation between acuity and practical
+tasks, such as mobility,52 in individuals who are visually impaired. The low association between the questionnaire score
+and visual acuity in this study, however, may be due to the
+low-vision population that was selected. For this study, individuals were selected who had fairly good visual acuity, but
+they had complaints that were not thought to be explained by
+visual acuity alone. The sample that was selected for this study
+was therefore not a typical low-vision sample and, had a more
+typical sample been selected, a better association may have
+been found. Rubin et al.3 studied a random sample of 220
+community-dwelling adults in the United States and found that
+visual acuity was associated with difficulty in tasks requiring
+good resolution and changing light conditions. Other investigators40,56 – 60 have also found good correlation between visual
+acuity scores and ability to perform activities of daily living. For
+example, Gothwal et al.59 administered the L. V. Prasad-Functional Vision Questionnaire (LVP-FVQ) to 78 visually impaired
+Indian school children and reported a Pearson correlation
+coefficient of ⫺0.57 between the person ability scores and
+logMAR visual acuity. The LVP-FVQ was also administered to
+128 visually impaired adults, and a similar correlation was
+found between the person ability scores and LogMAR visual
+acuity.60 Massof and Fletcher40 also showed a good correlation
+(r ⫽ ⫺0.53) between the NEI-VFQ person–ability scores and
+visual acuity. These investigators used a larger and more random sample of visually impaired subjects and that may explain
+in part the difference in results.
+Only approximately half the variability observed in the
+questionnaire score was attributable to the visual factors chosen for this study. This may be because this study selected only
+a range of visual factors that could be measured in a clinic or a
+laboratory. The activities of daily living on which the questionnaire is based are complex tasks and are also dependent on
+many nonvisual factors, such as levels of motivation, personality, and social support. Many investigators have speculated that
+these factors play an important role in the performance of
+day-to-day activities (see for example Szlyk et al.,61 Rosenbloom,62 Davis et al.,63 and Jang et al.64). Physical and mental
+health,65 age, and manual dexterity may also have accounted
+for some of the variability in the questionnaire scores. Some
+subjects had arthritis, although none thought that it was severe
+enough to limit them physically. It is also possible that visual
+field loss correlates significantly with self-reported localization
+difficulties; however, visual fields were not measured in this
+study, because we thought that the available means of testing
+visual fields, such as automated perimetry, Amsler grid or the
+tangent screen, would not yield reliable results, particularly
+since it has been shown that patients with a central scotoma
+often fixate with a preferred retinal locus instead of the fovea,
+despite verbal instructions being given.66
+Possible mechanisms for localization defects in individuals
+who are visually impaired have not been investigated. A vernier
+acuity loss in persons with amblyopia is well reported and
+suggested to be due to undersampling67 or neural disarray.68
+According to the undersampling theory, because of neuronal
+
+
+[page 6]
+Spatial Localization in Visual Impairment
+
+IOVS, January 2006, Vol. 47, No. 1
+
+83
+
+TABLE 2. Results of the Clinical and Laboratory Vision Tests
+Clinical Test
+
+n
+
+Mean
+
+SD
+
+Correlation
+with SLQ
+
+P
+
+Visual acuity (logMAR)
+Contrast sensitivity (log units)
+Reading speed (words per minute)
+Stereopsis (sec of arc)
+Vernier acuity (min of arc)
+Vernier bias (min of arc)
+Bisection acuity (1° target, min of arc)
+Bisection bias (1° target, min of arc)
+Bisection acuity (3° target, min of arc)
+Bisection bias (3° target, min of arc)
+Visual direction (cm)
+Visual direction ability (cm)
+
+42
+42
+40
+5
+42
+42
+40
+40
+42
+42
+42
+42
+
+0.47
+1.20
+143.40
+268.75
+188.88
+45.74
+116.24
+29.34
+245.05
+68.82
+0.067
+0.390
+
+0.30
+0.30
+49.32
+225.03
+109.33
+304.36
+60.96
+82.57
+140.74
+298.48
+1.33
+0.19
+
+⫺0.38
+0.53
+0.53
+⫺0.26
+⫺0.59
+⫺0.35
+⫺0.23
+⫺0.05
+⫺0.27
+0.03
+⫺0.11
+⫺0.24
+
+0.01
+⬍0.01
+⬍0.01
+0.08
+⬍0.01
+0.02
+0.15
+0.76
+0.08
+0.83
+0.48
+0.13
+
+All tests were performed binocularly.
+
+loss, subjects with amblyopia do not have enough neurons to
+be able to determine object position with certainty. Although
+the origin of loss is presumed to be cortical, it is conceivable
+that the cellular loss at the level of the retina could help explain
+the presence of localization defects in visually impaired subjects. Most of the visually impaired subjects who took part in
+our research had ARM, and it is associated with a loss of visual
+cells due to the degeneration of RPE cells.69 This loss could
+quite easily result in a sparse number of cells, which might
+explain poor positional ability in visually impaired individuals,
+especially individuals who have macular degeneration. According to the neural-disarray theory, spatial position “tags” or
+neural signals may be altered or scrambled so that the cellular
+response is mislabeled, coming from the wrong position in
+space. As with the undersampling theory, the origin is presumed to be cortical. However, it is conceivable that in a
+disease such as ARM, photoreceptors could be moved out of
+position by hemorrhage and or drusen resulting in an alteration
+or scrambling of signals. An alternative third explanation could
+be that poor localization may simply be due to visual field
+defects, particularly if these defects are in the central visual
+field. Eccentric viewing caused by a central scotoma would
+also lead to the use of peripheral retina, which has poorer
+localization abilities.70
+It seems plausible that the duration of the visual impairment
+would play an important role in determining level of difficulty;
+however, it was not possible to determine accurately the onset
+of vision loss in most of the subjects who participated in the
+study. The onset of vision loss reported in this study was based
+on the subject’s memory, which may not have been accurate.
+Many subjects reported that they could not remember which
+eye had been affected first and were reporting approximate
+values for onset. One would expect that the longer the duration, the more likely it would be that the individual would have
+adapted to the visual loss. Several of the visually impaired
+subjects in the study had one eye that was more severely
+affected, and some of these subjects reported that they had
+great difficulty in judging distances and depth at the onset of
+TABLE 3. Multivariate Regression Model
+Variable
+
+B
+
+Std. Error
+
+Constant
+Vernier acuity
+Contrast sensitivity
+
+⫺0.28
+⫺4.8E-03
+1.43
+
+0.92
+0.01
+0.59
+
+Prediction of self-reported localization difficulty from vernier acuity and contrast sensitivity.
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+their vision loss; however, they were able to adapt to their loss
+within a few months. Most of the subjects reported stable
+vision for several months before this study. It may be that if
+vision is constantly changing, individuals experience greater
+difficulty, since they have to readapt constantly to their new
+visual status.
+An interesting aspect of this study was that only 5 of the 42
+visually impaired subjects had measurable stereo acuity on the
+Frisby test. Rubin et al.71 tested individuals using the Randot
+Circles test (Stereo Optical, Chicago, IL) and found that elderly
+individuals who have four or more lines of difference (0.4
+logMAR or greater) in visual acuity or 0.60 log units or more of
+difference in contrast sensitivity between the two eyes, lacked
+stereo acuity. All the five individuals who had measurable
+stereo acuity in the present study had acuity differences of less
+than 0.4 and contrast differences of less than 0.6 log units
+between the two eyes. Nine other subjects also had similar
+acuity and contrast differences, yet did not demonstrate measurable stereo acuity. Most of these nine subjects had only
+slight to moderate difficulty in performing localization tasks,
+and it was surprising to note that they lacked stereo acuity. It
+is hard to establish what could be the cause of this, even after
+accounting for the fact that all the subjects who took part in
+the present study were elderly and that stereo acuity declines
+with age.72,73 One possibility is that subjects were not able to
+see the pattern on the Frisby test plates, but that seems unlikely, because the Frisby test plates are of high contrast and all
+the subjects who participated in the study reported that the
+patterns on the Frisby plates were visible. Likely causes for this
+decline should be investigated further.
+The SLQ can be used to measure self reported difficulty
+with real world localization tasks. The questionnaire takes less
+than 15 minutes to administer and does not involve complicated equipment. Information can also be gained by measuring
+contrast sensitivity, which would probably be the preferred
+method of choice for clinicians. Vernier acuity testing requires
+more sophisticated instrumentation that limits its use to a
+laboratory; however, it may be possible to design a simple
+vernier test that can be used in a clinical setting. Further
+research should be undertaken to explore this possibility.
+Various studies have shown that visual tasks such as vernier
+acuity improve with practice.74,75 However, most of these
+studies have found that training an individual on one task does
+not necessarily lead to improvement on another task, and many
+practice sessions are required before thresholds improve (see,
+for example, Fendick and Westheimer76). Therefore training
+for visually impaired subjects would probably be best directed
+to the task itself rather than the underlying visual function.
+Another practical recommendation for individuals with spatial
+
+
+[page 7]
+84
+
+Subramanian and Dickinson
+
+localization difficulties would be to improve the contrast of the
+task.
+
+References
+1. Friedman SM, Munoz B, Rubin GS, West SK, Bandeen-Roche K,
+Fried LP. Characteristics of discrepancies between self-reported
+visual function and measured reading speed. Invest Ophthalmol
+Vis Sci. 1999;40:858 – 864.
+2. Noe G, Ferraro J, Lamoureux E, Rait J, Keeffe JE. Associations
+between glaucomatous visual field loss and participation in activities of daily living. Clin Exp Ophthalmol. 2003;31:482– 486.
+3. Rubin GS, Bandeen-Roche K, Prasada-Rao P, Fried LP. Visual impairment and disability in older adults. Optom Vis Sci. 1994;71:
+750 –760.
+4. Horowitz A. Vision impairment and functional disability among
+nursing home residents. Gerontologist. 1994;34:316 –323.
+5. Salive ME, Guralnik J, Glynn RJ, Christen W, Wallace RB, Ostfeld
+AM. Association of visual impairment with mobility and physical
+function. J Am Geriatr Soc. 1994;42:287–292.
+6. Turano K, Schuchard RA. Space perception in observers with
+visual field loss. Clin Vis Sci. 1991;6:289 –299.
+7. Turano K. Bisection judgements in patients with retinitis pigmentosa. Clin Vis Sci. 1991;6:119 –130.
+8. Westheimer G. Visual acuity and hyperacuity. Invest Ophthalmol.
+1975;14:570 –571.
+9. McKee SP. The physical constraints of visual hyperacuity. In:
+Kulikowski JJ, Walsh V, Murray IJ, eds. Limits of Vision. Basingstoke, UK: Macmillan; 1991:221–223.
+10. Piltz JR, Swindale NV, Drance SM. Vernier thresholds and alignment bias in control, suspect, and glaucomatous eyes. J Glaucoma. 1993;2:87–95.
+11. McKendrick A, Johnson CA, Anderson AJ, Fortune B. Elevated
+vernier acuity thresholds in Glaucoma. Invest Ophthalmol Vis Sci.
+2002;43:1393–1399.
+12. Levi DM, Klein SA. Spatial localisation in normal and amblyopic
+vision. Vision Res. 1983;23:1005–1017.
+13. Bedell H, Flom CM, Barbeito R. Spatial aberrations and acuity in
+strabismus and amblyopia. Invest Ophthalmol Vis Sci. 1985;26:
+909 –916.
+14. Hess RF, Holliday IE. The spatial localisation defect in amblyopia.
+Vision Res. 1991;32:1319 –1339.
+15. Birch EE, Swanson WH. Hyper acuity deficits in amblyopic and
+strabismic amblyopes with known ages of onset. Vision Res. 2000;
+40:1035–1040.
+16. Enoch JM, Giraldez-Fernandez MJ, Knowles R, et al. Hyper acuity
+test to evaluate vision through dense cataracts; research preliminary to a clinical study. I. Studies conducted at the University of
+California at Berkeley before travel to India. Optom Vis Sci. 1995;
+72:619 – 629.
+17. Enoch JM, Baraldi P, Lakshminarayan V, Savage GL, Fendick M.
+Measurement of metamorphopsia in the presence of ocular media
+opacities. Am J Optom Physiol Opt. 1988;65:349 –353.
+18. Mangione CM, Lee PP, Pitts J, Gutierrez P, Berry S, Hays RD.
+Psychometric properties of the National Eye Institute Visual Function Questionnaire (NEI-VFQ). Arch Ophthalmol. 1998;116:1496 –
+1504.
+19. Hart PM, Chakravarthy U, Jamison JQ. A vision specific functional
+index for use in patients with age related macular degeneration.
+Br J Ophthalmol. 1999;83:1115–1120.
+20. Wolffsohn JS, Cochrane AL. Design of Low Vision Quality of Life
+Questionnaire (LVQOL) and measuring the outcome of low vision
+rehabilitation. Am J Ophthalmol. 2000;130:793– 802.
+21. Haymes SA, Johnson CA, Heyes AD. The development of the
+Melbourne Low Vision ADL Index. Invest Ophthalmol Vis Sci.
+2001;42:1215–1225.
+22. Stelmack JA, Szlyk JP, Stelmack TR, et al. Psychometric properties
+of the Veterans Affairs Low-Vision Visual Functioning Questionnaire. Invest Ophthalmol Vis Sci. 2004;45:3919 –3928.
+23. Funaishi S. Ueber das Zentrum der Sehrichtungen. Albrecht von
+Graefes Arch Ophthalmol. 1926;117:296 –303.
+24. Howard IP, Templeton WB. Human Spatial Orientation. London:
+Wiley; 1966.
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+IOVS, January 2006, Vol. 47, No. 1
+25. Lewald J, Ehrenstein WH. Visual and proprioceptive shift in perceived egocentric direction induced by eye position. Vision Res.
+2000;40:539 –547.
+26. Epstein W, Park J, Casey A. The current status of the size-distance
+hypothesis. Psychol Bull. 1961;58:491–514.
+27. Epstein W. Stability and Constancy in Visual Perception: Mechanisms and Processes. New York: Wiley; 1977.
+28. Subramanian A, Dickinson C. Size constancy in visual impairment:
+a comparison with normally sighted individuals. Ophthalmic
+Physiol Opt. 2004;24:610 – 612.
+29. Cobo-Lewis AB, Siatkowski MR, Lavina AM, Marquez LC. Poor
+stereopsis can support size constancy in albinism. Invest Ophthalmol Vis Sci. 1997;38:2800 –2809.
+30. Reischies FM, Geiselmann B. Age related cognitive decline and
+vision impairment affecting the detection of dementia syndrome in
+old age. Br J Psychiatry. 1997;171:449 – 451.
+31. Rosser DA, Cousens SN, Murdoch IE, Fitzke FW, Laidlaw, DAH.
+How sensitive to clinical change are ETDRS logMAR visual acuity
+measurements? Invest Ophthalmol Vis Sci. 2003;44:3278 –3281.
+32. Steinberg EP, Tielsch JM, Schein OD, et al. The VF-14. An index of
+functional visual impairment in patients with cataract. Arch Ophthalmol. 1994;112:630 – 637.
+33. Frost NA, Sparrow JM, Durant JS, Donovan JL, Peters TJ, Brookes
+ST. Development of a questionnaire for measurement of vision
+related quality of life. Ophthalmic Epidemiol. 1998;5:185–210.
+34. Sumi I, Matsumoto S, Okajima O, Shirato S. The relationship between visual disability and visual scores in patients with retinitis
+pigmentosa. Jpn J Ophthalmol. 2000;44:82– 87.
+35. Hassel JB, Weih LM, Keeffe, JE. A measure of handicap for low
+vision rehabilitation: the impact of vision impairment profile. Clin
+Exp Ophthalmol. 2000;28:156 –161.
+36. Dahlin-Ivanoff S, Sonn U, Svensson E. Development of an ADL
+Instrument targeting elderly persons with age-related macular degeneration. Disabil Rehabil. 2001;23:69 –79.
+37. Rasch G. Probabilistic Models for Some Intelligence and Attainment Tests. Copenhagen: Denmarks Paedogogiske Institut; 1960:
+62–125.
+38. Turano K, Geruschat DR, Stahl JW, Massof RW. Perceived visual
+ability for independent mobility in persons with retinitis pigmentosa. Invest Ophthalmol Vis Sci. 1999;40:865– 877.
+39. Velozo CA, Mallinson T, Hauselman E. Maintaining instrument
+quality while reducing items: application of Rasch analysis to a self
+report visual function. J Outcome Meas. 2000;4:667– 680.
+40. Massof RW, Fletcher DC. Evaluation of the NEI visual functioning
+questionnaire as an interval measure of visual ability in low vision.
+Vision Res. 2001;41:397– 413.
+41. Pesudovs K, Garamendi E, Keeves JP, Elliott DB. The Activities of
+Daily Vision Scale for Cataract Surgery Outcomes: Re-evaluating
+validity with Rasch analysis. Invest Ophthalmol Vis Sci. 2003;44:
+2892–2899.
+42. Bond TG, Fox CM. Applying the Rasch Model: Fundamental
+Measurement in the Human Science. Toledo, OH: University of
+Toledo; 2001.
+43. Ferris FL, Kassoff A, Bresnick GH, Bailey IL. New visual acuity
+charts for clinical research. Am J Ophthalmol. 1982;94:91–96.
+44. Mansfield JS, Ahn SJ, Legge GE, Leubeker A. A new reading acuity
+chart for normal and low vision. Ophthalmic Vis Opt. 1993;3:232–
+235.
+45. Pelli DG, Robson JG, Wilkins AJ. The design of a new letter chart
+for measuring contrast sensitivity. Clin Vision Sci. 1988;2:187–
+199.
+46. Sasieni LS. The Frisby Stereotest. The Optician. 1978;176(4544):
+7– 8, 10.
+47. Frisby J. The Frisby Stereo test: amended instructions. Br Orthop J.
+1980;37:108 –112.
+48. Wang H, Levi D, Klein S. Intrinsic uncertainty and integration
+efficiency in bisection acuity. Vision Res. 1996;36:717–739.
+49. Smith RM, Linacre JM, Smith EV Jr. Guidelines for manuscripts.
+J Appl Meas. 2003;4:198 –204.
+50. Rubin GS, Bandeen-Roche K, Huang GH, et al. The association of
+multiple visual impairments with self-reported visual disability: SEE
+project. Invest Ophthalmol Vis Sci. 2001;42:64 –72.
+
+
+[page 8]
+IOVS, January 2006, Vol. 47, No. 1
+51. Rubin GS, Legge GE. Psychophysics of reading. VI. The role of
+contrast in low vision. Vision Res. 1989;29:79 –91.
+52. Whittaker SG, Lovie-Kitchin J. Visual requirements for reading.
+Optom Vis Sci. 1993;70:54 – 65.
+53. Leat S, Woo G. The validity of current clinical tests of contrast
+sensitivity and their ability to predict reading speed in low vision.
+Eye. 1997;11:893– 899.
+54. Marron JE, Bailey IL. Visual factors and orientation-mobility performance. Am J Optom Physiol Opt. 1982;59:413– 426.
+55. Owsley C, Sloane ME. Contrast sensitivity, acuity and perception
+of “real world’’ targets. Br J Ophthalmol. 1987;71:791–796.
+56. Haymes S, Guest D, Heyes A, Johnston A. Mobility of people with
+retinitis pigmentosa as a function of vision and psychological
+variables. Optom Vis Sci. 1996;10:621– 637.
+57. Haymes SA, Johnston AW, Heyes AD. Relationship between vision
+impairment and ability to perform activities of daily living. Ophthalmic Physiol Opt. 2002;22:79 –91.
+58. Mangione CM, Gutierrez PR, Lowe G, Orav EJ, Seddon JM. Influence of age-related maculopathy on visual functioning and health related quality of life. Am J Ophthalmol. 1999;128:45–53.
+59. Gothwal VK, Lovie-Kitchin JE, Nutheti R. The development of the
+LV Prasad-Functional Vision Questionnaire: a measure of performance of visually impaired children. Invest Ophthalmol Vis Sci.
+2003;44:4131– 4139.
+60. Nutheti R, Shamanna BR, Krishnaiah S, Gothwal VK, Thomas R,
+Rao GN. Perceived visual ability for functional vision performance
+among persons with low vision in the Indian state of Andhra
+Pradesh. Invest Ophthalmol Vis Sci. 2004;45:3458 –3465.
+61. Szlyk JP, Arditi A, Coffey B, Bucci PC, Laderman D. Self report in
+functional assessment of low vision. J Vis Imp Blind. 1990;84:61–
+66.
+62. Rosenbloom A. Physiological and functional aspects of aging, vision and vision impairment. Vision and Aging: Crossroads for
+Service Delivery. New York: American Foundation for the Blind;
+1992.
+
+Downloaded From: https://iovs.arvojournals.org/ on 12/14/2018
+
+Spatial Localization in Visual Impairment
+
+85
+
+63. Davis C, Lovie-Kitchin J, Thompson B. Physiological adjustment to
+age related macular degeneration. J Vis Imp Blind. 1995;89:16 –27.
+64. Jang Y, Mortimer JA, Haley WE, Small BJ, Hnath Chisolm TE,
+Graves AB. The role of vision and hearing in physical, social, and
+emotional functioning among older adults. Res Aging. 2003;25:
+172–191.
+65. Lamoureux EL, Hassell JB, Keeffe JE. The determinants of participation in activities of daily living in people with impaired vision.
+Am J Ophthalmol. 2004;137:265–270.
+66. Schuchard RA, Raasch TW. Retinal locus for fixation: pericentral
+fixation targets. Clin Vis Sci. 1992;7:511–520.
+67. Levi DM, Klein R. Sampling in spatial vision. Nature. 1986;320:
+360 –362.
+68. Hess RF, Campbell FW, Greenhalgh T. On the nature of the neural
+abnormality in human amblyopia: neural aberrations and neural
+sensitivity loss. Pflugers Arch. 1978;377:201–207.
+69. Young RW. Pathophysiology of age-related macular degeneration.
+Surv Ophthalmol. 1987;31:291–306.
+70. Westheimer G. The spatial grain of the perifoveal visual field.
+Vision Res. 1982;22:157–162.
+71. Rubin GS, West SK, Munoz B, et al. A comprehensive assessment
+of visual impairment in a population of older Americans: The SEE
+study. Invest Ophthalmol Vis Sci. 1997;38:557–568.
+72. Brown B, Yap M, Fan WCS. Decrease in stereo acuity in the
+seventh decade of life. Ophthalmic Physiol Opt. 1993;13:38 –142.
+73. Schneck ME, Portnoy-Haegerstrom G, Lott LA, Brabyn JA. Ocular
+contributions to age related loss in coarse stereopsis. Optom Vis
+Sci. 2000;7:531–536.
+74. McKee SP, Westheimer G. Improvement in vernier acuity with
+practice. Percept Psychol. 1978;24:258 –262.
+75. Levi DM, Polat U, Ying-Sheng H. Improvement in acuity in adults
+with amblyopia: practice makes better. Vision Res. 1997;38:1493–
+1510.
+76. Fendick M, Westheimer G. Effects of practice and separation of
+test targets on foveal and peripheral stereo acuity. Vision Res.
+1983;23:145–150.
+

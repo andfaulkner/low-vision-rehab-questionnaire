@@ -1,0 +1,448 @@
+[page 1]
+1040-5488/07/8408-0785/0 VOL. 84, NO. 8, PP. 785–788
+OPTOMETRY AND VISION SCIENCE
+Copyright © 2007 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Predicting Perceived Quality of Life Scores
+From the National Eye Institute 25-Item Visual
+Function Questionnaire
+STEVEN J. LA GROW, EdD
+School of Health Sciences, Massey University, Palmerston North, New Zealand
+
+ABSTRACT
+Purpose. This study set out to determine the degree to which the composite score of the National Eye Institute 25-item
+Visual Function Questionnaire (VFQ-25) predicted perceived quality of life (PQoL) as measured by a single-item global
+measure of quality of life (QoL) and therefore, the extent to which the two were measuring the same construct.
+Methods. Hierarchical multiple regression was used to determine the ability of VFQ-25 to predict PQoL, while controlling
+for other variables significantly correlated with PQoL. The latter were entered as independent variables in the first step
+of this analysis and VFQ-25 in the second. This model determines the degree to which VFQ-25 predicted PQoL when all
+other variables were controlled for.
+Results. Of the other variables assessed, only general health and group affiliation were found to be significantly correlated with
+PQoL. These variables, entered in step 1 of the analysis, explained 24.3% of the variance (adjusted r2 ⫽ 0.243) in PQoL. When
+VFQ-25 was entered in step 2, the model then explained 29.3% (adjusted r2 ⫽ 29.3) of the variance or an additional 5% when
+the effects of the other two variables were controlled for (r2 change ⫽ 0.050, p ⫽ 0.001). In other words, VFQ-25 only predicted
+5% of the variance found in PQoL. Therefore, 95% of the variance was not explained by this measure.
+Conclusions. It is clear from the results of this study that VFQ and PQoL were not measuring the same construct. It is also
+apparent that the single-item global measure of QoL did indeed ask participants to rate their PQoL. Thus, we may
+conclude that the measure of vision-related QoL used in this study did not measure PQoL. Further research is required
+to determine the extent to which this finding may apply to other measures of vision-related QoL.
+(Optom Vis Sci 2007;84:785–788)
+Key Words: vision-related quality of life, multi-item measure of quality of life, single-item global measure of quality of
+life, perceived quality of life, quality of life, visual impairment, NEI-VFQ-25
+
+T
+
+he use of quality of life (QoL) as an outcome measure has
+become increasingly common in vision-related research.1
+Although a number of general and health-related QoL measures are in use, there has been a sharp rise in the number and use
+of condition-specific, vision-related QoL measures appearing in
+the literature in the last several years. For example, a recent systematic review identified 31 vision-related QoL measures of which 24
+were first published in the last 10 years.2 Despite the fact that QoL
+is fast becoming the outcome measure of choice in this area,3 and
+most other areas of health and disability research,4 there is little
+agreement on what constitutes QoL.3,4 However, there is considerable agreement that it is a multidimensional construct, which
+may include functional ability, degree and quality of social and
+community interaction, psychological well-being, somatic sensa-
+
+tion (pain) and satisfaction with life.3,4 General QoL measures
+tend to include items from all these domains, whereas condition specific QoL instruments usually do not.2 This practice is reflected
+in the existing vision-related QoL measures, where 6 of the 31
+measures identified included 4 of the 5 domains listed above, 5
+included 3, 13 included 2, and 7 only 1. As a result of the diversity
+in the number and range of domains measured, it would be difficult to say that all are measuring the same construct under the
+heading QoL. Furthermore, none appeared to have included satisfaction with life as a dimension to be measured.2 As such, it may
+also be difficult to say that any of the vision-related QoL measures
+currently available are directly measuring the construct which most
+individuals are likely to perceive as constituting QoL when asked to
+rate their own4 (i.e., how satisfied am I with my life at this time?).
+
+Optometry and Vision Science, Vol. 84, No. 8, August 2007
+
+
+[page 2]
+786 The NEI-VFQ Predicts Overall Quality of Life Poorly—La Grow
+
+Yet, the majority of vision-related QoL measures were developed
+from the premise that improved perception of QoL by clients or
+patients may be the most meaningful outcome for low vision or
+vision rehabilitation services.1,3 However, rather than measuring
+perception of QoL directly, most tend to measure those things that
+are expected to impact QoL,5 like function (i.e., 28 of the 31
+include a functional domain and 6 measure function only). Although these instruments may provide valuable information on the
+impact of visual impairment on myriad factors affecting one’s daily
+life, they probably are not measuring the impact of visual impairment and/or vision-related services on perceived QoL (PQoL).1
+The purpose of this paper is to determine the degree to which
+scores from a vision-related QoL measure are related to scores from
+a single-item global measure of PQoL to test this premise. Global
+measures of QoL examine the whole of life and appear to measure
+a different construct than that measured by condition- or disease specific QoL measures.4,6 This may be especially true with a single item global measure of QoL (i.e., in the past 6 months, I would say
+my QoL has been: Excellent, very good, good, fair, poor) where the
+participants are asked to determine the meaning of the construct of
+QoL for themselves as they respond to the item. Single-item global
+measures of general health,7 oral health,8 depression,9 physical
+activity,10 stress11 and QoL12–14 have been shown to be reliable,
+responsive, and highly correlated with multiple-item measures of
+the same construct.
+
+METHODS
+The present study uses multiple regression to analyze pretest
+data from both groups of an experimental/control group study
+designed to investigate the effectiveness of comprehensive low vision services with 186 older visually impaired people. The selection
+process, procedures and results of that study have been reported.15
+The research followed the tenets of the Declaration of Helsinki and
+informed consent was obtained from all participants. Ethical approval was granted by the Wellington Ethics Committee for that
+study and follow-up analyses. Three primary dependent measures
+were used, including a measure of instrumental activities of daily
+living, the National Eye Institute Visual Function Questionnaire-25
+(NEI-VFQ-25)16 and a single-item global measure of QoL. The
+latter two are used as the independent and dependent variables
+respectively for the analysis presented here.
+The NEI-VFQ-25 consists of 25 questions representing 11
+vision-related constructs plus an additional single-item rating
+of general health.16 It is available in the public domain, is
+normed, has demonstrated reliability and validity17,18 and was
+specifically designed to assess health-related QoL of persons
+with visual impairment.5 The NEI-VFQ-25 is represented by a
+single composite score obtained by averaging scores from all 11
+vision-related subscales. Calculation of the composite score specifically excludes the scores obtained from the single-item rating of general health.16 This composite score (VFQ-25) is used
+to represent vision-related QoL in this study. A single-item
+global measure of QoL consisting of the statement, “In the past
+6 months, I would say my overall QoL has been excellent, very
+good, good, fair, or poor” was also used. The participants indicated the response that fit best. This measure is used to represent PQoL in this study. Responses from both measures were
+
+transformed so that positive responses had higher values. The
+response categories were weighted as 1 ⫽ 0, 2 ⫽ 25, 3 ⫽ 50,
+4 ⫽ 75, 5 ⫽ 100.
+Hierarchical multiple regression was used to determine the
+ability of the composite score of a vision-related QoL measure
+(VFQ-25) to predict PQoL while controlling for any other
+variables significantly correlated with PQoL. The relationship
+between the single-item rating of general health and PQoL was
+also assessed, as general health is excluded from the composite
+score of the NEI-VFQ-25 and is known to be correlated with
+PQoL.4 The relationships between age, gender, visual acuity,
+and group affiliation (control/experimental) and PQoL were
+assessed as well. Group affiliation was included in this analysis
+as it had already been seen to result in significantly different
+PQoL scores in this sample at pretest.15 Any variable found to
+be significantly correlated with PQoL was entered as an independent variable in the first step of this analysis (model 1).19
+The composite score for the NEI-VFQ-25 was entered as an
+independent variable in the second step (model 2). The model
+as a whole (model 2) was analyzed to determine the degree to
+which VFQ-25 predicted PQoL when all other variables significantly related to PQoL were controlled.
+Data were analyzed using a total of 184 of the original 186 cases,
+as two had missing data for at least one of the two primary variables
+of interest. The 184 cases represented 56 males and 128 females;
+their mean age was 80.5 and ranged from 65 to 96. Ninety-six
+percent identified (n ⫽ 177) themselves as New Zealanders of
+European origin. Sixty-eight percent (n ⫽ 125) said they had
+health conditions other than visual impairment, which affected
+their daily life. Nearly half (n ⫽ 90) reported living alone, while
+43% (n ⫽ 80) said they lived with a spouse or other family member
+and 8% (n ⫽ 14) said they lived with others in a hostel, nursing
+home, or residential care facility. The majority of participants (n ⫽
+107) had a distance visual acuity in the better eye while wearing
+correction of between 20/100 and 20/200, whereas 26% (n ⫽ 47)
+had an acuity rating worse than 20/200, and the remaining 16%
+(n ⫽ 30) had an acuity rating between 20/40 and 20/80.
+
+RESULTS
+Mean PQoL was 52.99 (SD ⫽ 27.12) for the entire sample.
+Mean VFQ-25 was 51.60 (SD ⫽ 13.84), and the mean score for
+general health was 52.45 (SD ⫽ 25.62). As can be seen in Table 1,
+both VFQ-25 and the score for general health were significantly
+and positively correlated with PQoL (p ⬍ 0.0005), with the
+strength of the relationship being moderate for general health (r ⫽
+0.442) and weak for VFQ-25 (r ⫽ 0.276). Group affiliation was
+the only other variable of interest, which was found to be significantly correlated with PQoL (r ⫽ 0.253, p ⫽ 0.001). The strength
+of the relationship was weak. The correlations between age (r ⫽
+⫺0.110, p ⫽ 0.137), gender (r ⫽ ⫺0.031, p ⫽ 0.672), visual
+acuity (r ⫽ ⫺0.007, p ⫽ 0.928), and PQoL did not reach significance. Therefore, general health and group affiliation were the
+only independent variables entered into step 1 of the analysis. The
+assumptions underlying multiple regression were checked and
+none were found to be violated.
+As can be seen in Table 2, the independent variables of general
+health and group affiliation entered in step 1 of the model explains
+
+Optometry and Vision Science, Vol. 84, No. 8, August 2007
+
+
+[page 3]
+The NEI-VFQ Predicts Overall Quality of Life Poorly—La Grow
+
+787
+
+TABLE 1.
+Correlation matrix of all variables under consideration
+Variable
+1. PQOL
+2. VFQ
+3. General health
+4. Group affiliation
+5. Age
+6. Gender
+7. Visual acuity
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0.276a
+0.442a
+0.253a
+⫺0.110
+⫺0.031
+⫺0.007
+
+0.133
+⫺0.066
+⫺0.122
+⫺0.013
+⫺0.014
+
+0.145b
+0.010
+0.003
+⫺0.025
+
+⫺0.019
+0.008
+⫺0.051
+
+0.124
+⫺0.037
+
+0.033
+
+Spearman’s ␳ for noncontinuous data.
+Correlation is significant at the 0.001 level (two-tailed).
+b
+Correlation is significant at the 0.05 level (two-tailed).
+a
+
+TABLE 2.
+Hierarchical multiple regression of general health, group affiliation, and VFQ as predictors of PQoL
+Model
+
+Variables entered
+
+R
+
+R2
+
+Adj R2
+
+F
+
+p
+
+1.
+
+General health
+Group affiliation
+General health
+Group affiliation
+VFQ
+
+0.501
+
+0.251
+
+0.243
+
+30.22
+
+⬎0.0005
+
+0.552
+
+0.305
+
+0.293
+
+26.16
+
+⬎0.0005
+
+2.
+
+24.3% of variance (adjusted r2 ⫽ 0.243) in PQoL, which is a
+significant amount (F ⫽ 30.22, p ⬍ 0.0005). When VFQ-25 is
+entered in step 2, the model as a whole explains 29.3% (adjusted
+r2 ⫽ 29.3) of the variance in PQoL. Thus, VFQ-25 was found to
+explain an additional 5% of the variance in PQoL when the effects
+of general health and group affiliation were statistically controlled
+for (r2 change ⫽ 0.050). This too was found to be significant (F ⫽
+26.16, p ⬍ 0.0005). All three variables were found to make a
+unique and significant contribution in the prediction of PQoL;
+with general health (␤ ⫽ 0.402, p ⬍ 0.0005) making the greatest
+contribution to this equation, followed by VFQ-25 (␤ ⫽ 0.235,
+p ⬍ 0.0005) and then group affiliation (␤ ⫽ 0.205, p ⫽ 0.001).
+
+DISCUSSION
+Of all the variables assessed (i.e., age, gender, visual acuity,
+group affiliation, general health, VFQ-25), only general health,
+group affiliation, and VFQ-25 were found to be significantly correlated with PQoL. When general health and group affiliation were
+entered into step 1 (model 1) of the equation for hierarchal regression, it was found that, together, they explained 24.3% of variance
+in PQoL. When these two variables were controlled for in model 2,
+it was found that VFQ-25 significantly contributed to the prediction of PQoL. However, that additional contribution was just 5%.
+Therefore, it is clear from this analysis that the composite score
+of the NEI-VFQ-25 and the single-item measure used to assess
+PQoL were not measuring the same construct. It is also clear from
+examining the question asked that the single-item global measure
+of QoL was asking the participants to rate their PQoL. However,
+whether this is an adequate measure of quality life rests on its face
+validity. In other words, the reader must decide if asking the participants to “rate their QoL in the last 6 months as excellent, very
+
+␤
+
+p
+
+0.402
+0.205
+0.235
+
+⬎0.0005
+0.0010
+⬎0.0005
+
+good, good, fair or poor” should result in a response that would
+adequately represent their perception of QoL in terms of life satisfaction. And if so, if a response to this question would represent a
+multifaceted perception of one’s QoL, likely to include various
+domains of life important to those responding.
+Life satisfaction has been defined as a global assessment of a
+person’s QoL according to one’s own criteria.20 Judgments of life
+satisfaction are based on a comparison with a standard which individuals set for themselves; it is not externally imposed.21 Clearly,
+this is different from health-related QoL, of which vision-related
+QoL measures are a subset. In health-related QoL, a range of
+domains are assessed, which are judged to affect QoL, and scores
+are compiled over those domains to obtain an overall measure of
+QoL.21 As such, we would not expect one measure to perfectly
+predict the other as they are not identical measures of the same
+construct. However, a reasonable amount of prediction from one
+measure to the other (e.g., 30% to 40% or more) would be expected if they were indeed assessing the same general construct
+(i.e., QoL). The finding that VFQ only predicted 5% of the variance in PQoL in this study is far below that expectation.
+This is somewhat surprising as the VFQ-25 has received reasonably high ratings for content validity, has a relatively positive rating
+for construct validity, and was rated as one of the best vision related QoL measures, in terms of its psychometric properties, for
+use with visually impaired persons in general.2 The VFQ-25 clearly
+addresses most of the domains thought to be related to QoL
+including functional ability, degree and quality of social and
+community interaction, psychological well-being, and somatic
+sensation (pain).3,4 Of the 11 subscales included in the composite score, five relate to visual function and/or functional
+limitations imposed by visual impairment, one addresses ocular
+
+Optometry and Vision Science, Vol. 84, No. 8, August 2007
+
+
+[page 4]
+788 The NEI-VFQ Predicts Overall Quality of Life Poorly—La Grow
+
+pain, and one addresses driving limitations. The remaining four
+are more global covering social functioning, mental health, role
+difficulties, and dependency.16 Yet, all are worded in such a way
+that they are restricted to limitations imposed by vision and therefore do not address life as a whole (i.e., limitations imposed by
+other conditions or economic and environmental circumstances)
+and none directly address the individual’s satisfaction with life or
+overall perception of QoL. The one question relating to overall
+health, which was not restricted to visual impairment (i.e., general
+health), was found to make the greatest contribution in predicting
+PQoL of the three variables assessed. However, this question is
+deliberately excluded from the composite score. With that measure
+included, the instrument would explain a much greater proportion
+of variance in PQoL than it does presently. Yet, it still would not
+exceed 30%.
+Therefore, it appears that the NEI-VFQ-25, especially as represented by its composite score, is more a measure of visual disability
+rather than QoL, as it has been previously characterized.22 Although
+measures of visual disability can provide valuable information about
+functional limitations caused by vision loss, they are not expected to
+measure the impact of vision loss on QoL.1 Thus, if one of the purposes of using QoL as an outcome measure is to identify an improvement in PQoL by clients or patients as a result of receiving low vision
+or vision-related services, as it has been stated,1, 3 then it appears that
+this measure of vision-related QoL will not meet that goal. A measure
+that directly assesses PQoL should be used. Such a measure may of
+course be used in addition to any other measure of outcome employed,
+as PQoL, especially as assessed by a single-item global measure of QoL,
+only provides one view of QoL.13 Although it may in some way include all factors affecting QoL,4 it will not provide information concerning those factors.13 Further research is required to determine the
+extent to which this finding may apply to other measures of vision related QoL.
+Received September 20, 2006; accepted November 21, 2006.
+
+REFERENCES
+1. Mitchell J, Wolffsohn JS, Woodcock A, Anderson SJ, McMillan CV,
+ffytche T, Rubinstein M, Amoaku W, Bradley C. Psychometric evaluation of the MacDQoL individualised measure of the impact of
+macular degeneration on quality of life. Health Qual Life Outcomes
+2005;3:25. Available online at: http://hqlo.com/content/pdf/14777525-3-25.pdf. Accessed August 3, 2006.
+2. de Boer MR, Moll AC, de Vet HC, Terwee CB, Volker-Dieben HJ,
+van Rens GH. Psychometric properties of vision-related quality of life
+questionnaires: a systematic review. Ophthal Physiol Opt 2004;24:
+257–73.
+3. Stelmack JA, Stelmack TR, Massof RW. Measuring low-vision rehabilitation outcomes with the NEI VFQ-25. Invest Ophthalmol Vis
+Sci 2002;43:2859–68.
+4. Bowling A. Measuring Health: A Review of Quality of Life Measurement Scales, 2nd ed. Buckingham, UK: Open University Press; 1997.
+5. Massof RW, Fletcher DC. Evaluation of the NEI visual functioning
+questionnaire as an interval measure of visual ability in low vision. Vis
+Res 2001;41:397–413.
+
+6. Anderson RM, Fitzgerald JT, Wisdom K, Davis WK, Hiss RG. A
+comparison of global versus disease-specific quality-of-life measures
+in patients with NIDDM. Diabetes Care 1997;20:299–305.
+7. DeSalvo KB, Fisher WP, Tran K, Bloser N, Merrill W, Peabody J.
+Assessing measurement properties of two single-item general health
+measures. Qual Life Res 2006;15:191–201.
+8. Benyamini Y, Leventhal H, Leventhal EA. Self-rated oral health as an
+independent predictor of self-rated general health, self-esteem and life
+satisfaction. Soc Sci Med 2004;59:1109–16.
+9. Paz SH, Globe DR, Wu J, Azen SP, Varma R. Relationship between
+self-reported depression and self-reported visual function in Latinos.
+Arch Ophthalmol 2003;121:1021–7.
+10. Li S, Carlson E, Holm K. Validation of a single-item measure of usual
+physical activity. Percept Mot Skills 2000;91:593–602.
+11. Littman AJ, White E, Satia JA, Bowen DJ, Kristal AR. Reliability and
+validity of 2 single-item measures of psychosocial stress. Epidemiology 2006;17:398–403.
+12. de Boer AG, van Lanschot JJ, Stalmeier PF, van Sandick JW,
+Hulscher JB, de Haes JC, Sprangers MA. Is a single-item visual analogue scale as valid, reliable and responsive as multi-item scales in
+measuring quality of life? Qual Life Res 2004;13:311–20.
+13. Sloan JA, Aaronson N, Cappelleri JC, Fairclough DL, Varricchio C.
+Assessing the clinical significance of single items relative to summated
+scores. Mayo Clin Proc 2002;77:479–87.
+14. Crane HM, Van Rompaey SE, Dillingham PW, Herman E, Diehr P,
+Kitahata MM. A single-item measure of health-related quality-of-life
+for HIV-infected patients in routine clinical care. AIDS Patient Care
+STDS 2006;20:161–74.
+15. La Grow SJ. The effectiveness of comprehensive low vision services
+for older persons with visual impairments in New Zealand. J Visual
+Impair Blin 2004;98:679–92.
+16. Mangione CM. Version 2000: The National Eye Institute 25-item
+Visual Function Questionnaire (VFQ-25). Available at: www.
+nei.nih.gov/resources/visionfunction/manual_cm2000.pdf. Accessed March 5, 2001.
+17. Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S, Hays RD.
+Development of the 25-item National Eye Institute Visual Function
+Questionnaire. Arch Ophthalmol 2001;119:1050–8.
+18. Margolis MK, Coyne K, Kennedy-Martin T, Baker T, Schein O,
+Revicki DA. Vision-specific instruments for the assessment of health related quality of life and visual functioning: a literature review. Pharmacoeconomics 2002;20:791–812.
+19. Tabachnick BG, Fidell LS. Using Multivariate Statistics, 3rd ed. New
+York: HarperCollins College Publishers; 1996.
+20. Shin DC, Johnson DM. Avowed happiness as an overall measure of
+assessment of the quality of life. Soc Indicators Res 1978;5:475–92.
+21. Diener E, Emmons RA, Larsen RJ, Griffin S. The Satisfaction With
+Life Scale. J Pers Assess 1985;49:71–5.
+22. Massof RW. The measurement of vision disability. Optom Vis Sci
+2002;79:516–52.
+
+Optometry and Vision Science, Vol. 84, No. 8, August 2007
+
+Steven J. La Grow
+School of Health Sciences
+Massey University
+Private Bag 11222
+Palmerston North, New Zealand
+e-mail: s.j.lagrow@massey.ac.nz
+

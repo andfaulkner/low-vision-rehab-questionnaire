@@ -1,0 +1,1885 @@
+[page 1]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Intended for healthcare professionals
+
+Journal of Parkinson’s Disease
+
+Impact Factor: 5.9
+5-Year Impact Factor: 5.7
+
+Journal Menu
+
+󩊻 Contents
+
+ PDF/EPUB
+
+󩃿 More
+
+Abstract
+Background:
+Visual impairment is frequent and highly disabling in Parkinson’s disease (PD); however, few
+studies have comprehensively evaluated its impact on vision-related quality of life.
+
+Objective:
+To evaluate the relationship between visual function tests and the visual impairment
+perceived by PD patients in daily living activities.
+
+Methods:
+We cross-sectionally evaluated 62 PD patients and 33 healthy controls (HC). Visual disability
+was measured with a comprehensive battery of primary visual function and visual cognition
+tests (visual outcomes), and vision-related quality of life was evaluated with the National Eye
+Institute 25-Item Visual Function Questionnaire (NEI VFQ-25). The relationship between visual
+outcomes and NEI VFQ-25 sub-scores was analyzed with Pearson’s correlations and stepwise
+linear regression.
+
+PDF
+Help
+
+Results:
+In PD patients, and not in HC, most NEI VFQ-25 sub-scores were significantly correlated with
+Cube Analysis and Dot Counting from Visual Object and Space Perception (VOSP) battery (visual
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+1/36
+
+
+[page 2]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+perception), Clock Drawing Test (visuoconstructive capacity) and Trail Making Test part-A (visual
+attention and processing speed) and to a lesser extent with high- and low-contrast visual
+acuity. Dot Counting (VOSP) was the test primarily associated with most NEI VFQ-25 sub scores (5 out of 12). Roth-28 color test was the one that best explained the variance of
+Peripheral Vision (R2: 0.21) and Role Difficulties (R2: 0.36) sub-scores of NEI VFQ-25, while
+photopic contrast sensitivity explained 41% of Driving sub-score variance.
+
+Conclusion:
+Vision-related quality of life in PD is mainly influenced by alterations in visual perception,
+visuoconstructive capacity and visual attention and processing speed. Future studies are
+warranted to confirm and further extend our findings.
+
+INTRODUCTION
+Visual manifestations of Parkinson’s disease (PD) are gaining importance as key non-motor
+biomarkers of the disease, being now considered potential predictors of cognitive
+deterioration [1]. It is estimated that almost 80% of PD patients report some type of vision related problems [2], including double vision, difficulty reading despite adequate refractive
+correction, freezing of gait in narrow spaces or abnormal judgment of objects when walking,
+and complex visual hallucinations, among others [3, 4]. Moreover, PD patients exhibit
+alterations in visual function, like reduced low-contrast visual acuity and contrast sensitivity,
+impaired perception of colors, patterns, depth and movement of stimuli, and altered highorder visual processing [5]. These visual abnormalities are allegedly caused by PD-related
+injury to the afferent visual pathway, from low-level neural processing structures like the
+retina [6] to high-level visual regions and networks of the brain [7–9]. Visual disability has a
+significant impact on the quality of life of PD patients, affecting activities of daily living (ADL)
+[10, 11] and specific tasks such as driving vehicles [12, 13], use of utensils [14], object
+identification and search [15, 16], facial expression recognition [17], and mobility in low light
+
+PDF
+conditions [18]. Despite this evidence supporting alterations in visual function and reduced
+vision-related quality of life in PD patients, no prior studies have comprehensively evaluated
+Help
+the specific influence that each of the visual function abnormalities has on vision-related
+quality of life, ADL, emotional well-being, or social function in patients with PD. Therefore, in
+this work we aimed to evaluate the relationship between a wide set of primary and highorder visual function tests and the visual limitations reported by patients in PD.
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+2/36
+
+
+[page 3]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+MATERIAL AND METHODS
+Study design and participants
+We performed a cross-sectional study of 62 patients with PD and 33 controls. Study
+participants were recruited between 2015 and 2018 in the Department of Neurology at
+Cruces University Hospital and in the Biscay PD Association (ASPARBI). Patients with PD
+fulfilled Parkinson’s UK Brain Bank criteria for the diagnosis of PD [19], and they were studied
+in an on-medication condition. Among PD patients, n = 49 were idiopathic PD (no first-degree
+relatives with a family history of PD or other movement disorders) and n = 13 genetic PD. Of
+the genetic PD patients, n = 6 were carriers of the E46K mutation of the alpha-synuclein gene
+(PARK1), n = 4 Parkin gene mutation carriers (PARK2), and n = 3 carriers of the leucine-rich
+repeat kinase 2 gene mutation (PARK8) [20]. Control participants were the companions or
+spouses of the patients included in the study and were selected so that they maintained a
+mean age and gender distribution comparable to that of the patients. Before inclusion all
+participants underwent a screening process consisting in a comprehensive questionnaire on
+co-morbidities and an ophthalmological examination, as part of a strict protocol to rule out
+ophthalmological, neurological, or systemic pathologies other than PD that could influence
+visual function. Accordingly, we excluded any subject with history of severe smoking (> 20
+cigarettes/day) or heavy alcohol use (> 4 drinks/day for men or > 3 drinks/day for women),
+diagnosis of any type or grade of diabetes, uncontrolled or resistant elevated blood pressure,
+obesity (body mass index > 30), chronic inflammatory systemic diseases (e.g., lupus
+erythematosus, sarcoid, Bechet disease), carotid or cerebral artery disease, history of brain
+trauma or other central nervous system diseases different from PD. Additionally, candidates
+with spherical equivalent refractive error above 4.00 diopters or more than 3.00 diopters of
+astigmatism or any other ocular condition potentially affecting proper image formation in
+the retina were discarded. Lastly, patients with severe cognitive deterioration meeting the
+clinical criteria for dementia associated with PD were also excluded [21]. The study protocol
+was approved by the regional Basque Clinical Research Ethics Committee. All participants
+gave written informed consent prior to their participation in the study, in accordance with
+the tenets of the Declaration of Helsinki.
+
+PDF
+Help
+
+Demographics and PD-related variables
+Age and sex were recorded for all participants. Two neurologists experienced in the field of
+movement disorders recorded disease duration, Hoehn & Yahr (HY) scale score, Unified
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+3/36
+
+
+[page 4]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Parkinson Disease Rating Scale part I (Mentation, Behavior, and Mood), part II (Activities of
+Daily Living), part III (Motor Manifestations), and part IV (Complications of Therapy), and
+Levodopa Equivalent Daily Dose (LEDD).
+
+Vision-related quality of life
+All participants were evaluated with the National Eye Institute 25-Item Visual Function
+Questionnaire (NEI VFQ-25) [22] which has been validated for Spanish population [23]. The
+questionnaire was administered by a single examiner, expert in neuropsychology. The NEI
+VFQ-25 was initially aimed to measure self-perceived vision-targeted health status of patients
+suffering from chronic eyes diseases, and afterwards it has been used to evaluate visual
+quality of life in patients with neurological diseases, such as multiple sclerosis [24],
+neuromyelitis optica [25], or PD [26]. It consists of 25 vision-targeted questions representing
+11 vision-related domains, each one quantified in 11 independent sub-scores, plus an
+additional 12th sub-score evaluating General Health. Among the 11 vision-related sub-scores
+of the NEI VFQ-25, six quantify the Quality of Vision (global vision rating or General Vision,
+Ocular Pain, difficulty with Near Activities, difficulty with Distance Activities, limitation with
+Peripheral Vision and with Color Vision) and five evaluate Vision-Related Quality of Life
+(limitations in Social Functioning due to vision, Role Difficulties due to vision, Dependency on
+others due to vision, Mental Health symptoms due to vision, Driving difficulties). Using the
+latter 12 NEI VFQ-25 sub-scores, a total Composite NEI VFQ-25 score is calculated ranging from
+0 to 100, with 0 meaning complete loss of perceived visual function and 100 meaning full
+perceived visual function.
+
+Primary visual function
+Visual function was measured binocularly with best-corrected refraction. We registered high contrast and low-contrast visual acuity (VA) as the total number of letters correctly identified
+in, respectively, standard Early Treatment Diabetic Retinopathy Study (ETDRS) charts and
+Sloan 2.5% charts (Precision Vision, La Salle, IL) mounted in a retro-illuminated cabinet at 4
+meters. The ETDRS and Sloan charts have a total of 70 letters each, and the value of VA for
+each is computed as the total number of correctly identified letters out of a total of 70. PDF
+Therefore, the fewer letters identified, the lower the VA. Contrast sensitivity (CS) was
+
+Help
+
+measured with a Pelli-Robson chart at 1 meter under photopic (280 lux) and mesopic (15 lux)
+conditions and the lowest contrast at which two letters in a triplet were correctly identified
+was recorded in standard logCS units. Color vision was evaluated with Roth-28 test, from
+which Total Error Score was calculated.
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+4/36
+
+
+[page 5]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+General cognition and high-order visual function (visual cognition)
+General cognition was assessed with Montreal Cognitive Assessment (MoCA).
+Neuropsychological tests evaluating visual cognition included the number of correct answers
+in Salthouse Perceptual Comparison Test, Symbol Digit Modalities Test, Picture Completion
+subtest of the Wechsler Adult Intelligence Scale (WAIS) IV and the sum of forward and
+backward digit repetition of WAIS III, Benton Judgement of Line Orientation Test (H-form),
+Number Location, Cube Analysis, Dot Counting, Incomplete Letters, and Silhouettes tests of
+the Visual Object and Space Perception (VOSP) battery, time to complete Trail Making Test
+part-A and part-B, Brief Visuospatial Memory Test-Revised (total score + delayed recall),
+Wechsler Memory Scale (WMS) –III Faces test, and the score in Clock Drawing Test (Cacho
+scoring method). Finally, the presence or absence of visual hallucinations within the month
+prior to being included in the study was assessed in patients using the screening section of
+the North-East Visual Hallucinations Interview questionnaire [27].
+
+Statistical analysis
+Statistical analysis was performed in R (version 3.6.1) and RStudio (version 1.2.1335).
+Categorical variables were computed with pairwise Fisher’s exact tests. Continuous variables
+were assessed for normality with Shapiro–Wilks’s test. Normally distributed continuous
+variables were analyzed with T-test and continuous variables that violated this assumption
+were analyzed using Mann–Whitney U test for pairwise comparisons. We calculated Pearson
+correlation coefficients between NEI VFQ-25 subitems and visual outcomes. Correction for
+multiple comparisons was performed via False Discovery Rate (FDR). Then, significantly
+correlated variables were introduced in linear regression analysis with stepwise selection,
+setting visual outcomes as independent predictors and NEI VFQ-25 subitems as dependent
+variables, while controlling for the effect of age and LEDD. The effect size to reflect the
+standardized difference between group means was calculated with Cohen’s d.
+
+RESULTS
+PDF
+
+Demographic and clinical characteristics of study participants are summarized in Table 1. PD
+Help
+patients and controls were comparable in terms of age and gender; however, patients had
+
+significantly fewer years of education and poorer general cognitive performance (MoCA). The
+mean disease duration of PD patients was 6.6±4.6 years, and they presented a mild to
+moderate motor disability, with a median HY score of 2 and mean UPDRS III score of
+26.9±11.7. From the 62 PD patients, 12 (19%) had recently experienced visual hallucinations.
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+5/36
+
+
+[page 6]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+PD patients with visual hallucinations had significantly longer disease duration and higher
+UPDRS III score than the other patients (mean disease duration: 8.4 years versus 6.1 years;
+mean UPDRS III: 33 versus 25; both p < 0.05), but the latter groups did not have significant
+differences in MoCA, in the dosage of levodopa or in the percentage of patients in dopamine
+agonist therapy (data not shown).
+
+Table 1 Demographic and clinical features of participants
+
+Control
+
+PD
+
+p
+
+33
+
+62
+
+–
+
+56.3 (11.7)
+
+58.5 (10.1)
+
+–
+
+Sex (% females)
+
+51.5%
+
+35.5%
+
+–
+
+Education (y)
+
+13.1 (4.6)
+
+10.8 (4.2)
+
+0.032
+
+MoCA, total score
+
+27 (3.2)
+
+24.1 (3.8)
+
+< 0.001
+
+Disease duration (y)
+
+NA
+
+6.6 (4.6)
+
+–
+
+Visual hallucinations (%)
+
+NA
+
+19.3%
+
+–
+
+UPDRS I
+
+NA
+
+2.4 (1.9)
+
+–
+
+UPDRS II
+
+NA
+
+12.5 (6.9)
+
+–
+
+UPDRS III
+
+NA
+
+26.9 (11.7)
+
+–
+
+UPDRS IV
+
+NA
+
+4.5 (3.7)
+
+–
+
+HY (median, IQR)
+
+NA
+
+2 (2 –2.5)
+
+–
+
+n
+Age (y)
+
+PDF
+Help
+
+LEDD (mg)
+
+NA
+
+665.6 (416.8)
+
+–
+
+Sex is expressed as the proportion of females in each group, whereas quantitative data
+is expressed as mean (standard deviation). Ordinal data is expressed as median
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+6/36
+
+
+[page 7]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+(interquartile range). PD, Parkinson’s disease; MoCA, Montreal Cognitive Assessment;
+UPDRS, Unified Parkinson’s Disease Rating Scale; HY, Hoehn and Yahr score; LEDD,
+Levodopa Equivalent Daily Dose.
+
+Vision-related quality of life and PD-related variables
+Table 2 shows the results of NEI VFQ-25 in PD patients and controls. The overall visual quality
+of life represented by the mean Composite NEI VFQ-25 score and the mean General Health sub score were significantly lower in PD patients than in controls. Similarly, the mean sub-scores
+from “Quality of vision” section of NEI VFQ-25, including Near Activities and Distance Activities,
+Ocular Pain and Peripheral Vision, were significantly lower in patients. Contrarily, sub-scores
+from “Vision-Related Quality of Life” section were not statistically different between groups,
+except for Social Functioning and Dependency. Interestingly, patients with visual hallucinations
+had a significantly lower Composite NEI VFQ-25 score than patients without visual
+hallucinations, with respective values of 78 and 91.5 (p = 0.01). When we evaluated the
+relationship between NEI VFQ-25 sub-scores and PD-related variables (UPDRS and disease
+duration) we observed that mental status, behavior, and mood (UPDRS I) and activities of
+daily living (UPDRS II) were positively and significantly correlated with most NEI VFQ-25 sub scores, except for the Driving item. Contrarily, FDR-corrected significant correlations between
+NEI VFQ-25 sub-items and PD motor manifestations (UPDRS III) or treatment complications
+(UPDRS IV) were much less frequent, and only 4 out of 12 subitems of NEI VFQ-25
+significantly correlated with UPDRS IV (data not shown). Disease duration was only correlated
+with “General Health” subitem (r = –0.40, p = 0.001).
+
+Table 2 Results for National Eye Institute Visual 25-Item Visual Function Questionnaire (NEI VFQ-25)
+
+Control
+
+PD
+
+33
+
+62
+
+Composite NEI VFQ-25 score
+
+96.2 (4.7)
+
+88.4 (14.1)
+
+0.62
+
+0.022
+Help
+
+General Health
+
+61.4 (19.9)
+
+37 (20.4)
+
+0.96
+
+< 0.001
+
+n
+
+Effect size
+
+p
+–
+
+PDF
+
+Quality of vision
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+7/36
+
+
+[page 8]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Control
+
+PD
+
+Effect size
+
+p
+
+General Vision
+
+81.8 (12.6)
+
+76.4 (14.8)
+
+0.27
+
+–
+
+Ocular Pain
+
+93.2 (12.1)
+
+84.8 (18.4)
+
+0.42
+
+0.024
+
+Near Activities
+
+96.5 (9.8)
+
+88.1 (19.6)
+
+0.46
+
+0.027
+
+Distance Activities
+
+99.2 (3.2)
+
+92.6 (13.2)
+
+0.63
+
+0.002
+
+Peripheral Vision
+
+99.2 (4.4)
+
+93 (13.8)
+
+0.51
+
+0.012
+
+Color Vision
+
+98.5 (6.1)
+
+93 (17.2)
+
+0.38
+
+–
+
+Social Functioning
+
+100 (0)
+
+95.5 (11.4)
+
+1.65
+
+0.015
+
+Mental Health
+
+96.2 (7.2)
+
+90.8 (16.8)
+
+0.35
+
+–
+
+Role Difficulties
+
+97.4 (6.8)
+
+86.9 (25.5)
+
+0.69
+
+–
+
+Dependency
+
+99.5 (2.9)
+
+93.6 (17)
+
+0.58
+
+0.036
+
+Driving
+
+95.7 (8.8)
+
+92.4 (11.9)
+
+0.19
+
+–
+
+Vision-related quality of life
+
+Data is expressed as mean (standard deviation). Effect size was calculated with Cohen’s
+d. PD, Parkinson’s disease.
+
+Visual function impairment
+Compared to controls, PD patients showed significantly lower scores on high- and low contrast VA (p = 0.031 and p < 0.001, respectively) and decreased CS both under photopic and
+PDF
+mesopic conditions (p = 0.002 and p < 0,001, respectively), while color vision (Total Error Score
+Help
+from Roth-28 test) was not significantly different between groups (Table 3). We also found
+that PD patients performed significantly worse than controls in most tests measuring visual
+cognition. The differences between PD patients and controls were especially prominent for
+low-contrast VA (effect size 0.77), Symbol Digit Modality Test (processing speed, effect size
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+8/36
+
+
+[page 9]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+0.66) and Trail Making Test part- B (executive functions, effect size –1.83) (Table 3). In addition,
+relative to the other PD patients, PDs with visual hallucinations had no significant differences
+in most tests of visual function and visual cognition, except for having worse performance in
+mesopic contrast sensitivity (1.59 vs. 1.69 logCS, p < 0.05) and in Cube analysis test from VOSP
+(7 vs. 9, p < 0.05) and Clock Drawing Test (6.1 vs. 8.2, p < 0.05), which respectively assess
+visuospatial perception and visuoconstructive functions.
+
+Table 3 Results for visual function testing
+
+Control
+
+PD
+
+33
+
+62
+
+High-contrast VA (no. of correct letters)
+
+61.9 (4.1)
+
+59.1 (6)
+
+0.24
+
+0.031
+
+Low-contrast VA (no. of correct letters)
+
+38.2 (6.3)
+
+27 (12.8)
+
+0.77
+
+< 0.001
+
+Photopic CS (logCS)
+
+2.05 (0.14)
+
+1.94 (0.14)
+
+0.05
+
+0.002
+
+Mesopic CS (logCS)
+
+1.78 (0.1)
+
+1.67 (0.15)
+
+0.06
+
+< 0.001
+
+Roth-28 (Total Error Score)
+
+51.4 (64)
+
+90.6 (131.6)
+
+–0.85
+
+–
+
+VOSP, Object Detection
+
+16.4 (2.2)
+
+16.1 (2.3)
+
+0.04
+
+–
+
+VOSP, Progressive Silhouettes
+
+12.7 (2.4)
+
+13 (2.6)
+
+0.03
+
+–
+
+VOSP, Number Location
+
+9.1 (1.7)
+
+8.4 (2)
+
+0.09
+
+–PDF
+
+VOSP, Cube Analysis
+
+9.7 (0.7)
+
+8.6 (2.2)
+
+0.23
+
+0.011
+
+VOSP, Dot Counting
+
+10 (0.3)
+
+9.8 (0.6)
+
+0.06
+
+–
+
+n
+
+Effect size
+
+p
+–
+
+Primary visual function
+
+Visual cognition
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+Help
+
+9/36
+
+
+[page 10]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Control
+
+PD
+
+Effect size
+
+p
+
+VOSP, Silhouettes
+
+21.9 (3.9)
+
+20.9 (5.1)
+
+0.09
+
+–
+
+VOSP, Incomplete Letters
+
+19.4 (1.7)
+
+18.6 (4.3)
+
+0.11
+
+0.017
+
+WAIS IV, Picture Completion
+
+11.8 (3.8)
+
+9.1 (4.6)
+
+0.24
+
+0.003
+
+Benton Line Orientation Judgment
+
+24.4 (3.9)
+
+20.6 (6.3)
+
+0.33
+
+0.007
+
+WMS-III, Faces part 1
+
+36 (5.1)
+
+33.6 (5.2)
+
+0.19
+
+0.015
+
+WMS-III, Faces part 2
+
+35.6 (4)
+
+34.2 (4.8)
+
+0.12
+
+–
+
+Clock Drawing Test
+
+9.2 (1.3)
+
+7.8 (2.3)
+
+0.21
+
+0.002
+
+Salthouse Perceptual Comparison Test
+
+27.4 (9.5)
+
+22.8 (9.7)
+
+0.26
+
+0.029
+
+Brief Visual Memory Test-Revised
+
+24.3 (6.5)
+
+17.4 (8.8)
+
+0.47
+
+< 0.001
+
+WAIS III, Digit Repetition
+
+14.4 (4.1)
+
+13.1 (3.3)
+
+0.11
+
+–
+
+Symbol Digit Modality Test
+
+48.1 (11.4)
+
+35.3 (15.2)
+
+0.66
+
+< 0.001
+
+Trail Making Test, part-A (s)
+
+42 (18.6)
+
+54 (23.2)
+
+–0.49
+
+0.014
+
+Trail Making Test, part-B (s)
+
+83.4 (29.4)
+
+141.3 (85.5)
+
+–1.83
+
+< 0.001
+
+Data is expressed as mean (standard deviation). Effect size was calculated with Cohen’s
+d. VA, visual acuity; CS: contrast sensitivity; VOSP, Visual Object and Space Perception
+battery; WAIS, Wechsler Adult Intelligence Scale; WMS, Wechsler Memory Scale.
+
+Relationship between vision-related quality of life and visual function impairment
+Within PD patients, the correlation analyses between NEI VFQ-25 sub-scores and visual
+
+PDF
+Help
+
+function outcomes revealed several statistically significant relationships after correcting for
+multiple comparisons (FDR). However, in controls, only the correlation between few NEI VFQ25 items (General Vision, Mental Health, Composite) and high- and / or low-contrast VA
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+10/36
+
+
+[page 11]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+remained significant (Fig. 1). In PD patients, we noticed that Dot Counting and Cube Analysis
+subtests from VOSP and Clock Drawing Test were the visual cognition tests most frequently
+correlated with the NEI VFQ-25 sub-scores. In particular, Dot Counting showed the highest
+number of positive significant correlations, being correlated with all NEI VFQ-25 subitems,
+except for General Health, Role Difficulties and Driving sub-scores. Trail Making Test part-A and
+MoCA total score displayed a great number of significant correlations with NEI VFQ-25 sub scores as well, namely with General Vision, Ocular Pain, Near Activities, Mental Health, Role
+Difficulties, Dependency and Peripheral Vision sub-scores and with NEI VFQ-25 Composite score.
+In controls, we only found significant correlations between long-term face recognition from
+WMS-III and General Health NEI VFQ-25 sub-score (r = 0.45, p = 0.047), between low-contrast VA
+and General Vision NEI VFQ-25 sub-score (r = 0.53, p = 0.010), and between high-contrast VA
+and Mental Health NEI VFQ-25 sub-score (r = 0.45, p = 0.044).
+
+PDF
+Help
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+11/36
+
+
+[page 12]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Fig. 1 Correlations between NEI VFQ-25 sub-scores and visual outcomes in PD patients and healthy
+controls. Correlation plots are shown for PD patients (left) and for healthy controls (right), with the
+NEI VFQ-25 sub-scores on the upper horizontal axis and the parameters of general cognition, primary
+visual function and visual cognition (including Visual Perception, Visual Attention & Processing Speed,
+Visual Memory and Visual Construction) on the left vertical axis. Correlation coefficients (r) that were
+significant after correction for multiple comparisons (FDR) are shown in the grids as points, whose PDF
+intensity in gray scale and point size represents the magnitude of the correlation coefficient, ranging Help
+from 0 (null) to 1 (maximum). Please, note that the time values (s) from TMT-A and TMT-B were
+converted into negative values (-s). PD, Parkinson’s disease; FDR, False Discovery Rate; MoCA,
+Montreal Cognitive Assessment; HCVA, High-contrast Contrast Visual Acuity; LCVA, Low-contrast
+Contrast Visual Acuity; CSPHO, Photopic Contrast Sensitivity; CSMES, Mesopic Contrast Sensitivity;
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+12/36
+
+
+[page 13]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+R28TES, Total Error Score from Roth-28 color test; VOSP, Visual Object and Space Perception battery;
+DOTCO, Dot Counting; CUBAN, Cube Analysis; INCLET, Incomplete Letters; OBJDET, Object Detection;
+PROSIL, Progressive Silhouettes; NUMLO, Number Location; SLHOU, Silhouettes; PICCOM (WAIS-IV),
+Picture Completion subtest of the Wechsler Adult Intelligence Scale IV; BJOL, Benton Judgment of Line
+Orientation; SPCT, Salthouse Perceptual Comparisons Test; TMTA, Trail Making Test part-A; TMTB,
+Trail Making Test part-B; SDMT, Symbol Digit Modalities Test; DIGIT (WAIS-III), digit repetition test of
+WAIS III; FACESHORT (WMS), Wechsler Memory Scale (WMS) - III Faces test short-term recall;
+FACELONG (WMS), WMS-III Faces test long-term recall; BVMT: Brief Visuospatial Memory Test Revised; CDT, Clock Drawing Test.
+
+To further establish how visual dysfunction could be related to reduced vision-related quality
+of life in PD patients, we performed stepwise hierarchical linear regression analyses. We
+introduced visual outcomes as independent factors and the subitems of NEI VFQ-25 as
+dependent variables. We only included as predictors visual function variables significantly
+correlated with NEI VFQ-25 sub-scores after FDR p-value correction, while controlling for the
+effect of age and LEDD, given that both could act as confounding factors of visual outcomes.
+Results are shown in Fig. 2. In PD patients, we observed that the visual cognition parameters
+better explained the NEI VFQ-25 sub-scores than primary visual function. In fact, Trail Making
+Test part-A and dose of dopaminergic medication (LEDD) were significantly associated with
+NEI VFQ-25 Composite score, but visual outcomes on primary visual function tests were not.
+Remarkably, Dot Counting form VOSP was the test that explained most of the variance in NEI
+VFQ-25 sub-scores, since it was significantly associated with 5 out of 12 sub-scores. One of
+the NEI VFQ-25 sub-scores that was associated with Dot Counting test was Color Vision, a
+subitem that was not associated with Total Error Score from the Roth-28 color test.
+Interestingly, the former parameter was the one that best explained the variance of the NEI
+VFQ-25 sub-scores Peripheral Vision (R2-change: 0.21) and Role Difficulties (R2-change: 0.36).
+Another notable association was the one observed for the NEI VFQ-25 sub-score Driving and
+photopic CS, the latter explaining 41% of its variance. As expected, due to the known
+
+PDF
+influence of circulating dopamine levels on motor, cognitive and visual function, LEDD was
+the variable most often associated with NEI VFQ-25 sub-scores, explaining between 5% and
+Help
+10% of the variances in 6 out of 12 subitems.
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+13/36
+
+
+[page 14]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Fig. 2 Predicted effects of visual outcomes and PD-related variables on NEI VFQ-25 sub-scores. Bar
+charts represent the R-squared change (the improvement in the proportion of explained variance) of
+each significant predictor variable selected in stepwise linear regression. In stepwise regression
+analyses, significantly correlated visual outcomes, age and LEDD were introduced as independent
+variables, whereas NEI VFQ-25 sub-scores were introduced as dependent variables. The legend on
+the right illustrates the color assigned to each significant predictor. PD, Parkinson’s disease; MoCA,
+Montreal Cognitive Assessment; Photopic CS, Photopic Contrast Sensitivity; Roth-28 TES, Total Error
+Score from Roth-28 color test; VOSP, Visual Object and Space Perception battery; TMT part-A, Train
+Making Test part-A; LEDD, Levodopa Equivalent Daily Dose.
+
+On the other hand, in controls, significant associations for NEI VFQ-25 sub-scores were
+primarily found with primary visual outcomes. Concretely, after controlling for the effect of
+age, low-contrast VA was significantly associated with the NEI VFQ-25 Composite and General
+Vision sub-scores, and high-contrast VA and age explained about 25% of the variability of
+
+PDF
+
+Mental Health sub-score. General Health was the only subitem significantly related to visual
+
+Help
+cognition tests. Specifically, long-term face recognition from WMS-III explained 26.7% of the
+
+variance in General Health NEI VFQ-25 sub-score in controls.
+
+DISCUSSION
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+14/36
+
+
+[page 15]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+In the present study, we analyzed the relationship between the perceived visual quality of life
+and the impairment of primary and visual cognitive function in PD patients and controls. As
+the most notable result, we observed that in PD patients most of the domains of the NEI
+VFQ-25 questionnaire were associated with visual cognition tests that assessed visual
+perception, visuoconstructive abilities and visual attention and processing speed, and to a
+lesser extent, with high- and low-contrast VA. In controls, however, only high- and low contrast VA were associated with few domains of visual quality of life (NEI VFQ-25 sub scores). To the best of our knowledge, this is the first study in PD patients that has analyzed
+the association between the perceived visual quality of life and a comprehensive battery of
+visual tests, quantifying not only primary visual function but also visual cognition outcomes.
+As far as we know, at present only three publications evaluated the NEI VFQ-25 in PD patients
+[28–30]. Although they also reported a relationship between NEI VFQ-25 scores and disease
+severity or visual outcomes, the sample sizes were smaller, not all studies analyzed NEI VFQ25 sub-scores and none investigated the relationship with visual cognition tests. In fact, in
+our study we found that certain visual cognition domains better explained NEI VFQ-25 items
+than low-contrast VA or contrast sensitivity, two primary visual function measures that are
+typically affected in PD. Nonetheless, we found that NEI VFQ-25 Driving sub-score was mainly
+explained by photopic contrast sensitivity. This is in line with previous studies in PD, where
+contrast sensitivity has been related to driving performance [12]. On the other hand, in
+controls, few NEI VFQ-25 items correlated with visual outcomes. We observed that high- and
+low-contrast VA were associated with General Vision, Mental Health, and the Composite Score
+of NEI VFQ-25, and long-term face recognition sub-test from WMS-III was associated with
+General Health NEI VFQ-25 sub-score. Like PD patients, controls in our study underwent an
+exhaustive ophthalmological and neurological screening to rule out structural or functional
+alterations in the eye or the visual pathway. Therefore, we interpret that the observed
+relationship of high- and low-contrast VA with General Health and Mental Health sub-items in
+controls could be explained by the effect of age, among other potential idiosyncratic
+conditioning factors. At present, it is well established that in the healthy population without
+ocular pathologies aging is associated with a deterioration in contrast sensitivity and low-
+
+PDF
+
+contrast VA, which has been related to a decrease in the efficiency and absorption rate of the
+Help
+
+cones [31] and that has a decisive influence on vision-related quality of life [32]. Similarly, it is
+well established that PD patients have a deterioration in low-contrast VA and contrast
+sensitivity greater than what is observed in age-matched healthy controls, and these primary
+visual function disorders critically influence patient’s performance on visual cognition tests
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+15/36
+
+
+[page 16]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+[33]. According to the results of our present work, it seems that in PD patients the difficulties
+to carry out a higher order processing of visual stimuli, reflected by the visual cognition tests,
+have a greater impact on the vision-related quality of life than the disturbances of more
+primary visual function, such as low-contrast VA or contrast sensitivity. This finding is to
+some extent expected since it is well established that cognitive impairment is one of the
+main contributory factors to overall quality of life in PD [34]. In any case, it is important to
+highlight that the most recommended PD-specific health-related quality of life scales and
+questionnaires [35] do not include vision-related specific items, so the use of scales such as
+NEI VFQ-25 is essential to be able to quantify the specific impact that the deterioration of
+visual function has on the quality of life of PD patients. More importantly, we observed that
+the visual cognition tests that were more frequently associated with visual quality of life, like
+Dot Counting and Cube Analysis from VOSP or Trail Making Test, have in common that all
+require a precise visual scenery screening for completion. Interestingly, we also found that
+PD patients with visual hallucinations had significantly worse VOSP Cube Analysis scores than
+patients without visual hallucinations, and, while the former group did not have a higher
+percentage of dopamine agonist use than the latter, the patients with visual hallucinations
+had significantly lower NEI VFQ-25 scores than the remaining patients. Thus, it could be
+interpreted that a poorer visuospatial perception could be an important factor contributing
+to the worse vision-related quality of life observed in PD with visual hallucinations. Although
+these three tests allegedly pertain to different visual cognitive domains (Dot Counting and
+Cube Analysis from VOSP to Visual Perception and Trail Making Test to Attention and
+Processing Speed), the oculomotor requirements are similar, and it could be that the
+dysfunctional eye movements acted as a primary trigger for impairment in visual information
+processing that subsequently resulted in reduced quality of vision. Similarly, we found that
+Trail Making Test part-A was significantly associated with Ocular Pain sub-item of NEI VFQ-25.
+Although, as explained before, we performed an ophthalmological examination and a
+detailed clinical interview to rule out conditions other than PD that could alter the afferent
+visual pathway, we did not exclude participants with dry eye or blepharitis [36]. Both
+conditions are known to influence the performance on visual function tests and are more
+
+PDF
+
+common in PD patients than in controls. Therefore, we cannot rule out that the associations
+between some visual cognition tests and NEI VFQ-25 subitems that we observed were
+
+Help
+
+confounded by ocular surface pathologies that we did not control for.
+The NEI VFQ-25 questionnaire has some recognized psychometric limitations in terms of
+unidimensionality and interval-level measurement [37], and methodological solutions have
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+16/36
+
+
+[page 17]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+been proposed to minimize them, including different analytical techniques than simply
+summing up the NEI VFQ-25 sub-scores, such as Rasch-based approach, which allows to
+transform the raw questionnaire data into an interval-level scale [38, 39]. Despite its
+psychometric limitations, in the present work we decided to use the originally proposed
+scoring method of NEI VFQ-25 in order to maintain a consistent methodology with previous
+articles that used this questionnaire in PD [28–30]. Another limitation of the NEI VFQ-25
+version that we used in this work is that it does not have normative values for the healthy
+Spanish population. In fact, there are few publications that offer normative data or reference
+values for healthy populations of NEI VFQ-25 scores [39–42]. Unfortunately, these reference
+values are not directly applicable to our work, not only because they are based on other NEI
+VFQ-25 versions from other populations, but also because they are based on
+transformations of the Rasch-based approach [39, 40], consist of medians instead of means
+[41] or they are already corrected for age and education [42]. Instead, we included a group of
+controls that was comparable to the group of PD patients in terms of age and sex to provide
+reference values in the Spanish population and evaluated which items of NEI VFQ-25
+questionnaire were significantly worse in PD patients and calculated the effect sizes of these
+differences. We faced a similar problem when interpreting the clinical relevance of the
+observed differences in visual function outcomes between PD and controls. The magnitudes
+for clinically significant changes in visual function tests are specific for each disease, and
+reference values in high- or low-contrast VA in PD have not yet been established. However, in
+other neurodegenerative diseases a reduction of 5 letters in high-contrast VA and 10 letters
+in low-contrast VA are considered clinically meaningful [27]. Based on this approximation, we
+could speculate that in our study the mean difference between controls and patients for low contrast VA was clinically meaningful as it was greater than 10 letters (PD: 27.0, controls:
+38.2), while the high-contrast VA was not because the group difference was less than 5 letters
+(PD: 59.1, controls: 61.9).
+Finally, some limitations of our study need to be considered. Although some visual tests that
+we have used have a motor component (such as the Clock Drawing Test and the Trail Making
+Test, both also included in the MoCA, Salthouse Perceptual Comparison Test, Brief Visuospatial
+
+PDF
+
+Memory Test or Symbol Digit Modality Test), we have not specifically analyzed the visual-motor
+Help
+
+abilities, typically affected in PD and that probably have an important impact on the quality
+
+of life of patients. Intriguingly, while we did observe a correlation of UPDRS I (mental status,
+behavior, and mood) and UPDRS II (activities of daily living) with NEI VFQ-25, we did not
+observe a significant correlation between the motor disability (UPDRS III) and NEI VFQ-25
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+17/36
+
+
+[page 18]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+sub-items. Thus, further research would be required to evaluate the specific influence of PD related visual-motor abnormalities on the perceived visual quality of life of patients. Similarly,
+future studies should more exhaustively control for ocular surface pathology and
+oculomotor deficits, as both can influence on the observed associations in PD. Lastly, the NEI
+VFQ-25 is a generic questionnaire on vision-related quality of life and does not contain
+specific questions on vision-related problems typically referred by PD patients, such as
+difficulties when crossing narrow places or locations with low light, problems with visual motor tasks that require some degree of visual attention and mental planning, difficulties
+with depth perception, double vision, and visual hallucinations [5]. In this sense, a
+questionnaire on PD-related visual manifestations has been recently developed, the Visual
+Impairment in Parkinson’s Disease Questionnaire (VIPD-Q), with which it has been shown
+that ophthalmological symptoms reported by PD patients significantly interfere with daily
+activities [43]. The analysis of the relationship between the scores in the VIPD-Q and the
+outcomes from visual function tests could give an even more precise idea of the relationship
+between the visual manifestations reported by the patients and the visual dysfunction that
+we can measure in the clinics. However, because the VIPD-Q was first published in 2019
+(after the data for the present work were acquired), we were unable to apply this more
+specific PD questionnaire in our study. In addition, as far as we know, there are currently
+only validated versions of the VIPD-Q translated into English, French, and German, but there
+is no validated version of the questionnaire for the Spanish population, so it would not yet be
+possible to use it in our population.
+In conclusion, the present work supports that the vision-related quality of life of PD patients
+is especially influenced by alterations in visual cognition tests that assess visual perception,
+visuoconstructive abilities and visual attention, and processing speed, and to a lesser extent
+by high- and low-contrast VA and contrast sensitivity. Future studies are warranted to
+confirm our results and to specifically evaluate the extent to which the visuoperceptive and
+visuomotor disorders referred by PD patients are related to the visual dysfunction that can
+be quantified with psychophysical and neuropsychological tests.
+
+PDF
+
+ACKNOWLEDGMENTS
+
+Help
+
+The authors also want to thank the Biscay Parkinson’s disease Association (ASPARBI) and all
+the patients and participants involved in the study.
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+18/36
+
+
+[page 19]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+This work was partially co-funded by Michael J. Fox Foundation [RRIA 2014 (Rapid Response
+Innovation Awards) Program (Grant ID: 10189)], by the Instituto de Salud Carlos III through
+the project “PI14/00679” and “PI16/00005”, the Juan Rodes grant “JR15/00008” (IG) (Co-funded
+by European Regional Development Fund/European Social Fund - “Investing in your future”),
+and by the Department of Health of the Basque Government through the projects
+“2016111009” and “2019111100”.
+
+CONFLICT OF INTEREST
+The authors have no conflict of interest to report.
+
+REFERENCES
+1. Leyland LA, Bremner FD, Mahmood R, Hewitt S, Durteste M, Cartlidge MRE, Lai MM, Miller
+LE, Saygin AP, Keane PA, Schrag AE, Weil RS (2020) Visual tests predict dementia risk in
+Parkinson disease. Neurol Clin Pract 10, 29–39.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+2. Davidsdottir S, Cronin-Golomb A, Lee A (2005) Visual and spatial symptoms in Parkinson’s
+disease. Vision Res 45, 1285–1296.
+Go To Reference
+
+PDF
+Crossref
+
+Help
+
+PubMed
+Web of Science
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+19/36
+
+
+[page 20]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Google Scholar
+
+3. Urwyler P, Nef T, Killen A, Collerton D, Thomas A, Burn D, McKeith I, Mosimann UP (2014)
+Visual complaints and visual hallucinations in Parkinson’s disease. Parkinsonism Relat Disord
+20, 318–322.
+Go To Reference
+Crossref
+Web of Science
+Google Scholar
+
+4. Archibald NK, Clarke MP, Mosimann UP, Burn DJ (2011) Visual symptoms in Parkinson’s
+disease and Parkinson’s disease dementia. Mov Disord 26, 2387–2395.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+5. Weil RS, Schrag AE, Warren JD, Crutch SJ, Lees AJ, Morris HR (2016) Visual dysfunction in
+Parkinson’s disease. Brain 139, 2827–2843.
+
+PDF
+Help
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+20/36
+
+
+[page 21]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+ Show References
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+6. Murueta-Goyena A, Del Pino R, Reyero P, Galdos M, Arana B, Lucas-Jimenez O, Acera M,
+Tijero B, Ibarretxe-Bilbao N, Ojeda N, Pena J, Cortes J, Gomez-Esteban JC, Gabilondo I (2019)
+Parafoveal thinning of inner retina is associated with visual dysfunction in Lewy body
+diseases. Mov Disord 34, 1315–1324.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+7. Nie K, Zhang Y, Huang B, Wang L, Zhao J, Huang Z, Gan R, Wang L (2013) Marked Nacetylaspartate and choline metabolite changes in Parkinson’s disease patients with mild
+cognitive impairment. Parkinsonism Relat Disord 19, 329–334.
+Go To Reference
+Crossref
+
+PDF
+Help
+
+Web of Science
+Google Scholar
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+21/36
+
+
+[page 22]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+8. Garcia-Garcia D, Clavero P, Gasca Salas C, Lamet I, Arbizu J, Gonzalez-Redondo R, Obeso JA,
+Rodriguez-Oroz MC (2012) Posterior parietooccipital hypometabolism may differentiate mild
+cognitive impairment from dementia in Parkinson’s disease. Eur J Nucl Med Mol Imaging 39,
+1767–1777.
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+9. Borghammer P (2012) Perfusion and metabolism imaging studies in Parkinson’s disease.
+Dan Med J 59, B4466.
+Go To Reference
+PubMed
+Web of Science
+Google Scholar
+
+10. Maeshima S, Itakura T, Nakagawa M, Nakai K, Komai N (1997) Visuospatial impairment
+and activities of daily living in patients with Parkinson’s disease: A quantitative assessment of
+the cube-copying task. Am J Phys Med Rehabil 76, 383–388.
+Go To Reference
+Crossref
+PubMed
+
+PDF
+Help
+
+Web of Science
+Google Scholar
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+22/36
+
+
+[page 23]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+11. Diederich NJ, Raman R, Leurgans S, Goetz CG (2002) Progressive worsening of spatial and
+chromatic processing deficits in Parkinson disease. Arch Neurol 59, 1249–1252.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+12. Uc EY, Rizzo M, Anderson SW, Dastrup E, Sparks JD, Dawson JD (2009) Driving under low contrast visibility conditions in Parkinson disease. Neurology 73, 1103–1110.
+
+ Show References
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+13. Uc EY, Rizzo M, Anderson SW, Sparks J, Rodnitzky RL, Dawson JD (2006) Impaired visual
+search in drivers with Parkinson’s disease. Ann Neurol 60, 407–413.
+Go To Reference
+Crossref
+
+PDF
+Help
+
+PubMed
+Web of Science
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+23/36
+
+
+[page 24]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Google Scholar
+
+14. Higginson CI, Lanni K, Sigvardt KA, Disbrow EA (2013) The contribution of trail making to
+the prediction of performance-based instrumental activities of daily living in Parkinson’s
+disease without dementia. J Clin Exp Neuropsychol 35, 530–539.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+15. Archibald NK, Hutton SB, Clarke MP, Mosimann UP, Burn DJ (2013) Visual exploration in
+Parkinson’s disease and Parkinson’s disease dementia. Brain 136, 739–750.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+16. Laatu S, Revonsuo A, Pihko L, Portin R, Rinne JO (2004) Visual object recognition deficits in
+early Parkinson’s disease. Parkinsonism Relat Disord 10, 227–233.
+
+PDF
+Help
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+24/36
+
+
+[page 25]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Go To Reference
+Crossref
+Web of Science
+Google Scholar
+
+17. Alonso-Recio L, Serrano JM, Martin P (2014) Selective attention and facial expression
+recognition in patients with Parkinson’s disease. Arch Clin Neuropsychol 29, 374–384.
+Go To Reference
+Crossref
+Web of Science
+Google Scholar
+
+18. Moes E, Lombardi KM (2009) The relationship between contrast sensitivity, gait, and
+reading speed in Parkinson’s disease. Neuropsychol Dev Cogn B Aging Neuropsychol Cogn 16,
+121–132.
+Go To Reference
+Crossref
+Web of Science
+Google Scholar
+
+PDF
+Help
+19. Hughes AJ, Daniel SE, Kilford L, Lees AJ (1992) Accuracy of clinical diagnosis of idiopathic
+
+Parkinson’s disease: A clinico-pathological study of 100 cases. J Neurol Neurosurg Psychiatry
+55, 181–184.
+Go To Reference
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+25/36
+
+
+[page 26]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+20. Klein C, Westenberger A (2012) Genetics of Parkinson’s disease. Cold Spring Harb Perspect
+Med 2, a008888.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+21. Emre M, Aarsland D, Brown R, Burn DJ, Duyckaerts C, Mizuno Y, Broe GA, Cummings J,
+Dickson DW, Gauthier S, Goldman J, Goetz C, Korczyn A, Lees A, Levy R, Litvan I, McKeith I,
+Olanow W, Poewe W, Quinn N, Sampaio C, Tolosa E, Dubois B (2007) Clinical diagnostic
+criteria for dementia associated with Parkinson’s disease. Mov Disord 22, 1689–1707;quiz
+1837.
+Go To Reference
+Crossref
+PubMed
+
+PDF
+Help
+
+Web of Science
+Google Scholar
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+26/36
+
+
+[page 27]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+22. Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S, Hays RD, National Eye Institute
+Visual Function Questionnaire Field Test Investigators (2001) Development of the 25-item
+National Eye Institute Visual Function Questionnaire. Arch Ophthalmol 119, 1050–1058.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+23. Alvarez-Peregrina C, Sanchez-Tena MA, Caballe-Fontanet D, Thuissard-Vasallo IJ,
+Gacimartin-Garcia MB, Orduna-Magan C (2018) Crosscultural adaptation and validation into
+Spanish of the questionnaire National Eye Institute Visual Function Questionnaire 25. Arch
+Soc Esp Oftalmol (Engl Ed) 93, 586–591.
+Go To Reference
+Crossref
+PubMed
+Google Scholar
+
+24. Balcer LJ, Baier ML, Kunkle AM, Rudick RA, Weinstock-Guttman B, Simonian N, Galetta SL,
+Cutter GR, Maguire MG (2000) Self-reported visual dysfunction in multiple sclerosis: Results
+from the 25-Item National Eye Institute Visual Function Questionnaire (VFQ-25). Mult Scler 6,
+382–385.
+
+PDF
+Go To Reference
+
+Help
+
+Crossref
+PubMed
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+27/36
+
+
+[page 28]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Web of Science
+Google Scholar
+
+25. Schmidt F, Zimmermann H, Mikolajczak J, Oertel FC, Pache F, Weinhold M, Schinzel J,
+Bellmann-Strobl J, Ruprecht K, Paul F, Brandt AU (2017) Severe structural and functional
+visual system damage leads to profound loss of vision-related quality of life in patients with
+neuromyelitis optica spectrum disorders. Mult Scler Relat Disord 11, 45–50.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+26. van der Lijn I, de Haan GA, Huizinga F, van der Feen FE, Rutgers AWF, Stellingwerf C, van
+Laar T, Heutink J (2022) Self-reported visual complaints in people with Parkinson’s disease: A
+systematic review. J Parkinsons Dis.
+Go To Reference
+Crossref
+Google Scholar
+
+27. Mosimann UP, Collerton D, Dudley R, Meyer TD, Graham G, Dean JL, Bearn D, Killen A,
+Dickinson L, Clarke MP, McKeith IG (2008) A semi-structured interview to assess visual PDF
+hallucinations in older people. Int J Geriatr Psychiatry 23, 712–718.
+
+Help
+
+ Show References
+Crossref
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+28/36
+
+
+[page 29]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+PubMed
+Web of Science
+Google Scholar
+
+28. Almer Z, Klein KS, Marsh L, Gerstenhaber M, Repka MX (2012) Ocular motor and sensory
+function in Parkinson’s disease. Ophthalmology 119, 178–182.
+
+ Show References
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+29. Brandt AU, Zimmermann HG, Oberwahrenbrock T, Isensee J, Muller T, Paul F (2018) Selfperception and determinants of color vision in Parkinson’s disease. J Neural Transm (Vienna)
+125, 145–152.
+Crossref
+Web of Science
+Google Scholar
+
+30. Jehangir N, Yu CY, Song J, Shariati MA, Binder S, Beyer J, Santini V, Poston K, Liao YJ (2018)
+Slower saccadic reading in Parkinson’s disease. PLoS One 13, e0191005.
+
+ Show References
+
+PDF
+Help
+
+Crossref
+Web of Science
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+29/36
+
+
+[page 30]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Google Scholar
+
+31. Braham Chaouche A, Silvestre D, Trognon A, Arleo A, Allard R (2020) Age-related decline
+in motion contrast sensitivity due to lower absorption rate of cones and calculation
+efficiency. Sci Rep 10, 16521.
+Go To Reference
+Crossref
+Web of Science
+Google Scholar
+
+32. Havstam Johansson L, Skiljic D, Falk Erhag H, Ahlner F, Pernheim C, Rydberg Sterner T,
+Wetterberg H, Skoog I, Zetterberg M (2020) Vision-related quality of life and visual function in
+a 70-year-old Swedish population. Acta Ophthalmol.
+Go To Reference
+Crossref
+Google Scholar
+
+33. Del Pino R, Acera M, Murueta-Goyena A, Lucas-Jimenez O, Ojeda N, Ibarretxe-Bilbao N,
+Pena J, Reyero P, Cortes J, Tijero B, Galdos M, Gomez-Esteban JC, Gabilondo I (2021) Visual
+dysfunction is associated with cognitive impairment in Parkinson’s disease. Parkinsonism
+Relat Disord 92, 22–25.
+Go To Reference
+Crossref
+
+PDF
+Help
+
+PubMed
+Web of Science
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+30/36
+
+
+[page 31]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Google Scholar
+
+34. Schrag A, Jahanshahi M, Quinn N (2000) What contributes to quality of life in patients with
+Parkinson’s disease? J Neurol Neurosurg Psychiatry 69, 308–312.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+35. Martinez-Martin P, Jeukens-Visser M, Lyons KE, Rodriguez-Blazquez C, Selai C, Siderowf A,
+Welsh M, Poewe W, Rascol O, Sampaio C, Stebbins GT, Goetz CG, Schrag A (2011) Health related quality-of-life scales in Parkinson’s disease: Critique and recommendations. Mov
+Disord 26, 2371–2380.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+36. Nowacka B, Lubinski W, Honczarenko K, Potemkowski A, Safranow K (2014)
+Ophthalmological features of Parkinson disease. Med Sci Monit 20, 2243–2249.
+
+PDF
+Help
+
+Go To Reference
+Crossref
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+31/36
+
+
+[page 32]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Web of Science
+Google Scholar
+
+37. Khadka J, McAlinden C, Pesudovs K (2013) Quality assessment of ophthalmic
+questionnaires: Review and recommendations. Optom Vis Sci 90, 720–744.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+38. Pesudovs K, Gothwal VK, Wright T, Lamoureux EL (2010) Remediating serious flaws in the
+National Eye Institute Visual Function Questionnaire. J Cataract Refract Surg 36, 718–732.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+PDF
+
+39. Nickels S, Schuster AK, Singer S, Wild PS, Laubert-Reh D, Schulz A, Finger RP, Michal M,
+
+Beutel ME, Munzel T, Lackner KJ, Pfeiffer N (2017) The National Eye Institute 25-Item Visual
+Help
+Function Questionnaire (NEI VFQ-25) - reference data from the German population-based
+Gutenberg Health Study (GHS). Health Qual Life Outcomes 15, 156.
+
+ Show References
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+32/36
+
+
+[page 33]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Crossref
+Web of Science
+Google Scholar
+
+40. Labiris G, Katsanos A, Fanariotis M, Tsirouki T, Pefkianaki M, Chatzoulis D, Tsironi E (2008)
+Psychometric properties of the Greek version of the NEI-VFQ 25. BMC Ophthalmol 8, 4.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+41. Globe D, Varma R, Azen SP, Paz S, Yu E, Preston-Martin S, Los Angeles Latino Eye Study
+Group (2003) Psychometric performance of the NEI VFQ-25 in visually normal Latinos: The
+Los Angeles Latino Eye Study. Invest Ophthalmol Vis Sci 44, 1470–1478.
+Go To Reference
+Crossref
+Web of Science
+Google Scholar
+
+PDF
+42. Suzukamo Y, Oshika T, Yuzawa M, Tokuda Y, Tomidokoro A, Oki K, Mangione CM, Green
+HelpJ,
+Fukuhara S (2005) Psychometric properties of the 25-item National Eye Institute Visual
+Function Questionnaire (NEI VFQ-25), Japanese version. Health Qual Life Outcomes 3, 65.
+
+ Show References
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+33/36
+
+
+[page 34]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Crossref
+PubMed
+Google Scholar
+
+43. Borm C, Visser F, Werkmann M, de Graaf D, Putz D, Seppi K, Poewe W, Vlaar AMM, Hoyng
+C, Bloem BR, Theelen T, de Vries NM (2020) Seeing ophthalmologic problems in Parkinson
+disease: Results of a visual impairment questionnaire. Neurology 94, e1539–e1547.
+Go To Reference
+Crossref
+PubMed
+Web of Science
+Google Scholar
+
+Similar articles:
+Open Access
+Pediatric-onset PRKN disease: New insights into an understudied population
+Show Details 󩆙
+
+Restricted access
+Depressive Symptoms in Parkinson's Disease: A Comparison With Disabled Control Subjects
+
+PDF
+
+Show Details 󩆙
+
+Help
+
+Restricted access
+Alternative Ways of Framing Parkinson's Disease: Implications for Priorities in Health Care and
+Biomedical Research
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+34/36
+
+
+[page 35]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Show Details 󩆙
+
+View More
+
+Sage recommends:
+SAGE Knowledge
+Entry
+Visual Impairments
+Show Details 󩆙
+
+SAGE Knowledge
+Entry
+Low Vision
+Show Details 󩆙
+
+SAGE Knowledge
+Entry
+Snellen's Chart
+Show Details 󩆙
+
+View More
+
+Also from Sage
+
+PDF
+Help
+
+CQ Library
+
+Sage Data
+
+Elevating debate
+
+Uncovering insight
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+35/36
+
+
+[page 36]
+10/12/26, 11:40 PM
+
+Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease - Marta Pengo, Ane Murueta-Goyena, Sara Teijeira-Porta…
+
+Sage Business Cases
+
+Sage Campus
+
+Shaping futures
+
+Unleashing potential
+
+Sage Knowledge
+
+Sage Research Methods
+
+Multimedia learning resources
+
+Supercharging research
+
+Sage Video
+
+Technology from Sage
+
+Streaming knowledge
+
+Library digital services
+
+PDF
+Help
+
+https://journals.sagepub.com/doi/full/10.3233/JPD-213143
+
+36/36
+

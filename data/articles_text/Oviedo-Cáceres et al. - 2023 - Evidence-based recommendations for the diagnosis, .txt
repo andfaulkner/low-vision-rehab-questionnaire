@@ -1,0 +1,1083 @@
+[page 1]
+ORIGINAL ARTICLE
+
+Evidence-based recommendations for the diagnosis, treatment,
+functional rehabilitation, and follow-up of people over 7 years
+of age with low vision
+Recomendaciones basadas en la evidencia para el diagnóstico,
+el tratamiento, la rehabilitación y el seguimiento de personas
+mayores de 7 años con baja visión
+M. Pilar Oviedo-Cáceres1*, Luz H. Lugo-Agudelo2, Claudia M. Velez2, Juan C. Suárez-Escudero3,
+Ana M. Posada-Borrero2, Martha L. Hernández-Padilla2, Esaú Astudillo-Valverde3, and Paulina Bernal-Ramírez4
+1
+
+Centre for Studies in Visual Impairment and Human Development, Faculty of Optometry, Universidad Santo Tomás, Bucaramanga; 2Faculty of
+Medicine, Universidad de Antioquia, Medellín; 3Group of invesitgation in Public Healthcare, Escuela de Ciencias de la Salud, Universidad Pontificia
+Bolivariana (UPB), Medellín; 4Department of Epidemiology, Instituto Tecnológico Metropolitano, Medellín. Colombia
+
+Abstract
+Purpose: The aim of the study was to develop evidence-based recommendations for the diagnosis, functional rehabilitation,
+and follow-up of people with low vision between 7 and 18 years of age and > 18 years of age. Methods: A development
+group was formed with the participation of patients. A systematic search was performed, and the quality of the studies and
+the body of evidence were evaluated. Recommendations were made using the Grade Evidence to Decision Framework, and
+then validated by national experts. Results: In the diagnostic section, the quality of evidence regarding visual acuity and
+visual field was low; in these tests, a weak recommendation was made favorable to the use of the Early Treatment Diabetic
+Retinopathy Study and Microperimetry primer, respectively. Regarding contrast sensitivity, the quality of evidence was very
+low, and a weak recommendation was given favorable to the use of the Pelli-Robson test. Regarding treatment, the quality
+of evidence on electronic optical aids was moderate, and a weak recommendation was given favorable to their use. Regarding manual and electronic magnifiers, telescopes, and tablets, the quality of evidence was very low and a weak recommendation favorable to their use was given. In the rehabilitation section, the quality of evidence regarding this aspect for people
+> 16 years of age was moderate, and there is a strong recommendation favorable to multidisciplinary and multicomponent
+rehabilitation. On the other hand, the quality of evidence regarding rehabilitation for people between 7 and 16 years of age
+was low, and there is a strong recommendation favorable to its use. The quality of evidence for occupational therapy interventions was low and a weak recommendation was given favorable of its use. Regarding psychology, the quality of evidence on interventions like this was low and a strong recommendation was given favorable to their use. Finally, the quality of
+evidence for the use of follow-up scales was high and a strong recommendation was given favorable to the use of the National Eye Institute Visual Function Questionnaire-25. Conclusions: The recommendations issued facilitate establishing general practice guidelines for the comprehensive management of low vision to reduce unwanted variability regarding diagnosis, functional rehabilitation, and follow-up.
+Keywords: Low vision. Clinical practice guideline. Rehabilitation. Assistive technologies. Vision test. Quality of life.
+
+*Correspondence:
+
+Date of reception: 12-07-2021
+
+M. Pilar Oviedo-Cáceres,
+
+Date of acceptance: 23-11-2022
+
+E-mail: maria.oviedo@ustabuca.edu.co
+
+DOI: 10.24875/RMOE.M23000245
+
+Available online: 26-01-2023
+Rev Mex Oftalmol (Eng). 2022;96(5):189-200
+www.rmo.com.mx
+
+2604-1731 / © 2022 Sociedad Mexicana de Oftalmología. Published by Permanyer. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+189
+
+
+[page 2]
+Rev Mex Oftalmol (Eng). 2022;96(5)
+
+Resumen
+Objetivo: Desarrollar recomendaciones basadas en la evidencia para el diagnóstico, la rehabilitación funcional y el seguimiento de personas con baja visión entre 7 y 18 años y mayores de 18 años. Método: Se conformó el grupo desarrollador
+con la participación de pacientes. Se hizo una búsqueda sistemática yse evaluaron la calidad de los estudios y el cuerpo
+de la evidencia. Las recomendaciones se hicieron utilizando Grade Evidence to Decision Framework, las cuales fueron validadas con expertos nacionales. Resultados: En el apartado de diagnóstico, la calidad de la evidencia respecto a agudeza
+visual y campo visual fue baja; en estas pruebas se generó recomendación débil a favor del uso de la cartilla Early Treatment
+Diabetic Retinopathy Study y de microperimetría, respectivamente. En cuanto a sensibilidad al contraste, la calidad de la
+evidencia fue muy baja y se da recomendación débil a favor del uso de la prueba de Pelli-Robson. En cuanto al tratamiento, la calidad de la evidencia respecto a ayudas ópticas electrónicas fue moderada y se da recomendación débil a favor
+para su uso. En cuanto a las lupas manuales, electrónicas, telescopios y tabletas, la calidad de la evidencia fue muy baja y
+se da recomendación débil a favor para su uso. En el apartado de rehabilitación, la calidad de la evidencia para personas
+mayores de 16 años fue moderada y se da recomendación fuerte a favor de la rehabilitación multidisciplinaria y multicomponente, mientras que la calidad de la evidencia respecto a rehabilitación para personas entre 7 y 16 años fue baja y se
+da recomendación fuerte a favor de su uso. La calidad de la evidencia para intervenciones de terapia ocupacional fue baja
+y se da recomendación débil a favor de su uso. Con relación a psicología, la calidad de la evidencia para las intervenciones
+de este tipo fue baja y se da recomendación fuerte a favor de su uso. Finalmente, la calidad de la evidencia para el uso de
+escalas de seguimiento fue alta y se da recomendación fuerte a favor del uso del National Eye Institute Visual Function
+Questionnaire-25. Conclusiones: Las recomendaciones emitidas permiten dar un lineamiento general para el manejo integral
+de la baja visión, reduciendo la variabilidad indeseada en el diagnóstico, la rehabilitación y el seguimiento.
+Palabras clave: Baja visión. Guía de práctica clínica. Rehabilitación. Ayudas ópticas. Pruebas de visión. Calidad de vida
+relacionada con la salud.
+
+Introduction
+Low vision is part of the functional spectrum of people with visual disability including moderate and severe
+visual deficiencies according to the best corrected visual acuity (VA) and visual field. It was reported that
+back in 2020 nearly 295 million people developed this
+condition, which amounts to 3.74% of the entire world
+population, with 37.4 cases reported for every 1000
+people1. Within this vision loss category, 260 million
+people had a moderate visual disability (VA between
+20/60 and 20/200) and 34.8 million had severe visual
+disability (VA between 20/200 and 20/400)2. That same
+year, in the Central American region, where Colombia
+is located, 34 million people were reported to have vision loss of whom 1.3 million were blind3. By 2050,
+taking into account population aging, the growth, and
+progressive urbanization of countries, among other determinant health factors, it has been anticipated that, at
+least, 474 million people will be living with this type of
+visual disability3. The main causes reported in 2021
+were undercorrected refractive errors (86.1 million cases) and unoperated cataracts (78.8 million cases)4.
+Back in Colombia, preliminary reports of the 2018 population census report a national prevalence of this disability
+around 7.1% (3,065,361 Colombians have some disability
+of which 1,784,372 correspond to severe or total disability)
+190
+
+and difficulties like not being able to see around them, near
+or far amount to 18.7%. Based on these numbers, visual
+disability could rank second in terms of frequency within
+the population with disabilities in the country5.
+Low vision can impact quality of life negatively and
+equitable access to education and employment, among
+others. This has considerable financial implications for
+people, families, and communities1. Visual disability
+usually compromises independent mobility and walking,
+decreases mental welfare, increases the probability of
+falls and car crashes, increases the need for social care
+and, ultimately, and leads to higher mortality rates6.
+In Colombia, there are not practical guidelines for the
+management of visual disability with recommendations
+regarding the diagnosis, treatment, rehabilitation, and
+follow-up of people with low vision. Therefore, a team
+was set up to develop one. This article describes evidence-based recommendations for the diagnosis of
+visual deficiencies in the low vision range, treatment
+with optical aids, functional vision rehabilitation, and
+follow-up of people with low vision between 7 and
+18 years and in patients > 18 years, which provides
+support for the health-care personnel, people with low
+vision, their families, and the Colombian health-care
+system for the comprehensive management of people
+with this condition to improve the health-care process,
+its functionality, and participation.
+
+
+[page 3]
+M.P. Oviedo-Cáceres et al.: Evidence-based recommendations for low vision
+
+Methods
+
+Population
+
+These clinical practice guidelines were designed
+based on the Colombian Methodological Guidelines by
+the Ministry of Health7.
+A group was set up to develop the guidelines with an
+optometrist leader with a master’s degree in public
+health and in policies and practices regarding development. Furthermore, a physiatrist methodological leader
+and a clinical epidemiologist experienced in evidence-based clinical practice guidelines. The remaining members of the clinical group were an optometrist
+with a master’ degree in public health, an optometrist
+specialized in low vision, a health-care administrator
+with a master’s degree in epidemiology, and a physician specialized in neuropsychological rehabilitation.
+The methodological group including a physician with
+a PhD in health-care policies and a physiatrist with a
+master’s degree in clinical epidemiology, both expert in
+systematic reviews, meta-analyses, evidence-based
+clinical practical guidelines drafting, and in the Grading
+of Recommendations, Assessment, Development, and
+Evaluations (GRADE methodology).
+The group that developed the guidelines had permanent support from a specialist in archives and information sciences trained at the Iberoamerican Cochrane
+Center. External clinical experts from different colleges,
+hospitals, and organizations across the country were
+summoned. A group of 22 people with low vision and
+support from their relatives was built. Each of the participants signed a conflicts of interest statement form
+and they were approached according to the methodological manual.
+This project had institutional backing from Research
+and Innovation Management from the Universidad Santo Tomás de Bucaramanga in full compliance with the
+1993 Resolution 008430 enacted by the Colombian
+Ministry of Health on health-care research standards.
+
+The guidelines develop recommendations for the
+comprehensive care of patients between the ages of 7
+and 18 years, and > 18 years with permanent moderate
+and severe visual impairment of the functional spectrum of visual disability who have visual function alterations that complicate or prevent performing activities
+of daily living, occupation, and participation.
+These guidelines do not include patients with the
+following characteristics:
+− < 7 years of age
+− With mild visual impairment since both their visual
+condition and procedures regarding management are
+different to those performed in the context of low
+vision
+− Surgical treatments are not included.
+
+Objective of the guidelines
+The aim of the study was to develop evidence-based
+recommendations systematically for the diagnosis, functional rehabilitation, and follow-up of people with low vision between 7 and 18 years of age and > 18 years,
+which can provide support for health-care personnel and
+patients for the comprehensive management of people
+with this condition to improve their participation and functionality, and optimize the health-care process within the
+Colombian Health System.
+
+Drafting the questions while defining and
+rating the outcomes
+According to the scope, purposes, and objectives of
+the guidelines, questions were asked with the Population, Exposure or Intervention, Comparison, Outcomes,
+and Time (PECOT) strategy. Afterward, the group developing the guidelines and the patients rated the outcomes
+independently following the GRADE system8. Each outcome was graded from 1 to 9. Medians between 7 and
+9, 4 and 6, and 1 and 3 were categorized as critical,
+non-critical yet significant, and unimportant, respectively8. Other clinical practice guidelines on low vision or
+visual disability were looked for and assessed. Furthermore, additional information was considered using the
+following criteria: availability of the full text in English or
+Spanish, target population of patients > 7 years with low
+vision and whose overall score with the Appraisal of
+Guidelines for Research and Evaluation II (AGREE II)
+tool was > 40%9. The inclusion and exclusion criteria
+were used to select the clinical practice guidelines. They
+were assessed using the AGREE II too by two independent investigators9. A total of three clinical practice
+guidelines were included that met the selection criteria.
+
+Systematic search for evidence
+The systematic search for evidence included the
+following databases: Cochrane Library, Embase,
+PubMed, Bireme, and Epistemonikos. The members of
+the development group conducted manual and free
+searches through Current Controlled Trials, Trip Database, and Google Scholar from the beginning until
+191
+
+
+[page 4]
+Rev Mex Oftalmol (Eng). 2022;96(5)
+
+November and December 2019. Furthermore, they
+were updated between June and July 2020. MeSH
+terms were defined and selected, systematic reviews
+and meta-analyses were looked for and, additionally,
+clinical trials and observational studies.
+
+Study selection and evidence description
+The group that developed the guidelines was categorized into three groups including, at least, one or two
+thematic experts and a methodological one. Eligibility criteria were established for the articles regarding the methodological design, population, intervention, and minimum
+quality characteristics. Studies were excluded because
+they did not answer the PECOT question or because
+there was better or more recent evidence. The study selection by title and abstract regarding the treatment questions and scales was conducted by the three different
+epidemiologists who selected the studies that should be
+fully read. The thematic experts conducted the matrix of
+the characteristics of the studies with the variables number
+of study, title, author, journal, year, population, intervention
+or exposure, comparator, and outcomes. Afterward, all selected studies were described.
+
+Quality of evidence
+The quality of evidence of controlled clinical trials was
+supervised based on criteria defined by Cochrane: inadequate generation of the sequence, lack of allocation
+concealment and random allocation to therapy, masking, and loss to follow-up. Regarding systematic reviews
+and meta-analyses, the A Measurement Tool to Assess
+Systematic Reviews tool was used10. Regarding primary
+diagnostic studies, the Quality Assessment of Diagnostic Accuracy Studies tool11 was used. Regarding primary
+observational studies, the Strengthening the Reporting
+of Observational studies in Epidemiology methodology
+was used12. Assessment of the quality of the body of
+evidence was conducted based on the concepts the
+GRADE methodology. The assessment of the quality of
+evidence is associated with confidence that the true
+effect is close to the estimated effect. Therefore, it was
+defined in four levels: very low, low, moderate, and high.
+The score was obtained after grading each outcome.
+The systematic reviews of clinical trials begin scoring
+with high quality (level 1) while reviews of observational
+studies begin with low quality (level 4). The aspects that
+can lower quality are bias risk, result inconsistency and
+in accuracy, indirect evidence, and publication bias. One
+point (−1) or two points (−2) are subtracted based on
+192
+
+severity and damage for each aspect. Although observational studies can lower quality due to the aspects
+mentioned, they can also increase quality when certain
+favorable methodological aspects are included. The
+three factors that can increase quality are the presence
+of a large effect size (relative risk, > 2.0 or < 0.5), the
+evidence of a dosage-response relation gradient, and
+the lack of residual bias or confounding factors13-18.
+Most quality of evidence for these guidelines was low
+or very low quality of evidence.
+
+From evidence to recommendation
+Following the GRADE system, recommendations were
+drafted based on these judgments: problem is a priority,
+desirable effects, unwanted effects, certainty of evidence,
+values, balance between sought and unsought effects,
+required resources, certainty of evidence of resources
+required, cost-effectiveness, equity, acceptability, and feasibility. With these criteria, a table was built including the
+summary of judgments. Furthermore, the direction and
+strength of the recommendation were decided19.
+The strength of recommendations was discussed with
+the entire group designing the guidelines, and was ranked
+as “strong for” or “strong against,” “weak for,” and “weak
+against.” Two socializations were made with experts: one
+at the beginning of the process to present the methodology
+and the questions of the guidelines, and the other at the
+end to present recommendations. The experts’ observations were analyzed and the suggestions discussed within
+the group. Eventually, the pertinent were accepted.
+
+Results
+The health-care process of people with low vision requires a comprehensive approach including different interventions and professionals are included who, all together,
+contribute to lessen the experience of the disability of
+people with low vision. The recommendations issued
+guide the health-care process of the health professionals
+regarding diagnosis, management, therapy, functional rehabilitation, and clinical follow-up of people with low vision
+> 7 years. Furthermore, they guide the patients and their
+caregivers regarding health-care aspects the recommendations, their quality of evidence, strength, and degree of
+recommendation as shown in table 1.
+
+Diagnostic recommendations
+Although it is widely accepted, moderate and severe
+visual impairment (low vision) in best corrected visual
+
+
+[page 5]
+M.P. Oviedo-Cáceres et al.: Evidence-based recommendations for low vision
+
+Table 1. Synthesis of quality of evidence, strength, and direction of the recommendations
+Intervention
+
+Recommendation
+
+Quality of evidence
+
+Strong
+
+Weak
+
+For
+
+Against
+
+Very low
+
+Low
+
+Moderate
+
+High
+
+4
+
+6
+
+10
+
+1
+
+2
+
+4
+
+2
+
+1
+
+Visual acuity assessment is advised based on the ETDRS
+chart (Early Treatment Diabetic Retinopathy Study) to
+detect alterations and/or deficiencies in far visual acuity
+in people > 7 years old with visual impairment
+Assessment of contrast sensitivity is advised with the
+Pelli‑Robson test to detect alterations and/or
+deficiencies in contrast sensitivity in people > 7 years
+old with visual impairment in addition to measuring
+visual acuity
+Use of microperimetry in assessing the visual field is
+advised to detect visual field alterations in people
+> 7 years old with visual impairment
+Use of electronic optical aids is advised for people < 16
+years with low vision like closed‑circuit TV mounted on
+stands, portable electronic devices with a mouse, and
+not mouse‑based hand‑held electronic devices (portable
+electronic magnifier) to improve reading speed, reading
+time, visual acuity reading, and quality of life
+Use of handheld electronic magnifiers, telescopes, and
+tablets is advised for children and teens with low
+vision between the ages of 7 and 16 years old to
+improve reading speed, visual acuity, reading
+comprehension, learning, and activities of daily living,
+participation, and quality of life
+Multidisciplinary and multicomponent vision rehabilitation
+is advised in low vision to improve
+health‑and‑vision‑related quality of life, basic and
+instrumental everyday life activities, and reading
+capacity
+Rehabilitation interventions including physical training,
+group programs and training in the use of optical and
+non‑optical devices is advised for people between 7
+and 16 years with low vision to improve performance of
+activities of daily living, participation, and quality of life
+Inclusion of occupational therapy interventions in
+vision rehabilitation programs regarding low vision is
+advised to improve reading speed, performing basic
+and instrumental everyday life activities, and social
+participation
+There is no evidence for or against tele rehabilitation
+regarding low vision that would enable us to make a
+recommendation
+Group and/or individual psychology interventions based
+on self‑management educational programs,
+problem‑solving interventions, therapies based on peer
+support, or a combination of several strategies is
+advised in people > 16 years with low vision to improve
+vision‑related quality of life, self‑efficiency, self‑esteem,
+depression symptoms, or depression. Also, to improve
+independence in activities of daily living
+Use of the National Eye Institute Visual Function
+Questionnaire scale (NEI VFQ) is advised for the early
+assessment and follow‑up of vision‑related quality of
+life in patients > 18 years with low vision
+Total
+
+193
+
+
+[page 6]
+Rev Mex Oftalmol (Eng). 2022;96(5)
+
+acutiy (VA) can be accompanied by other deficiencies in
+color vision, contrast sensitivity, eye glare, and visual
+fields or depth vision. For the purpose of these guidelines, we followed the proposals established by the International Classification of Diseases, version 10
+reviewed, and version 11 of the World Health Organization that define low vision based on the classification of
+VA ranges. Therefore, low vision is understood as a best
+corrected VA worse than 20/60, but equal to or better
+than 20/400 in the best eye or loss of visual field corresponding to < 20° in the best eye with the best possible
+correction20. In addition, visual disability for near vision
+is defined when VA is < N6 or N8 at 40 cm (type and
+size expressed in typographic fonts and Times Roman),
+and when VA for far sight is worse than or equal to 20/40
+with the best correction21.
+
+Visual acuity
+Assessment of VA for far sight is advised with the
+Early Treatment Diabetic Retinopathy Study (ETDRS
+chart) compared to the assessment with the Snellen
+chart to detect alterations or deficiencies in VA for far
+sight in people > 7 years with low vision. (The quality
+of evidence regarding VA was low. Weak recommendation is given favorable to the use of the ETDRS
+chart).
+The systematic review conducted by Chou et al.22
+back in 2009 identified six studies23-27, but none of them
+directly compared the diagnostic accuracy of VA assessment to the ETDRS chart and Snellen regarding
+sensitivity, specificity, likelihood ratio or predictive values. In the systematic review of the medical literature
+available on VA screening-of moderate quality – «all»
+methods are advised22. In the five articles of agreement/reproducibility, the ETDRS test performed better
+thanks to having less variability compared to the Snellen chart, although the use of the ETDRS test23-27 involves longer application times. Despite of this and
+considering the lower variability, greater agreement,
+and reproducibility of the ETDRS compared to the
+Snellen test, and the design characteristics and its logarithmic progression, it is advised to add this test to
+determine and quantify the capacity of VA discrimination more accurately, and therefore be able to identify
+whether the person is in the low vision range or not.
+Probably when balancing sought and unsought effects,
+the implementation of the ETDRS test is promoted because the only unwanted effect reported had to do with
+the additional time associated with its use.
+194
+
+Implementation considerations
+The implementation of the ETDRS charts and the decision to update clinical care involves costs in materials
+and personnel training27. The ETDRS chart costs between USD 40 and USD 45. The backlit ones costs
+between USD 2500 and USD 400028. Similarly, the
+health-care professional training process should be reinforce for the proper use and interpretation of ETDRS.
+
+Contrast sensitivity
+Assessment of contrast sensitivity is advised with the
+Pelli-Robson test to detect contrast sensitivity alterations or deficiencies in people > 7 years with visual
+impairment as an additional way to determine VA. (The
+quality of evidence regarding contrast sensitivity was
+very low. Recommendation favorable to the use of the
+Pelli Robson test is weak.) Mars test is advised for the
+lack of the Pelli-Robson test.
+Five articles on contrast sensitivity assessment with
+the Pelli-Robson test were identified, the Mars test or the
+Functional Acuity Contrast Test in people with eye conditions that can cause visual deficiencies in moderate-to-severe categories29-33. No systematic reviews or
+controlled clinical trials were found. None of the studies
+made direct comparisons of diagnostic precision or the
+discrimination capacity of the contrast sensitivity tests
+among them. Both the Pelli-Robson and Mars tests had
+similar reproducibility and excellent agreement. However,
+the former had an area under the Receiver Operating
+Characteristic curve of 0.89, which is indicative of an
+excellent discrimination capability32. The effects of implementing the use of the Pelli-Robson test basically translate into an improved visual and ocular healthcare since
+it allows us to determine and quantify visual quality with
+greater precision in people with visual deficiencies in the
+low vision range, which is essential to perform activities
+of daily living. Its clinical significant was revealed in studies that confirm that many ophthalmological conditions
+and disorders such as glaucoma34, macular degeneration35, diabetic retinopathy36, and cataracts37, among others, show measurable contrast sensitivity losses even in
+cases where VA can be in the normal range38.
+
+Implementation considerations
+Implementation of the Pelli-Robson test and the decision to update clinical care involve cost in equipment and
+personnel training. The cost of acquiring the Pelli-Robson
+and the Mars tests go from USD 1000 to USD 1500, and
+from USD 200 to USD 300, respectively.
+
+
+[page 7]
+M.P. Oviedo-Cáceres et al.: Evidence-based recommendations for low vision
+
+Visual field
+Visual field assessment is advised through microperimetry compared to digital campimetry examination to
+detect visual field alterations in people > 7 years with
+low vision. If this test is not available, the use of digital
+campimetry is advised. (The quality of evidence regarding visual field was low. Recommendation favorable to the use of microperimetry was weak).
+Seven diagnostic precision studies were selected39-45, six of which are favorable to microperimetry
+and one does not identify any differences between
+microperimetry and digital campimetry. The reproducibility reported is better for microperimetry compared to
+digital campimetry39,41,45. It was found that the area
+under the curve for microperimetry was greater compared to digital campimetry (0.0190 and 0.735, respectively)39,42. The MP-3 microperimeter has a better
+structure-function relationship and correlates better
+with optical coherence tomography40. The use of microperimetry allows us to determine the patient’s visual
+field alterations and improve the prognosis of the visual
+condition since the earlier visual field deficiencies are
+found, the better they can be treated and rehabilitated.
+Regarding the presence of ocular diseases, several
+studies have confirmed their utility to assess visual
+function in patients with eccentric or unstable fixation44
+and analyze different retinla diseases such as age-related macular degeneration and glaucoma46.
+
+Implementation considerations
+Although microperimetry is used in different settings
+not only for diagnosis, but also for vision rehabilitation,
+the process of training human resources, as well as its
+use and interpretation should be reinforced since it is
+a test that is just beginning to be used in Latin America
+and Colombia.
+
+Treatment recommendations
+Electronic optical aids
+Use of electronic optical aids is advised for people
+> 16 years with low vision like closed-circuit TV mounted
+on stands, portable electronic devices with mouse and
+mouse-free hand-held electronic devices (like the portable electronic magnifier) to improve reading speed, time,
+and acuity, and quality of life. (The quality of evidence
+regarding electronic optical aids is moderate. Recommendation given favorable to its use was weak).
+
+There is a wide variety of priority back-up products
+or low vision aids considered like any other device that
+allows somebody with low vision to improve his visual
+performance. The evidence found supported mainly by
+the meta-analyses conducted by Virgili et al.47 shows
+that reading speed can improve with closed-circuit TV
+mounted on a stand compared to hand-held or
+stand-mounted magnifiers (evidence of low quality). On
+the other hand, reading time is longer with electronic
+compared to ordinary optical aids devices, and they are
+also easier to use (moderate evidence). In addition,
+reading time is longer with electronic devices with a
+camera mounted on a mouse compared to traditional
+optical aids (moderate evidence). Finally, only one
+study reported showed that reading time is longer at
+1 month when the patients were prescribed closed-circuit TV at the beginning and not only optical aids. Regarding good clinical practice, it is advised that if
+electronic aids are unavailable, optical aids such as
+microscopes, magnifying glasses (any available), and
+transparent filters should be used to improve reading
+speed, time, and acuity48-50.
+
+Implementation considerations
+Electronic aids are not readily available in the market
+in Colombia. Most of them need to be imported and are
+not covered by the health-care system51. Price goes
+from USD 190 for electronic magnifiers, USD 280 for
+closed-circuit TVs, and USD 2796 for head-mounted
+devices. Studies published in other countries show that
+they are cost-efective51. Patients would accept interventions with electronic optical aids if they could assess
+their effectiveness, and accept them based on size,
+portability, and accessibility.
+
+Manual or electronic magnifiers, telescopes,
+and tablets
+
+Use of manual or electronic magnifiers, telescopes,
+and tablets is advised in children and teenagers with
+low vision between the ages of 7 and 16 years to improve reading speed, VA, reading comprehension,
+learning, perform activities of daily living, participation,
+and quality of life. (The quality of evidence regarding
+hand-held or electronic magnifiers, telescopes, and
+tablets was very low. Recommendation given favorable
+to its use was weak). The optical aids commonly used
+in people between 7 and 16 years include hand-held
+magnifiers with a stand (with and without lighting), magnifying reading glasses with high dioptric power of up
+195
+
+
+[page 8]
+Rev Mex Oftalmol (Eng). 2022;96(5)
+
+to + 20.00 diopters, bifocals > + 4.00 diopters, longrange monocular or binocular telescopes, pre-mounted
+lens system to magnify at a greater distance, and electronic magnification using closed-circuit TV52. Other
+devices that have become popular in educational settings are screen magnifier software and computer-operated screen reading on desktop and laptop computers
+or tablets, and devices including displays to show enhanced text53. Mobile devices like tablets have become
+widely available as conventional tools and are also
+used in some schools47.
+For the sake of good practice, optical aids such as
+optical magnifiers, stand magnifiers without lighting and
+electronic devices for near vision, telescopes for far
+vision, and tablets with their corresponding software
+and applications should be used, as well as non-optical
+aids like filters, reading stands, large print, and lamps
+to improve reading and comprehension, learning,
+independence in activities of daily living, and social
+participation54-57.
+
+Implementation considerations
+The Colombian Health-care System should be reinforced since back-up devices are not included in the
+Health-care Benefit Plan. In addition, there are not
+enough human resources available trained in the process of prescription and training in this category of aids,
+and the ones that do exist are in large cities58. Barriers
+are recognized regarding cost and availability of aids
+in the country, as well as fear of stereotypes associated
+with disability that can cause these people to oppose
+the use of optical aids.
+
+Rehabilitation recommendations
+Rehabilitation in people > 16 years
+Multidisciplinary and multicomponent rehabilitation is
+recommended in people with low vision to improve their
+health-and-vision-related quality of life, basic and instrumental activities of daily living, and their reading
+ability. (The quality of evidence regarding rehabilitation
+of people > 16 years was moderate. Recommendation
+given favorable to multidisciplinary and multicomponent
+rehabilitation was strong).
+Multicomponent rehabilitation consists of vision rehabilitation programs including education and information
+exchange on low vision, problem-solving skill training,
+relaxation techniques, and teaching/training on the use
+of optical and non-optical low vision devices59.
+These rehabilitation services include a wide variety of
+196
+
+services, additional elements beyond the mere prescription, and training in the use of optical devices such as
+training in orientation and mobility, occupational therapy, the acquisition of skills for independent living, expert
+advice and prescription, group activities, training regarding aid devices, and educational and employment advice to facilitate continuous participation in various
+activities and promote well-being60. This multicomponent model is provided through integrated or multidisciplinary services61-63. We should mention that there is
+high variability in the type of interventions, comparators,
+and outcomes. The recommendations issued are based
+on four systematic reviews63-66 and four individual
+studies67-70.
+
+Implementation considerations
+The dynamics under which rehabilitation services are
+rendered in Colombia should be reinforced since the
+fragmentation of the Social Security System does not
+allow comprehensiveness, continuity, or opportunity of
+processes71. Similarly, there are not enough healthcare institutions equipped to implement these recommendations associated with multidisciplinary and
+multicomponent vision rehabilitation processes, and
+the ones that do exist are located in large cities only.
+In addition, there are not enough skilled human resources for this process58.
+
+Rehabilitation of people between 7 and
+16 years
+Rehabilitation is advised in people between 7 and
+16 years with low vision. These interventions should
+include physical training and group programs and
+training in the use of optical devices to improve performance in activities of daily living, participation, and
+quality of life. (The quality of evidence regarding rehabilitation for people between 7 and 16 years was
+low. Strong recommendation is given favorable to
+its use).
+Vision rehabilitation services adjust to a wide variety
+of different models; some approach only the person’s
+functional needs with an emphasis on provision of optical and non-optical aids while others take a more
+holistic approach. The recommendation is based on the
+systematic review conducted by Elsman et al.55 in
+which the studies included show that providing physical
+training or sports camps is probably effective to improve physical performance. Training in path-following
+tasks was effective to improve fine motor skills,
+
+
+[page 9]
+M.P. Oviedo-Cáceres et al.: Evidence-based recommendations for low vision
+
+regardless of the use of visual aids. Group programs
+to improve psychological results showed mixed results55. Mohamed et al.72 found larger effect sizes, in
+which an educational group program turned out to be
+better regarding activities of daily living, anxiety, depression, and self-esteem. However, this study did not
+include a comparison group. Sports camps seem to
+effectively improve psychological results. Rehabilitation
+conducted in low vision rehabilitation centers was effective, especially combined with a home-based program with community support. Provision of low vision
+devices was effective to improve function and development, although these studies did not use a control
+group. Although limited in number, it is likely that interventions to improve mobility can also be effective.
+
+Implementation considerations
+The health-care system should be reinforced because
+fragmentation in health-care does not allow comprehensiveness, continuity, and opportunity for vision rehabilitation processes. In addition, the number of health-care
+centers and health professionals trained to implement
+these recommendations associated with multidisciplinary rehabilitation processes should go up51.
+
+beyond basic and instrumental everyday activities. Leisure and social participation are important occupational
+areas essential for health and well-being. Therefore,
+more emphasis should be put on these aspects that are
+often overlooked. In patients whose objective, it is to
+improve reading performance, occupational therapy
+professionals should include training with electronic
+magnifiers and adequate lighting needs. Furthermore,
+instructions to learn to use optical magnifiers and eccentric vision should be included, although the evidence
+of these intervention strategies is limited73.
+
+Implementation considerations
+Occupational therapy should be reinforced regarding
+specific training in low vision. The role and significance of
+occupational therapy should be emphasized so it becomes a common part of the health-care teams responsible
+for performing vision rehabilitation programs.
+
+Telerehabilitation in low vision
+There is no evidence in favor or against the use of telerehabilitation in vision rehabilitation processes in people
+with low vision so as to make any recommendations74.
+
+Occupational therapy
+
+Psychology
+
+Inclusion of occupational therapy interventions in
+vision rehabilitation programs targeting people with low
+vision is recommended to improve reading speed, performance of basic and instrumental everyday life activities, and social participation. (The quality of
+evidence regarding occupational therapy interventions
+was low. Recommendation given favorable to its use
+was weak).
+Based on the individual needs and characteristics of
+the person with low vision, occupational therapy interventions or sessions in adults should be initially provided individually with short but more frequent sessions
+including adaptation to low vision devices72. In certain
+cases, based on the need for socialization and interaction with peers, information exchange and skill acquisition to solve problems for people with low vision,
+occupational therapy interventions can be performed in
+groups also with short sessions but more often including
+adaptation to low vision devices59. In the case of group
+occupational therapy, rehabilitation sessions should be
+performed in small groups and for several weeks59. Occupational therapy professionals working with elderly
+people with low vision should expand their approach
+
+Psychological group or individual interventions are
+advised in people > 16 years with low vision based on
+problem-solving self-management, educational, and
+intervention programs, peer-support-based therapies,
+or a combination of several strategies to improve vision-related quality of life, self-effectiveness and
+self-esteem, reduce depressive symptoms, and improve independence in everyday life activities64,76.
+(The quality of evidence regarding psychological interventions was low. Recommendation given favorable
+to its use was strong). Psychological therapy or methods to improve vision, compared with active control
+groups, report little benefit on vision-related quality of
+life. The type of rehabilitation varied among studies,
+and, also, within the intervention groups. However,
+benefits were detected even compared to active control groups. Most studies included on low vision rehabilitation had a brief follow-up76. At present, there is
+only limited evidence on the effectiveness of psychosocial interventions in the field of low vision. More
+well-designed trials are needed paying special attention to interventions adapted to the needs of elderly
+patients with low vision.
+197
+
+
+[page 10]
+Rev Mex Oftalmol (Eng). 2022;96(5)
+
+Implementation considerations
+
+Conclusions
+
+Comprehensive care programs should be created to
+better coordinate psychological interventions with the
+interdisciplinary team. Similarly, an essential factor regarding implementation is the patients or their caregivers’ resistance to accept intervention in psychology.
+
+These clinical practice guidelines have produced recommendations based on the best evidence available
+regarding the diagnosis, rehabilitation therapy, vision
+rehabilitation, and clinical follow-up of people > 7 years
+with low vision. The GRADE approach allowed us to
+develop a complete, explicit, and transparent methodology to make several specific and useful recommendations on how to approach people with low vision in
+different health-care stages.
+The drafting of the guidelines allows us to make an
+impact by reducing unwanted variability in the diagnosis, rehabilitation, and follow-up of people with low vision. The guidelines provide general outlines for the
+comprehensive management of this condition and use
+of therapies and clinical approaches to optimal quality
+standards, which is expected to translate into a less
+potentially negative impact of low vision as a type of
+visual disability in the patients’ activities of daily living.
+The recommendations issued are essential to cope
+with the current challenges of mankind since with an
+aging world population, visual disability has become a
+public health problem regarding measures to prevent
+and detect, in a timely manner, visual deficiencies capable of causing permanent low vision, access to vision
+rehabilitation services and programs, supply and demand of aid devices, and better knowledge of the functional diversity and quality of life of people with low
+vision. Therefore, a key aspect to promote the rights of
+people with visual disability is to improve their functional abilities by increasing access to vision rehabilitation
+services and creating more inclusive environments by
+reinforcing inclusive policies and laws. Therefore, like
+Lancet Global Health Commission on Global Eye
+Health puts it, we need to make sure that vision rehabilitation should be considered a comprehensive component of eye care services in our quest for universal
+health-care coverage1. Still, people who seek vision
+rehabilitation face a variety of challenges including,
+among others, scarce services, physical barriers, inadequate skills and knowledge by the health-care team,
+and lack of knowledge by other sectors of society.
+These barriers contribute to the overall estimate that
+only 15% of people could probably benefit from these
+services if they had access to them2.
+
+Follow-up recommendations
+Follow-up scales
+Use of the NEI-VFQ (National Eye Institute Visual
+Function Questionnaire) is advised for the early assessment and follow-up of vision-related quality of life
+in patients > 18 years with low vision. (The quality of
+evidence regarding the use of follow-up scales was
+high. Recommendation given favorable to the use of
+NEI-VFQ was strong).
+The studies that evaluated the psychometric properties of NEI-VFQ through the classic theory of the test
+reported adequate psychometric properties and good
+internal consistency. The test-retest stability was adequate in all validations while the validity of the construct
+and the content was appropriate in several studies77-86.
+There are two different versions: the original one including 51 items and the short one including 25. NEIVFQ-25 is the scale with the largest number of
+validations reported and is considered the standard of
+reference87. Its validity and reliability remain regarding
+the original version88. This scale measures the influence of visual disability and visual symptoms in the
+domains of physical and mental health of the population in addition to other domains oriented to tasks associated with daily visual performance89.
+Psychometric properties show that it is a valid and
+reliable scale, constant in time, and sensitive to change.
+Using the scale translated, adapted, and validated to
+the Colombian context is advised. The driving subscale
+answers should be interpreted with caution since several patients with low vision do not drive according to
+the legislation, which can change from one country to
+the next.
+
+Implementation considerations
+The scale should be known and used by health-care
+professionals, especially those involved with visual
+care. Furthermore, they should train in scoring and result interpretation. It can take additional time in the
+office to be used.
+198
+
+Funding
+This project was cofunded by Universidad Santo
+Tomás-Seccional Bucaramanga, Colombia; the
+
+
+[page 11]
+M.P. Oviedo-Cáceres et al.: Evidence-based recommendations for low vision
+
+Terrassa Townhall (Solidaritat i Cooperació Internacional), Barcelona, Spain; and the Cerdanyola del Vallès
+Townhall (Fons Català de Cooperació), Barcelona,
+Spain.
+
+Conflict of interests
+None.
+
+Ethical disclosures
+Protection of humans and animals. The authors
+declare that no experiments on humans or animals
+have been performed for this research.
+Confidentiality of data. The authors declare that no
+patient data appear in this article.
+Right to privacy and informed consent. Right to
+privacy and informed consent. The authors have obtained the approval of the Ethics Committee for the analysis and publication of routinely obtained clinical data.
+The informed consent of the patients was not required
+because this was a retrospective observational study.
+
+References
+1. Burton MJ, Ramke J, Marques AP, et al. The Lancet Global Health
+Commission on Global Eye Health: vision beyond 2020. Lancet Glob
+Health. 2021;9:e489-e551.
+2. Organización Mundial de la Salud. Informe mundial sobre la visión Ginebra:
+Organización Mundial de la Salud. Faltan el año y dónde está disponible
+3. Bourne R, Steinmetz JD, Flaxman S, et al. Trends in prevalence of
+blindness and distance and near vision impairment over 30 years: an
+analysis for the Global Burden of Disease Study. Lancet Glob Health.
+2021;9:e130-43.
+4. Steinmetz JD, Bourne RRA, Briant PS, et al. Causes of blindness and
+vision impairment in 2020 and trends over 30 years, and prevalence of
+avoidable blindness in relation to VISION 2020: the Right to Sight: an
+analysis for the Global Burden of Disease Study. Lancet Glob Health.
+2021;9:e144-60.
+5. Instituto Nacional para Ciegos. Los ciegos en el Censo 2018. INCI; 2020.
+Disponible en: https://www.inci.gov.co/blog/los-ciegos-en-el-ceso-2018.
+6. Ehrlich JR, Ramke J, Macleod D, et al. Association between vision impairment and mortality: a systematic review and meta-analysis. Lancet
+Glob Health. 2021;9:e418-30.
+7. Carrasquilla G, Pulido A, De la Hoz A, et al. Guía metodológica para la
+elaboración de guías de práctica clínica con evaluación económica en el
+Sistema General de Seguridad Social en Salud Colombiano. Versión
+completa final. Ministerio de Salud; 2014. Disponible en: http://gpc.minsalud.gov.co/recursos/Documentos%20compartidos/Guia_Metodologica_Web.pdf.
+8. Balshem H, Helfand M, Schünemann HJ, et al. GRADE guidelines: 3.
+Rating the quality of evidence. J Clin Epidemiol. 2011;64:401-6.
+9. AGREE Collaboration. Appraisal of Guidelines for Research, Evaluation
+Instrument AGREE II. 2009. Disponible en: www.agreecollaboration.org.
+10. Shea BJ, Grimshaw JM, Wells GA, et al. Development of AMSTAR: a
+measurement tool to assess the methodological quality of systematic
+reviews. BMC Med Res Methodol. 2007;7:10.
+11. Whiting PF, Rutjes AWS, Westwood ME, et al. QUADAS-2: a revised tool
+for the quality assessment of diagnostic accuracy studies. Ann Intern
+Med. 2011;155:529-36.
+12. White RG, Hakim AJ, Salganik MJ, et al. Strengthening the Reporting
+of Observational Studies in Epidemiology for respondent-driven sampling studies: ‘STROBE-RDS’ statement. J Clin Epidemiol. 2015;
+68:1463-71.
+13. Guyatt GH, Oxman AD, Vist G, et al. GRADE guidelines: 4. Rating the
+quality of evidence — study limitations (risk of bias). J Clin Epidemiol.
+2011;64:407-15.
+
+14. Guyatt GH, Oxman AD, Montori V, et al. GRADE guidelines: 5. Rating
+the quality of evidence — publication bias. J Clin Epidemiol. 2011;
+64:1277-82.
+15. Guyatt GH, Oxman AD, Kunz R, et al. GRADE guidelines: 6. Rating the
+quality of evidence — imprecision. J Clin Epidemiol. 2011;64:1283-93.
+16. Guyatt GH, Oxman AD, Kunz R, et al. GRADE guidelines: 7. Rating the
+quality of evidence — inconsistency. J Clin Epidemiol. 2011;64:1294-302.
+17. Guyatt GH, Oxman AD, Kunz R, et al. GRADE guidelines: 8. Rating the
+quality of evidence — indirectness. J Clin Epidemiol. 2011;64:1303-10.
+18. Guyatt GH, Oxman AD, Sultan S, et al. GRADE guidelines: 9. Rating up
+the quality of evidence. J Clin Epidemiol. 2011;64:1311-6.
+19. Andrews JC, Schünemann HJ, Oxman AD, et al. GRADE guidelines: 15.
+Going from evidence to recommendation — determinants of a recommendation’s direction and strength. J Clin Epidemiol. 2013;66:726-35.
+20. World Health Organization. ICD-10 International Classification of Diseases. (Consultado el 24-03-2021.) Disponible en: http://www.who.int/classifications/icd/icdonlineversions/en/.
+21. Fricke TR, Tahhan N, Resnikoff S, et al. Global prevalence of presbyopia
+and vision impairment from uncorrected presbyopia: systematic review,
+meta-analysis, and modelling. Ophthalmology. 2018;125:1492-9.
+22. Chou R, Dana T, Bougatsos C, et al. Screening for impaired visual
+acuity in older adults: a systematic review to update the 2009 U.S.
+Preventive Services Task Force Recommendation. Rockville (MD):
+Agency for Healthcare Research and Quality (US); 2016. (Consultado
+el 05-02-2020.) Disponible en:, http://www.ncbi.nlm.nih.gov/books/
+NBK350371/.
+23. Rosser D, Laidlaw D, Murdoch I. The development of a ‘reduced logMAR’
+visual acuity chart for use in routine clinical practice. Br J Ophthalmol.
+2001;85:432-6.
+24. Falkenstein IA, Cochran DE, Azen SP, et al. Comparison of visual acuity in macular degeneration patients measured with snellen and early
+treatment diabetic retinopathy study charts. Ophthalmology.
+2008;115:319-23.
+25. Shamir RR, Friedman Y, Joskowicz L, et al. Comparison of Snellen and
+Early Treatment Diabetic Retinopathy Study charts using a computer
+simulation. Int J Ophthalmol. 2016;9:119-23.
+26. Kaiser PK. Prospective evaluation of visual acuity assessment: a comparison of snellen versus ETDRS charts in clinical practice (An AOS
+Thesis). Trans Am Ophthalmol Soc. 2009;107:311-24.
+27. Lim L-A, Frost NA, Powell RJ, et al. Comparison of the ETDRS logMAR,
+‘compact reduced logMar’ and Snellen charts in routine clinical practice.
+Eye (Lond). 2010;24:673-7.
+28. Brady CJ, Eghrari AO, Labrique AB. Smartphone-based visual acuity
+measurement for screening and clinical assessment. JAMA.
+2015;314:2682-3.
+29. Thayaparan K, Crossland MD, Rubin GS. Clinical assessment of two new
+contrast sensitivity charts. Br J Ophthalmol. 2007;91:749-52.
+30. Dougherty BE, Flom RE, Bullimore MA. An evaluation of the Mars letter
+contrast sensitivity test. Optom Vis Sci. 2005;82:970-5.
+31. Haymes SA, Roberts KF, Cruess AF, et al. The letter contrast sensitivity
+test: clinical evaluation of a new design. Invest Ophthalmol Vis Sci.
+2006;47:2739-45.
+32. Pondorfer SG, Heinemann M, Wintergerst MWM, et al. Detecting vision
+loss in intermediate age-related macular degeneration: a comparison of
+visual function tests. PLoS One. 2020;15:e0231748.
+33. Onal S, Yenice O, Cakir S, et al. FACT contrast sensitivity as a diagnostic tool in glaucoma: FACT contrast sensitivity in glaucoma. Int Ophthalmol. 2008;28:407-12.
+34. Wilensky JT, Hawkins A. Comparison of contrast sensitivity, visual acuity, and Humphrey visual field testing in patients with glaucoma. Trans
+Am Ophthalmol Soc. 2001;99:213-8.
+35. Kleiner RC, Enger C, Alexander MF, et al. Contrast sensitivity in
+age-related macular degeneration. Arch Ophthalmol. 1988;106:55-7.
+36. Safi S, Rahimi A, Raeesi A, et al. Contrast sensitivity to spatial gratings
+in moderate and dim light conditions in patients with diabetes in the
+absence of diabetic retinopathy. BMJ Open Diabetes Res Care.
+2017;5:e000408.
+37. Elliott DB, Hurst MA. Simple clinical techniques to evaluate visual function
+in patients with early cataract. Optom Vis Sci. 1990;67:822-5.
+38. Hopkins GR, Dougherty BE, Brown AM. The Ohio Contrast Cards: visual
+performance in a pediatric low-vision site. Optom Vis Sci. 2017;
+94:946-56.
+39. Montesano G, Bryan SR, Crabb DP, et al. A comparison between the
+compass fundus perimeter and the Humphrey field analyzer. Ophthalmology. 2019;126:242-51.
+40. Matsuura M, Murata H, Fujino Y, et al. Evaluating the usefulness of MP-3
+microperimetry in glaucoma patients. Am J Ophthalmol. 2018;187:1-9.
+41. Igarashi N, Matsuura M, Hashimoto Y, et al. Assessing visual fields in
+patients with retinitis pigmentosa using a novel microperimeter with eye
+tracking: the MP-3. PLoS One. 2016;11:e0166666.
+42. Ratra V, Ratra D, Gupta M, et al. Comparison between Humphrey Field
+analyzer and micro perimeter 1 in normal and glaucoma subjects. Oman
+J Ophthalmol. 2012;5:97-102.
+
+199
+
+
+[page 12]
+Rev Mex Oftalmol (Eng). 2022;96(5)
+43. Oztürk F, Yavas GF, Küsbeci T, et al. A comparison among Humphrey
+field analyzer, microperimetry, and Heidelberg retina tomograph in the
+evaluation of macula in primary open angle glaucoma. J Glaucoma.
+2008;17:118-21.
+44. Acton JH, Smith RT, Greenberg JP, et al. Comparison between MP-1
+and Humphrey visual field defects in glaucoma and retinitis pigmentosa.
+Optom Vis Sci Off Publ Am Acad Optom. 2012;89:1050-8.
+45. Kulkarni SV, Coupland SG, Stitt DM, et al. Efficacy of SLO-microperimetry
+and Humphrey for evaluating macular sensitivity changes in advanced
+glaucoma. Can J Ophthalmol. 2013;48:406-12.
+46. Molina-Martín A, Pérez-Cambrodí RJ, Piñero DP. Current clinical application of microperimetry: a review. Semin Ophthalmol. 2018;33:620-8.
+47. Virgili G, Acosta R, Bentley SA, et al. Reading aids for adults with low
+vision. Cochrane Database Syst Rev; 2018;(4):CD003303.
+48. Peterson RC, Wolffsohn JS, Rubinstein M, et al. Benefits of electronic
+vision enhancement systems (EVES) for the visually impaired. Am J
+Ophthalmol. 2003;136:1129-35.
+49. Watson GR, Maino J, De l’aune W. Comparison of low-vision reading
+with spectacle-mounted magnifiers. J Rehabil Res Dev. 2005;42:459-70.
+50. Eperjesi F, Fowler CW, Evans BJW. The effects of coloured light filter
+overlays on reading rates in age-related macular degeneration. Acta
+Ophthalmol Scand. 2004;82:695-700.
+51. Oviedo-Cáceres MP, Arias-Valencia S, Hernández-Quirama A, et al. Intersectionality and access to visual rehabilitation services: experiences
+of people with low vision, a qualitative study. Br J Vis Impair. 2022;0.
+Disponible en: https://doi.org/10.1177/02646196221104902.
+52. Organización Mundial de la Salud. Informe mundial sobre la discapacidad.
+Gienbra: OMS; 2011. (Consultado el 24-02-2019.) Disponible en: https://
+www.afro.who.int/sites/default/files/2017-06/9789240688230_spa.pdf.
+53. Coco-Martin, M, Herrera-Medina, J, Cuadrado Asencio,R, et al., editores.
+Manual de baja visión y rehabilitación visual. Madrid: Médica Panamericana; 2018.
+54. Barker L, Thomas R, Rubin G, et al. Optical reading aids for children and
+young people with low vision. Cochrane Database Syst Rev.
+2015;(3):CD010987.
+55. Elsman EBM, Al Baaj M, van Rens GHMB, et al. Interventions to improve functioning, participation, and quality of life in children with visual
+impairment: a systematic review. Surv Ophthalmol. 2019;64:512-57.
+56. Ganesh S, Sethi S, Srivastav S, et al. Impact of low vision rehabilitation
+on functional vision performance of children with visual impairment.
+Oman J Ophthalmol. 2013;6:170-4.
+57. Farmer J, Morse SE. Project Magnify: increasing reading skills in students
+with low vision. J Vis Impair Blind. 2007;101:763-8.
+58. Oviedo MP, Hernández ML, Ruiz M. Baja visión en Colombia: una situación invisible para el país. Rev Fac Nac Salud Publica. 2015;33:22-30.
+59. Arbesman M, Lieberman D, Berlanstein DR. Methodology for the systematic reviews on occupational therapy interventions for older adults with
+low vision. Am J Occup Ther. 2013;67:272-8.
+60. Laliberte Rudman D, Egan MY, McGrath CE, et al. Low vision rehabilitation, age-related vision loss, and risk: a critical interpretive synthesis.
+Gerontologist. 2016;56:e32-45.
+61. Haymes SA, Johnston AW, Heyes AD. Preliminary investigation of the
+responsiveness of the Melbourne Low Vision ADL index to low-vision
+rehabilitation. Optom Vis Sci. 2001;78:373-80.
+62. Lamoureux EL, Pallant JF, Pesudovs K, et al. The effectiveness of
+low-vision rehabilitation on participation in daily living and quality of life.
+Invest Ophthalmol Vis Sci. 2007;48:1476-82.
+63. Binns AM, Bunce C, Dickinson C, et al. How effective is low vision service provision? A systematic review. Surv Ophthalmol. 2012;57:34-65.
+64. van Nispen RMA, Virgili G, Hoeben M, et al. Low vision rehabilitation for
+better quality of life in visually impaired adults. Cochrane Database Syst
+Rev. 2020;(1):CD006543.
+65. Liu C, Chang MC. Interventions within the scope of occupational therapy
+practice to improve performance of daily activities for older adults with
+low vision: a systematic review. Am J Occup Ther. 2020;74:7401185010p17401185010p18.
+66. Hooper P, Jutai JW, Strong G, et al. Age-related macular degeneration
+and low-vision rehabilitation: a systematic review. Can J Ophthalmol.
+2008;43:180-7.
+67. Hernández-Moreno L, Senra H, Lewis P, et al. Cost-effectiveness of
+basic vision rehabilitation (The basic VRS-effect study): study protocol
+for a randomised controlled trial. Ophthalmic Physiol Opt. 2020;40:350-64.
+68. Özen Tunay Z, İdil A, Seza Petriçli İ, et al. Low vision rehabilitation in
+older adults. Turk J Ophthalmol. 2016;46:118-22.
+
+200
+
+69. Holloway EE, Constantinou M, Xie J, et al. Improving eye care in residential aged care facilities using the Residential Ocular Care (ROC)
+model: study protocol for a multicentered, prospective, customized,
+and cluster randomized controlled trial in Australia. Trials. 2018;19:650.
+70. Kaltenegger K, Kuester S, Altpeter-Ott E, et al. Effects of home reading
+training on reading and quality of life in AMD — a randomized and controlled study. Graefes Arch Clin Exp Ophthalmol. 2019;257:1499-512.
+71. Montenegro H, Holder R, Ramagem C, et al. Combating health care
+fragmentation through integrated health service delivery networks in the
+Americas: lessons learned. J Integr Care. 2011;19:5-16.
+72. Mohamed EA, Bayoumi OR, Draz SF. Impact of an educational programme
+on knowledge, beliefs, practices and expectations about care among adolescent glaucoma patients in Cairo. East Mediterr Health J. 2011;17:960-8.
+73. Nastasi JA. Occupational therapy interventions supporting leisure and
+social participation for older adults with low vision: a systematic review.
+Am J Occup Ther. 2020;74:7401185020p1-7401185020p9.
+74. Smallfield S, Clem K, Myers A. Occupational therapy interventions to
+improve the reading ability of older adults with low vision: a systematic
+review. Am J Occup Ther. 2013;67:288-95.
+75. Bittner AK, Wykstra SL, Yoshinaga PD, et al. Telerehabilitation for people
+with low vision. Cochrane Database Syst Rev 2015;(8):CD011019.
+76. van der Aa HPA, Margrain TH, van Rens GHMB, et al. Psychosocial
+interventions to improve mental health in adults with vision impairment:
+systematic review and meta-analysis. Ophthalmic Physiol Opt.
+2016;36:584-606.
+77. Bittner AK, Wykstra SL, Yoshinaga PD, et al. Telerehabilitation for people
+with low vision. Cochrane Database Syst Rev. 2015;(8):CD011019.
+78. Broman AT, Munoz B, West SK, et al. Psychometric properties of the
+25-item NEI-VFQ in a Hispanic population: Proyecto VER. Invest Ophthalmol Vis Sci. 2001;42:606-13.
+79. Clemons TE, Chew EY, Bressler SB, et al. National Eye Institute Visual
+Function Questionnaire in the Age-Related Eye Disease Study (AREDS):
+AREDS report no. 10. Arch Ophthalmol. 2003;121:211-7.
+80. Baker RS, Bazargan M, Calderón JL, et al. Psychometric performance
+of the National Eye Institute Visual Function Questionnaire in Latinos and
+Non-Latinos. Ophthalmology. 2006;113:1363-71.e2.
+81. Labiris G, Katsanos A, Fanariotis M, et al. Psychometric properties of the
+Greek version of the NEI-VFQ 25. BMC Ophthalmol. 2008;8:1-11.
+82. Iyigun E, Bayer A, Tastan S, et al. Validity and reliability study for the
+NEI-VFO-39 scale in chronic ophthalmic diseases — Turkish version.
+Acta Ophthalmol. 2010;88:e115-9.
+83. Orr P, Rentz AM, Margolis MK, et al. Validation of the National Eye
+Institute Visual Function Questionnaire-25 (NEI VFQ-25) in age-related macular degeneration. Invest Ophthalmol Vis Sci. 2011;52:
+3354-9.
+84. Sørensen MS, Andersen S, Henningsen GO, et al. Danish version of
+Visual Function Questionnaire-25 and its use in age-related macular
+degeneration. Dan Med Bull. 2011;58:1-5.
+85. Lloyd AJ, Loftus J, Turner M, et al. Psychometric validation of the Visual
+Function Questionnaire-25 in patients with diabetic macular edema. Health Qual Life Outcomes. 2013;11:1-11.
+86. Kovac B, Vukosavljevic M, Djokic Kovac J, et al. Validation and
+cross-cultural adaptation of the National Eye Institute Visual Function
+Questionnaire (NEI VFQ-25) in Serbian patients. Health Qual Life Outcomes. 2015;13:142.
+87. Jelin E, Wisløff T, Moe MC, et al. Psychometric properties of the National
+Eye Institute Visual Function Questionnaire (NEI-VFQ 25) in a Norwegian
+population of patients with neovascular age-related macular degeneration
+compared to a control population. Health Qual Life Outcomes. 2019;17:140.
+88. Mañá LP. Validación de un instrumento de calidad de vida específico para
+pacientes con discapacidad visual: Low Vision Quality of Life (LVQOL).
+(Tesis doctoral.) Universitat Politècnica de Catalunya; 2019. (Consultado
+el 07-05-2021.) Disponible en: https://www.tesisenred.net/handle/10803/667683?locale-attribute=en.
+89. Rodríguez Camacho L, García LG. Comparación de calidad de vida con
+el cuestionario VFQ25 en pacientes de baja visión antes y después de
+la rehabilitación en el CRAC sede Bogotá durante el 2016. Optometría.
+2017. Disponible en: https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1115&context=optometria
+90. Rodríguez Suárez B, Hernández Silva Y, Llanes Rodríguez R, et al.
+Escala NEI VFQ-25 como instrumento de medición de la calidad de vida
+relativa a la visión. Rev Cub Oftalmol 2017;30:1-12.
+

@@ -1,0 +1,1439 @@
+[page 1]
+RESEARCH ARTICLE
+
+Towards population screening for Cerebral
+Visual Impairment: Validity of the Five
+Questions and the CVI Questionnaire
+Fiona Gorrie ID1☯*, Karen Goodall1☯, Robert Rush2, John Ravenscroft ID3☯
+1 School of Health in Social Sciences, Department of Clinical Psychology, The University of Edinburgh,
+Edinburgh, Scotland, 2 School of Health Sciences, Division of Dietetics, Nutrition & Biological Sciences,
+Physiotherapy, Podiatry & Radiography, Queen Margaret University, Edinburgh, Scotland, 3 The Scottish
+Sensory Centre, The University of Edinburgh, Edinburgh, Scotland
+☯ These authors contributed equally to this work.
+* f.gorrie@dundee.ac.uk
+
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+
+Abstract
+Introduction
+
+OPEN ACCESS
+Citation: Gorrie F, Goodall K, Rush R, Ravenscroft
+J (2019) Towards population screening for
+Cerebral Visual Impairment: Validity of the Five
+Questions and the CVI Questionnaire. PLoS ONE
+14(3): e0214290. https://doi.org/10.1371/journal.
+pone.0214290
+Editor: Yee Cheng Kueh, Universiti Sains Malaysia,
+MALAYSIA
+Received: October 19, 2018
+Accepted: March 11, 2019
+Published: March 26, 2019
+Copyright: © 2019 Gorrie et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+Data Availability Statement: All relevant data are
+within the manuscript and its Supporting
+Information files.
+Funding: The authors received no specific funding
+for this work.
+Competing interests: The authors have declared
+that no competing interests exist.
+
+Cerebral Visual Impairment (CVI) is the most common cause of visual impairment in children in the developed world and appears to be more prevalent in children with additional
+support needs (ASN). There is an urgent need for routine screening for CVI, particularly in
+children with ASN, however, current screening questionnaires for CVI have limited validation. The aim of this study was to evaluate two screening tools: the Five Questions and the
+CVI Questionnaire. Additionally, the distribution of CVI across neurodevelopmental disorders is unknown. This too was investigated.
+
+Methods
+An online survey was completed by 535 parents. The survey was advertised via social
+media, CVI websites and parent email systems of four schools. The survey comprised of the
+Five Questions, the CVI Questionnaire and additional questions regarding the child’s diagnoses. Whether or not a child had a diagnosis of CVI and/or additional neurodevelopmental
+disorders was based on parental report.
+
+Results
+Based on parent reports, both the screening tools accurately screened for CVI diagnoses in
+children. The Five Questions and the CVI Questionnaire have construct validity (as determined through factor analysis), high internal consistency (as determined by Cronbach’s
+alpha) and convergent validity (as determined by correlation analysis of the raw scores of
+each questionnaire). This study also highlights that among children with neurodevelopmental disorders, a large proportion have parent-reported CVI (23%-39%) and potential CVI
+(6.59–22.53%; as identified by the questionnaires).
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+1 / 19
+
+
+[page 2]
+Validity of CVI screening tools
+
+Conclusion
+The current study demonstrates that the Five Questions and CVI Questionnaire have good
+convergent validity, internal consistency and a reliable factor structure and may therefore be
+suitable as screening tools. The study also highlights that reported or potential CVI is evident
+in a large proportion of children with neurodevelopmental disorders.
+
+Introduction
+Vision impairment in early life can have a significant negative impact on quality of life [1] and
+can impose substantial constraints on later development, in areas such as integration of input
+from other senses, motor competence, language and cognitive concepts [2]. Visual impairment
+can arise from damage anywhere along the visual pathway with traditional approaches focusing on dysfunction of the eye and the optic nerves (ocular visual impairment, OVI).
+Impairment may also be the result, however, of damage to structures lying beyond the eye
+itself. Cortical/Cerebral Visual Impairment (CVI) refers to damage to the visual pathways
+often known as the dorsal and ventral pathways, and associated structures that occurs during
+early perinatal development. The term ‘Cortical Visual Impairment’ was originally coined to
+refer to visual impairment of non-ocular origin, with an underlying assumption of damage to
+early visual cortical areas [3]. As it became clear that CVI was frequently associated with damage to areas beyond the early visual cortex, including higher order processing areas of the cortex, the term ‘cerebral’ has been more widely adopted [4]. A systematic review of terminology
+and definitions of CVI suggests that the most parsimonious definition is a verifiable visual dysfunction which cannot be attributed to disorders of the anterior visual pathways or any potentially co-occurring ocular impairment [5].
+CVI is the primary cause of congenital visual impairment in children in the economically
+developed world [6, 7]. In the United Kingdom, CVI affects 40–48% of children with impaired
+vision [8, 9]. Prevalence rates of CVI continue to rise in developed countries, partly as a result
+of neonatal care advancement, leading to better survival rates in preterm infants [10]. Accordingly, CVI has been associated with low birth weight (<2500 g) [8] and prematurity [11, 12,
+13]. Prevalence rates between 33% and 58% have also been noted in children with cerebral
+palsy (CP), hydrocephaly and periventricular white matter injury (PVL) [12–16], supporting
+the link between early brain insult and CVI. Several studies, based on optometrist/ophthalmologist assessment have also reported an increased risk of visual impairment in children with
+neurodevelopmental disorders [2, 17–22], although evidence on associations between specific
+types of neurodevelopmental disorders and CVI is limited.
+The rising prevalence rate of CVI, along with evidence of its potential impact on later development, suggests that CVI should be considered as a pressing public health issue e.g. [23].
+Although research has focused traditionally on outcomes related to ocular impairment, an
+accumulating body of evidence suggest that there are significant sequelae associated with CVI,
+including motor and cognitive and language development [24–26].
+The absence of ocular pathology alongside a relative lack of awareness of the condition in
+healthcare providers means that CVI is likely to go undetected in some children and in others difficulties may be misdiagnosed as a disorder that is behavioural or psychological in nature [27–30].
+Furthermore, Martin et al. [31] suggest that underlying differences in brain structural connectivity
+mean that strategies suitable for individuals with ocular impairment will not be effective for those
+with CVI. As there is evidence that early identification and intervention can lead to developmental
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+2 / 19
+
+
+[page 3]
+Validity of CVI screening tools
+
+gains [32], screening is particularly warranted in children with Additional Support Needs (ASNnote that this terminology is used in place of ‘special needs’ in Scotland); [20, 30, 33].
+Expert testing for CVI is likely to be costly and not feasible at the population level. In addition, few ophthalmologists are confident in the clinical markers of CVI [34] and there are a
+limited number of clinicians who can diagnose CVI, for example in Scotland there are only
+three [35]. Parent-rated screening questionnaires are therefore a potentially cost-effective
+means of screening larger groups of at-risk children. They can reach large populations of children with relative ease, exclude those unlikely to have CVI and therefore reduce the numbers
+who warrant clinical assessment [36]. Several CVI screening questionnaires exist which have
+been developed by clinicians experienced in diagnosing CVI, e.g. [36–41], however some have
+not been validated e.g. [37, 40], whilst four [36, 38, 39, 41] have limited predictive validation
+through establishing cut-off points and comparing rates of screened positives on the questionnaire against confirmed CVI diagnoses. The present study focuses on the CVI Questionnaire
+[39] and the Five Questions [38].
+
+The current study
+The CVI Questionnaire has been recommended as a tool which can assist with the diagnosis of
+CVI [42], however it has been rated as having poor structural validity and failing to assess
+internal consistency, reliability, or measurement error [43]. Whilst it is claimed that the Five
+Questions are predictive of CVI [38], there is no peer reviewed validation of the Five Questions. Construct validity has not been assessed through Factor Analysis for either questionnaire, meaning that further validation of the questionnaires is required [36] before whole
+population screening studies can be carried out.
+The primary aim of the current study is to assess the internal validity and construct validity
+of the aforementioned questionnaires. A second aim is to assess the performance of the questionnaires in predicting diagnosis in children whose parents report a CVI diagnosis. As these
+questionnaires contain some overlapping items, convergent validity will assessed by examining
+the correlation between the questionnaires. Finally, the distribution of potential CVI cases
+across neurodevelopmental disorders will be assessed.
+
+Methods
+Materials
+This study was based on a survey which consisted the following:
+1) A short demographics section (S1 File) asked for information on the child’s gender, age and
+any disability or diagnosis. Parents were also asked to indicate whether the child had a diagnosis of CVI. Information on how the diagnosis was gained was not requested.
+2) The Five Questions [38] were originally derived from a 50 item CVI Inventory [44]. The full
+CVI Inventory [44] is used following a CVI diagnosis to ascertain the exact nature of the
+CVI e.g. dorsal and/or ventral stream impairment. The Five Questions refer to difficulties
+impaired in (Q3-5), or commonly associated with (Q1-2) Dorsal Stream Dysfunction.
+Parents were instructed to indicate, on a 5-point Likert Scale, whether their child ‘always’,
+‘often’, ‘sometimes’, ‘rarely’ or ‘never’ struggles with the described tasks. To derive the Five
+Questions from the full inventory, 40 children with CVI and 150+ controls without were
+tested [37]. For the Five Questions, Dutton et al. [37] reported that parents of children with
+CVI consistently respond ‘often’ or ‘always’ to 3 or more questions, while parents of children without CVI respond affirmatively to a maximum of one item. Cronbach’s alpha has
+not been calculated for the Five Questions. However, the full inventory has 7 domains,
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+3 / 19
+
+
+[page 4]
+Validity of CVI screening tools
+
+across domains the Cronbach’s alpha is between 0.71 and 0.82, in children with CVI aged
+5–17 [44]. Internal reliability of the full inventory has also been tested on populations in
+India with Autism Spectrum Disorder (ASD), CP and Epilepsy: Cronbach’s alpha = 0.93
+[45]. Furthermore, the full inventory is recommended for use with those with mild intellectual disability, ID, [46].
+3) The CVI Questionnaire [39] is 46 item screening questionnaire, which lists items that children
+with CVI have difficulty with. Parents are requested to tick items which apply to their child.
+The questionnaire used expert opinion to create six constructs of visual attitude, ventral
+stream, dorsal stream, complex problems, other senses and associated characteristics. The
+original questionnaire was tested on children (aged 3–17) with and without CVI, with a
+range of disabilities such as mild and moderate ID, Epilepsy, CP and ASD. All children had a
+developmental age of between 3 and 6 years. Children are predicted to test positive for CVI if
+they receive a sum score greater than or equivalent to the cut-off (at least one item ticked in
+at least 4 of the 6 constructs). Under this cut-off, the sensitivity (probability that the measure
+will correctly detect those with CVI) is 83.3% and specificity (the likelihood that those without CVI will have a negative test result) is 47.5%. Therefore, it appears a good measure for
+predicting CVI in children [47]. Cronbach’s Alpha was not reported by the authors.
+
+Procedure
+Parents of Typically Developing (TD) children and children with ASN aged 5–18 were invited
+to complete the online survey. The survey was advertised via social media, CVI websites and
+the parent email systems of four schools; two mainstream primary schools and two specialist
+provisions in a large local authority within Scotland. Parents were unable to begin the survey
+until they had ticked a box indicating that they had read the information sheet provided and
+given consent. University ethical approval was obtained from the named institutional review
+board: University of Edinburgh, School of Health in Social Sciences (approval number
+CLIN463). Local Education Authority (Edinburgh City Council) approval was also obtained.
+
+Participants
+Five hundred and forty four participants completed the survey; 9 data sets were removed as
+the children were not within the specified age range (aged 5–18). The final data set comprised
+535 participants (Child Age x- = 9.99, σ = 3.47, Child Age Range = 5.01–18.99; Child
+Sex = Male 60%: Female 40%). Sixty three percent of participants attended a mainstream
+school, 15% attended a mainstream school with a classroom assistant, 4% were educated in a
+‘special class’ within a mainstream school, 14% attended special school and 4% were home
+schooled. The majority of the sample (76%) were UK residents; the remainder resided in the
+USA (15%) or other countries.
+
+Analytical strategy
+Parents were asked the question, “Does your child have CVI?” They were not requested to provide information on whether this had been formally diagnosed. Affirmative responses are
+referred to as ‘reported CVI’. ‘Potential CVI’ refers to those who meet the cut-off score for CVI
+according to the screening questionnaires.
+The ability of both the CVI Questionnaire and Five Questions to predict CVI in children with
+a reported CVI diagnosis was evaluated using binary logistic regression. The convergent validity
+of the screening measures was also investigated via correlation analysis of their raw scores.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+4 / 19
+
+
+[page 5]
+Validity of CVI screening tools
+
+To evaluate construct validity, Exploratory Factor Analysis (EFA) and not Principal Component Analysis (PCA) was conducted because the central assumption of PCA is that all variance is shared variance [48]. This is theoretically implausible because there is additional error
+variance to consider [48, 49]. EFA on the other hand, accounts for this: it only evaluates the
+shared variance, with the remaining variance analysed as specific error variance [48, 49]. For
+the Five Questions, EFA was conducted using SPSS Version 23.
+The CVI Questionnaire has a dichotomous question format. Due to the reliance on a correlation matrix, EFA carried out on dichotomous variables in SPSS is at risk of outputting “difficulty factors” which are based on a similar distribution, and not on similarity of content [50,
+51]. The EFA on the CVI Questionnaire was conducted in R Studio, allowing a polychoric correlation matrix to be created from the dichotomous variables.
+For factors to be retained, <50% of residual correlations had to be > |0.05| [52]. Additionally, each factor had to have at least 3 variables with a primary loading of at least 0.3 to remain
+in the analysis [53]. Retained factors had to explain > = 25% of the variance [52].
+
+Power analysis
+For a binary logistic regression with one predictor, a minimum N of 100 is required [54]. For factor
+analysis on health questionnaires, a sample size seven times the number of items in the questionnaire, with a minimum N of 100, is recommended [55], cited in [56]. The largest questionnaire in
+this study (the CVI Questionnaire) has 46 items. Therefore, 329 participants were required.
+
+Results
+Descriptives
+Table 1 displays the percentage of children with different diagnoses in the sample. Nineteen
+percent of parents (N = 104) confirmed that their child had a diagnosis of CVI. Sixty six percent of parents reported that their child had at least one diagnosis. Many respondents
+Table 1. Diagnoses in sample.
+N
+
+% of Sample
+
+No Diagnosis
+
+181
+
+34
+
+Autism Spectrum Disorder (ASD)
+
+147
+
+28
+
+Attention Deficit Hyperactivity Disorder (ADHD)
+
+87
+
+16
+
+Dyscalculia
+
+39
+
+7
+
+Dyslexia
+
+91
+
+17
+
+Dyspraxia
+
+71
+
+13
+
+Ocular Visual Impairment (OVI)
+
+63
+
+12
+
+CVI
+
+104
+
+19
+
+Hearing Impairment
+
+32
+
+6
+
+Auditory Processing Disorder (APD)
+
+99
+
+19
+
+Intellectual Disability (ID)
+
+167
+
+31
+
+Hydrocephaly
+
+11
+
+2
+
+Epilepsy
+
+37
+
+7
+
+Cerebral Palsy (CP)
+
+32
+
+6
+
+Periventricular White Matter Injury (PVL)
+
+26
+
+5
+
+Note: for definitions of each of the above diagnoses see the attached survey in S1 File.
+https://doi.org/10.1371/journal.pone.0214290.t001
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+5 / 19
+
+
+[page 6]
+Validity of CVI screening tools
+
+indicated that their child had multiple diagnoses. In these cases, children are included in multiple groups (e.g. both ASD and Attention Deficit Hyperactivity Disorder, ADHD).
+Distribution of reported CVI across diagnostic groups. Table 2 highlights that between
+23%-39% of children with a neurodevelopmental disorder have comorbid CVI (according to
+parental report).
+
+Factor analyses
+Five questions. Loess lines indicated that the variables were linearly related (S1 Fig).
+Visual inspection of the Histograms, and significant K-S tests, Kurtosis and Skewness values
+indicated that the variables were positively skewed and not normally distributed (S1 Fig). This
+is unsurprising as CVI is relatively uncommon. Furthermore, EFA is robust to deviations from
+normality [50]. Initial correlations (0.55–0.88) and communalities (0.45–0.72) were >0.3 and
+<0.9, indicating that they are not correlated too weakly or strongly with each other. A KMO
+test statistic of 0.85 was above the recommended threshold [57] and a significant Bartlett’s Test
+of Sphericity indicated that all correlations were >0, X2(10) = 1687.76, p<0.001 [57]. Therefore, requirements of EFA were met and no variables removed at this stage.
+Twenty percent of the residuals were >|0.5|. Parallel Analysis returned 1 Factor. This
+aligned with the Scree Plot (S2 Fig). The extracted factor explains 71.5% of the variance. S1
+Table summarises this factor and highlights that all 5 variables load onto the one factor, with
+primary loadings of >0.3. As only one factor was identified, no rotation was carried out. As all
+variables load onto the one factor, which aligns with the hypothesised construct (dorsal stream
+functions) this questionnaire has good construct validity [58]. A Cronbach’s Alpha of 0.90 suggests a high level of internal consistency for the questionnaire [59].
+CVI questionnaire. The 46 items of the CVI questionnaire were subjected to PCA. Firstly,
+the suitability of the data for factor analysis was assessed. The correlation matrix revealed that
+all coefficients were 0.3 and above, and below 0.9. The KMO value was 0.79, exceeding the recommended value of 0.6 [57] and Bartlett’s Test of Sphericity reached statistical significance.
+PCA with oblique (promax) rotation revealed the presence of five factors with eigenvalues
+exceeding 1, explaining 23%, 13%, 7%, 5% and 4% of the variance respectively. These
+accounted for 52% of the variance overall. Inspection of the scree plot (S3 Fig) revealed a clear
+break after the fifth component. This was further supported by Parallel Analysis which showed
+five components with eigenvalues exceeding the corresponding criterion values for a randomly
+Table 2. Percentage of reported CVI by diagnosis.
+% reported per CVI diagnostic group
+Autism Spectrum Disorder (ASD)
+
+24
+
+Attention Deficit Hyperactivity Disorder (ADHD)
+
+23
+
+Dyscalculia
+
+36
+
+Dyslexia
+
+26
+
+Dyspraxia
+
+32
+
+Ocular Visual Impairment (OVI)
+
+27
+
+Hearing Impairment
+
+38
+
+Auditory Processing Disorder (APD)
+
+32
+
+Intellectual Disability (ID)
+
+39
+
+Hydrocephaly
+
+82
+
+Epilepsy
+
+54
+
+Cerebral Palsy (CP)
+
+91
+
+Periventricular White Matter Injury (PVL)
+
+92
+
+https://doi.org/10.1371/journal.pone.0214290.t002
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+6 / 19
+
+
+[page 7]
+Validity of CVI screening tools
+
+generated matric of the same size (46 variables x 535 respondents). All factors had at least
+three variables with a primary loading of >0.3. Any variables with loadings <0.3 were removed
+from the factors. The variable “often stares at light sources” did not load >0.3 onto any of the
+factors and was removed. S2 Table indicates the factor loadings after rotation.
+Following from Ortibus et al. [39], we have named the factors as follows; F1-Complex Neurological Problems, F2-Dorsal and Ventral Stream Functions, F3-Visual Attention, F4-Influence
+of a Familiar Environment on Vision and F5- Processing in Multi-Tasking Activities. S2 Table
+highlights that some variables loaded onto multiple factors. For example, many load relatively
+equally onto two factors, such as “cannot play memory games” (F2, r = 0.49, and F5, r = 0.44)
+and “has no interest for complex pictures” (F1, r = 0.40 and F2, r = 0.44). However, the variables
+with cross loadings were not removed as it was deemed conceptually viable that they were
+related to each factor.
+To summarise, the factors in the current solution reflect constructs associated with CVI
+and are similar to those proposed by Ortibus et al. [39], demonstrating good construct validity
+[58]. Cronbach’s Alpha for the whole CVI Questionnaire is 0.94, indicating a high level of
+internal consistency [59]. Additionally, all factors have an acceptable internal consistency (α >
+0.7 and <0.94, S2 Table; 59).
+
+Criterion reliability: Binary logistic regression of a reported CVI diagnosis
+onto questionnaire scores
+Binary Logistic Regression was conducted to investigate whether the questionnaires had
+acceptable criterion validity; in other words how accurately they identify the children with a
+reported CVI diagnosis. The independent variable was whether or not each child met the predefined cut-off scores for each questionnaire (see methods section), and thus were identified
+by the questionnaires as having CVI (or not). The dependent variable was whether or not
+parents reported a CVI diagnosis.
+Five questions. Fig 1 illustrates that the Five Questions had a sensitivity value of 81.7%.
+Additionally, its specificity value was 87.2%. Twelve point eight percent of those who selected
+‘no’ to a CVI diagnosis were identified by the Five Questions as having CVI.
+Table 3 shows a logistic regression which highlights that meeting the cut-off for CVI on the
+Five Questions (or not) is a significant predictor of whether a child has a reported CVI diagnosis (or not). The model was adjusted for age. Gender was not included as a covariate as it was
+unrelated to reported diagnosis in a univariate analysis (Odds Ratio = 0.84, 95% CI 0.54, 1.29,
+p = 0.42).
+The positive odds ratio indicates that children who meet the cut-off on the Five Questions,
+are 37.43 times more likely to have a reported CVI diagnosis than those below the cut-off. This
+is further supported by the fact that the lower and upper bound CIs for the odds ratio are >1
+and do not cross 1 [60].
+CVI questionnaire. Fig 1 highlights that the CVI Questionnaire had a sensitivity value of
+96.2%. It also had a specificity value of 61.5%. Thirty eight point five percent of those who did
+not have a reported CVI diagnosis met the cut-off for CVI on the CVI Questionnaire.
+Table 4 shows a logistic regression which highlights that meeting the cut-off for CVI on the
+CVI Questionnaire is a significant predictor of whether or not a child has a reported CVI diagnosis. The model was adjusted for age. Gender was not included as a covariate as it was unrelated to reported diagnosis in a univariate analysis (Odds Ratio = 0.84, 95% CI 0.54, 1.29,
+p = 0.42).
+The positive odds ratio indicates that children who meet the cut-off on the CVI.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+7 / 19
+
+
+[page 8]
+Validity of CVI screening tools
+
+Fig 1. Comparison of the CVI questionnaire and Five Questions at determining children with parental-reported CVI who meet the cut-off for CVI across
+diagnostic groups.
+https://doi.org/10.1371/journal.pone.0214290.g001
+
+Questionnaire, have an almost 42 fold increase in odds over those below cut-off of having a
+reported CVI diagnosis. This is further substantiated by the fact that the lower and upper
+bound CIs for the odds ratio are >1 and do not cross 1 [60].
+
+Sensitivity of questionnaires across diagnostic groups
+Fig 1 indicates that the questionnaires both appear relatively accurate at identifying those with
+reported CVI, across all diagnostic groups. It is apparent that both the Five Questions and CVI
+Questionnaire predict CVI, with sensitivity values >81.7% and specificity values >61.5%.
+
+Convergent validity of questionnaires
+To explore convergent validity, the relationship between the raw scores of the questionnaires
+was investigated. Neither of the questionnaires indicated how a raw score should be calculated.
+Therefore, for the Five Questions and the CVI Questionnaire, the raw score was calculated to
+Table 3. Logistic regression of reported CVI diagnosis onto Five Questions cut-off scores.
+p
+
+Odds Ratio
+
+95% CI for Odd’s Ratio
+
+Five Questions Cut-Off
+
+0.00
+
+37.43
+
+20.13–69.60
+
+Age
+
+0.00
+
+0.84
+
+0.77–0.91
+
+https://doi.org/10.1371/journal.pone.0214290.t003
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+8 / 19
+
+
+[page 9]
+Validity of CVI screening tools
+
+Table 4. Logistic regression of reported CVI diagnosis onto the CVI questionnaire cut-off scores.
+p
+
+Odds Ratio
+
+95% CI for Odd’s Ratio
+
+CVI Questionnaire Cut-Off
+
+0.00
+
+41.96
+
+15.06–116.90
+
+Age
+
+0.001
+
+0.88
+
+0.82–0.95
+
+https://doi.org/10.1371/journal.pone.0214290.t004
+
+align with cut-off scores. For the Five Questions, the raw score is the number of questions
+which a respondent marked ‘often/always’ to (Maximum Raw Score = 5). For the CVI Questionnaire, the raw score was calculated as the number of sections which a participant gave at
+least one positive response (Maximum = 6). For both questionnaires, the higher the raw score,
+the higher the likelihood of having CVI.
+K-S tests were significant for the raw scores of both the Five Questions, K-S(535) = 0.23,
+p<0.001, and the CVI Questionnaire, K-S(535) = 0.17, p<0.001 the distribution of raw scores
+for each questionnaire was not normal. A Spearmen’s Rank correlation indicated that the raw
+score of the Five Questions correlated positively and significantly with the raw score of the
+CVI Questionnaire, r (533) = 0.75, 95% CI 0.70, 0.79, p<0.001. This indicates convergent
+validity: the raw scores of two questionnaires which are designed to measure the same construct, are related.
+
+Distribution of potential CVI (as identified by the questionnaires) across
+diagnostic groups
+Fig 2 depicts children with potential CVI: they do not have a parental reported CVI diagnosis,
+but meet the cut-off for CVI on the questionnaires. Of the neurodevelopmental disorders
+(ASD, ADHD, ID, Dyscalculia, Dyslexia and Dyspraxia), between 6.59% and 22.53% of children were identified by the Five Questions (the more conservative questionnaire) as potentially
+having CVI. Many more children met the cut-off for CVI on the CVI Questionnaire than the
+Five Questions, however, both questionnaires were very similar with respect to the diagnostic
+categories which they identify as being associated with the highest percentage of potential CVI.
+For example, for each questionnaire, having Dyspraxia, ASD or being Deaf, are in the top four
+diagnostic categories with the highest incidence of potential CVI.
+
+Discussion
+Key results
+This study evaluated the validity and sensitivity of two CVI screening measures and investigated the distribution of CVI across neurodevelopmental disorders. This is the first study to
+conduct Factor Analysis on the Five Questions and the CVI Questionnaire and report that
+they have good construct validity. In what follows, we discuss the factor analysis of the CVI
+Questionnaire in more detail.
+As previously highlighted, the names of Factors 1–4 in the CVI Questionnaire reflect similar
+names of constructs outlined in the original paper [39]. However, Factor 5, named ‘Processing
+in Multi-tasking Activities’ by the current authors, is not a construct in the original study. It
+nevertheless reflects a construct which is associated with CVI [61, 62]. Factors 1–4 differ slightly
+from the original paper with respect to the specific items in each factor. Of note is F1-Complex
+Neurological Problems. In the original paper [39], this factor is named ‘complex problems’ and
+is loosely defined as “complex (visuomotor) abilities” (pp. 139). In Ortibus et al. [39], this construct only contains 2 items; “clumsy in: cutting, building stacks, tying shoelaces, making puzzles”
+and “a moving object/person attracts more attention than a stationary one”. In the current
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+9 / 19
+
+
+[page 10]
+Validity of CVI screening tools
+
+Fig 2. Comparison of the CVI Questionnaire and the Five Questions at determining children with no parental-reported CVI who meet the cut-off point for CVI
+across diagnostic groups.
+https://doi.org/10.1371/journal.pone.0214290.g002
+
+solution, these original items do load onto F1. In the current solution F1 also contains an additional 28 items. They relate to multiple neurological functions, not just visuomotor functions,
+for example, execution of movement, olfactory, touch and auditory processing, as well as visual
+processing. It is not uncommon for children with CVI to have complex neurological impairments beyond that of vision [63], hence, this was named ‘Complex Neurological Problems’.
+An additional deviance from the constructs proposed by the original paper is F2 (Dorsal and
+Ventral Stream Functions). In Ortibus et al. [39], these were distinct factors. In the present
+study, these are combined into a single factor, reflecting research studies which demonstrate
+that both streams are frequently impaired [7, 14]. A further difference between Ortibus et al.
+[39] and the current factor structure is that one item, “often stares at light sources”, did not load
+onto any factors. This may be because staring at light sources requires several variables to be in
+place. For example, children may require sufficient acuity to see the light source, as well as significant attention processes in order to attend to the light. Furthermore, the question may have
+been difficult to interpret: it is not clear how long a stare is and what exactly is defined as a light
+source. Nevertheless, the factors in the current analysis reflect constructs similar to those in the
+original paper [39], highlighting that the CVI Questionnaire has construct validity.
+As well as construct validity, this is also the first to show that the questionnaires have high
+internal consistency (α � 0.9) and high convergent validity (r = 0.75). Additionally, it is the
+first study to replicate Ortibus et al. [39] and Dutton et al. [38]: both the Five Questions and
+CVI Questionnaire are predictive and accurately identify those with a CVI diagnosis, with
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+10 / 19
+
+
+[page 11]
+Validity of CVI screening tools
+
+sensitivity values of 81.7% and 96.2%, respectively. Thus, both questionnaires show promise as
+effective screening questionnaires.
+Moreover, this is the first study to highlight that in comparison with typically developing
+children, there are a large proportion of children with neurodevelopmental disorders who
+have either reported CVI (23%-38.92%), or who are being identified by the questionnaires as
+potentially having CVI (6.59%-22.53%).
+
+Strengths and limitations
+A limitation of this study is the reliance on parental report. It cannot be assumed that parents
+who attest to their child having CVI do so on the basis of a diagnostic test, therefore, it is possible that some incidences of reported CVI are erroneous. Given the large sample size, we suggest
+that this potential error will be small enough that it will not affect the veracity of the results, but
+the criterion validity of the questionnaires must still be interpreted with caution. Regression
+analysis indicated that meeting the questionnaire cut-offs was a significant predictor of having a
+reported CVI diagnosis. This analysis assumes that the children in this sample without a
+reported CVI diagnosis do not have undiagnosed CVI. We do not know this. The only thing
+one can be certain of is the sensitivity values; not specificity values or rates of false positives.
+This is not too problematic for the assertion that the CVI Questionnaire is predictive, as Ortibus
+et al. [39] analysed specificity and reported an acceptable level. However, for the Five Questions,
+there are no reported specificity values [38], making it possible that the Five Questions overestimates CVI in children. This caveat should be considered in the context of studies which place
+great emphasis on maximising sensitivity so that children are not missed [64].
+The accepted standard for sensitivity values of screening questionnaires of 70–80% [65], was
+exceeded by both questionnaires in this study. A high sensitivity rate has been associated with
+lower specificity and an increased false positive rate [66]. However, with regard to developmental
+and behavioural disorders, it is suggested that the cost of unnecessary referrals is 99% less than
+that of children not being identified and missing out on intervention [65, 67]. Therefore, the
+high sensitivity values of both questionnaires support their utility as screening questionnaires.
+A strength of this study is the large sample size (N = 535), with many diagnoses being well
+represented. As an initial investigation of the distribution of CVI across neurodevelopmental
+disorders, the group sample sizes for many of the neurodevelopmental disorders in this study
+are larger than many of the condition-specific studies detailed in the introduction e.g. [12, 15,
+61, 68]. This sample was not randomly recruited, however, and significantly larger group sample sizes are required before a reliable indication of the prevalence of CVI across neurodevelopmental disorders can be identified. Furthermore, an associated limitation is the lack of
+standardisation for each questionnaire across diagnoses.
+With regard to diagnostic accuracy, CVI may be difficult to differentiate from several neurodevelopmental disorders, as behavioural indices often overlap [69] and several studies have
+detailed how CVI could account for each of the diagnostic criteria for ADHD, ASD, Dyslexia
+and Dyspraxia [25, 69]. For example, one of the items of the CVI Questionnaire is, “abandons
+play activity quickly”, which is relatively common in children with Intellectual Disabilities [70]
+or Attention Deficit Hyperactivity Disorder [71], due to attentional difficulties. Similarly, one
+of the items of the Five Questions, “finds copying words time consuming or difficult”, is common in children with Dyslexia [72]. Initial observation of the Social Communication Questionnaire, SCQ [64, 73], a commonly used screening questionnaire for Autism Spectrum
+Disorder, suggests that 15% of the questions on the SCQ overlap with items of the CVI Questionnaire (S3 Table), for example, both questionnaires contain items relating to eye gaze, facial
+expressions, attending to voices and directing attention. It is plausible that these questionnaires
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+11 / 19
+
+
+[page 12]
+Validity of CVI screening tools
+
+may not be identifying specific aspects of CVI, but aspects of the neurodevelopmental disorders, therefore, it would be prudent to consider discriminant validity. Other items are more
+specific to CVI only, for example, “does not see level differences” and “cannot find teddy bear
+(or equal) amongst other toys” are distinctive features of optic ataxia and simultanagnosia,
+respectively [74]. In the current study, sensitivity values appear relatively stable and high across
+diagnoses (see Fig 1: > 79% for all diagnoses on both questionnaires, except the Five Questions
+for ADHD, which is 65%). This suggests that they are effective in identifying CVI across
+groups. It remains evident, however, that future research focusing on the diagnostic overlap
+between neurodevelopmental disorders and CVI is warranted.
+
+Implications for theory
+Whilst the questionnaires require further replication to ascertain the accuracy of the percentages of potential CVI across groups, a large proportion of children in this sample (23%38.92%) have parent reported comorbid CVI and a neurodevelopmental disorder (see
+Table 2). The CVI literature focuses predominantly on aetiology and features [75]. In contrast
+to the literature pertaining to Ocular Visual Impairment [76–81], there is a relative dearth of
+studies investigating the developmental impact of CVI [31, 82].
+Drawing on knowledge of the sequential and additive nature of development, logical
+hypotheses about the impact of CVI on development have been proposed [69, 82]. For example, some children with CVI have difficulties with social interaction [69, 82]. It has been proposed that this may arise from dyskinetopsia [69], a type of CVI associated with dorsal stream
+dysfunction. Children with dyskinetopsia struggle to process fast moving facial expressions
+[82], potentially impacting their ability to attend to the non-verbal socio-communicative cues
+which are evoked through these facial expressions and eye gazes [69]. This is thought to result
+in atypical interactions and responses to others’ emotions [69]. However, this hypothesis has
+yet to be substantiated with empirical investigation. In the current study, of the 147 children
+with ASD, 23.81% have parent reported CVI and a further 19.73% potentially have CVI.
+Indeed, other studies have highlighted that many children with ASD have CVI, specifically
+dorsal stream dysfunction [83–88]. Like those with CVI, children with ASD also have a social
+interaction impairment and struggle to interpret eye gazes [89]. It is thought that this is due to
+impaired social motivation [90]. Given the aforementioned dyskinetopsia hypothesis, it is possible that in those with comorbid CVI and ASD, the social interaction impairment instead
+arises due to dyskinetopsia.
+A more substantiated hypothesis suggests that CVI plays a causal role in the development
+of Dyslexia [91–93]. Of the 91 children in the current study with parental reported dyslexia,
+26% have parent-reported CVI and a further 7% are identified by the questionnaires as potentially having CVI. Dorsal stream deficits, such as impaired visual attention shifting, eye movement control and coherent motion processing, have been reported in children with Dyslexia
+[94–97]. It is of note that attention shifting is correlated with phonological awareness [98], a
+key mechanism involved in the development of reading [98–100]. Additionally, a study of
+4512 children found that the greater the difficulty a child has in activities involving the dorsal
+stream, the lower their attainment in reading [101]. These studies align with the hypothesis
+that a dorsal stream impairment may be present in children with dyslexia [93, 97, 98]. Whether
+or not it plays a causal role is debated [102–104], as not all children with Dyslexia show dorsal
+stream impairments [96; 103], others have impairments that cannot be explained by a dorsal
+stream deficit [102] and the exact nature of the processes involved between the dorsal stream
+impairment and possible development of Dyslexia is yet unclear [102].
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+12 / 19
+
+
+[page 13]
+Validity of CVI screening tools
+
+Given the hypothesised impact of CVI on the emergence of neurodevelopmental disorders
+it is imperative that the developmental trajectories of children with CVI are further investigated. If CVI potentially plays a causal role in the emergence of neurodevelopmental disorders,
+due to features such as impaired visual attention shifting, eye movement control and motion
+processing, then this only further emphasises the importance of early screening and timely
+intervention.
+
+Implications for practice
+The current study results indicate that the Five Questions and CVI Questionnaire are sensitive
+screening tools. In terms of respondent acceptability, parents in this study preferred the Likert
+scale format of the Five Questions to the dichotomous CVI Questionnaire. The Five Questions
+is shorter than the CVI Questionnaire, thus has the potential benefits of reduced reader fatigue
+and increased response reliability [105, 106]. Unlike the CVI Questionnaire, the Five Questions has no overlapping items with the Social Communication Questionnaire for ASD (S3
+Table), thus potentially has better discriminant validity than the CVI Questionnaire, at least
+for children with ASD. These factors suggest that the Five Questions may be preferable for
+larger scale screening studies.
+On the other hand, the CVI Questionnaire has much higher sensitivity than the Five Questions; arguably a more important consideration for screening studies than length or format
+e.g. [105]. The CVI Questionnaire is also relatively short and could be converted into a Likert
+scale e.g. [107, 108]. Unlike the CVI Questionnaire, the Five Questions only contains questions
+which refer to dorsal stream dysfunction, not ventral stream dysfunction, leading to the possibility that some children with CVI could be missed when screened with the Five Questions.
+Dorsal stream dysfunction is reportedly the most common type of CVI observed in children
+[28]. It is suggested that this is due to the inherent vulnerability of the posterior parietal lobes
+[28], in which the three arteries, which provide blood to either side of the brain, converge. The
+posterior parietal lobes are therefore particularly susceptible to damage from reduced oxygen,
+blood flow and glucose supply [28]. As such, it is likely that that most children with CVI would
+be identified by the Five Questions.
+Ventral stream dysfunction can be present without an affected dorsal stream e.g. [109].
+However, empirical studies comparing the prevalence of different types of CVI have not been
+conducted, so the prevalence rate of ventral stream dysfunction, in the absence of dorsal
+stream dysfunction, is unknown. Whilst the aforementioned limitations regarding the crossdiagnosis sensitivity remain, we suggest that the CVI Questionnaire would be preferable for
+use in large screening studies. Upon identification of CVI by either questionnaire, follow up
+detailed history taking and assessment of both ventral and dorsal stream functions would be
+required to ascertain the exact nature of the child’s CVI.
+
+Future directions
+Many future directions have been highlighted throughout this discussion, from establishing
+specificity values for the Five Questions, to ascertaining the ability of the screening measures
+to discriminate between neurodevelopmental disorders which are behaviourally similar to
+CVI, as well as the need to study CVI from a developmental perspective. An additional future
+direction could be to consider the impact of Ocular Visual Impairment on the screening measures. For example, if a child has undetected and uncorrected visual acuity problems, without
+CVI, it is possible that they too, may “have difficulty seeing something which is pointed out in
+the distance” (Five Questions) or “need more time than you’d expect to look at an object” (CVI
+Questionnaire). The majority of respondents in this study were unable to provide visual acuity
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+13 / 19
+
+
+[page 14]
+Validity of CVI screening tools
+
+figures for their children, therefore this could not be controlled for in subsequent analyses.
+Future studies could consider the screening measures’ ability to discriminate between Ocular
+Visual Impairment and Cerebral Visual Impairment.
+
+Conclusion
+The current study demonstrates that the Five Questions and CVI Questionnaire have good
+convergent validity, internal consistency and a reliable factor structure and may therefore be
+suitable as screening tools. We suggest that the CVI Questionnaire may be preferable to the
+Five Questions for large scale screening studies, however the Five Questions may potentially
+provide more accurate results in children with ASD. The study furthermore highlights that
+reported or potential CVI is evident in a large proportion of children with neurodevelopmental disorders. Whilst further research is required, these preliminary results align with assertions
+made by other researchers and emphasise the need to screen for CVI in children with Additional Support Needs, particularly those with neurodevelopmental disorders.
+
+Supporting information
+S1 Dataset. Data.
+(XLSX)
+S1 Fig. Loess lines five questions.
+(DOCX)
+S2 Fig. Scree plot five questions.
+(DOCX)
+S3 Fig. Scree plot CVI questionnaire.
+(DOCX)
+S1 File. Survey.
+(DOCX)
+S1 Table. Factor loadings five questions.
+(DOCX)
+S2 Table. Factor loadings CVI questionnaire.
+(DOCX)
+S3 Table. Overlap with social communication questionnaire.
+(DOCX)
+
+Author Contributions
+Conceptualization: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Data curation: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Formal analysis: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Investigation: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Methodology: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Project administration: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Supervision: Karen Goodall, John Ravenscroft.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+14 / 19
+
+
+[page 15]
+Validity of CVI screening tools
+
+Validation: Fiona Gorrie, Karen Goodall, Robert Rush, John Ravenscroft.
+Writing – original draft: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+Writing – review & editing: Fiona Gorrie, Karen Goodall, John Ravenscroft.
+
+References
+1.
+
+Chadha RK, Subramanian A The effect of visual impairment on quality of life of children aged 3–16
+years British Journal of Ophthalmology 2011; 95:642–645. https://doi.org/10.1136/bjo.2010.182386
+PMID: 20852314
+
+2.
+
+Sonksen PM, Dale N. Visual impairment in infancy: impact on neurodevelopmental and neurobiological processes. Dev Med Child Neurol. 2002; 44:782–91. PMID: 12418621
+
+3.
+
+Whiting S.,Jan J.E.,Wong P.K.,Flodmark O.,Farrell K.,and McCormick A.Q.(1985).Permanent cortical
+visual impairment in children. Dev. Med. Child Neurol. 27, 730–739. https://doi.org/10.1111/j.14698749.1985.tb03796.x PMID: 4092845
+
+4.
+
+Colenbrander A. (2010). What’s in a name? Appropriate terminology for CVI. J. Vis. Impair. Blind.
+104, 583–585.
+
+5.
+
+Sakki HE, Dale NJ, Sargent J, Perez-Roche T, Bowman R. Is there consensus in defining childhood
+cerebral visual impairment? A systematic review of terminology and definitions. British Journal of Ophthalmology. 2017 Nov 16:bjophthalmol-2017.
+
+6.
+
+Kong L, Fry M, Al-Samarraie M, Gilbert C, Steinkuller PG. An update on progress and the changing
+epidemiology of causes of childhood blindness worldwide. Journal of American Association for Pediatric Ophthalmology and Strabismus. 2012 Dec 1; 16(6):501–7. https://doi.org/10.1016/j.jaapos.2012.
+09.004 PMID: 23237744
+
+7.
+
+Philip SS, Dutton GN. Identifying and characterising cerebral visual impairment in children: a review.
+Clinical and Experimental Optometry. 2014 May; 97(3):196–208. https://doi.org/10.1111/cxo.12155
+PMID: 24766507
+
+8.
+
+Rahi J.S.(2007).Childhood blindness: a UK epidemiological perspective. Eye (Lond.) 21, 1249–1253.
+https://doi.org/10.1038/sj.eye.6702837 PMID: 17914426
+
+9.
+
+Rahi J.S.,Cable N.,and British Childhood Visual Impairment Study Group (2003). Severe visual
+impairment and blindness in children in the UK. Lancet 362, 1359–1365. https://doi.org/10.1016/
+S0140-6736(03)14631-4 PMID: 14585637
+
+10.
+
+Good W.V.,Jan J.E.,Burden S.K.,Skoczenski A.,and Candy R.(2001).Recent advances in cortical
+visual impairment. Dev. Med. Child Neurol. 43, 56–60. PMID: 11201425
+
+11.
+
+Slidsborg C, Bangsgaard R, Fledelius HC, Jensen H, Greisen G, la Cour M. Cerebral damage may be
+the primary risk factor for visual impairment in preschool children born extremely premature. Archives
+of Ophthalmology. 2012 Nov 1; 130(11):1410–7. https://doi.org/10.1001/archophthalmol.2012.1393
+PMID: 22688255
+
+12.
+
+Fazzi E, Bova S, Giovenzana A, Signorini S, Uggetti C, Bianchi P. Cognitive visual dysfunctions in preterm children with periventricular leukomalacia. Developmental medicine & Child neurology. 2009
+Dec; 51(12):974–81.
+
+13.
+
+Stiers P, Vanderkelen R, Vanneste G, Coene S, De Rammelaere M, Vandenbussche E. Visual–perceptual impairment in a random sample of children with cerebral palsy. Developmental medicine and
+child neurology. 2002 Jun; 44(6):370–82. PMID: 12088305
+
+14.
+
+Houliston MJ, Taguri AH, Dutton GN, Hajivassiliou C, Young DG. Evidence of cognitive visual problems in children with hydrocephalus: a structured clinical history-taking strategy. Developmental medicine and child neurology. 1999 May; 41(5):298–306 PMID: 10378754
+
+15.
+
+Andersson S, Persson EK, Aring E, Lindquist B, Dutton GN, Hellström A. Vision in children with hydrocephalus. Developmental medicine and child neurology. 2006 Oct; 48(10):836–41. https://doi.org/10.
+1017/S0012162206001794 PMID: 16978464
+
+16.
+
+Ego A, Lidzba K, Brovedani P, Belmonti V, Gonzalez-Monge S, Boudia B, Ritz A, Cans C. Visual–perceptual impairment in children with cerebral palsy: a systematic review. Developmental Medicine &
+Child Neurology. 2015 Apr; 57:46–51.
+
+17.
+
+Welinder LG, Baggesen KL. Visual abilities of students with severe developmental delay in special
+needs education—a vision screening project in Northern Jutland, Denmark. Acta Ophthalmol 2012;
+90:721–6 https://doi.org/10.1111/j.1755-3768.2011.02239.x PMID: 21914144
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+15 / 19
+
+
+[page 16]
+Validity of CVI screening tools
+
+18.
+
+Nielsen LS, Skov L, Jensen H. Visual dysfunctions and ocular disorders in children with developmental
+delay. I. prevalence, diagnoses and aetiology of visual impairment. Acta Ophthalmol Scand 2007;
+85:149–56. https://doi.org/10.1111/j.1600-0420.2006.00867.x PMID: 17263780
+
+19.
+
+Woodruff ME. Prevalence of visual and ocular anomalies in 168 non-institutionalized mentally retarded
+children. Can J Public Health 1977; 68:225–32. PMID: 890639
+
+20.
+
+Hyvarinen L. Cerebral visual impairment (CVI) or brain damage related vision loss. Proceedings of the
+Summit on Cerebral/Cortical Visual Impairment: Educational, Family, and Medical Perspectives: April
+30, 2005. 2006:35.
+
+21.
+
+Roman C, Baker-Nobles L, Dutton GN, Luiselli TE, Flener BS, Jan JE, Lantzy A, Matsuba C, Mayer
+DL, Newcomb S, Nielsen AS. Statement on cortical visual impairment. Journal of Visual Impairment &
+Blindness. 2010 Feb 1; 104(2):69.
+
+22.
+
+Dale N, Edwards L. Children with specific sensory impairments. Rutter’s Child and Adolescent Psychiatry. 2015 Jul 10:612–22.
+
+23.
+
+Roman-Lantzy C. CVI Synopsym: We are going to change how our children with CVI see the world.
+2018 (20/05/2018). Available from: https://startseeingcvi.com/2018/04/16/we-are-going-to-changehow-our-children-with-cvi-see-the-world/
+
+24.
+
+Pehere N., Chougule P., & Dutton G. N. (2018). Cerebral visual impairment in children: Causes and
+associated ophthalmological problems. Indian journal of ophthalmology, 66(6), 812–815. https://doi.
+org/10.4103/ijo.IJO_1274_17 PMID: 29785989
+
+25.
+
+Chokron S., & Dutton G. N. (2016). Impact of Cerebral Visual Impairments on Motor Skills: Implications
+for Developmental Coordination Disorders. Frontiers in psychology, 7, 1471. https://doi.org/10.3389/
+fpsyg.2016.01471 PMID: 27757087
+
+26.
+
+Good W. V., Jan J. E., DeSa L., Barkovich A. J., Groenveld M., Hoyt C. S. (1994). Cortical visual
+impairment in children. Surv. Ophthalmol. 38 351–364. https://doi.org/10.1016/0039-6257(94)900736 PMID: 8160108
+
+27.
+
+Freeman RD. Psychiatric considerations in cortical visual impairment. Clinics in Developmental Medicine. 2010 Jan 1; 186(1):174–80.
+
+28.
+
+Dutton G., Chokron S., Little S., & McDowell N. Posterior parietal visual dysfunction: An exploratory
+review. Vision Development and Rehabilitation. 2017. 3(1), 10–22.
+
+29.
+
+Chokron S, Pieron M, Zalla T. Troubles du spectre de l’autisme et troubles de la fonction visuelle:
+revue critique, implications théoriques et cliniques. L’information psychiatrique. 2014; 90(10):819–26.
+
+30.
+
+Chokron S, Zalla T. Troubles de la fonction visuelle, troubles de l’interaction et développement cognitif.
+Revue de neuropsychologie. 2017; 9(1):35–44.
+
+31.
+
+Martı́n MB, Santos-Lozano A, Martı́n-Hernández J, López-Miguel A, Maldonado M, Baladrón C, Bauer
+CM, Merabet LB. Cerebral versus ocular visual impairment: the impact on developmental neuroplasticity. Frontiers in psychology. 2016 Dec 26; 7:1958. https://doi.org/10.3389/fpsyg.2016.01958 PMID:
+28082927
+
+32.
+
+Alimović S, Jurić N, Bošnjak VM. Functional vision in children with perinatal brain damage. The Journal
+of Maternal-Fetal & Neonatal Medicine. 2014 Sep 1; 27(14):1491–4.
+
+33.
+
+Cavezian C, Vilayphonh M, de Agostini M, Vasseur V, Watier L, Kazandjian S, Laloum L, Chokron S.
+Assessment of visuo-attentional abilities in young children with or without visual disorder: toward a systematic screening in the general population. Research in developmental disabilities. 2010 Sep 1; 31
+(5):1102–8. https://doi.org/10.1016/j.ridd.2010.03.006 PMID: 20413265
+
+34.
+
+Maitreya A, Rawat D, Pandey S. A pilot study regarding basic knowledge of “cortical visual impairment
+in children” among ophthalmologists. Indian journal of ophthalmology. 2018 Feb; 66(2):279. https://
+doi.org/10.4103/ijo.IJO_425_17 PMID: 29380776
+
+35.
+
+Dutton G. CVI Information Day. Visibility Charity, Glasgow. 2018 May 17.
+
+36.
+
+Salavati M, Waninge A, Rameckers EA, van der Steen J, Krijnen WP, van der Schans CP, Steenbergen B. Development and face validity of a cerebral visual impairment motor questionnaire for children
+with cerebral palsy. Child: care, health and development. 2017 Jan; 43(1):37–47.
+
+37.
+
+van Genderen M, Dekker M, Pilon F, Bals I. Diagnosing cerebral visual impairment in children with
+good visual acuity. Strabismus. 2012 Jun 1; 20(2):78–83. https://doi.org/10.3109/09273972.2012.
+680232 PMID: 22612357
+
+38.
+
+Dutton GN, Calvert J, Ibrahim H, Macdonald E, McCulloch DL, Macintyre-Beon C, Spowart KM. Structured clinical history taking for cognitive and perceptual visual dysfunction and for profound visual disabilities due to damage to the brain in children. Visual impairment in children due to damage to the
+brain. Mac Keith Press, London. 2010 Jan 1:117–28.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+16 / 19
+
+
+[page 17]
+Validity of CVI screening tools
+
+39.
+
+Ortibus E, Laenen A, Verhoeven J, De Cock P, Casteels I, Schoolmeesters B, Buyck A, Lagae L.
+Screening for cerebral visual impairment: value of a CVI questionnaire. Neuropediatrics. 2011 Aug; 42
+(04):138–47.
+
+40.
+
+Williams C, Northstone K, Sabates R, Feinstein L, Emond A, Dutton GN. Visual perceptual difficulties
+and under-achievement at school in a large community-based sample of children. PLoS One. 2011
+Mar 21; 6(3):e14772. https://doi.org/10.1371/journal.pone.0014772 PMID: 21445286
+
+41.
+
+Neumann G, Schaadt AK, Reinhart S, Kerkhoff G. Clinical and psychometric evaluations of the cerebral vision screening questionnaire in 461 nonaphasic individuals post stroke. Neurorehabilitation and
+neural repair. 2016 Mar; 30(3):187–98. https://doi.org/10.1177/1545968315585355 PMID: 25967758
+
+42.
+
+Zihl J, Dutton GN. Diagnostic Assessment. In Cerebral Visual Impairment in Children 2015 (pp. 123–
+179). Springer, Vienna.
+
+43.
+
+Denver B, Froude E, Rosenbaum P, Wilkes Gillan S, Imms C. Measurement of visual ability in children
+with cerebral palsy: a systematic review. Developmental Medicine & Child Neurology. 2016 Oct; 58
+(10):1016–29.
+
+44.
+
+Macintyre-Beon C, Young D, Calvert J, Ibrahim H, Dutton GN, Bowman R. Reliability of a question
+inventory for structured history taking in children with cerebral visual impairment. Eye. 2012 Oct; 26
+(10):1393. https://doi.org/10.1038/eye.2012.154 PMID: 22863818
+
+45.
+
+Philip SS, Tsherlinga S, Thomas MM, Dutton GN, Bowman R. A Validation of an Examination Protocol
+for Cerebral Visual Impairment Among Children in a Clinical Population in India. Journal of clinical and
+diagnostic research: JCDR. 2016 Dec; 10(12):NC01. https://doi.org/10.7860/JCDR/2016/22222.8943
+PMID: 28208897
+
+46.
+
+Bowman R. The importance of assessing vision in disabled children–and how to do it. Community eye
+health. 2016; 29(93):12. PMID: 27601794
+
+47.
+
+Zihl J, Dutton GN. Diagnostic Assessment. In Cerebral Visual Impairment in Children 2015 (pp. 123–
+179). Springer, Vienna.
+
+48.
+
+Costello AB, Osborne JW. Best practices in exploratory factor analysis: Four recommendations for
+getting the most from your analysis. Practical assessment, research & evaluation. 2005 Jul 7; 10(7):1–
+9.
+
+49.
+
+Bates, T. MSc Multivariate Statistics: Factor Analysis. The University of Edinburgh. Retrieved from:
+http://timbates.wikidot.com/mv-stats 2018.
+
+50.
+
+Floyd FJ, Widaman KF. Factor analysis in the development and refinement of clinical assessment
+instruments. Psychological assessment. 1995 Sep; 7(3):286.
+
+51.
+
+SPSS Manual. Exploratory Factor Analysis with Categorical Variables. IBM Support. Retrieved from
+http://www-01.ibm.com/support/docview.wss?uid=swg21477550. 2018.
+
+52.
+
+Field A. Discovering statistics using SPSS. Sage publications; 2009 Jan 21.
+
+53.
+
+Stevens JP. Applied Multivariate statistics for the social sciences ( 4th ed). 2002. Hillsdale, NJ:
+Erlbaum.
+
+54.
+
+Long JS. Advanced quantitative techniques in the social sciences series, Vol. 7. Regression models
+for categorical and limited dependent variables. Thousand Oaks, CA, US.
+
+55.
+
+De Vet HC, Adèr HJ, Terwee CB, Pouwer F. Are factor analytical techniques used appropriately in the
+validation of health status questionnaires? A systematic review on the quality of factor analysis of the
+SF-36. Quality of Life Research. 2005 Jun 1; 14(5):1203–18. PMID: 16047498
+
+56.
+
+Terwee CB, Mokkink LB, Knol DL, Ostelo RW, Bouter LM, de Vet HC. Rating the methodological quality in systematic reviews of studies on measurement properties: a scoring system for the COSMIN
+checklist. Quality of Life Research. 2012 May 1; 21(4):651–7. https://doi.org/10.1007/s11136-0119960-1 PMID: 21732199
+
+57.
+
+Kaiser HF. An index of factorial simplicity. Psychometrika. 1974 Mar 1; 39(1):31–6.
+
+58.
+
+Cronbach LJ, Meehl PE. Construct validity in psychological tests. Psychological bulletin. 1955 Jul; 52
+(4):281. PMID: 13245896
+
+59.
+
+Bland JM, Altman DG. Cronbach’s alpha. BMJ: British Medical Journal. 1997 Feb 22; 314(7080):572.
+PMID: 9055718
+
+60.
+
+Szumilas M. Explaining odds ratios. Journal of the Canadian academy of child and adolescent psychiatry. 2010 Aug; 19(3):227. PMID: 20842279
+
+61.
+
+Saidkasimova S, Bennett DM, Butler S, Dutton GN. Cognitive visual impairment with good visual acuity
+in children with posterior periventricular white matter injury: a series of 7 cases. Journal of American
+Association for Pediatric Ophthalmology and Strabismus. 2007 Oct 1; 11(5):426–30. https://doi.org/
+10.1016/j.jaapos.2007.04.015 PMID: 17631402
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+17 / 19
+
+
+[page 18]
+Validity of CVI screening tools
+
+62.
+
+Zihl J, Dutton GN. Case 4: Florian. In Cerebral Visual Impairment in Children 2015 (pp. 237–281).
+Springer, Vienna.
+
+63.
+
+Zihl J, Dutton GN. On the Coexistence of CVI and Mental and Motor Dysfunction. In Cerebral Visual
+Impairment in Children 2015 (pp. 117–120). Springer, Vienna.
+
+64.
+
+Norris M, Lecavalier L. Screening accuracy of level 2 autism spectrum disorder rating scales: A review
+of selected instruments. Autism. 2010 Jul; 14(4):263–84. https://doi.org/10.1177/1362361309348071
+PMID: 20591956
+
+65.
+
+Glascoe FP. Screening for developmental and behavioral problems. Mental retardation and developmental disabilities research reviews. 2005 Aug; 11(3):173–9. https://doi.org/10.1002/mrdd.20068
+PMID: 16161092
+
+66.
+
+Lalkhen AG, McCluskey A. Clinical tests: sensitivity and specificity. Continuing Education in Anaesthesia Critical Care & Pain. 2008 Dec 1; 8(6):221–3.
+
+67.
+
+Barnett WS, Escobar CM. Economic costs and benefits of early intervention. 1990.
+
+68.
+
+Macintyre-Beon, C. Cerebral visual impairment in children born prematurely. Doctoral dissertation,
+University of Glasgow. 2015.
+
+69.
+
+Pawletko T, Chokron S, Dutton G. Considerations in behavioral diagnoses of CVI: issues, cautions,
+and potential outcomes. Lueck Amanda Hall, and Dutton Gordon N. (Eds.) Impairment of vision due to
+disorders of the visual brain in childhood: A practical approach, USA, AFB. 2014.
+
+70.
+
+Engelbrecht P, Oswald M, Swart E, Eloff I. Including learners with intellectual disabilities: Stressful for
+teachers?. International Journal of Disability, Development and Education. 2003 Sep 1; 50(3):293–
+308.
+
+71.
+
+American Psychiatric Association. Diagnostic and statistical manual of mental disorders (DSM-5®).
+American Psychiatric Pub; 2013 May 22.
+
+72.
+
+Re AM, Cornoldi C. Spelling errors in text copying by children with dyslexia and ADHD symptoms.
+Journal of learning disabilities. 2015 Jan; 48(1):73–82. https://doi.org/10.1177/0022219413491287
+PMID: 23744809
+
+73.
+
+Berument SK, Rutter M, Lord C, Pickles A, Bailey A. Autism screening questionnaire: diagnostic validity. The British Journal of Psychiatry. 1999 Nov; 175(5):444–51.
+
+74.
+
+Drummond SR, Dutton GN. Simultanagnosia following perinatal hypoxia—a possible pediatric variant
+of Balint syndrome. Journal of American
+
+75.
+
+Newcomb S. Reliability of the CVI range: a functional vision assessment for children with cortical visual
+impairment (Doctoral dissertation).
+
+76.
+
+Bigelow AE. The development of joint attention in blind infants. Development and Psychopathology.
+2003 Jun; 15(2):259–75. PMID: 12931827
+
+77.
+
+Bigelow AE. Development of the use of sound in the search behavior of infants. Developmental Psychology. 1983 May; 19(3):317.
+
+78.
+
+Bigelow AE/ Locomotion and search behaviour in blind infants. Infant Behaviour and Development.
+1992 Apr 1; 15(2):179–89.
+
+79.
+
+Brambring M, Asbrock D. Validity of false belief tasks in blind children. Journal of Autism and Developmental Disorders. 2010 Dec 1; 40(12):1471–84. https://doi.org/10.1007/s10803-010-1002-2 PMID:
+20379770
+
+80.
+
+Kekelis LS, Prinz PM. Blind and Sighted Children with Their Mothers: The Development of Discourse
+Skills. Journal of Visual Impairment & Blindness. 1996; 90(5):423–36.
+
+81.
+
+Conti-Ramsden G, Perez-Pereira M. The use of directives in verbal interactions between blind children
+and their mothers. Journal of Visual Impairment and Blindness (JVBI). 2001 Mar 1; 95(03).
+
+82.
+
+Fazzi E, Hartmann E, Molinaro A. The potential impact of visual impairment and CVI on child development. Impairment of Vision due to Disorders of the Visual Brain in Childhood: A Practical Approach.
+2015.
+
+83.
+
+Spencer J, O’brien J, Riggs K, Braddick O, Atkinson J, Wattam-Bell J. Motion processing in autism:
+evidence for a dorsal stream deficiency. Neuroreport. 2000 Aug 21; 11(12):2765–7 PMID: 10976959
+
+84.
+
+Koldewyn K, Whitney D, Rivera SM. The psychophysics of visual motion and global form processing in
+autism. Brain. 2009 Nov 3; 133(2):599–610.
+
+85.
+
+Milne E, White S, Campbell R, Swettenham J, Hansen P, Ramus F. Motion and form coherence detection in autistic spectrum disorder: Relationship to motor control and 2: 4 digit ratio. Journal of autism
+and developmental disorders. 2006 Feb 1; 36(2):225–37. https://doi.org/10.1007/s10803-005-0052-3
+PMID: 16477516
+
+86.
+
+Pellicano E, Gibson L, Maybery M, Durkin K, Badcock DR. Abnormal global processing along the dorsal visual pathway in autism: a possible mechanism for weak visuospatial coherence?.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+18 / 19
+
+
+[page 19]
+Validity of CVI screening tools
+
+Neuropsychologia. 2005 Jan 1; 43(7):1044–53. https://doi.org/10.1016/j.neuropsychologia.2004.10.
+003 PMID: 15769490
+87.
+
+Pellicano E, Gibson LY. Investigating the functional integrity of the dorsal visual pathway in autism and
+dyslexia. Neuropsychologia. 2008 Aug 1; 46(10):2593–6. https://doi.org/10.1016/j.neuropsychologia.
+2008.04.008 PMID: 18501932
+
+88.
+
+Robertson CE, Thomas C, Kravitz DJ, Wallace GL, Baron-Cohen S, Martin A, Baker CI. Global motion
+perception deficits in autism are reflected as early primary visual cortex. Brain. 2014 Jul 23; 137
+(9):2588–99.
+
+89.
+
+Dawson G, Webb SJ, McPartland J. Understanding the nature of face processing impairment in
+autism: insights from behavioral and electrophysiological studies. Developmental neuropsychology.
+2005 Jun 1; 27(3):403–24. https://doi.org/10.1207/s15326942dn2703_6 PMID: 15843104
+
+90.
+
+Chevallier C, Kohls G, Troiani V, Brodkin ES, Schultz RT. The social motivation theory of autism.
+Trends in cognitive sciences. 2012 Apr 1; 16(4):231–9. https://doi.org/10.1016/j.tics.2012.02.007
+PMID: 22425667
+
+91.
+
+Stein J, Walsh V. To see but not to read; the magnocellular theory of dyslexia. Trends in neurosciences. 1997 May 1; 20(4):147–52. PMID: 9106353
+
+92.
+
+Stein J, Talcott J, Walsh V. Controversy about the visual magnocellular deficit in developmental dyslexics. Trends in cognitive sciences. 2000 Jun 1; 4(6):209–11 PMID: 10827442
+
+93.
+
+Stein J. What is developmental dyslexia? Brain sciences, 2018; 8(2), 26.
+
+94.
+
+Vidyasagar TR, Pammer K. Impaired visual search in dyslexia relates to the role of the magnocellular
+pathway in attention. Neuroreport. 1999 Apr 26; 10(6):1283–7. PMID: 10363940
+
+95.
+
+Pammer K, Wheatley C. Isolating the M (y)-cell response in dyslexia using the spatial frequency doubling illusion. Vision research. 2001 Jul 1; 41(16):2139–47. PMID: 11403797
+
+96.
+
+Ridder WH, Borsting E, Banton T. All developmental dyslexic subtypes display an elevated motion
+coherence threshold. Optometry and Vision Science. 2001 July 1; 78(7):510–7. PMID: 11503940
+
+97.
+
+Kevan A, Pammer K. Making the link between dorsal stream sensitivity and reading. Neuroreport.
+2008 Mar 5; 19(4):467–70. https://doi.org/10.1097/WNR.0b013e3282f5f7ad PMID: 18287948
+
+98.
+
+Buchholz J, McKone E. Adults with dyslexia show deficits on spatial frequency doubling and visual
+attention tasks. Dyslexia. 2004 Feb; 10(1):24–43. https://doi.org/10.1002/dys.263 PMID: 14998141
+
+99.
+
+Fowler AE. How early phonological development might set the stage for phoneme awareness. Phonological processes in literacy: A tribute to Isabelle Y. Liberman. 1991; 106:97–117.
+
+100.
+
+Share DL. Phonological recoding and self-teaching: Sine qua non of reading acquisition. Cognition.
+1995 <May 1; 55(2):151–218. PMID: 7789090
+
+101.
+
+Williams C, Northstone K, Sabates R, Feinstein L, Emond A, Dutton GN. Visual perceptual difficulties
+and under-achievement at school in a large community-based sample of children. PLoS One. 2011
+Mar 21; 6(3):e14772. https://doi.org/10.1371/journal.pone.0014772 PMID: 21445286
+
+102.
+
+Skottun BC. On the conflicting support for the magnocellular-deficit theory of dyslexia: Response to
+Stein, Talcott and Walsh (2000). Trends in Cognitive Sciences. 2000 Jun 1; 4(6):211–2. PMID:
+10827443
+
+103.
+
+Skottun BC. The Magnocellular deficit theory of dyslexia: the evidence from contrast sensitivity. Vision
+research. 2000 Jan 1; 40(1):111–27. PMID: 10768046
+
+104.
+
+Blythe H, Kirkby J, Liversedge S. Comments on:“What Is Developmental Dyslexia?” Brain sciences.
+2018, 8, 26.
+
+105.
+
+Putnam SP, Rothbart MK. Development of short and very short forms of the Children’s Behavior Questionnaire. Journal of personality assessment. 2006 Jul 1; 87(1):102–12. https://doi.org/10.1207/
+s15327752jpa8701_09 PMID: 16856791
+
+106.
+
+Greer F, Liu J. Creating Short Forms and Screening Measures. Principles and Methods of Test Construction: Standards and Recent Advances. 2016 May 31; 3.
+
+107.
+
+Zimmerman BJ, Kitsantas A. Homework practices and academic achievement: The mediating role of
+self-efficacy and perceived responsibility beliefs. Contemporary Educational Psychology. 2005 Oct 1;
+30(4):397–417.
+
+108.
+
+Zimmerman B, Kitsantas A. Reliability and validity of self-efficacy for learning form (SELF) scores of
+college students. Zeitschrift für Psychologie/Journal of Psychology. 2007 Jan; 215(3):157–63.
+
+109.
+
+James TW, Culham J, Humphrey GK, Milner AD, Goodale MA. Ventral occipital lesions impair object
+recognition but not object-directed grasping: an fMRI study. Brain. 2003 Nov 1; 126(11):2463–75.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214290 March 26, 2019
+
+19 / 19
+

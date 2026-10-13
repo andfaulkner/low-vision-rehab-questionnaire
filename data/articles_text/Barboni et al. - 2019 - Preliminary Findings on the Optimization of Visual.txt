@@ -1,0 +1,1021 @@
+[page 1]
+Applied Psychophysiology and Biofeedback
+https://doi.org/10.1007/s10484-018-9423-3
+
+Preliminary Findings on the Optimization of Visual Performance
+in Patients with Age-Related Macular Degeneration Using Biofeedback
+Training
+Mirella T. S. Barboni1,2,3 · Zsuzsanna Récsán1,3 · Zsuzsanna Szepessy1,3 · Mónika Ecsedy1 · Balázs Vince Nagy2,4 ·
+Dora F. Ventura2 · Zoltán Zsolt Nagy1 · János Németh1,3
+
+© Springer Science+Business Media, LLC, part of Springer Nature 2018
+
+Abstract
+Biofeedback training has been used to improve fixation stability in subjects with central vision loss, but the psychophysiological mechanisms underlying the functional improvements resulted was not reported. The aim of this study was to investigate
+the effects of microperimetric biofeedback training on different visual functions and self-reported quality of vision in subjects
+with age-related macular degeneration. This case-control study included six subjects (72.0 ± 6.1 years of age) diagnosed
+with age-related macular degeneration (wet or dry) with low vision (best corrected visual acuity ranging from 0.5 to 0.1 in
+the study eye) and five healthy volunteers (64.2 ± 3.7 years of age). Ophthalmological and functional examinations were
+obtained from all subjects twice with an approximately 3-month interval. Subjects with central vision loss performed 12 sessions (10 min each) of biofeedback training between the two examinations. Functional evaluation included: microperimetry,
+spatial luminance contrast sensitivities, color vision thresholds, visual acuity, and reading speed. Visual performance during
+daily activities was also assessed using a standardized questionnaire. The ratio (2nd/1st examination) of the spatial luminance
+contrast sensitivity at lower spatial frequencies were much higher for the training subjects compared with the controls. In
+addition, self-reported quality of vision improved after the training. The significant improvement of the visual function such
+as spatial luminance contrast sensitivity may explain the better self-reported quality of vision. Possible structural and physiological mechanisms underlying this neuromodulation are discussed.
+Keywords Biofeedback training · Psychophysiology · Visual system · Low vision · Macular degeneration
+
+Introduction
+Human foveal vision allows high spatial resolution (Westheimer 1965, 1984) and specific chromatic mechanisms
+(Thomson 1946) among several other critical visual functions inherent to the central retina. Structural features of the
+* János Németh
+nemeth.janos@med.semmelweis‑univ.hu
+1
+
+Department of Ophthalmology, Semmelweis University,
+Mária u. 39, Budapest 1085, Hungary
+
+2
+
+Department of Experimental Psychology, University of Sao
+Paulo, Sao Paulo, Brazil
+
+3
+
+Bionic Innovation Center, Budapest, Hungary
+
+4
+
+Department of Mechatronics, Optics and Mechanical
+Engineering Informatics, Budapest University of Technology
+and Economics, Budapest, Hungary
+
+central retina, such as the absence of vascularization and
+higher density of photoreceptors, are believed to allow high
+visual acuity (Polyak 1949; Zeffren et al. 1990). Cone type
+of photoreceptor shows high density in the functional center
+of the human retina, called fovea, providing high temporal
+resolution due to, among other processes, the visual pigment
+molecule renews more quickly, and high spatial resolution,
+due to the convergence of few cones to a single second order neuron (Brown and Wald 1964). Moreover, the fovea
+might interact with parafoveal areas so that more complex
+visual tasks, such as movement perception and reading, are
+allowed (Schotter et al. 2012). When the center of the retina
+is disturbed, information from parafoveal area(s), called
+pseudofovea(s), is recruited to replace information processing in the fovea. This replacement contributes to central
+vision in patients with diseases affecting the central retina,
+despite their structural and functional limitations (Harris
+et al. 1985).
+Vol.:(0123456789)
+1
+3
+
+
+[page 2]
+Applied Psychophysiology and Biofeedback
+
+In normal observers, the central area of vision, or the
+main fixation locus, is not exactly on the anatomical center
+of the retina considering the center of the fixation (functional
+fovea). Putnam et al. (2005) showed that the center of the
+fixation locus is displaced approximately 50 µm (~ 0.16°),
+usually to the bottom of the foveal pit, from the location
+of the structural central retina—the point of highest cone
+density. Besides the “random choice” of the visual system
+that naturally occurs even in normal observers, there is usually a search for an alternative central fixation locus, known
+as preferred retinal locus (PRL), in pathological conditions
+such as those caused by macular impairment (Crossland
+et al. 2005, 2011).
+Age-related macular degeneration (AMD) causes macular
+impairment due to a degenerative process of retinal neurons.
+AMD is the most common cause of severe and irreversible
+visual impairment in the elderly population (Chuang 1987).
+The retinal lesions caused by AMD are responsible for the
+perception of central dark spots (scotomas), resulting, very
+often, in the involuntary replacement of the original PRL
+to another unaffected (or less affected) area (for review see
+Cheung and Legge) (Cheung and Legge 2005). However,
+the new PRL is not always the secondary point with highest
+sensitivity (Guez et al. 1993; Fletcher and Schuchard 1997).
+Because of this, optimizing the visual abilities of AMD subjects by stimulating a retinal area with relatively better visual
+sensitivity is a possibility, and we can precisely choose a
+new PRL to be stimulated using microperimetry associated
+with the biofeedback training (Nilsson et al. 2003).
+The aim of the present study was to investigate the effects
+of biofeedback training on different visual tasks (visual function and visual performance) in subjects with AMD. To
+reach this objective, we selected a large battery of tests that
+allowed us to assess specific aspects of vision. The battery
+included the following: high contrast near VA using multiple
+white optotypes presented on a black background (high contrast near VA), spatial luminance contrast sensitivity, color
+vision test, reading speed, and a questionnaire addressing
+the ability to perform daily activities to investigate the self reported quality of vision.
+
+and 2 men) from the Department of Ophthalmology at the
+Semmelweis University of Budapest (Hungary). Six subjects (average age = 72.0 ± 6.1 years; 5 women and 1 man)
+were diagnosed with AMD for at least 7 months prior to
+the beginning of the study, and five subjects (average
+age = 64.2 ± 3.7 years; 4 women and 1 man) were evaluated
+for control examinations, and they did not have any retinal
+diseases. In the AMD group, three subjects had wet AMD
+in both eyes, and they underwent anti-vascular endothelial
+growth factor (anti-VEGF) injection at least four times prior
+to the study. Two subjects had dry AMD, and one subject
+had dry AMD in the right eye (the study eye) and wet AMD
+in the left eye, in which five anti-VEGF injections had been
+applied. To make sure that pharmacological interventions
+would not influence visual performance, patients included
+in this study received their last injection at least one year
+before the baseline measurements and they did not show
+clinical improvements during this time: they had no activation of the disease and no subretinal fluid for at least one
+year prior training.
+The difference between wet and dry AMD is that in the
+wet type, or neovascular AMD, abnormal blood vessels grow
+and invade the retina (Ambati and Fowler 2012). Despite the
+pathophysiological differences between dry and wet AMD
+(for review see Ambati and Fowler 2012), decreased microperimetric sensitivity is well correlated to photoreceptoral
+losses similarly in both dry and wet AMD eyes (Landa et al.
+2011).
+Information about the subjects is shown in Table 1. The
+tested eye of the healthy subjects were randomly chosen,
+whereas the tested eye of the AMD subjects was always the
+eye with the best corrected visual acuity (BCVA).
+Inclusion criteria were absence of media opacity, either
+having natural lens or intraocular lens (IOL) implantation.
+Subjects with a history of other macular disease were not
+included in the study. For the AMD subjects, the inclusion
+criteria was also BCVA of at least 0.80 (LogMAR) in the
+better eye.
+
+Methods
+
+Microperimetry, or fundus-related perimetry, is a fundus tracking controlled visual field examination that allows to
+project each stimulus on an exact preplanned retinal area in
+order to provide a retinal sensitivity map even in subjects
+without the ability to fixate a central target (Midena et al.
+2010). The Macular Integrity Assessment System (MAIA;
+CenterVue, Padova, Italy) was used for the microperimetric
+measurements and for the biofeedback training. The system
+is equipped with a scanning laser ophthalmoscope that provides real-time eye-tracking and eye movement compensation (Sunness et al. 1995).
+
+Subjects
+The experiments adhered to the tenets of the Declaration of
+Helsinki and were approved by the ethics committee of the
+Semmelweis University of Budapest, Hungary (registration
+number TUKEB 261/2015). Signed informed consent was
+obtained from each subject after explanation of the nature
+and possible consequences of the study. The participants
+were 11 subjects (average age = 68.7 ± 6.1 years; 9 women
+
+13
+
+Macular Integrity Assessment System (MAIA™)
+
+
+[page 3]
+Applied Psychophysiology and Biofeedback
+Table 1  Clinical information of AMD subjects and healthy subjects, as well as information about anti-VEGF therapy prior to the study
+Healthy
+
+Age
+
+1
+2
+3
+4
+5
+Ave
+SD
+AMD
+
+1
+2
+3
+4
+5
+6
+Ave
+SD
+
+VA (LogMAR)
+
+62
+60
+69
+67
+63
+64.2
+3.7
+Age
+
+65
+75
+74
+64
+77
+78
+72.0
+6.1
+
+BCVA OD
+
+BCVA OS
+
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+
+VA (LogMAR)
+
+Study eye
+
+BCVA OD
+
+BCVA OS
+
+FC 1/2 m
+0.70
+0.80
+0.70
+0.30
+0.40
+
+0.80
+FC 2 m
+0.80
+FC 2 m
+1.00
+0.50
+
+Study eye
+
+OS
+OD
+OD
+OD
+OD
+OD
+
+OS
+OS
+OS
+OD
+OD
+
+AMD diagnosis
+(months)
+
+Study eye
+AMD type
+
+Anti-VEGF
+injection
+
+9
+7
+32
+40
+39
+114
+
+Wet
+Wet
+Dry
+Wet
+Dry
+Dry
+
+4
+4
+0
+17
+0
+0
+
+BCVA best corrected visual acuity, FC finger count
+
+All subjects underwent microperimetric examinations.
+The Expert Protocol, applied monocularly, was evaluated
+before and after the training period or within approximately 3 months in the healthy subjects. The results of the
+Expert Protocol allow evaluating light sensitivity thresholds at different macular locations. The test grid consisted
+of 37 points inside a concentric area of 5° from the central
+point, meaning that the central area of 10° was examined,
+with 12 points within each concentric ring (2°, 6°, and
+10°) plus the measurement of one central point. Besides
+evaluating sensitivity thresholds, the system allows recording fixation locations 25 times per second. For a description of the fixation recording and analysis in patients with
+macular diseases, see (Mandelcorn et al. 2013).
+Goldman-based standard light stimuli parameters
+(size III white stimuli) and strategy (threshold 4–2) were
+used. The maximum luminance of the stimulus (318 cd/
+m2) allows a stimulus presentation ranging from 0 to 36
+decibels (dB). The observer’s task was to press a button
+to indicate the presence of the light spot whenever it was
+detected, always keeping central fixation. Visual field
+locations that required brighter stimuli to reach threshold showed reduced sensitivity, thus, lower dB sensitivity
+values indicate lower sensitivity. Conversely, higher dB
+values correspond to dimmer stimuli and represent higher
+sensitivity.
+
+Biofeedback Training
+Biofeedback training is a relatively new method that has
+been developed based on the brain plasticity (Tarita-Nistor
+et al. 2009) and recently clinically established as a therapeutic alternative for patients with central vision loss. After
+obtaining a retinal sensitivity map provided by the microperimetry, it is possible to find small retinal areas, usually more
+eccentric areas, where visual sensitivity is more preserved
+than central areas affected by diseases. This area with better
+sensitivity is selected by the examiner and during the training sessions the subject is asked to move his/her fixation to
+that area. In the present study, the biofeedback training was
+planned to stimulate a new, previously chosen, retinal locus
+with higher sensitivity compared with the original PRL.
+The new retinal locus was chosen as the closest upper point
+(in terms of retinal location) in which a higher sensitivity
+threshold, compared with the original PRL, was detected
+during the Expert Protocol. The aim of the biofeedback
+training was to replace the original fixation locus with this
+relatively better retinal point.
+All subjects underwent 12 training sessions (each 10 min)
+using the aforementioned MAIA system (Centervue, Padova,
+Italy). During the training sessions, the task of the examiner
+was to guide and to monitor the observer’s fixation. The
+instruction was to move the eyes up, down, right, or left. The
+
+13
+
+
+[page 4]
+Applied Psychophysiology and Biofeedback
+
+observer moved his/her (non-covered) eye to the position
+guided by the examiner to fixate at the pre-defined point.
+In addition to the examiner’s instructions, the audio (beep)
+feedback informed the observer when the fixation was close
+to the desired position by increasing the beeping frequency,
+and by decreasing the beeping frequency when it was far
+from the desired position. As soon as the observer was able
+to fixate the desired location, the equipment changed from
+beeping to a Mozart sonata. The observer was instructed
+to keep the fixation at that point as much as possible. This
+procedure was repeated several times during the training
+sessions.
+
+Functional Evaluation
+The functional evaluation of vision always was performed
+monocularly before and after the training period for the
+AMD subjects who underwent the biofeedback training and
+twice with an approximately 3-month interval for the healthy
+subjects. High contrast near VA, spatial luminance contrast
+sensitivity, and color discrimination were measured using
+self-written computerized programs installed on a portable
+tablet device (Galaxy Tab S2 8″; Samsung, Seoul, South
+Korea). The screen of the tablet was always placed 30 cm
+from the observer’s eye.
+For the high contrast near VA task, the stimuli were multiple white optotypes on a black background, as previously
+described by González et al. (2007). The task of the subject
+was to inform the direction (right, left, up, or down) of the
+letter E at each stimulus presentation. From the size of the
+letters (largest = 5 mm and smallest = 0.2 mm at each part
+of the letter) and the distance of the test (30 cm), it was possible to calculate the respective visual angles ranging from
+0.955° to 0.038°, the last representing the equivalent Snellen
+of 20/46 or 0.4 LogMAR.
+The spatial luminance contrast sensitivity function
+was obtained using static achromatic stimuli (black and
+white). The stimuli were checkerboards superimposed with
+a Gabor and a Gaussian luminance function to “mask”
+the outer and the inner edges of the stimulus. Six spatial
+frequencies were tested: 0.25, 0.6, 1.2, 2.0, 4.7, and 9.3
+cycles per degree (cpd). For all spatial frequencies, the
+test started with a high luminance contrast (99%). The
+mean luminance of the stimulus (75 cd/m²) was constant
+and identical to the mean luminance of the homogeneous gray background. At each stimulus presentation, the
+target appeared randomly either on the right side or on
+the left side of the screen. The response was correct when
+the observer touched the screen on the side where the
+stimulus appeared. If the observer touched the opposite
+side, the response was considered incorrect. At each correct response, the stimulus contrast decreased 5%, and
+the stimulus contrast increased 6% with each incorrect
+
+13
+
+response. The goal of the test was to determine the lowest
+contrast that the observer needed to identify the stimulus
+based on the last five reversals of the stimulus.
+The luminance contrast was calculated using the Michelson equation (Imax−Imin)/(Imax + Imin), which considers
+the maximum (max) and minimum (min) luminance intensity (I) of the target. Contrast sensitivity, calculated as the
+reciprocal of the contrast threshold, was therefore plotted
+against the respective spatial frequency. The higher the values of the function, the better the contrast sensitivity.
+The color discrimination test was developed based on
+well-established classical procedures (Mollon and Reffin
+1989; Rodriguez-Carmona et al. 2005). The visual stimuli
+were pseudo-isoluminant mosaics of small spots in which
+the target and background provided only chromatic differences without borders and with a random variation of the
+luminance (mean luminance = 115 ± 60 cd/m²). The stimulus was presented dynamically, meaning that the chromatic
+target was never on one specific place on the screen, but
+constantly moving on the screen. The features of the stimulation ensured that the observer could only identify the target
+if there was chromatic discrimination and not due to contour
+clues, luminance differences, or visual adaptive processes.
+The task of the observer was to identify the position of the
+dynamic chromatic target against a background of constant
+chromaticity (x = 0.3159, y = 0.3353; CIE 1931) on the
+screen of a portable tablet device (Galaxy Tab S2 8″; Samsung, Seoul, South Korea). The response was given by the
+observer using the touchscreen system of the portable device
+to point to the exact location of the moving target. When
+the response of the observer was correct, the chromaticity
+of the target approached 10% of the background chromaticity, making it more difficult to identify the target’s position.
+And, when the response was incorrect (or no response was
+recorded after 3 s), the chromaticity of the target was moved
+10% away from the background chromaticity, every 3 s, until
+it could be identified again by the observer.
+There are three types of cones in the human retina;
+each type contains a specific visual photopigment that is
+highly sensitive to a particular visible spectrum range:
+long (L-cone: peak at ~ 560 nm), middle (M-cone: peak
+at ~ 530 nm), and short (S-cone: peak at ~ 420 nm) wavelengths (Nathans et al. 1986). For each of the three color
+discrimination test applied here, consecutively in a random
+order, targets differ from the background along one specific
+significant line in the color space: protan (L-cone sensitivity related), deutan (M-cone sensitivity related), or tritan
+(S-cone sensitivity related). After six reversals of the stimulus, the threshold was calculated. The results were given in
+chromaticity coordinates based on the color space diagram
+CIE 1931. The result is the distance between the threshold
+chromaticity and the chromaticity of the background. Lower
+values correspond to better color discrimination.
+
+
+[page 5]
+Applied Psychophysiology and Biofeedback
+
+Reading speed was assessed using a standardized Hungarian reading table (Radner Olvasótábla 1; Novartis Hungaria).
+Two sentences of black letters on a white background, each
+including three lines containing 24 characters, were used to
+test reading speed. The letters were 0.06 and 0.08 equivalent
+Snellen at a distance of 40 cm. The illumination of the reading page (215 lx) provided high luminance contrast between
+the letters and the background. Subjects were instructed
+to read the sentences as fast as possible without skipping
+words. The time was recorded and words per minute was
+calculated. If an error occurred, the subject was asked to
+re-read the word.
+
+Self‑reported Quality of Vision
+The Hungarian version of VF-14, (Steinberg et al. 1994)
+a translated and validated subjective brief questionnaire,
+(Bausz and Németh 2006) was applied to evaluate the ability of performing daily activities. Questions regarded the difficulty of performing tasks such as reading, face recognition,
+walking, driving, and home activities. Five response options
+were available for each question: not difficult (4 points), a
+little bit difficult (3 points), difficult (2 points), very difficult (1 point), and impossible (0 point). The scores were
+calculated by summing the points of the first 12 responses.
+The maximum possible score, which represented the best
+possible performance of daily activities, was 48 points. The
+lower the score, the worse the performance. The questionnaire was applied before and after the training period. In
+addition, the subjects were asked to describe any significant
+change in their visual performance perceived during the
+training period.
+
+Analysis
+The results obtained before the training period were compared between the groups. Afterward, the ratio (2nd/1st
+examination) between the results obtained in the first and
+the second examinations was calculated for each variable
+of each subject. The ratios were then compared between
+AMD subjects who underwent the microperimetric biofeedback training and healthy subjects who did not perform the
+training.
+
+Results
+AMD and Control Visual Performance Prior
+to Training
+All healthy subjects had a BCVA of 0.00 (LogMAR) in both
+eyes, whereas AMD subjects had low BCVA in both eyes
+(see Table 1). In the first examination, all microperimetric
+
+parameters were worse for the AMD subjects (N = 6 eyes)
+compared with the healthy subjects (N = 5 eyes). The average threshold (Fig. 1a) was, on average, 29.4 ± 0.7 for
+healthy subjects and 17.9 ± 7.8 for AMD subjects. The
+macular integrity (Fig. 1b) was 7.7 ± 3.0 for healthy subjects
+and 99.0 ± 2.3 for AMD subjects. In addition, all healthy
+subjects had stable fixation in both eyes according to the
+Expert Protocol. Two subjects from the AMD group had
+unstable fixation, and four subjects had relatively unstable
+fixation in the study (better) eyes prior to the training period.
+Parameters providing information about the fixation stability, such as P1, which considers the fixation points within
+1° of eccentricity, and P2, which considers the fixation
+points within 2° of eccentricity, were different. The healthy
+subjects showed, on average, 99.4% ± 1.3% and 100% (all
+subjects) for P1 and P2, respectively; whereas, the AMD
+subjects showed, on average, 51.3% ± 29.9% and 85.0% ±
+15.9%, for P1 and P2, respectively.
+Figure 1 shows that, in accordance with the microperimetric sensitivity losses found in the AMD subjects, other
+visual functions were significantly impaired. High contrast near VA (Fig. 1a) and reading speed (Fig. 1b) to both
+0.06 eq. Snellen and to 0.08 eq. Snellen were lower for AMD
+subjects compared with healthy subjects.
+AMD subjects showed lower sensitivity to luminance
+contrast compared with healthy subjects at all spatial frequencies (Fig. 1c). Color discrimination thresholds (Fig. 1d)
+were impaired in AMD subjects at all axes tested: protan
+(healthy = 74.0 ± 16.8 and AMD = 326.6 ± 337.2), deutan
+(healthy = 66.8 ± 18.3 and AMD = 245.5 ± 174.5), and tritan
+(healthy = 97.1 ± 42.8 and AMD = 356.5 ± 199.3).
+Finally, the self-reported quality of vision to perform daily activities was lower for the AMD subjects
+(average = 15.4 ± 7.8) compared with healthy subjects
+(average = 46.4 ± 0.9).
+
+Effects of the Training in the Visual Performance
+of AMD Subjects and Comparison with Results
+of the Healthy Subjects
+The results of both examinations (before and after training
+or without training with an approximately 3-months interval)
+were compared. Table 2 shows that the high contrast near
+VA was 0.40 (LogMAR) in both the first and second examinations for the healthy subjects. The high contrast near VA
+was found to be improved for AMD subjects. Surprisingly,
+two AMD subjects reached the maximum value of the test
+(LogMAR = 0.40). Although reading speed to 0.06 eq. Snellen and to 0.08 eq. Snellen in average did not improve
+after the training period [Table 2; before 51.23 ± 33.87
+and after 60.59 ± 35.49 words/minute (0.06 eq. Snellen); before 48.71 ± 25.43 and after 59.49 ± 24.67 words/
+minute (0.08 eq. Snellen)], some subjects reported better
+
+13
+
+
+[page 6]
+Applied Psychophysiology and Biofeedback
+
+Fig. 1  Average (± standard deviation) of functional results for healthy
+subjects (gray; N = 5) and AMD subjects (black; N = 6) at first examination. High contrast near VA (a), reading speed (b). 0.06 and 0.08
+
+Table 2  Results of the high
+contrast near VA test and
+reading test in the first and the
+second examination
+
+13
+
+are equivalent Snellen, at a distance of 40 cm, represented by the size
+of the letters in the sentences. Contrast sensitivity (c) and color discrimination thresholds (d)
+
+Near VA (LogMAR)
+
+Healthy
+1
+2
+3
+4
+5
+Ave
+SD
+AMD
+1
+2
+3
+4
+5
+6
+Ave
+SD
+
+First
+0.40
+0.40
+0.40
+0.40
+0.40
+0.40
+0.00
+First
+1.10
+1.00
+1.10
+1.00
+0.80
+0.70
+0.95
+0.16
+
+Second
+0.40
+0.40
+0.40
+0.40
+0.40
+0.40
+0.00
+Second
+0.80
+0.80
+1.00
+0.70
+0.40
+0.40
+0.68
+0.24
+
+Reading speed (words/minute)
+0.06 eq. Snellen
+
+0.08 eq. Snellen
+
+First
+146
+141
+132
+150
+100
+133.8
+20.3
+First
+18
+39
+56
+53
+27
+114
+51.23
+33.87
+
+First
+139
+123
+138
+150
+127
+135.4
+10.9
+First
+33
+36
+44
+46
+34
+99
+48.71
+25.43
+
+Second
+139
+139
+140
+144
+103
+132.9
+16.6
+Second
+21
+42
+43
+59
+76
+123
+60.59
+35.49
+
+Second
+135
+126
+139
+140
+125
+132.9
+6.9
+Second
+42
+37
+53
+47
+77
+101
+59.49
+24.67
+
+
+[page 7]
+Applied Psychophysiology and Biofeedback
+
+readability after the training (see discussion). In addition, the
+self-reported quality of vision improved for AMD subjects.
+Before the training the score was, on average, 16.3 ± 8.1;
+and, after the training, it was 21.2 ± 9.4.
+To compare the changes of the functional thresholds
+between AMD subjects and healthy subjects, we calculated
+the ratios by dividing the results of the 2nd examination by
+the results of the 1st examination. The individual results of
+all subjects are shown in Fig. 2. The gray symbols (left half
+of the graphs) represent the ratios of the healthy subjects,
+and the black symbols (right half of the graphs) represent
+the ratios of AMD subjects. Observe that for the healthy
+subjects, the results are close to 1, indicating that values
+were stable.
+The microperimetric average threshold (Fig. 2b) was constant for the healthy subjects (average ratio = 1.01 ± 0.03),
+whereas it showed a slight improvement for four AMD subjects. It did not change for one subject, and it decreased for
+one subject (average ratio = 1.10 ± 0.16). The high contrast
+near VA (Fig. 2a) increased for all AMD subjects after training (average ratio = 1.14 ± 0.07). Their ratios were higher
+compared with the healthy subjects.
+The ratios of the AMD subjects were also higher for the
+luminance contrast sensitivity at higher spatial frequencies
+(average ratio = 2.86 ± 2.81 AMD and 1.15 ± 0.51 healthy
+at 2.0 cpd; 2.34 ± 1.63 AMD and 1.94 ± 1.33 healthy at
+
+4.6 cpd; 3.27 ± 2.05 MD and 1.60 ± 0.86 healthy at 9.3 cpd).
+AMD subjects showed higher ratios (average = 1.56 ± 0.83
+protan; 1.40 ± 0.39 deutan; and 1.33 ± 0.45 tritan) for the
+color discrimination thresholds (Fig. 2c), compared to the
+ratios of the healthy subjects (average = 1.28 ± 0.22 protan;
+1.16 ± 0.48 deutan; and 1.49 ± 0.60 tritan). In addition, the
+ratios of the spatial luminance contrast sensitivity (Fig. 2d)
+were higher for the AMD subjects, showing better performance after the training.
+
+Fig. 2  Ratio between the results of the two examinations. The ratio
+was calculated by dividing the results of the second examination by
+the results of the first examination. Results are shown for the healthy
+subjects (gray symbols; left half of the graphs) and AMD subjects
+(black symbols; right half of the graphs). Results of the two groups
+
+are separated by a vertical gray line. Ratios of the average threshold
+(b) and the color discrimination thresholds (c) were not different.
+Ratios of the high contrast near VA (a) and the contrast sensitivities
+to spatial frequencies (d) were higher for the training AMD subjects
+compared with the healthy subjects
+
+Discussion
+The present results confirm previous reports on visual
+improvement after biofeedback training in AMD patients
+(Vingolo et al. 2007, 2013; Amore et al. 2013) and further
+show that biofeedback training may modulate specific visual
+functions differently. The previous studies showing the positive effects of biofeedback training have mainly considered
+clinical methods that are quite used to measure visual function and to classify patient as being normal or abnormal
+from the ophthalmological point of view. However, clinical
+methods such as visual acuity do not consider other visual
+attributes such as contrast sensitivity and color discrimination which are known to be affected even in early stages of
+AMD (Midena et al. 1997; Vemala et al. 2017). Therefore,
+
+13
+
+
+[page 8]
+Applied Psychophysiology and Biofeedback
+
+these visual functions may be taken into account not only to
+identify markers for prodromal disease stages and/or disease
+progression, but to rather investigate therapeutic effects.
+Neuroplasticity of the adult human visual system has long
+been considered for visual rehabilitation in several ophthalmological conditions (Martins Rosa et al. 2013). Structural
+changes caused by AMD results in a change in fixation locus
+and, consequently, functional alterations of the central vision
+(Cheung and Legge 2005). Therefore, oculomotor and perceptual integration raise the possibility of stimulating a better retinal location to obtain positive functional effects, (Liu
+and Kwon 2016) even in advanced macular lesions of elderly
+adults (Nilsson et al. 1998; Vingolo et al. 2009; Ueda-Consolvo et al. 2015).
+Although BCVA is usually well correlated with the quality of vision, this visual function alone does not always represent the general ability for certain daily activities. High
+contrast near VA improved for all subjects performing the
+biofeedback training. The present data corroborate results
+from González et al. (2007) and further suggest this technique to be considered while following up the effects of the
+biofeedback training in AMD subjects together with the
+standardized clinical examinations.
+Spatial contrast sensitivity function provides a more
+detailed assessment of the spatial vision, and it may better predict the subject’s ability to perform daily activities
+(Owsley and Sloane 1987). For instance, contrast sensitivity dysfunctions are present in AMD subjects, even in the
+early stages of the disease (Midena et al. 1997). Peyrin et al.
+(2017) have recently reported that lower spatial frequency
+processing is more preserved than higher spatial frequency
+processing in AMD subjects. The present data show that
+luminance contrast at low spatial frequencies may be better modulated by the biofeedback training than the higher
+spatial frequencies. We hypothesize that the displacement
+of the preferred retinal locus to a more eccentric retinal area
+with higher sensitivity would favor the luminance contrast
+processing.
+The AMD subjects tested in the present study, with
+advanced AMD, showed reduced color discrimination
+thresholds affecting the three axes tested: protan, deutan, and
+tritan. Therefore, the present study corroborates the results
+of a previous report (Vemala et al. 2017) showing color
+discrimination impairment even in the very early stages
+of AMD. We hypothesize that, initially, it may be directly
+caused by the central impairment of the degenerated macula;
+later, however, it may be worsened by the adoption of an
+eccentric fixation point. There were two aims to investigate
+the effects of the biofeedback training on color discrimination: first to verify a possible improvement of this visual
+function, and second to make sure that with modulating the
+fixation point to a more eccentric retinal area, the color discrimination would not become more altered. Although color
+
+13
+
+discrimination thresholds did not improve significantly after
+the biofeedback training, they did not decrease. Most AMD
+subjects showed relatively constant color discrimination
+thresholds. The present data show, therefore, that the stimulation of a new preferred retinal locus changing the fixation
+point to a more eccentric retinal area does not disturb color
+discrimination thresholds for protan, deutan, and tritan axes
+in AMD subjects.
+Reading speed has been previously shown to be improved
+after biofeedback training to replace the fixation to a more
+eccentric area in patients with macular diseases (Nilsson et al. 2003; Vingolo et al. 2009). In the present study,
+improvement of reading speed after the biofeedback training
+was not statistically significant. We hypothesize that reading performance is a more complex visual function, and it
+might be more influenced by personal experience than other
+basic visual functions such as visual acuity or spatial contrast sensitivity. In this context, subjects more exposed to
+reading situations might improve their ability to read more
+than subjects who do not use this visual function very often.
+Moreover, AMD subjects with better vision and, therefore,
+better reading ability, were certainly exercising this visual
+function more than the subjects with poorer reading ability. Further investigations might address this question by
+considering a more homogeneous group to be evaluated.
+Perhaps subjects showing more similar visual acuity and
+similar reading habits would better show the effects of the
+biofeedback training on the reading speed.
+The scores of the questionnaire to assess visual performance in daily activities were significantly improved after
+the biofeedback training in AMD subjects. Moreover, most
+AMD subjects reported personal experiences in which they
+perceived improvement of their visual ability to perform
+daily activities. For instance, one subject who works at the
+family’s bakery reported that after training she could better
+see the numbers on the paper money, which helped her as a
+cashier. Another subject who had complained about reading
+difficulties reported in the last weeks of the training period
+that the dark spot in the center of her vision was moving a
+little bit to the side, and she was now able to fixate the letters of interest.
+One limitation of this study is that the training was only
+applied to AMD subjects. The healthy subjects studied
+were all normal observers with very stable foveal fixation; therefore, it was not possible to apply the biofeedback
+training in these subjects to compare with the results of
+AMD subjects. On the other hand, the functional evaluation may be performed on a group of AMD subjects, without training, within an approximately 3-month interval.
+This would clarify whether the improvements shown in
+the present study were real effects of the training or just
+a functional fluctuation of AMD eyes. Although in the
+present study only a control group of healthy volunteers
+
+
+[page 9]
+Applied Psychophysiology and Biofeedback
+
+was considered, it may not discredit the present findings,
+since visual changes in AMD patients undergoing biofeedback training were found by comparing results before
+and after the training. Now that evidence for improvement
+of specific visual function is provided, next phase of the
+study will focus on the visual functions modulated by the
+biofeedback training, shown here, including AMD patients
+with relatively stable fixation in order to stimulate fixation stability without changing the fixation point as well
+as AMD patients not receiving the biofeedback training.
+Another limitation is the low number of participants.
+We were not able to include several subjects in the study
+because of the long-term protocol. To take part in the
+study, the subject had to agree to coming to the eye clinic
+every week without intervals. Due to difficulties such as
+advanced age and the fact that they required the help of
+someone to get to the clinic, several subjects were not
+able to take part in the study or to complete the training protocol. The possibility of having a higher number
+of participants would allow us to study different groups
+according to the type of AMD (dry or wet) and stage of
+the disease. Further investigations may consider including more subjects to study a homogeneous group and to
+be able to correlate the results with the severity as well as
+the type of AMD.
+In summary, we found improvement in the test results
+of AMD subjects after the biofeedback training when
+their pre- and post-training assessments were compared.
+Thanks to a more detailed assessment of visual abilities,
+it was possible to assess this improvement. The significant
+improvement of visual function such as spatial contrast
+sensitivity may explain the better self-reported quality of
+vision.
+We are aware that the preliminary data reported here
+does not allow the generalization of the findings. At the
+same time we assume that the clear perceptual as well
+as self-reported improvements found in this small sample show important indications for researchers that might
+worth the consideration in further studies.
+Acknowledgements We would like to thank very much Kornél Szekeres, Miklós Maczkó, and Ágnes Urbin for their support to develop the
+software. We would also like to acknowledge financial support from the
+Sao Paulo Research Foundation - FAPESP (Grant Nos. 2016/22007-5
+and 2016/04538-3), National Council for Scientific and Technological
+Development – CNPq (Grant Nos. 470785/2014-4 and 404239/20161), and the János Bolyai Scholarship of the Hungarian Academy of
+Sciences. We also thank the patients and the healthy volunteers for
+their participation in this study.
+
+Compliance with Ethical Standards
+Conflict of interest The authors declare that they have no conflict of
+interest.
+
+References
+Ambati, J., & Fowler, B. J. (2012). Mechanisms of age-related macular degeneration. Neuron, 75(1), 26–39.
+Amore, F. M., Paliotta, S., Silvestri, V., Piscopo, P., Turco, S., &
+Reibaldi, A. (2013). Biofeedback stimulation in patients with
+age-related macular degeneration: Comparison between 2
+different methods. Canadian Journal of Ophthalmology, 48,
+431–437.
+Bausz, M., & Németh, J. (2006). Change in the quality of life after
+cataract surgery [Hun]. In S. L. Biró Zs (Ed.), The newest
+results of cataract and refractive surgery [Hun]. Congress of
+the SHIOL 2005 (pp. 53–64). Pécs: Hungarian-Artificial Lens
+Implantation and Refractive Surgery Society.
+Brown, P. K., & Wald, G. (1964). Visual pigments in single rods
+and cones of human retina—direct measurements revels mechanisms of human night and color vision. Science, 144, 45–47.
+Cheung, S., & Legge, G. E. (2005). Functional and cortical adaptations to central vision loss. Visual Neuroscience, 22, 187–201.
+Chuang, E. L. (1987). Management of the ageing macula. Eye, 1,
+311–317.
+Crossland, M. D., Culham, L. E., Kabanarou, S. A., & Rubin, G.
+S. (2005). Preferred retinal locus development in patients with
+macular disease. Ophthalmology, 112, 1579–1585.
+Crossland, M. D., Engel, S. A., & Legge, G. E. (2011). Preferred
+retinal locus in macular disease. Toward a consensus definition.
+Retina, 31, 2109–2114.
+Fletcher, D. C., & Schuchard, R. A. (1997). Preferred retinal loci
+relationship to macular scotomas in a low-vision population.
+Ophthalmology, 104, 632–638.
+González, E. G., Tarita-Nistor, L., Markowitz, S. N., & Stainbach,
+M. J. (2007). Computer-based test to measure optimal visual
+acuity in age-related macular degeneration. Investigative Ophthalmology & Visual Science, 48, 4838–4845.
+Guez, J. E., Le Gargasson, J. F., Rigaudiere, F., & O’Regan, J. K.
+(1993). Is there a systematic location for the pseudo-fovea in
+patients with central scotoma? Vision Research, 33, 1271–1279.
+Harris, M. J., Robins, D., Dieter, J. M. Jr., Fine, S. L., & Guyton,
+D. L. (1985). Eccentric visual acuity in patients with macular
+disease. Ophthalmology, 92, 1550–1553.
+Landa, G., Su, E., Garcia, P. M., Seiple, W. H., & Rosen, R. B.
+(2011). Inner segment–outer segment junctional layer integrity
+and corresponding retinal sensitivity in dry and wet forms of
+age related macular degeneration. Retina, 31, 364–370.
+Liu, R., & Kwon, M. Y. (2016). Integrating oculomotor and perceptual training to induce a pseudofovea: A model system for
+studying central vision loss. Journal of Vision, 16, 10.
+Martins Rosa, A., Silva, M. F., Ferreira, S., Murta, J., & CasteloBranco, M. (2013). Plasticity in the human visual cortex: An
+ophthalmology-based perspective. BioMed Research International, 2013, 568354.
+Mandelcorn, M. S., Podbielski, D. W., & Mandelcorn, E. D. (2013).
+Fixation stability as a goal in the treatment of macular disease.
+Canadian Journal of Ophthalmology, 48, 364–367.
+Midena, E., Angeli, C. D., Blarzino, M. C., Valenti, M., & Segato,
+T. (1997). Macular function impairment in eyes with early age related macular degeneration. Investigative Ophthalmology &
+Visual Science, 38, 469–477.
+Midena, E., Vujosevic, S., & Cavarzeran, F., for the Microperimetry
+Study Group (2010). Normative age related database for the
+MP1 microperimeter. Ophthalmology., 117, 1571–1576.
+Mollon, J. D., & Reffin, J. P. (1989). A computer-controlled colour
+vision test that combines the principles of Chibret and of Stilling. Proceedings of the Physyiological Society, vol. 414.
+
+13
+
+
+[page 10]
+Applied Psychophysiology and Biofeedback
+Nathans, J., Thomas, D., & Hogness, D. S. (1986). Molecular genetics
+of human color vision: The genes encoding blue, green, and red
+pigments. Science, 232, 193–202.
+Nilsson, U. L., Frennesson, C., & Nilsson, S. E. (1998). Location and
+stability of a newly established eccentric retinal locus suitable for
+reading, achieved through training of patients with a dense central
+scotoma. Optometry and Vision Science, 75, 873–878.
+Nilsson, U. L., Frennesson, C., & Nilsson, S. E. (2003). Patients with
+AMD and a large absolute central scotoma can be trained successfully to use eccentric viewing, as demonstrated in a scanning laser
+ophthalmoscope. Vision Research, 43, 1777–1787.
+Owsley, C., & Sloane, M. E. (1987). Contrast sensitivity, acuity, and
+the perception of ‘real-world’ targets. British Journal of Ophthalmology, 71, 791–796.
+Peyrin, C., Ramanoel, S., Roux-Sibilon, A., Chokron, S., & Hera, R.
+(2017). Scene perception in age-related macular degeneration:
+Effect of spatial frequencies and contrast in residual vision. Vision
+Research, 130, 36–47.
+Polyak, S. (1949). Retinal structure and color vision. In F. B. Fischer,
+A. J. Schaeffer, & A. Sorsby A (Eds.), Documenta Ophthalmologica: Advances in Ophthalmology. The Hague, Netherlands: Dr.
+W. Junk, vol. 3, p. 24Y46.
+Putnam, N. M., Hofer, H. J., Doble, N., Chen, L., Carroll, J., & Williams, D. R. (2005). The locus of fixation and foveal cone mosaic.
+Journal of Vision, 5, 632–639.
+Rodriguez-Carmona, M. L., Harlow, J. A., Walker, G., & Barbur,
+J. L. (2005). The variability of normal trichromatic vision and
+the establishment of the “normal” range. Proceedings of 10th
+Congress of the International Colour Association. Granada (pp.
+979–982).
+Schotter, E. R., Angele, B., & Rayner, K. (2012). Parafoveal processing in reading. Attention, Perception, & Psychophysics, 74, 5–35.
+Steinberg, E. P., Tielsch, J. M., Schein, O. D., Javitt, J. C., Sharkey,
+P., Cassard, S. D., Legro, M. W., Diener-West, M., Bass, E. B.,
+Damiano, A. M., et al. (1994). The VF-14. An index of functional
+impairment in patients with cataract. Archives of Ophthalmology,
+112, 630–638.
+Sunness, J. S., Schuchard, R. A., Shen, N., Rubin, G. S., Dagnelie,
+G., & Haselwood, M. (1995). Landmark-driven fundus perimetry
+
+13
+
+using the scanning laser ophthalmoscope. Investigative Ophthalmology & Visual Science, 36, 1863–1874.
+Tarita-Nistor, L., González, E. G., Markowitz, S. N., & Steinbach, M.
+J. (2009). Plasticity of fixation in patients with central vision loss.
+Visual Neuroscience, 26(5–6), 487–494.
+Thomson, L. C. (1946). Foveal colour sensitivity. Nature, 157, 805.
+Ueda-Consolvo, T., Otsuka, M., Hayashi, Y., Ishida, M., & Havashi,
+A. (2015). Microperimetric biofeedback training improved visual
+acuity after successful macular hole surgery. Journal of Ophthalmology, 2015, 572942.
+Vemala, R., Sivaprasad, S., & Barbur, J. L. (2017). Detection of early
+loss of color vision in age-related macular degeneration—with
+emphasis on drusen and reticular pseudodrusen. Investigative
+Ophthalmology & Visual Science, 58, 247–254.
+Vingolo, E. M., Cavarretta, S., Domanico, D., Parisi, F., & Malagola,
+R. (2007). Microperimetric biofeedback in AMD patients. Appl
+Psychophysiol Biofeedback, 32, 185–189.
+Vingolo, E. M., Salvatore, S., & Cavarretta, S. (2009). Low-vision
+rehabilitation by means of MP-1 biofeedback examination in
+patients with different macular diseases: A pilot study. Appl. Psychophysiol. Biofeedback, 34, 127–133.
+Vingolo, E. M., Salvatore, S., & Limoli, P. G. (2013). MP-1 biofeedback: luminous pattern stimulus versus acoustic biofeedback in
+age related macular degeneration (AMD). Appl Psychophysiol
+Biofeedback, 38, 11–16.
+Westheimer, G. (1965). Visual acuity. Annual Review of Psychology,
+16, 359–380.
+Westheimer, G. (1984). Spatial vision. Annual Review of Psychology,
+35, 201–226.
+Zeffren, B. S., Applegate, R. A., Bradley, A., & van Heuven, W. A. J.
+(1990). Retinal fixation point location in the foveal avascular zone.
+Investigative Ophthalmology & Visual Science, 31, 2099–2105.
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+

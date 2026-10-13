@@ -1,0 +1,1061 @@
+[page 1]
+Self-Reported Importance and Difficulty of Driving in a
+Low-Vision Clinic Population
+Robert W. Massof, James T. Deremeik, William L. Park, and Lori L. Grover
+PURPOSE. To validate estimates of self-perceived driving ability
+from difficulty ratings of driving tasks and to determine the
+association of the importance and difficulty of driving with the
+magnitude of visual impairments.
+METHODS. A consecutive series of 851 patients at a low-vision
+clinic rated the importance of driving on a four-point scale.
+Those who gave nonzero importance ratings then rated driving
+difficulty on a five-point scale. Those who gave nonzero difficulty ratings then rated the difficulty of each of 21 driving tasks
+on a five-point scale. Visual acuity was measured with the Early
+Treatment of Diabetic Retinopathy Study (ETDRS) chart, and
+contrast sensitivity was measured with the Pelli-Robson chart.
+Rasch analysis was used to test the validity and reliability of
+self-perceived driving ability estimates from difficulty ratings of
+tasks.
+RESULTS. Patients who rated driving as not important (41%) had
+worse visual acuity (logMAR ⫽ 0.88) and worse contrast sensitivity (log CS ⫽ 0.83) than did those who rated driving as
+extremely important (55%; logMAR ⫽ 0.62; log CS ⫽1.03;
+multivariate analysis of variance [MANOVA]; P ⫽ 0.003). Self perceived driving ability correlated negatively with the overall
+rating of driving difficulty (r ⫽ ⫺0.69; P ⬍ 0.001) and with
+logMAR (r ⫽ – 0.28; P ⬍ 0.001), and correlated positively with
+log CS (r ⫽ 0.35; P ⬍ 0.001). The most difficult driving tasks
+were navigating in parking ramps, parking in the correct space,
+seeing lane markings, and reading signs. The least-difficult
+driving tasks were seeing traffic and reading the speedometer.
+Rasch analysis confirmed instrument validity and reliability.
+CONCLUSIONS. Low-vision patients appeared to devalue the goal
+of driving when visual impairments were more severe. Valid
+measures of self-perceived driving ability can be estimated
+from difficulty ratings of specific driving tasks. (Invest Ophthalmol Vis Sci. 2007;48:4955– 4962) DOI:10.1167/iovs.060566
+
+Findings in most studies concur that self-reported driving
+difficulty increases with reductions in visual acuity and losses
+of contrast sensitivity,8 and that visually impaired drivers sometimes self-limit or abandon driving because of perceived safety
+issues.9 Most such studies focus on populations that are elderly
+and have normal or near-normal vision. Visual impairments
+within the study populations usually are mild and are associated with cataract or uncorrected refractive errors.10,11
+In a recent study, DeCarlo et al.2 looked at the driving
+behavior of 126 patients with AMD who sought services at a
+low-vision clinic. They observed that 24% of the low-vision
+patient sample was still driving and three fourths of those
+drivers did not meet the state vision requirements for a driver’s
+license. However, the low-vision drivers limited their driving to
+less than 10% of the miles driven per year by the normally
+sighted population in the same age group. The average visual
+acuity of the drivers in the low-vision sample was 20/109
+(range, 20/30 –20/600); the nondrivers in the sample had
+worse acuity (average, 20/214; range, 20/30 –20/3500). Eightyfive percent of those who did not drive reported that they had
+stopped because of their impaired vision. The drivers in the
+sample scored higher on the NEI VFQ (Visual Function Questionnaire)-25 than did the nondrivers, even after correcting for
+visual acuity differences. But the life space (area traveled from
+the home) was the same for drivers and nondrivers among the
+low-vision patients, indicating that the nondrivers were able to
+compensate with other transportation strategies.
+In the present study, we further explored self-reported
+perceptions of driving-related issues in a low-vision clinic sample. We asked how important driving was to the low-vision
+patients and what the relation was between perceived driving
+ability and visual impairments.
+
+METHODS
+
+From the Lions Vision Research and Rehabilitation Center, Wilmer
+Ophthalmological Institute, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+Supported by Grant EY012045 from the National Eye Institute,
+National Institutes of Health, Bethesda, Maryland.
+Submitted for publication May 24, 2006; revised November 1,
+2006, and April 12 and July 11, 2007; accepted September 19, 2007.
+Disclosure: R.W. Massof, None; J.T. Deremeik, None; W.L.
+Park, None; L.L. Grover, None
+The publication costs of this article were defrayed in part by page
+charge payment. This article must therefore be marked “advertisement” in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+Corresponding author: Robert W. Massof, Lions Vision Center, 6th
+floor, 550 N. Broadway, Baltimore, MD 21205; rmassof@lions.med.jhu.edu.
+
+All low-vision patients scheduled for a first visit appointment at the
+Wilmer Low Vision Rehabilitation Service are recruited to serve as
+subjects in an umbrella research project on the measurement of vision
+disability. Subjects sign a Health Insurance Portability and Accountability Act (HIPAA) waiver and a consent form that is read to them.
+Recruitment procedures and all study methods conform with the
+tenets of the Declaration of Helsinki and have been approved by the
+Johns Hopkins Institutional Review Board (IRB) for human subjects
+research. For the present study, data were obtained from 851 consecutively recruited low-vision subjects. Subjects ranged in age from 18 to
+101 years, with a median age of 75 years. Fifty-seven percent of the
+subjects were women. Binocular visual acuity with habitual correction
+measured on the rear-illuminated Early Treatment of Diabetic Retinopathy Study (ETDRS) chart12 ranged from 20/15 to light perception,
+with a median of 20/60 (mean ⫽ 0.54 logMAR; SD ⫽ 0.45 logMAR for
+the 99% of patients with measurable acuities), and binocular log contrast sensitivity measured on the Pelli-Robson chart13 ranged from 1.95
+to 0.00 (among the 81% of patients with measurable contrast sensitivity) with a mean of 0.78 and an SD of 0.56. The distribution of visual
+system disorders in the sample was 42% age-related macular degeneration, ⬍1% other macular disorders, 11% diabetic retinopathy, 3%
+other retinal vascular diseases, 5% retinal degeneration, 3% retinal
+detachment, 4% other retinal disorders, 12% glaucoma, 6% optic atro-
+
+Investigative Ophthalmology & Visual Science, November 2007, Vol. 48, No. 11
+Copyright © Association for Research in Vision and Ophthalmology
+
+4955
+
+T
+
+he automobile is the dominant form of transportation in
+the United States.1 Driving is a significant contributor to
+quality of life.2 Loss of ability to drive and driving privileges,
+especially by older people can lead to dependence on others,
+isolation, and depression.3,4 Visual impairment is a common
+reason for older people to lose their driving privileges or to
+give up driving, even if they still are eligible to drive.2,5–7
+
+
+[page 2]
+Massof et al.
+
+31%
+0%
+15%
+7%
+46%
+50%
+23%
+28%
+7%
+0%
+8%
+17%
+7%
+17%
+23%
+19%
+9%
+33%
+31%
+28%
+350
+11
+26
+464
+
+0, not important; 1, slightly important; 2, moderately important; 3, extremely important; DL, driver license.
+
+343
+8
+15
+236
+2%
+30%
+42%
+49%
+29%
+78%
+75%
+77%
+0.45
+0.65
+0.26
+0.43
+0.83
+1.08
+1.19
+1.03
+0.69
+0.57
+0.40
+0.60
+0.88
+0.66
+0.59
+0.62
+
+Currently
+Drives
+Has DL
+SD
+LogCS
+Mean
+LogCS
+SD
+LogMAR
+
+0
+1
+2
+3
+
+41%
+1%
+3%
+55%
+
+Never
+>2 y
+1–2 y
+6 mo–1 y
+<6 mo
+
+Percent of Nondrivers
+Who Last Drove
+
+Number
+of
+Nondrivers
+Mean
+LogMAR
+
+Low-vision subjects effectively dichotomized the importance
+of driving ratings. As summarized in Table 1, 41% of the 851
+low-vision subjects rated driving as not important and 55%
+rated it as extremely important. Only 1% of responses fell in the
+slightly important category and 3% in the moderately important
+category.
+Of those 349 subjects who rated driving as not important,
+29% had a driver’s license, but only 2% still drove. Of those 468
+subjects who rated driving as extremely important, 77% had a
+driver’s license and 49% still drove. Among the 602 nondrivers,
+17% had given up driving within the previous 6 months, and
+only 9% of them rated driving as not important. Compared to
+this group, the OR of responding that driving is not important
+increased with increased reported time since the patient
+stopped driving. However, as shown in Table 2, only the ORs
+for the group of patients who stopped driving more than 2
+years earlier and for the group of patients who never drove are
+significantly greater than 1 (statistical criterion of ␣ ⫽ 0.05).
+Those subjects who rated driving as not important had
+lower visual acuity (mean logMAR ⫽ 0.88; SD ⫽ 0.69) and
+lower contrast sensitivity (mean log CS ⫽ 0.83; SD ⫽ 0.45)
+
+Importance
+Rating
+
+Importance and Difficulty Ratings of the
+Driving Goal
+
+Percent
+of
+Subjects
+
+RESULTS
+
+Number
+of
+Subjects
+
+phy, ⬍1% amblyopia, ⬍1% progressive myopia, 2% refractive errors,
+4% cerebral vascular accidents (CVA) and brain disorders, and 4% other
+disorders. Because of HIPAA regulations, we have no information
+about patients who did not agree to join the study.
+Subjects were mailed an intake questionnaire to be completed at
+home and sent back to the investigators. They were contacted by
+telephone to schedule an appointment for a telephone interview.
+During that call, the intake questionnaire was administered by telephone if the subject did not have assistance available. The questionnaire included three questions about driving that were used in the
+present study: (1) Are you licensed to drive? (2) Do you drive now? (3)
+If you do not drive, when did you last drive? (⬍6 months ago, 6 –12
+months ago, 1–2 years ago, ⬎2 years ago, or never).
+A trained interviewer called the subject at the appointed time
+before the first visit to the clinic and administered the Activity Inventory (AI).14,15 The AI used for the present study consisted of 50
+goal-level items that describe general activities. For each goal, the
+subject was asked to rate how important it is to perform the activity
+independently. One of the goals is driving. The ordered rating categories are “not important,” “slightly important,” “moderately important,”
+and “extremely important.” If the subject responded “not important,”
+the interviewer moved on to the next goal, otherwise the subject was
+asked to rate the difficulty of performing the activity independently.
+The ordered difficulty rating categories were “not difficult,” “slightly
+difficult,” “moderately difficult,” “very difficult,” and “impossible.” If
+the subject responded “not difficult,” the interviewer moved on to the
+next goal; otherwise the subject was asked to rate the difficulty of a
+series of tasks related to the goal. The ordered difficulty rating categories for the tasks were the same as those used for the goals, or the
+subject could respond “not applicable.” The tasks listed under the
+driving goal are shown in Table 3.
+Data analysis was limited to the three driving questions on the
+intake questionnaire, the importance and difficulty ratings of the driving goal, and the difficulty ratings of the driving tasks. Rasch analysis16,17 with the Andrich rating scale model18 was used to estimate an
+interval-scaled perceived driving ability variable for each subject and an
+interval-scaled perceived required driving ability variable for each task
+based on driving task difficulty ratings (WINSTEPS ver. 3.1619). Person
+and item measure fit statistics and reliability coefficients20 also were
+estimated to evaluate the accuracy and precision of the perceived
+driving ability scale.
+
+IOVS, November 2007, Vol. 48, No. 11
+
+TABLE 1. Distributions of Visual Impairment Measures and Driving History for Different Ratings of the Importance of Driving
+
+4956
+
+
+[page 3]
+Low-Vision–Induced Difficulty in Driving
+
+IOVS, November 2007, Vol. 48, No. 11
+
+4957
+
+TABLE 2. ORs for Different Time Periods Reported by Patients since They Last Drove Relative to the Group of Patients Who Reported
+That They Had Stopped Driving Less Than 6 Months Earlier
+Patient Response
+
+<6 mo
+
+6–12 mo
+
+1–2 y
+
+>2 y
+
+Never
+
+Not important
+
+OR
+95% CI
+OR
+95% CI
+
+1.3
+0.64–2.67
+1.13
+0.60–2.15
+
+1.49
+0.77–3.10
+1.23
+0.67–2.26
+
+5.39*
+3.06–9.49
+1.30
+0.76–2.43
+
+13.53*
+6.67–27.44
+1.40
+0.79–2.49
+
+Impossible
+
+The column labeled “Never” is the group of patients who reported that they have never driven. The first set of ORs is based on odds that
+patients would respond that being able to drive is not important to them. The second set of odds ratios is based on odds that patients who respond
+that driving is at least somewhat important also would respond that driving is impossible to do.
+* Significantly greater than 1 (P ⬍ 0.0001).
+
+than did those subjects who rated driving as extremely important (mean logMAR ⫽ 0.62; SD ⫽ 0.60; mean log CS ⫽ 1.03;
+SD ⫽ 0.43). Because there are multiple independent (rating
+categories) and dependent (visual impairment measures) variables and logMAR visual acuity correlates with log CS for this
+sample of low-vision patients (r ⫽ ⫺0.55, P ⬍ 0.0001), we
+used multivariate analysis of variance (MANOVA) to sort out
+the separate effects. As illustrated in Figure 1, we found that
+corrected differences in visual acuity and in CS between
+groups of patients with different importance ratings were significant (P ⫽ 0.003), but the only pairings with significant
+differences were between the extreme response categories for
+both visual acuity and for CS (Bonferroni post hoc analyses;
+P ⬍ 0.0001).
+Driving difficulty ratings were obtained from the 501 subjects who rated driving as slightly, moderately, or extremely
+important (59% of all subjects). As summarized in Table 3,
+within this group, 19% rated driving as not difficult, 18% as
+slightly difficult, 15% as moderately difficult, 11% as very difficult, and 37% as impossible.
+Ninety-eight percent of 97 subjects who responded that
+driving was not difficult had a driver’s license, and 84% still
+drove. Fifty percent of the 186 subjects who responded that
+driving was impossible had a driver’s license, but only 1%
+reported that they still drove. Of the 15 nondrivers who responded that driving is not difficult, 57% had stopped driving
+within the previous 6 months, and 7% had stopped more than
+
+2 years earlier. Of the 184 nondrivers who responded that
+driving was impossible, 25% had stopped driving within the
+previous 6 months and 30% had stopped driving more than 2
+years earlier. As shown in Table 2, relative to those who
+reported that they had stopped driving within the previous 6
+months (and for whom driving held at least some importance),
+the OR of responding that driving was impossible was not
+significantly different from 1 for any reported length of time
+since the patient had stopped driving.
+Subjects who responded that driving was not difficult had
+better visual acuity (mean logMAR ⫽ 0.37; SD ⫽ 0.49) than did
+subjects who responded that driving was impossible to do
+(mean logMAR ⫽ 0.83; SD ⫽ 0.62). As illustrated by the
+adjusted means in Figure 2A, logMAR paralleled the difficulty
+rating (MANOVA P ⬍ 0.0001). Subjects who responded that
+driving was not difficult had better CS (mean ⫽ 1.23 log CS;
+SD ⫽ 0.29 log CS) than did subjects who responded that
+driving was impossible (mean ⫽ 0.87 log CS; SD ⫽ 0.50 log
+CS). Similarly, as shown in Figure 2B, log CS paralleled the
+difficulty rating (MANOVA, P ⬍ 0.0001).
+
+Difficulty Rating of Driving Tasks and
+Questionnaire Validation
+Only those subjects who reported that driving was slightly
+difficult, moderately difficult, very difficult, or impossible were
+asked to rate the difficulty of the 21 driving tasks (N ⫽ 405) to
+
+FIGURE 1. (A) Adjusted visual acuity, expressed as logMAR, versus the importance of being able to drive
+rating. The only significant difference in logMAR is between importance ratings of 0 and 3 (MANOVA, P ⫽
+0.003). Error bars are ⫾1 SE. 0, not important; 1, slightly important; 2, moderately important; 3, extremely
+important. (B) Adjusted log contrast sensitivity versus the importance of being able to drive rating. The
+only significant difference in log CS is between importance ratings of 0 and 3 (MANOVA, P ⫽ 0.003). Error
+bars are ⫾1 SE. The scale is as in (A).
+
+
+[page 4]
+Massof et al.
+7%
+0%
+6%
+7%
+8%
+7%
+25%
+18%
+7%
+30%
+14%
+13%
+12%
+14%
+16%
+14%
+13%
+41%
+14%
+20%
+57%
+50%
+24%
+57%
+25%
+0, not difficult; 1, slightly difficult; 2, moderately difficult; 3, very difficult; 4, impossible; DL, driver license.
+
+15
+9
+19
+35
+184
+84%
+90%
+75%
+35%
+1%
+98%
+95%
+93%
+78%
+50%
+0.29
+0.26
+0.37
+0.42
+0.50
+1.23
+1.20
+1.16
+0.89
+0.87
+0.49
+0.43
+0.68
+0.52
+0.62
+19%
+18%
+15%
+11%
+37%
+0
+1
+2
+3
+4
+
+97
+88
+75
+54
+186
+
+0.37
+0.40
+0.55
+0.71
+0.83
+
+>2 y
+1–2 y
+6 mo–1 y
+Difficulty
+Rating
+
+Percent
+of
+Subjects
+
+Mean
+Log MAR
+
+SD
+Log MAR
+
+Mean
+Log CS
+
+SD
+Log CS
+
+Has DL
+
+Currently
+Drives
+
+Number
+of
+Nondrivers
+
+<6 mo
+
+Percent of Nondrivers
+Who Last Drove
+
+Never
+
+IOVS, November 2007, Vol. 48, No. 11
+
+Number
+of
+Subjects
+
+TABLE 3. Distributions of Visual Impairment Measures and Driving History for Different Ratings of the Difficulty of Driving among Those Subjects Who Rated the Importance of Driving at
+Greater Than Zero
+
+4958
+
+estimate their perceived driving ability. The tasks in Table 4 are
+ordered according to the estimated interval-scaled Rasch item
+measure, which ranged from 1.19 for the task that was perceived to be most difficult (i.e., requires the most ability), to
+⫺0.75 for the task that was perceived to be least difficult (i.e.,
+requires the least ability). The SE of the item measure estimates
+ranged from 0.05 to 0.07 logits. The item measure separation
+reliability (i.e., an estimate of the fraction of the variance in
+item measures that can be attributed to true differences in the
+item measures), is 0.98 (i.e., 2% of item measure variance can
+be attributed to estimation error).
+To test the validity of the estimated item measures, we
+employed the item measure information weighted (infit) mean
+square, which is a ␹2 statistic weighted by the average expected variance. The expected value of the infit mean square is
+1.0. Values greater than 1.0 indicate that the average response
+error to the item across subjects (relative to the expectations of
+the measurement model) is greater than would be expected by
+the overall variability in the responses. Values less than 1.0
+indicate that the average response error across subjects for the
+item is less than expected from the overall distribution of
+response errors.21
+To facilitate the evaluation of the fit of responses to the
+expectations of the measurement model, we transformed the
+infit mean squares to normal deviates (z-scores) by using the
+Wilson-Hilferty transformation.22 This transformed infit mean
+square is equivalent to a t-statistic.23 The expected mean of the
+distribution of transformed infit mean squares is 0.0 and the
+expected SD is 1.0. From the data in Table 4, it can be seen that
+the most misfitting items are parking in the appropriate parking space (6.1 SD from the expected value), seeing lane markings (6.7 SD from the expected value), and seeing traffic on
+interstate (5.4 SDs from the expected value). Considering the
+multiple comparisons, when a Bonferroni correction is applied, only these three items have significantly greater average
+response errors (P ⬍ 0.002 for an ␣ of 0.05) than expected
+(i.e., the responses are less predictable than expected from the
+overall variability). At the other extreme, the average error for
+merge into traffic is significantly less than the expected value
+(P ⬍ 0.002 for an ␣ of 0.05)—that is, the responses are more
+predictable than expected from the overall variability. The
+responses to the other 17 items are consistent with the expectations of the measurement model, which confirms the validity
+of those item measures.
+Figure 3 illustrates the density of estimated perceived driving ability measures on an interval scale for each subject who
+rated the difficulty of driving tasks. The mean of the distribution is 0.42 logits and the SD is 1.08 logits. The row of tick
+marks above the abscissa in Figure 3 illustrates the driving
+ability perceived to be required by each of the 21 driving tasks
+(i.e., item measures in Table 4). The distribution of item measures is well centered on the person measure distribution;
+however, the range of person measures is nearly four times
+larger than the range of item measures. Thus, the rating scale is
+doing most of the work in discriminating persons of different
+abilities in the tails of the person measure distribution. The SE
+of the person measure estimate ranges from 0.17 to 1.83 logits.
+The person measure separation reliability is 0.87, indicating
+that 13% of the variance in the person measure distribution can
+be attributed to estimation error.
+
+Relationship of Perceived Driving Ability with
+Visual Function and Driving Status
+Figure 4 illustrates that subjects who reported that they currently drove had greater perceived driving ability (mean ⫽ 1.15
+logits; SD ⫽ 0.73 logits) than did those subjects who reported
+that they no longer drove (mean ⫽ 0.25 logits; SD ⫽ 0.87
+
+
+[page 5]
+Low-Vision–Induced Difficulty in Driving
+
+IOVS, November 2007, Vol. 48, No. 11
+
+4959
+
+FIGURE 2. (A) Adjusted visual acuity, expressed as logMAR, versus the difficulty of driving rating. The
+differences in logMAR versus difficulty ratings are significant (MANOVA, P ⫽ 0.0001). Error bars are ⫾1
+SE. 0, not difficult; 1, slightly difficult; 2, moderately difficult; 3, very difficult; 4, impossible. (B) Adjusted
+log contrast sensitivity versus the difficulty of driving rating. The differences in log CS versus difficulty
+ratings are significant (MANOVA, P ⫽ 0.0001). Error bars are ⫾1 SE. Scale is as in (A).
+
+logits). The difference between these two groups in perceived
+driving ability is significant (t-test, P ⬍ 0.001). Figure 5 demonstrates that the means of the distributions of perceived
+driving ability estimated from task difficulty ratings do not vary
+with importance ratings (one-way ANOVA, P ⫽ 0.336), but
+they do decrease with the difficulty rating the subjects assigned
+to the overall goal of driving (one-way ANOVA, P ⬍ 0.0001;
+P ⬍ 0.005 for all pairs of ratings with Bonferroni post hoc
+analysis; Spearman correlation ⫽ ⫺0.69 between overall driv-
+
+ing difficulty rating and perceived driving ability, P ⬍ 0.001).
+No task difficulty ratings were obtained from subjects who
+responded that driving is not difficult.
+Difficulty ratings of driving tasks by current drivers appeared to provide a more accurate estimate of perceived driving ability than did difficulty ratings of driving tasks by nondrivers. As illustrated in Figure 6, the transformed infit mean
+squares exceeded the expected value by more than 2 SD in
+7.5% of the subjects and were less than the expected value by
+
+TABLE 4. Results of Rasch Analysis on Difficulty Ratings of Driving Tasks by Subjects Who Rated Both the Importance and Difficulty of
+Driving at Greater Than Zero
+Items
+
+Count
+
+Average Rating
+
+Item Measure
+
+Error
+
+Infit MNSQ
+
+Infit ZSTD
+
+Navigate in parking lots with ramps
+Park in the appropriate parking space
+See lane markings
+Read road signs
+Read road maps
+Merge into traffic
+Read instrument panel
+Change lanes
+Read gas gauge
+Maintain appropriate distance from the car in front
+of you
+Identify traffic signals
+See merging cars
+Distinguish when a car is stopped on the shoulder
+of the highway or interstate
+See traffic on interstate
+Stay in the lane
+Drive at night
+See pedestrians
+Stop at right place at an intersection
+See traffic on city streets
+See traffic on rural roads
+Read speedometer
+
+199
+347
+356
+317
+306
+331
+313
+344
+346
+
+2.48
+2.16
+2.13
+1.56
+1.54
+1.53
+1.31
+1.35
+1.33
+
+1.19
+0.67
+0.63
+0.27
+0.27
+0.20
+0.07
+0.03
+0.00
+
+0.07
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+1
+1.51
+1.56
+0.91
+0.98
+0.72
+0.82
+0.82
+1.08
+
+0
+6.1
+6.7
+⫺1.2
+⫺0.2
+⫺4.1
+⫺2.4
+⫺2.6
+1.1
+
+320
+357
+357
+
+1.24
+1.22
+1.20
+
+⫺0.02
+⫺0.12
+⫺0.14
+
+0.05
+0.05
+0.05
+
+0.95
+1.1
+0.72
+
+⫺0.6
+1.2
+⫺4
+
+361
+368
+373
+359
+373
+346
+375
+372
+362
+
+1.22
+1.17
+1.16
+1.14
+1.09
+0.95
+0.99
+0.97
+0.67
+
+⫺0.16
+⫺0.21
+⫺0.22
+⫺0.23
+⫺0.30
+⫺0.34
+⫺0.41
+⫺0.43
+⫺0.75
+
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.06
+
+0.88
+1.49
+1.1
+1.11
+0.81
+0.9
+0.95
+0.9
+0.91
+
+⫺1.6
+5.4
+1.3
+1.4
+⫺2.6
+⫺1.2
+⫺0.6
+⫺1.2
+⫺1
+
+Count refers to the number of subjects who rated the difficulty of the item (one possible response was “not applicable” which is scored as
+missing data). The Average Rating is the mean rank score of the difficulty rating (0 –3) across subjects. The Item Measure is the estimate of item
+difficulty on an interval scale from the Andrich rating scale model (mean item measure is 0) and Error is the standard error of the estimate of the
+item measure. The Infit MNSQ is the mean square residual (difference between the subject’s response to the item and the response expected by
+the Andrich model) weighted by the expected average variance. The infit mean square is distributed as ␹2 and Infit ZSTD is the value corresponding
+to the Wilson-Hilferty transformation of the infit mean square distribution to a standard normal distribution.
+
+
+[page 6]
+4960
+
+Massof et al.
+
+FIGURE 3. Locations of item measures for required driving ability (tick
+marks above the abscissa) and relative frequency distribution of person
+measures for perceived driving ability estimated from difficulty ratings
+of driving tasks by subjects who rated driving importance and difficulty
+greater than zero. Driving ability values on the abscissa are person and
+item measures estimated from Rasch analysis and are in logit units.
+
+more than 2 SD in 16% of the subjects (to be compared to 2.5%
+in each tail of the normal distribution). Figure 7 demonstrates
+that the subjects who reported that they currently drove
+formed a tight distribution of transformed infit mean squares
+around the expected value, whereas most of the outliers in
+both tails of the distribution can be attributed to those subjects
+who reported that they were not driving.
+The analysis of the fit statistics summarized in Figure 7
+suggest that the responses of nondrivers, when combined with
+the responses of drivers, may distort estimates of perceived
+driving ability measures. To test this possibility, we repeated
+the Rasch analysis, first using only the responses of drivers and
+a second time using only the responses of nondrivers. Item
+measures estimated from drivers’ responses were in strong
+agreement with item measures estimated from the responses of
+all subjects (intraclass correlation, ␳ ⫽ 0.9997). Item measures
+estimated from nondrivers’ responses were in moderate agreement with item measures estimated from the responses of all
+subjects (␳ ⫽ 0.736). Comparing person measure estimates
+from driver responses alone to estimates from the responses of
+all subjects, showed strong agreement (␳ ⫽ 0.99996). The
+agreement between person measure estimates based on nondriver responses and estimates based on responses of all subjects also was strong (␳ ⫽ 0.979). These results indicate that
+despite disagreements in item measures for the nondrivers, the
+analysis of responses of all subjects did not distort the estimates
+of perceived driving ability (person measure).
+Perceived driving ability is related to visual acuity and CS.
+Figure 8A illustrates a scatter plot of perceived driving ability in
+logits versus visual acuity in logMAR units. The Pearson product moment correlation is r ⫽ ⫺0.28 (P ⬍ 0.001). The regression line has a slope of ⫺0.49 and an intercept of 0.81. This
+linear trend is shallower than the regression line fit to person
+measures estimated from NEI VFQ responses versus logMAR
+acuity for low-vision patients in another study.24 Figure 8B
+illustrates a scatterplot of perceived driving ability versus log
+CS. The Pearson correlation is r ⫽ 0.35 (P ⬍ 0.001). The
+regression line has a slope of 0.83 and an intercept of ⫺0.26.
+
+IOVS, November 2007, Vol. 48, No. 11
+still driving. The median visual acuity for our low-vision patient
+sample was 20/60. As estimated from state licensing requirements,25 half of the patients in our sample would be eligible for
+a driver’s license in 41 states and the District of Columbia on
+the basis of visual acuity; one state would provide nonrestricted licensure, 40 states would automatically restrict licensure and specify categories of restriction that include, but are
+not limited to driving in the daytime only, limits on driving
+distance and/or speed, requirement for an annual examination,
+requirement for minimum visual field, documentation by report from an eye specialist, and comprehensive road testing. In
+addition, of the states that currently provide a path-to-driver
+licensure with the use of a prescribed spectacle-mounted bioptic telescopic system, at 20/60 acuity, one state would mandate
+bioptic driving licensure, and in the other states licensure
+would either be recommended or required25 based on documentation by the eye specialist and requirements of the state
+licensing agency. These results, reinforced with earlier independent observations by DeCarlo et al.,2 strongly suggest that
+a comprehensive approach to the issue of driving should be a
+formal component of a comprehensive outpatient low-vision
+rehabilitation program. Such an approach would include documentation of vision impairment and residual visual function,
+early identification of candidates for specialized licensure options, educating the patient on licensure standards and his/her
+eligibility, provision of appropriate patient counseling, and
+referral for driver education and training.
+Of those low-vision patients who considered driving not
+important, 31% reported never having driven. Of the patients
+who drove at one time but considered driving unimportant,
+two thirds stopped driving more than 2 years ago. In the case
+of nondrivers who considered driving extremely important,
+70% had stopped driving less than 2 years ago. Although
+alternative explanations could be entertained, the pattern of
+odds ratios in Table 3 suggests that for most low-vision patients, it appears to take more than 2 years postdriving before
+driving loses its importance. DeCarlo et al.2 reported that
+nondrivers in their sample compensated with a variety of
+alternative transportation strategies. Generalizing those results
+to our sample, it appears that it took more than 2 years for most
+patients to develop reliable alternatives to driving. It is likely
+that this adaptation could be accelerated with targeted patient
+education, the development of an individualized transportation
+plan, and advocacy of driving alternatives as part of the rehabilitation process, in addition to increased early referral for
+low-vision rehabilitation care.
+As would be expected from previous correlations reported
+in the literature,8 Figure 8 illustrates a trend toward a monotonic relationship between perceived driving ability at the
+driving task level and the severity of visual impairments. The
+
+DISCUSSION
+Twenty-nine percent of the low-vision patients in our sample
+were still driving. This percentage is similar to the observations
+of DeCarlo et al. (24%).2 Of the patients who were driving, 39%
+reported that it was at least moderately difficult to do so. More
+than half of all the patients in our sample considered driving to
+be extremely important, but only 49% of those patients were
+
+FIGURE 4. Relative frequency distributions of person measures for
+perceived driving ability estimated from difficulty ratings of driving
+tasks by nondriving and driving subjects who rated driving importance
+and difficulty greater than 0. Driving ability values on the abscissa are
+person measures estimated from Rasch analysis and are in logit units.
+
+
+[page 7]
+IOVS, November 2007, Vol. 48, No. 11
+
+Low-Vision–Induced Difficulty in Driving
+
+4961
+
+FIGURE 5. Distributions of interval measures of perceived driving ability estimated from difficulty ratings
+of driving tasks for different ordinal importance of driving ratings (left) and different ordinal overall
+difficulty of driving ratings (right) by subjects who reported that both driving importance and difficulty
+were greater than 0. Horizontal line in the center of each box is the median, the box hinges define the
+first and third quantiles, the whiskers define the range of values extending 1.5 times the midrange beyond
+the boundaries of the box, the asterisks are outliers, and the circles are far outliers.
+
+trend is the same for both drivers and nondrivers. This trend is
+similar, but shallower, to trends estimated for non– drivingoriented measures of perceived functional ability in other low vision patient samples.24,26,27 However, the correlation is
+weaker than that seen in the other studies and there is wide
+variability about the trend line. This spread in the data indicates
+that other variables besides visual acuity and CS factor into
+perceived driving ability. Those variables may be modifiable
+with clinical treatment (e.g., bioptic telescopic systems) and
+driver rehabilitation training. If so, the lack of a tight relationship between perceived driving ability and visual impairment
+measures offers hope that rehabilitation programs that target
+driving could be successful in low-vision patients. On the other
+hand, some of the departure from the trend line could be
+attributable to comorbidities and other factors that are not
+amenable to rehabilitation.
+From a measurement perspective, the mean square fit statistics, as illustrated in Figure 7, lead to the conclusion that
+low-vision drivers are more accurate in estimating the difficulty
+of driving tasks than are nondrivers. One could imagine a
+
+FIGURE 6. Relative frequency distribution of transformed infit mean
+squares for person measures of perceived driving ability (solid line)
+compared to the expected distribution (dashed line). Positive transformed infit mean squares correspond to greater errors in responses to
+the items compared with the expected responses (misfit to the measurement model), and negative transformed mean squares correspond
+to smaller response errors than expected (responses are too predictable relative to the overall response variance).
+
+plethora of explanations for this result, which we did not
+explore. Lack of accuracy indicates the presence of other
+factors that confound the measurement. Those factors, such as
+cognitive or physical disorders, might also contribute to the
+patient’s driving status. In this study we have not attempted to
+sort out the effects of comorbidities, which are ubiquitous in
+the older population, but Figure 4 clearly illustrates that nondrivers have lower perceived driving ability than do drivers.
+Other studies have concluded that the lack of confidence in
+driving ability leads to self-imposed limitations on driving or
+giving up driving altogether.9 Developing confidence in driving ability is a major goal of most low-vision driver training
+programs.28
+In conclusion, more than half of patients of an outpatient
+low-vision clinic in a large urban academic medical center
+potentially were eligible to drive in 80% of the states. More
+than a quarter of the patients were driving at the time of their
+clinic appointment. However, 40% of those patients reported
+that driving was difficult. Driving was rated as an extremely
+important goal by more than half of the low-vision patients.
+The data suggest that it takes more than 2 years after patients
+stop driving before they adapt to that loss of function and
+driving ceases to be important to them. The results of this
+
+FIGURE 7. Same as Figure 6, except that the person measure infit
+mean square distributions for drivers and nondrivers are plotted separately. The distribution for drivers agrees with expectations, whereas
+the distribution for nondrivers is broader than the expected distribution.
+
+
+[page 8]
+4962
+
+Massof et al.
+
+IOVS, November 2007, Vol. 48, No. 11
+
+FIGURE 8. (A) Scatterplot of person measures of perceived driving ability versus logMAR binocular visual acuity. Two vertical lines: visual acuity
+interval over which most states will grant a restricted license to drive. (B) Scatterplot of person measures of perceived driving ability versus log
+binocular CS.
+
+study, combined with similar results of earlier studies, lead us
+to conclude that driver evaluation and training should be a
+major component of comprehensive low-vision rehabilitation
+programs.
+
+References
+1. Jette AM, Branch LG. A ten-year follow-up of driving patterns
+among community-dwelling elderly. Hum Factors. 1992;34:25–31.
+2. DeCarlo DK, Scilley K, Wells J, Owsley C. Driving habits and
+health-related quality of life in patients with age-related maculopathy. Optom Vis Sci. 2003;80:207–213.
+3. Marottoli RA, Mendes de Leon CF, Glass TA, et al. Driving cessation
+and increased depressive symptoms: prospective evidence from
+the New Haven EPESE. Established Populations for Epidemiologic
+Studies of the Elderly. J Am Geriatr Soc. 1997;45:202–206.
+4. Fonda SJ, Wallace RB, Herzog AR. Changes in driving patterns and
+worsening depressive symptoms among older adults. J Gerontol B
+Psychol Sci Soc Sci. 2001;56:S343–S351.
+5. Charman WN. Vision and driving: a literature review and commentary. Ophthalmic Physiol Opt. 1997;17:371–391.
+6. Owsley C, McGwin G Jr. Vision impairment and driving. Surv
+Ophthalmol. 1999;43:535–550.
+7. Wood JM. Aging, driving and vision. Clin Exp Optom. 2002;85:
+214 –220.
+8. West CG, Gildengorin G, Haegerstrom-Portnoy G, Lott LA, Schneck
+ME, Brabyn JA. Vision and driving self-restriction in older adults.
+J Am Geriatr Soc. 2003;51(10):1499 –1501.
+9. Owsley C, McGwin G Jr. Vision impairment and driving. Surv
+Ophthalmol. 1999;43(6):535–550.
+10. Owsley C, McGwin G Jr, Ball K. Vision impairment, eye disease,
+and injurious motor vehicle crashes in the elderly. Ophthalmic
+Epidemiol. 1998;5(2):101–113.
+11. VanNewkirk MR, Weih L, McCarty CA, Taylor HR. Cause-specific
+prevalence of bilateral visual impairment in Victoria, Australia: the
+Visual Impairment Project. Ophthalmology. 2001;108(5):960 –967.
+12. Rosser DA, Cousens SN, Murdoch IE, Fitzke FW, Laidlaw DA. How
+sensitive to clinical change are ETDRS logMAR visual acuity measurements? Invest Ophthalmol Vis Sci. 2003;44:3278 –3281.
+13. Elliott DB, Sanderson K, Conkey A. The reliability of the Pelli Robson contrast sensitivity chart. Ophthalmic Physiol Opt. 1990;
+10:21–24.
+
+14. Massof RW, Hsu CT, Baker FH, et al. Visual disability variables I:
+The importance and difficulty of activity goals for a sample of
+low-vision patients. Arch Phys Med Rehabil. 2005;86:946 –953.
+15. Massof RW, Hsu CT, Baker FH, et al. Visual disability variables II:
+The difficulty of tasks for a sample of low-vision patients. Arch
+Phys Med Rehabil. 2005;86:954 –967.
+16. Bond TG, Fox CM. Applying the Rasch Model. Mahwah, NJ: Earlbaum, 2001.
+17. Massof RW. The measurement of vision disability. Optom Vis Sci.
+2002;79:516 –552.
+18. Andrich D. A rating formulation for ordered response categories.
+Psychometrika. 1978;43:561–573.
+19. Linacre JM, Wright BD. A User’s Guide to Winsteps Rasch-Model
+Computer Program. Chicago: MESA Press; 2001.
+20. Mallinson T, Stelmack J, Velozo C. A comparison of the separation
+ratio and coefficient alpha in the creation of minimum item sets.
+Med Care. 2004;42(suppl 1):I17–I24.
+21. Andersen EB. A goodness of fit test for the Rasch model. Psychometrika. 1973;38:123–140.
+22. Smith RM. The distributional properties of Rasch item fit statistics.
+Educ Psychol Meas. 1991;51:541–565.
+23. Massof RW. Application of stochastic measurement model to visual
+function rating scale questionnaires. Ophthalmic Epidemiol.
+2005;12:103–124.
+24. Massof RW, Fletcher DC. Evaluation of the NEI visual functioning
+questionnaire as an interval measure of visual ability in low vision.
+Vis Res. 2001;41:397– 413.
+25. Peli E, Peli D. Driving With Confidence: A Practical Guide to
+Driving With Low Vision. Singapore: World Scientific Publishing
+Co.; 2002.
+26. Gothwal VK, Lovie-Kitchin JE, Nutheti R. The development of the
+LV Prasad-Functional Vision Questionnaire: a measure of performance of visually impaired children. Invest Ophthalmol Vis Sci.
+2003;44:4131– 4139.
+27. Nutheti R, Shamanna BR, Krishnaiah S, Gothwal VK, Thomas R,
+Rao GN. Perceived visual ability for functional vision performance
+among persons with low vision in the Indian state of Andhra
+Pradesh. Invest Ophthalmol Vis Sci. 2004;45:3458 –3465.
+28. Park WL. Visual impairment and ability to drive: epidemiology,
+evaluation, education and ethics. Pract Optom. 2002;13(7):212–
+218.
+

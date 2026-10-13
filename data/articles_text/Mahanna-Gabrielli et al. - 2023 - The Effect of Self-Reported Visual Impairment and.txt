@@ -1,0 +1,1149 @@
+[page 1]
+Journal of Alzheimer’s Disease 92 (2023) 1257–1267
+DOI 10.3233/JAD-221073
+
+The Effect of Self-Reported Visual
+Impairment and Sleep on Cognitive
+Decline: Results of the Hispanic
+Community Health Study/Study of Latinos
+Elizabeth Mahanna-Gabriellia , Sayaka Kuwayamab , Wassim Tarrafc , Sonya Kaura ,
+Delia Cabrera DeBucd , Jianwen Caie , Martha L. Daviglusf , Charlotte E. Josling , David J. Leea ,
+Carlos Mendoza-Santiesteband , Ariana M. Stickelb , Diane Zhenga , Hector M. Gonzálezb
+and Alberto R. Ramosa,∗
+a University of Miami Miller School of Medicine, Miami, FL, USA
+b University of California, San Diego, La Jolla, CA, USA
+c Wayne State University, Detroit, MI, USA
+d Bascom Palmer Eye Institute, University of Miami, Miami, FL, USA
+e University of North Carolina, Chapel Hill, NC, USA
+f University of Illinois at Chicago, Chicago, IL, USA
+g University of Illinois, Chicago, IL, USA
+
+Handling Associate Editor: Mohammad Nami
+Accepted 1 February 2023
+Pre-press 2 March 2023
+
+Abstract.
+Background: Visual impairment could worsen sleep/wake disorders and cognitive decline.
+Objective: To examine interrelations among self-reported visual impairment, sleep, and cognitive decline in the Hispanic
+Community Health Study/Study of Latinos (HCHS/SOL) Miami-site.
+Method: HCHS/SOL Miami-site participants ages 45–74 years (n = 665) at Visit-1, who returned for cognitive test 7years later (SOL-INCA). Participants completed the National Eye Institute Visual Functioning Questionnaire (NEI-VFQ),
+validated sleep questionnaires and test for obstructive sleep apnea (OSA) at Visit-1. We obtained verbal episodic learning and
+memory, verbal fluency, processing speed, and executive functioning at Visit-1 and at SOL-INCA. Processing speed/executive
+functioning were added to SOL-INCA. We examined global cognition and change using a regression-based reliable change
+index, adjusting for the time lapse between Visit-1 and SOL-INCA. We used regression models to test whether 1) persons
+with OSA, self-reported sleep duration, insomnia, and sleepiness have an increased risk for visual impairment, 2a) visual
+impairment is associated with worse cognitive function and/or decline, and 2b) sleep disorders attenuate these associations.
+Result: Sleepiness (␤ = 0.04; p < 0.01) and insomnia (␤ = 0.04; p < 0.001) were cross-sectionally associated with visual
+impairment, adjusting for sociodemographic characteristics, behavioral factors, acculturation, and health conditions. Visual
+
+∗ Correspondence to: Alberto R. Ramos, MD, MS, FAASM,
+FAAN, 1120 NW 14th Street, Suite 1350, Miami, FL 33136, USA.
+Tel.: +1 305 243 8393; E-mail: aramos@med.miami.edu.
+
+
+[page 2]
+impairment was associated with lower global cognitive function at Visit-1 (␤ = –0.16; p < 0.001) and on average 7-years later
+(␤ = –0.18; p < 0.001). Visual impairment was also associated with a change in verbal fluency (␤ = –0.17; p < 0.01). OSA,
+self-reported sleep duration, insomnia, and sleepiness did not attenuate any of the associations.
+Conclusion: Self-reported visual impairment was independently associated with worse cognitive function and decline.
+Keywords: Cognitive decline, health disparities, Hispanic/Latinos, sleep disorders, visual impairment
+
+INTRODUCTION
+Visual impairment, which affects >10% of U.S.
+Hispanic/Latino older adults [1], may lead to a
+shortened photoperiod and worse circadian entrainment, contributing to poor sleep [2–9]. Similar to
+visual impairment [10], sleep disorders are associated with cognitive impairment and decline [4, 9,
+11, 12]. Therefore, examining the interplay between
+visual impairment and sleep on cognitive health
+can help identify individuals at risk for cognitive
+decline and inform treatment studies. The mechanisms by which visual impairment affect cognition
+are not understood. Prior work suggests that cardiometabolic disorders lead to concurrent vision and
+cognitive decline through microvascular disease and
+or atherosclerosis [13–15]. Visual impairment can
+also lead to mood disorders and social isolation [13].
+However, the epidemiologic and clinical evidence
+that links sleep and cognition provides an impetus to
+examine sleep as a possible mechanistic link between
+visual impairment and cognitive decline [14]. Studies on the association between visual impairment and
+sleep have been conducted in predominantly non Hispanic/Latino white clinical samples or in older
+adults [8, 9, 16]. Race-ethnic disparities exist in disorders that may cause visual impairment (i.e., diabetic
+retinopathy, glaucoma), sleep disorders and cognition [17]. Studies suggest that Hispanics/Latinos have
+a greater burden of visual impairment as well as
+high prevalence of sleep disorders, factors that could
+contribute to increase burden of cognitive decline
+and dementia risk [18–20]. This study examines
+associations between self-reported visual impairment and sleep on cognitive function and cognitive
+decline in participants from the Hispanic Community Health Study/Study of Latinos (HCHS/SOL)
+Miami-site. We hypothesize that 1) persons with
+sleep disorders, specifically obstructive sleep apnea
+(OSA), insomnia and daytime sleepiness, have an
+increased self-reported visual impairment, 2a) self reported visual impairment is associated with worse
+baseline and average 7-years cognitive function
+
+and/or cognitive decline, and 2b) OSA, insomnia and daytime sleepiness attenuate any of these
+associations.
+MATERIALS AND METHODS
+Data
+HCHS/SOL is a multisite, prospective cohort study
+of community-dwelling Hispanic/Latino adults from
+diverse backgrounds. Data were collected from field
+centers in four U.S. metropolitan regions with diverse
+Hispanic/Latino populations (Bronx, NY; Chicago,
+IL; Miami, FL; and San Diego, CA). The Study
+of Latinos-Investigation of Neurocognitive Aging
+(SOL-INCA), an ancillary study of HCHS/SOL,
+examines neurocognition among a subset of participants from HCHS/SOL. At Visit-2 of HCHS/SOL,
+n = 6,377 eligible HCHS/SOL participants met the
+inclusion criteria for SOL-INCA (being age 50years and older at Visit 2 and having completed a
+Visit-1 neurocognitive module), agreed to participate, and completed the SOL-INCA visit. Detailed
+HCHS/SOL rationale and sampling methods have
+been published previously [21, 22]. All participants provided informed consent, and the study was
+approved by the IRB in all study site and institutions.
+Analytic subpopulation
+The study cohort are 1,235 Miami Field Center participants that completed an interview on self-reported
+visual impairment and utilization [23]. Participants
+completed validated sleep questionnaires and objective measures of sleep apnea in Visit-1 (2008–2011),
+as well as neurocognitive test in Visit-1 and 7-year
+follow-up during SOL-INCA [24, 25].
+Outcomes: Neurocognitive function and decline
+Neurocognitive tests administered at Visit-1
+included the: Brief- Spanish English Verbal Learning Test (B-SEVLT; verbal episodic learning and
+
+
+[page 3]
+memory); Word Fluency (WF; phonemic verbal fluency); and Digit Symbol Substitution test (DSS;
+processing speed) of the Wechsler Adult Intelligence
+Scale-Revised. All tests were z-scored (X-Mean/SD)
+to facilitate interpretation of results across a common metric. A global cognitive composite score was
+generated by averaging the z-scores of the above
+tests. To evaluate neurocognitive decline, SOL-INCA
+repeated the above neurocognitive battery at Visit-2
+[26, 27]. For the repeated cognitive measures and the
+global measure of cognition, a change score indicator was generated using regression-based techniques
+[28]. Briefly, these change scores were calculated
+using survey linear regression to predict cognitive
+performance at Visit-2 as a function of Visit-1 cognitive performance, adjusting for lapsed time (in days)
+between cognitive assessments. Test specific standardized measures of change () were subsequently
+calculated using (T2 - T2pred )/RMSE. T2 represents
+a respondent’s score on a cognitive test at Visit-2,
+T2pred is the predicted value for that respondent on
+the test derived from the regression model specified
+above and RMSE is Root Mean Squared Error of the
+fit model.
+
+Main exposures: Self-reported visual impairment
+We used the self-administered National Eye
+Institute-Visual Functioning Questionnaire (NEIVFQ) score as a continuous variable. The NEI-VFQ
+is a composite score generated using 25 items on
+the 12 different subscales that measure self-reported
+visual health, which has been validated in Spanish
+and Latino populations [29–32]. Each item is coded
+so that the lowest values represent a minimal degree
+of functional problems whereas the highest values
+represent worse functional issues. The items are first
+summed across the measures within the subscales
+where none of each item in the subscales is missing, and the summed scales are then averaged across
+the subscales. One item of the mental health subscale
+was omitted from the survey and was therefore not
+included in the calculation (How much of the time do
+you worry about your eyesight), and the mean score
+of this subscale was determined using the three available items. This modification did not affect the total
+scoring of NEI-VFQ, and our scores are comparable
+with those of other studies [23].
+In the analysis, we used the standardized form of
+these averaged scales.
+
+Sleep measures from Visit-1
+HCHS/SOL’s sleep questionnaire evaluates weekday and weekend bedtime and wake time, napping
+behaviors, as well as related sleep apnea symptoms.
+We used this average sleep duration as a continuous
+variable. We also constructed a trichotomous sleep
+duration variable to separate ‘short’ (<6 h), ‘average’ (between 6 and 9 h), and ‘long’ (>9 h) sleep.
+The Epworth Sleepiness Scale (ESS), assesses the
+likelihood of falling asleep in eight common situations, totaling up to 24 points. Insomnia questions
+were adapted from the Women’s Health Initiative
+Insomnia Rating Scale (WHIIRS), which has a total
+of 20 points derived from five items scored from 0–4
+each. The insomnia score was tested both as continuous and a binary measure, whereby respondents
+were considered to have met criteria for ‘Insomnia’
+if their ESS score was 10 and ‘no Insomnia’ otherwise. Self-reported sleep quality was defined as ‘Very
+sound or restful’, ‘Sound or restful’, ‘Average quality’, ‘Restless or very restless’ based on response to
+the probe “Overall [what is your] . . . typical night’s
+sleep during the past 4 weeks?” Similarly, napping
+was defined as a four-category indicator grouping
+respondents self-reporting ‘None’, ‘1-2 times’, ‘34 times’, ‘5 or more times’ for the number of
+times they napped for 5 minutes or more during
+a usual week. All questionaires were administered
+in either English or Spanish, based on participant’s
+preference [20].
+Obstructive sleep apnea
+OSA data were collected using the ARES Unicorder 5.2; B-Alert (Carlsbad, CA) [33]. The ARES
+is a home sleep apnea testing device used to evaluate for OSA according with the practice parameters
+of the American Academy of Sleep Medicine [34].
+Sleep records were scored at the HCHS/SOL Sleep
+Reading Center. The Apnea-Hypopnea Index (AHI)
+was calculated as the number of events divided by
+estimated sleep time, using methods described previously [20]. We used AHI as a continuous variable and
+as a categorical variable in secondary analyses. For
+categorical construction we classified three groups:
+‘No Sleep Apnea’ if AHI was <5, ‘Mild Sleep Apnea’
+if between 5 and 15, and ‘Moderate to Severe Sleep
+Apnea’ if 15.
+Main covariates
+Sociodemographic factors included age in years
+at Visit-1, sex, Hispanic/ Latino heritage, education
+
+
+[page 4]
+Table 1
+Descriptive characteristics of target population (unweighted
+n = 665)
+(Unweighted
+n = 665)
+Sex (%)
+Female
+Male
+Heritage (%)
+Cuban
+Central/South American
+Other
+Education (%)
+Less than HS
+HS or equivalent
+Greater than HS
+Marital Status (%)
+Single
+Married/cohabit
+Separated/Divorced/Widowed
+Income (%)
+<20k
+20–40k
+40k+
+Not reported
+Insurance (%)
+Uninsured
+Insured/Medicaid
+Employment (%)
+Employed
+Retired and not currently employed
+Unemployed
+Alcohol (%)
+Never
+Former
+Current
+Smoking (%)
+Never
+Former
+Current
+Physical Activity (%)
+No
+Yes
+Language (%)
+Spanish preferred
+English preferred
+Both equally
+Hypertension (%)
+No
+Yes
+Diabetes (%)
+No
+Yes
+CHD (%)
+No
+Yes
+Heart Failure (%)
+No
+Yes
+Stroke/TIA (%)
+No
+Yes
+Age (mean, SD)
+BMI (mean, SD)
+Acculturation - language (mean, SD)
+
+52.7 (2.6)
+47.3 (2.6)
+69.7 (2.9)
+22.9 (2.4)
+7.4 (1.3)
+26.3 (2.6)
+21.5 (1.9)
+52.2 (2.7)
+17.3 (1.9)
+52.8 (2.9)
+29.9 (2.5)
+54.4 (3.5)
+25.0 (2.8)
+8.6 (1.9)
+12.0 (1.5)
+57.9 (2.8)
+42.1 (2.8)
+44.6 (2.9)
+17.3 (2.9)
+38.1 (2.7)
+32.5 (2.2)
+20.8 (2.2)
+46.8 (2.8)
+50.2 (2.7)
+28.3 (2.7)
+21.5 (1.9)
+45.9 (2.7)
+54.1 (2.7)
+93.4 (1.2)
+2.8 (1.0)
+3.7 (0.9)
+52.5 (2.3)
+47.5 (2.3)
+71.5 (2.8)
+28.5 (2.8)
+91.8 (1.7)
+8.2 (1.7)
+97.1 (1.1)
+2.9 (1.1)
+96.1 (1.6)
+3.9 (1.6)
+57.4 (8.1)
+29.7 (5.6)
+1.4 (0.6)
+
+Variables are measured at Visit 1. HS, high school; CHD, coronary
+heart disease; TIA, transient ischemic attack, BMI, body mass
+index; SD, standard deviation.
+
+(less than high school, high school or equivalent,
+greater than high school), marital status (single,
+married/cohabit,
+separated/divorced/widowed),
+household income (less than $20,000, between
+$20,000 and $40,000, more than $40,000, not
+reported), insurance (uninsured, insured/Medicaid),
+and employment status (employed, retired, and not
+currently employed, unemployed). Behavioral risk
+factors included alcohol use status (never, former,
+current), smoking status (never, former, current),
+physical activity (no, yes), and body mass index
+(BMI). Additionally, we accounted for language
+preference (Spanish, English, both equally) and an
+acculturation subscale (language) based on the Short
+Acculturation Scale for Hispanics. We also included
+self-reported history of the following chronic
+conditions (not present, present): hypertension,
+diabetes, coronary heart disease, heart failure, and
+stroke/transient ischemic attack. Lastly, we included
+years lived in US and an acculturation subscale
+(social) in the sensitivity analyses (see Discussion
+below).
+Statistical analyses
+Analytic sample
+A total of 1,235 participants (ages 40–74 years)
+were enrolled in the Visit 1 vision study at the
+Miami Field Center. We included n = 846 participants (ages 45–74 at Visit 1) that participated in the
+neurocognitive modules at both Visit-1 (concurrent
+with the vision study) and recruited and returned for
+the second neurocognitive visit on average 7-years
+later. From there, we excluded n = 123 individuals who did not participate in the sleep module.
+Finally, we excluded n = 2 individuals who had missing self-reported vision status (defined as ‘Excellent,
+Good, Fair, Poor, or Very poor’ based on response
+to a questionnaire “your eyesight using both eyes”)
+and n = 56 individuals who had any missing covariate for a final analytic sample of 665 individuals
+included in the analyses. Supplementary Table 3
+also includes descriptive characteristics comparing
+the excluded and included subsamples. Overall, we
+found no evidence for differences between these two
+groups.
+Analytic approach
+First, we report descriptive statistics for the overall target population at the Miami-site. The survey
+weighted estimates are presented in Table 1.
+
+
+[page 5]
+Table 2
+Associations between visual impairment measured through the NEI-VFQ and sleep exposures. Results are derived from survey regression
+analyses
+Exposure
+Sleepiness
+Unweighted n
+Insomnia
+Unweighted n
+Apnea
+Unweighted n
+Duration
+Unweighted n
+Weekly Nap
+none
+1-2 times
+3-4 times
+>5 times
+Unweighted n
+Quality
+very sound/very restful
+sound/restful
+average
+restless/very restless
+Unweighted n
+
+M1
+␤(SE)
+
+M2
+␤(SE)
+
+M3
+␤(SE)
+
+M4
+␤(SE)
+
+0.04** (0.01)
+665
+0.04*** (0.01)
+665
+0.002 (0.004)
+665
+0.05 (0.03)
+665
+
+0.04** (0.01)
+665
+0.04*** (0.01)
+665
+0.003 (0.004)
+665
+0.04 (0.03)
+665
+
+0.04** (0.01)
+665
+0.04*** (0.01)
+665
+0.004 (0.004)
+665
+0.01 (0.04)
+665
+
+0.03** (0.01)
+665
+0.04*** (0.01)
+665
+0.002 (0.004)
+665
+0.01 (0.03)
+665
+
+ref
+–0.07 (0.15)
+–0.04 (0.15)
+–0.11 (0.13)
+665
+
+ref
+–0.05 (0.13)
+–0.05 (0.13)
+–0.09 (0.15)
+665
+
+ref
+–0.07 (0.12)
+–0.08 (0.15)
+–0.08 (0.16)
+665
+
+ref
+–0.07 (0.12)
+–0.05 (0.14)
+–0.10 (0.15)
+665
+
+ref
+0.08 (0.20)
+0.43* (0.20)
+0.43* (0.20)
+665
+
+ref
+0.07 (0.19)
+0.42* (0.18)
+0.37* (0.18)
+665
+
+ref
+0.06 (0.18)
+0.44* (0.18)
+0.34 (0.18)
+665
+
+ref
+0.04 (0.17)
+0.38* (0.17)
+0.33 (0.17)
+665
+
+NEI VFQ, National Eye Institute Visual Function Questionnaire; standardized measure is used in the estimations. Model 1 (M1) is crude,
+Model 2 (M2) is adjusted for age, sex, and education, Model 3 (M3) is additionally adjusted for all sociodemographic characteristics,
+behavioral risk factors and acculturation measures, and Model 4 (M4) is full covariate adjusted. ∗∗∗ p < 0.001; ∗∗ p < 0.01; ∗ p < 0.05.
+
+To test our first hypothesis (that individuals in
+the target population with sleep disorders and disturbances have increased risk for visual impairment),
+we performed survey generalized linear regressions
+analysis with our continuous outcome of interest
+(i.e., standardized NEI-VFQ). The following sleep
+measures were included as exposures independently:
+Sleepiness, Sleep Apnea, Insomnia, Sleep Duration,
+Sleep Quality, and Napping Frequency. For each
+exposure, we fit four regression models. Model (1)
+was crude (unadjusted for covariables), (2) adjusted
+for age, sex, and education, (3) adjusted for additional
+sociodemographic factors, behavioral risk factors,
+and acculturation measures, and (4) accounted for
+the full set of covariates as detailed earlier (Main
+Covariates section). The estimates for the regression
+coefficients along with their standard errors are presented in Table 2.
+To test our second set of hypotheses that (1) self reported visual impairment is inversely linked to
+Visit-1 and average 7-years cognitive function and/or
+change in cognition and (2) that sleep can attenuate
+these associations, we performed survey generalized
+linear regression for each of the continuous outcomes of interest (i.e., SEVLT-Sum, SEVLT-Recall,
+Word Fluency, Digit and Symbol Substitution, and
+Global Cognition). Self-reported visual impairment
+
+(i.e., standardized NEI-VFQ) was the primary exposure, and for each outcome we fit 2 different models:
+(1) crude and (2) fully adjusted for all sleep measures, sociodemographic characteristics, behavioral
+risk factors, acculturation, and health conditions.
+Estimates for the regression coefficients and their
+standard errors are presented in Table 3 for the Visit-1
+cognitive performance and on average 7 years later,
+and in Table 4 for the cognitive change. In post-hoc
+analyses, we calculated and plotted marginal means
+derived from the regression models with their 95%
+confidence intervals to highlight differences across
+the exposure groups (Fig. 1).
+As the supplemental analysis, we fit 2 additional
+models: (1) adjusted for each of the sleep measures
+(i.e., Sleepiness, Insomnia, Apnea, Duration, Napping, and Sleep Quality) independently, (2) adjusted
+for each of the sleep measures, age, sex, and education (Supplementary Tables 1, 2). The margins are
+also plotted and presented in Supplementary Figures 1–3. To determine the robustness of the models,
+we conducted sensitivity analyses where we additionally included two covariates (years lived in US
+and acculturation subscale - social) in the model
+adjustments (model 3 and model 4 in the first hypothesis and model 4 in the second hypothesis). These
+results are briefly discussed below (output of results
+
+
+[page 6]
+Table 3
+Associations between visual impairment (NEI VFQ) and cognitive performance at Visit 1 and at SOL-INCA, on average 7-years later. Results
+are based on survey regression models
+Visit 1
+M2
+
+M1
+
+M2
+
+␤(SE)
+
+␤(SE)
+
+␤(SE)
+
+␤(SE)
+
+–0.12** (0.04)
+662
+–0.14** (0.04)
+665
+–0.12** (0.04)
+662
+–0.24*** (0.04)
+656
+–0.16*** (0.03)
+665
+
+–0.09* (0.04)
+662
+–0.13** (0.04)
+665
+–0.05 (0.04)
+662
+–0.17*** (0.03)
+656
+–0.12*** (0.03)
+665
+
+–0.15* (0.06)
+663
+–0.09 (0.05)
+662
+–0.23*** (0.05)
+663
+–0.24*** (0.06)
+659
+–0.18*** (0.05)
+663
+
+–0.14** (0.04)
+663
+–0.10** (0.04)
+662
+–0.18*** (0.04)
+663
+–0.19*** (0.03)
+659
+–0.15*** (0.03)
+663
+
+Outcome
+B-SEVLT-Sum
+Unweighted n
+B-SEVLT-Recall
+Unweighted n
+Word Fluency
+Unweighted n
+Digit & Symbol
+Unweighted n
+Global Cognition
+Unweighted n
+
+SOL-INCA
+
+M1
+
+NEI VFQ, National Eye Institute Visual Function Questionnaire; standardized measure is used in the estimations. Model 1 (M1) is crude,
+Model 2 (M2) is adjusted for all sleep measures (sleepiness, insomnia, apnea, duration, nap, quality) and full covariates (sociodemographic
+characteristics, behavioral risk factors, acculturation measures, and health conditions). ∗∗∗ p < 0.001; ∗∗ p < 0.01; ∗ p < 0.05.
+Table 4
+Associations between visual impairment (NEI VFQ) and cognitive
+change. Results are based on survey regression models
+Outcome
+B-SEVLT-Sum
+Unweighted n
+B-SEVLT-Recall
+Unweighted n
+Word Fluency
+Unweighted n
+Digit & Symbol
+Unweighted n
+Global Cognition
+Unweighted n
+
+M1
+
+M2
+
+␤(SE)
+
+␤(SE)
+
+–0.09 (0.07)
+660
+–0.02 (0.06)
+662
+–0.17** (0.06)
+660
+–0.02 (0.08)
+650
+–0.08 (0.08)
+663
+
+–0.09 (0.06)
+660
+–0.02 (0.05)
+662
+–0.17** (0.05)
+660
+–0.00 (0.07)
+650
+–0.07 (0.07)
+663
+
+NEI VFQ, National Eye Institute Visual Function Questionnaire;
+standardized measure is used in the estimations. Model 1 (M1) is
+crude, Model 2 (M2) is adjusted for all sleep measures (sleepiness, insomnia, apnea, duration, nap, quality) and full covariates
+(sociodemographic characteristics, behavioral risk factors, acculturation measures, and health conditions). ∗∗∗ p < 0.001; ∗∗ p < 0.01;
+∗ p < 0.05.
+
+from the sensitivity analyses are available from
+authors).
+Lastly, we replicated the above analyses while
+using the categorical classifications for Apnea,
+Insomnia, and Duration (see sleep exposures section
+above). The additional results from this analysis are
+also available through authors. All survey regression
+analyses were performed using the survey functionalities in Stata V16.1 and incorporated the SOL-INCA
+sampling design.
+To facilitate more detailed visual exploration of
+all the results generated from these analytic steps,
+we created and published an online dashboard. Interested readers can access and explore all our published
+
+results at the following website [https://solincalab.
+shinyapps.io/Sleep-Vision-Cognition-3/].
+RESULTS
+Descriptive statistics
+The characteristics for the overall target population
+are shown in Table 1. Average age was 57.4 years,
+52.7% were women, 69.7% were Cuban heritage,
+and close to a quarter were Central/South American
+heritage. 52% of the target population had education of more than high school, more than half were
+either married or cohabited, and more than 54%
+had income less than $20,000. Additionally, 42%
+were insured and 45% were employed at Visit-1.
+The average BMI of the target population was 29.7,
+47% consumed alcohol, slightly more than 1 in 5
+smoked at Visit-1, and 54% met the 2008 physical
+activity level guidelines. 93% preferred Spanish language over English. Finally, 48% had hypertension,
+29% had diabetes, 8.2% had coronary heart disease,
+2.9% self-reported heart failure, and 3.9% had prevalent stroke or transient ischemic attack. Associations
+among OSA, self-reported sleep duration, insomnia,
+and daytime sleepiness with NEI-VFQ (Table 2).
+Sleepiness and Insomnia were associated with
+worse self-reported visual impairment, and the
+associations were robust to adjustment for sociodemographic characteristics, acculturation, behavioral
+risk measures, and health conditions. Having average
+or restless/very restless quality of sleep was also associated with worse self-reported visual impairment;
+however, these associations attenuated after adjust-
+
+
+[page 7]
+Fig. 1. Associations between visual impairment (NEI VFQ) and cognitive performance at SOL-INCA, on average 7-years later. Results are
+based on survey regression models. Model 1 is crude, Model 2 is adjusted for all sleep measures (sleepiness, insomnia, apnea, duration, nap,
+quality) and full covariates (sociodemographic characteristics, behavioral risk factors, acculturation measures, and health conditions).
+
+ing for covariates. Apnea, sleep duration, and napping
+frequency were not linked with self-reported visual
+impairment.
+Self-reported visual impairment and cognitive
+function (Table 3, Supplementary Table 1)
+At Visit-1, worse self-reported visual impairment
+was inversely associated with global cognitive function. These associations were consistent across all
+considered cognitive domains and were not attenuated through adjustment for any of the sleep
+measures. Slight attenuations were observed for the
+relationships between self-reported visual impairment with global cognition, learning and memory
+(B-SEVLT Sum, B-SEVLT recall), and processing
+speed/executive functioning (DSST) after adjustment
+for sociodemographic characteristics, behavioral
+characteristics, acculturation, and health conditions.
+The association between self-reported visual impairment with word fluency was fully explained by
+adjustment of covariates.
+Worse self-reported visual impairment was associated with lower global cognitive function on average
+7-years later. As with Visit-1, the associations were
+
+not attenuated by adjustment to sleep, and only
+slightly so after adjusting for sociodemographic,
+acculturative, behavioral or health characteristics.
+Self-reported visual impairment was also inversely
+associated with learning (B-SEVLT Sum), verbal
+fluency and processing speed/executive functioning,
+and these associations were robust to sleep and other
+covariables adjustment. In the fully adjusted model,
+worse self-reported visual impairment was associated
+with lower scores in memory.
+Self-reported visual impairment and cognitive
+change (Table 4, Supplemental Table 2)
+Despite consistent inverse links to Visit-1 and
+Visit-2 cognitive function, self-reported visual
+impairment was not associated with change in global
+cognition. We also find no evidence for linking self reported visual impairment with memory (learning
+and recall) or processing speed/executive functioning. However, higher NEI-VFQ (implicating worse
+visual functioning) was associated with a more pronounced decline in performance on verbal fluency.
+The association between the NEI-VFQ and change in
+verbal fluency was not attenuated by adjustment for
+
+
+[page 8]
+the considered sleep measures and remained robust to
+additional adjustment for sociodemographic, behavioral, acculturation, and health conditions.
+Sensitivity analysis
+After adding two additional covariates (years lived
+in US and an acculturation subscale - social) and
+excluding individuals with missing covariates, the
+sample size was reduced to n = 590. While some of the
+estimated effects lost significance due to the reduced
+sample size, the results and interpretation from the
+original results remained stable.
+Secondary analyses
+The results above were consistent in the secondary
+analyses where insomnia, sleep apnea, and duration
+were operationalized as categorical variables. These
+results are available from authors and the online dashboard (see Sensitivity analysis section above).
+DISCUSSION
+In this study population of middle-aged and older
+Hispanic/Latinos from the HCHS/SOL Miami site
+and SOL-INCA, self-reported visual impairment
+was associated with worse verbal fluency, memory, and processing speed/executive functioning at
+baseline and follow-up. In addition, visual disturbances predicted a 7-year cognitive decline in the
+verbal fluency domain. Like our findings, prior studies observed associations between vision loss and
+cognitive decline. However, most studies used measures of global cognition (e.g., Mini-Mental State
+Examination) or evaluated cohorts of older adults
+[35, 36]. An analysis from the Baltimore Longitudinal Study on Aging (mean age 71 years; 71%
+White) described associations between visual acuity
+with worse cognitive function and six-year cognitive decline in the domains of language and memory,
+while visual contrast sensitivity was associated with
+decline in language, memory, attention, and visuospatial ability [15]. Similar to our analysis, self-rated
+vision (poor compared to normal) was associated with
+incident dementia in participants 50–69 years of age
+from the English longitudinal study of ageing [37].
+Our study used self-report to measure the main exposure; nonetheless we also observed domain specific
+cognitive dysfunction in the cross-sectional analysis
+and 7-year decline in language (i.e., verbal fluency).
+These findings suggest that impaired visual input may
+
+result in errors in perceptual processing, with consequent decline in higher-order cognitive performance.
+Our findings also suggest that self-reported visual
+impairment contributes to cognitive decline and could
+lead to increase dementia risk in Hispanic/Latino
+adults, who have up to a fourfold increased risk of
+dementia and early cognitive decline compared to
+non-Hispanic white adults.
+We also observed associations between self reported visual impairment, with daytime sleepiness,
+and insomnia symptoms, but not with OSA or
+self-reported sleep duration. Other studies observed
+associations between disorders that cause vision
+loss (e.g., glaucoma) and OSA. Our study may not
+be powered to reproduce these associations [38].
+Insomnia and daytime sleepiness could be the consequence of circadian misalignment in participants
+with visual impairment. In addition, cognitive decline
+can be the consequence of increments in cognitive
+load associated with visual impairment [10]. Alternatively, visual and cognitive impairment [10] in
+Hispanic/Latinos, could be in part associated with
+high prevalence of cardiovascular diseases, as well as
+sleep disorders affecting cognitive health [12, 39–41].
+Strengths and limitations
+The strengths of our study include our large,
+diverse Hispanic/Latino population of diverse heritage, the use of a robust self-reported visual
+functioning tool, validated in Spanish and Hispanic/Latino populations, and finally our extensive,
+longitudinal, cognitive testing.
+Our study does have limitations. HCHS/SOL is
+a community-based population study that may have
+unmeasured confounders. Our relatively smaller sample size and evaluation within a single site limited our
+analysis to confounders considered a priori. However, follow-up studies should include the effects
+of important confounders such as physical activity,
+dietary habits, measures of anxiety and depression,
+medications that could affect sleep and cognition, as
+well as behaviors, including use of caffeine, tobacco,
+and alcohol. However, the influence of these confounders was minimized through strict regulations,
+and guidelines to evaluate our participants, as well as
+systematic controlling for covariates in our statistical models. As with other studies, using subjective
+data can also introduce classification error. The
+NEI-VFQ assesses the effect of self-reported visual
+functioning on emotional well-being and social functioning. Follow-up studies utilizing clinical exams
+
+
+[page 9]
+and objective measurements of vision are warranted.
+In addition, there were a limited number of measures available from the home sleep apnea test [42].
+HCHS/SOL was designed to address gaps in research
+associated with U.S. Hispanic/Latino health. However, factors such as low health literacy, low education
+and the implementation of culturally specific protocols may serve as unknown confounders. Importantly,
+the chosen questionnaires are available and validated
+in Spanish and English.
+
+(R21AG070644, R01AG048642, RF1AG054548,
+RF1AG061022, and R21AG056952, R01AG0675
+68), and by the NHLBI (R21HL145425, R35HL
+135818, R01HL153814, R01HL161012). Dr.
+González also received additional support from
+P30AG062429 and P30AG059299.
+
+Conclusion
+
+DATA AVAILABILITY
+
+Among Hispanic/Latinos from the HCHS/SOL
+Miami site target population, self-reported visual
+impairment was associated with cognitive function
+and cognitive decline, independent of covariates,
+including sleep disorders. Our findings suggest that
+self-reported visual impairment contributes to cognitive decline and could lead to increase dementia risk
+in Hispanic/Latino adults.
+
+HCHS/SOL data can be accessed via approved data
+use agreement with the Data Coordinating Center of
+the HCHS/SOL and the University of North Carolina.
+https://sites.cscc.unc.edu/hchs.
+
+ACKNOWLEDGMENTS
+The authors thank the staff and participants of
+HCHS/SOL for their important contributions. Investigators website: https://sites.cscc.unc.edu/hchs/
+
+CONFLICT OF INTEREST
+The authors declare no relevant conflict of interest.
+
+SUPPLEMENTARY MATERIAL
+The supplementary material is available in the
+electronic version of this article: https://dx.doi.org/
+10.3233/JAD-221073.
+
+REFERENCES
+[1]
+
+FUNDING
+The Hispanic Community Health Study/Study
+of Latinos is a collaborative study supported by
+contracts from the National Heart, Lung, and
+Blood Institute (NHLBI) to the University of North
+Carolina (HHSN268201300001I/N01-HC-65233),
+University of Miami (HHSN268201300004I/N01HC-65234), Albert Einstein College of Medicine
+(HHSN268201300002I/N01-HC-65235), University
+of Illinois at Chicago (HHSN268201300003I/N01HC-65236 Northwestern University), and San Diego
+State University (HHSN268201300005I/N01-HC65237). The following Institutes/Centers/Offices
+have contributed to the HCHS/SOL through a
+transfer of funds to the NHLBI: National Institute
+on Minority Health and Health Disparities, National
+Institute on Deafness and Other Communication
+Disorders, National Institute of Dental and Craniofacial Research, National Institute of Diabetes
+and Digestive and Kidney Diseases, National
+Institute of Neurological Disorders and Stroke, NIH
+Institution-Office of Dietary Supplements. This work
+was supported by the National Institute on Aging
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+Lam BL, Lee DJ, Zheng DD, Davila EP, Christ SL, Arheart
+KL (2009) Disparity in prevalence of self-reported visual
+impairment in older adults among U.S. race-ethnic subgroups. Ophthalmic Epidemiol 16, 144-150.
+Lanzani MF, de Zavalia N, Fontana H, Sarmiento MI,
+Golombek D, Rosenstein RE (2012) Alterations of locomotor activity rhythm and sleep parameters in patients with
+advanced glaucoma. Chronobiol Int 29, 911-919.
+Lockley SW, Arendt J, Skene DJ (2007) Visual impairment
+and circadian rhythm disorders. Dialogues Clin Neurosci 9,
+301-314.
+Bendel RE, Kaplan J, Heckman M, Fredrickson PA, Lin SC
+(2008) Prevalence of glaucoma in patients with obstructive
+sleep apnoea–a cross-sectional case-series. Eye (Lond) 22,
+1105-1109.
+Gordo MA, Recio J, Sanchez-Barcelo EJ (2001) Decreased
+sleep quality in patients suffering from retinitis pigmentosa.
+J Sleep Res 10, 159-164.
+Jean-Louis G, Kripke D, Cohen C, Zizi F, Wolintz A
+(2005) Associations of ambient illumination with mood:
+Contribution of ophthalmic dysfunctions. Physiol Behav 84,
+479-487.
+Mojon DS, Hess CW, Goldblum D, Fleischhauer J, Koerner
+F, Bassetti C, Mathis J (1999) High prevalence of glaucoma
+in patients with sleep apnea syndrome. Ophthalmology 106,
+1009-1012.
+Wee R, Van Gelder RN (2004) Sleep disturbances in young
+subjects with visual dysfunction. Ophthalmology 111, 297302; discussion 302-303.
+Zizi F, Jean-Louis G, Magai C, Greenidge KC, Wolintz AH,
+Heath-Phillip O (2002) Sleep complaints and visual impair-
+
+
+[page 10]
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+ment among older Americans: A community-based study.
+J Gerontol A Biol Sci Med Sci 57, M691-M694.
+Nagarajan N, Assi L, Varadaraj V, Motaghi M, Sun Y,
+Couser E, Ehrlich JR, Whitson H, Swenor BK (2022) Vision
+impairment and cognitive decline among older adults: A
+systematic review. BMJ Open 12, e047929.
+Altman NG, Izci-Balserak B, Schopfer E, Jackson N, Rattanaumpawan P, Gehrman PR, Patel NP, Grandner MA
+(2012) Sleep duration versus sleep insufficiency as predictors of cardiometabolic health outcomes. Sleep Med 13,
+1261-1270.
+Ramos AR, Tarraf W, Rundek T, Redline S, Wohlgemuth WK, Loredo JS, Sacco RL, Lee DJ, Arens R,
+Lazalde P, Choca JP, Mosley T Jr, Gonzalez HM (2015)
+Obstructive sleep apnea and neurocognitive function in a
+Hispanic/Latino population. Neurology 84, 391-398.
+Peltzer K, Phaswana-Mafuya N (2017) Association between
+visual impairment and low vision and sleep duration and
+quality among older adults in South Africa. Int J Environ
+Res Public Health 14, 811.
+Zheng DD, Swenor BK, Christ SL, West SK, Lam
+BL, Lee DJ (2018) Longitudinal associations between
+visual impairment and cognitive functioning: The Salisbury Eye Evaluation Study. JAMA Ophthalmol 136,
+989-995.
+Varadaraj V, Munoz B, Deal JA, An Y, Albert MS, Resnick
+SM, Ferrucci L, Swenor BK (2021) Association of vision
+impairment with cognitive decline across multiple domains
+in older adults. JAMA Netw Open 4, e2117416.
+Asplund R (2000) Sleep, health and visual impairment in
+the elderly. Arch Gerontol Geriatr 30, 7-15.
+Ramos AR, Wallace DM, Williams NJ, Spence DW, PandiPerumal SR, Zizi F, Jean-Louis G (2014) Association
+between visual impairment and sleep duration: Analysis of
+the 2009 National Health Interview Survey (NHIS). BMC
+Ophthalmol 14, 115.
+Lee DJ, Gomez-Marin O, Lam BL, Ma F, Vilar NF
+(2000) Prevalence of usual-corrected distance visual acuity impairment in Hispanic and non-Hispanic children and
+adolescents. Paediatr Perinat Epidemiol 14, 357-362.
+Lee DJ, Gomez-Marin O, Lam BL (1998) Prevalence of
+uncorrected binocular distance visual acuity in Hispanic and
+non-Hispanic adults. Results from the HHANES and the
+NHANES I. Ophthalmology 105, 552-560.
+Redline S, Sotres-Alvarez D, Loredo J, Hall M, Patel SR,
+Ramos A, Shah N, Ries A, Arens R, Barnhart J, Youngblood
+M, Zee P, Daviglus ML (2014) Sleep-disordered breathing
+in Hispanic/Latino individuals of diverse backgrounds. The
+Hispanic Community Health Study/Study of Latinos. Am J
+Respir Crit Care Med 189, 335-344.
+LaVange LM, Kalsbeek WD, Sorlie PD, Avilés-Santa LM,
+Kaplan RC, Barnhart J, Liu K, Giachello A, Lee DJ, Ryan J
+(2010) Sample design and cohort selection in the Hispanic
+Community Health Study/Study of Latinos. Ann Epidemiol
+20, 642-649.
+Sorlie PD, Avilés-Santa LM, Wassertheil-Smoller S, Kaplan
+RC, Daviglus ML, Giachello AL, Schneiderman N, Raij L,
+Talavera G, Allison M (2010) Design and implementation
+of the Hispanic community health study/study of Latinos.
+Ann Epidemiol 20, 629-641.
+McClure LA, Zheng DD, Lam BL, Tannenbaum SL, Joslin
+CE, Davis S, López-Cevallos D, Youngblood ME Jr, Zhang
+ZM, Chambers CP, Lee DJ (2016) Factors associated with
+ocular health care utilization among Hispanics/Latinos:
+Results from an ancillary study to the Hispanic Commu-
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+nity Health Study/Study of Latinos (HCHS/SOL). JAMA
+Ophthalmol 134, 320-329.
+Tarraf W, Kaplan R, Daviglus M, Gallo LC, Schneiderman
+N, Penedo FJ, Perreira KM, Lamar M, Chai A, Vasquez
+PM, Gonzalez HM (2020) Cardiovascular risk and cognitive function in middle-aged and older Hispanics/Latinos:
+Results from the Hispanic Community Health Study/Study
+of Latinos (HCHS/SOL). J Alzheimers Dis 73, 103-116.
+Gonzalez HM, Tarraf W, Fornage M, Gonzalez KA, Chai
+A, Youngblood M, Abreu MLA, Zeng D, Thomas S, Talavera GA, Gallo LC, Kaplan R, Daviglus ML, Schneiderman
+N (2019) A research framework for cognitive aging and
+Alzheimer’s disease among diverse US Latinos: Design
+and implementation of the Hispanic Community Health
+Study/Study of Latinos-Investigation of Neurocognitive
+Aging (SOL-INCA). Alzheimers Dement 15, 1624-1632.
+Crowe SF (1998) The differential contribution of mental tracking, cognitive flexibility, visual search, and motor
+speed to performance on parts A and B of the Trail Making
+Test. J Clin Psychol 54, 585-591.
+Besha XS, Spencer RJ, Bieliauskas LA (2017) PPVTI administration rules significantly shorten PPVT-III/IV
+administration. Int J Neurosci 127, 412-416.
+Duff K (2012) Evidence-based indicators of neuropsychological change in the individual patient: Relevant concepts
+and methods. Arch Clin Neuropsychol 27, 248-261.
+Marella M, Pesudovs K, Keeffe JE, O’Connor PM, Rees
+G, Lamoureux EL (2010) The psychometric validity of the
+NEI VFQ-25 for use in a low-vision population. Invest Ophthalmol Vis Sci 51, 2878-2884.
+Baker RS, Bazargan M, Calderón JL, Hays RD (2006) Psychometric performance of the National Eye Institute visual
+function questionnaire in Latinos and non-Latinos. Ophthalmology 113, 1363-1371.
+Alvarez-Peregrina C, Sánchez-Tena MA, Caballé-Fontanet
+D, Thuissard-Vasallo IJ, Gacimartı́n-Garcı́a MB, OrdunaMagán C (2018) Crosscultural adaptation and validation
+into Spanish of the questionnaire National Eye Institute
+Visual Function Questionnaire 25. Arch Soc Esp Oftalmol
+(Engl Ed) 93, 586-591.
+Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S,
+Hays RD, National Eye Institute Visual Function Questionnaire Field Test Investigators (2001) Development of the
+25-item National Eye Institute Visual Function Questionnaire. Arch Ophthalmol 119, 1050-1058.
+Westbrook PR, Levendowski DJ, Cvetinovic M, Zavora T,
+Velimirovic V, Henninger D, Nicholson D (2005) Description and validation of the apnea risk evaluation system:
+A novel method to diagnose sleep apnea-hypopnea in the
+home. Chest 128, 2166-2175.
+Kapur VK, Auckley DH, Chowdhuri S, Kuhlmann DC,
+Mehra R, Ramar K, Harrod CG (2017) Clinical practice
+guideline for diagnostic testing for adult obstructive sleep
+apnea: An American Academy of Sleep Medicine Clinical
+Practice Guideline. J Clin Sleep Med 13, 479-504.
+Fischer ME, Cruickshanks KJ, Schubert CR, Pinto AA,
+Carlsson CM, Klein BE, Klein R, Tweed TS (2016)
+Age-related sensory impairments and risk of cognitive
+impairment. J Am Geriatr Soc 64, 1981-1987.
+Zheng DD, Swenor BK, Christ SL, West SK, Lam BL,
+Lee DJ (2018) Longitudinal associations between visual
+impairment and cognitive functioning: The Salisbury Eye
+Evaluation Study. JAMA Ophthalmol 136, 989-995.
+Davies-Kershaw HR, Hackett RA, Cadar D, Herbert A,
+Orrell M, Steptoe A (2018) Vision impairment and risk of
+
+
+[page 11]
+[38]
+[39]
+
+[40]
+
+dementia: Findings from the English Longitudinal Study of
+Ageing. J Am Geriatr Soc 66, 1823-1829.
+Santos M, Hofmann RJ (2017) Ocular manifestations of
+obstructive sleep apnea. J Clin Sleep Med 13, 1345-1348.
+Agudelo C, Tarraf W, Wu B, Wallace DM, Patel SR,
+Redline S, Kaur S, Daviglus M, Zee PC, Simonelli G,
+Mossavar-Rahmani Y, Sotres-Alvarez D, Zeng D, Gallo LC,
+Gonzalez HM, Ramos AR (2021) Actigraphic sleep patterns
+and cognitive decline in the Hispanic Community Health
+Study/Study of Latinos. Alzheimers Dement 17, 959-968.
+Ramos AR, Tarraf W, Wu B, Redline S, Cai J, Daviglus ML,
+Gallo L, Mossavar-Rahmani Y, Perreira KM, Zee P, Zeng
+D, Gonzalez HM (2020) Sleep and neurocognitive decline
+in the Hispanic Community Health Study/Study of Latinos.
+Alzheimers Dement 16, 305-315.
+
+[41]
+
+[42]
+
+Ramos AR, Tarraf W, Daviglus M, Davis S, Gallo LC,
+Mossavar-Rahmani Y, Penedo FJ, Redline S, Rundek T,
+Sacco RL, Sotres-Alvarez D, Wright CB, Zee PC, Gonzalez HM (2016) Sleep duration and neurocognitive function
+in the Hispanic Community Health Study/Study of Latinos.
+Sleep 39, 1843-1851.
+Patel SR, Blackwell T, Ancoli-Israel S, Stone KL; Osteoporotic Fractures in Men-MrOS Research Group (2012)
+Sleep characteristics of self-reported long sleepers. Sleep
+35, 641-648.
+

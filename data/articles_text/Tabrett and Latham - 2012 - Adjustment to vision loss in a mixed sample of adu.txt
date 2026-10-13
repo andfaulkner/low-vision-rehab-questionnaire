@@ -1,0 +1,1084 @@
+[page 1]
+Low Vision
+
+Adjustment to Vision Loss in a Mixed Sample of Adults
+with Established Visual Impairment
+Daryl R. Tabrett and Keziah Latham
+
+From the Department of Vision and Hearing Sciences, Anglia
+Ruskin University, Cambridge, United Kingdom; and Vision & Eye
+Research Unit, Anglia Ruskin University, Cambridge, United Kingdom.
+Presented in part at the European Academy of Optometry and
+Optics (EAOO) meeting, Dublin, Ireland, April 2012.
+Supported by a College of Optometrists’ Scholarship grant
+(DRT).
+Submitted for publication June 15, 2012; revised September 13,
+2012; accepted September 14, 2012.
+Disclosure: D.R. Tabrett, None; K. Latham, None
+Corresponding author: Keziah Latham, Department of Vision
+and Hearing Sciences, Anglia Ruskin University, East Road, Cambridge, CB1 1PT, UK; keziah.latham@anglia.ac.uk.
+
+bereavement associated with the loss of vision,3 and may be a
+continual process rather than one with a definite endpoint.2,4
+The psychosocial burdens that individuals experience when
+faced with vision loss are marked, and have been associated
+with increased mortality.5–7 These psychosocial burdens
+associated with visual impairment may not pass and can
+persist, even after receiving low vision rehabilitation.4,8
+However, people vary greatly in their reactions to vision loss,
+likely being influenced by personal characteristics and social
+circumstance.9 Therefore, difficulties have arisen in defining,
+measuring, and determining the significant factors involved in
+the process of adjustment to vision loss.2,10,11
+The 19-item Acceptance and Self-Worth Adjustment Scale
+(AS-WAS) was developed to assess the unidimensional latent
+construct of adjustment to vision loss. The scale includes
+aspects of self-esteem, acceptance, locus of control, attitudes,
+and self-efficacy.11 In addition to these factors, although not
+included in the AS-WAS itself, depression appears to hold
+significance in terms of adjustment, with lower adjustment
+expected in the presence of higher levels of depression.3,12,13
+Furthermore, worse adjustment has been related to a greater
+severity of vision loss,12,14 but only due to the functional
+limitations vision loss causes rather than with the actual degree
+of visual impairment.15,16 However, despite knowledge that
+people with greater depression and more functional limitations
+are likely to be less well adjusted,12,15 other significant
+predictors of adjustment, as defined here, are currently
+unknown.
+Personality may play a role in situations such as adjusting to
+vision loss because it is thought to affect the ability of an
+individual to cope in a flexible and constructive way,17
+including the extent to which positive reappraisal and planful
+problem solving is used.18,19 In addition, personality is thought
+to determine the extent of any negative effect one may
+experience20,21 during such situations as vision loss.22 Social
+support is generally thought to be of importance when an
+individual is faced with a source of stress or period of
+transition23 such as visual impairment and can act as a
+protective buffer to the distress of such events.24 Social
+support can therefore have a positive effect on adjustment,2,12,16,25 but may also be a hindrance12,26–29 if negative
+support or overprotection occurs. Other proposed influences
+on adjustment include an individual’s age, general health, living
+arrangements, and education.12,16
+Given the recent increased emphasis on the provision of
+emotional support for people with visual impairment,30,31
+determining the factors associated with adjustment and their
+relative roles will help to further understand the process of
+adjustment to vision loss. Identifying such factors will help
+practitioners to recognize patients who may experience
+psychosocial burdens as a result of reduced adjustment as
+well as helping to spot any possible barriers to the successful
+implementation of interventions during low vision rehabilitation. The aim of this study, therefore, was to evaluate the
+factors associated with adjustment to vision loss in a mixed
+
+Investigative Ophthalmology & Visual Science, October 2012, Vol. 53, No. 11
+Copyright 2012 The Association for Research in Vision and Ophthalmology, Inc.
+
+7227
+
+PURPOSE. To determine factors associated with the level of
+adjustment to vision loss in a cross-sectional sample of adults
+with mixed visual impairment.
+METHODS. One hundred participants were administered the
+Acceptance and Self-Worth Adjustment Scale (AS-WAS) to
+assess adjustment to vision loss. The severity of vision loss
+was determined using binocular clinical visual function
+assessments including visual acuity, contrast sensitivity, reading
+performance, and visual fields. Key demographics including
+age, duration of visual impairment, general health, education,
+and living arrangements were evaluated, as were self-reported
+vision-related activity limitation (VRAL), depression, social
+support, and personality.
+RESULTS. Multivariate analysis showed that higher levels of
+depressive symptoms (b ¼ 0.26, P < 0.01) and of the
+personality trait neuroticism (b ¼0.33, P < 0.001), and lower
+levels of the personality trait of conscientiousness (b ¼ 0.29, P
+< 0.01), were associated with poorer adjustment to vision loss,
+explaining 56% variance.
+CONCLUSIONS. Adjustment to vision loss is significantly associated with depression and certain traits of personality (specifically
+neuroticism and conscientiousness), independent of the
+severity of vision loss, VRAL, and duration of vision loss. The
+results suggest certain individuals may be predisposed to
+exhibiting less adjustment to vision loss due to personality
+characteristics, and exhibit poorer adjustment owing to or as a
+consequence of depression, rather than due to other factors
+such as the onset and severity of visual impairment. (Invest
+Ophthalmol Vis Sci. 2012;53:7227–7234) DOI:10.1167/
+iovs.12-10404
+djustment to vision loss has been previously described as
+‘‘accommodating to a vision loss by changing one’s selfconcept and goals to include the realistic restrictions that are
+imposed because of vision loss, while developing new
+capabilities that are compatible with personal resources.’’1,2
+It is thought to follow after the initial stages of mourning and
+
+A
+
+
+[page 2]
+7228
+
+Tabrett and Latham
+
+sample of adults with established visual impairment while
+considering the severity of vision loss using an extensive
+assessment of visual function, to better understand the process
+of adjustment and to help identify individuals who are at risk of
+experiencing lower levels of adjustment.
+
+METHODS
+Participants
+One hundred individuals participated in the study, which was
+performed at Essex County and Clacton and District Hospitals and
+Anglia Ruskin University Eye Clinic. Participants at each location were
+approached, after having attended low vision support and rehabilitation sessions, and were included if they had experienced vision loss for
+more than 6 months that they felt caused restriction in their daily life.
+Those who were under 18 years of age, were unable to perform verbal
+evaluations in English, had no perception of light in both eyes, or were
+cognitively impaired (as determined by the Mini-Mental State Examination)32 were excluded. Ethical approval was granted by Anglia
+Ruskin University Research Ethics Committee and NHS Essex Ethics
+Committee. The study complied with the tenets of the Declaration of
+Helsinki, and all participants gave informed consent after the nature
+and possible consequences of the study were explained. All study
+interviews and assessments were performed by the same examiner, a
+qualified optometrist (DRT), usually on the same day, but occasionally
+in two appointments within 2 weeks of each other. Participation was at
+least 2 weeks after patients’ routine low vision assessments, which
+were not conducted by DRT.
+
+Demographics
+A structured face-to-face interview elicited key demographics including
+age, sex, primary cause of visual impairment, and the length of time
+since ocular diagnosis for each eye, living arrangements, and education.
+The presence of any comorbidity from a list of 12 common medical
+conditions was recorded and used to represent general health.33
+
+Adjustment to Vision Loss
+Adjustment to vision loss was assessed using the 19-item AS-WAS,11
+with each item graded on a four-point rating scale of strongly agree,
+agree, disagree, and strongly disagree. The AS-WAS evaluates the
+aspects of adjustment concerned with self-esteem, attitudes, locus of
+control, self-efficacy, and acceptance (Table 1). The AS-WAS is suitably
+unidimensional (first contrast eigenvalue 1.9; ideally <2.0) with good
+item fit (mean-square [MNSQ] infit 1.01 6 0.11; outfit 0.99 6 0.15;
+ideally 1.00) and person (2.38) and item (5.32) reliability coefficients
+(both ideally >2.00, i.e., reliability >0.80), good convergent and
+discriminant validity, and is free from systematic differential item
+functioning.11,15
+
+Psychosocial Factors and Self-Reported Activity
+Limitation
+Depressive symptoms were assessed with the 15-item Geriatric
+Depression Scale (GDS).34 Questions are answered on a dichotomous
+response scale of yes or no. Although originally designed to be used in
+the elderly, the GDS has also been validated in younger samples.35,36
+The GDS was chosen primarily based on its previously demonstrated
+favorable psychometric properties,37 including evaluations using item
+response theory38,39 and its wide use in samples with visual
+impairment (e.g., Tolman et al.13; Brody et al.40; Rovner et al.41).
+Within the current sample the GDS was sufficiently unidimensional
+(first contrast eigenvalue 1.80), demonstrating acceptable fit statistics
+(MNSQ infit 0.98 6 0.19, outfit 0.99 6 0.38) and had good item (3.48)
+but not person (1.11) reliability.15
+
+IOVS, October 2012, Vol. 53, No. 11
+TABLE 1. The 19-Item Acceptance and Self-Worth Adjustment Scale
+(AS-WAS)
+On the whole, I am satisfied with myself (E) (þ)
+At times I think I am no good at all (E) ()
+I am able to do things as well as most other people (E) (þ)
+I certainly feel useless at times (E) ()
+I feel that I do not have much to be proud of (E) ()
+I feel that I am a person of worth, at least on an equal plane with
+others (E) (þ)
+I wish I could have more respect for myself (E) ()
+I take a positive attitude toward myself (E) (þ)
+People with my sort of (visual) problem are constantly worried
+about what might happen to them (AT) ()
+People with my sort of (visual) problem feel that they are worthless
+(AT) ()
+It’s what I can do to help myself that’s really going to make the
+difference (LC) (þ)
+It’s up to me to make sure I make the best of my future in these
+circumstances (LC) (þ)
+It makes me feel very bad to see all the things others can do that I
+cannot (AC) ()
+Because of my (visual) problems, I have little to offer other people
+(AC) ()
+In spite of my (visual) problems I feel satisfied with my abilities (AC)
+(þ)
+In just about everything, my (visual) problems are so annoying that I
+can’t enjoy anything (AC) ()
+I give up on things before completing things (SE) ()
+When I make plans, I am certain I can make them work (SE) (þ)
+I do not seem to be capable of dealing with most problems that
+come up in life (SE) ()
+Items key: (E), esteem; (AT), attitudes; (LC), locus of control; (AC),
+acceptance; (SE), self-efficacy; (þ) positively phrased; () negatively
+phrased.
+Personality was assessed according to the five-factor model using
+the Neuroticism, Extraversion, Openness Five Factor Inventory (NEO
+FFI).21 The NEO FFI contains 60 statements relating to the traits of
+neuroticism, extraversion, agreeableness, conscientiousness, and
+openness to experience. Each item is rated on a five-point response
+scale of strongly disagree, disagree, neutral, agree, and strongly agree.
+Neuroticism relates to the likelihood of being tense, insecure, self conscious, and more prone to experiencing negative emotions such as
+depression and anxiety.21,42 Extraverts are sociable and assertive, and
+more likely to experience positive emotions.20,21,43,44 Openness to
+experience represents a higher level of imagination and curiosity, and
+those with this trait are more likely to be flexible in their thinking,
+experiencing a diversity of emotions.21,44 Individuals higher in
+agreeableness tend to be helpful and trusting, and higher conscientiousness represents greater organization, self-discipline, and dependability.20,21,44 The neuroticism, extraversion, openness, agreeableness,
+and conscientiousness subscales were largely unidimensional (first
+contrast eigenvalues between 2.0 and 2.3), demonstrating good fit
+statistics (mean MNSQ infit between 0.99 and 1.02; outfit between 0.99
+and 1.03) and showed fair-to-good person reliability (1.45–2.61) and
+excellent item reliability (3.24–7.15).15
+Social support was assessed using the 12-item Interpersonal
+Support Evaluation List (ISEL).45 The ISEL is designed to assess
+perceived available support in three areas: appraisal (four statements),
+belonging (four statements), and tangible support (four statements).
+Each item is rated on a four-point response scale of definitely true,
+probably true, probably false, and definitely false. The ISEL was
+adequately unidimensional (first contrast eigenvalue 2.1), demonstrated good item fit statistics (MNSQ infit 1.01 6 0.14, outfit 0.98 6 0.15),
+and had good item (2.80) and fair person (1.93) reliability.15
+
+
+[page 3]
+IOVS, October 2012, Vol. 53, No. 11
+
+Adjustment to Vision Loss in Adults with Visual Impairment
+
+Self-reported vision-related activity limitation (VRAL) was assessed
+using a refined version15 of the Activity Inventory (AI),46 which
+contains a wide range of daily activities specifically chosen to represent
+the reading, mobility, visual information, and visual motor abilities of a
+population with mixed visual impairment. Some goals of the original AI
+that were less relevant in the United Kingdom and deemed less
+essential in the current sample were not administered (e.g., hunting
+and shooting). The instrument implemented contained 30 goals and
+235 tasks across three objectives (the items included can be seen
+elsewhere15). The importance of each goal was rated on a four-point
+scale (not important, slightly important, moderately important, and
+very important), and the difficulty of important goals and the tasks
+underpinning these goals were then graded by the respondent on a
+five-point scale (not difficult, slightly difficult, moderately difficult, very
+difficult, and impossible without assistance). Adaptive testing was used
+in that only the difficulty of tasks serving important and difficult goals
+was assessed, and these responses were used to formulate overall self reported VRAL at task level which was used for analysis. The use of
+Rasch analysis means that the difficulty of every item does not have to
+be graded to formulate an accurate estimate of overall self-reported
+VRAL.
+
+Clinical Visual Function
+For clinical visual function assessments participants wore any habitual
+distance spectacle prescription (and a corresponding reading addition
+where necessary):
+Distance visual acuity was measured binocularly with an externally
+illuminated Bailey–Lovie chart47 at 3 m (chart luminance, 95–100 cd/
+m2) assessed on a per letter basis until no letters on a line could be
+correctly identified.48,49
+Contrast sensitivity was measured binocularly with a Pelli–Robson
+chart50 at 1 m (chart luminance, 95–110 cd/m2) assessed per letter
+until no letters in a triplet could be correctly identified.51–53
+Near reading performance was measured using an MNRead chart
+at 40 cm (moved closer in a log unit progression if necessary) (chart
+luminance, 110–150 cd/m2).54,55 The maximum reading speed,
+critical print size, and near reading acuity were derived for
+analysis.56
+Static threshold binocular central visual fields were conducted with
+a visual field analyzer (Humphrey Field Analyzer; Carl Zeiss Meditec,
+Inc., Dublin, CA), using a Central 30-2 SITA-Fast strategy.57 The mean
+threshold of the central 30 degrees was calculated and used for
+analysis.
+
+Statistical Analysis
+All data were double entered and corrected for errors before data
+analysis. Rasch analysis was conducted using Rasch analysis software
+(Winsteps version 3.69.1; WINSTEPS, Chicago, IL) on responses to all
+self-report instruments to provide person measure estimates for each
+construct. Univariate analyses were first undertaken to explore the
+demographic, visual function, self-report, and psychosocial variables.
+Bivariate analyses in the form of linear correlation coefficients were
+then conducted to investigate the association between the predictor
+variables and adjustment. Finally, hierarchical multiple regression was
+conducted to investigate the relationship between multiple predictor
+variables and adjustment.
+For the multiple regression analysis, residuals were normally
+distributed and the assumptions of homoscedasticity (the extent to
+which the variance of residuals was equal for all predicted values)
+and linearity were supported. The variation inflation factor was
+sufficiently low for all variables and the intercorrelations among the
+independent variables within the regression analysis were acceptable
+(r  0.60), both indicating absence of bias from multicollinearity. The
+standardized residuals supported adequate fit of the sample to the
+model.
+
+7229
+
+RESULTS
+Table 2 summarizes the descriptive characteristics of the study
+sample. The range of AS-WAS scores was approximately 4
+logits, reflecting a wide range of adjustment levels in the
+current sample. All personality traits were within 0.6 SDs of the
+general population.21 Linear correlation coefficients revealed
+that none of the assessed demographic variables (age, length of
+time with visual impairment, education, living arrangements,
+and number of comorbidities) was significantly associated with
+the level of adjustment to vision loss (P > 0.05 in all cases). In
+contrast, all measures of clinical visual function (except
+distance visual acuity and maximum reading speed), self reported VRAL, and psychosocial variables (except the
+personality trait openness) were significantly associated with
+the level of adjustment (see Table 3).
+Since previous studies have shown a significant relationship
+with adjustment,12,13,15 self-reported VRAL and depression
+were entered in step 1 of a hierarchical regression analysis.
+Significant measures of clinical visual function identified in
+bivariate analyses were force entered in step 2 to confirm the
+relationship with adjustment when self-reported VRAL is
+considered,15 and all other variables significantly associated
+with adjustment in bivariate analyses were added in a final
+exploratory step in a stepwise manner (Table 4). It can be seen
+from Table 4 that in step 2 of the regression, once depression,
+VRAL, and severity of visual loss are considered together,
+severity of visual loss and VRAL are no longer significant
+predictors of the level of adjustment. Depression itself is
+associated with functional limitations but not with the severity
+of vision loss.15 In step 3, social support (P ¼ 0.25) and the
+personality traits of extraversion (P ¼ 0.70) and agreeableness
+(P ¼ 0.34) are not selected as significant predictors, whereas
+the significance of neuroticism (b ¼ 0.33, P < 0.001),
+conscientiousness (b ¼ 0.29, P < 0.01), and depression (b ¼
+0.26, P < 0.01) remain.
+
+DISCUSSION
+The results indicate that better adjustment to vision loss is
+associated with lower levels of depression and with certain
+personality traits, specifically lower levels of neuroticism and
+greater conscientiousness (see Fig.). Furthermore, factors
+including severity of vision loss, self-reported VRAL, social
+support, extraversion, and agreeableness, although significantly associated with adjustment in bivariate correlations, are not
+important when considered in multivariate analysis. The study
+also identifies that other notable variables such as the length of
+time with vision loss, general health, living arrangements,
+education, and age are not associated with the degree of
+adjustment in a cross-sectional sample of adults with established mixed visual impairment. Despite the results of the
+current study indicating that adjustment to vision loss is not
+associated with the severity of visual impairment, similar to the
+findings of some16 but not others,12,14 note that all participants
+had some degree of residual vision, and so it is unclear whether
+this would also hold for individuals with no perception of light
+(i.e., total blindness).
+The importance of depression with regard to adjusting to
+vision loss has been recognized previously. Better adjustment
+as measured by the Adaptation to age-related Vision Loss scale
+(AVL) was significantly correlated with fewer depressive
+symptoms in an elderly sample of people with mixed visual
+impairments12 and in individuals with age-related macular
+degeneration (AMD).13 Results of the current study add to
+these findings by indicating that depression is associated with
+poorer adjustment to vision loss, independently of the severity
+
+
+[page 4]
+7230
+
+Tabrett and Latham
+
+IOVS, October 2012, Vol. 53, No. 11
+
+TABLE 2. Descriptive Statistics of the Study Sample (n ¼ 100)
+Sex, %
+Primary ocular diagnosis, %
+Macular dysfunction (including AMD)
+Optic neuropathy (including glaucoma)
+Diabetic retinopathy
+Retinal (including myopic degeneration)
+Undiagnosed
+Cataract
+Corneal
+Other
+Education, %
+Standard school leaving age
+A-level or equivalent
+Further education
+Higher education
+Bachelors degree
+Postgraduate qualification
+Living arrangements, %
+Alone
+With partner
+With other
+Warden assisted
+Age, y
+Time since most recent 18 diagnosis, y
+Number of comorbidities
+Adjustment to vision loss (AS-WAS; logits)
+Distance visual acuity, logMAR
+Contrast sensitivity, logCS
+Near reading performance
+Reading acuity, logMAR
+CPS, logMAR
+Maximum reading speed, words/min
+Visual field, dB
+Self-reported VRAL (AI; logits)
+Depression (GDS)
+Raw score
+Logits
+Social support, ISEL
+Raw score
+Logits
+Personality (NEO FFI)
+Neuroticism (40%)*
+Raw score
+Logits
+Extraversion (47%)*
+Raw score
+Logits
+Openness (39%)*
+Raw score
+Logits
+Agreeableness (79%)*
+Raw score
+Logits
+Conscientiousness (62%)*
+Raw score
+Logits
+
+39 male, 61 female
+Right eye
+54
+11
+7
+5
+8
+2
+3
+10
+
+Left eye
+57
+11
+8
+5
+9
+2
+2
+6
+59
+13
+12
+2
+10
+4
+40
+51
+6
+3
+
+Average
+81 (73–86)
+5 (3–12)
+1.5 (1–3)
+1.53 (0.84–1.93)
+0.84 6 0.36
+1.10 (0.88–1.35)
+
+Min–Max
+25 to 98
+0.54 to 64
+0 to 6
+0.71 to 4.69
+0.08 to 1.64
+0.15 to 1.75
+
+0.81 6 0.45
+1.00 (0.80–1.30)
+107.36 (45.95–143.7)
+22.28 (14.21–26.40)
+1.30 6 1.23
+
+0.04 to 2.00
+0.10 to 2.00
+1.34 to 210.52
+0.11 to 30.32
+2.31 to 5.20
+
+2 (1–4)
+2.40 (3.36 to 1.26)
+
+0 to 14
+4.77 to 3.15
+
+21 (17–25)
+1.28 6 1.07
+
+12 to 40
+1.37 to 4.96
+
+13.50 (9–21)
+0.84 (1.23 to 0.25)
+
+0 to 45
+5.15 to 2.80
+
+26.86 6 6.25
+0.33 6 0.67
+
+14 to 40
+1.05 to 1.93
+
+24.87 6 6.72
+0.05 6 0.52
+
+8 to 39
+1.43 to 1.30
+
+36 (32–40)
+1.39 6 0.73
+
+20 to 47
+0.25 to 4.31
+
+36.01 6 6.36
+1.23 (0.70–2.19)
+
+20 to 47
+0.44 to 4.72
+
+The mean 6 SD is provided for the variables whose frequency distributions were not significantly different from normal. For all others, the
+median (25%–75% interquartiles) is given.
+* Percentile equivalents: 50% ¼ normal data average for a given trait; <50% ¼ sample lower in trait; >50% ¼ sample higher in trait, compared with
+normal data (Costa and McCrae, 199221).
+
+of vision loss (as assessed by a range of clinical visual function
+tests) and the degree of functional limitations. Therefore,
+patients with greater depressive symptoms are more likely to
+be less well adjusted irrespective of the degree of visual
+
+impairment and the functional limitations that vision loss
+causes. It should be acknowledged, however, that depression
+itself in these patients can lead directly and reciprocally to
+functional limitations and disability.58 Taken as a whole, it is
+
+
+[page 5]
+IOVS, October 2012, Vol. 53, No. 11
+
+Adjustment to Vision Loss in Adults with Visual Impairment
+
+TABLE 3. Linear Correlation Coefficients (2-Tailed Spearman’s) for the
+Associations between Predictor Variables and Adjustment to Vision
+Loss (AS-WAS Score, logits)
+r
+Demographics
+Sex
+Age
+Time since diagnosis
+Education
+Living arrangement
+Number of comorbidities
+Self-reported VRAL
+Depression
+Social support
+Personality
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+Severity of vision loss
+Distance visual acuity
+Contrast sensitivity
+Near reading acuity
+Near CPS
+Maximum reading speed
+Visual field
+
+0.08
+0.03
+0.03
+0.02
+0.05
+0.08
+0.46***
+0.54***
+0.35***
+0.65***
+0.37***
+0.03
+0.26**
+0.29**
+0.16
+0.25*
+0.21*
+0.20*
+0.14
+0.24*
+
+Due to the number of comparisons (21) it should be noted that
+approximately one (21 3 0.05) correlation would be expected to be
+significant by chance alone at the P ¼ 0.05 level.
+* P < 0.05.
+** P < 0.01.
+*** P < 0.001.
+
+suggested that the domain-specific aspect of psychological
+well-being that is adjustment to vision loss may contribute
+directly to the more global measure of depression and, jointly,
+depression may lead directly to poorer adjustment in terms of
+factors such as reduced self-esteem and self-efficacy as assessed
+by the AS-WAS.
+
+7231
+
+TABLE 4. Results of Hierarchical Multiple Regression Analysis for
+Predicting Adjustment to Vision Loss
+
+Step 1 (R2 ¼ 34.1%)
+Constant
+Self-reported VRAL
+Depression
+Step 2 (R2 ¼ 35.6%)
+Constant
+Self-reported VRAL
+Depression
+Severity of vision loss
+Contrast sensitivity
+Near reading acuity
+Near CPS
+Visual fields
+Step 3 (R2 ¼ 56.3%)
+Constant
+Self-reported VRAL
+Depression
+Severity of vision loss
+Contrast sensitivity
+Near reading acuity
+Near CPS
+Visual fields
+Additional factors
+Neuroticism
+Conscientiousness
+
+B
+
+SE B
+
+b
+
+0.69
+0.19
+0.28
+
+0.14
+0.08
+0.06
+
+0.23*
+0.44***
+
+0.03
+0.13
+0.29
+
+0.58
+0.11
+0.06
+
+0.16
+0.46***
+
+0.15
+0.46
+0.66
+0.01
+
+0.36
+0.57
+0.65
+0.01
+
+0.05
+0.22
+0.26
+0.09
+
+0.46
+0.41
+0.17
+
+0.52
+0.10
+0.06
+
+0.17
+0.26**
+
+0.43
+0.27
+0.58
+0.00
+
+0.31
+0.48
+0.55
+0.01
+
+0.15
+0.13
+0.23
+0.01
+
+0.26
+0.25
+
+0.07
+0.07
+
+0.33***
+0.29**
+
+Self-reported VRAL and depression were force entered in step 1,
+then clinical visual function force entered in step 2, and social support
+and personality were entered stepwise in step 3.
+* P < 0.05.
+** P < 0.01.
+*** P < 0.001.
+
+According to the five-factor model of personality structured
+by the NEO FFI, it is anticipated that an individual will behave
+in a similar way given any situation or circumstance, given that
+personality is thought to be relatively stable throughout one’s
+lifetime and is partly a result of genetic predisposition.59,60 The
+results suggest that those individuals with higher neuroticism
+
+FIGURE. The conceptual framework of the factors associated with adjustment to vision loss. Steps 1, 2, and 3 refer to the hierarchical regression
+analysis presented by the current study. The bold solid arrows represent significance between variables after step 3 of the hierarchical regression
+analysis. The dotted lines between variables represent the loss of a significant association (found initially including in bivariate correlations) after
+subsequent steps of the hierarchical regression analysis. The nonbold solid arrows represent significance between variables found in previous
+research.
+
+
+[page 6]
+7232
+
+Tabrett and Latham
+
+and/or lower conscientiousness will be more prone to
+experience difficulties in adjustment when faced with vision
+loss. Similar to depression, the association between personality
+and adjustment appears to occur regardless of the severity of
+vision loss and functional limitations.
+Neuroticism relates to the likelihood of being tense,
+insecure, self-conscious, and more prone to experiencing
+negative emotions such as depression and anxiety. 21,42
+Therefore, it is perhaps not surprising that higher neuroticism
+is significantly associated with lower adjustment, considering
+that the AS-WAS assesses areas of adjustment relating to
+confidence and motivation, including self-esteem and self efficacy. In addition, it has been proposed that those high in
+neuroticism can also appear ‘‘to have problems in coping in
+constructive ways’’ and ‘‘may be inflexible in their coping,’’17
+which could potentially hinder adjustment to visual impairment.
+Higher conscientiousness represents more organization,
+self-discipline, dependability, competence, and a greater
+striving for achievement.20,21,44 Individuals high in conscientiousness have been shown to use positive reappraisal and
+problem-solving techniques when coping with stressors,19 to
+be more likely to seek support and adapt to the demands of a
+situation, and, therefore, to respond to challenges in appropriate ways.17 These advantageous attributes can help explain
+the significant relationship between conscientiousness and
+adjustment as measured by the AS-WAS, and could represent a
+greater determination to seek, to proceed, and to be successful
+with different rehabilitation strategies used in the adjustment
+process.
+Although personality is thought to be relatively stable
+throughout one’s lifetime, aspects of adjustment such as self esteem and self-efficacy, like depression, are dynamic and can
+change over time and with situation. Therefore, although
+personality traits may lead to certain individuals being more
+prone to having difficulty adjusting when faced with vision
+loss, perceptions and moods can be altered with training and
+rehabilitation.61 Although people can vary enormously in their
+reactions to vision loss62,63 and, although causality is not
+known, results of the current study suggest that addressing
+depression, adjustment, and functional limitations are key to
+successful low vision rehabilitation.
+Different treatment methods have demonstrated a positive
+effect in improving adjustment, depression, and functional
+limitations, although there are no validated protocols.64 A 6week 12-hour AMD cognitive education program has been
+seen to lower the incidence of depression, reduce the severity
+of symptoms among depressed patients, increase self-efficacy,
+and improve self-reported visual function.65–68 Undertaking
+routine low vision rehabilitation can improve adjustment to
+vision loss,69 as can teaching functional living skills including
+orientation and mobility training and occupational therapy for
+at least 4 weeks.70 Problem Solving Treatment (PST)22 may be
+of particular benefit, in that the treatment addresses individuals’ negative perceptions that may interfere with finding
+practical solutions to difficulties in daily life and teaches
+problem-solving skills,71 potentially addressing some of the
+particular issues faced by those with high neuroticism and low
+conscientiousness. PST has been shown to be effective in
+preventing depression in the short term in people with
+macular disease.72 There may also be benefits in adjustment,
+depression, and reported visual function by using group
+instead of one-to-one interventions.73
+The lack of relationship between adjustment and the
+duration of visual impairment found in the current study
+suggests that implementation of rehabilitation should not be
+confined to soon after diagnosis but may be beneficial at any
+time in the course of vision loss. The need for help in adjusting
+
+IOVS, October 2012, Vol. 53, No. 11
+to vision loss is more dependent on the personality of the
+patient than the duration of the vision loss.
+The range of adjustment to vision loss in the current sample
+is wide (approximately 4 logits), and could be taken to indicate
+that adjustment can be seen as a continuous process without a
+definite endpoint. However, the results are cross-sectional and
+reflect individuals’ adjustment at a fixed point in time, relative
+presumably to their psychological state prior to becoming
+visually impaired. Therefore, we cannot comment on how
+individuals adjust to vision loss over time, and further research
+is needed to investigate individuals’ adjustment profile
+longitudinally, to improve understanding of the pathway of
+adjustment, and to empirically determine the consequences of
+poor adjustment in the rehabilitation process.
+In summary, the results of the present study show that
+depression and personality (neuroticism and conscientiousness) are significantly associated with adjustment to vision loss
+independent of the duration of visual impairment or the
+severity of visual loss as assessed by self-reported VRAL and a
+range of clinical visual function tests.
+
+References
+1. Moore J. Impact of family attitudes toward blindness/vision
+impairment on the rehabilitation process. J Vis Impairment
+Blindness. 1984;78:100–106.
+2. Horowitz A, Reinhardt J. Development of the adaptation to
+age-related vision loss scale. J Vis Impairment Blindness.
+1998;92:30–41.
+3. Dodds AG, Ferguson E, Ng L, Flannigan H, Hawes G, Yates L.
+The concept of adjustment: a structural model. J Vis
+Impairment Blindness. 1994;88:487–497.
+4. Stanford P, Waterman H, Russell WB, Harper RA. Psychosocial
+adjustment in age related macular degeneration. Br J Vis
+Impairment. 2009;27:129–146.
+5. Mitchell J, Bradley P, Anderson SJ, et al. Perceived quality of
+healthcare in macular disease: a survey of members of the
+Macular Disease Society. Br J Ophthalmol. 2002;86:777–781.
+6. Zheng DD, Christ SL, Lam BL, Arheart KL, Galor A, Lee DJ.
+Increased mortality risk among the visually impaired: the roles
+of mental well-being and preventive care practices. Invest
+Ophthalmol Vis Sci. 2012;53:2685–2692.
+7. Waern M, Rubenowitz E, Runeson B, Skoog I, Wilhelmson K,
+Allebeck P. Burden of illness and suicide in elderly people:
+case-control study. Br Med J. 2002;324:1355–1357.
+8. Reeves B, Harper R, Russell W. Enhanced low vision
+rehabilitation for people with age related macular degeneration: a randomised controlled trial. Br J Ophthalmol. 2004;88:
+1443–1449.
+9. De Leo D, Hickey PA, Meneghel G, Cantor CH. Blindness, fear
+of sight loss, and suicide. Psychosomatics. 1999;40:339–344.
+10. Dodds AG, Flannigan H, Ng L. The Nottingham Adjustment
+Scale: a validation study. Int J Rehabil Res. 1993;16:177–184.
+11. Tabrett DR, Latham K. Derivation of the Acceptance and Self Worth Adjustment Scale. Optom Vis Sci. 2010;87:899–907.
+12. Reinhardt JP. Effects of positive and negative support received
+and provided on adaptation to chronic visual impairment.
+Appl Dev Sci. 2001;5:76–85.
+13. Tolman J, Hill RD, Kleinschmidt JJ, Gregg CH. Psychosocial
+adaptation to visual impairment and its relationship to
+depressive affect in older adults with age-related macular
+degeneration. Gerontologist. 2005;45:747–753.
+14. Wulsin LR, Jacobson AM, Rand LI. Psychosocial correlates of
+mild visual loss. Psychosom Med. 1991;53:109–117.
+15. Tabrett DR, Latham K. Factors influencing self-reported vision related activity limitation in the visually impaired. Invest
+Ophthalmol Vis Sci. 2011;52:5293–5302.
+
+
+[page 7]
+IOVS, October 2012, Vol. 53, No. 11
+
+Adjustment to Vision Loss in Adults with Visual Impairment
+
+16. Trillo AH, Dickinson CM. The impact of visual and non-visual
+factors on quality of life and adaptation in adults with visual
+impairment. Invest Ophthalmol Vis Sci. 2012;53:4234–4241.
+17. Lee-Baggley D, Preece M, DeLongis A. Coping with interpersonal stress: role of big five traits. J Pers. 2005;73:1141–1180.
+18. Vickers R, Kolar DW, Hervig LK. Personality Correlates of
+Coping with Military Basic Training. San Diego: Naval Health
+Research Center; 1989.
+19. Watson D, Hubbard B. Adaptational style and dispositional
+structure: coping in the context of the five-factor model. J
+Pers. 1996;64:737–774.
+20. McCrae RR, Costa PT. Validation of the five-factor model of
+personality across instruments and observers. J Pers Soc
+Psychol. 1987;52:81–90.
+21. Costa PT, McCrae RR. Professional Manual: Revised NEO
+Personality Inventory (NEO PI-R) and NEO Five-Factor
+Inventory (NEO FFI). Odessa, FL: Psychological Assessment
+Resources; 1992.
+22. Rovner BW, Casten RJ. Neuroticism predicts depression and
+disability in age-related macular degeneration. J Am Geriatr
+Soc. 2001;49:1097–1100.
+23. Albrecht T, Adelman M. Communication Networks as
+Structures of Social Support. Communicating Social Support.
+Newbury Park, CA: Sage Publications; 1987.
+24. Cohen S, Hoberman HM. Positive events and social supports as
+buffers of life change stress. J Appl Soc Psychol. 1983;13:99–
+125.
+25. Kef S. Psychosocial adjustment and the meaning of social
+support for visually impaired adolescents. J Vis Impairment
+Blindness. 2002;96:22–37.
+26. Ingersoll-Dayton B, Morgan D, Antonucci T. The effects of
+positive and negative social exchanges on aging adults. J
+Gerontol B Psychol Sci Soc Sci. 1997;52:190–199.
+27. Rook KS. Positive and negative social exchanges: weighing
+their effects in later life. J Gerontol B Psychol Sci Soc Sci.
+1997;52:167–169.
+28. Finch JF, Okun MA, Pool GJ, Ruehlman LS. A comparison of the
+influence of conflictual and supportive social interactions on
+psychological distress. J Pers. 1999;67:581–621.
+29. Cimarolli VR, Boerner K. Social support and well-being in
+adults who are visually impaired. J Vis Impairment Blindness.
+2005;99:521–534.
+30. Gosney MA, Victor CR, Nyman SR. Thomas Pocklington Trust.
+Research Findings No. 26: Emotional support to people with
+sight loss. Available at: http://www.pocklington-trust.org.uk/
+Resources/Thomas%20Pocklington/Documents/PDF/
+Research%20Publications/RF26.pdf. Accessed August 2, 2010.
+31. Rees G, Tee HW, Marella M, Fenwick E, Dirani M, Lamoureux
+EL. Vision-specific distress and depressive symptoms in people
+with vision impairment. Invest Ophthalmol Vis Sci. 2010;51:
+2891–2896.
+32. Folstein M, Folstein S, McHugh, P. ‘‘Mini-mental state’’. A
+practical method for grading the cognitive state of patients for
+the clinician. J Psychiatr Res. 1975;12:189–198.
+33. van Nispen RMA, Hoeijmakers JGJ, de Boer MR, Ringens PJ, van
+Rens GHMB. Agreement between self-reported co-morbidity of
+visually impaired older patients and reports from their general
+practitioners. Vis Impairment Res. 2008;10:49–56.
+34. Sheikh JI, Yesavage JA. Geriatric Depression Scale (GDS):
+recent evidence and development of a shorter version. Clin
+Gerontol. 1986;5:165–173.
+35. Rule BG, Harvey HZA, Dobbs AR. Reliability of the Geriatric
+Depression Scale for younger adults. Clin Gerontol. 1990;9:
+37–43.
+36. Ferraro FR, Chelminski I. Preliminary normative data on the
+Geriatric Depression Scale-Short Form (GDS-SF) in a young
+adult sample. J Clin Psychol. 1996;52:443–447.
+
+7233
+
+37. Wancata J, Alexandrowicz R, Marquart B, Weiss M, Friedrich F.
+The criterion validity of the Geriatric Depression Scale: a
+systematic review. Acta Psychiatr Scand. 2006;114:398–410.
+38. Tang WK, Wong EC, Chiu HF, Lum CM, Ungvari GS. The
+Geriatric Depression Scale should be shortened: results of
+Rasch analysis. Int J Geriatr Psychiatry. 2005;20:783–789.
+39. Chiang KS, Green KE, Cox EO. Rasch analysis of the Geriatric
+Depression Scale–Short Form. Gerontologist. 2009;49:262–
+275.
+40. Brody BL, Gamst AC, Williams RA, et al. Depression, visual
+acuity, comorbidity, and disability associated with age-related
+macular degeneration. Ophthalmology. 2001;108:1893–1900.
+41. Rovner BW, Zisselman PM, Shmuely-Dulitzki Y. Depression and
+disability in older people with impaired vision: a follow-up
+study. J Am Geriatr Soc. 1996;44:181–184.
+42. Bolger N, Zuckerman A. A framework for studying personality
+in the stress process. J Pers Soc Psychol. 1995;69:890–902.
+43. Costa PT, McCrae RR. Influence of extraversion and neuroticism on subjective well-being: happy and unhappy people. J
+Pers Soc Psychol. 1980;38:668–678.
+44. Costa PT, McCrae RR. The revised NEO Personality Inventory
+(NEO PI-R). In: Boyle GJ, Matthews G, Saklofske DH, eds. The
+SAGE Handbook of Personality Theory and Assessment:
+Personality Measurement and Testing. London: SAGE Publications Ltd.; 2008:179–198.
+45. Carnegie Mellon University. Interpersonal Support Evaluation List (ISEL). 2010[Online]. Available at: http://www.psy.
+cmu.edu/~scohen/isel.html [Accessed: September 15, 2010].
+46. Massof RW, Ahmadian L, Grover LL, et al. The Activity
+Inventory: an adaptive visual function questionnaire. Optom
+Vis Sci. 2007;84:763–774.
+47. Bailey IL, Lovie JE. New design principles for visual acuity
+letter charts. Am J Optom Physiol Opt. 1976;53:740–745.
+48. Carkeet A. Modeling logMAR visual acuity scores: effects of
+termination rules and alternative forced-choice options.
+Optom Vis Sci. 2001;78:529–538.
+49. Hazel CA, Elliott DB. The dependency of logMAR visual acuity
+measurements on chart design and scoring rule. Optom Vis
+Sci. 2002;79:788–792.
+50. Pelli DG, Robson JG, Wilkins AJ. The design of a new letter
+chart for measuring contrast sensitivity. Clin Vis Sci. 1988;2:
+187–199.
+51. Elliott DB, Bullimore MA, Bailey IL. Improving the reliability of
+the Pelli-Robson contrast sensitivity test. Clin Vis Sci. 1991;6:
+471–475.
+52. Elliott DB, Bullimore MA. Assessing the reliability, discriminative ability, and validity of disability glare tests. Invest
+Ophthalmol Vis Sci. 1993;34:108–119.
+53. Arditi A. Improving the design of the letter contrast sensitivity
+test. Invest Ophthalmol Vis Sci. 2005;46:2225–2229.
+54. Ahn SJ, Legge GE, Luebker A. Printed cards for measuring low vision reading speed. Vision Res. 1995;35:1939–1944.
+55. Mansfield JS, Ahn SJ, Legge GE, Luebker A. A new reading
+acuity chart for normal and low vision. In: Ophthalmic &
+Visual Optics/Noninvasive Assessment of the Visual System
+Technical Digest. Vol. 3. Washington, DC: Optical Society of
+America; 1993:232–235.
+56. Patel PJ, Chen FK, Da Cruz L, Rubin GS, Tufail A. Test–retest
+variability of reading performance metrics using MNREAD in
+patients with age-related macular degeneration. Invest Ophthalmol Vis Sci. 2011;52:3854–3859.
+57. Tabrett DR, Latham K. Important areas of the central binocular
+visual field for daily functioning in the visually impaired.
+Ophthalmic Physiol Opt. 2012;32:156–163.
+58. Tabrett DR, Latham K. Depression and acquired visual
+impairment. Optom Practice. 2009;10:75–88.
+
+
+[page 8]
+7234
+
+Tabrett and Latham
+
+59. Pedersen NL, Reynolds CA. Stability and change in adult
+personality: genetic and environmental components. Eur J
+Pers. 1998;12:365–386.
+60. Caspi A, Roberts BW. Personality development across the life
+course: the argument for change and continuity. Psychol Inq.
+2001;12:49–66.
+61. Gist ME, Mitchell TR. Self-efficacy: a theoretical analysis of its
+determinants and malleability. Acad Manag Rev. 1992;17:183–
+211.
+62. Cox DJ, Kiernan BD, Schroeder DB, Cowley M. Psychosocial
+sequelae of visual loss in diabetes. Diabetes Educ. 1998;24:
+481–484.
+63. Berman K, Brodaty H. Psychosocial effects of age-related
+macular degeneration. Int Psychogeriatr. 2006;18:415–428.
+64. Hooper P, Jutai JW, Strong G, Russell-Minda E. Age-related
+macular degeneration and low-vision rehabilitation: a systematic review. Can J Ophthalmol. 2008;43:180–187.
+65. Brody BL, Williams RA, Thomas RG, Kaplan RM, Chu RM,
+Brown SI. Age-related macular degeneration: a randomized
+clinical trial of a self-management intervention. Ann Behav
+Med. 1999;21:322–329.
+66. Brody BL, Roch-Levecq A-C, Gamst AC, Maclean K, Kaplan RM,
+Brown SI. Self-management of age-related macular degeneration and quality of life: a randomized controlled trial. Arch
+Ophthalmol. 2002;120:1477–1483.
+
+IOVS, October 2012, Vol. 53, No. 11
+67. Brody BL, Roch-Levecq A-C, Thomas RG, Kaplan RM, Brown
+SI. Self-management of age-related macular degeneration at the
+6-month follow-up: a randomized controlled trial. Arch
+Ophthalmol. 2005;123:46–53.
+68. Brody BL, Roch-Levecq A-C, Kaplan RM, Moutier CY, Brown SI.
+Age-related macular degeneration: self-management and reduction of depressive symptoms in a randomized, controlled
+study. J Am Geriatr Soc. 2006;54:1557–1562.
+69. Wolffsohn JS, Cochrane AL. Design of the low vision quality-oflife questionnaire (LVQOL) and measuring the outcome of
+low-vision rehabilitation. Am J Ophthalmol. 2000;130:793–
+802.
+70. Pankow L, Luchins D, Studebaker J, Chettleburgh D. Evaluation of a vision rehabilitation program for older adults with
+visual impairment. Top Geriatr Rehabil. 2004;20:223–232.
+71. Hegel MT, Areán PA. Problem-Solving Treatment for Primary
+Care: A Treatment Manual for Depression. Hanover, NH:
+Dartmouth Medical School. 2003. Available at: http://
+impact-uw.org/tools/pst_manual.html.
+72. Rovner BW, Casten RJ, Hegel MT, Leiby BE, Tasman WS.
+Preventing depression in age-related macular degeneration.
+Arch Gen Psychiatry. 2007;64:886–893.
+73. Horowitz A, Leonard R, Reinhardt J. Measuring psychosocial
+and functional outcomes of a group model of vision
+rehabilitation services for older adults. J Vis Impairment
+Blindness. 2000;94:328–337.
+

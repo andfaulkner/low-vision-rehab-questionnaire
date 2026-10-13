@@ -1,0 +1,923 @@
+[page 1]
+DOI: 10.1111/ajag.12159
+
+Research
+Depression screening among older adults attending low-vision
+rehabilitation and eye-care services: Characteristics of those
+who screen positive and client acceptability of screening
+Edith E. Holloway and Bonnie A. Sturrock
+Centre for Eye Research Australia, Royal Victorian Eye and Ear
+Hospital, University of Melbourne, Melbourne, Victoria, Australia
+
+Ecosse L. Lamoureux
+Centre for Eye Research Australia, Royal Victorian Eye and Ear
+Hospital, University of Melbourne, Melbourne, Victoria, Australia;
+Singapore Eye Research Institute, National University of Singapore;
+and Duke–National University of Singapore Graduate Medical
+School, Singapore
+
+Jill E. Keeffe and Gwyneth Rees
+Centre for Eye Research Australia, Royal Victorian Eye and Ear
+Hospital, University of Melbourne, Melbourne, Victoria, Australia
+
+Aim: To investigate characteristics associated with
+screening positive for depressive symptoms among older
+adults accessing low-vision rehabilitation and eye-care
+services and to determine client acceptability of depression
+screening using the Patient Health Questionnaire-2
+(PHQ-2) in these settings.
+Methods: One-hundred and twenty-four older adults
+(mean = 77.02 years, SD = 9.12) attending low-vision
+rehabilitation and eye-care services across Australia were
+screened for depression and invited to complete a
+telephone-administered questionnaire to determine
+characteristics associated with depressive symptoms and
+client acceptability of screening in these settings.
+Results: Thirty-seven per cent (n = 46/124) of participants
+screened positive for depressive symptoms, and the majority
+considered the new depression screening method to be a
+‘good idea’ in vision services (85%). Severe vision loss
+(<6/60 in the better eye) was associated with an increased
+odds of screening positive for depressive symptoms (odds
+ratio 2.37; 95% confidence interval 1.08–6.70) even after
+adjusting for potential confounders. Participants who
+screened positive had a preference for ‘talking’ therapy or a
+combination of medication and ‘talking therapy’ delivered
+within their own home (73%) or via telephone (67%).
+Conclusion: The PHQ-2 appears to be an acceptable
+method for depression screening in eye-care settings among
+older adults. Targeted interventions that incorporate
+home-based or telephone delivered therapy sessions may
+improve outcomes for depression in this group.
+
+Correspondence to: Dr Gwyneth Rees, Centre for Eye Research
+Australia, Royal Victorian Eye and Ear Hospital, University of
+Melbourne. Email: grees@unimelb.edu.au
+Australasian Journal on Ageing, Vol 34 No 4 December 2015, 229–234
+© 2014 ACOTA
+
+bs_bs_banner
+
+Key words: depression screening, low vision, psychological
+treatment preference, vision rehabilitation.
+
+Introduction
+The link between vision impairment and depression in older
+adults is well established, and studies have shown that higher
+levels of vision impairment may be associated with increased
+risk [1]. For a person with vision impairment, depressive
+symptoms can lead to increased levels of disability and functional decline and a greater risk of developing major depression, which may act as a barrier to effective vision
+rehabilitation outcomes [2,3]. Early identification and management of depressive symptoms in this group is therefore
+critical.
+The need to identify depression in high-risk groups has been
+emphasised in screening guidelines, and the UK’s National
+Institute of Clinical Excellence (NICE) has recommended
+routine depression screening for people with functional
+impairment within health-care settings [4]. Studies conducted
+in health conditions including epilepsy have yielded support
+for depression screening [5] and have generally found a high
+rate of patient acceptability, with a preference for brief
+screening tools [6,7].
+In low-vision rehabilitation services throughout Australia,
+staff have undertaken training [8] to screen for depressive
+symptoms using the Patient Health Questionnaire-2 (PHQ-2)
+[9], a two-item measure that has been validated in previous
+research and is widely used as a first-line screening instrument.
+The PHQ-2 has recently demonstrated its clinical utility in
+oncology settings [10] and with coronary heart disease
+patients [11]. It has also demonstrated good sensitivity, specificity and ease of administration for older adults when compared with ‘gold-standard’ diagnostic interviews [12].
+While depression screening is the first step to ensuring
+patients gain access to treatment through appropriate referrals, screening alone is not sufficient to improve outcomes
+[13], and greater emphasis has been placed in current screening guidelines on the importance of combining screening with
+effective treatment and follow-up [14]. Adherence to treatment in older adults is frequently reported to be poor [15];
+however, evidence suggests that patients who receive their
+preferred treatment show greater improvements and adherence to treatment compared to those who do not [16]. A
+better understanding of treatment preferences in this group is
+therefore needed.
+229
+
+
+[page 2]
+H o l l o w a y
+
+E E ,
+
+S t u r r o c k
+
+The primary aims of this exploratory study were the following: (i) to determine the proportion and characteristics of
+participants who screened positive for depressive symptoms
+in a sample of older adults accessing low-vision rehabilitation
+and eye-care services; and (ii) to determine client acceptability of depression screening using the PHQ-2 in these settings.
+A secondary aim was to identify preferences for psychological support services for those who screened positive.
+
+L a m o u r e u x
+
+E L
+
+e t
+
+a l .
+
+Measures
+
+Methods
+
+Background
+Age, gender, marital status, country of birth, languages
+spoken, education level and general health were recorded via
+self-report at the baseline assessment. Participants were also
+asked to self-report if they had ever suffered from depression
+(‘no’, ‘yes, in the past’, ‘yes, currently’) and if they had ever
+received treatment for depression in the form of antidepressant medication, therapy or counselling (‘no’, ‘yes, in the past’,
+‘yes, currently’).
+
+Study design and setting
+Participants were recruited from Vision Australia centres
+across Victoria, New South Wales, Queensland and the Australian Capital Territory and the Royal Victorian Eye and Ear
+Hospital (RVEEH) between November 2010 and July 2012
+as part of a prospective longitudinal study exploring outcomes of depression screening [17]. This study reports on
+findings from the baseline assessment.
+
+Ocular health
+The main cause of vision loss and visual acuity were
+extracted from Vision Australia and the RVEEH patient files.
+Visual acuity was assessed using logarithm of the minimum
+angle of resolution (LogMAR) charts at Vision Australia and
+the Snellen chart at RVEEH. Visual impairment was categorised as mild (<6/12–6/18), moderate (<6/18–6/60) or severe
+(<6/60).
+
+Participants and procedure
+To be eligible for the study, participants were required to
+have visual acuity <6/12 in the better eye (best corrected), be
+aged 60 years or older, be able to converse in English, have
+adequate hearing (with or without a hearing aid) and have no
+cognitive impairment as determined by a score of ≤7 on the
+six-item Cognitive Impairment Test (6CIT) [18].
+Potential participants who met visual acuity and age eligibility criteria were identified by Vision Australia staff during the
+new intake assessment, in which the PHQ-2 [9] was administered by Vision Australia staff as a standard component of
+intake. Following depression screening, consent to be contacted by the research team was obtained by Vision Australia
+staff. Consenting clients were contacted by the research team,
+who completed a cognitive assessment. At the RVEEH site,
+patient records were reviewed by a research assistant who
+completed the PHQ-2 with eligible patients waiting for their
+clinic appointment. Across all sites, clients who screened
+positive for depressive symptoms were advised that their
+responses warranted further follow-up and were offered a
+referral letter to discuss depression with their GP. Educational materials (e.g. beyondblue resources) about depression
+and services available in the community were also offered. All
+eligible clients were invited to take part in the study, and a
+baseline assessment was scheduled within 1 week of depression screening with consenting clients. A research assistant
+completed the baseline assessment via telephone to determine
+demographic characteristics, acceptability of depression
+screening and preferences for psychological support services.
+Ethical approval was received from the Human Research and
+Ethics Committee of the RVEEH (project no. 09/923H).
+Written consent was obtained from all eligible participants,
+including permission to access ophthalmology and low vision rehabilitation reports.
+230
+
+B A ,
+
+Depressive symptoms
+Participants were screened for depression using the PHQ-2
+[9]. The PHQ-2 consists of the first two items of the PHQ-9
+[19] (see Appendix I), which assess depressed mood and loss
+of interest (anhedonia) over the previous 2 weeks. At least
+one of these symptoms is required to establish a diagnosis of
+major depressive disorder (MDD) or any depressive disorder
+listed in the DSM-IV. PHQ-2 scores can range from 0 to 6,
+and a score of ≥3 suggests clinically significant depression,
+which should prompt either completion of the full PHQ-9 or
+a clinical interview to assess for MDD [20]. A score of ≥3 has
+been shown to have sensitivity as high as 83% and specificity
+of 92% for major depression [9]. The PHQ-2 has been
+validated in previous research for use in older adults [12].
+Acceptability of depression screening
+The Patient Acceptability Scale (PAS) [21] was used to determine the extent to which participants felt ‘annoyed’, ‘embarrassed’, ‘upset’ or ‘uncomfortable’ in answering the twoquestion screening tool. Response options ranged from 1
+(very much) to 4 (not at all). Participants were also asked to
+indicate if they thought it was a good idea to screen for
+depression (‘yes’, ‘no’, ‘unsure’).
+Perceived need for psychological help
+Participants were asked to indicate the extent to which they
+felt the need for help on a single item rated on a five-point
+Likert scale. A higher score indicated a greater perceived need
+for psychological help.
+Preferences for psychological treatments
+To determine preferences for psychological treatment, participants who screened positive for depressive symptoms
+were asked to indicate (i) which of four treatment options
+was their first preference, (ii) which was their second preference and (iii) if any were unacceptable choices [22]. All
+participants, regardless of their treatment preference, were
+Australasian Journal on Ageing, Vol 34 No 4 December 2015, 229–234
+© 2014 ACOTA
+
+
+[page 3]
+D e p r e s s i o n
+
+asked to consider five modes of delivery for receiving ‘talking’
+therapy from a psychologist or counsellor and whether they
+felt it was an acceptable or unacceptable setting in which to
+receive therapy.
+Analysis
+Statistical analysis was carried out using SPSS version 19.0.
+The cut-off score for the PHQ-2 was ≥3, indicating depressive symptoms warranting further clinical attention (i.e. a
+positive screen). The Kolmogorov–Smirnov test of normality
+was statistically significant (P < 0.05), indicating that the data
+were not normally distributed and non-parametric tests were
+warranted. Chi-square and non-parametric tests (e.g. Mann–
+Whitney U) were used to compare between-group differences
+(positive versus negative depression screen) for each of the
+sociodemographic variables. To identify factors associated
+with depressive symptoms, exploratory analyses were performed. Variables identified as associated with the outcome
+in chi-square and non-parametric tests (P < 0.05) were
+entered in univariate regression models. A multivariate logistic regression model was performed to determine if level of
+visual acuity remained associated with depressive symptoms
+after adjustment for potential confounders. Odds ratios and
+95% confidence intervals for a positive depression screen
+relative to a negative screen are reported.
+
+Results
+Participants and response rates
+The files of 234 clients were reviewed for visual acuity, of
+whom 33 (14%) did not meet the eligibility criteria. Of the
+eligible clients, 42 (21%) declined to be screened for depression, three (2%) did not meet other eligibility criteria and a
+further 32 (16%) were screened but declined to take part in
+the study; of the latter, 41% (n = 13) screened positive for
+depressive symptoms. In this paper, we report on the baseline
+data from 124 eligible participants.
+The participants ranged in age from 60 to 94 years (mean =
+77.02, SD = 9.12); most were female (n = 88, 71%) and
+reported having at least one chronic health condition besides
+their eye condition (86%; Table 1). The most prevalent
+causes of vision loss were age-related macular degeneration
+(51%) and glaucoma (18%), and the majority (83%) had
+mild or moderate vision loss.
+Proportion and characteristics of participants who screened
+positive for depressive symptoms
+Thirty-seven per cent (n = 46/124) of participants screened
+positive for depressive symptoms, and no differences were
+found in the proportion who screened positive at Vision
+Australia centres (n = 38/106; 36%) and the proportion who
+screened positive at the RVEEH (n = 8/18; 44%) (P = 0.33).
+Participants who screened positive were more likely to have
+severe vision loss (χ2(df = 2, n = 124) = 4.73, P = 0.04), have
+current depression (χ2(df = 2, n = 124) = 49.71, P > 0.001)
+and currently be receiving treatment for depression (χ2(df = 2,
+Australasian Journal on Ageing, Vol 34 No 4 December 2015, 229–234
+© 2014 ACOTA
+
+s c r e e n i n g
+
+i n
+
+l o w
+
+v i s i o n
+
+n = 124) = 37.55, P > 0.001) compared to those who screened
+negative (Table 1). Overall, 22% (n = 10/46) of participants
+who screened positive did not report a history of depression,
+and 57% (n = 26/46) were not currently receiving treatment.
+Participants who screened positive reported a greater need
+for psychological support than those who screened negative
+(z = −3.64, P < 0.001).
+Univariate logistic regression analyses showed that participants with severe vision loss had an estimated 2.37-fold
+increase in the odds of screening positive for depressive symptoms compared to those with mild vision loss (95% CI
+1.08–6.70; P = 0.04) (Table 2). This association remained
+significant in a multivariate model after controlling for age,
+gender, history of depression, treatment status and perceived
+need for psychological support (OR 7.41; 95% CI 1.59–
+34.62; P < 0.001). History of depression, treatment status
+and a perceived need for psychological support were also
+associated with a positive depression screen in univariate
+analyses (all P < 0.05; Table 2).
+Acceptability of depression screening
+The majority of participants believed it was a ‘good idea’ to
+screen for depression at eye-care and vision rehabilitation
+services (85%). Most participants rated the questions of the
+PHQ-2 as ‘easy’ (45%) or ‘very easy’ (41%) to answer and
+reported not feeling embarrassed (96%), upset (96%),
+uncomfortable (96%) or annoyed answering the questions.
+Participants who screened positive did not differ in their level
+of acceptance towards depression screening compared to
+those who screened negative (all P > 0.05).
+Preferences for emotional support and
+psychological treatments
+Participants who screened positive for depressive symptoms
+(n = 46) preferred ‘talking therapy’ from a counsellor or
+psychologist (29%) or a combination of medication and
+‘talking therapy’ (33%). Fewer participants had a preference
+for antidepressant medication (20%) or no treatment (18%).
+In general, participants were accepting of most settings for
+receiving ‘talking therapy’, including at home (73%) and via
+telephone (67%). Around half reported they would be happy
+to receive sessions in a therapist’s office (56%) or a Vision
+Australia centre (46%), while only 7% were accepting of
+sessions over the Internet.
+
+Discussion
+This is the first study to report on the acceptability of depression screening at low-vision rehabilitation and eye-care services among older adults. On a brief, well-validated screening
+tool, administered largely by trained low-vision rehabilitation staff, over a third of participants scored above the clinical cut-off for depressive symptoms, warranting further
+clinical attention. Encouragingly, many participants indicated little negative affect following administration of the
+screening questions. Over half of those participants who
+screened positive for depressive symptoms were not currently
+231
+
+
+[page 4]
+H o l l o w a y
+
+E E ,
+
+S t u r r o c k
+
+B A ,
+
+L a m o u r e u x
+
+E L
+
+e t
+
+a l .
+
+Table 1: Sociodemographic characteristics of participants by PHQ-2 score
+Characteristic
+Age (years), mean ± SD (range)
+Sex, n (%)
+Female
+Male
+Country of birth
+Australia
+Other
+Marital status, n (%)
+Married/de facto/partner
+Widowed
+Divorced/separated
+Never married
+Level of education, n (%)
+Some secondary/technical education
+None/primary school equivalent
+Secondary school completed
+Trade/apprenticeship/some college/technical and further education
+Degree qualified
+Comorbid physical illness, n (%)
+Yes
+No
+Visual acuity, n (%)
+Mild (<6/12–6/18)
+Moderate (<6/18–6/60)
+Severe (<6/60)
+Eye condition†
+Macular degeneration
+Other
+Glaucoma
+Diabetic retinopathy
+Cataracts
+History of depression, n (%)
+No, never
+Yes, currently
+Yes, in the past
+Previous treatment, n (%)
+No, never
+Yes, currently
+Yes, in the past
+Perceived need for help, mean ± SD
+
+Total (n = 124)
+
+Positive screen
+(n = 46, 37.1%)
+
+Negative screen
+(n = 78, 62.9%)
+
+P value‡
+
+77.02 ± 9.12 (60–94)
+
+75.18 ± 8.80
+
+78.12 ± 9.19
+
+0.09
+
+88 (71.0)
+36 (29.0)
+
+34 (38.6)
+12 (33.3)
+
+54 (61.4)
+24 (66.7)
+
+0.37
+
+99 (79.8)
+25 (20.2)
+
+35 (35.4)
+11 (44.0)
+
+64 (64.6)
+14 (56.0)
+
+0.81
+
+56 (45.2)
+48 (38.7)
+14 (11.3)
+6 (4.8)
+
+20 (35.7)
+20 (41.7)
+5 (35.7)
+1 (16.7)
+
+36 (64.3)
+28 (58.3)
+9 (64.3)
+5 (83.3)
+
+0.67
+
+54 (43.5)
+31 (25.0)
+16 (12.9)
+14 (11.3)
+9 (7.3)
+
+15 (27.8)
+15 (48.4)
+5 (31.3)
+5 (35.7)
+6 (66.7)
+
+39 (72.2)
+16 (51.6)
+11 (68.7)
+9 (64.3)
+3 (33.3)
+
+0.12
+
+106 (86.2)
+17 ((13.8)
+
+41 (38.7)
+4 (23.5)
+
+65 (61.3)
+13 (76.5)
+
+0.18
+
+50 (40.3)
+53 (42.7)
+21 (16.9)
+
+18 (36.0)
+16 (30.2)
+12 (57.1)
+
+32 (64.0)
+37 (69.8)
+9 (42.9)
+
+0.04
+
+63 (51.2)
+24 (19.5)
+22 (17.9)
+11 (8.9)
+3 (2.4)
+
+21 (33.3)
+11 (45.8)
+8 (36.4)
+3 (27.3)
+2 (66.7)
+
+42 (66.7)
+13 (54.2)
+14 (63.6)
+8 (72.7)
+1 (33.3)
+
+0.60
+
+74 (59.7)
+29 (23.4)
+21 (16.9)
+
+10 (13.5)
+25 (86.2)
+11 (52.4)
+
+64 (86.5)
+4 (13.8)
+10 (47.6)
+
+<0.001
+
+75 (60.5)
+26 (21.0)
+23 (18.5)
+2.61 ± 1.05
+
+12 (16.0)
+20 (76.9)
+14 (60.9)
+3.09 ± 1.19
+
+63 (84.0)
+6 (23.1)
+9 (39.1)
+2.33 ± 0.85
+
+<0.001
+<0.001
+
+† One participant had missing data. ‡ χ2-test, Mann–Whitney U-test. PHQ-2, Patient Health Questionnaire-2.
+
+Table 2: Univariate and multivariate associations between predictor variables and a positive depression screen
+(score ≥3) on the PHQ-2
+Variable
+Age
+Gender
+Visual impairment
+Mild
+Moderate
+Severe
+History of depression
+No, never
+Yes, in the past
+Yes, currently
+Previous treatment
+No, never
+Yes, in the past
+Yes, currently
+Perceived need for psychological help
+
+Unadjusted OR
+
+95% CI
+
+Adjusted OR
+
+95% CI
+
+0.96
+1.25
+
+0.93–1.00
+0.56–2.84
+
+0.95
+0.49
+
+0.89–1.00
+0.12–1.92
+
+1.00 (ref)
+0.77
+2.37
+
+0.34–1.75
+1.08–6.70*
+
+1.00 (ref)
+0.60
+7.41
+
+0.18–1.96
+1.59–34.62*
+
+1.00 (ref)
+7.04
+40.00
+
+2.38–20.84**
+11.48–139.37**
+
+1.00 (ref)
+4.76
+69.73
+
+0.61–36.95
+6.43–756.64**
+
+1.00 (ref)
+8.17
+16.50
+2.02
+
+2.89–23.11**
+5.82–52.65**
+1.40–2.94**
+
+1.00 (ref)
+3.63
+16.50
+1.37
+
+0.49–26.70
+0.09–8.28
+0.81–2.32
+
+*P < 0.05; **P < 0.01; ***P < 0.001. PHQ-2, Patient Health Questionnaire-2; ref, reference group; OR, odds ratio; CI, confidence interval.
+
+232
+
+Australasian Journal on Ageing, Vol 34 No 4 December 2015, 229–234
+© 2014 ACOTA
+
+
+[page 5]
+D e p r e s s i o n
+
+receiving treatment for depression, underlining the importance of screening and referrals in these settings.
+The frequency of patients who screened positive for depressive symptoms in our sample was slightly higher than that
+reported in other low-vision samples [2,23]; however, those
+data were often gathered in general community rather than
+eye-care settings. In low-vision rehabilitation settings,
+seminal work examining the frequency of depression using a
+formal diagnosis found that 34% of older adults (versus 37%
+who screened positive for depressive symptoms in our study)
+met the criteria for major or subthreshold depression [3]. In
+the current study, 86% of participants who screened positive
+for depressive symptoms also self-reported current depression, while 87% who scored <3 reported no current diagnosis. Taken together, these results provide information about
+the plausibility of a positive screen and point to the PHQ-2 as
+a useful first-stage screening tool. However, as we did not
+include a formal diagnosis of depression, we cannot know
+with any certainty how many false positive and false negative
+screens are among our data.
+We found that poorer visual acuity was associated with a
+positive depression screen. It may be the level of disability
+associated with the vision loss that increases the risk of
+depression rather than visual impairment itself. For example,
+a recent study using a probability-based sample showed that
+physical limitations and social isolation were the mechanisms
+by which older adults developed depression, irrespective of
+the degree of vision loss [24].
+The majority of participants who screened positive preferred
+‘talking’ therapies, rated as the treatment of choice alone or
+in combination with antidepressants. This is consistent with
+research demonstrating that psychological treatments for
+depression are favoured over antidepressant medication in
+older adults [22]. Psychological therapies have also been
+shown to be a more effective treatment strategy for depressive symptoms that do not meet the full diagnostic criteria,
+known as subthreshold depression, levels of which are commonly experienced by vision-impaired adults [3]. Our findings showed that two-thirds of participants who screened
+positive would be happy to receive ‘talking’ therapy over the
+phone. Due to barriers such as lack of available and accessible services, transportation problems and cost, treatment
+adherence to psychological therapies is often reported to be
+low in primary care [25]. Telephone-administered therapy in
+addition to face-to-face sessions via home visits or video
+conferencing, particularly important for those with hearing
+difficulties, may provide suitable delivery modes to older
+vision-impaired adults for whom travel is a challenge.
+Several limitations and caveats exist in interpreting these
+findings. Previous studies have shown depression to be a
+barrier to seeking low-vision services [3], and as such, the
+rates of depression and severity of symptoms may be lower in
+this sample, which was largely recruited from low-vision
+Australasian Journal on Ageing, Vol 34 No 4 December 2015, 229–234
+© 2014 ACOTA
+
+s c r e e n i n g
+
+i n
+
+l o w
+
+v i s i o n
+
+services. As noted, the percentage of positive screens was also
+quite high in those who declined to participate in the
+research. This may leave a knowledge gap in terms of the
+characteristics of those clients not completing the PHQ-2
+(hence not invited to take part in the study) and how these
+differed from those of the invited clients. Furthermore, as the
+majority of our sample had not yet received low-vision rehabilitation services, we did not assess service use. Future
+research in this area should determine the impact of rehabilitation services on depressive symptoms. Due to the small
+sample size, we were unable to stratify the data exploring
+treatment preference by exposures such as history of depression, current treatment and perceived need for psychological
+help, as these factors may also influence treatment preferences. Individuals with a cognitive impairment were excluded
+from this study; however, the co-occurrence of depression
+and cognitive impairment among older adults is common,
+highlighting the importance of identifying depression in this
+group. Vision rehabilitation and eye-care providers should
+also consider training staff in the use of depression screening
+tools that have been validated for use in individuals with
+dementia. These instruments generally require more time to
+administer than briefer tools such as the PHQ-2 [26].
+Despite these limitations, this study provided a novel method
+for identifying depression that involved internal screening by
+trained staff of eye-care and low-vision rehabilitation providers. This study was not designed to evaluate the psychometric
+properties of the PHQ-2, and the current presence of depression was determined via self-report. Future studies could
+provide data on the clinical utility of the PHQ-2 compared to
+a ‘gold-standard’ instrument for use in older adults with
+vision impairment. The positive predictive value of a PHQ-2
+score ≥3 has been reported to be around 34% [27]. Therefore, eye-care providers could also consider a two-step
+approach adopted by the American Heart Association (AHA)
+Prevention Committee, where the PHQ-9 [19] is administered for confirmation of a positive PHQ-2 result [28]. An
+important benefit of this two-stage approach is that many
+false-positive PHQ-2 screen results could be eliminated, as
+has been shown in previous studies [29].
+In conclusion, this study provides evidence to support acceptability among older adults of depression screening using a
+brief tool, the PHQ-2, administered by staff at eye-care and
+low-vision rehabilitation providers. The findings from this
+study provide preliminary data on the types (and modes of
+delivery) of treatment that would be acceptable to vision impaired older adults. These preferences may be useful in
+informing the development of appropriate and effective treatment to be used in conjunction with screening tools. We are
+currently integrating an evidence-based treatment for depression (Problem-Solving Therapy for Primary Care, PST-PC)
+into low-vision rehabilitation settings [30]. Staff will be
+trained to deliver PST-PC via telephone to those clients who
+screen positive for depressive symptoms on the PHQ-2 and,
+subsequently, the PHQ-9. Integrating such services into low233
+
+
+[page 6]
+H o l l o w a y
+
+E E ,
+
+S t u r r o c k
+
+vision rehabilitation care could help to overcome some of the
+practical and logistical barriers to the uptake of referrals for
+emotional support to outside agencies, allow emotional and
+rehabilitation needs to be addressed simultaneously, and
+enable greater continuity of care.
+
+10
+
+11
+12
+
+Acknowledgements
+We would like to thank beyondblue – the National Depression Initiative – which provided funding to support this
+study, and all participants who took part. This project was
+funded by beyondblue – the National Depression Initiative.
+We gratefully acknowledge the contribution from Michael
+Kienhuis, Sam Coad, Niky Hepi and Graeme Craig at Vision
+Australia in assisting with coordinating this study within
+Vision Australia. Gwyneth Rees is currently a NHMRC
+Translating Research Into Practice Fellow (2012–2014). The
+Centre for Eye Research Australia receives Operational
+Infrastructure Support from the Victorian Government and
+the Centre for Clinical Research Excellence.
+
+13
+14
+15
+16
+17
+
+18
+
+Key Points
+• Older adults with vision impairment are at
+increased risk of depression, and methods to
+improve the detection of depression are needed.
+• The study provides evidence to support the acceptability of depression screening in low vision rehabilitation and eye-care services among older adults.
+• Depression screening should be combined with
+appropriate treatment, and future studies should
+investigate such services in low vision rehabilitation settings.
+
+References
+1
+
+2
+3
+4
+5
+6
+
+7
+8
+
+9
+
+234
+
+Brown RL, Barrett AE. Visual impairment and quality of life among older
+adults: An examination of explanations for the relationship. The Journals
+of Gerontology. Series B, Psychological Sciences and Social Sciences
+2011; 66B: 364–373.
+Rovner B, Ganguli M. Depression and disability associated with impaired
+vision: the MoVies Project. Journal of the American Geriatrics Society
+1998; 46: 617–619.
+Horowitz A, Reinhardt JP, Kennedy GJ. Major and subthreshold depression among older adults seeking vision rehabilitation services. The American Journal of Geriatric Psychiatry 2005; 13: 180–187.
+National Collaborating Centre for Mental Health. Depression in adults with
+a chronic physical health problem: Treatment and management. London:
+National Institute for Clinical Excellence, 2009.
+Margrove K, Thapar AK, Mensah SA, Kerr MP. Help-seeking and treatment preferences for depression in epilepsy. Epilepsy & Behavior 2011;
+22: 740–744.
+Cathebras P, Mosnier C, Levy M, Bouchou K, Rousset H. Screening for
+depression in patients with medical hospitalization. Comparison of two
+self-evaluation scales and clinical assessment with a structured questionnaire. L'Encéphale 1994; 20: 311–317.
+Gemmill AW, Leigh B, Ericksen J, Milgrom J. A survey of the clinical
+acceptability of screening for postnatal depression in depressed and
+non-depressed women. BMC Public Health 2006; 6: 211–218.
+Rees G, Holloway EE, Craig G et al. Screening for depression: Integrating
+training into the professional development programme for low vision
+rehabilitation staff. Clinical & Experimental Ophthalmology 2012; 40:
+840–848.
+Kroenke K, Spitzer R, Williams JBW. The Patient Health Questionnaire-2:
+Validity of a two-item depression screener. Medical Care 2003; 41:
+1284–1292.
+
+19
+20
+21
+22
+23
+24
+25
+26
+
+27
+28
+29
+30
+
+B A ,
+
+L a m o u r e u x
+
+E L
+
+e t
+
+a l .
+
+Randall J, Voth R, Burnett E, Bazhenova L, Bardwell W. Clinic-based
+depression screening in lung cancer patients using the PHQ-2 and
+PHQ-9 depression questionnaires: A pilot study. Supportive Care in
+Cancer 2013; 21: 1503–1507.
+Sowden G, Mastromauro CA, Januzzi JL, Fricchione GL, Huffman JC.
+Detection of depression in cardiac in patients: Feasibility and results of
+systematic screening. American Heart Journal 2010; 159: 780–787.
+Li C, Friedman B, Conwell Y, Fiscella K. Validity of the Patient Health
+Questionnaire 2 (PHQ-2) in identifying major depression in older people.
+Journal of the American Geriatrics Society 2007; 55: 596–602.
+Mitchell AJ. Clinical utility of screening for clinical depression and bipolar
+disorder. Current Opinion in Psychiatry 2012; 25: 24–31.
+US Preventive Services Task Force. Screening for depression in adults: US
+Preventive Services Task Force recommendation statement. Annals of
+Internal Medicine 2009; 151: 784–792.
+Zivin K, Kales HC. Adherence to depression treatment in older adults: A
+narrative review. Drugs & Ageing 2008; 25: 559–571.
+Swift JK, Callahan JL. The impact of client treatment preferences on
+outcome: A meta-analysis. Journal of Clinical Psychology 2009; 65:
+368–381.
+Holloway EE, Sturrock BA, Lamoureux EL, Keeffe JE, Rees G. Help seeking
+among vision impaired adults referred to their GP for depressive symptoms: patient characteristics and outcomes associated with referral
+uptake. Australian Journal of Primary Health 2013. doi: 10.1071/
+PY13085 [Epub ahead of print].
+Brooke P, Bullock R. Validation of a 6 item cognitive impairment test with
+a view to primary care usage. International Journal of Geriatric Psychiatry
+1999; 14: 936–940.
+Kroenke K, Spitzer RL, Williams JBW. The PHQ-9. Journal of General
+Internal Medicine 2001; 16: 606–613.
+Kroenke K, Spitzer RL, Williams JBW, Löwe B. The Patient Health Questionnaire somatic, anxiety, and depressive symptom scales: A systematic
+review. General Hospital Psychiatry 2010; 32: 345–359.
+Zimmerman M, Farber NJ, Hartung J, Lush DT, Kuzma MA. Screening for
+psychiatric disorders in medical patients: A feasibility and patient acceptance study. Medical Care 1994; 32: 603–608.
+Gum AM, Arean PA, Hunkeler E et al. Depression treatment preferences
+in older primary care patients. The Gerontologist 2006; 46: 14–22.
+Hayman KJ, Kerse NM, La Grow SJ, Wouldes T, Robertson MC, Campbell
+AJ. Depression in older people: Visual impairment and subjective ratings
+of health. Optometry and Vision Science 2007; 84: 1024–1030.
+Bookwala J, Lawson B. Poor vision, functioning, and depressive symptoms: A test of the activity restriction model. The Gerontologist 2011; 51:
+798–808.
+Mohr DC, Ho J, Duffecy J et al. Perceived barriers to psychological
+treatments and their relationship to depression. Journal of Clinical Psychology 2010; 66: 394–409.
+Nguyen HV, Inderjeeth CA, Tang E, Barnabas L, Merriam M. Screening for
+depression in hospitalised and community-dwelling elderly: The use of
+the 4-item, 5-item and 15-item geriatric depression scales. Australasian
+Journal on Ageing 2006; 25: 204–208.
+Arroll B, Goodyear-Smith F, Crengle S et al. Validation of PHQ-2 and
+PHQ-9 to screen for major depression in the primary care population. The
+Annals of Family Medicine 2010; 8: 348–353.
+Lichtman JH, Bigger JT Jr, Blumenthal JA et al. Depression and coronary
+heart disease: Recommendations for screening, referral, and treatment.
+Circulation 2008; 118: 1768–1775.
+Gjerdingen D, Crow S, McGovern P, Miner M, Center B. Postpartum
+depression screening at well-child visits: validity of a 2-question screen
+and the PHQ-9. The Annals of Family Medicine 2009; 7: 63–70.
+Rees G, Mellor D, Holloway E et al. Integrated depression management: A
+proposed trial of a new model of care in a low vision rehabilitation setting.
+Ophthalmic Epidemiology 2013; 20: 321–329.
+
+Appendix I
+The Patient Health Questionnaire-2 (PHQ-2) depression
+screening test
+Over the past 2 weeks, on a scale of 0–3, how often have you
+been bothered by any of the following problems:
+1. Feeling down, depressed or hopeless
+2. Little interest or pleasure in doing things
+Australasian Journal on Ageing, Vol 34 No 4 December 2015, 229–234
+© 2014 ACOTA
+

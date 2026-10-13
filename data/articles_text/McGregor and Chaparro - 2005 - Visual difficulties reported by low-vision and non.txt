@@ -1,0 +1,1125 @@
+[page 1]
+Visual Difficulties Reported by Low-Vision and Nonimpaired
+Older Adult Drivers
+Loretta Neal McGregor, Ouachita Baptist University, Arkadelphia, Arkansas, and Alex
+Chaparro, Wichita State University, Wichita, Kansas
+Nonimpaired and low-vision older adults responded to a questionnaire regarding
+the types of visual difficulties experienced while performing daily tasks and while
+driving. Using the factors produced from a factor analysis as predictors, a discriminant analysis was performed to determine whether significant differences in visual
+problems existed between the groups. The majority of participants reported that they
+currently required more time than in the past to perform tasks that depended on
+their vision, regardless of their visual status. All participants reported experiencing
+significant difficulties with static and dynamic acuity, peripheral vision, illumination
+problems, and contrast sensitivity. Both nonimpaired and low-vision older adult
+drivers reported experiencing difficulty with glare, peripheral vision, and night driving. Low-vision drivers reported experiencing unique difficulties with near acuity,
+distant acuity, and physical obstructions. Potential applications of this research
+include suggestions for redesigning automobiles and highway signs for safer use
+and viewing.
+INTRODUCTION
+The majority of older adults continue to drive
+safely well into their 80s and 90s (Ball & Rebok, 1994; Federal Highway Administration,
+1998; Johnson & Keltner, 1983; Marottoli et al.,
+1993). Many older drivers drive because they
+like the freedom of coming and going as they
+please, but many others continue to drive out of
+necessity (Orr, 1991). Data indicate that some
+older drivers often continue to drive because of
+a lack of adequate public transportation within
+their community and the fear of isolation or of
+being a burden to others if they gave up driving
+(Orr, 1991).
+However, older drivers are often depicted in
+the movies and on television as slow drivers, accident prone, and a driving risk to self and others. It is true that older drivers, as a group, have
+more traffic accidents and more fatalities per
+miles driven than all other groups except young
+drivers; however, one should consider that a
+wide range of individual differences in driving
+capabilities exists among older drivers. Ball et
+
+al. (1998) suggested that because such wide
+variability does exist, only a subset of older drivers – those with severe functional impairments –
+increase the average risk of an accident for the
+entire age group.
+This depiction of older drivers as a driving
+risk to self and others has led governing bodies
+and many within the public sector to question
+whether an upper age limit or other restrictions
+should be imposed on driving. Some state legislatures have considered denying drivers’ licenses to individuals who exceed a particular age.
+Additionally, some states are considering placing
+restrictions (e.g., specifying under what conditions a person will be allowed to drive) on older
+drivers (Ball, Owsley, Sloane, Roenker, & Bruni,
+1993). A few states now require an annual driver license renewal for individuals over the age of
+60 (Federal Highway Administration, 1998).
+However, Ball et al. (1993) wrote, “policies that
+restrict driving privileges based solely on age or
+on common stereotypes of age-related declines...
+are scientifically unfounded” (p. 3110).
+The majority of states require that drivers
+
+Address correspondence to Loretta Neal McGregor, Department of Psychology and Counseling, P.O. Box 1560, Arkansas
+State University, State University, AR 72467; lmcgregor@astate.edu. HUMAN FACTORS, Vol. 47, No. 3, Fall 2005, pp.
+469–478. Copyright © 2005, Human Factors and Ergonomics Society. All rights reserved.
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 2]
+470
+
+Fall 2005 – Human Factors
+
+have a best-corrected visual acuity of 20/40 to
+obtain a nonrestricted driver’s license. However,
+these visual standards vary from state to state:
+Kansas will grant a restricted driver’s license to
+individuals with a best corrected acuity of 20/
+90, but California will allow an individual with
+a best corrected acuity of 20/200 (which is the
+legal definition for blindness) to obtain a restricted driver’s licenses (Charman, 1985; Fishbaugh,
+1995; Kansas Driving Handbook, 1999; Keltner
+& Johnson, 1987).
+Only a limited number of studies have focused exclusively on the relationship between
+vision and driving (Ball et al., 1993; Fox, 1988;
+Keltner & Johnson, 1987; Kline et al., 1992; Kosnik, Sekuler, & Kline, 1990; Kosnik, Winslow,
+Kline, Rasinski, & Sekuler, 1988; Owsley et
+al., 1998). Results from many of these studies
+suggest, both directly and indirectly, that the vision problems that plague many older adults have
+some effect on their driving abilities. Kosnik et al.
+(1988, 1990) found that older drivers reported
+more difficulty with performing a variety of everyday activities (e.g., difficulty reading small print,
+difficulty distinguishing dark colors, eyestrain
+doing close work) because of their declining
+vision. These problems were more pronounced
+in older persons who had recently given up driving. Also, similar to Kosnik et al.’s (1990) results, Kline et al.’s (1992) results indicated that
+the vision problems experienced by current older drivers increased with age. Additionally, Kline
+et al. (1992) identified age-related visual declines
+along specific driving dimensions. Older adult
+drivers reported difficulty in estimating vehicle
+speed, viewing a dimly lit dashboard, and reading street signs. These participants also complained more about the unexpected appearance
+of vehicles (merging or passing) and windshield
+problems such as glare.
+Ball et al. (1993) expanded the research parameters set forth by Kosnik et al. (1988) and
+Kline et al. (1992). Ball et al. (1993) examined
+the visual information-processing ability and
+other visual capabilities of adult drivers to determine whether a relationship existed between
+the participants’ number of reported automobile
+accidents and their visual abilities. They examined six areas of visual function in an attempt to
+find a correlation between vision and crash history. The six visual capabilities examined were
+
+static visual acuity (the ability to detect details
+clearly in nonmoving objects), contrast sensitivity (one’s ability to distinguish between an object
+and its background when the two resemble each
+other closely in color), glare, stereopsis or depth
+perception, visual field sensitivity (the necessary
+intensity of a presented object for perception),
+and color discrimination. The authors also measured the size of each participant’s useful field
+of view. Ball et al. (1993) hypothesized that as
+the field of view decreases with age, so does the
+useful field of view. Unlike the researchers who
+preceded them, Ball et al. (1993) made an attempt to include individuals with poor vision
+(visual acuity worse than 20/40). Results from
+the study indicated that several of the visual
+measures were correlated with the size of an
+individual’s useful field of view. However, the
+only indicators that correlated highly with crash
+involvement and discriminated well between
+crash-involved and crash-free drivers was the
+size of the useful field of view.
+Although Kosnik et al. (1988), Kline et al.
+(1992), Ball et al. (1993), and others have acknowledged that vision changes as one ages,
+each of these studies excluded individuals with
+a diagnosed visual impairment, and none of them
+included individuals diagnosed as having low vision. Kosnik et al. (1988) and Kline et al. (1992),
+in particular, limited participation in their studies to individuals whose acuities were equivalent
+to that adopted by most states for granting an
+unrestricted driver’s license: 20/40. Although
+Ball et al. (1993) included individuals with worse
+acuities in their study, those individuals did not
+have a diagnosed visual impairment. Because
+most studies exclude older drivers with a diagnosed visual impairment, little is known about
+this particular group of drivers. Therefore it is
+unknown if drivers who have specific visual disorders experience unique problems when compared with older drivers with nonimpaired vision.
+In essence, none of these studies provided an
+in-depth examination of the relationship between
+driving and individuals in the population with
+poor vision. For example, what percentage of
+older adults diagnosed with low vision continue
+to drive? What specific driving tasks (if any) do
+low-vision drivers find particularly difficult?
+How do these drivers alter their driving habits
+to compensate for their vision loss, and how do
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 3]
+VISION DIFFICULTIES OF OLDER DRIVERS
+their adaptive strategies compare with those used
+by older adult drivers who do not have a diagnosed visual impairment? Furthermore, little information is available about the type of daily
+visual problems experienced by older individuals
+who have visual acuities worse than 20/40 or
+those who have a diagnosed eye disease and how
+they compare with older adults with nonimpaired
+vision. Does their declining vision interfere with
+the simple performance of daily tasks?
+Many eye diseases are related to low vision,
+and most of these diseases are influenced by the
+aging process. In order to describe the effects of
+age-related visual changes on driving, one must
+include low-vision drivers in the research. The
+purpose of this investigation was to obtain information about the visual experiences of low vision older adults who continue to drive and to
+examine how their declining vision affects their
+performance of both daily and driving tasks.
+METHOD
+Participants
+Participants were 195 low-vision and nonimpaired adult drivers and nondrivers, 50 years of
+age or older. All participants were volunteers. All
+low-vision participants met one of the following
+requirements: (a) a diagnosed visual impairment
+caused by an eye disease (e.g., glaucoma, retinitis pigmentosa, age-related macular degeneration) and/or (b) corrected visual acuity worse
+than 20/40. The majority of the participants were
+recruited from low-vision rehabilitation centers
+in Wichita, Kansas, and St. Louis, Missouri, and
+from residential retirement centers in Wichita
+and in Belen, New Mexico.
+Materials
+Each participant completed a questionnaire
+packet. The packet consisted of a consent form,
+a medical release form, and a diagnostic form, all
+developed by the researchers. The packet also
+included a copy of “Your Vision: A Questionnaire by the Vision Laboratories of Northwestern University and the University of Calgary”
+(Kline et al., 1992).
+The diagnostic form consisted of 10 questions
+regarding the visual health of the participant.
+Information such as visual acuity and diagnosed
+eye disease or diseases was recorded on this
+
+471
+form. The “Your Vision” questionnaire is composed of three distinct sections. The first section requested demographic information along
+with self-reported visual information. The second section required the participant to respond
+to 19 Likert scale questions regarding daily visual tasks. Each question had four possible responses and, depending on the wording of the
+questions, the response patterns ranged from
+none at all to a lot or never to frequently. The
+third and final section of the “Your Vision”
+questionnaire opened with questions regarding
+whether the respondent was currently a licensed
+driver. If the respondent answered no, this concluded his or her participation. If the answer
+was yes, the questionnaire directed the participant to respond to 26 questions regarding his or
+her visual experiences while driving. As in the
+second section, each of these questions was accompanied by four Likert-style responses and,
+depending on the wording of the questions, the
+response patterns ranged from none at all to a
+lot or never to frequently. This section also included questions regarding the total number of
+miles driven during the past year, the percentage
+of night driving and rush hour driving engaged
+in by the participant, and the type of driving environment most frequented by the participant.
+These questions were designed to examine the
+driving habits of older drivers. The questionnaire
+concluded with a free-response section that allowed participants to present any other information that they deemed relevant.
+Procedure
+Participants at the low-vision clinics completed the questionnaire packet during a scheduled visit to the clinic. Participants who did not
+complete the questionnaire at the clinic were
+provided a self-addressed return envelope in
+which they could mail the completed questionnaire. The questionnaires were read aloud to all
+participants who found it difficult to read the
+printed materials.
+The researchers or clinic personnel completed the diagnostic forms. The information provided on these forms was taken from medical
+records provided by the participants’ optometrist
+or ophthalmologist. This information was used
+to determine whether the participant was a nonimpaired or a low-vision driver. Once the form
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 4]
+472
+
+Fall 2005 – Human Factors
+
+was completed, each participant was thanked
+and provided with written information on how
+to obtain the results of the study.
+The completed questionnaires were divided
+into two groups, those completed by drivers
+with nonimpaired vision and those completed
+by drivers with low vision, for the purpose of
+analysis.
+RESULTS
+Demographic Profile
+A total of 195 participants completed the
+vision questionnaires. The mean age of the participants was 78.54 years (SD = 8.85). Women
+constituted 55.9% of the sample, and 43.1%
+of the participants were men. Two participants
+did not list their gender. Additionally, 55.4%
+of the participants experienced some type of
+visual impairment, whereas 44.6% of the participants had no visual impairments. The most
+common type of visual impairment reported was
+age-related macular degeneration (ARMD).
+This finding is interesting to note because AMRD
+results in the death of retinal cells and yet 57.4%
+of the visually impaired participants reported
+that they continued to drive. A total of 72.8% of
+all participants continued to drive regardless
+of their visual status. The participants who had
+discontinued driving (M = 80.91 years, SD =
+9.83) were significantly older, t(80) = 2.14, p =.04,
+than those who continued to drive (M = 77.66
+years, SD = 8.30).
+Driving Habits of Low-Vision and
+Nonimpaired Older Adults
+A series of t tests were performed on the questions pertaining to driving habits. Low-vision
+drivers differed significantly (M = 2.08%, SD =
+1.46%) from nonimpaired drivers (M = 2.48%,
+SD = 1.10%) in the percentage of time spent
+driving at night, t(140) = 2.69, p = .01. Low vision participants reported that between 0%
+and 5% of their total driving occurred at night;
+nonimpaired drivers spent between 6% and
+10% of their total driving time at night. The
+groups did not differ significantly in the percentage of driving done in rush hour traffic,
+t(122) = 1.29, p = .20, nor did they differ significantly in the type of driving environments
+in which they drove t(125) = 1.42, p = .16.
+
+Low-vision and nonimpaired drivers also did
+not differ significantly in the total number of
+miles driven within the past year, t(133) = 0.15,
+p = .89.
+Factor Analysis of Daily Visual Tasks
+A principal factor analysis with orthogonal
+varimax rotations followed by oblique promax
+rotations was performed using the User Oriented
+Factor Analytical Package (USOFAP; Burdsal,
+1981). The variables analyzed were the responses given to the Likert scale questions regarding
+daily visual tasks. Factor extraction was based on
+a Scree test produced by a principal component
+analysis. After finding no outliers or multicollinearity, the principal factor analysis yielded
+five factors with a simple structure of 56.7 with
+a .10 hyperplane. Responses from 195 participants were included in the analysis.
+Table 1 shows how well the estimated factor
+scores correlated with the actual factors (Rfs).
+It should be noted that although the lowest reliability produced was .89, several factors were
+interrcorrelated as indicated by the numerous
+loadings of .70 and higher. Each factor was constructed using only salient variables with loadings of .34 or higher on the factor pattern matrix.
+Factor 1 consisted of questions that related to the
+effects of reduced static acuity (e.g., reading
+small print). Factor 2 addressed issues related
+to bumping into things like doorways, walls, or
+people “which one did not see.” These variables were related to peripheral vision. The variables that loaded on Factor 3 were related to
+dynamic acuity. Factor 4 addressed illumination
+level and problems associated with rapid changes
+in illumination, such as “difficulty adjusting to
+
+TABLE 1: Correlation of Factor Scores With Factors
+for Daily Visual Task Questions (Rfs)
+Factor Scores
+Factor
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+2
+3
+4
+5
+
+.95
+.30
+.72
+.67
+.65
+
+.31
+.91
+.39
+.48
+.33
+
+.72
+.37
+.95
+.67
+.67
+
+.70
+.47
+.69
+.91
+.62
+
+.70
+.33
+.72
+.63
+.89
+
+Note. Scores on diagonal in italics represent the reliability of each
+factor.
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 5]
+VISION DIFFICULTIES OF OLDER DRIVERS
+
+473
+
+bright lights when coming out of a dark place.”
+Finally, Factor 5 dealt specifically with contrast
+issues (e.g., “difficulty distinguishing between
+dark colors”).
+Factor Analysis of Visual Experiences in
+Driving
+
+lems associated with visual obstructions. Questions loading on Factor 5 dealt with problems
+associated with motion perception. Finally, Factor 6 was related to problems associated with
+distance acuity.
+Discriminant Analysis of Daily Visual Tasks
+
+Again, using USOFAP, a principal component
+analysis was performed using the Likert scale
+questions regarding visual experiences in driving
+as variables. The principal component analysis
+involved orthogonal varimax rotations followed
+by oblique promax rotations. Responses from
+only those participants who were current drivers
+were included in the analysis. Factor extraction
+was based on the results of a Scree test. The principal component analysis did not indicate the
+presence of any outliers, nor was there multicollinearity. A total of six factors were extracted
+with a simple structure of 61.1 with a .10 hyperplane. All missing values were handled by
+pairwise deletion.
+The correlation of factor scores with factors
+(Rfs) and the reliability of each factor appear
+in Table 2. The reliabilities produced for these
+factors ranged from .98 to .83 and showed less
+intercorrelation among scores than did the variables taken from the daily vision questionnaire.
+Variables that loaded .34 or higher on the factor
+pattern matrix were used to produce the six factors. Variables related to near vision at night
+loaded on Factor 1. Questions pertaining to peripheral vision loaded on Factor 2. Factor 3
+consisted of questions that related to problems
+associated with glare during night driving. Variables loading onto Factor 4 were related to prob-
+
+TABLE 2: Correlation of Factor Scores With Factors
+for Experiences in Driving Questions (Rfs)
+Factor Scores
+Factor
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+2
+3
+4
+5
+6
+
+.98
+.10
+.27
+.22
+.14
+.52
+
+.11
+.90
+.32
+.28
+.40
+.44
+
+.28
+.30
+.96
+.06
+.31
+.41
+
+.25
+.29
+.06
+.87
+.32
+.26
+
+.17
+.43
+.35
+.34
+.83
+.30
+
+.58
+.45
+.44
+.26
+.29
+.88
+
+Note. Scores on diagonal in italics represent the reliability of each
+factor.
+
+The factors produced from the daily visual
+task questions were used as predictors in a discriminant analysis in an attempt to examine any
+dimensions on which low-vision and nonimpaired older adults might differ. Of the original
+195 participants who responded to the daily visual task questionnaire, data from 2 were excluded from the discriminant analysis as a result of
+incomplete data, resulting in a total 193 cases.
+Data analysis resulted in the production of one
+statistically significant linear discriminant function (LDF), χ2(5, N = 129.00), p < .001, with
+a Wilks’s lambda of .50.
+As indicated by Table 3, all of the predictors
+were found to discriminate between low-vision
+and nonimpaired participants. Low-vision older
+adults generally experienced more difficulty
+with contrast, static and dynamic acuity, illumination, and peripheral vision than did nonimpaired older adults. The correlations between
+discriminating variables and the function, also
+located in Table 3, shows the degree to which
+each predictor correlated with the function. Although each predictor contributed significantly
+to the LDF, two of the correlations were very
+low (e.g., peripheral vision and contrast both at
+.24), suggesting a much lower contribution in
+comparison with the other predictors. Static
+acuity contributed the most to the LDF, with a
+correlation of .92. The pooled within-group correlation matrix also shows that some degree of
+intercorrelation existed among the predictors
+(see Table 4). Unfortunately, these matrix scores
+suggest that the contributions of some predictors
+overlapped. Further analyses suggested that static acuity was a mediating predictor for both dynamic acuity and illumination. Finally, the LDF
+correctly classified 83.42% of the participants.
+More specifically, 12.9% of the nonimpaired participants were misclassified as being low-vision,
+and 19.4% of the low-vision participants were
+misclassified as having no visual impairments.
+The patterns of the standardized canonical
+discriminant function coefficients (see Table 3),
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 6]
+474
+
+Fall 2005 – Human Factors
+
+TABLE 3: Summary of Discriminant Analysis for Daily Task Predictorsa
+
+Predictor Variable
+Static acuity
+Peripheral vision
+Dynamic acuity
+Illumination
+Contrast
+Constant
+
+Standardized
+Function
+Coefficients
+
+Unstandardized
+Function
+Coefficients
+
+Pooled Within-Group
+Correlation Between
+Variables and Functions
+
+Wilks’s
+Lambda
+
+1.39**
+0.21*
+–0.42**
+–0.33**
+0.02**
+
+1.96
+0.23
+–0.48
+–0.40
+0.03
+–0.01
+
+.92
+.24
+.44
+.43
+.24
+
+.55
+.95
+.84
+.84
+.81
+
+a 2
+
+χ (5, N = 193) = 129.00, p < .001, Wilks’s lambda = .50.
+
+*p < .005. **p < .001.
+
+ingly, Table 6 shows that only three of the six
+predictors contributed significantly to the LDF.
+Because near acuity, distance acuity, and physical obstruction all contributed significantly to
+the LDF, it is not surprising that they also had the
+highest correlations between the predictors and
+the function (see Table 7). The pooled within group correlation matrix (see Table 7) shows that
+all of the predictors had good internal consistency with little or no intercorrelation among them.
+Finally, the LDF correctly classified 67.96% of
+the participants. More specifically, 26.9% of the
+nonimpaired participants were misclassified as
+having low vision and 41.7% of the low-vision
+participants were misclassified as having no
+visual impairment. On closer inspection, the
+standardized canonical discriminant function coefficients (see Table 6), or standardized weights,
+indicated that near acuity, physical obstructions, and distance acuity were problems that
+contribute uniquely to the driving experiences
+of low-vision older adults.
+Specifically, nonimpaired drivers reported
+motion perception as being most troublesome
+to the driving task. However, it did not contribute significantly to the LDF. The results in Table 8 indicate that low-vision drivers reported
+
+or standardized weights, suggest that static acuity seemed to be the most significant problem
+experienced by the majority of low-vision older
+adults. Static acuity, more than any other predictor, uniquely distinguished the low-vision
+participants from the nonimpaired participants.
+Conversely, problems with dynamic acuity and
+illumination were uniquely representative of
+the visual problems experienced by the nonimpaired participants. The group centroids and
+the mean discriminant scores of each predictor
+(see Table 5) illustrate the significant differences between the low-vision and nonimpaired
+older adults, especially when comparing the
+groups on problems associated with static and
+dynamic acuity and illumination.
+Discriminant Analysis of Experiences in
+Driving
+The factors produced from the questions
+about experiences while driving were used as
+predictors in a discriminant analyses in an attempt to examine any dimensions on which low vision and nonimpaired older drivers might
+differ. The analysis resulted in one significant
+linear discriminant function, χ2(6, N = 21.71),
+p < .01, with a Wilks’s lambda of .80. Interest-
+
+TABLE 4: Pooled Within-Group Correlation Matrix for Daily Visual Task LDF
+Predictor
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Dynamic acuity
+Contrast
+Illumination
+Peripheral vision
+Static acuity
+
+1.00
+.71
+.68
+.36
+.72
+
+1.00
+.63
+.31
+.66
+
+1.00
+.48
+.68
+
+1.00
+.24
+
+1.00
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 7]
+VISION DIFFICULTIES OF OLDER DRIVERS
+
+475
+
+TABLE 5: Group Means and Standard Deviations for Daily Visual Tasks LDF
+Nonimpaired
+Predictors
+Contrast
+Dynamic acuity
+Illumination
+Peripheral vision
+Static acuity
+
+Low Vision
+
+M
+
+SD n(193)
+
+M
+
+SD n(193)
+
+–0.42
+–0.42
+–0.40
+–0.23
+–0.71
+
+0.74
+0.79
+0.82
+0.70
+0.69
+
+0.35
+0.40
+0.32
+0.18
+0.58
+
+0.85
+0.93
+0.86
+1.01
+0.72
+
+Note. Group centroids: low vision = .87, nonimpaired = 1.11.
+
+experiencing significantly more difficulty with
+near acuity, distance acuity, and physical obstruction and that nonimpaired drivers had more
+trouble with motion perception.
+DISCUSSION AND CONCLUSIONS
+Results indicated that regardless of visual status, participants in this study reported visual
+difficulties in five specific areas while performing daily tasks. These factors indicated problems
+related to static acuity, dynamic acuity, peripheral vision, illumination, and contrast. Participants
+indicated that they experienced problems in
+reading small print; bumping into doorways,
+walls, and other things; recognizing and reading
+signs; and adjusting from bright to dim light and
+seeing indoors when the lights are dim. These
+findings, along with those of Kosnik et al. (1988,
+1990) and Kline et al. (1992), suggest that both
+low-vision and nonimpaired older adults may
+experience problems related to contrast sensitivity, static and dynamic acuity, illumination, and
+
+peripheral vision simply because these problems
+are exacerbated by the aging process. If these
+findings are accurate, these problems will eventually affect the majority of older adults as they
+age, differing only in the degree of severity between low-vision and nonimpaired older adults.
+Although Kosnik et al. (1988) and Kline et al.
+(1992) did not specifically identify problems relating to static acuity and contrast sensitivity as
+being difficult for older adults, the variables that
+loaded on these factors in the present study were
+the same as variables that loaded on the factors
+that Kosnik et al. (1988) defined as “near acuity”
+and “clumsiness” (p. 64) and the factor that
+Kline et al. (1992) identified as “general vision
+problems associated with aging” (p. 31).
+The problems of contrast sensitivity, static and
+dynamic acuity, and illumination may be interrelated. Owsley, Sekuler, and Siemsen (1983) suggested that acuity levels have a significant effect
+on contrast sensitivity and that individuals with
+poorer acuities tend to be less sensitive to low contrast stimuli with high spatial frequencies.
+
+TABLE 6: Summary of Discriminant Analysis for Experiences in Driving Predictorsa
+
+Predictor Variable
+Near acuity
+Peripheral vision
+Glare
+Physical obstruction
+Motion perception
+Distance acuity
+Constant
+
+Standardized
+Function
+Coefficients
+
+Unstandardized
+Function
+Coefficients
+
+Pooled Within-Group
+Correlation Between
+Variables and Functions
+
+Wilks’s
+Lambda
+
+0.41**
+–0.22
+–0.20
+0.51*
+–0.54
+0.55**
+
+0.46
+–0.27
+0.21
+0.60
+–0.68
+0.69
+0.06
+
+.76
+.12
+.27
+.43
+–.09
+.71
+
+.87
+1.00
+.98
+.96
+1.00
+.89
+
+a 2
+
+χ (6, N = 103) = 21.71, p < .001, Wilks’s lambda = .50.
+
+*p < .05. **p < .001.
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 8]
+476
+
+Fall 2005 – Human Factors
+TABLE 7: Pooled Within-Group Correlation Matrix for Experiences in Driving
+Task LDF
+Predictor
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Distance acuity
+Glare
+Motion perception
+Near acuity
+Physical obstruction
+Peripheral vision
+
+1.00
+.47
+.33
+.53
+.26
+.47
+
+1.00
+.40
+.26
+–.01
+.36
+
+1.00
+.15
+.43
+.44
+
+1.00
+.22
+.12
+
+1.00
+.38
+
+1.00
+
+Illumination levels also affect contrast sensitivity.
+Owsley et al. (1983) asserted that reduced retinal illuminance, caused by a decreased pupil
+diameter or an opaque lens, also affects contrast
+sensitivity by selectively depressing sensitivity
+for higher frequencies. In light of the findings of
+this study, it seems reasonable to assume that
+the reported difficulties associated with acuity
+and contrast are related to the aging process and
+that reduced illumination (environmental and
+physiological in nature) serves only to exacerbate the problems.
+Results from the factor analysis performed on
+the experiences while driving questions revealed
+that both low-vision and nonimpaired drivers reported visual difficulties in six areas: near acuity
+(with emphasis on night driving), peripheral vision, glare (with emphasis on night driving), visual obstruction, motion perception, and distance
+acuity. Examples of the types of driving-related
+tasks that the participants listed as troublesome
+include staying in their lane, seeing over the steering wheel or dashboard, and judging their speed
+without looking at the speedometer. Participants
+also noted that they often had trouble seeing the
+taillights of other vehicles, seeing through dirty
+
+windshields, keeping the instrument panel in focus, merging into traffic, and seeing at night because of glare from oncoming headlights.
+Findings from this study were similar to those
+reported by Kline et al. (1992), who reported five
+specific age-related visual problems that affect
+the driving abilities of older adults. Interestingly,
+in the Kline et al. (1992) study, it can be noted
+that no factors relating to night driving or near
+acuity were identified; however, variables relating to night driving and near acuity both loaded
+on a factor that they referred to as an “age factor” (p. 31).
+Do low-vision and nonimpaired adults differ
+in the magnitude or type of vision problems they
+experience when performing daily tasks? Results
+indicated that all five factors identified from the
+daily vision questions could be used in a linear
+discriminant function to differentiate low-vision
+and nonimpaired older adults. Low-vision adults
+reported experiencing more difficulties with tasks
+relating to static acuity. Nonimpaired older adults
+reported experiencing more difficulty with dynamic acuity and illumination. Therefore, both
+low-vision and nonimpaired older adults find
+tasks relating to static acuity, illumination, and
+
+TABLE 8: Group Means and Standard Deviations for Experiences in Driving LDF
+Nonimpaired
+Predictors
+Motion perception
+Distance acuity
+Glare
+Near acuity
+Peripheral vision
+Physical obstruction
+
+Low Vision
+
+M
+
+SD n(103)
+
+M
+
+SD n(103)
+
+0.00
+–0.30
+–0.15
+–0.30
+–0.10
+–0.12
+
+0.70
+0.76
+0.83
+0.65
+0.82
+0.76
+
+–0.07
+0.30
+0.11
+0.40
+0.00
+0.25
+
+0.94
+0.87
+1.12
+1.23
+0.79
+1.00
+
+Note. Group centroids: low vision = 0.35; nonimpaired = 0.67.
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 9]
+VISION DIFFICULTIES OF OLDER DRIVERS
+dynamic acuity as troublesome. However, low vision older adults report experiencing unique
+difficulties with static acuity related tasks. Conversely, nonimpaired older adults find tasks
+related to illumination and dynamic acuity as
+uniquely troublesome. The effectiveness of the
+linear discriminant function was demonstrated
+by the fact that 80.6% of the low-vision participants and 87.1% of the nonimpaired participants
+were correctly classified into the appropriate
+groups.
+The discriminant analysis performed on the
+questions about experiences while driving indicated that the factors of near acuity, distant
+acuity, and physical obstruction could be used
+in a LDF to differentiate low-vision from nonimpaired older adult drivers. Low-vision drivers
+reported greater difficulty performing driving
+tasks that involved near acuity, distance acuity,
+and physical obstruction. These difficulties included keeping the instrument panel in focus at
+night, seeing the taillights of oncoming vehicles, experiencing difficulty because of glare on
+the windshield, and difficulty seeing past the
+steering wheel or dashboard. Nonimpaired adult
+drivers reported experiencing more difficulty
+with tasks related to motion perception, such as
+judging their own speed without looking at the
+speedometer. This particular finding is interesting because the factor of motion perception did
+not contribute significantly to the linear discriminant function. However, nonimpaired adults
+distinctly reported motion perception tasks as
+troublesome for them while driving. These individuals may have developed coping mechanisms
+that allow them to effectively perform these
+tasks, although they still deem them troublesome. Unfortunately, the LDF produced from
+these factors was not as effective in distinguishing between the groups as the LDF produced
+by the daily task questions. The function correctly classified 73.1% of the nonimpaired drivers, but only 58.3% of the low-vision drivers
+were correctly identified.
+Finally, it would be logical to assume that
+low-vision and nonimpaired older adults use different compensatory skills when driving to deal
+with the uniquely different visual problems that
+they experience. However, the two groups differed only in the amount of time that they spent
+driving at night. Low-vision older adults spent,
+
+477
+on average, 0% to 5% of their total driving time
+at night; conversely, nonimpaired adults spent
+between 6% and 10% of their total driving
+time at night. The two groups did not differ significantly in the amount of time driving in rush
+hour traffic, the total number of miles driven, or
+the type of environments in which they chose to
+drive (e.g., driving in rural locations vs. highway driving).
+PRACTICAL IMPLICATIONS
+These data may prove beneficial to a variety
+of groups interested in issues related to aging
+and driving. For example, results indicated that
+nonimpaired drivers experienced difficulty judging their speed without looking at the speedometer. This could be addressed by providing
+drivers with the option of having an audible
+speedometer that provides updates about one’s
+speed by simply pressing or programming a button on the steering wheel.
+Designers may also consider providing low vision drivers with the option of purchasing an
+instrument panel that magnifies the instrument
+readings, thus enlarging the displayed readings
+for better viewing. The combined alterations
+might assist low-vision drivers to better view
+their display panels when driving at night or during inclement conditions.
+Automobile designers have already attempted to address the issue of physical obstructions
+by making automobiles that have tilting steering
+wheels. However, some participants in the study
+complained that the posts that hold the windshield in place also cause considerable obstruction of their view. Engineers may consider ways
+to reduce the size of the posts or to move them
+farther to the sides of the vehicles, out of the peripheral field of drivers, without compromising
+the integrity of the automobile. Finally, larger
+side mirrors may assist low-vision adult drivers
+with staying in their lane.
+To address the issue of distance acuity, which
+was identified as problematic by many participants in this study, auto designers may consider
+coating the surface of windshields with a substance that better repels dirt, haze, and raindrops,
+thus enhancing the driver’s visual abilities. A
+commercial product that performs this function is currently available; however, it requires
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+
+
+[page 10]
+478
+
+Fall 2005 – Human Factors
+
+continuous applications, a task that many older
+adult drivers may not remember to do.
+Additionally, a sensor that detects the flash
+of brake lights from preceding cars and then
+sounds an alarm when one gets too close, similar to the rear-mounted sensors currently in some
+vehicles, may assist some older drivers who have
+difficulty seeing the brake lights of other cars.
+Highway advisory boards may also find these
+data useful when planning and designing transportation infrastructures for an aging population. Distance acuity involves the ability to read
+street signs. Participants complained that they
+often fail to turn onto streets because they miss
+the street signs. Their inability to read the street
+signs may also be attributable to the size of
+the signs, the type and size of letters used on the
+signs, or the contrast between the letters and
+the sign itself. Additional research in these
+areas may assist in the design of more effective
+signs for use by older adult drivers.
+Although the questions seem simple, the answers that may prove valuable in assisting automobile designers, highway advisory boards,
+and engineers in preparing for an aging population are not simple. The answers can be found
+only through continued research into these areas.
+ACKNOWLEDGMENTS
+The authors would like to thank The Vision
+Rehabilitation Centers in Wichita, Kansas, and
+St. Louis, Missouri. Special thanks to R. Sekuler,
+Ph.D., and D. W. Kline, Ph.D., for the use of
+the Survey of Vision Instrument.
+REFERENCES
+Ball, K., Owsley, C., Sloane, M. E., Roenker, D. L., & Bruni, J. R.
+(1993). Visual attention problems as a predictor of vehicle
+crashes in older drivers. Investigative Ophthalmology and
+Visual Science, 34, 3110–3123.
+Ball, K., Owsley, C., Stalvey, B., Roenker, D. L., Sloane, M. E., &
+Graves, M. (1998). Driving avoidance and functional impairment in older drivers. Accident Analysis and Prevention, 30,
+313–322.
+
+Ball, K., & Rebok, G. (1994). Evaluating the driving ability of
+older adults. Journal of Applied Gerontology, 13, 20–38.
+Burdsal, C. (1981). User oriented factor analytical package, Version 3. Wichita, KS: Wichita State University.
+Charman, W. N. (1985). Visual standards for driving. Ophthalmic
+and Physiological Optics: The Journal of the British College of
+Ophthalmic Opticians (Optometrists), 5, 211–220.
+Federal Highway Administration. (1998). Distribution of licensed
+drivers – 1997. Retrieved July 21, 2005, from http://www.
+fhwa.dot.gov/ohim/hs97/dl20.pdf
+Fishbaugh, J. (1995). Look who’s driving now – Visual standards
+for driver licensing in the United States. Insight, 4, 11–20.
+Fox, M. D. (1988). Elderly drivers’ perceptions of their driving
+abilities compared to their functional visual perception skills and
+their actual driving performance. Physical and Occupational
+Therapy in Geriatrics, 7, 13–49.
+Johnson, C. A., & Keltner, J. L. (1983). Incidence of visual field
+loss in 20,000 eyes and its relationship to driving performance.
+Archives of Ophthalmology, 101, 371–375.
+Kansas Driving Handbook. (1999). Topeka, KS: Kansas Department of Revenue, Driver’s License Examining Bureau.
+Keltner, J. L., & Johnson, C. A. (1987). Visual function, driving
+safety, and the elderly. Ophthalmology, 94, 1180–1188.
+Kline, D. W., Kline, T. J. B., Fozard, J. L., Kosnik, W., Schieber, F., &
+Sekuler, R. (1992). Vision, aging, and driving: The problems of
+older drivers. Journal of Gerontology: Psychological Sciences,
+47, 27–34.
+Kosnik, W. D., Sekuler, R., & Kline, D. (1990). Self-reported visual
+problems of older drivers. Human Factors, 32, 597–608.
+Kosnik, W., Winslow, L., Kline, D., Rasinski, K., & Sekuler, R.
+(1988). Visual changes in daily life throughout adulthood.
+Journal of Gerontology: Psychological Sciences, 43, 63–70.
+Marottoli, R. A., Ostfeld, A. M., Merrill, S. S., Perlman, G. D., Foley,
+D. J., & Conney, L. M., Jr. (1993). Driving cessation and changes
+in mileage driven among elderly individuals. Journal of Gerontology: Social Sciences, 48, S255–S260.
+Orr, A. (1991). The psychosocial aspects of aging and vision loss.
+Journal of Gerontological Social Work, 17, 1–14.
+Owsley, C., Ball, K., McGwin, G., Jr., Sloane, M. E., Roenker, D. L.,
+White, M. F., et al. (1998). Visual processing impairment and
+risk of motor vehicle crash among older adults. Journal of the
+American Medical Association, 279, 1083–1088.
+Owsley, C., Sekuler, R., & Siemsen, D. (1983). Contrast sensitivity
+throughout adulthood. Vision Research, 23, 689–699.
+
+Loretta Neal McGregor is the chairperson of the
+Department of Psychology and Counseling and an
+associate professor at Arkansas State University in
+Jonesboro, Arkansas. She obtained her Ph.D. in human factors psychology from Wichita State University in 2000.
+Alex Chaparro is an associate professor of psychology at Wichita State University. He obtained his Ph.D.
+in experimental psychology from Texas Tech University, Lubbock, Texas, in 1990.
+Date received: September 11, 2003
+Date accepted: October 12, 2004
+
+Downloaded from hfs.sagepub.com at NORTHERN KENTUCKY UNIV on June 4, 2016
+

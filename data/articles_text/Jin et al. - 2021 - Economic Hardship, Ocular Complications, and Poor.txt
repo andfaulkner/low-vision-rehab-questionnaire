@@ -1,0 +1,1917 @@
+[page 1]
+Ocular Immunology and Inflammation
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/ioii20
+
+Economic Hardship, Ocular Complications, and
+Poor Self-reported Visual Function are Predictors
+of Mental Problems in Patients with Uveitis
+Yingying Jin , Dan Lin , Ma-Li Dai , Ruru Liu , Mengxi Jiang , Jingwei Zheng , YiMai Yang , Xue-Fei Zhu , Yu-Lin Wang , Xiu-Feng Huang & Yuqin Wang
+To cite this article: Yingying Jin , Dan Lin , Ma-Li Dai , Ruru Liu , Mengxi Jiang , Jingwei
+Zheng , Yi-Mai Yang , Xue-Fei Zhu , Yu-Lin Wang , Xiu-Feng Huang & Yuqin Wang (2020):
+Economic Hardship, Ocular Complications, and Poor Self-reported Visual Function are Predictors
+of Mental Problems in Patients with Uveitis, Ocular Immunology and Inflammation, DOI:
+10.1080/09273948.2020.1770297
+To link to this article: https://doi.org/10.1080/09273948.2020.1770297
+
+View supplementary material
+
+Published online: 13 Jul 2020.
+
+Submit your article to this journal
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ioii20
+
+
+[page 2]
+OCULAR IMMUNOLOGY AND INFLAMMATION
+https://doi.org/10.1080/09273948.2020.1770297
+
+ORIGINAL ARTICLE
+
+Economic Hardship, Ocular Complications, and Poor Self-reported Visual Function
+are Predictors of Mental Problems in Patients with Uveitis
+Yingying Jin, MMeda, Dan Lin, MMeda, Ma-Li Dai, MMeda, Ruru Liu, MBBSa, Mengxi Jiang, MBBSa, Jingwei Zheng,
+MMed a, Yi-Mai Yang, MBBSb, Xue-Fei Zhu, MMedc, Yu-Lin Wang, MMedd, Xiu-Feng Huang, PhDe, and Yuqin Wang,
+MDa
+a
+State Key Laboratory Cultivation Base and Key Laboratory of Vision Science, Ministry of Health, The Eye Hospital of Wenzhou Medical University,
+Wenzhou, China; bWenzhou Physical Examination Center, Wenzhou People’s Hospital, Wenzhou, China; cThe Department of Ophthalmology, The
+First Affiliated Hospital of Soochow University, Soochow, China; dThe Department of Ophthalmology, The First Affiliated Hospital of Nanchang
+University, Nanchang, China; eTranslational Genomics Group, Institute of Health and Biomedical Innovation, Queensland University of Technology
+at Translational Research Institute, Princess Alexandra Hospital, Brisbane, Australia
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+Purpose: To characterize the quality of life and mental health status of patients with uveitis and
+investigate predictors of psychological problems.
+Methods: A total of 245 patients and 105 controls were enrolled in this cross-sectional study.
+Quality of life, psychological status, socio-demographic and clinical data were obtained from
+questionnaires and medical records. Multivariate regression analyses and Receiver Operating
+Characteristic (ROC) were applied to obtain the model predicting psychological problems of
+patients.
+Results: Of 245 patients, 16.7% and 26.5% (P < .0001) screened positive for anxiety and depression,
+respectively. The model predicting anxiety was comprised of low annual household income and poor
+self-reported visual function (P = .029, P < .0001, respectively), with an AUC of ROC of 0.744. The model
+predicting depression was comprised of poor self-reported visual function and ocular complications
+(P < .0001, P = .012, respectively), with an AUC of 0.78.
+Conclusions: Economic hardship, ocular complications, and poor self-reported visual function are predictors of mental problems in patients with uveitis.
+
+Received 30 November 2019
+Revised 12 May 2020
+Accepted 12 May 2020
+
+Uveitis is a potentially blinding inflammatory disease causing
+5–10% of visual impairment worldwide1 with up to 35% of
+patients with uveitis suffering from severe vision loss, including legal blindness.2,3 The prevalence of uveitis in the Chinese
+population was about 1.52‰, the blind rate is about 0.86‰,4
+and is on the rise.5 As an inflammatory disease, uveitis can
+also lead to psychological problems as well,2,6,7 such as anxiety
+and depression.8,9
+Based on the bio-psycho-social medical model, the connections between psychological, physical, and social factors
+must be considered when assessing their influence on
+patients. For example, more negative socio-demographic
+characteristics may increase the occurrence of psychological
+problems10,11 and clinical features, like poor visual function,
+are also risk factors for psychological problems.12 Studies have
+shown psychological problems can affect patient treatment
+compliance and ultimately affect the efficacy of
+treatment.13,14 Early detection of and timely intervention for
+psychological problems may prevent the occurrence of
+adverse events and improve patient prognosis. In addition,
+prediction models for psychological problems may provide
+clinicians with some guidance in terms of drug selection,
+surgical timing, disease education, and clinical care, as well
+
+KEYWORDS
+
+Quality of life; mental
+health; depression; anxiety;
+uveitis; predictors
+
+as prompt the development of medical security for patients
+with uveitis.
+With the help of self-administered questionnaires, patients
+with retinitis pigmentosa,15 macular degeneration,16and newly
+diagnosed glaucoma17,18 were found to display significant
+depressive symptoms and poor self-reported health and
+vision. At present, while there have been studies abroad
+focusing on the mental health and quality of life of patients
+with uveitis,19–21 there has been almost no domestic research.
+The purpose of this study was to assess the mental health
+status and vision- and health-related quality of life of patients
+with uveitis in China and identify risk factors related to
+mental health. To our knowledge, this study is the first to
+focus on predictors of psychological problems in Chinese
+patients with uveitis.
+
+Materials and Methods
+Study Subjects
+A cross-sectional study design was employed. The enrolled
+patients were treated at the Uveitis Clinic at the Eye Hospital
+of Wenzhou Medical University in China between July 2018
+and February 2019. The eligible individuals were Chinese-
+
+CONTACT Yuqin Wang
+yqwang57@163.com
+Division of Uveitis, The Eye Hospital of Wenzhou Medical University, Wenzhou 325027, China
+Supplemental data for this article can be accessed on the publisher’s website.
+© 2020 Taylor & Francis Group, LLC
+
+
+[page 3]
+2
+
+Y. JIN ET AL.
+
+speaking patients, who were at least 18 years old with a well defined diagnosis of infectious or noninfectious uveitis.
+Patients diagnosed with severe and active systemic disease
+unrelated to uveitis were not included in this study. In addition, patients with a clearly diagnosed history of mental and
+neurological diseases, alcohol dependence, drug dependence
+unrelated to the disease, or hearing impairment or who
+refused to participate or did not cooperate were not included
+in this study. Participants who had no prior history of eye
+disease that affected vision and within the patient distribution
+in age, sex, income, and education were enrolled in the reference group.
+Based on experience, the sample size for the multivariate
+logistics regression analysis should be 10–20-fold that of the
+research factors. Since there were approximately 10 relevant
+factors in our experimental group, the sample size of the
+experimental group was set as 200. Considering the integrity
+of the data, 240 patients were expected to be enrolled in the
+experimental group. In addition, about 100 eligible people
+with no history of eye disease were expected to be enrolled
+in the control group. This study was approved by the review
+committee of Wenzhou Medical University and is in line with
+the Helsinki declaration.
+
+of changing immunomodulatory therapy (IMT), current
+ocular comorbidities, previous and current topical injection
+therapy, and previous ocular surgery. The BCVA was
+recorded individually for each eye and then converted to
+the logarithm of the minimal angle of resolution (logMAR)
+scale. Low vision based on finger counting, hand motion,
+light perception, and no light perception was recorded as
+a logMAR 1.7, 1.8, 1.9, and 2.0, respectively.22 The eyes of
+each patient were designated as better or worse according to
+their logMAR visual acuity score. The course, anatomic
+location of inflammation, and the grading of anterior chamber cells were recorded as outlined by the Standardization of
+Uveitis Nomenclature criteria.23 Active uveitis was defined
+as active inflammatory; retinal vasculitis, retinitis, choroiditis, cystoid macular edema, or papillitis9; vitreous haze grade
+of 1+ or higher9,23,24; or anterior chamber cell grade of 1+ or
+higher.9,23 As for Posner–Schlossman syndrome, the presence of transient episode of elevated intraocular pressure
+or mild anterior chamber inflammation can be defined as
+activite uveitis.23,25 Patients with Fuchs’ syndrome were classified as having active uveitis because they had chronic
+anterior and vitreous inflammation.
+Quality of Life and Mental Health
+
+Design and Procedures
+To ensure the reliability and professionalism of diagnoses and
+avoid any possible influence on the reliability of the experimental data due to patient doubt, uveitis specialists with
+medical qualifications were required to provide treatment to
+the patients.
+Before data collection, the purpose of the study and ethical questions was clearly explained to the subjects and questions related to the study were answered. After obtaining
+trust and informed consent from the subjects, the collection
+of relevant data formally began. Subjects were asked to
+complete three self-administered questionnaires related to
+the quality of life (QOL) and mental health, as well as
+a questionnaire on their demographic characteristics by
+themselves unless they were illiterate or unable to do so
+due to poor vision. In these cases, a trained interviewer
+read and completed the questionnaires based on patient
+answers. After completion of the questionnaires, the patients
+were given a physical ophthalmic examination and the
+necessary clinical and auxiliary examinations required by
+the doctor according to their own conditions.
+Socio-Demographics and Clinical Characteristics
+The socio-demographic characteristics of the subjects collected with the questionnaires included gender, age, nationality, education, occupation, and annual household income.
+The clinical characteristics of the patients were collected
+from medical records and included laterality of disease,
+current best-corrected visual acuity (BCVA), duration of
+disease, course of disease (acute, recurrent, or chronic),
+diagnosis of diseases, anatomic location of inflammation,
+uveitis-associated systemic inflammatory diseases, current
+activity of disease, current and previous treatments, history
+
+Vision-related quality of life (VRQOL), health-related quality
+of life (HRQOL), and mental health data were collected
+through
+self-administered
+questionnaires,
+including
+a Chinese version of the 25-item National Eye Institute
+Visual Function Questionnaire (CHI-VFQ-25), a Chinese version of the 36-item Short Form Health Survey (CHI-SF-36),
+and a Chinese version of the Hospital Anxiety and Depression
+Scale (CHI-HADS). The cutoff values for the HADS-Anxiety
+(HADS-A) and HADS-Depression (HADS-D), which were
+used to evaluate the positive tendencies for anxiety and
+depression in the subjects, were set as 8. Please see supplementary information for a detailed description of the
+questionnaires.
+Statistical Analyses
+Statistical analyses were conducted using SPSS statistical software (SPSS Inc, version 14.0, Chicago, Illinois). Wilcoxon
+rank-sum tests were conducted to compare the scores of self administered questionnaires between patients and controls.
+The Chi-square test was conducted to determine differences
+in categorical variables between the anxious and not anxious
+groups, as well as between the depressed and not depressed
+groups. Continuous variables were analyzed using Wilcoxon
+rank-sum tests or Student’s t-tests. Associations between
+HADS-A or HADS-D scores and VFQ-25 composite scores
+were measured using Spearman correlation coefficient.
+Univariate analyses were conducted to compare sociodemographic and clinical characteristics between patients with and
+without a positive screen for anxiety or depression. All tests
+described above were two-sided and P-value less than 0.05
+was set as the significant level. A forward stepwise multivariate regression model was used to determine significant
+predictors for anxiety and depression with an entry P-value
+
+
+[page 4]
+OCULAR IMMUNOLOGY AND INFLAMMATION
+
+less than 0.10 and a removal P-value more than or equal to
+0.15. Additionally, receiver operating characteristic (ROC)
+curves and area under the curve (AUC) were performed to
+determine the best model predicting anxiety and depression.
+
+Results
+QOL and Mental Health Status of Uveitis Patients
+A total of 260 patients and 115 reference subjects with similar
+age, sex, income, and education distributions were asked to
+participate in this study. Of these, 245 patients (94.23%) and
+105 reference subjects (91.3%) completely answered the questionnaires. Scores from the patient and reference groups for
+the three scales are presented in Supplementary Table S1. The
+patients with uveitis scored significantly lower on the CHIVFQ-25 and CHI-SF-36 for nearly all dimensions. For the
+HADS-D subscale, 65 (26.5%) of the patients with uveitis had
+scores of at least 8 compared to the only 10 (9.5%) in the
+reference group, and the patients with uveitis scored significantly higher than the reference group (P < .0001).
+Socio-Demographics and Clinical Data
+Based on 8 as the cutoff value of HADS to evaluate the
+positive tendency for anxiety and depression in the subjects,
+41 (16.7%) patients were considered “anxious” and 204
+(83.3%) were considered “not anxious.” Similarly, 65 (26.5%)
+patients were considered “depressed,” while 180 (73.5%)
+patients were considered “not depressed” (Table 1).
+
+3
+
+Overall, 49% of the patients were men and the mean age of
+the patients was 42 years. The anxious and depressed groups
+had a higher percentage of people with lower education levels
+than the not anxious and not depressed groups (P = .049 and
+P = .005, respectively). Compared with 12 (5.9%) participants
+in the not anxious group, 8 participants (19.5%) in the
+anxious group discontinued work due to uveitis (P = .009).
+The percentage of patients with an annual household income
+lower than 100,000￥ was significantly greater in the anxious
+and depressed groups than in the not anxious and not
+depressed groups (78.0% vs 53.9%, P = .004 and 72.3% vs
+52.8%, P = .006, respectively).
+Systematic prednisolone was administered to 26.5% of
+patients. To control the disease, 21.2% of patients were taking
+IMT. Additionally, 15 (23.1%) patients in the depressed group
+and 22 (12.2%) in the not depressed group had a history of
+changing their IMT due to an intolerance to the medications
+or inability to control inflammation (P = .036) (Table 2).
+At the time of the survey, 41.6% of the patients had
+suffered from ocular complications caused by uveitis with
+the majority of cases experiencing complicated cataract, secondary glaucoma, and macular edema (20.8%, 12.7%, and
+10.2%, respectively). Notably, there were significantly
+(P < .0001) more patients with complications in the depressed
+group (39, 60%) than in the not depressed group (63, 35%).
+The incidence of complicated cataracts and macular edema
+was also higher (30.8 vs 17.2%, P = .021 and 16.9 vs 7.8%,
+P = .037). Furthermore, the incidences of secondary glaucoma
+in the anxious and depressed groups were significantly higher
+than in the reference group (24.4 vs 10.3%, P = .013 and 21.5
+
+Table 1. Socio-demographic characteristics of 245 patients with uveitis.
+Patients with uveitis grouped according to HADS-A
+scorea
+Total
+(N = 245)
+median (IQR)
+mean (SD)
+n (%)
+
+Anxious
+(N = 41)
+median (IQR)
+mean (SD)
+n (%)
+
+Not anxious
+(N = 204)
+median (IQR)
+mean (SD)
+n (%)
+
+Male gender, (%)
+120 (49.0%)
+Age (years), mean (SD)
+42 (13)
+Nationality, (%)
+Han
+240 (98%)
+Bouyei
+1 (0.4%)
+Yi
+1 (0.4%)
+She
+2 (0.8%)
+Hui
+1 (0.4%)
+Educational level, (%)
+Primary school or less
+59 (24.1%)
+Secondary school to high school
+123 (50.2%)
+Bachelor’s degree and higher
+63 (25.7%)
+Occupation, (%)
+Discontinued work due to uveitis
+20 (8.2%)
+Housewife
+33 (13.5%)
+Individual household
+58 (23.7%)
+Farmer
+5 (2.0%)
+Office worker
+89 (36.3%)
+Student
+10 (4.1%)
+Retiree
+17 (6.9%)
+Other
+13 (5.3%)
+Annual household income, (%)
+≤100000
+142 (58.0%)
+>100000
+103 (42.0%)
+
+23 (56.1%)
+43 (12)
+
+97 (47.5%)
+42 (13)
+
+40 (97.6%)
+0 (0%)
+1 (2.4%)
+0 (0%)
+0 (0%)
+
+200 (98.0%)
+1 (0.5%)
+0 (0%)
+2 (1%)
+1 (0.5%)
+
+16 (39.0%)
+17 (41.5%)
+8 (19.5%)
+
+43 (21.1%)
+106 (52.0%)
+55 (27.0%)
+
+8 (19.5%)
+4 (9.8%)
+12 (29.3%)
+1 (2.4%)
+13 (31.7%)
+0 (0%)
+1 (2.4%)
+2 (4.9%)
+
+12 (5.9%)
+29 (14.2%)
+46 (22.5%)
+4 (2.0%)
+76 (37.3%)
+10 (4.9%)
+16 (7.8%)
+11 (5.4%)
+
+32 (78.0%)
+9 (22.0%)
+
+110 (53.9%)
+94 (46.1%)
+
+Variable
+
+P valueb
+.318
+.395
+.440
+
+Patients with uveitis grouped according to HADS-D
+scorea
+Depressed
+(N = 65)
+median (IQR)
+mean (SD)
+n (%)
+
+Not depressed
+(N = 180)
+median (IQR)
+mean (SD)
+n (%)
+
+31 (47.7%)
+46 (14)
+
+89 (49.4%)
+41 (13)
+
+64 (98.5%)
+1 (1.5%)
+0 (0%)
+0 (0%)
+0 (0%)
+
+176 (97.8%)
+0 (0%)
+1 (0.6%)
+2 (1.1%)
+1 (0.6%)
+
+25 (38.5%)
+29 (44.6%)
+11 (16.9%)
+
+34 (18.9%)
+94 (52.2%)
+52 (28.9%)
+
+9 (13.8%)
+7 (10.8%)
+15 (23.1%)
+2 (3.1%)
+20 (30.8%)
+0 (0%)
+8 (12.3%)
+4 (6.2%)
+
+11 (6.1%)
+26 (14.4%)
+43 (23.9%)
+3 (1.7%)
+69 (38.3%)
+10 (5.6%)
+9 (5.0%)
+9 (5.0%)
+
+47 (72.3%)
+18 (27.7%)
+
+95 (52.8%)
+85 (47.2%)
+
+.049
+
+.009
+
+P valueb
+.809
+.453 c
+.633
+
+.005
+
+.004
+
+.051
+
+.006
+
+Chinese version of the Hospital Anxiety and Depression Scale: patients in the anxious and depressed group scored ≥8 and patients in the not anxious and not
+depressed group scored <8.
+Analyzed using a two-sided Chi-square test at a confidence level of 95%.
+c
+Analyzed using a two-sided t-test at a confidence level of 95%.
+a
+
+b
+
+
+[page 5]
+4
+
+Y. JIN ET AL.
+
+vs 9.4%, P = .012, respectively). The median (IQR) number of
+periocular or intraocular injections in patients in the
+depressed and not depressed groups were 1 (0–3) and 0
+(0–2), respectively (P = .005).
+The logMAR vision scores in both the better and worse eye
+in the anxious and depressed groups were significantly worse
+than in the not anxious and not depressed groups (Table 2).
+In addition, nearly all the subscale and VFQ-25 composite
+scores were significantly lower in the anxious and depressed
+groups (Supplementary Table S2). There was a correlation
+between the HADS-A scores and VFQ composite scores
+(Spearman correlation of −0.367, P < .0001; Figure 1a) and
+between the HADS-D scores and VFQ composite scores
+(Spearman correlation of −0.482, P < .0001; Figure 1b).
+The QOL of uveitis-related conditions was investigated.
+Sjögren syndrome associated uveitis and Fuchs’ recorded
+best VRQOL, while sympathetic ophthalmia and Behcet’s
+disease (BD) recorded worst VRQOL (Supplementary Table
+S3). Fuchs’, sarcoidosis, and Possner–Schlossman syndrome
+(PSS) recorded best physical HRQOL, while sympathetic
+ophthalmia, Vogt–Koyanagi–Harada syndrome, and BD
+recorded worst physical HRQOL. Furthermore, Fuchs’, HLAB27-related acute anterior uveitis, and PSS recorded best
+mental HRQOL, while sarcoidosis, sympathetic ophthalmia,
+and BD recorded worst mental HRQOL.
+Univariate Analysis
+A correlation matrix involving all variables predicting positive-HADA and positive-HADD was developed using univariate analysis (Table 3). Patients who discontinued work due to
+uveitis had a greater probability of being anxious or depressed
+(P = .006 and P = .057, respectively). By contrast, a higher
+education level or annual household income was protective
+against anxiety (P = .037 and P = .006, respectively) and
+depression (P = .002 and P = .007, respectively). In terms of
+the clinical traits, patients with worse logMAR vision in either
+the better and worse-seeing eye were significantly more likely
+to be anxious and depressed. Ocular complication was also
+a risk factor for depression (OR = 2.786, 95% CI 1.555–4.991,
+P = .001), among which complicated cataracts (P = .023),
+secondary glaucoma (P = .014), and macular edema
+(P = .041) significantly increased the incidence of depression.
+There was also a significant correlation between secondary
+glaucoma and anxiety (P = .016). In addition, patients who
+were current biologic agent users, IMT recipients, ever changed IMT regimens, or treated with frequent intraocular or
+periocular injections were significantly more likely to be
+depressed (P = .059, P = .068, P = .039, and P = .003, respectively). Notably, a higher VFQ composite score appeared
+protective against anxiety (OR = 0.954, 95% CI 0.953–0.975,
+P < .0001) and depression (OR = 0.94 95% CI 0.92–0.961,
+P < .0001).
+Multivariate Analysis
+Based on univariate analysis (Table 3), models were obtained by
+forward stepwise multiple regression analysis (Table 4). A higher
+annual household income or VFQ-25 composite score was
+
+protective against anxiety, while a poor BCVA in the better seeing eye, discontinuing work due to uveitis, and uveitis associated secondary glaucoma significantly increased the risk
+of anxiety. Current treatment with systemic biological agents, the
+presence of ocular complications, such as secondary glaucoma
+and complicated cataracts, and receiving frequent periocular or
+intraocular injections significantly increased the risk of depression. Higher socio-demographic characteristics, such as a higher
+educational level or annual household income, and higher VFQ25 composite score were protective against depression. As shown
+in the Model HADS-A 3 and Model HADS-D 3, the VFQ-25
+composite score was more predictive of anxiety and depression
+than BCVA, as the final models (Model HADS-A 3) comprised
+of the annual household income and VFQ-25 composite score
+explained nearly 74.4% of the variation in the HADS-A
+(OR = 0.398, 95% CI 0.174–0.911, P = .029 and OR = 0.958,
+95% CI 0.938–0.978, P < .0001, respectively). The final model
+(Model HADS-D 3) comprised of ocular comorbidities and
+VFQ-25 composite score explained nearly 78.0% of the variation
+in HADS-D (OR = 2.259, 95% CI 1.2–4.252, P = .012 and
+OR = 0.943 95% CI 0.922–0.964, P < .0001, respectively).
+These values were much higher than those derived from other
+models (Figure 2).
+
+Discussion
+Compared with the control group, the QOL and mental
+health of patients with uveitis were significantly worse. Poor
+socio-demographic status, ocular complications, and poor
+self-reported visual function were predictors of mental health
+in patients with uveitis. VFQ-25 composite score was a more
+prominent predictor of anxiety and depression than BCVA.
+The best model consisted of low annual household income
+and poor self-reported visual function and accounted for
+74.4% of the variation in HADS-A. The best model consisted
+of poor self-reported visual function and ocular complications
+and accounted for 78.0% of the variation in HADS-D. Patients
+with uveitis and psychological distress identified by these
+predictive indicators and models need to be included in
+routine uveitis clinical evaluations, as well as routine psychological clinical evaluations, to prevent adverse events and
+improve patient treatment compliance. This study emphasizes
+the need for attention toward the psychological problems and
+disease education of patients and suggests relevant departments to promote the improvement of the medical security
+system for patients with uveitis.
+In this study, 26.5% of the uveitis group screened positive
+for depression based on the HADS, which is significantly
+higher than 9.5% in the reference group. This result is consistent with previous reports.2,6 However, the incidence of
+depression in our patients was relatively low, which may be
+affected by different diseases and populations. Reasonable
+explanations for the high incidence of depression in patients
+with uveitis are the presence of chronic inflammation and
+cytokine dysregulation.26,27 When the body experiences peripheral inflammation, the innate immune system produces
+inflammatory cytokines, including interleukin (IL)-1α, IL-1β,
+IL-6, and tumor necrosis factor-α, that can cross the blood–
+brain barrier and cause disease-associated issues, including
+
+
+[page 6]
+OCULAR IMMUNOLOGY AND INFLAMMATION
+
+5
+
+Table 2. Comorbidity and clinical characteristics of 245 patients with uveitis.
+Patients with uveitis grouped
+according to HADS-A
+scorea
+
+Variable
+Bilateral disease, (%)
+Median logMAR BCVA c in better-seeing eye, (IQR)
+Median logMAR BCVA c in worse-seeing eye, (IQR)
+Median duration (months), (IQR)
+Uveitis frequency, (%)
+Onset
+Recurrent
+Location of inflammation, (%)
+Anterior
+Intermediate
+Posterior
+Panuveitis
+Corneal uveitis or scleral uveitis
+Diagnosis, (%)
+Viral infection uveitis
+Behcet’s disease
+Vogt-Koyanagi-Harada syndrome
+Ankylosing spondylitis associated AAU c
+HLA-B27-related AAU c
+Sympathetic ophthalmia
+Fuchs’ syndrome
+Possner-Schlossman syndrome
+Sarcoidosis
+Sjögren syndrome associated uveitis
+Idiopathic uveitis
+Disease activity, (%)
+Currently inactive
+Active
+Current systemic treatment
+Prednisolone, (%)
+Immunomodulatory therapy, (%)
+Single agent
+Cyclosporine
+Azathioprine
+Methotrexate
+Sulfasalazine
+Combined agents
+Cyclosporine & thalidomide
+Cyclosporine & azathioprine
+Cyclosporine & cyclophosphamide
+Cyclosporine, azathioprine & cyclophosphamide
+Biological agents, (%)
+History of changing, (%)
+Immunomodulatory therapy
+Ocular comorbidities, (%)
+None
+Cataract
+Glaucoma
+Vitreous hemorrhage
+Epiretinal membranes or vitreomacular traction
+syndrome
+Macular edema
+Macular atrophy or Outer Retinal Disruption
+Retinal detachment with or without choroidal
+detachment
+Optic atrophy
+Branch retinal vein occlusion or Branch retinal artery
+occlusion
+Band keratopathy
+Choroidal neovascularization
+No light perception
+Retinal pigment epithelium detachment
+Periocular/intraocular injection, median, (IQR)
+Previous treatment regimen
+Prednisolone, (%)
+Immunomodulatory therapy, (%)
+Biological agents, (%)
+Previous ocular surgery or laser therapy, (%)
+Glaucoma surgery
+Cataract surgery
+Pars plana vitrectomy
+Laser therapye
+
+Total
+(N = 245)
+median (IQR)
+mean (SD)
+n (%)
+
+Anxious
+(N = 41)
+median (IQR)
+mean (SD)
+n (%)
+
+Not anxious
+(N = 204)
+median (IQR)
+mean (SD)
+n (%)
+
+P valueb
+0.882
+0.01
+0.015
+0.607
+0.371
+
+Patients with uveitis grouped
+according to HADS-D
+scorea
+Depressed
+(N = 65)
+median (IQR)
+mean (SD)
+n (%)
+
+Not depressed
+(N = 180)
+median (IQR)
+mean (SD)
+n (%)
+
+25 (38.5%)
+0.05 (0–0.22)
+0.16 (0–0.52)
+19.2 (7.1–66)
+
+80 (44.4%)
+0 (0–0.05)
+0.05 (0–0.3)
+23.17 (6–51.3)
+
+31 (47.7%)
+34 (52.3%)
+
+68 (37.8%)
+112 (62.2%)
+
+P valueb
+
+140 (57.1%)
+0 (0–0.10)
+0.1 (0–0.3)
+23 (6–52.2)
+
+23 (56.1%)
+117 (57.4%)
+0 (0–0.10)
+0 (0–0.07)
+0.16 (0–0.57)
+0.10 (0–0.36)
+25 (6.00–71.00) 23 (6–51.23)
+
+99 (40.4%)
+146 (59.6%)
+
+14 (34.1%)
+27 (65.9%)
+
+85 (41.7%)
+119 (58.3%)
+
+129 (52.7%)
+22 (9.0%)
+15 (6.1%)
+75 (30.6%)
+4 (1.6%)
+
+20 (48.8%)
+1 (2.4%)
+3 (7.3%)
+17 (41.5%)
+0 (0%)
+
+109 (53.4%)
+21 (10.3%)
+12 (5.9%)
+58 (28.4%)
+4 (2.0%)
+
+28 (43.1%)
+6 (9.2%)
+4 (6.2%)
+26 (40.0%)
+1 (1.5%)
+
+101 (56.1%)
+16 (8.9%)
+11 (6.1%)
+49 (27.2%)
+3 (1.7%)
+
+17 (6.9%)
+21 (8.6%)
+45 (18.4%)
+31 (12.7%)
+23 (9.4%)
+2 (0.8%)
+14 (5.7%)
+20 (8.2%)
+4 (1.6%)
+1 (0.4%)
+67 (27.3%)
+
+2 (5.0%)
+7 (17.5%)
+9 (22.5%)
+7 (17.1%)
+1 (2.5%)
+0 (0%)
+2 (5.0%)
+4 (10.0%)
+0 (0%)
+0 (0%)
+9 (22.0%)
+
+15 (7.3%)
+14 (7.0%)
+36 (17.9%)
+24 (11.8%)
+22 (10.8%)
+2 (1.0%)
+12 (6.0%)
+16 (8.0%)
+4 (2.0%)
+1 (0.5%)
+58 (28.4%)
+
+5 (7.8%)
+10 (15.6%)
+12 (18.8%)
+5 (7.7%)
+1 (1.6%)
+1 (1.6%)
+3 (4.7%)
+3 (4.7%)
+1 (1.6%)
+0 (0%)
+24 (36.9%)
+
+12 (6.7%)
+11 (6.2%)
+33 (18.6%)
+26 (14.4%)
+22 (12.2%)
+1 (0.6%)
+11 (6.2%)
+17 (9.6%)
+3 (1.7%)
+1 (0.6%)
+43 (23.9%)
+
+151 (61.6%)
+94 (38.4%)
+
+26 (63.4%)
+15 (36.6%)
+
+125 (61.3%)
+79 (38.7%)
+
+42 (64.6%)
+23 (35.4%)
+
+109 (60.6%)
+71 (39.4%)
+
+65 (26.5%)
+52 (21.2%)
+20 (8.2%)
+11 (4.5%)
+6 (2.4%)
+1 (0.4%)
+2 (0.8%)
+32 (13.1%)
+1 (0.4%)
+26 (10.6%)
+2 (0.8%)
+3 (1.2%)
+9 (3.7%)
+
+13 (31.7%)
+10 (19.2%)
+4 (9.8%)
+2 (4.9%)
+2 (4.9%)
+0 (0%)
+0 (0%)
+6 (14.6%)
+0 (0%)
+5 (12.2%)
+0 (0%)
+1 (2.4%)
+3 (7.3%)
+
+52 (25.5%)
+42 (80.8%)
+16 (7.8%)
+9 (4.4%)
+4 (2.0%)
+1 (0.5%)
+2 (1.0%)
+26 (12.7%)
+1 (0.5%)
+21 (10.3%)
+2 (1.0%)
+2 (1.0%)
+6 (2.9%)
+
+0.411
+0.587
+
+43 (23.9%)
+33 (18.3%)
+14 (7.8%)
+8 (4.4%)
+4 (2.2%)
+0 (0%)
+2 (1.1%)
+19 (10.6%)
+0 (0%)
+16 (8.9%)
+1 (0.6%)
+2 (1.1%)
+4 (2.2%)
+
+0.119
+0.066
+
+.366
+
+22 (33.8%)
+19 (29.2%)
+6 (9.2%)
+3 (4.6%)
+2 (3.1%)
+1 (1.5%)
+0 (0%)
+13 (20%)
+1 (1.5%)
+10 (15.4%)
+1 (1.5%)
+1 (1.5%)
+5 (7.7%)
+
+37 (15.1%)
+
+8 (19.5%)
+
+29 (14.2%)
+
+.387
+
+15 (23.1%)
+
+22 (12.2%)
+
+.036
+
+143 (58.4%)
+51 (20.8%)
+31 (12.7%)
+1 (0.4%)
+18 (7.3%)
+
+20 (48.8%)
+12 (29.3%)
+10 (24.4%)
+0 (0%)
+4 (9.8%)
+
+123 (60.3%)
+39 (19.1%)
+21 (10.3%)
+1 (0.5%)
+14 (6.9%)
+
+.172
+.144
+.013
+
+117 (65.0%)
+31 (17.2%)
+17 (9.4%)
+1 (0.6%)
+9 (5.0%)
+
+.000
+.021
+.012
+
+.749
+
+26 (40.0%)
+20 (30.8%)
+14 (21.5%)
+0 (0%)
+9 (13.8%)
+
+25 (10.2%)
+10 (4.1%)
+9 (3.7%)
+
+4 (9.8%)
+4 (9.8%)
+3 (7.3%)
+
+21 (10.3%)
+6 (2.9%)
+6 (2.9%)
+
+.114
+.366
+
+11 (16.9%)
+5 (7.7%)
+5 (7.7%)
+
+14 (7.8%)
+5 (2.8%)
+4 (2.2%)
+
+4 (1.6%)
+2 (0.8%)
+
+1 (2.4%)
+0 (0%)
+
+3 (1.5%)
+2 (1.0%)
+
+.522
+1
+
+1 (1.5%)
+1 (1.5%)
+
+3 (1.7%)
+1 (0.6%)
+
+1
+
+2 (0.8%)
+1 (0.4%)
+1 (0.4%)
+1 (0.4%)
+0 (0–2)
+
+0 (0%)
+1 (2.4%)
+1 (2.4%)
+0 (0%)
+0 (0–2)
+
+2 (1.0%)
+0 (0%)
+0 (0%)
+1 (0.5%)
+0 (0–2)
+
+1
+
+0 (0%)
+1 (1.5%)
+1 (1.5%)
+0 (0%)
+1 (0–3)
+
+2 (1.1%)
+0 (0%)
+0 (0%)
+1 (0.6%)
+0 (0–2)
+
+1
+
+104 (42.4%)
+67 (27.3%)
+33 (13.5%)
+68 (27.8%)
+13 (5.3%)
+46 (18.8%)
+5 (2.0%)
+35 (14.3%)
+
+22 (53.7%)
+14 (34.1%)
+8 (19.5%)
+15 (36.6%)
+4 (9.8%)
+9 (22.0%)
+2 (4.9%)
+9 (22.0%)
+
+82 (40.2%)
+53 (26.0%)
+25 (12.3%)
+53 (26.0%)
+9 (4.4%)
+37 (18.1%)
+3 (1.5%)
+26 (12.7%)
+
+0.112
+0.284
+0.214
+0.166
+
+30 (46.2%)
+22 (33.8%)
+15 (23.1%)
+23 (35.4%)
+3 (4.6%)
+17 (26.2%)
+2 (3.1%)
+14 (21.5%)
+
+74 (41.1%)
+45 (25.0%)
+18 (10.0%)
+45 (25.0%)
+10 (5.6%)
+29 (16.1%)
+3 (1.7%)
+21 (11.7%)
+
+.481
+.17
+.008
+.109
+
+0.278
+
+0.353
+
+0.797
+
+1
+1
+
+.167
+.167
+1
+.903
+
+0.403
+0.002d
+0.013d
+0.729d
+0.163
+
+0.564
+
+.104
+
+1
+.039
+.037
+.177
+.104
+.461
+.265
+.265
+1
+.005d
+
+Chinese version of the Hospital Anxiety and Depression Scale: patients in the anxious and depressed group scored ≥8 and patients in the not anxious and not
+depressed group scored <8.
+b
+Analyzed using a two-sided Chi-square test at a confidence level of 95%.
+c
+BCVA: best-corrected visual acuity, AAU: acute anterior uveitis.
+d
+Analyzed using a two-sided Wilcoxon rank-sum test at a confidence level of 95%.
+e
+Laser therapy included laser peripheral iridotomy/selective laser trabeculoplasty (LPI/SLT) (18, 7.3%), YAG laser capsulotomy (11, 4.5%), retinal photocoagulation (9,
+3.7%). One patient had undergone LPI/SLT and YAG laser capsulotomy, and two patients had undergone YAG laser capsulotomy and retinal photocoagulation.
+a
+
+
+[page 7]
+6
+
+Y. JIN ET AL.
+
+Figure 1. Correlation between CHI-HADS-Anxiety (HADS-A) score, CHI-HADS-Depression (HADS-D) score, and CHI-VFQ-25 composite score in patients with uveitis. (a)
+Correlation between HADS-A score and CHI-VFQ-25 composite score in patients with uveitis (with a Spearman correlation of −0.367, P < .0001). (b) Correlation
+between HADS-D score and CHI-VFQ-25 composite score in patients with uveitis (with a Spearman correlation of −0.482, P < .0001). Dashed line represents the cutoff
+score of 8 of HADS-A and HADS-D between the negative and positive screen.
+
+Figure 2. Receiver operating characteristic (ROC) curve analyses.(a, b, e, f) Receiver operating characteristic (ROC) curve and the corresponding area under the
+curve (AUC) of (a) Model-HADS-A 1, (b) Model-HADS-A 2, (e) Model-HADS-A 3 and (f) Model-HADS-A 4. (c, d, g, h) are the ROC curve and the corresponding AUC of (c)
+Model-HADS-D1, (d) Model-HADS-D 2, (g) Model-HADS-D 3 and (h) Model-HADS-D 4.
+
+depression.26,28 In addition, systemic or intraventricular injection of cytokines has been found to cause depression-like
+behavior in mice.29
+Lower education levels, discontinuing work due to uveitis,
+and lower household income are risk factors for anxiety and
+depression. These results are consistent with a previous study
+showing psychological distress in old age caused by financial
+hardship in childhood may be reduced by education and
+employment later in life.30 The protective mechanism of
+higher education may involve personal characteristics associated with varying levels of stress tolerance and different
+occupational restrictions, which may be related to stress exposure levels and physical health.31 Discontinuing work adds to
+the economic burden of individuals and causes mental illness.
+Depression and suicidal behavior accompany economic crises
+in low-income and middle-income countries, while some
+affluent countries offer provisions to help the unemployed
+escape adverse consequences.32 However, the reimbursement
+
+ratio of the medical insurance of these patients needing long term clinical care is relatively low in China.33 Our results
+remind clinicians to consider the patient’s financial situation
+when considering treatment. In addition, authorities need to
+improve the medical security system for patients with chronic
+inflammatory diseases that require long-term or even lifelong
+medication.
+The current use of biologic agents is a risk factor for
+depression. The use of interferon-α, a type of biologic agent
+systemically used to treat ocular Behçet disease, has been
+associated with increased depression and suicidal ideation in
+patients.34 However, a previous study found anti-tumor
+necrosis factor has a therapeutic effect on patients with
+major depression and C-reactive protein upregulation.35 The
+possible reason for the result of our study may be that biologics are still fully self-funded in China, but are covered by
+medical insurance in some western countries. Due to their
+high price and individual differences in therapeutic effects, the
+
+
+[page 8]
+OCULAR IMMUNOLOGY AND INFLAMMATION
+
+7
+
+Table 3. Univariate logistic regression analysis of anxiety and depressiona in patients with uveitis.
+Anxietya
+Variable
+Educational level
+Discontinuing work due to uveitis
+Annual household income
+LogMAR BCVAc in the better-seeing eye
+LogMAR BCVAc in the worse-seeing eye
+VFQ-25 composite score
+Current systemic biological agent therapy
+Ocular comorbidities
+Complicated cataract
+Secondary glaucoma
+Macular edema
+Current systemic IMTc
+History of changing IMTc
+Periocular/intraocular injection
+
+OR (95% CI)-crude
+0.594 (0.364 to 0.97)
+3.879 (1.474 to 10.21)
+0.329 (0.15 to 0.72)
+4.157 (1.212 to 14.256)
+1.933 (1.073 to 3.482)
+0.954 (0.935 to 0.975)
+‡
+‡
+‡
+2.811 (1.209 to 6.536)
+‡
+‡
+‡
+‡
+
+Depressiona
+P value
+.037
+.006
+.006
+.023
+.028
+0
+
+b
+
+OR (95% CI)-crude
+0.52 (0.341 to 0.793)
+2.469 (0.973 to 6.266)
+0.428 (0.231 to 0.793)
+4.651 (1.24 to 17.446)
+1.814 (1.063 to 3.098)
+0.94 (0.92 to 0.961)
+3.667 (0.953 to 14.102)
+2.786 (1.555 to 4.991)
+2.136 (1.111 to 4.107)
+2.632 (1.214 to 5.708)
+2.415 (1.035 to 5.636)
+1.84 (0.956 to 3.54)
+2.155 (1.039 to 4.468)
+1.196 (1.061 to 1.347)
+
+.016
+
+P valueb
+.002
+.057
+.007
+.023
+.029
+0
+.059
+.001
+.023
+.014
+.041
+.068
+.039
+.003
+
+OR = odds ratio, CI = confidence interval.
+a
+Chinese version of the Hospital Anxiety and Depression Scale: patients in the anxious and depressed group scored ≥8 and patients in the not anxious and not
+depressed group scored <8.
+b
+Univariate logistic regression analysis at a confidence level of 95%.
+c
+BCVA: best-corrected visual acuity, IMT: immunomodulatory therapy.
+‡
+This variable was not statistically significant in univariate logistic regression analysis.
+Variables that might have clinical and sociological significance, such as discontinuing work due to uveitis, current systemic biological agent therapy, and current
+systemic IMT were included in this analysis.
+
+Table 4. Multivariate logistic regression modela predicting anxiety and depressionb in patients with uveitis.
+Model
+Model
+Model
+Model
+HADS-A 1 c
+HADS-A 2 c
+HADS-A 3 c
+HADS-A 4 c
+OR (95%CI)-adj OR (95%CI)-adj OR (95%CI)-adj OR (95%CI)-adj
+
+Variable
+Education level
+Discontinuing work due to uveitis
+Annual household income
+LogMAR BCVAe in the better-seeing eye
+LogMAR BCVAe in the worse-seeing eye
+VFQ-25 composite score
+
+2.473
+2.333
+(0.884–6.919)
+(0.821–6.632)
+0.356
+0.372
+0.398
+0.413
+(0.158–0.805) * (0.164–0.843) * (0.174–0.911) * (0.18–0.948) *
+3.25
+2.948
+(0.898–11.769) (0.786–11.055)
+0.958
+(0.938–0.978)
+****
+
+Current systemic biological agent therapy
+
+AUC of ROC (95% CI)
+
+0.679
+(0.591–0.767)
+****
+
+0.633
+(0.396–1.013)
+
+0.536
+(0.273–1.052)
+
+0.521
+(0.264–1.026)
+
+0.943
+(0.922–0.964)
+****
+
+0.688
+(0.597–0.779)
+****
+
+1.154
+(1.02–1.305) *
+0.721
+(0.645–0.797)
+****
+
+0.744
+(0.667–0.822)
+****
+
+0.733
+(0.650–0.816)
+****
+
+Model
+Model
+HADS-D 3d
+HADS-D 4d
+OR (95%CI)-adj OR (95%CI)-adj
+
+0.536
+(0.269–1.07)
+
+0.958
+(0.938–0.979)
+****
+
+Macular edema
+Current systemic IMTe
+History of changing IMTe
+Periocular/intraocular injection
+e
+
+0.663
+(0.416–1.055)
+
+2.230
+(0.905–5.491)
+
+Complicated cataract
+
+e
+
+Model
+HADS-D 2d
+OR (95%CI)-adj
+
+4.81
+4.848
+(1.136–20.359) * (1.16–20.254) *
+2.143
+(1.144–4.013) *
+1.821
+(0.896–3.7)
+2.251
+2.439
+(1.005–6.254) *
+(1.117–5.775) *
+
+Ocular comorbidities
+
+Secondary glaucoma
+
+Model
+HADS-D 1d
+OR (95%CI)-adj
+
+0.946
+(0.925–0.968)
+****
+
+2.259
+(1.2–4.252) *
+
+1.179
+(1.042–1.334) **
+0.780
+0.723
+((0.714–0.847)
+(0.648–0.799)
+****
+****
+
+2.623
+(1.116–6.166) *
+
+1.151
+(1.01–1.311) *
+0.786
+(0.719–0.853)
+****
+
+OR = odds ratio, CI = confidence interval
+a
+Multivariate logistic regression model: α entry = 0.10, α removal = 0.15. P: * <0.05, **<0.01, ***<0.001, ****<0.0001.
+b
+Chinese version of the Hospital Anxiety and Depression Scale: patients in the anxious and depressed group scored ≥8 and patients in the not anxious and not
+depressed group scored <8.
+c
+Models predicting anxiety. Variables included in the multivariate regression analysis: 1) HADS-A 1: education level, discontinuing work due to uveitis, annual
+household income, BCVA in the better-seeing eye (logMAR), BCVA in the worse-seeing eye (logMAR); 2) HADS-A 2: education level, discontinuing work due to
+uveitis, annual household income, BCVA in the better-seeing eye (logMAR), BCVA in the worse-seeing eye (logMAR), secondary glaucoma; 3) HADS-A 3: education
+level, discontinuing work due to uveitis, annual household income, VFQ-25 composite score; 4) HADS-A 4: education level, discontinuing work due to uveitis,
+annual household income, VFQ-25 composite score, secondary glaucoma.
+d
+Models predicting depression. Variables included in the multivariate regression analysis: 1) HADS-D 1: education level, discontinuing work due to uveitis, annual
+household income, BCVA in the better-seeing eye (logMAR), BCVA in the worse-seeing eye (logMAR), current systemic biologic agent treatment, ocular
+comorbidities, current systemic IMT, history of changing IMT, periocular/intraocular injection times; 2) HADS-D 2: education level, discontinuing work due to
+uveitis, annual household income, BCVA in the better-seeing eye (logMAR), BCVA in the worse-seeing eye (logMAR), current systemic biologic agent treatment,
+complicated cataract, secondary glaucoma, macular edema, current systemic IMT, history of changing IMT, periocular/intraocular injection times; 3) HADS-D 3:
+education level, discontinuing work due to uveitis, annual household income, VFQ-25 composite score, current systemic biologic agent treatment, ocular
+comorbidities, current systemic IMT, history of changing IMT, periocular/intraocular injection times; 4) HADS-D 4: education level, discontinuing work due to
+uveitis, annual household income, VFQ-25 composite score, current systemic biologic agent treatment, complicated cataract, secondary glaucoma, macular edema,
+current systemic IMT, history of changing IMT, periocular/intraocular injection times.
+e
+BCVA: best-corrected visual acuity, IMT: immunomodulatory therapy, ROC: receiver operating characteristic curve, AUC: area under curve.
+
+
+[page 9]
+8
+
+Y. JIN ET AL.
+
+use of biologic agents sometimes aggravates the economic and
+mental burden of patients. Furthermore, biologic agents are
+usually used in patients with severe disease who have failed to
+respond to systemic hormone therapy and IMT. In this context, the addition of biological agents may mean an increased
+difficulty in curing the disease, resulting in increased psychological burden. Also, the majority of patients treated with
+biologic agents had poor visual function and there is a clear
+relationship between poor visual function and depression.
+Moreover, the application of biologic agents in uveitis is not
+common in China and patients lack awareness of and receptivity to these new drugs.
+No correlation was found between current oral corticosteroid therapy or IMT and depression, yet studies have shown
+IMT can be beneficial to mental health.36 Notably, univariate
+analysis showed a history of changing IMT was predictive of
+depression, which is consistent with findings by Ying Qian
+et al.,37 perhaps indicating that patients with more complex
+and intractable diseases have a higher risk of depression.
+However, this factor is no longer significant following multivariate regression analysis. The median duration (IQR) of
+diseases of all the patients was 23 (6–52.2) months, no statistically significant correlation between the duration of disease
+(P = .729) and depression was found. There was also no
+significant correlation between disease activity and depression
+(P = .564). A possible explanation is that a cross-sectional
+study can have difficulties in consistency of dynamic disease
+capture.
+This research indicates secondary glaucoma associated
+with uveitis is a risk factor for anxiety and depression.
+A large sample of 4,439,518 patients revealed a statistically
+significant correlation between glaucoma and anxiety and
+depression with an adjusted ORs of 10.6 (95%CI 10.0–11.0)
+and 12.3 (95% CI 11.8–12.9), respectively.17 Our study also
+linked complicated cataracts and depression. In the elderly,
+the correlation between cataract-related visual impairment
+and depression was significantly independent of demographics, life exposure, and current vision.38–40 After surgery,
+the VRQOL of elderly patients significantly improves, which
+is followed with a decrease in depression and cognitive
+impairment.41 This may aid clinicians in determining the
+timing of surgery. However, this conclusion cannot be easily
+extended to patients with uveitis complicated with cataract,
+because the average age of patients with uveitis complicated
+with cataract is different from that of patients with cataract,
+there were age-related difference in cognition between the two
+groups. Univariate logistic regression analysis found that there
+was a certain correlation between macular edema and depression (P = .041), while the significance was lost in the multivariate model. The incidence of uveitic macular edema
+(10.2%) in this study was lower than that in another study,42
+possibly because this was a cross-sectional study, a certain
+number of patients were in recovery. Therefore, the present
+study was of limitation in suggesting a correlation between
+macular edema and depression. Research has shown that
+diabetic macular edema was not associated with depressive
+and anxious symptoms.43 To our knowledge, there have been
+
+no relevant studies focusing on anxiety and depression in
+patients with these three complications of uveitis. Further
+prospective longitudinal research on the mental health status
+of these groups may provide a new theoretical basis for the
+selection of surgical timing and rational treatment.
+This study found the risk of depression increased as the
+number of periocular or intraocular injections increased.
+There are a few possible explanations. Patients’ confidence
+declined as the number of injections increased. In fact, most
+patients who were treated more frequently were also those
+experiencing frequent relapses. Additionally, frequent local
+injection therapy increases the incidence of local complications. Previous study has shown that patients being treated
+with systemic anti-inflammatory therapy did not have significant systemic side effects, while patients treated with fluocinolone acetonide intraocular implants had a higher incidence
+of cataract and secondary glaucoma.44 Our results suggest
+clinicians should reasonably choose systematic or local treatments based on the psychological status of patients with
+uveitis.
+Studies have linked visual impairment to mental illness.45
+Our study also showed that poor BCVA in the better-seeing
+eye was a risk factor for positive-HADA, which is consistent
+with previous research results.9 This is possibly because
+BCVA in the better-seeing eye determines a person’s visual
+potential. However, Spearman correlation analysis identified
+a mild or moderate correlation between VFQ composite score
+and HADS-A and HADS-D score, possibly because this was
+a cross-sectional study involving a non-single disease with
+patients at different stages of treatment. The previous study
+has found a significant correlation between BCVA and
+VRQOL.46 This study attempted to explore which of the
+above two factors has a stronger role in indicating the risk
+of anxiety and depression. Multiple regression analysis
+revealed the VFQ-25 composite score was a more prominent
+predictor of positive-HADA and positive-HADD than
+BCVA, and the AUC of the ROC of the final regression
+model notably increased to 0.744 and 0.780, respectively,
+when the VFQ-25 composite score was considered.
+A similar phenomenon has been observed in patients with
+ocular inflammatory disease.37 Visual function was not only
+reflected in vision but also in contrast sensitivity and visual
+field, which were also associated with mental problems.18
+Furthermore, patient’s visual functioning is important in all
+aspects of life, including activities near and far, self-care,
+social contact, and mental health. Thus, it is not realistic to
+discuss visual function separately from specific life situations. VFQ-25, containing 12 dimensions, can more comprehensively evaluate patient visual function and VRQOL
+than BCVA. Depressed patients scored lower in almost all
+dimensions of the VFQ-25 than non-depressed patients.
+Therefore, BCVA is not a sufficient indicator with which to
+assess patient vision and the contribution of VRQOL scales,
+like VFQ-25, is indispensable.
+Based on the above research results, it is of great significance to evaluate the QOL of patients reasonably. Apart from
+the indirect method of questionnaires, the direct methods also
+
+
+[page 10]
+OCULAR IMMUNOLOGY AND INFLAMMATION
+
+play an important role in QOL assessment, because they are
+more sensitive and comprehensive. Time trade-off (TTO) and
+standard gamble (SG), commonly used direct methods, allow
+QOL to be compared among different health conditions without the need for mapping.47,48 For example, by comparing the
+TTO utility value, researchers found that the HRQOL in
+patients with uveitis with poor vision was worse than that of
+patients with AIDS.48,49 However, TTO and SG presented
+cognitive bias for some patients,50 and sometimes, the delivery
+of questions related to death may cause discomfort and panic
+in subjects. In contrast, questionnaires are generally easier to
+answer, and patients may be more willing to cooperate.48
+Therefore, the indirect and direct methods have their own
+advantages and disadvantages, and rational development and
+application of the above two methods will help to objectively
+evaluate the QOL of patients.
+Based on our results, the psychological status of patients with
+uveitis should be concerned. Several studies have shown that
+anxiety and depression can affect the treatment compliance of
+patients with some chronic diseases, thus affecting treatment
+efficacy.51 Wantanee Sittivarakul attributed poor understanding
+of disease by patients with ocular inflammatory disease to the
+cognitive impairment complicated by anxiety and depression.52
+A similar association has been found in patients with glaucoma.53
+Due to the higher tendency for depression, clinicians should pay
+more attention to the disease education of patients with uveitis. In
+addition, early detection and timely intervention in the mental
+distress of patients with uveitis may be of great significance in
+restoring cognition and improving patient compliance.
+There are several limitations in our study. First, the enrolled
+patients are not representative of all patients with uveitis in
+China, so the results may not be generalizable to other populations. Second, while the HADS scale used in the study has been
+verified to have good sensitivity and specificity at the threshold
+of 8, it is still not a formal psychiatric evaluation for the diagnosis of anxiety and depression. Third, since our study was
+a cross-sectional study, a significant number of our patients
+were in the disease stabilization and recovery stage, so visual
+dysfunction and symptoms of anxiety and depression may be
+lower in our patient population than in other clinical studies. In
+addition, considering systemic corticosteroid and immunomodulatory treatment, dosage and duration of administration were
+not considered as stratified variables, which may inhibit assessing
+the relationships between systemic therapy and anxiety and
+depression. Therefore, longitudinal studies to determine differences in QOL and psychological status of patients at different
+stages of treatment are important avenues of future study.
+In this study, we evaluated the impact of uveitis on the
+QOL and mental health of patients. Low socio-demographic
+characteristics, ocular complications, and poor self-reported
+visual function were identified as important factors when
+predicting the mental health of patients with uveitis.
+Compared with the BCVA, self-reported visual function was
+a better predictor of mental problems. Our findings provide
+support for heightened attention and awareness toward psychological distress in patients with uveitis, as well as remind
+clinicians of the significance of disease education.
+Furthermore, perfecting the medical guarantee system is particularly important for patients with uveitis.
+
+9
+
+Acknowledgments
+The authors thank all individuals participated in the study.
+
+Declaration of interest
+The authors report no conflicts of interest. The authors alone are
+responsible for the content and writing of the paper.
+
+Funding
+This work was supported by the National Natural Science Foundation of
+China [31771390]; Wenzhou Science and Technology Foundation
+[Y20160457]; Innovation Research Program of the Eye Hospital
+[YNCX201608]; General Program of the Eye Hospital [YNKT201601];
+Wenzhou Science and Technology Foundation [Y20190625]; Zhejiang
+Provincial Natural Science Foundation of China [LQ20H180006].
+
+Contributors
+YW, YJ: conception and design. YJ, MJ, RL,: execution of the study. YJ, JZ,
+YMY: analysis and interpretation of data. YJ, DL: drafting the article. YW,
+YJ, XFH, MLD, YLW, XFZ: revising it critically for important intellectual
+content. YW, YJ, XFH: final approval of the version to be published.
+
+Ethics approval
+Review committee of Wenzhou Medical University.
+
+ORCID
+Jingwei Zheng
+
+http://orcid.org/0000-0002-2594-5014
+
+References
+1. Miserocchi E, Fogliato G, Modorati G, et al. Review on the worldwide epidemiology of uveitis. Eur J Ophthalmol. 2013;23
+(5):705–717. doi:10.5301/ejo.5000278.
+2. Maca SM, Schiesser AW, Sobala A, et al. Distress, depression and
+coping in HLA-B27-associated anterior uveitis with focus on
+gender differences. Brit J Ophthalmol. 2011;95(5):699–704.
+doi:10.1136/bjo.2009.174839.
+3. Smet MDD, Taylor SRJ, Bodaghi B, et al. Understanding uveitis:
+the impact of research on visual outcomes. Prog Retin Eye Res.
+2011;30(6):452–470. doi:10.1016/j.preteyeres.2011.06.005.
+4. Hu S, Xie C, Yang P, et al. An epidemiological survey of uveitis in
+southern China. US Chin J Ophthalmol. 2002;2(1):1–3.
+5. Hwang DK, Chou YJ, Pu CY, et al. Epidemiology of uveitis among
+the Chinese population in Taiwan. Ophthalmology. 2012;119
+(11):2371–2376. doi:10.1016/j.ophtha.2012.05.026.
+6. Maca SM, Julia W, Birgit W, et al. Acute anterior uveitis is
+associated with depression and reduction of general health. Brit
+J Ophthalmol. 2013;97(3):333–337. doi:10.1136/bjophthalmol2012-302304.
+7. Hui MM, Wakefield D, Patel I, et al. Visual functioning and
+health-related quality-of-life are compromised in patients with
+uveitis.
+Ocul
+Immunol
+Inflamm.
+2017;25(4):486–491.
+doi:10.3109/09273948.2016.1139734.
+8. Berlinberg EJ, Gonzales JA, Doan T, et al. Association between
+noninfectious uveitis and psychological stress. JAMA Ophthalmol.
+2019;137(2):199–205. doi:10.1001/jamaophthalmol.2018.5893.
+9. Onal S, Oray M, Yasa C, et al. Screening for depression and
+anxiety in patients with active uveitis. Ocul Immunol Inflamm.
+2018;26(7):1078–1093. doi:10.1080/09273948.2017.1319959.
+10. Arias-de la Torre J, Vilagut G, Martín V, et al. Prevalence of major
+depressive disorder and association with personal and
+
+
+[page 11]
+10
+
+Y. JIN ET AL.
+
+socio-economic factors. Results for Spain of the European health
+interview survey 2014-2015. J Affect Disorders. 2018;239:203–207.
+doi:10.1016/j.jad.2018.06.051.
+11. Lorant V, Deliège D, Eaton W, et al. Socioeconomic inequalities
+in depression: A meta-analysis. Am J Epidemiol. 2003;157
+(2):98–112. doi:10.1093/aje/kwf182.
+12. Evans JR, Fletcher AE, Wormald RP. Depression and anxiety in
+visually impaired older people. Ophthalmology. 2007;114
+(2):283–288. doi:10.1016/j.ophtha.2006.10.006.
+13. Adamson BC, Yang Y, Motl RW. Association between compliance
+with physical activity guidelines, sedentary behavior and depressive symptoms. Prev Med. 2016;91:152–157. doi:10.1016/j.
+ypmed.2016.08.020.
+14. Zhu Y, Wu Z, Sie O, et al. Causes of drug discontinuation in
+patients with major depressive disorder in China. Prog Neuropsychoph. 2019;96:109755. doi:10.1016/j.pnpbp.2019.109755.
+15. Chaumet-Riffaud AE, Chaumet-Riffaud P, Cariou A, et al. Impact
+of retinitis pigmentosa on quality of life, mental health, and
+employment among young adults. Am J Ophthalmol.
+2017;177:169–174. doi:10.1016/j.ajo.2017.02.016.
+16. Elshout M, Van Der Reis MI, De J-H Y, et al. Distinguishing
+between better and worse visual acuity by studying the correlation
+with quality of life in neovascular age-related macular
+degeneration. Ophthalmology. 2016;123(11):2408–2412. doi:10.1
+016/j.ophtha.2016.07.015.
+17. Zhang X, Olson DJ, Le P, et al. The association between glaucoma,
+anxiety, and depression in a large population. Am J Ophthalmol.
+2017;183:37–41. doi:10.1016/j.ajo.2017.07.021.
+18. Diniz-Filho A, Abe RY, Cho HJ, et al. Fast visual field progression is
+associated with depressive symptoms in patients with glaucoma.
+Ophthalmology.
+2016;123(4):754–759.
+doi:10.1016/j.ophth
+a.2015.12.014.
+19. Sugar EA, Venugopal V, Thorne JE, et al. Longitudinal
+vision-related quality of life for patients with noninfectious uveitis
+treated with fluocinolone acetonide implant or systemic corticosteroid therapy. Ophthalmology. 2017;124(11):1662–1669. doi:10.1
+016/j.ophtha.2017.05.015.
+20. Niemeyer KM, Gonzales JA, Rathinam SR, et al. Quality of life
+outcomes from a randomized clinical trial comparing antimetabolites for intermediate, posterior, and panuveitis. Am
+J Ophthalmol. 2017;179:10–17. doi:10.1016/j.ajo.2017.04.003.
+21. Sheppard J, Joshi A, Betts KA, et al. Effect of adalimumab on
+visual functioning in patients with noninfectious intermediate
+uveitis, posterior uveitis, and panuveitis in the visual-1 and
+visual-2 trials. JAMA Ophthalmol. 2017;135(6):511–518.
+doi:10.1001/jamaophthalmol.2017.0603.
+22. Barron BA, Gee L, Hauck WW, et al. Herpetic eye disease study:
+A controlled trial of oral acyclovir for herpes simplex stromal
+keratitis. Ophthalmology. 1994;101(12):1871–1882. doi:10.1016/
+S0161-6420(13)31155-5.
+23. Jabs DA, Nussenblatt RB, Rosenbaum JT. Standardization of
+uveitis nomenclature for reporting clinical data. Results of the
+first international workshop. Am J Ophthalmol. 2005;140:509–516.
+24. Nussenblatt RB, Palestine AG, Chan CC, et al. Standardization of
+vitreal inflammatory activity in intermediate and posterior uveitis.
+Ophthalmology. 1985;92(4):467–471. doi:10.1016/S0161-6420(85)
+34001-0.
+25. Jiang JH, Zhang SD, Dai ML, et al. Posner-Schlossman syndrome
+in Wenzhou, China: A retrospective review study. Brit
+J Ophthalmol. 2017;101(12):1638–1642. doi:10.1136/bjophthalmol-2016-309863.
+26. Dantzer R, O’Connor JC, Freund GG, et al. From inflammation to
+sickness and depression: when the immune system subjugates the
+brain. Nat Rev Neurosci. 2008;9(1):46–56. doi:10.1038/nrn2297.
+27. Pucak ML, Kaplin AI. Unkind cytokines: current evidence for the
+potential role of cytokines in immune-mediated depression.
+Int Rev Psychiatry. 2005;17(6):477–483. doi:10.1080/026468
+30500381757.
+28. Haroon E, Raison CL, Miller AH. Psychoneuroimmunology meets
+neuropsychopharmacology: translational implications of the
+
+impact of inflammation on behavior. Neuropsychopharmacol.
+2012;37(1):137–162. doi:10.1038/npp.2011.205.
+29. Fu X, Zunich SM, O’Connor JC, et al. Central administration of
+lipopolysaccharide induces depressive-like behavior in vivo and
+activates brain indoleamine 2,3 dioxygenase in murine organotypic hippocampal slice cultures. J Neuroinflammation. 2010;7
+(1):43. doi:10.1186/1742-2094-7-43.
+30. Darin-Mattsson A, Andel R, Celeste RK, et al. Linking financial
+hardship throughout the life-course with psychological distress in
+old age: sensitive period, accumulation of risks, and chain of risks
+hypotheses. Soc Sci Med. 2018;201:111–119. doi:10.1016/j.
+socscimed.2018.02.012.
+31. Bjelland I, Krokstad S, Mykletun A, et al. Does a higher educational level protect against anxiety and depression? The hunt
+study. Soc Sci Med. 2008;66(6):1334–1345. doi:10.1016/j.
+socscimed.2007.12.019.
+32. Uutela A. Economic crisis and mental health. Current Opinion in
+Psychiatry. 2010;23(2):127–130. doi:10.1097/YCO.0b013e328336657d.
+33. Liu S, Griffiths SM. From economic development to public health
+improvement: china faces equity challenges. Public Health.
+2011;125(10):669–674. doi:10.1016/j.puhe.2011.08.004.
+34. Plskova J, Greiner K, Forrester JV. Interferon-alpha as an effective treatment for noninfectious posterior uveitis and panuveitis.
+Am J Ophthalmol. 2007;144(1):55–61. doi:10.1016/j.ajo.200
+7.03.050.
+35. Raison CL, Rutherford RE, Woolwine BJ, et al. A randomized
+controlled trial of the tumor necrosis factor-alpha antagonist
+infliximab in treatment resistant depression: role of baseline
+inflammatory biomarkers. JAMA Psychiatry. 2013;70(1):31–41.
+doi:10.1001/2013.jamapsychiatry.4.
+36. Nerurkar L, Siebert S, McInnes IB, et al. Rheumatoid arthritis and
+depression: an inflammatory perspective. Lancet Psychiatry.
+2019;6(2):164–173. doi:10.1016/S2215-0366(18)30255-4.
+37. Qian Y, Glaser T, Esterberg E, et al. Depression and visual functioning in patients with ocular inflammatory disease. Am
+J Ophthalmol. 2012;153(2):370–378. doi:10.1016/j.ajo.2011.06.028.
+38. Wang H, Sun HP, Wang P, et al. Cataract and depressive symptoms among older Chinese adults. Optometry Vision Sci. 2016;93
+(12):1479–1484. doi:10.1097/OPX.0000000000000960.
+39. Safiri S, Ayubi E. Depressive symptoms in older adults awaiting
+cataract surgery: methodological and statistical issues. Clin Exp
+Ophthalmol. 2017;45(8):840–841. doi:10.1111/ceo.12970.
+40. Eramudugolla R, Wood J, Anstey KJ. Co-morbidity of depression
+and anxiety in common age-related eye diseases: A
+population-based study of 662 adults. Front Aging Neurosci.
+2013;5(11):56. doi:10.3389/fnagi.2013.00056.
+41. Ishii K, Kabata T, Oshika T. The impact of cataract surgery on
+cognitive impairment and depressive mental status in elderly
+patients. Am J Ophthalmol. 2008;146(3):404–409. doi:10.1016/j.
+ajo.2008.05.014.
+42. Accorinti M, Okada AA, Smith JR, et al. Epidemiology of macular
+edema in uveitis. Ocul Immunol Inflamm. 2019;27(2):169–180.
+doi:10.1080/09273948.2019.1576910.
+43. Rees G, Xie J, Fenwick EK, et al. Association between
+diabetes-related eye complications and symptoms of anxiety and
+depression.
+JAMA
+Ophthalmol.
+2016;134(9):1007–1014.
+doi:10.1001/jamaophthalmol.2016.2213.
+44. Multicenter Uveitis Steroid Treatment (MUST) Trial Follow-up
+Study Research Group. Quality of life and risks associated with
+systemic anti-inflammatory therapy versus fluocinolone acetonide
+intraocular implant for intermediate uveitis, posterior uveitis, or
+panuveitis: fifty-four-month results of the multicenter uveitis steroid treatment trial and follow-up study. Ophthalmology. 2015;122
+(10):1976–1986. doi:10.1016/j.ophtha.2015.06.043.
+45. Court H, Mclean G, Guthrie B, et al. Visual impairment is associated with physical and mental comorbidities in older adults: A
+cross-sectional study. BMC Med. 2014;12(1):181. doi:10.1186/
+s12916-014-0181-7.
+46. Arriola-Villalobos P, Abásolo L, García-Feijoo J, et al. Vision related quality of life in patients with non-infectious uveitis: A
+
+
+[page 12]
+OCULAR IMMUNOLOGY AND INFLAMMATION
+
+cross-sectional study. Ocul Immunol Inflamm. 2018;26
+(5):717–725. doi:10.1080/09273948.2017.1285034.
+47. Torrance GW. Preferences for health states: A review of measurement methods. Mead Johnson Symp Perinat Dev Med.
+1982;20:37–45.
+48. Shamdas M, Bassilious K, Murray PI. Health-related quality of life
+in patients with uveitis. Brit J Ophthalmol. 2019;103(9):1284–1288.
+doi:10.1136/bjophthalmol-2018-312882.
+49. Tengs TO, Lin TH. A meta-analysis of utility estimates for HIV/AIDS.
+Med Decis Making. 2002;22(6):475–481. doi:10.1177/0272989X02238300.
+50. García-Molina M, Chicaiza-Becerra LA. Anchoring bias in face-toface time-trade-off valuations of health states. Rev Salud Publica
+(Bogota). 2017;19(5):686–690. doi:10.15446/rsap.v19n5.60924.
+
+11
+
+51. Turan O, Yemez B, Itil O. The effects of anxiety and depression
+symptoms on treatment adherence in COPD patients. Prim Health
+Care Res Dev. 2014;15(3):244–251. doi:10.1017/S1463423613000169.
+52. Sittivarakul W, Wongkot P. Anxiety and depression among
+patients with uveitis and ocular inflammatory disease at
+a tertiary center in southern Thailand: vision-related quality-oflife, sociodemographics, and clinical characteristics associated.
+Ocul Immunol Inflamm. 2019;27(5):731–742. doi:10.1080/
+09273948.2018.1484495.
+53. Kong XM, Zhu WQ, Hong JX, et al. Is glaucoma comprehension
+associated with psychological disturbance and vision-related quality of life for patients with glaucoma? A cross-sectional study. BMJ
+Open. 2014;4(5):e004632. doi:10.1136/bmjopen-2013-004632.
+

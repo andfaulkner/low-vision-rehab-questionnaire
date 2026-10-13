@@ -1,0 +1,1085 @@
+[page 1]
+4426
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+Facial Landmark Analysis for Detecting Visual
+Impairment in Mobile LogMAR Test
+Maximilian Kapsecker , Elena Mille , Florian Schweizer , Jens Klinker , Joe Yu ,
+Alexander Leube , and Stephan M. Jonas
+
+Abstract—Visual impairment is a widespread global
+health issue that affects millions of people across all ages
+and backgrounds. Timely intervention is essential for the
+effective management of eye diseases. Smartphones offer
+the possibility of continuously recording facial gestures
+during interaction with the device, whereby changes such
+as squinting of the eyes could indicate progressive vision
+loss. In this context, a mobile health application was developed to conduct a digital logMAR test while simultaneously capturing real-time facial features. A total of 37
+participants took part in a controlled mobile eye test study.
+The facial landmarks recorded during the test were analyzed to identify patterns that can distinguish between sequences of letters that were read correctly, partially, or not
+at all. Specifically, explorative data analysis and receiver
+operating characteristic curves were employed to determine facial landmarks with high discriminative power in
+relation to reading ability. The predominant facial regions
+that showed the most significant change under reduced
+performance during the vision test were the nose, mouth,
+and cheeks. Notably, the characteristic maximum squinting
+of the cheeks stood out with an area under the curve of
+0.82. The analysis showed the potential of tracking specific
+facial features for continuous and unobtrusive vision assessment. It motivates to integrate facial feature analysis
+into an everyday application such as a web browser and
+to conduct a study in a non-standardized environment on a
+larger scale.
+
+Received 7 June 2024; revised 7 October 2024, 1 November 2024,
+and 20 December 2024; accepted 10 January 2025. Date of publication
+13 January 2025; date of current version 6 June 2025. The work was
+supported by the German Federal Ministry of Education and Research
+(BMBF) under Grant 01IS17049. (Corresponding author: Maximilian
+Kapsecker.)
+This work involved human subjects or animals in its research. Approval of all ethical and experimental procedures and protocols was
+granted by Ethics Committee of the Technical University of Munich
+under Application No. 2023-509-S-SB, and performed in line with the
+Declaration of Helsinki of the World Medical Association.
+Maximilian Kapsecker is with the TUM School of Computation, Information and Technology, Technical University of Munich, 85748 Garching
+bei München, Germany, and also with the Institute for Digital Medicine,
+University Hospital Bonn, 53127 Bonn, Germany (e-mail: max.kapse
+cker@tum.de).
+Elena Mille, Florian Schweizer, Jens Klinker, and Joe Yu are with
+the TUM School of Computation, Information and Technology, Technical
+University of Munich, 85748 Garching bei München, Germany.
+Alexander Leube is with the Carl Zeiss Vision GmbH, Turnstraße 27,
+73430 Aalen, Germany.
+Stephan M. Jonas is with the Institute for Digital Medicine, University
+Hospital Bonn, 53127 Bonn, Germany.
+Digital Object Identifier 10.1109/JBHI.2025.3529288
+
+Index Terms—Vision impairment, mobile health, digital
+logmar test, facial landmark analysis.
+
+I. INTRODUCTION
+ISION plays a pivotal role in our daily lives, surpassing
+other senses in importance for decision-making [1], [2]. It
+is essential for recognizing objects, navigating environments,
+avoiding collisions, and understanding detailed features like
+facial expressions and body language [3], [4]. Impairments in
+vision, especially in high-stakes situations where functional
+sight is critical, can pose significant problems. For instance, there
+is evidence that older people with visual impairments are more
+likely to fall and suffer fractures [5] and that driving a car with
+a visual impairment is dangerous [6]. According to the World
+Health Organization, at least 2.2 billion people worldwide had
+impaired near or distant vision in 2019, with more than 1 billion
+cases preventable or yet to be treated [7]. Vision impairment
+represents a significant global health challenge, affecting quality
+of life, social interactions, and economic productivity [7], [8],
+[9], [10], [11], [12], [13].
+In the digital age, the widespread use of computers and
+screens has increased the demand for visual skills, possibly
+also hastening visual deterioration [14]. The increasing number
+of eye diseases such as myopia, which has reached pandemic
+proportions in East Asia [15], [16] and poses an economic challenge [13], underlines the need for proactive eye care. Evidence based guidelines also emphasize the importance of regular eye
+examinations [17]. While the infrastructure for vision assessments is well-established in high-income countries [18], delays in addressing vision impairment remain prevalent [19]. In
+many developing regions and rural areas, there is also a significant gap in healthcare infrastructure, particularly in access to
+ophthalmologists and a clinical environment [18], [20], [21].
+Smartphones, now ubiquitous globally, present a unique
+opportunity to partially bridge the healthcare gap [22], [23].
+Equipped with sophisticated sensors and computational capabilities, smartphones are increasingly being used in healthcare
+applications [24]. Applications like Peek Vision1 have demonstrated potential to enhance healthcare access by offering services like telemedicine, diagnostic tools, and health monitoring [25]. Additionally, smartphones offer accessibility features,
+such as increased font sizes and more readable fonts, which
+
+V
+
+1 https://peekvision.org Accessed: 03.05.2024
+
+© 2025 The Authors. This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see
+https://creativecommons.org/licenses/by/4.0/
+
+
+[page 2]
+KAPSECKER et al.: FACIAL LANDMARK ANALYSIS FOR DETECTING VISUAL IMPAIRMENT IN MOBILE LogMAR TEST
+
+Fig. 1. Overview of how previous research on mobile visual acuity
+tests connects to the current study and future directions.
+
+can be beneficial for visually impaired individuals [26], [27].
+Research has also explored the use of mobile devices for vision
+assessment. Mobile applications have been developed to conduct
+visual acuity tests, color vision tests, and contrast sensitivity
+tests [28], [29], [30], [31], [32], [33], [34]. These applications leverage the device’s display to present standardized test
+charts and collect responses from users, facilitating remote and
+self-administered vision assessment. Labiris et al. have shown
+through multiple implementations, such as smart tv-based and
+web-based systems, that digital visual acuity assessments can be
+used in clinical contexts and as self-assessments at home [35],
+[36], [37], [38]. Although their implementations have a focus
+on the greek language, they still highlight the feasibility and
+correctness of digital visual acuity assessment. Another potential
+advantage of digital assessments is ease-of-use, especially with
+non-trained staff [39]. However, Tofigh et al. have highlighted
+potential issues with digital visual acuity assessment implementations, such as calibration of brightness, screen resolution, and
+color contrast [40].
+There is a general consensus in prior research regarding the
+strong feasibility of conducting standard eye tests in a mobile
+environment. In particular, Suo et al. (2022) provide a systematic
+review and meta-analysis of mobile versus clinical visual acuity
+tests, reporting sensitivities of 0.87 (95% CI, 0.79–0.93), 0.86
+(95% CI, 0.84–0.87), and 0.85 (95% CI, 0.55–0.98) and specificities of 0.78 (95% CI, 0.70–0.85), 0.91 (95% CI, 0.90–0.91),
+and 0.98 (95% CI, 0.95–0.99) for the age groups 3–5 years,
+6–22 years, and over 55 years, respectively [41]. Building on
+the findings that demonstrate the feasibility of mobile visual
+acuity testing, this study investigates potential digital biomarkers
+that indicate reduced vision. The aim is to provide evidence for
+the future development of mobile systems for passive vision
+monitoring (see Fig. 1).
+While existing applications enable mobile vision assessments,
+to the best of the authors’ knowledge, there has been limited
+exploration into the integration of smartphone sensors to detect
+subtle behavioral changes, such as facial expressions, that may
+indicate visual impairment. Chen et al. (2023) developed a
+mobile eye examination tool for young children for the early
+detection of 16 ophthalmic disorders by analyzing gaze direction and facial features in response to visual stimuli [42].
+The performance evaluation of the deep-learning based method
+on an external dataset revealed an AUC of 0.86 and showed
+robustness while adapting to different environments. As an
+
+4427
+
+innovation to current mobile vision assessments, the rationale
+for recording these indicators stems from the hypothesis that
+tracking behavioral data could reveal signs of visual impairment
+and serve as digital biomarkers. Facial expressions, for example,
+can be key non-verbal indicators of discomfort. Research, such
+as Ekman and Friesen’s Facial Action Coding System, has shown
+that facial expressions like squinting or furrowing of the brow
+may be associated with emotional experiences [43], which might
+include difficulty seeing clearly. Galati et al. reported an increased frequency of certain facial movements when comparing
+children with congenital low vision and sighted children [44]. By
+recognizing these non-verbal cues, it might be possible to infer
+eyesight issues and initiate further assessments. Additionally,
+individuals experiencing vision problems may exhibit subtle
+changes in facial behavior, such as blinking patterns or tilting of
+the head, which can signal visual discomfort or distress.
+Carrying out eye tests with modern mobile devices offers the
+possibility of simultaneously recording facial landmarks and
+identifying correlations with visual impairments. These facial
+landmarks could then assist in detecting visual impairments
+without explicit eye examinations, by unobtrusively monitoring subtle changes in facial features. Given the frequent use
+of smartphones in everyday life, this approach is particularly
+promising as a complement to clinical assessment, which may
+overlook visual impairments that rather manifest in real-life situations [45]. Regular and unobtrusive tracking of relevant facial
+features, e.g., while reading on a smartphone, offers a novel
+method for the potential recognition of vision-related changes,
+fostering timely interventions and addressing the monitoring of
+progressive vision loss.
+The objective of this study is to design and validate a mobile based vision assessment application that can accurately detect
+and quantify vision impairment using standard eye examination
+techniques while simultaneously recording facial landmarks.
+Through facial landmark analysis, the application provides
+behavioral insights into how vision impairment affects facial
+expressions. Therefore, this study addresses the overarching
+question: Can the analysis of facial landmarks during a standard
+vision test performed with mobile devices draw conclusions
+about readability – possibly related to visual impairment? The
+long-term aim is to integrate facial feature tracking into everyday
+technologies, like web browsers and e-readers, for the detection
+of vision-related behavioral changes, providing timely alerts to
+users.
+To adequately answer this question, a well-designed study
+needs to be conducted. Studies in an uncontrolled setting can be
+influenced by numerous confounding factors that can obscure
+the true impact of visual impairments on facial landmarks. In an
+uncontrolled environment in which participants use the application alone, different lighting conditions, the angle and distance
+at which the device is positioned and the subjective assessment
+of their own eyesight could play a role. In contrast, a standardized environment allows for the controlled assessment of
+these factors, ensuring that the contributions of facial landmarks
+are more isolated, pronounced and significant. This controlled
+approach is an important first step in accurately assessing the
+potential of facial feature analysis in the detection of visual
+
+
+[page 3]
+4428
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+impairment. With the findings of this initial study, an extension
+to unobtrusive tracking in non-standardized environments can be
+thoroughly planned. This research aims to achieve the following
+key objectives:
+1) Mobile Application Design and implement an application for conducting standardized visual acuity tests on
+mobile devices.
+2) Facial Landmark Feature: Incorporate a facial landmark feature into the application for recording and
+evaluating facial landmarks during the vision tests.
+3) Experimentation and Validation: Conduct a study to
+verify the application’s accuracy in vision testing and to
+record facial landmarks.
+4) Data Analysis: Examine changes in facial behavior, like
+eyelid squinting [46], during vision tests to assess their
+correlation with test performance.
+5) Impact Assessment and Recommendations: Assess the
+application’s utility and accuracy and propose future
+research directions and improvements.
+By achieving these objectives, this research aims to contribute
+to the advancement of mobile-based vision assessment methodologies and pave the way for cost-effective, accessible, and
+timely detection of vision impairment using mobile devices.
+
+Fig. 2. Visual angle and design of a Landolt C optotype illustrating the
+ratio between detail of the letter (1 part) and total letter size (5 parts).
+TABLE I
+LETTER SIZES FOR THE VISUAL ACUITY TEST AT DIFFERENT LEVELS OF
+DIFFICULTY AND A DISTANCE OF 3 METERS. COMPARE [48]
+
+II. MATERIAL AND METHODS
+To address the research objectives and answer the proposed
+questions, the methodology followed three key phases, each
+described in detail within this section: (1) adapting a standard
+visual acuity test into a mobile application, incorporating supplementary components such as the recording of facial landmarks
+and questionnaires; (2) conducting an eye-test study using this
+mobile application to gather relevant data; and (3) analyzing
+the collected data, focusing on the relationship between readability and facial gestures, primarily through descriptive and
+explorative statistical methods.
+A. Mobile Application
+The application, named EyeSight, was specifically developed
+for the iPhone 13 Pro using Swift, the primary programming
+language for iOS. EyeSight was designed to perform standard visual acuity tests while simultaneously capturing facial
+landmarks to analyze visual behavior. Questionnaires before
+and after the visual acuity test were used to collect metadata
+about the participant. The software is available under https:
+//github.com/NumericalMax/viim.
+Visual Acuity Test: Visual acuity, the ability of the human
+eye to recognize fine details, is defined as the resolving power
+of the eye. It is quantified by the visual angle of the detail,
+which is the angle formed by the smallest distinguishable two
+points separated in space of the object seen by the eye (cf.
+Fig. 2(a)) [47]. For standardized visual acuity tests, a symbol
+called a Landolt ring is used, which is a C-like optotype where
+the gap – referred to here as the detail of the letter – is 1/5 of the
+total height (cf. Fig. 2(b)). In a more clinical set-up of a visual
+acuity test, letters that fulfill such shape definitions can also be
+used. For a consistent measurement and for the development of a
+
+vision test that is both accurate and adaptable to different display
+devices such as the iPhone 13 Pro, technical considerations such
+as screen size and viewing distance lead to limitations and were
+taken into account in the present study.
+Visual acuity is often measured scientifically as logMAR
+(logarithmic minimum angle of resolution), which is defined
+by the equation
+logM AR = log10 (θd )
+where θd is the visual angle of the detail of an optotype. A lower
+logMAR value signifies better visual acuity. Another metric,
+Visus V , or decimal visual acuity, inversely represents the visual
+angle:
+V =
+
+1
+⇔ logM AR = − log10 (V )
+θd
+
+(1)
+
+Human visual acuity is assessed by adjusting the size of details
+in eye tests in logarithmic steps in accordance with the DIN
+EN ISO 8596 standard [48]. Using the conversions from (1),
+the correct size of the letters s for eye testing can be calculated
+depending on the visual angle θ and the distance d to the screen.
+Using trigonometric formulas on the scenario in Fig. 2(a) yields
+ 
+θ
+s
+tan
+=
+2
+2·d
+where θ is given in radians and s, d in millimeter (mm). At
+a distance of 3 m and a logMAR stepsize of 0.1, the letter
+sizes are calculated as given in Table I. With a screen width
+of 71.5 mm, the iPhone 13 Pro can cover all relevant logMAR
+values at a distance of 3 meters. Considering the limited width,
+
+
+[page 4]
+KAPSECKER et al.: FACIAL LANDMARK ANALYSIS FOR DETECTING VISUAL IMPAIRMENT IN MOBILE LogMAR TEST
+
+the maximum distance for performing a vision test on an iPhone
+13 Pro with a logMAR starting value of 1.0 is 4.92 meters.
+The conversion from letter to font size in points for an iPhone
+13 Pro required the calculation of a scaling factor. This factor
+was derived from the definition of points, where 1 m corresponds
+to approximately 2834.6 points. To better align with actual
+displayed sizes of the target device, a manual correction factor
+of 3.45 was determined. The combination of these two factors
+yielded the overall factor of 9779.37 points
+meter .
+A number of five optotypes per row (cf. Fig. 3(c)) are randomly drawn from the following letter pool: A, C, D, E, F, H, L,
+N, O, P, R, T, V, Y, and Z. The open-source font Optician Sans is
+employed for presenting the optotypes. For a standardized test
+setting, the brightness of the phone is automatically adjusted to
+100% during the eye test.
+Data collection: During the conduction of the logMAR test,
+the optical sensors, i.e. the device’s front-facing camera and
+the true depth sensor, were used to collect data on a sample
+basis. Specifically, the face-tracking functionality of Apple’s
+ARKit2 framework, which interfaces directly with these optical
+sensors, served as the data delivery layer. Each sample represents
+a single snapshot of the face that contains metadata such as
+the timestamp and current logMAR level, the tracked face mesh
+(represented by 1220 three-dimensional vertices), and blendshapes. Latter resembles a preprocessed set of 52 interpreted
+facial expressions.34 Blendshapes are represented with a title
+key, e.g. Brow Outer Up Left, and a single floating point number
+(0–1) to quantify expression strength. These values are sampled
+at the device’s maximum frequency of 60 Hertz.
+Squint detection: One of the application’s key functional
+features is the detection of eye squinting. Short-sighted people
+in particular tend to squint their eyes in order to adjust their
+vision to see objects in the distance [49]. To reliably detect
+this, a key functional requirement was the integration of a
+calibration step to measure individual squinting intensity. During
+calibration, participants follow a sequence of eye poses, starting
+from neutral, then progressing to slightly squinting, strongly
+squinting, and back to slightly squinting (cf. Fig. 3(b)). The application simultaneously records and averages the values of the
+Eye Squint Right and Eye Squint Left facial landmarks provided by
+ARKit, setting thresholds for each pose. To ensure objectivity,
+distraction poses such as looking left or right and smiling are
+included in the calibration process. Calibration relies on a snapshot of each participant’s current perception and execution of
+squinting strength, making exact reproducibility of thresholds
+unlikely if the experiment is repeated.
+Squint detection is triggered when the participant’s thresholds
+are exceeded. This functionality becomes particularly relevant
+during the second round of the eye examination cycle, where
+squinting causes the screen to turn red, preventing the participant
+from compensating for their vision by squinting – potentially
+revealing alternative compensatory facial gestures.
+2 https://developer.apple.com/documentation/arkit. Accessed: 12.12.2024
+3 https://developer.apple.com/documentation/arkit/arfaceanchor/
+blendshape location. Accessed: 25.01.2024
+4 https://arkit-face-blendshapes.com/. Accessed: 07.05.2024
+
+Fig. 3.
+
+4429
+
+Study setting and mobile application.
+
+Questionnaire: Prior to the vision test, a questionnaire collected data on the participant’s use of visual aids, including
+whether they have one, whether they are currently wearing it, and
+the prescription power in diopters. Following this, three questions explored the participant’s subjective assessment of their
+vision. The participant indicated whether they face challenges
+
+
+[page 5]
+4430
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+in reading smartphone screens, cinema subtitles or subway signs,
+and road signs.
+In a follow-up questionnaire after the vision test, participants
+evaluated their performance by indicating whether they found
+reading the letters challenging overall (cf. Fig. 3(d)) and whether
+they believe to need a (new) visual aid.
+B. Study
+The participants were recruited via posters and personal contacts, mainly at the Technical University of Munich (TUM). The
+study was approved by the TUM ethics committee (2023–509S-SB). All participants were first informed about the context
+and procedure of the study, and written informed consent was
+obtained from all participants beforehand.
+For the study the participant was seated at a distance of 3
+meters in front of the mobile device (iPhone 13 Pro), which
+was mounted horizontally – measured with iOS inbuilt spirit
+level application – on a tripod at the participant’s eye level (cf.
+Fig. 3(e)). The device was adjusted so that it was at the same
+height as the participant’s head and the participant had the feeling
+that they were looking straight at the screen. For those with
+visual impairments, the distance from the device was reduced
+to either two or one meter, depending on the severity of the
+impairment, to allow the display of higher logMAR levels (cf.
+Fig. 3(a)). To ensure consistent lighting conditions for every test,
+ceiling lights were switched on. Some participants who wore
+glasses underwent the procedure twice, once with glasses and
+once without. The study conductor was located beside the tripod
+and guided the participant through the test.
+After facial calibration and going through the first part of the
+questionnaire, the actual visual acuity test was carried out twice
+and with both eyes, i.e., binocularly. Each time the participant
+was presented with rows of letters that became smaller until
+the participant could no longer read them. In the second round,
+any attempts to squint the eyes were automatically detected by
+the application and prevented by turning the screen red. The
+participant did not receive any feedback as to whether the letters
+were recognized correctly. The study conductor secretly labeled
+the rows of letters by tapping on different areas of the screen,
+depending on whether all, some, or none of the letters in a row
+had been recognized (cf. Fig. 3(c)). The second part of the
+questionnaire concluded the study run. Throughout the study
+process, the recording of facial landmarks and the calculation of
+squint thresholds were performed automatically by the system.
+All other data collection and procedures were manually entered
+by the study conductor, including completing the questionnaire,
+labeling whether the letter row was read correctly, initiating the
+calibration phase when the participant was ready, and navigating
+to the next screen.
+Finally, the study conductor exported the recorded data to the
+phone’s file system and labeled it with a numerical identifier. The
+raw files were then moved to a computer for further processing.
+C. Data Analysis
+Preprocessing: The data analysis utilized the recorded samples of the 52 blendshape values, organized into a table and
+
+Fig. 4. Illustration of the data based on the Cheek Squint Left blendshape (one of 52). The sample shows its raw data and the four aggregated metrics: mean, standard deviation (std.), minimum, and maximum.
+The images depict examples of facial snapshots captured while reading
+the letter rows 2, 3, 4, and 9.
+
+enriched with further metadata such as the participant identifier
+and logMAR scores. To account for inter-participant variability,
+such as differences in eye shapes, each blendshape was standardized on a per-participant basis. This standardization enhanced
+comparability across participants in subsequent analyses.
+Samples indicating mouth opening, identified by the JawOpen
+blendshape (typically due to speech), were excluded to prevent
+bias. Talking can influence other facial features and potentially
+mask the true changes relevant to letter-reading ability during
+vision tests. While speaking directly relates to reading ability and
+can bias results, other potential artifacts such as gaze direction
+and head movement were not systematically excluded. Gaze
+direction might itself indicate reduced readability, and head
+movements were minimal since participants generally remained
+focused on the mobile screen, making it challenging to establish
+thresholds for excluding such deviations.
+The blendshapes were recorded at ARKit’s highest resolution
+of 60 Hz, allowing for detailed capture of facial gestures, even
+those of short duration. This high-resolution recording provided
+greater flexibility in data analysis, resulting in multiple snapshots
+of blendshape values per participant and per letter row. The
+raw blendshape values were recorded as a sequence and then
+aggregated by participant and letter row using the mean, standard deviation, minimum, and maximum. In the final dataset,
+the Label column annotated the reading ability for each letter
+row as all, some, or none of the letters, along with metadata
+from questionnaires and information on whether squinting was
+permitted. To minimize biases from initial unfamiliar testing
+conditions and learning effects, the first presented row of letters
+shown to each participant was excluded from the dataset.
+Fig. 4 exemplifies the process of data recording and feature
+engineering for a single participant, illustrating how raw blendshape sequences were transformed into aggregated blendshapes
+for analysis.
+Explorative Data Analysis and Statistical analysis: To facilitate a robust exploratory analysis, the blendshapes associated
+with facial regions – jaw, eye, mouth, cheek, forehead, and nose
+– were averaged into a single representative value. Blendshapes
+associated with the tongue were omitted from the analysis based
+on the assumption that all samples involved closed mouths.
+
+
+[page 6]
+KAPSECKER et al.: FACIAL LANDMARK ANALYSIS FOR DETECTING VISUAL IMPAIRMENT IN MOBILE LogMAR TEST
+
+Timeseries plots of the facial regions were created in order
+to visually examine the change with reduced readability of
+the letters. Furthermore, boxplots and analysis of variance
+(ANOVA) were employed to discern any significant differences
+in facial regions based on the participants’ ability to recognize
+all, some, or none of the letters in a row. The prerequisites
+for a valid one-way ANOVA – (1) independence of samples,
+(2) normality of distribution, and (3) homoscedasticity – were
+met in the dataset. The null hypothesis, asserting no difference in
+regional scores among the groups, was rejected at a significance
+level of 5%.
+Assessing Sensor Accuracy: Previous work revealed a
+strongly decreasing reliability of the true depth sensor in dependence of increasing participant-device distance [50]. To verify
+the accuracy of facial landmark detection for a distance of three
+meters, four authors performed three predefined gestures with
+a repetition count of five. The gestures were raising the brows,
+smiling, and squinting the eyes. Subsequently, the blendshapes,
+in which a change was anticipated were visually examined
+regarding signal deflection and the number of repetition counts.
+Facial Landmarks as a Predictor of Readability: This study
+aimed to identify facial landmarks associated with reduced
+readability, potentially indicative of impaired vision. An interpretable thresholding method was applied to each of the
+aggregated blendshape values to evaluate their effectiveness in
+distinguishing between different readability levels. To address
+the class imbalance – where the some (n = 202) and none
+(n = 25) categories were underrepresented compared to the all
+category (n = 638) – the some and none labels were combined
+into a single not all class, thereby achieving a more balanced
+sample distribution.
+Receiver Operating Characteristic (ROC) curves [51], [52]
+were employed to assess the ability of blendshape aggregates to
+differentiate between the all and not all readability classes. The
+ROC curve analysis facilitated performance evaluation through
+the area under the curve (AUC) metric, which quantifies the
+discriminative power of the blendshape aggregates. AUC values
+range from 0 to 1, with values further from 0.5 indicating
+stronger discriminative ability. For example, an AUC of 1.0
+for the mean Cheek Squint Left blendshape aggregate indicates
+perfect separation of readability levels.
+ROC curves and AUC calculations were performed in two
+ways:
+1) Individualized: Each blendshape aggregate (4 × 52)
+was evaluated separately for the 45 individual eye examinations. This approach is highly individualized, as
+each value array (e.g., Cheek Squint Left Mean as shown in
+Fig. 4) was assessed for its ability to separate classes. The
+resulting AUC values – calculated across 4 aggregations,
+52 blendshapes, and 45 eye examinations – were ranked
+based on performance and visualized using boxplots to
+summarize the discriminative capabilities of the various
+blendshapes.
+2) Generalized: Each blendshape aggregate (4 × 52) was
+also evaluated using the combined data from all 45 eye
+examination tests in one. AUCs and their corresponding
+95% confidence intervals (CIs) were calculated using the
+DeLong test [53] and presented in a table. To evaluate the
+
+4431
+
+potential impact of the mild to moderate class imbalance,
+we repeated the analysis by subsampling the majority
+class (all) to match the sample size of the minority class
+(not all).
+A threshold-based classifier was constructed to predict readability based on the blendshape features. To enhance accuracy
+and reduce feature dimensionality, only blendshape aggregates
+with AUC values greater than 0.75 were selected for classifier
+development. Due to the relatively small number of participants,
+using a traditional hold-out test set comprising approximately
+20% of the data was insufficient to achieve statistically significant results. Therefore, performance was assessed using
+a leave-one-out cross-validation (LOOCV) approach. In the
+LOOCV method, the classifier was iteratively trained on all
+participants’ eye examination cycles except one, which was used
+for evaluation. Specifically, the classifier learned thresholds for
+the selected blendshape aggregates based on the training data
+from all but one participant’s eye examination cycles. These
+thresholds were then applied to the left-out data, binarizing the
+aggregated blendshapes as either 0 or 1. To predict the readability
+of a specific letter row, the binary blendshape values were
+averaged to obtain a probability score. If the averaged probability
+exceeded 0.5, the letter row was classified as positive, indicating
+that it was not readable by the participant. For each left-out
+participant’s eye examination cycle, classifier performance was
+assessed using balanced accuracy, which is the arithmetic mean
+of sensitivity and specificity. The resulting balanced accuracies,
+sensitivities, and specificities were averaged and reported for
+two scenarios: allowing squinting and not allowing squinting.
+III. RESULTS
+A. Study
+From September 2023 to December 2023, 37 individual
+participants performed a total of 46 eye tests. Due to metadata
+corruption, one test was excluded, leaving 45 valid vision
+tests. The mean diopters (D) of participants was −1.6 D, with a
+standard deviation of 2.8 D. Of these, 27 tests were conducted
+with participants who own a visual aid – either glasses or
+contact lenses – with 16 of the participants using them during
+the test. Most participants reported that they had no difficulty
+reading a smartphone screen, which is related to the fact that
+many either had no visual impairment or were short-sighted.
+12 participants stated difficulties when reading cinema titles or
+recognizing street signs.
+The eye tests were primarily conducted at a distance of 3
+meters (39 trials), with fewer trials at 2 meters (2 trials), 1 m
+(2 trials), and 0.5 meters (2 trials). Post-test feedback indicated
+that 22 participants believed they might need a new visual aid,
+and 17 found the test challenging.
+Statistical analysis using Pearson’s correlation coefficient revealed a moderate to strong absolute relationship between the
+logMAR values and several binary variables: use of visual aids
+(−0.32, 95% CI, −0.02 to −0.56), perceived need for new visual
+aids (0.46, 95% CI, 0.2 to 0.67), ability to read cinema titles
+(0.49, 95% CI, 0.23 to 0.68), ability to read street signs (0.64,
+95% CI, 0.43 to 0.79), and ease of test (0.50, 95% CI, 0.25 to
+0.7). Assuming that individuals wearing corrective lenses during
+
+
+[page 7]
+4432
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+Fig. 6.
+
+Signal change when performing predefined actions.
+
+The figure reveals an upward trend, particularly noticeable at
+logMAR values where participants could read only a few or
+none of the letters on average. In contrast, Fig. 5(b) presents
+a similar trend but on a different scale, using the readability
+class as the x-axis. This approach offers a more individualized
+perspective, as it accounts for each participant’s visual limits,
+unlike the logMAR-based figure which assumes a uniform
+standard. This distinction is important because the logMAR
+figure might yield skewed results if the participants’ vision is
+not homogenous. However, both figures reach a similar conclusion, likely because the participants had relatively similar visual
+acuity, resulting in a comparable average point where readability
+declined.
+A changing trend of facial landmarks in dependence of letter
+size and readability aligns with the results of Fig. 5(c). The
+boxplot reveals a pattern of difference of facial gestures in
+regards to the three classes that a participant could either read all,
+some or none of the letters. The visual impression is supported
+by the results of ANOVA stating that all facial regions have a
+statistically different population mean regarding the label with
+all p-values below 0.01.
+C. Sensor Accuracy
+Fig. 5.
+
+Explorative analysis.
+
+the vision test had fully compensated refractive errors (i.e.,
+setting the self-reported diopters to 0.0), the Pearson correlation
+between logMAR values and diopters was −0.80 (95% CI, −0.67
+to −0.89).
+B. Explorative Data Analysis and Statistics
+Fig. 5(a) shows the trend in changes of facial features as a
+function of logMAR, which represents perceived letter size.
+
+Fig. 6 illustrates distinct peaks in the measurements for actions
+associated with eyebrow raising and smiling blendshapes, while
+the pattern for the cheek squint blendshape during squinting is
+less pronounced. This subtlety in the squinting data may arise
+because squinting involves a combination of facial movements
+and can vary when performed on command by different individuals. However, the graphs clearly showed detectable changes
+associated with eye squinting. Still, a variation in the deflection
+of the curves can be observed between the test subjects and imply
+inter-participant variations.
+
+
+[page 8]
+KAPSECKER et al.: FACIAL LANDMARK ANALYSIS FOR DETECTING VISUAL IMPAIRMENT IN MOBILE LogMAR TEST
+
+4433
+
+TABLE II
+AUC VALUES AND ASSOCIATED 95% CONFIDENCE INTERVALS OF THE ROC CURVES FOR ASSESSING THE SEPARABILITY OF READABILITY LABELS USING A
+SINGLE THRESHOLD FOR ALL INDIVIDUALS. BLENDSHAPES AND THEIR AGGREGATES WITH AUC VALUES ABOVE 0.75 WERE COLORED
+
+D. Prediction of Readability
+Fig. 7 visualizes the AUC score distribution across participants for the aggregated blendshape values. The results indicate that the mean, standard deviation, and maximum aggregations generally revealed blendshapes with substantial class
+separability on an individual basis. Notably, the maximum
+Cheek Squint Right blendshape achieved the highest class discrimination when squinting was permitted, with an average
+AUC of 0.83 ± 0.17, closely followed by the maximum Cheek Squint Left blendshape with an average AUC of 0.82 ± 0.19.
+The maximum Mouth Smile (0.77 ± 0.19 for both left and right
+sides), as well as the standard deviation of Cheek Squint Left
+(0.76 ± 0.24) and Cheek Squint Right (0.78 ± 0.24), also demonstrated decent performance. When squinting was not allowed,
+the maximum Mouth Smile blendshape achieved an average AUC
+of 0.84 ± 0.22 for the left side and 0.83 ± 0.22 for the right side.
+Overall, Cheek Squint blendshapes emerged as the predominant
+discriminators among all aggregation methods.
+Table II presents the ROC curves and corresponding AUC
+values calculated for each blendshape aggregate using the
+combined data from all participants. Blendshape aggregates with
+AUC values exceeding 0.75 are highlighted, indicating their
+strong performance in distinguishing between the all and not all
+readability classes. The top-performing blendshapes primarily
+involve maximum deflection during the reading of a letter row,
+including cheek squint, eye squint, mouth dimple, lower mouth
+
+roll, mouth shrug, mouth smile, mouth upper up, and nose sneer.
+The estimated 95% CIs for the AUCs are approximately ±0.05,
+reinforcing the statistical significance of these findings. The repeated analysis with balanced samples revealed slight variations
+but remained largely consistent with the original results.
+Utilizing these high-performing blendshape aggregates in the
+classification model, LOOCV approach was employed to evaluate performance. The classifier achieved an average balanced
+accuracy of: (1) 0.7749 (Sensitivity: 0.7879, Specificity: 0.762)
+when squinting was allowed; (2) 0.7787 (Sensitivity: 0.7378,
+Specificity: 0.8195) when squinting was not allowed.
+The analysis of blendshape metrics with strong discriminative
+power revealed several key findings: (1) The mean blendshape
+aggregates for Cheek Squint, Mouth Upper Up, and Mouth Smile
+showed the highest average AUC values, indicating that these
+facial landmarks significantly differed between the all and not
+all readability classes when assessed on an individual basis.
+However, mean blendshape aggregates were not significant in
+the generalized approach; (2) The standard deviation blendshape
+aggregates for Cheek Squint and Nose Sneer demonstrated high
+average AUC values in both generalized and individual assessments, indicating that the variation in movement for these landmarks was most distinct between the classes; (3) The minimum
+blendshape aggregates did not reveal any meaningful patterns,
+which is expected, as the minimum often represents an inactive
+facial landmark and thus reflects normal facial behavior; (4) The
+
+
+[page 9]
+4434
+
+Fig. 7.
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+Distribution of individualized AUC scores of the aggregated blendshapes for readability.
+
+
+[page 10]
+KAPSECKER et al.: FACIAL LANDMARK ANALYSIS FOR DETECTING VISUAL IMPAIRMENT IN MOBILE LogMAR TEST
+
+maximum blendshape aggregates for Cheek Squint, Nose Sneer,
+and Mouth Smile showed the highest AUC values, suggesting that
+significant deflection of these landmarks was strongly associated
+with readability levels; (5) A high degree of consistency was
+observed between the left and right blendshape data points when
+both were available. This alignment is attributed to the natural
+symmetry of facial movements, reinforcing the robustness and
+reliability of the results.
+IV. DISCUSSION
+A. Feasibility
+The results of this study demonstrate the feasibility of adapting standard eye tests for mobile environments. The letter sizes
+were calibrated to adhere to medical standards, while the experimental setting simulated an optometrist’s environment. The
+detection of squinting was effective for most participants and
+the overall signal accuracy was sufficient to allow analysis from
+a distance of at least three meters (cf. Fig. 6). Although the
+test could not detect fine-grained differences, the participants’
+logMAR values converted to visual acuity (cf. Table I) correlated
+well with their self-reported diopters. This aligns with previous
+findings on the performance of mobile visual acuity tests [41]
+and highlights the significant potential of mobile applications
+for assessing myopia and other visual impairments.
+In addition, the pilot study provided promising results in
+detecting behavioral changes related to letter perception and
+reading accuracy. Visual inspection of facial regions, particularly those encompassing individual facial features, indicated
+significant changes when participants struggled with letter sizes,
+typically starting from a logMAR of 0.0. The average logMAR of
+0.0 generally stands for a good visual acuity of the participants,
+which is not surprising due to the predominance of young
+participants [54]. The consistently low orange line in 5(a) and
+5(b) is due to squinting being prohibited, resulting in less curve
+deflection compared to when participants were free to use their
+facial expressions.
+The average AUC scores further confirmed the presence of
+discriminative factors related to letter recognition and readability. Cheek squinting emerged as the predominant blendshape for
+distinguishing between classes. This finding aligns with early
+work by Bradburne (1909), who associated squinting with refractive errors, fusion defects, or other vision impairments [49].
+By narrowing the eye’s opening and reducing unfocused light
+rays, squinting can effectively increase visual focus and acuity,
+providing a plausible physiological basis for why this particular
+facial expression is so strongly linked to changes in perceived
+readability. Likewise, the facial regions of the cheeks, mouth,
+and nose were frequently represented among the top discriminators – likely because they mimic eye squinting behavior.
+The exploratory data analysis also revealed a significant trend
+within the facial regions of the mouth, cheeks, and nose (cf.
+Fig. 5(b)). The results suggest that the hypothesis of distinct
+facial patterns between effortless reading and reading difficulties cannot be readily dismissed. Moreover, the AUC of the
+maximum Cheek Squint feature was 0.82 (95% CI, 0.78–0.87),
+which is approximately in line with the reported AUC of 0.86
+
+4435
+
+(95% CI, 0.78–0.94) by Chen et al. (2023) [42]. Although Chen
+et al. (2023) predicted visual impairments in young children
+primarily based on gaze direction and facial gestures, their
+and the underlying findings affirm the significant role of facial
+expressions in identifying readability challenges.
+B. Implications
+The results demonstrated largely uniform patterns during
+reduced readability, suggesting similar behavioral patterns occur
+during reduced vision. Specifically, squinting of the cheeks and
+associated facial movements might serve as a digital biomarker
+for visual health. Facial metrics were recorded from a distance
+of three meters, implying that tracking facial characteristics
+even closer to the phone – such as when interacting with it
+or holding it near the face while looking into the distance –
+might accurately detect indicators of vision loss, particularly
+when tracking changes over a long period. The study data
+showed high heterogeneity among participants, for example in
+the intensity of facial expressions, implying that changes in
+individual facial expressions need to be considered on a per person basis rather than pursuing a one-threshold-fits-all strategy. The practical implications are that extending the approach
+into non-standardized settings through a long-term study is both
+feasible and justified. This extension would mitigate the current
+limitations of the study, some of which stem from the necessity
+of establishing a proof-of-concept before progressing to more
+sophisticated and time-demanding procedures. Detecting signs
+and progression of vision impairment using mobile devices as a
+long term perspective would have a significant impact on global
+health, considering the high prevalence and rapid increase of eye
+diseases.
+C. Limitations
+The experiments were conducted in a standardized environment to minimize external influences on the vision testing
+process. Nonetheless, there remains a risk that the observed
+behavioral changes could be attributed to non-vision-related
+factors, such as adaptation to the testing environment, which
+might alter facial expressions. Additionally, the head was not
+fixed during testing, allowing for minor movements in distance
+and angle relative to the smartphone, which could impact the
+accuracy of the results. While samples with detected open
+mouths were excluded, interactions between speech dynamics
+and other facial landmarks, like the cheeks, might still introduce
+bias into the analysis. The generalizability of facial expressions
+in visually impaired people in non-standardized environments
+is also still limited.
+A key limitation of this study is the relatively small and
+homogeneous sample of 37 participants, which restricts both the
+statistical power and the generalizability of the findings. With a
+limited number of participants, subtle differences or variations in
+facial reactions may not have been detectable, increasing the risk
+of type II errors. The absence of participants with more diverse
+forms of visual impairment beyond mild to mid-severe myopia
+and hyperopia, as well as the lack of individuals from a broader
+range of ages and ethnicities, further constrains the applicability
+
+
+[page 11]
+4436
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+of these results. For instance, older adults or those with age related ocular conditions may exhibit distinct behavioral patterns
+not captured in this cohort. Similarly, a more ethnically diverse
+population could present a wider array of facial expressions
+and cultural variations in nonverbal communication. Although
+steps were taken to standardize data and consider individual
+thresholds, the extent to which these findings can be generalized to different populations and clinical contexts remains an
+open question. Future studies should incorporate larger, more
+diverse cohorts to enhance the robustness and significance of the
+results.
+Regarding the test distance, conducting the examination at
+more than three meters – according to DIN Norm a minimum
+distance of four meter is required [48] – presents challenges due
+to the limited screen size of smartphones, which restricts the
+display of large letters. Conversely, when testing too close to the
+smartphone screen the far point of people with low myopia might
+lie beyond the test distance. Their visual impairment will not be
+noticable, no matter how small the letters get. Consequently, the
+current implementation is most effective within a range of two
+to three meters.
+Compared to existing remote vision testing tools, the application currently falls short in terms of usability. While it includes an
+onboarding process and guides the user through the test, there is
+room for improvement, particularly in providing visual guidance
+and audio instructions. These improvements would allow the
+test to be carried out independently and without the help of
+a second person. In addition, the results of facial recognition
+are not processed or displayed directly on the device, but the
+data must be transferred to a computer for further analysis. This
+requirement restricts the use of the application in its current form
+to the research field and does not make it accessible for wider
+personal use.
+D. Future Work
+The application’s scope can be extended by incorporating
+additional data, such as voice patterns and posture, enabling
+analyses akin to those performed with facial features. A potential
+hypothesis is that diminished readability correlates with changes
+in voice confidence. Integrating a remote control feature would
+allow optometrists to administer tests via telehealth platforms.
+Additionally, collaborative learning of blendshape thresholds
+using secure aggregation protocols could enhance the identification of crucial vision-related factors, all while preserving user
+privacy. Cross-platform recording and analysis of facial features
+could be a valuable step into the future, allowing the application
+to be used across a wide range of mobile devices as well as
+desktop and laptop computers.
+To validate and expand upon the findings of this study in
+a practical context, the authors plan to integrate facial feature tracking into common, non-standardized everyday environments, such as web browsers and e-book readers. The proposed
+roadmap involves first consolidating the current facial landmark
+tracking and external data analysis components – currently
+performed post-hoc on a central computer – into a stand alone
+mobile library that can be natively deployed on popular operating systems. In addition, the authors will integrate other sensor
+
+data (e.g., device orientation, camera-to-user distance, and ambient light intensity) to automatically adjust for environmental
+variations that may affect vision behavior. Once the library is
+fully integrated, for example into an open-source web browser
+platform, frequent on-device data sampling can occur during the
+user’s interaction.
+The authors plan to implement a user feedback mechanism via
+notifications. Periodically, users may be asked to provide subjective assessments of their perceived vision quality, as well as the
+results of any recent professional eye examinations. These user
+inputs can serve as soft labels that, combined with the continuous
+facial expression data, will help correlate observed changes
+in facial behavior with variations in visual acuity over time.
+Additionally, research into user experience and communication
+strategies must be conducted to ensure users are sensitively
+informed about changes in their data (e.g., significant increases
+in squinting strength).
+A clinical study is planned, in collaboration with ophthalmologists, to further evaluate the feasibility and accuracy of these
+methods in both inpatient and remote settings. This initiative will
+involve regular professional eye examinations and ongoing user
+feedback, strengthening the clinical evidence and applicability
+of the proposed solution. With a larger, more diverse participant
+cohort, it will be possible to advance with more sophisticated
+AI models such as tree-based algorithms. These advances could
+lay the foundation for a widely available digital solution for the
+unobtrusive detection of signs of visual impairment.
+V. CONCLUSION
+This study explored the use of mobile devices to conduct a
+standard eye examination, capturing facial features to identify
+patterns indicative of wrong letter reading, which may suggest
+vision impairment. The adaptation of the logMAR test to a mobile
+environment showed no technological constraints. While the test
+effectively differentiated between severe and mild impairment,
+it struggled to identify more subtle variations in vision. Analysis
+of facial features uncovered patterns related to the size of letters
+perceived, thus affecting reading ability. Preliminary findings
+suggest that gestures such as cheek squinting could predict vision impairment, though further validation in larger, longer-term
+studies in non-standardized settings is required. Future research
+should consider the inclusion of additional sensor data, cross platform compatibility, and integrating facial feature tracking
+into daily-use applications. This approach aims to continuously
+monitor facial behaviors linked to vision issues, complemented
+by regular eye exams for significant evaluations. Thereby, ondevice monitoring and analysis of behavioral data for detecting
+ongoing vision deterioration provide a privacy-preserving and
+continuous assessment tool that is available independent of time
+and location.
+DECLARATION OF AI-ASSISTED TECHNOLOGIES IN THE
+WRITING PROCESS
+During the preparation of this work, the authors used AI
+to check the text for readability and to eliminate typos and
+grammatical errors. Subsequently, the authors reviewed and
+
+
+[page 12]
+KAPSECKER et al.: FACIAL LANDMARK ANALYSIS FOR DETECTING VISUAL IMPAIRMENT IN MOBILE LogMAR TEST
+
+edited the content as needed and take full responsibility for the
+content of the publication.
+ACKNOWLEDGMENT
+The authors would like to thank Julian Ostarek and Efe Berk
+Ergüleç for their support in the implementation of the study
+application.
+REFERENCES
+[1] M. Spering, “Eye movements as a window into decision-making,” Annu.
+Rev. Vis. Sci., vol. 8, pp. 427–448, 2022.
+[2] F. Hutmacher, “Why is there so much more research on vision than on any
+other sensory modality?,” Front. Psychol., vol. 10, 2019, Art. no. 481030.
+[3] O. Zinchenko, Z. A. Yaple, and M. Arsalidou, “Brain responses to dynamic
+facial expressions: A normative meta-analysis,” Front. Hum. Neurosci.,
+vol. 12, 2018, Art. no. 227.
+[4] M. Arsalidou, D. Morris, and M. J. Taylor, “Converging evidence for
+the advantage of dynamic facial expressions,” Brain Topogr., vol. 24,
+pp. 149–163, 2011.
+[5] T. Hong, P. Mitchell, G. Burlutsky, C. Samarawickrama, and J. J. Wang,
+“Visual impairment and the incidence of falls and fractures among older
+people: Longitudinal findings from the blue mountains eye study,” Invest.
+Ophthalmol. Vis. Sci., vol. 55, no. 11, pp. 7589–7593, 2014.
+[6] B. Lachenmayr, “Traffic ophthalmology, Assessment of ability to drive in
+road traffic,” Der Ophthalmologe: Zeitschrift der Deutschen Ophthalmologischen Gesellschaft, vol. 103, no. 5, pp. 425–43, 2006.
+[7] World Health Organization et al., “World report on vision,” World Health
+Organization Report, Geneva, 2019. [Online]. Available: https://www.
+who.int/publications/i/item/world-report-on-vision
+[8] L. Assi et al., “A global assessment of eye health and quality of life: A
+systematic review of systematic reviews,” JAMA Ophthalmol., vol. 139,
+no. 5, pp. 526–541, 2021.
+[9] H. Senra, L. Hernandez-Moreno, N. Moreno, and A. F. Macedo, “Anxiety
+levels moderate the association between visual acuity and health-related
+quality of life in chronic eye disease patients,” Sci. Rep., vol. 12, no. 1,
+2022, Art. no. 2313.
+[10] P. M. Cumberland et al., “Visual function, social position, and health and
+life chances: The U.K. biobank study,” JAMA Ophthalmol., vol. 134, no. 9,
+pp. 959–966, 2016.
+[11] A. Horowitz, “The prevalence and consequences of vision impairment in
+later life,” Topics Geriatr. Rehabil., vol. 20, no. 3, pp. 185–195, 2004.
+[12] A. P. Marques et al., “The economics of vision impairment and its
+leading causes: A systematic review,” EClinicalMedicine, vol. 46, 2022,
+Art. no. 101354.
+[13] K. S. Naidoo et al., “Potential lost productivity resulting from the global
+burden of myopia: Systematic review, meta-analysis, and modeling,” Ophthalmol., vol. 126, no. 3, pp. 338–346, 2019.
+[14] C. Lanca and S.-M. Saw, “The association between digital screen time and
+myopia: A systematic review,” Ophthalmic Physiol. Opt., vol. 40, no. 2,
+pp. 216–229, 2020.
+[15] P. N. Baird et al., “Myopia,” Nature Rev. Dis. Primers, vol. 6, no. 1, 2020,
+Art. no. 99.
+[16] E. Dolgin, “The myopia boom,” Nature, vol. 519, no. 7543, 2015,
+Art. no. 276.
+[17] B. E. Robinson, K. Mairs, C. Glenny, and P. Stolee, “An evidence-based
+guideline for the frequency of optometric eye examinations,” Primary
+Health Care, vol. 2, no. 4, 2012, Art. no. 121.
+[18] S. Resnikoff et al., “Estimated number of ophthalmologists worldwide (International Council of Ophthalmology update): Will we meet the needs,”
+Brit. J. Ophthalmol., vol. 104, no. 4, pp. 588–592, 2019.
+[19] R. R. A. Bourne et al., “Prevalence and causes of vision loss in high-income
+countries and in Eastern and central Europe in 2015: Magnitude, temporal
+trends and projections,” Brit. J. Ophthalmol., vol. 102, no. 5, pp. 575–585,
+2018.
+[20] H. Hong, O. J. Mújica, J. Anaya, V. C. Lansingh, E. López, and J. C.
+Silva, “The challenge of universal eye health in latin America: Distributive
+inequality of ophthalmologists in 14 countries,” BMJ Open, vol. 6, no. 11,
+2016, Art. no. e012819.
+[21] Y. Bai et al., “An investigation of vision problems and the vision care
+system in rural China,” Southeast Asian J. Trop. Med. Public Health,
+vol. 45, no. 6, pp. 1464–1473, 2014.
+
+4437
+
+[22] C. Wall, V. Hetherington, and A. Godfrey, “Beyond the clinic: The rise of
+wearables and smartphones in decentralising healthcare,” npj Digit. Med.,
+vol. 6, no. 1, 2023, Art. no. 219.
+[23] T. E. Collins et al., “The promise of digital health technologies for integrated care for maternal and child health and non-communicable diseases,”
+BMJ, vol. 381, 2023, Art. no. e071074.
+[24] S. Majumder and M. J. Deen, “Smartphone sensors for health monitoring
+and diagnosis,” Sensors, vol. 19, no. 9, 2019, Art. no. 2164.
+[25] C. Free et al., “The effectiveness of mobile-health technologies to improve
+health care service delivery processes: A systematic review and meta analysis,” PLoS Med., vol. 10, no. 1, 2013, Art. no. e1001363.
+[26] G. E. Legge, “Reading digital with low vision,” Visible Lang., vol. 50,
+no. 2, pp. 102–125, 2016.
+[27] S. S. Senjam, “Smartphones as assistive technology for visual impairment,”
+Eye, vol. 35, no. 8, pp. 2078–2080, 2021.
+[28] E. Habtamu et al., “Development and validation of a smartphone-based
+contrast sensitivity test,” Transl. Vis. Sci. Technol., vol. 8, no. 5, pp. 13–13,
+2019.
+[29] A. Bastawrous et al., “Development and validation of a smartphone-based
+visual acuity test (peek acuity) for clinical practice and community-based
+fieldwork,” JAMA Ophthalmol., vol. 133, no. 8, pp. 930–937, 2015.
+[30] O. K. Ozgur, T. S. Emborgo, M. B. Vieyra, R. F. Huselid, and R. Banik,
+“Validity and acceptance of color vision testing on smartphones,” J. NeuroOphthalmol., vol. 38, no. 1, pp. 13–16, 2018.
+[31] A. Bhaskaran, M. Babu, B. Abhilash, N. Sudhakar, and V. Dixitha, “Comparison of smartphone application-based visual acuity with traditional
+visual acuity chart for use in tele-ophthalmology,” Taiwan J. Ophthalmol.,
+vol. 12, no. 2, pp. 155–163, 2022.
+[32] S. N. A. Abdul Rahman et al., “Validity and reliability of vis-screen
+application: A smartphone-based distance vision testing for visual impairment and blindness vision screening,” Medicina, vol. 59, no. 5, 2023,
+Art. no. 912.
+[33] D. Taufik and N. Hanafiah, “AutoVAT: An automated visual acuity test
+using spoken digit recognition with mel frequency cepstral coefficients
+and convolutional neural network,” Procedia Comput. Sci., vol. 179,
+pp. 458–467, 2021.
+[34] A. Calabrèse, L. To, Y. He, E. Berkholtz, P. Rafian, and G. E. Legge,
+“Comparing performance on the MNREAD Ipad application with the
+MNREAD acuity chart,” J. Vis., vol. 18, no. 1, pp. 8–8, 2018.
+[35] G. Labiris, E.-K. Panagiotopoulou, E. Chatzimichael, M. Tzinava, A.
+Mataftsi, and K. Delibasis, “Introduction of a digital near-vision reading
+test for normal and low vision adults: Development and validation,” Eye
+Vis., vol. 7, pp. 1–15, 2020.
+[36] G. Labiris et al., “Development and validation of a web-based reading
+test for normal and low vision patients,” Clin. Ophthalmol., vol. 15,
+pp. 3915–3929, 2021.
+[37] G. Labiris et al., “Development and validation of the first smart TV-based
+visual acuity test: A prospective study,” Healthcare, vol. 10, no. 11, 2022,
+Art. no. 2117.
+[38] G. Labiris et al., “Validation of a web-based distance visual acuity test,”
+J. Cataract Refractive Surg., vol. 49, no. 7, pp. 666–671, 2023.
+[39] A. S. Pathipati, E. H. Wood, C. K. Lam, C. S. Sáles, and D. M. Moshfeghi,
+“Visual acuity measured with a smartphone app is more accurate than
+snellen testing by emergency department providers,” Graefe’s Arch. Clin.
+Exp. Ophthalmol., vol. 254, pp. 1175–1180, 2016.
+[40] S. Tofigh, E. Shortridge, A. Elkeeb, and B. Godley, “Effectiveness of a
+smartphone application for testing near visual acuity,” Eye, vol. 29, no. 11,
+pp. 1464–1468, 2015.
+[41] L. Suo et al., “Use of mobile apps for visual acuity assessment: Systematic
+review and meta-analysis,” JMIR mHealth uHealth, vol. 10, no. 2, 2022,
+Art. no. e26275.
+[42] W. Chen et al., “Early detection of visual impairment in young children
+using a smartphone-based deep learning system,” Nat. Med., vol. 29, no. 2,
+pp. 493–503, 2023.
+[43] P. Ekman and W. V. Friesen, Facial Action Coding System, Palo Alto, CA:
+Consulting Psychologists Press, 1978.
+[44] D. Galati, B. Sini, S. Schmidt, and C. Tinti, “Spontaneous Facial Expressions in Congenitally Blind and Sighted Children Aged 8–11,” J. Vis.
+Impairment Blindness, vol. 97, no. 7, pp. 418–428, 2003.
+[45] C. R. Bennett, P. J. Bex, C. M. Bauer, and L. B. Merabet, “The Assessment
+of Visual Function and Functional Vision,” in Seminars in Pediatric
+Neurology, vol. 31. New York, NY, USA: Elsevier, 2019, pp. 30–40.
+[46] J. E. Sheedy, S. D. Truong, and J. R. Hayes, “What are the visual benefits
+of eyelid squinting?,” Optometry Vis. Sci., vol. 80, no. 11, pp. 740–744,
+2003.
+
+
+[page 13]
+4438
+
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 29, NO. 6, JUNE 2025
+
+[47] P. T. deJong, “A history of visual acuity testing and optotypes,” Eye, vol. 38,
+no. 1, pp. 13–24, 2024.
+[48] W. Wesemann, S. P. Heinrich, H. Jägle, U. Schiefer, and M. Bach, “Neue
+DIN- und ISO-Normen zur sehschärfebestimmung,” Der Ophthalmologe,
+vol. 117, no. 1, pp. 19–26, 2020, doi: 10.1007/s00347-019-0943-x.
+[49] A. A. Bradburne, “The restoration of vision in the squinting eye,” Brit.
+Med. J., vol. 1, no. 2505, 1909, Art. no. 15.
+[50] L. Nissen et al., “Towards preventing gaps in health care systems
+through smartphone use: Analysis of ARKit for accurate measurement
+of facial distances in different angles,” Sensors, vol. 23, no. 9, 2023,
+Art. no. 4486.
+
+[51] T. Fawcett, “An introduction to ROC analysis,” Pattern Recognit. Lett.,
+vol. 27, no. 8, pp. 861–874, 2006.
+[52] J. A. Hanley and B. J. McNeil, “The meaning and use of the area under a
+receiver operating characteristic (ROC) curve,” Radiology, vol. 143, no. 1,
+pp. 29–36, 1982.
+[53] X. Sun and W. Xu, “Fast implementation of DeLong’s algorithm for comparing the areas under correlated receiver operating characteristic curves,”
+IEEE Signal Process. Lett., vol. 21, no. 11, pp. 1389–1393, Nov. 2014.
+[54] L. Frisén and M. Frisén, “How good is normal visual acuity?,” Albrecht
+von Graefes Archiv fÜR Klinische Und Experimentelle Ophthalmologie,
+vol. 215, pp. 149–157, 1981.
+

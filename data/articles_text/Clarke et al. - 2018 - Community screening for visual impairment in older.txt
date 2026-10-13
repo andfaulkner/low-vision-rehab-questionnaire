@@ -1,0 +1,2789 @@
+[page 1]
+Cochrane Database of Systematic Reviews
+
+Community screening for visual impairment in older people
+(Review)
+Clarke EL, Evans JR, Smeeth L
+
+Clarke EL, Evans JR, Smeeth L.
+Community screening for visual impairment in older people.
+Cochrane Database of Systematic Reviews 2018, Issue 2. Art. No.: CD001054.
+DOI: 10.1002/14651858.CD001054.pub3.
+
+www.cochranelibrary.com
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+
+[page 2]
+TABLE OF CONTENTS
+HEADER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ABSTRACT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PLAIN LANGUAGE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+OBJECTIVES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+METHODS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+RESULTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Figure 1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Figure 2.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DISCUSSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AUTHORS’ CONCLUSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ACKNOWLEDGEMENTS
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CHARACTERISTICS OF STUDIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DATA AND ANALYSES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Analysis 1.1. Comparison 1 Vision screening as part of multi-component screening package versus no vision screening
+(standard care), Outcome 1 Not seeing well (as defined by each trial). . . . . . . . . . . . . . .
+APPENDICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+WHAT’S NEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+HISTORY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CONTRIBUTIONS OF AUTHORS . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DECLARATIONS OF INTEREST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SOURCES OF SUPPORT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW . . . . . . . . . . . . . . . . . . . . .
+INDEX TERMS
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+1
+1
+2
+3
+4
+4
+5
+7
+10
+12
+14
+15
+15
+17
+31
+31
+32
+35
+35
+35
+36
+36
+36
+37
+
+i
+
+
+[page 3]
+[Intervention Review]
+
+Community screening for visual impairment in older people
+Emily L Clarke1,2 , Jennifer R Evans3 , Liam Smeeth4
+1 Leeds Teaching Hospitals NHS Trust, Leeds, UK. 2 University of Leeds, Leeds, UK. 3 Cochrane Eyes and Vision, ICEH, London
+
+School of Hygiene & Tropical Medicine, London, UK. 4 Faculty of Epidemiology and Population Health, London School of Hygiene
+& Tropical Medicine, London, UK
+Contact address: Emily L Clarke, Leeds Teaching Hospitals NHS Trust, Leeds, UK. e.l.clarke@leeds.ac.uk.
+Editorial group: Cochrane Eyes and Vision Group.
+Publication status and date: New search for studies and content updated (no change to conclusions), published in Issue 2, 2018.
+Citation: Clarke EL, Evans JR, Smeeth L. Community screening for visual impairment in older people. Cochrane Database of Systematic
+Reviews 2018, Issue 2. Art. No.: CD001054. DOI: 10.1002/14651858.CD001054.pub3.
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+ABSTRACT
+Background
+Visual problems in older people are common and frequently under-reported. The effects of poor vision in older people are wide reaching
+and include falls, confusion and reduced quality of life. Much of the visual impairment in older ages can be treated (e.g. cataract surgery,
+correction of refractive error). Vision screening may therefore reduce the number of older people living with sight loss.
+Objectives
+The objective of this review was to assess the effects on vision of community vision screening of older people for visual impairment.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials
+Register) (2017, Issue 10); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov and the ICTRP. The date of the
+search was 23 November 2017.
+Selection criteria
+We included randomised controlled trials (RCTs) that compared vision screening alone or as part of a multi-component screening
+package as compared to no vision screening or standard care, on the vision of people aged 65 years or over in a community setting. We
+included trials that used self-reported visual problems or visual acuity testing as the screening tool.
+Data collection and analysis
+We used standard methods expected by Cochrane. We graded the certainty of the evidence using GRADE.
+Main results
+Visual outcome data were available for 10,608 people in 10 trials. Four trials took place in the UK, two in Australia, two in the United
+States and two in the Netherlands. Length of follow-up ranged from one to five years. Three of these studies were cluster-randomised
+trials whereby general practitioners or family physicians were randomly allocated to undertake vision screening or no vision screening.
+All studies were funded by government agencies. Overall we judged the studies to be at low risk of bias and only downgraded the
+certainty of the evidence (GRADE) for imprecision.
+Seven trials compared vision screening as part of a multi-component screening versus no screening. Six of these studies used self reported vision as both screening tool and outcome measure, but did not directly measure vision. One study used a combination of self Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+1
+
+
+[page 4]
+reported vision and visual acuity measurement: participants reporting vision problems at screening were treated by the attending doctor,
+referred to an eye care specialist or given information about resources that were available to assist with poor vision. There was a similar
+risk of “not seeing well” at follow-up in people screened compared with people not screened in meta-analysis of six studies (risk ratio
+(RR) 1.05, 95% confidence interval (CI) 0.97 to 1.14, 4522 participants high-certainty evidence). One trial reported “improvement
+in vision” and this occurred slightly less frequently in the screened group (RR 0.85, 95% CI 0.52 to 1.40, 230 participants, moderate certainty evidence).
+Two trials compared vision screening (visual acuity testing) alone with no vision screening. In one study, distance visual acuity was
+similar in the two groups at follow-up (mean difference (MD) 0.02 logMAR, 95% CI −0.02 to 0.05, 532 participants, high-certainty
+evidence). There was also little difference in near acuity (MD 0.02 logMAR, 95% CI −0.03 to 0.07, 532 participants, high-certainty
+evidence). There was no evidence of any important difference in quality of life (MD −0.06 National Eye Institute 25-item visual
+function questionnaire (VFQ-25) score adjusted for baseline VFQ-25 score, 95% CI −2.3 to 1.1, 532 participants, high-certainty
+evidence). The other study could not be included in the data analysis as the number of participants in each of the arms at follow-up
+could not be determined. However the authors stated that there was no significant difference in mean visual acuity in participants who
+had visual acuity assessed at baseline (39 letters) as compared to those who did not have their visual acuity assessed (35 letters, P = 0.25,
+121 participants).
+One trial compared a detailed health assessment including measurement of visual acuity (intervention) with a brief health assessment
+including one question about vision (standard care). People given the detailed health assessment had a similar risk of visual impairment
+(visual acuity worse than 6/18 in either eye) at follow-up compared with people given the brief assessment (RR 1.07, 95% CI 0.84 to
+1.36, 1807 participants, moderate-certainty evidence). The mean composite score of the VFQ-25 was 86.0 in the group that underwent
+visual acuity screening compared with 85.6 in the standard care group, a difference of 0.40 (95% CI −1.70 to 2.50, 1807 participants,
+high-certainty evidence).
+Authors’ conclusions
+The evidence from RCTs undertaken to date does not support vision screening for older people living independently in a community
+setting, whether in isolation or as part of a multi-component screening package. This is true for screening programmes involving
+questions about visual problems, or direct measurements of visual acuity.
+The most likely reason for this negative review is that the populations within the trials often did not take up the offered intervention as a
+result of the vision screening and large proportions of those who did not have vision screening appeared to seek their own intervention.
+Also, trials that use questions about vision have a lower sensitivity and specificity than formal visual acuity testing. Given the importance
+of visual impairment among older people, further research into strategies to improve vision of older people is needed. The effectiveness
+of an optimised primary care-based screening intervention that overcomes possible factors contributing to the observed lack of benefit in
+trials to date warrants assessment; trials should consider including more dependent participants, rather than those living independently
+in the community.
+
+PLAIN LANGUAGE SUMMARY
+Community screening for visual impairment in older people
+What was the aim of this review?
+The aim of this review was to find out if community screening for visual impairment (sight loss) in older people results in improvements
+in vision. Cochrane Review authors collected and analysed all relevant studies to answer this question and found 10 studies.
+Key message
+There is no evidence that community screening for visual impairment in older people reduces the level of visual impairment in people
+living independently in the community. Further research on the barriers to accessing care at older ages is needed, as well as research
+investigating the effect of vision screening on more dependent populations of older people.
+What was studied in the review?
+Vision problems are common in older people and are associated with an increased chance of falls and lower quality of life. Many
+older people have undiagnosed vision problems and therefore do not receive appropriate treatment. Community vision screening of
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+2
+
+
+[page 5]
+older people could lead to improvements in vision by helping to find people with vision problems and putting them in contact with
+appropriate health care services that can provide treatment for the vision problem. The screening may consist of simple questions about
+vision (self-reported vision problems) or an eye test involving reading letters on a chart.
+Cochrane Review authors wanted to find out if vision screening results in an improvement in vision in people over 65 years old.
+What are the main results of the review?
+Cochrane Review authors found 10 relevant studies. Four studies were from the United Kingdom, two studies from Australia, two
+from the United States and two from the Netherlands. These studies compared vision screening with no vision screening in people of
+65 years of age or older. People taking part in these studies were followed up for between one and five years. All studies were funded
+by government agencies.
+The review shows that:
+• communities that had vision screening did not have improved vision, on average, compared with communities who did not receive
+vision screening;
+• it did not make a difference if vision problems were self-reported or identified by a vision test (reading letters on a chart);
+• it did not make a difference if the vision screening was done by itself, or as part of a broader health assessment.
+Cochrane Review authors assessed how certain the evidence was for each review finding. They looked for factors that can make the
+evidence less certain, such as problems with the way the studies were done, very small studies, and inconsistent findings across studies.
+They also looked for factors that can make the evidence more certain, including very large effects. They graded each finding as very
+low certainty, low certainty, moderate certainty or high certainty. This review included mostly high-certainty evidence.
+How up to date is this review?
+Cochrane Review authors searched for studies that had been published up to 23 November 2017.
+
+BACKGROUND
+Health services for older people are of increasing importance. In
+promoting health for older people, in recent years there has been
+a change in emphasis away from a medically-orientated approach
+and towards an approach which focuses on the improvement of
+functional ability and quality of life, often termed ’healthy aging’
+(Andrews 2001; Rubenstein 1989; Swedish National Institute of
+Public Health 2007; Williams 1993). Improving sensory function
+is central to this approach.
+A number of community surveys have demonstrated high levels of
+undiagnosed and untreated visual impairment among older people
+(Evans 2004; Klein 1991; Wormald 1992). A variety of adverse
+factors have been reported in association with visual impairment
+including: reduced functional status, social interaction and quality
+of life; depression; and falls.
+Multi-component assessment of older people was originally developed in the United Kingdom (Williamson 1964) and has been
+introduced in many countries. Multi-component assessment aims
+
+to determine an older person’s medical, social, psychological and
+functional problems, and to form a plan for treatment and follow-up. Most forms of this assessment include some attempt to
+assess vision. While multi-component assessment has been shown
+to produce some small overall benefits (Stuck 1993), exactly which
+procedures within the assessment are effective and which are ineffective is uncertain. Specific screening procedures for chronic
+open-angle glaucoma or diabetic retinopathy have not been included in trials or programmes of multi-component screening assessments.
+Although the aim of improving visual impairment is clearly to
+produce improvements in other clinical outcomes, (such as improved quality of life or a reduction in falls), any benefit arising
+from vision assessment will necessarily be dependent on improved
+vision. Similarly, while the aims of multi-component screening of
+older people are broad, any benefit arising from the inclusion of a
+vision component in the assessment will necessarily be dependent
+on improved vision. Therefore, this review used improvement in
+vision as the outcome measure of interest.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+3
+
+
+[page 6]
+Since screening alone without subsequent intervention (e.g. glasses
+prescription, or other treatment from an eye specialist) cannot be
+expected to result in improvements in vision, we refer throughout
+this review to ’screening’ being the intervention with implied subsequent intervention.
+
+OBJECTIVES
+The objective of this review was to assess the effects on vision of
+community vision screening of older people for visual impairment.
+
+METHODS
+
+Criteria for considering studies for this review
+
+The Cochrane Eyes and Vision Information Specialist conducted
+systematic searches in the following databases for randomised controlled trials and controlled clinical trials. There were no language
+or publication year restrictions. The date of the search was 23
+November 2017.
+• Cochrane Central Register of Controlled Trials
+(CENTRAL; 2017, Issue 10) (which contains the Cochrane Eyes
+and Vision Trials Register) in the Cochrane Library (searched 23
+November 2017) (Appendix 1);
+• MEDLINE Ovid (1946 to 23 November 2017) (Appendix
+2);
+• Embase Ovid (1980 to 23 November 2017) (Appendix 3);
+• ISRCTN registry (www.isrctn.com/editAdvancedSearch;
+searched 23 November 2017) (Appendix 4);
+• US National Institutes of Health Ongoing Trials Register
+ClinicalTrials.gov (www.clinicaltrials.gov; searched 23 November
+2017) (Appendix 5);
+• World Health Organization (WHO) International Clinical
+Trials Registry Platform (ICTRP) (www.who.int/ictrp; searched
+23 November 2017) (Appendix 6).
+
+Types of studies
+We included all randomised controlled trials (RCTs) of visual
+screening alone or as part of multi-component screening in people
+aged 65 years or over in a community setting.
+
+Types of participants
+Participants in the trials were people aged 65 years or over who
+were not identified as belonging to a particular risk group.
+
+Searching other resources
+We scanned the reference lists of identified trial reports and of
+review articles for further relevant reports. We used the SciSearch
+database to search for articles that cited the included studies. We
+contacted the named author for correspondence for each of the
+included trials to obtain information about any other trials.
+
+Data collection and analysis
+Types of interventions
+We included trials in which there was any attempt at population
+screening for visual impairment in a community setting, either
+vision alone or as part of a multi-component screening assessment.
+
+Types of outcome measures
+The outcome included was the degree of visual impairment in the
+population at the end of the trial. Assessment of vision by any
+method (questions about vision, measures of visual function or
+use of an acuity chart) at least six months after the initial vision
+screening assessment was included.
+We excluded trials of multi-component screening that did not
+consider the impact of screening on vision outcomes.
+
+Selection of studies
+Two authors independently assessed the titles and abstracts identified from the searches and obtained full reports of studies which
+possibly or definitely fulfilled the selection criteria. A vision screen
+may have been only one small part of a multi-component screening
+programme and data about vision outcomes may not have been
+included in published reports of trials. Therefore, we contacted
+trial authors for further information about visual outcome data
+if these were not reported. We also asked trial authors to provide
+further details about the screening and outcome assessments and
+about the interventions offered. We selected studies for which vision outcome data were available for quality assessment and data
+extraction.
+
+Search methods for identification of studies
+
+Data extraction and management
+
+Electronic searches
+
+Two authors independently extracted data about visual outcomes
+using paper data extraction sheets and entered data into Review
+Manager 5 (RevMan 5) (Review Manager 2014). We resolved
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+4
+
+
+[page 7]
+disagreements by discussion. The proportions of people with visual
+impairment in the experimental and control groups formed the
+comparison.
+For the cluster randomised studies we used effect estimates and
+95% confidence intervals adjusted for the cluster design, where
+these were reported by the study investigators. Where this was not
+possible we did a sensitivity analysis reducing the effective sample
+size by a design effect of 2 to see the extent the precision of the
+effect estimate was affected by ignoring the cluster design.
+
+Assessment of risk of bias in included studies
+We assessed risk of bias based on the recommendations in Chapter 8 of the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). We considered the following parameters and
+graded each parameter as low risk, unclear risk or high risk.
+1. Sequence generation. We scored this as ’low risk’ if there
+was some form of centralised randomisation scheme, an on-site
+computer system or if sequentially-numbered sealed opaque
+envelopes were used. We scored studies as ’unclear risk’ if
+insufficient information was provided.
+2. Allocation concealment. We graded this as ’low risk’ if
+allocation was centrally determined, or through use of identical
+sequentially numbered drug containers or sealed envelopes. We
+scored studies as ’unclear risk’ if insufficient information was
+provided.
+3. Incomplete outcome data. We scored this as ’low risk’ if
+there was no missing outcome data, or if the missing outcome
+data was equally absent between groups or if the missing data
+was unrelated to the outcome.
+4. Selective outcome reporting. We considered this ’low risk’ if
+the study’s protocol was available and all the primary outcomes
+were reported.
+5. Other sources of bias. This included any concerns we had
+of biases not included in the other categories.
+Two authors assessed risk of bias and resolved disagreements by
+discussion. Authors were not masked to the report authors or trial
+results.
+
+Data synthesis
+We combined results of studies that addressed the same comparison to produce a summary risk ratio using the fixed-effect Mantel-Haenszel method. We assessed the amount of between-study
+heterogeneity that was not explained by random error using the I²
+statistic and tested for heterogeneity between trials using a standard Chi² test.
+Trials of visual screening alone might be expected to produce different effects to trials of visual screening included in a broader assessment. We decided that these two sub-groups of trials would be
+analysed separately because we would find a pooled result difficult
+to interpret. Furthermore, differences in the control arm of the
+
+trials (no intervention versus standard care) may also be a source
+of variation and so should also be analysed separately.
+Sensitivity analysis
+We anticipated that differences in trial quality may produce differences in the effect size seen and therefore we planned sensitivity analyses to assess the effects of including or excluding trials of
+different quality. We did not identify any trials at high risk of bias
+in any domain so did not do this planned sensitivity analysis.
+We repeated the analyses using a random-effects model for comparison with the results from the fixed-effect model.
+We performed two post hoc sensitivity analyses:
+• excluding trials that did not directly refer participants to eye
+specialists; and
+• reducing the effective sample size for cluster trials to take
+into account the additional variation introduced by the cluster
+design.
+’Summary of findings’ table
+We did not prepare a ’Summary of findings’ table because we only
+had one major outcome in the review and three different comparisons. We graded the certainty of the evidence using GRADE
+(Guyatt 2011). We considered risk of bias in the included trials,
+inconsistency (whether the trial results were similar to each other),
+imprecision (number of events/confidence intervals), indirectness
+and publication bias.
+
+RESULTS
+
+Description of studies
+
+Results of the search
+The initial searches run in 1998 found 2862 citations and abstracts. Of these 154 full-text articles were reviewed in detail. The
+following five trials met the final inclusion criterion, that visual
+outcome data were available with follow-up of at least six months:
+McEwan 1990; Van Rossum 1993; Vetter 1984; Vetter 1992; and
+Wagner 1994. We found no trials that were primarily of visual
+screening. We excluded 16 studies: see Characteristics of excluded
+studies for details.
+Subsequent searches, conducted in February 2006, identified 1269
+titles and abstracts. After assessing the titles and abstracts we identified one study that met the inclusion criteria (Smeeth 2003).
+A further update search was done in February 2008. The electronic
+searches retrieved eight references from the Cochrane Library, 277
+references from MEDLINE, 363 references from Embase and 26
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+5
+
+
+[page 8]
+references from the UK Clinical Trials Gateway. After deduplication the search identified a total of 561 references. The Trials
+Search Co-ordinator scanned the search results and removed any
+references which were not relevant to the scope of the review. The
+review authors identified one report as being potentially relevant (
+Tay 2006); however, the review authors required information from
+the study authors prior to this study being assessed for inclusion
+in the review.
+Updated searches conducted in November 2017 identified 5288
+new records (Figure 1). After 1257 duplicates were removed the
+Cochrane Information Specialist (CIS) screened the remaining
+
+4031 records and removed 3179 references which were not relevant
+to the scope of the review. We screened the remaining 852 records
+and obtained two full-text reports for further assessment. We have
+included one new study in the review (Swamy 2009); and excluded
+one study (Matchar 2017). In the previous version of this review
+Tay 2006 was awaiting classification: we have now assessed this
+study and added it to the review. We have re-assessed studies by
+Moore 1997 and Eekhof 2000 and have now included them in
+this update of the review. We did not identify any ongoing studies
+from our searches of the clinical trials’ registries.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+6
+
+
+[page 9]
+Figure 1. Study flow diagram.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+7
+
+
+[page 10]
+Included studies
+The following is a broad description of the included studies. See
+’Characteristics of included studies’ table for more detailed information on the individual trials.
+Setting and participants
+
+We identified 10 studies for inclusion in the review. Of these,
+seven were individually randomised trials (McEwan 1990; Swamy
+2009; Tay 2006; Van Rossum 1993; Vetter 1984; Vetter 1992;
+Wagner 1994); and three were cluster randomised trials (Eekhof
+2000; Moore 1997; Smeeth 2003). These trials included a total
+of 10,608 participants. Smeeth 2003, was the largest study with
+4340 participants.
+Four of the studies were undertaken in the United Kingdom
+(McEwan 1990; Smeeth 2003; Vetter 1984; Vetter 1992), all of
+which recruited participants from general practice (family practice). Two studies were undertaken in Sydney, Australia, with
+participants mainly recruited from outpatient aged care services
+(Swamy 2009; Tay 2006). Two studies were undertaken in the
+United States (Moore 1997; Wagner 1994).Two studies were undertaken in the Netherlands (Eekhof 2000; Van Rossum 1993),
+with Van Rossum 1993 recruiting from a defined geographic area
+and Eekhof 2000 recruiting from general practice.
+Interventions
+
+In seven trials, vision screening as part of a multi-component
+screening package was compared with no vision screening (standard care). These trials used questions about vision within the
+screening assessment (Eekhof 2000; McEwan 1990; Moore 1997;
+Van Rossum 1993; Vetter 1984; Vetter 1992; Wagner 1994). One
+of these studies also measured visual acuity (Eekhof 2000). Six of
+these trials had two arms, comparing multi-component screening
+(including vision) with no screening (standard care). One of these
+trials had three arms, comparing a multi-component screening
+package including visual screening with general health promotion
+without visual screening, as well as no screening (standard care)
+(Wagner 1994).
+In the remaining three trials, vision was directly measured. In
+Smeeth 2003, all participants in the intervention arm were offered a detailed health assessment including visual acuity screening. This was compared with standard care which involved a brief
+health assessment including one question about vision (difficulty
+reading newspaper print), but not visual acuity assessment, unless
+participants met a specified range and level of problems to warrant
+a more detailed assessment.
+Swamy 2009 compared visual assessment alone (including visual
+acuity, visual fields, intraocular pressure and contrast sensitivity)
+
+that was not part of a multi-component screening package versus
+no screening (standard care). Visual acuity was assessed using an
+ETDRS chart converted to LogMAR. Tay 2006 also compared
+visual screening with no visual screening, but randomised participants into four groups: visual screening only; visual and hearing
+screening; hearing screening only; and no visual or hearing screening. Visual screening involved visual acuity assessment (logMAR),
+binocular near testing and visual field analysis, as well as three
+questions about vision.
+The type of visual intervention provided as a consequence of being
+identified as having a visual problem varied between trials. Wagner
+1994 provided information about resources that were available to
+assist with poor vision, Van Rossum 1993 advised participants
+to contact an optometrist, whereas Vetter 1984 and Vetter 1992
+made referrals to an optometrist. McEwan 1990 also made referrals to an optometrist as well as providing advice. Smeeth 2003
+advised participants to see an optometrist or made a referral to
+an ophthalmologist depending on the visual acuity. Swamy 2009
+provided new glasses (as all participants receiving visual screening
+were assessed by an optometrist), and made referrals to an ophthalmologist or occupational therapist. Moore 1997, after identifying a participant as positive following questions about vision,
+went on to conduct visual acuity testing by a physician using a
+Snellen chart, who arranged further investigations and subsequent
+management where required. Tay 2006 referred participants to an
+ophthalmologist when visual acuity was worse than 6/12, if pinhole improved visual acuity by 2 lines in distance vision or one
+line in near vision, when visual defects were suggested or when
+participants reported visual problems when visual acuity was not
+measured. Participants in Eekhof 2000 had usual care for the visual disorder.
+In Wagner 1994 and Moore 1997 the assessments were undertaken at a clinic. In Smeeth 2003 33.9% of screening assessments
+were undertaken in people’s own homes, the remainder being undertaken at the general practice surgery. In Swamy 2009, 29% of
+visual acuity assessments were conducted at home, with the remainder carried out in the study clinic. Tay 2006 conducted assessments in participants’ homes or at the local day hospital. In
+the other trials the assessments were all undertaken in participants’
+homes.
+Assessments in all trials were undertaken by specially trained nurses
+or health visitors, with the exception of Swamy 2009 in which
+research assistants undertook baseline testing and all visual acuity
+testing was performed by a study optometrist; and Eekhof 2000
+which involved general practitioners conducting the assessment.
+
+Outcome measures
+
+In Smeeth 2003 visual acuity was assessed using logMAR (con-
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+8
+
+
+[page 11]
+verted to Snellen) using Glasgow Acuity Cards with a cut point
+of 6/18 in either eye. Participants also completed a 25-item version of the National Eye Institute Visual Function Questionnaire
+(NEI VFQ-25) (Mangione 2001). The NEI VFQ-25 was also
+used by Swamy 2009, as well as visual acuity assessed using ETDRS (converted to LogMAR). Tay 2006 measured visual acuity
+using logMAR and EDTRS and asked three questions: whether
+participants had noticed any deterioration in their vision; if they
+would be able to recognise a friend across the street; and if they
+had any difficulty reading newspaper print.
+The remaining seven trials reported outcomes in terms of number
+of participants. Six trials reported on the number of participants
+who still had visual difficulties; whereas one trial reported the number of participants who had improvements in vision (Moore 1997).
+All seven trials used questions to determine outcome, with one trial
+also measuring visual acuity using a Snellen chart (Eekhof 2000).
+Six trials assessed outcome by a face-to-face interview; whereas one
+trial used a postal questionnaire (Wagner 1994).
+
+There was slight variation in the wording of the questions asked
+between reviews. McEwan 1990 asked about difficulty reading
+newsprint; Van Rossum 1993 asked participants how they would
+rate their vision; whereas Vetter 1984 and Vetter 1992 asked about
+difficulty seeing in general. Moore 1997 asked about difficulty
+driving, reading a newspaper or doing any other daily activities
+because of visual difficulties.
+Length of follow-up ranged from one to four years, except in
+Smeeth 2003 where the range was three to five years.
+
+Excluded studies
+We excluded 16 trials from this review and give reasons for exclusion in the Characteristics of excluded studies table.
+
+Risk of bias in included studies
+Please see Figure 2 for a summary of risk of bias.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+9
+
+
+[page 12]
+Figure 2. Risk of bias summary: review authors’ judgements about each risk of bias item for each included
+study.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+10
+
+
+[page 13]
+Allocation
+
+Random sequence generation
+
+We obtained descriptions of the randomisation process for nine
+trials, with randomisation performed using random number tables
+or random number generators. We did not obtain details regarding
+the generation of the allocation sequence for Eekhof 2000, which
+we therefore gave a rating of ’unclear risk of bias’ for random
+sequence generation.
+Allocation concealment
+
+Allocation concealment is unlikely to be an issue in cluster-randomised trials so we judged these as low risk of bias (Eekhof 2000;
+Moore 1997; Smeeth 2003). Most of the individually randomised
+studies reported an adequate method of allocation concealment,
+such as central randomisation; or indicated that the allocation was
+kept separate from people recruiting participants. One study did
+not provide enough information for us to make an assessment (Tay
+2006).
+
+response rate was 62.8%. There was a slightly different response
+rate between the two trial arms: 67.8% (978/1443) in the standard
+care arm including one question about visual acuity, as compared
+to 57.9% (829/1432) in the intervention arm who underwent
+visual acuity testing. This difference was the largest of any of the
+included trials and because it is not certain that this difference
+would have had a material effect on the outcome, we rated this
+trial as ’unclear risk of attrition bias’.
+Tay 2006 had an attrition rate of 40% (85/206), but the difference
+between groups was not reported and therefore we also scored this
+study as ’uncertain risk of attrition bias’.
+We also gave Van Rossum 1993 an ’unclear risk of bias’ for attrition
+since the differences between intention-to-treat and per protocol
+results were not clear. It was also not clear which were presented.
+Selective reporting
+All nine trials reported on the pre-specified primary outcomes, and
+we therefore scored them as ’low risk’ of selective reporting bias.
+Other potential sources of bias
+
+Blinding
+Masking of participants was not possible as participants would
+have been aware of whether they had received a screening assessment. We did not assess performance bias because we were interested in the effect of assignment to the intervention, regardless
+of whether the interventions were adhered to during follow-up
+(Cochrane RoB 2.0 2016).
+Some of the trials made attempts to mask the outcome assessors
+(Swamy 2009; Van Rossum 1993), but since participants would
+have been aware of whether or not they had undergone visual
+screening, which arm of the trial participants were in could have
+emerged during the face-to-face outcome assessments. Trials that
+used postal questionnaires to participants to assess outcomes would
+have avoided this issue (Moore 1997; Wagner 1994); therefore
+we assigned a ’low risk of detection bias’ to studies that made an
+attempt to mask outcome assessors or used postal questionnaires.
+We gave the remaining studies an ’uncertain risk of detection bias’
+rating as knowledge of the participant group may have possibly
+influenced the outcome, but we judged this as unlikely to be a
+material bias.
+Incomplete outcome data
+Because of the ages of the trial participants there was a high mortality rate in most of the trials.
+In Smeeth 2003 around one third of participants died prior to
+outcome assessment. Excluding people who had died, the overall
+
+We gave Moore 1997 an ’unclear risk of bias’ since there was
+the potential for recruitment bias. However, there were minimal
+differences in baseline characteristics between groups, apart from
+membership of a health maintenance organisation which was more
+common in the intervention group (64% versus 33%).
+We also scored Eekhof 2000 as ’unclear risk of bias’ for the potential for recruitment bias. The exclusions were similar between
+groups (6% versus 8%), which suggests that recruitment bias is unlikely, but there were fewer people recruited per surgery than 160,
+according to Table 1 in the trial report. This discrepancy between
+the number of people selected for recruitment and actual number
+of participants included in the study remains unexplained.
+
+Effects of interventions
+The results in all 10 trials were very similar and we describe them
+per comparison, below.
+Vision screening as part of a multi-component
+screening package versus no vision screening
+Within this comparison, six trials were meta-analysed. There was
+no evidence of heterogeneity of effect between six trials (I² was 0%,
+Chi² = 1.27, df = 5, P = 0.94) assessing vision screening (questions)
+as part of a multi-component screening package versus no vision
+screening. The pooled risk ratio for people in the intervention and
+control groups having self-reported visual problems when outcome
+assessments were performed was 1.05 (95% CI 0.97 to 1.14), high-
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+11
+
+
+[page 14]
+certainty evidence (Analysis 1.1). Similar results were seen with a
+random-effects model (RR 1.06, 95% CI 0.97 to 1.15).
+We performed two post hoc sensitivity analyses. Firstly, excluding
+trials that did not directly refer participants to eye specialists (i.e.
+Wagner 1994 and Van Rossum 1993) did not result in any significant changes to the meta-analysed results, with a pooled risk ratio
+of 1.06 (95% CI 0.96 to 1.17), with no evidence of heterogeneity
+(I² was 0%, Chi² = 0.81, df = 3, P = 0.85). Secondly, reducing
+the effective sample size of the one cluster trial - Eekhof 2000 by dividing by an estimated design effect of 2 did not make any
+important difference to the estimate and precision of the overall
+effect (RR 1.04, 95% CI 0.95 to 1.15).
+The remaining trial within this comparison was included under
+a different outcome as “improvement in vision” was determined
+not to be the direct inverse of “not seeing well”. In Moore 1997,
+after 6 months 20/99 (20%) individuals who had visual screening
+reported an improvement in vision, as compared to 31/131 (24%)
+who had not undergone visual screening, with a risk ratio of 0.85
+(95% CI 0.52 to 1.40), moderate-certainty evidence (downgraded
+one level for imprecision).
+
+Vision screening only versus no vision screening
+This comparison included two studies, Swamy 2009 and Tay
+2006. In Swamy 2009, after one year’s follow-up, visual acuity
+in the screened and non-screened groups was similar. The mean
+distance logMAR visual acuity in the vision screening group was
+0.27, as compared to 0.25 in the standard care group (i.e. no
+screening), with a mean difference between groups of 0.02 (95%
+CI −0.02 to 0.06), high-certainty evidence.
+The mean near logMAR visual acuity in the visual screening group
+was −0.01 as compared to −0.03 in the standard care group, with
+a difference of 0.02 (95% CI −0.03 to 0.07), high-certainty evidence. There was no evidence of any important difference in quality of life. The mean VFQ in the visual screening group was 84.3
+and 86.4 in the standard care group, with an adjusted mean difference of −0.06 (95% CI −2.3 to 1.1), high-certainty evidence;
+adjustments were made for baseline VFQ-25 scores.
+We could not calculate a mean difference from Tay 2006, as the
+number of participants who had been followed up per arm could
+not be determined. However, the authors state that the mean visual
+acuity in participants who had visual acuity assessed (intervention)
+at baseline (39 letters) was non-significantly better than those who
+did not have their visual acuity assessed (35 letters, P = 0.25).
+
+acuity screening to usual care, was 1.07 (95% CI 0.84 to 1.36, P =
+0.58), moderate-certainty evidence (downgraded for imprecision)
+after adjustment for cluster design. There was little evidence of
+any difference in quality of life. The mean composite score of the
+NEI VFQ-25 was 85.6 in the standard care group and 86.0 in
+the intervention group, difference 0.4 (95% CI −1.7 to 2.5, P =
+0.69), high-certainty evidence.
+
+DISCUSSION
+
+Summary of main results
+This systematic review included three comparisons, all of which
+provided predominantly high-certainty evidence of a lack of effect
+of vision screening in older people.
+The first comparison included seven trials comparing visual screening involving some questions about vision as part of a multi-component screening versus no screening (standard care). Six of these
+seven trials were included in a meta-analysis, with pooled proportions of participants indicating no difference between the intervention and control groups who reported on-going vision problems. The remaining trial, Moore 1997, also showed no difference
+in the number of participants reporting an improvement in vision
+between groups.
+The second comparison included two studies which compared
+vision screening with no screening (standard care). Neither study
+demonstrated a difference between groups in terms of visual acuity
+or difference in quality of life.
+The final comparison included Smeeth 2003, which showed no
+difference in visual outcome between a detailed health assessment
+including measurement of visual acuity and a brief health assessment including one question about vision (standard care).
+Visual impairment is common among older people and is frequently unreported. It has several adverse associations including
+falls, reduced quality of life and reduced functional ability (Smeeth
+1998a). Results from community surveys in the ’over 75 years’ age
+group suggest that over half the visual impairment in this age group
+could potentially be reduced with treatment, notably by cataract
+surgery or refractive correction (Klein 1991; Wormald 1992).
+
+Possible explanations for lack of effectiveness
+Vision screening (visual acuity test) as part of a multicomponent screening package versus vision screening
+(question about vision) as part of a multi-component
+screening package (standard care)
+In Smeeth 2003, three to five years after screening, the risk ratio
+for visual acuity less than 6/18 in either eye, comparing visual
+
+It has been suggested that vision screening alone rather than as
+part of a multi-component screening assessment would be more
+effective (SLSSG 1977; Stone 1978). However, in clinical practice
+screening for visual impairment is highly likely to be one part
+of a broader screening package and, therefore, an assessment of
+effectiveness within a broader package is the most pragmatically
+useful measure. Moreover the two latest trials, Swamy 2009 and
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+12
+
+
+[page 15]
+Tay 2006, which used screening for visual impairment in isolation
+as their intervention, did not demonstrate an improvement in
+visual acuity or an improved score on the National Eye Institute
+Visual Function Questionnaire.
+Nonetheless, there are a number of factors that remain which may
+have contributed to the lack of effectiveness of visual screening.
+Firstly, a screening procedure alone would not be expected to lead
+to improvements in vision. Such improvements would be dependent on the subsequent interventions to improve vision. There
+were considerable differences in the subsequent follow-up of patients found to have visual problems between studies, but the results of the post hoc sensitivity analysis excluding those studies
+that did not directly refer to eye specialist services, did not result in differing results of the meta-analysis. Some of the trials
+provided information regarding the uptake of interventions. In
+Smeeth 2003, for people with visual impairment not thought to
+be due to refractive error, 35% had seen an ophthalmologist in
+the past 12 months and a further 14% were registered blind or
+partially sighted. Both these groups were not eligible for referral.
+Only around half of those people recommended for referral to
+an ophthalmologist were actually referred; although when referral
+did occur, attendance at eye clinics was high. People with worse
+vision were more likely to be referred and people with evidence
+of cognitive impairment at the time of screening were less likely
+to be referred. However, explanations for the low adherence by
+general practitioners to recommendations for referral are lacking.
+Around half of those who attended an ophthalmologist following
+screening had cataract surgery and their vision improved. Among
+the remaining people who attended an ophthalmologist following
+screening, there was no improvement in visual acuity. It is possible
+that some of these people received interventions for low vision
+that were of benefit in terms of function and quality of life, but
+that would not be expected to improve visual acuity. However, the
+result for visual function did not differ in the two trial arms. The
+study authors concluded that while overall as a result of the visual screening some people obtained beneficial interventions, the
+numbers of people benefiting was small in the context of a population-based screening programme and were not sufficient to affect the prevalence of visual impairment among all participants.
+In Swamy 2009, 135 out of 146 participants (92%) took up treatment or referral. The majority of participants received glasses (92
+people out of 135, 68%), 77% of which were delivered within
+60 days. However, less than half the participants who were referred to an ophthalmologist or optometrist actually received a
+treatment. In Moore 1997, 19/20 participants in the intervention
+group took up the intervention that was recommended following
+visual screening, as compared to 17/19 participants in the control
+group. In Tay 2006, 37 out of 42 participants (88%) complied
+with the recommendation to see an eye-care professional. None of
+the remaining five trials provided details as to uptake of interventions. Although sparse details are provided on who conducted the
+screening, it is not clear how effective the communication was be-
+
+tween the screener and the participant. It would seem reasonable
+that the effectiveness of the communication provided may have
+had an impact on the uptake of interventions: if communication
+between the screener and participant was poor, they may have felt
+less inclined to follow the recommendation.
+Secondly, individuals who reported visual problems when
+prompted to do so in a screening programme may not have perceived their previously unreported visual impairment as a ’need’
+for intervention. Gradual adjustment to, and assimilation of, reduced visual function may occur with ageing among some people. Therefore, in spite of reporting problems with vision when
+asked directly, they may not have acted on advice to seek further
+care. There is very little information on whether older people accept interventions for visual problems discovered by screening. In
+a randomised trial of multi-component screening in the United
+States 15 out of 18 older people complied with advice to attend
+for an eye examination (Fabacher 1994). In a United Kingdom
+general practice-based survey one third of those referred to the eye
+services with a visual problem did not attend (Wormald 1992). In
+addition to participants not concurring with the need for intervention, there may have been barriers to obtaining help with the eye
+problems identified. Possible barriers include: costs of further eye
+tests, glasses and other treatments; and an inability of ophthalmic
+services to meet demand, for example for cataract extraction. A
+further reason may be simple acceptance of gradual decline in visual function with age and limited understanding of the potential
+benefits from intervention.
+Thirdly, trials using questions about vision both for the initial
+screening assessment and for the outcome assessment may have
+affected the results. Questions about vision have a low sensitivity
+and, to a lesser extent, a low specificity for detecting visual impairment when compared to formal acuity testing (Smeeth 1998a).
+However, in the four trials that measured visual acuity both at
+the screening assessment and at the outcome assessment (Eekhof
+2000; Smeeth 2003; Swamy 2009; Tay 2006), the lack of effect of
+screening on visual outcomes was very similar to the results seen
+in the remaining trials.
+
+Overall completeness and applicability of
+evidence
+All studies within this review included participants who were independent and living in the community and several studies specifically excluded participants who lived in residential or nursing care
+(Smeeth 2003; Van Rossum 1993, Vetter 1984; Wagner 1994).
+Therefore participants in these studies were likely to be able to
+independently seek ophthalmic intervention should they see a
+need to do so. This assumption is corroborated by the findings of
+Swamy 2009 and Tay 2006: 72% of the control arm within Swamy
+2009 consulted with an eye-care professional in the preceding 12
+months and 74% participants within Tay 2006 consulted with an
+eye care specialist within the study period regardless of baseline
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+13
+
+
+[page 16]
+recommendation. As such, the findings of this review may not be
+applicable to more dependent older people living in residential or
+nursing care. Of note:a previously conducted community survey
+suggested that over half the visual impairment in this age group
+could potentially be reduced with treatment included housebound
+older people (Wormald 1992) - a different population from the
+trials. Future trials should focus on recruiting participants who are
+more dependent and less able to seek ophthalmic intervention, as
+a greater benefit may be derived in this population.
+
+Certainty of the evidence
+The certainty of the evidence within this review is graded as ’high’,
+since each of the three comparisons contained high-certainty evidence.
+The statistical estimates of effect were reasonably precise and trials
+reported consistent results. Additionally, although there was variation in the design of the trials necessitating three comparisons
+within this review, all trials addressed the question and outcomes
+were relevant.
+
+Potential biases in the review process
+We followed standard Cochrane methods in the process of updating this review. The protocol was also updated in response to
+Cochrane methods guidance, rather than through knowledge of
+the data.
+
+Agreements and disagreements with other
+studies or reviews
+A similar systematic review - Chou 2009 - which has been recently
+updated by the U.S. Preventive Services Task Force Recommendation (Chou 2016), drew conclusions in line with this review.
+Specifically, they found “no significant difference between vision
+screening in older adults in primary care settings, versus no screening for improving visual acuity or other clinical outcomes.” Three
+randomised controlled trials were included in Chou 2016, all of
+which are also included in this review (Eekhof 2000; Moore 1997;
+Smeeth 2003).
+
+AUTHORS’ CONCLUSIONS
+Implications for practice
+The evidence from randomised controlled trials undertaken to
+date does not support vision screening intervention for older people in a community setting. This is true for screening programmes
+involving questions about visual problems, or direct measurements
+
+of visual acuity. Similarly, there was no benefit derived from vision
+screening in isolation or as part of a multi-component screening
+package.
+
+Implications for research
+Given the importance of visual impairment among older people,
+further research into strategies to improve vision of older people
+is needed. The effectiveness of an optimised primary care-based
+screening intervention that overcomes possible factors contributing to the observed lack of benefit in trials to date warrants assessment.
+There are a number of unresolved issues around optimal tools to
+be used for screening for visual impairment, particularly in the
+context of multidimensional screening in primary care. Whether
+visual acuity is a good screening tool to identify people who are
+likely to benefit from interventions to improve their vision needs
+to be assessed. The value of screening for other measures such as
+visual fields or contrast sensitivity warrants further work. While
+single questions about self-reported visual difficulties are poor predictors of low visual acuity, the development of brief screening instruments that assess visual function could be of great value (Iliffe
+2005).
+With regards to multidimensional assessment for older people, in
+the one trial with data on this issue the low level of ophthalmological referrals for those people deemed eligible for referral following screening was notable. There is scope for more research
+on the determinants of clinician adherence to recommendations
+for referrals arising from multidimensional assessments. Specific
+issues of interest are assessing the appropriateness of the referral
+decisions made and the role of the patient in the decision whether
+to refer or not.
+The effectiveness of an increased role for optometry services in
+the detection and management of visual problems among older
+people on a population basis warrants evaluation.
+Detailed prospective research on the detection, referral, diagnosis
+and management of visual problems in older people could help
+shed further light on the reasons for the ineffectiveness of screening. As well as looking at health service issues, research from the
+perspective of the older people themselves is also needed. Areas
+which particularly need to be addressed include: older people’s
+perceptions of their visual problems and of the need for interventions; and perceived barriers to interventions to help their vision.
+There is also a need to evaluate the impact of vision screening in
+more dependent populations of older people. The findings of two
+studies in this review highlighted that many of the control arm
+participants sought assessment from an eye care speciality independently (Swamy 2009; Tay 2006). Participants who live in residential or nursing homes are arguably less able to seek help when
+needed and therefore there may be greater benefit to providing
+visual screening in this subpopulation.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+14
+
+
+[page 17]
+ACKNOWLEDGEMENTS
+• We are very appreciative to Professor Steve Iliffe (SI), for his
+contributions as author of the previous version of this review.
+• We would like to thank all the study authors who
+responded to requests for additional information. The following
+provided unpublished data used in this review: R McEwan; N
+Vetter; E van Rossum; E Wagner; J Wang; and R Cumming.
+• We are grateful to Astrid Fletcher, Catey Bunce, Tasanee
+Braithwaite and Kristina Lindsley for peer review comments on
+this review.
+• The editorial team of the Cochrane Eyes and Vision Group
+developed and executed the electronic searches. We thank Anupa
+Shah and Iris Gordon for their assistance with the review process.
+
+REFERENCES
+
+References to studies included in this review
+Eekhof 2000 {published data only}
+Eekhof J, De Bock G, Schaapveld K, Springer M. Effects of
+screening for disorders among the elderly: an intervention
+study in general practice. Family Practice 2000;17(4):
+329–33.
+McEwan 1990 {published and unpublished data}
+McEwan RT, Davison N, Forster DP, Pearson P, Stirling E.
+Screening elderly people in primary care: a randomised
+controlled trial. British Journal of General Practice 1990;40
+(332):94–7.
+Moore 1997 {published data only (unpublished sought but not used)}
+Moore AA, Siu Al, Partridge JM, Hays RD, Adams J. A
+randomized trial of office-based screening for common
+problems in older persons. American Journal of Medicine
+1997;102(4):371–8.
+
+Vetter 1984 {published and unpublished data}
+Vetter NJ, Jones DA, Victor CR. Effect of health visitors
+working with elderly patients in general practice: a
+randomised controlled trial. British Medical Journal
+(Clinical Research Ed.) 1984;288(6414):369–72.
+Vetter 1992 {published and unpublished data}
+Vetter NJ, Lewis PA, Ford D. Can health visitors prevent
+fractures in elderly people?. BMJ 1992;304(6831):888–90.
+Wagner 1994 {published and unpublished data}
+Wagner EH, LaCroix AZ, Grothaus L, Leveille SG, Hecht
+JA, Artz K, et al. Preventing disability and falls in older
+adults: a randomised controlled trial. American Journal of
+Public Health 1994;84(11):1800–6.
+
+References to studies excluded from this review
+
+Smeeth 2003 {published data only}
+∗
+Smeeth L, Fletcher AE, Hanciles S, Evans J, Wormald R.
+Screening older people for impaired vision in primary care:
+cluster randomised trial. BMJ 2003;327(7422):1027–30.
+
+Carpenter 1990 {published and unpublished data}
+Carpenter GI, Demopoulos GR. Screening the elderly in
+the community: controlled trial of dependency surveillance
+using a questionnaire administered by volunteers. BMJ
+1990;300(6734):1253–6.
+
+Swamy 2009 {published data only}
+Swamy B, Cumming RG, Ivers R, Clemson L, Cullen J,
+Hayes MF, et al. Vision screening for frail older people: a
+randomised trial. British Journal of Ophthalmology 2009;93
+(6):736–41.
+
+Clarke 1992 {published and unpublished data}
+Clarke M, Clarke SJ, Jagger C. Social intervention and the
+elderly: a randomized controlled trial. American Journal of
+Epidemiology 1992;136(12):1517–23.
+
+Tay 2006 {published and unpublished data}
+Tay T, Rochtchina E, Mitchell P, Lindley R, Wang JJ. Eye
+care service utilization in older people seeking aged care.
+Clinical and Experimental Ophthalmology 2006;34(2):
+141–5.
+Van Rossum 1993 {published and unpublished data}
+van Rossum E, Frederiks CM, Philipsen H, Portengen K,
+Wiskerke J, Knipschild P. Effects of preventive home visits
+to elderly people. BMJ 1993;307(6895):27–32.
+
+Epstein 1990 {published and unpublished data}
+Epstein AM, Hall JA, Fretwell M. Consultative geriatric
+assessment for ambulatory patients: a randomised trial in
+a health maintenance organisation. JAMA 1990;263(4):
+538–44.
+Fabacher 1994 {published and unpublished data}
+Fabacher D, Josephson K, Pietruszka F, Linderborn K,
+Morley JE, Rubenstein LZ. An in-home assessment program
+for independent older adults: a randomized controlled
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+15
+
+
+[page 18]
+trial. Journal of the American Geriatric Society 1994;42(6):
+630–80.
+Hall 1992 {published data only}
+Hall N, DeBeck P, Johnson D, Mackinnon K, Gutman G,
+Glick N. Randomized trial of a health promotion program
+for frail elders. Canadian Journal of Aging 1992;11(1):
+72–91.
+Hanger 1990 {published data only}
+Hanger HC, Sainsbury R. Screening the elderly: a
+Christchurch study. New Zealand Medical Journal 1990;
+103(899):473–5.
+Hendriksen 1984 {published and unpublished data}
+Hendriksen C, Lund E, Stromgard E. Consequences of
+assessment and intervention among elderly people: a three year randomised controlled trial. British Medical Journal
+(Clinical Research Ed.) 1984;289(6457):1522–4.
+Matchar 2017 {published data only}
+Matchar DB, Duncan PW, Lien CT, Ong ME, Lee M,
+Gao F, et al. Randomized controlled trial of screening,
+risk modification, and physical therapy to prevent falls
+among the elderly recently discharged from the emergency
+department to the community: the steps to avoid falls
+in the elderly study. Archives of Physical Medicine and
+Rehabilitation 2017;98(6):1086–96.
+Pathy 1992 {published data only}
+Pathy MS, Bayer A, Harding K, Dibble A. Randomised trial
+of case finding and surveillance of elderly people at home.
+Lancet 1992;340(8824):890–3.
+Rubenstein 1986 {published data only}
+Rubenstein LZ, Josephson KR, Nichol-Seamons M,
+Robbins AS. Comprehensive health screening of well adults:
+an analysis of a community program. Journal of Gerontology
+1986;41(3):342–52.
+Sorensen 1988 {published and unpublished data}
+Sørensen KH, Sivertsen J. Follow-up three years after
+intervention to relieve unmet medical and social needs of
+old people. Comprehensive Gerontology - Section B 1988;2
+(2):85–91.
+Stone 1978 {published data only}
+Stone H, Shannon DJ. Screening for impaired visual acuity
+in middle age in general practice. British Medical Journal
+1978;2(6141):859–63.
+Stuck 1995 {published data only}
+Stuck AE, Aronow HU, Steiner A, Alessi CA, Bula CJ,
+Gold MN, et al. A trial of annual in-home comprehensive
+geriatric assessments for elderly people living in the
+community. New England Journal of Medicine 1995;333
+(18):1184–9.
+Tinetti 1994 {published data only}
+Tinetti ME, Baker DI, McAvay G, Claus EB, Garrett
+P, Gottschalk M, et al. A multifactorial intervention to
+reduce the risk of falling among elderly people living in the
+community. New England Journal of Medicine 1994;331
+(13):821–7.
+
+Tulloch 1979 {published and unpublished data}
+Tulloch AJ, Moore V. A randomised controlled trial of
+geriatric screening and surveillance in general practice.
+Journal of the Royal College of General Practitioners 1979;29
+(209):733–42.
+Williams 1987 {published data only}
+Williams ME, Williams TF, Zimmer JG, Hall WJ,
+Podgorski CA. How does the team approach to outpatient
+geriatric evaluation compare with traditional care: a report
+of a randomised controlled trial. Journal of the American
+Geriatric Society 1987;35(12):1071–8.
+Yeo 1987 {published and unpublished data}
+Yeo G, Ingram L, Skurnick J, Crapo L. Effects of a geriatric
+clinic on functional health and well-being of elders. Journal
+of Gerontology 1987;42(3):252–8.
+
+Additional references
+Andrews 2001
+Andrews GR. Care of older people: Promoting health and
+function in an aging population. BMJ 2001;322(7288):
+728–9.
+Chou 2009
+Chou R, Dana T, Bougatsos C. Screening older adults for
+impaired visual acuity: a review of the evidence for the U.S.
+Preventive Services Task Force. Annals of Internal Medicine
+2009;151(1):44–58.
+Chou 2016
+Chou R, Dana T, Bougatsos C, Grusing S, Blazina I.
+Screening for Impaired Visual Acuity in Older Adults: A
+Systematic Review to Update the 2009 U.S. Preventive
+Services Task Force Recommendation. Evidence Synthesis
+March 2016; Vol. Report No: 14–05209–EF–1.
+Cochrane RoB 2.0 2016
+Higgins JP, Sterne JAC, Savovi J, Page MJ, Hróbjartsson
+A, Boutron I, et al. A revised tool for assessing risk of
+bias in randomized trials In: Chandler J, McKenzie
+J, Boutron I, Welch V (editors). Cochrane Methods.
+Cochrane Database of Systematic Reviews 2016, Issue 10
+(Suppl 1). www.riskofbias.info/welcome/rob-2-0-tool
+(accessed before 15 November 2017). [DOI: 10.1002/
+14651858.CD201601
+Evans 2004
+Evans BJ, Rowlands G. Correctable visual impairment
+in older people: a major unmet need. Ophthalmic &
+Physiological Optics 2004;24(3):161–80.
+Glanville 2006
+Glanville JM, Lefebvre C, Miles JN, Camosso-Stefinovic J.
+How to identify randomized controlled trials in MEDLINE:
+ten years on. Journal of the Medical Library Association :
+JMLA 2006;94(2):130–6.
+Guyatt 2011
+Guyatt GH, Oxman AD, Schunemann HJ, Tugwell P,
+Knottnerus A. GRADE guidelines: a new series of articles
+in the Journal of Clinical Epidemiology. Journal of Clinical
+Epidemiology 2011;64(4):380–2.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+16
+
+
+[page 19]
+Higgins 2011
+Higgins JP, Altman DG, Sterne JAC, editor(s). Chapter 8:
+Assessing risk of bias in included studies. In: Higgins JP,
+Green S, editor(s). Cochrane Handbook for Systematic
+Reviews of Interventions Version 5.1.0 (updated March
+2011). The Cochrane Collaboration, 2011. Available from
+handbook.cochrane.org.
+Iliffe 2005
+Iliffe S, Kharicha K, Harari D, Swift C, Gillman G, Stuck
+A. Self-reported visual function in healthy older people in
+Britain: associations with age, sex, self-reported health,
+education and income. Family Practice 2005;22(6):585–90.
+Klein 1991
+Klein R, Klein BE, Linton KL, De Mets DL. The Beaver
+Dam eye study: visual acuity. Ophthalmology 1991;98(8):
+1310–5.
+Mangione 2001
+Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry
+S, Hays RD. Development of the 25-item National Eye
+Institute Visual Function Questionnaire. Archives of
+Ophthalmology 2001;119(7):1050–8.
+Review Manager 2014 [Computer program]
+Nordic Cochrane Centre, The Cochrane Collaboration.
+Review Manager 5 (RevMan 5). Version 5.3. Copenhagen:
+Nordic Cochrane Centre, The Cochrane Collaboration,
+2014.
+Rubenstein 1989
+Rubenstein LV, Calkins DR, Greenfield S, Jette AM,
+Meenan RF, Nevins MA, et al. Health status assessment for
+elderly patients. Report of the Society of General Internal
+Medicine Task Force on Health Assessment. Journal of the
+American Geriatrics Society 1989;37(6):569.
+SLSSG 1977
+The South-East London Screening Study Group. A
+controlled trial of multiphasic screening in middle age: results of the South-East London Screening Study.
+International Journal of Epidemiology 1977;6(4):357–63.
+Smeeth 1998a
+Smeeth L. Assessing the likely effectiveness of screening
+older people for impaired vision in primary care. Family
+Practice 1998;15(Suppl 1):S24–9.
+
+Stuck 1993
+Stuck AE, Siu AL, Wieland GD, Adams J, Rubenstein LZ.
+Comprehensive geriatric assessment: a meta-analysis of
+controlled trials. Lancet 1993;342(8878):1032–6.
+Swedish National Institute of Public Health 2007
+Swedish National Institute of Public Health. Healthy
+Ageing: A Challenge for Europe. Swedish National Institute
+of Public Health 2007.
+Williams 1993
+Williams EI, Wallace P. Health checks for people aged 75
+and over. Occasional Papers of the Royal College of General
+Practitioners 1993;April(59):1–30.
+Williamson 1964
+Williamson J, Stokoe IH, Gray S. Old people at home:
+their unreported needs. Lancet 1964;1(7343):1117–20.
+Wormald 1992
+Wormald RP, Wright LA, Courtney P, Beaumont B,
+Haines AP. Visual problems in the elderly population and
+implications for services. BMJ 1992;304(6836):1226–9.
+
+References to other published versions of this review
+Smeeth 1998b
+Smeeth L, Iliffe S. Effectiveness of screening older people
+for impaired vision in community setting: systematic review
+of evidence from randomised controlled trials. BMJ 1998;
+316:660–3.
+Smeeth 2006
+Smeeth L, Iliffe S. Community screening for visual
+impairment in the elderly. Cochrane Database of
+Systematic Reviews 2006, Issue 3. [DOI: 10.1002/
+14651858.CD001054.pub2
+Smeeth 2008
+Smeeth L, Iliffe S. Community screening for visual
+impairment in the elderly. Cochrane Database of
+Systematic Reviews 2008, Issue 3. [DOI: 10.1002/
+14651858.CD001054.pub2
+∗
+Indicates the major publication for the study
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+17
+
+
+[page 20]
+CHARACTERISTICS OF STUDIES
+
+Characteristics of included studies [ordered by study ID]
+Eekhof 2000
+Methods
+
+Cluster randomised trial of 12 general practitioners
+
+Participants
+
+Geographic region: Netherlands
+First 160 patients in alphabetical order from each surgery
+Age: over 75
+Exclusion criteria: too ill, suffering from dementia, not able to participate for other
+reasons n = 1028
+
+Interventions
+
+Each practice was randomised to either:
+(1) Intervention group: multi-component screening package including 4 disorders (vision, hearing, urinary incontinence and mobility) using self-reporting OECD questionnaire as well as diagnostic tests during the first year. When the GP and the patient agreed
+on the intervention, usual care was provided, n = 483
+(2) Control group: no screening (standard care) during the first year, then underwent
+same multi-component screening package as the intervention group at year 2, n = 545
+
+Outcomes
+
+Presence of a visual disorder at 12 months in intervention group versus control group
+A visual disorder was defined as “having difficulty recognising a face at 4 m and/ or
+reading normal letters in a newspaper and/ or impaired vision in both eyes (Snellen chart
+<0.3 or not being able to read normal newspaper letters at 25cm distance).”
+
+Notes
+
+Funding source: Robert Wood Johnson Clinician Scholars Programme and the National
+Institute on Aging Geriatric Academic Programme
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Unclear risk
+bias)
+
+Method of randomisation not reported.
+“Randomised in 6 strata pairs of GPs,
+matched by town/ countryside group/ solo
+practice, age, sex and number of years practicing as a GP”
+
+Allocation concealment (selection bias)
+
+Cluster randomised trial
+
+Low risk
+
+Blinding of outcome assessment (detection Unclear risk
+bias)
+Not seeing well
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+Masking of assessors not performed knowledge of intervention could have influenced outcome, but judged unlikely to
+be a material bias
+
+18
+
+
+[page 21]
+Eekhof 2000
+
+(Continued)
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Low risk
+
+Some imbalance in follow-up but groups
+reasonably balanced in terms of reason for
+loss to follow-up and thought to be too
+minimal to significantly affect results
+Intervention: 483/732 (66%)
+Control: 545/738 (74%)
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Unclear risk
+
+Uncertain risk of recruitment bias - the
+exclusions were similar between (6% versus 8%) groups, which suggests that recruitment bias is unlikely to be a problem,
+but there were fewer people recruited per
+surgery than 160, according to Table 1,
+which remains unexplained
+
+McEwan 1990
+Methods
+
+Randomised: random number generator, centrally
+Stratified by age: 75 to 84, 85+
+Masking: outcome assessors not masked
+
+Participants
+
+Geographic region: United Kingdom
+All people registered with a general practice
+Age: over 75
+Exclusion criteria: too ill for assessment or in hospital (11)
+Prior to randomisation all participants interviewed regarding mental and physical health
+and functioning, including questions about vision
+N = 296
+
+Interventions
+
+(1) multi-component home nurse assessment (including social functioning, current medical problems and additional question about vision). Those reporting visual problems
+given advice and referred to an optometrist (n = 151)
+(2) Usual care (n = 145)
+Follow-up period: 20 months
+
+Outcomes
+
+Proportion who ’always’ or ’quite often’ had difficulty reading ordinary newsprint (with
+glasses if worn)
+Attrition: outcome data available on 78% of participants in intervention group (16
+deaths and 17 lost to follow up) and 77% in control group (23 deaths and 11 lost to
+follow up)
+
+Notes
+
+Funding source: Newcastle Health Authority
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+19
+
+
+[page 22]
+McEwan 1990
+
+(Continued)
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Randomly allocated to groups, by random
+number generator.
+
+Allocation concealment (selection bias)
+
+Randomisation conducted centrally.
+
+Low risk
+
+Blinding of outcome assessment (detection Unclear risk
+bias)
+Not seeing well
+
+Masking of assessors not performed knowledge of intervention could have influenced outcome, but judged unlikely to
+be a material bias
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Low risk
+
+Attrition rate fully explained and equal between groups.
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None apparent.
+
+Moore 1997
+Methods
+
+Cluster randomised controlled trial of 26 internists and family physicians
+
+Participants
+
+Geographic region: Greater Los Angeles
+8 to 12 patients from each of the internist’s or family physician’s practice
+Age: Over 70
+Exclusion criteria: not acutely/ terminally ill, able to answer questions
+161 patients within 26 practices
+
+Interventions
+
+Each practice was randomised to either:
+(1) Visual screening as part of multi-component package. Baseline and follow-up questionnaires (MOS SF-36), with screening assessment. This involved an eight item screening questionnaire/assessment including a visual screening question; ’Do you have any
+difficulty driving or watching television or reading or doing any of the activities because
+of your eyesight?’. If a positive screen was identified, then Snellen visual acuity assessment
+performed by physician and unknown interventions provided. (n = 112)
+(2) N visual screening - standard care. Baseline and follow-up questionnaires (MOS SF6) provided as in the intervention group (n = 149)
+
+Outcomes
+
+Frequency of self-reported improvement in vision via questionnaire
+Attrition rate: 31 total across both arms, with 17 = refusal, 4 = moving away, 8 = loss to
+follow-up, 2 = death
+Follow-up: 6 months
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+20
+
+
+[page 23]
+Moore 1997
+
+(Continued)
+
+Notes
+
+Cluster randomised
+Funding source: Robert Wood Johnson Clinician Scholars Programme and the National
+Institute on Aging Geriatric Academic Program
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Random number table used.
+
+Allocation concealment (selection bias)
+
+Allocation concealment is unlikely to be an
+issue in cluster-randomised trials
+
+Low risk
+
+Blinding of outcome assessment (detection Low risk
+bias)
+Not seeing well
+
+Questionnaire used to assess outcome.
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Low risk
+
+Equal attrition rate (12%) between groups.
+Explained, but reasons not provided per
+group. Good follow-up rate considering the
+age group
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Unclear risk
+
+Practice was aware of allocation at the time
+of recruiting participants so there was potential for recruitment bias. On the whole
+the groups were well balanced apart from
+membership of a health maintenance organisation which was more common in the
+intervention group (64% versus 33%)
+
+Smeeth 2003
+Methods
+
+Centralised cluster computer generated randomisation of general practices
+
+Participants
+
+Geographic region: United Kingdom
+A random sample of 220 people registered with each general practice and eligible for
+trial entry
+Age: Over 75
+Exclusion criteria: terminal illness or resident in a long-stay hospital or nursing home
+20 practices randomised, with a total of 4340 participants
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+21
+
+
+[page 24]
+Smeeth 2003
+
+(Continued)
+
+Interventions
+
+Participants were randomised to one of two screening strategies
+(1) Universal screening group: all trial participants were invited to complete a brief
+assessment followed by a detailed health assessment by a trained nurse that included
+measurement of visual acuity on the logMAR scale using a Glasgow acuity chart. People
+with visual acuity less than 6/18 in either eye had measurements repeated using a pinhole
+occluder. Participants with a pinhole vision of less than 6/18 in either eye were referred
+to an ophthalmologist unless they were registered blind or had seen an ophthalmologist
+in the previous year. Participants presenting with vision of less than 6/18 in either eye
+that improved with pinhole to better than 6/18 were advised to see an optician
+N = 2140 randomised. 1565 had an assessment, response rate 73.1%
+(2) Targeted screening group: participants were invited to complete a brief screening
+assessment that included a question about difficulty seeing. Only people found to have
+a pre-specified range and level of problems during the brief assessment were invited to
+have a detailed assessment including visual acuity
+N = 2200 randomised. 1684 had an assessment, response rate 76.5%
+120 people out of the 1684 who had a brief assessment went on to have visual acuity
+measured
+Follow-up period: 3 to 5 years
+
+Outcomes
+
+Visual acuity less than 6/18 in either eye and mean composite score of the NEI VFQ25 comparing universal with targeted screening
+A total of 1807 outcome assessments were completed. Around one third of participants
+died prior to outcome assessment. Excluding people who had died the response rate
+was 67.8% (978/1443) in the targeted group and 57.9% (829/1432) in the universal
+screening group
+
+Notes
+
+Cluster randomised
+Funding source: MRC and Department of Health
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Computer generated randomisation list
+used.
+
+Allocation concealment (selection bias)
+
+Randomisation performed centrally.
+
+Low risk
+
+Blinding of outcome assessment (detection Unclear risk
+bias)
+Not seeing well
+
+Masking of assessors not performed knowledge of intervention could have influenced outcome, but judged unlikely to
+be a material bias
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Attrition rate fully explained, but slightly
+different rates between groups (67.8% ver-
+
+Unclear risk
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+22
+
+
+[page 25]
+Smeeth 2003
+
+(Continued)
+sus 57.9%) which could have affected outcome
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None apparent.
+
+Swamy 2009
+Methods
+
+Randomised using random number tables, to blocks of size 4.
+Stratified by sex, falls history and recruitment source.
+Investigator allocating participants by allocation sequence had no contact with study
+subjects
+
+Participants
+
+Geographic region: community in Sydney, Australia
+Contact details obtained from range of care service providers and local advertisements
+placed
+Age: 70 years or older
+Exclusion criteria: cataract surgery or new spectacle prescription in last 3 months
+N = 616
+
+Interventions
+
+(1) Vision tests and eye examinations by an optometrist, with appropriate treatment
+(new spectacles, referral to ophthalmologist, referral to occupational therapist). n = 309
+(2) Standard care, no visual screening, n = 307
+Follow-up = 12 months
+
+Outcomes
+
+Baseline assessment: socio-economic details, medical history, history of vision and eye
+problems, falls history, use of psychotropic medications, activities of daily living (ADLs),
+25-item National Eye Institute Visual Function Questionnaire (VFQ-25), and the MiniMental State Examination (MMSe), visual acuity with near and distance logMAR
+Attrition rate = 35 (intervention group) versus 49 (control group), reasons provided
+Follow-up: follow-up questionnaire including VFQ-25, binocular visual acuity, whether
+or not had seen an eye-care practitioner in the past year (if so, when)
+Data adjusted for baseline VFQ-25 scores.
+
+Notes
+
+Funding source: National Health and Medical Research Council of Australia
+Declaration of interest: none
+Date study conducted: Not recorded
+Trial registration number: Not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+Support for judgement
+Random number tables used.
+
+23
+
+
+[page 26]
+Swamy 2009
+
+(Continued)
+
+Allocation concealment (selection bias)
+
+Low risk
+
+Random numbers used by investigator who
+had no contact with participants
+
+Blinding of outcome assessment (detection Low risk
+bias)
+Not seeing well
+
+Attempts made to mask assessor - research
+assistants were “unaware of group allocation”
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Low risk
+
+Attrition rate fully explained.
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None.
+
+Tay 2006
+Methods
+
+Randomisation performed using computer generated random numbers with block design. Participants randomised into 4 groups; vision and hearing screening, vision screening only, hearing screening only, no screening (standard care)
+No masking was performed.
+
+Participants
+
+Geographic region: Sydney, Australia
+Patients attending aged care services at Westmead Hospital, Sydney
+Age: 65 years and over
+Exclusion criteria: profound dementia, non-English speaking
+N = 206 randomised
+
+Interventions
+
+(1) Visual acuity screening (including groups with visual screening only and visual and
+hearing screening combined). VA testing (logMAR), binocular near testing, visual field
+testing (confrontation), n = 96
+Under-corrected refractive error (pinhole VA improved at least 10 letters in those presenting with VA < 6/6), bilateral visual impairment (better eye VA < 6/12) or self-reported
+visual problems were recommended to have further assessment by eye-care professionals
+(2) No visual acuity screening (including groups with hearing screening only and no
+screening), n = 92
+Routine aged care assessment and interview using a standardised questionnaire
+All participants had MMSE, sociodemographic information, self-rated health, past medical histories, use of community support services and details of informal help
+
+Outcomes
+
+Improvement in visual acuity in one or both eyes at follow-up (1 year)
+Number of individuals that were followed up (n = 121) not provided per group, but
+authors report “the mean VA in participants who had VA assessed (intervention) at
+baseline (39 letters) was non-significantly better than those who did not have their VA
+assessed (35 letters, p = 0.25).”
+Attrition: 85/206 = 40% dropped out after randomisation.
+Rates between groups not provided.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+24
+
+
+[page 27]
+Tay 2006
+
+(Continued)
+
+Notes
+
+Funding sources: University of Sydney SESQUI Ophthalmic Research Institute of Australia (ORIA grant 2004), University of Sydney Postgraduate Award, Westmead Millennium Foundation Research Scholarship Stipend Enhancement Grant
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Contact from author: randomisation performed using computer generated random
+numbers with block design
+
+Allocation concealment (selection bias)
+
+No information provided.
+
+Unclear risk
+
+Blinding of outcome assessment (detection Unclear risk
+bias)
+Not seeing well
+
+Masking of assessors not performed knowledge of intervention could have influenced outcome, but judged unlikely to
+be a material bias
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Unclear risk
+
+121/206 = 59% randomised participants
+seen at follow-up. Follow-up rate by intervention group not reported
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None.
+
+Van Rossum 1993
+Methods
+
+Randomised: random numbers generator, centrally
+Stratified prior to randomisation by sex, self-rated health, composition of household and
+neighbourhood
+Masking: outcome assessors masked
+
+Participants
+
+Geographic region: the Netherlands
+All people living at home in a geographically defined area were sent a postal invitation
+Age: 75 to 84
+Exclusion criteria: people already receiving home nursing care or their partners (126);
+people living in a monastery (20)
+N = 580
+
+Interventions
+
+(1) Four visits per year for 3 years by trained nurses. One question about vision: ’How
+do you assess your vision at present?’ Possible answers: excellent, good, fair, not so good
+or bad. Those answering ‘fair’, ’not so good’ or ‘bad’ to the screening question advised
+to contact an optometrist (n = 292)
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+25
+
+
+[page 28]
+Van Rossum 1993
+
+(Continued)
+(2) Usual care, no screening (n = 288)
+Follow-up period: 3 years
+
+Outcomes
+
+Proportion answering ‘fair’, ‘not so good’ or ‘bad’ to the screening question at the end
+of the study
+Attrition: outcome data available on 79% of participants in intervention group (42
+deaths and 19 lost to follow-up) and 77% in control group (50 deaths and 17 lost to
+follow-up)
+
+Notes
+
+Funding source: Netherlands Ministry of Welfare, Health and Cultural Affairs, the Foundation for Research and Development of Social Care (STOOM) and Het Praeventiefonds
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Computer generated random numbers.
+
+Allocation concealment (selection bias)
+
+Randomisation conducted centrally.
+
+Low risk
+
+Blinding of outcome assessment (detection Low risk
+bias)
+Not seeing well
+
+Attempts were made to mask assessor: “interviews were conducted by trained interviewers, who were unaware of whether a
+participant had been regularly visited by a
+nurse or not”
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Unclear risk
+
+Analysed data per protocol and ITT but
+no comment on differences between these
+results and unclear which are reported
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None.
+
+Vetter 1984
+Methods
+
+Randomised by household: random number tables, centrally. Household randomisation
+undertaken because it was felt it would be difficult for the health visitor to intervene on
+behalf of one member of a household and not for another
+Masking: outcome assessors masked
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+26
+
+
+[page 29]
+Vetter 1984
+
+(Continued)
+
+Participants
+
+Geographic region: United Kingdom
+People living at home registered with one of two general practices
+Age: over 70
+Exclusion criteria: people in permanent residential care
+N = 1148
+
+Interventions
+
+(1) Annual assessment at home by a health visitor. Two questions about glasses and
+difficulty seeing. Those reporting difficulties seeing were referred to an optometrist or
+to their general practitioner and were offered advice from the health visitor (n = 577)
+(2) Usual care, no screening (n = 571)
+Follow-up period: 2 years
+
+Outcomes
+
+Proportion with a positive response to the question at interview: ‘Do you have any
+difficulty seeing (even when wearing your glasses)’
+Attrition: outcome data available on 84% of participants in intervention group (80
+deaths and 9 lost to follow up) and 79% in control group (105 deaths and 10 lost to
+follow up)
+
+Notes
+
+Funding source: Welsh Office and Department of Health and Social Security
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Randomly allocated to groups, using random number tables.
+
+Allocation concealment (selection bias)
+
+Randomisation conducted centrally.
+
+Low risk
+
+Blinding of outcome assessment (detection Unclear risk
+bias)
+Not seeing well
+
+Masking of assessors not performed knowledge of intervention could have influenced outcome, but judged unlikely to
+be a material bias
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Low risk
+
+Attrition rate fully explained.
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+27
+
+
+[page 30]
+Vetter 1992
+Methods
+
+Randomised: random number tables, centrally. Household randomisation undertaken
+because part of intervention included improvements in the home environment
+Masking: outcome assessors masked
+
+Participants
+
+Geographic region: United Kingdom
+People registered with one general practice
+Age: 75 and over
+Exclusion criteria: people excluded by general practitioners because it was felt they were
+likely to refuse trial entry (9)
+N = 674
+
+Interventions
+
+(1) Annual assessment at home by a health visitor, specifically aimed at reducing falls and
+fractures. Two questions about glasses and difficulty seeing, and third question about
+recent eye tests. Those reporting difficulties seeing were referred to an optometrist or to
+their general practitioner, and were offered advice from the health visitor (n = 350)
+(2) Usual care, no screening (n = 324)
+Follow-up period: 4 years
+
+Outcomes
+
+Proportion with a positive response to the interview question ‘Do you have any difficulty
+seeing (even when wearing your glasses)’
+Attrition: outcome data available on 69% of participants in intervention group (88
+deaths and 22 lost to follow-up) and 65% in control group (106 deaths and eight lost
+to follow-up)
+
+Notes
+
+Funding source: the Grand Charity and the Welsh Office
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Random number table used.
+
+Allocation concealment (selection bias)
+
+Use of study numbers without direct contact from participants
+
+Low risk
+
+Blinding of outcome assessment (detection Unclear risk
+bias)
+Not seeing well
+
+Masking of assessors not performed knowledge of intervention could have influenced outcome, but judged unlikely to
+be a material bias
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Low risk
+
+Attrition rate fully explained.
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+28
+
+
+[page 31]
+Vetter 1992
+
+(Continued)
+
+Other bias
+
+Low risk
+
+None.
+
+Wagner 1994
+Methods
+
+Randomised: random number table, independent of trialists or participants
+Masking: outcomes assessed by postal questionnaire, no masking
+
+Participants
+
+Geographic region: United States
+Random sample of health maintenance organisation enrollees
+Age: over 65
+Exclusion criteria: people in residential care, people too ill to undertake the assessment
+N = 1559
+
+Interventions
+
+(1) Invited for a multi-component nurse assessment (including vision) aimed at reducing
+disability and falls. Those reporting problems received information about resources in
+the community designed to assist those with poor vision (n = 635)
+(2) Invited to a general health promotion visit with no visual assessment (n = 317)
+(3) Usual care, no screening (n = 607)
+Follow-up period: 2 years
+
+Outcomes
+
+Proportions reporting visual problems on a mailed questionnaire
+Attrition: 5% of total (89), 53 deaths, 18 refusals, 15 too ill, 2 institutionalised, 1 could
+not be contacted.
+Author states attrition evenly distributed across groups
+For this review, group 1 (who received a visual screen) has been analysed against groups
+2 and 3 together (who received no visual screen)
+
+Notes
+
+Funding source: Centres for Disease Control
+Declaration of interest: not recorded
+Date study conducted: not recorded
+Trial registration number: not recorded
+
+Risk of bias
+Bias
+
+Authors’ judgement
+
+Support for judgement
+
+Random sequence generation (selection Low risk
+bias)
+
+Randomly allocated to groups, using random number table.
+
+Allocation concealment (selection bias)
+
+Allocation independent of trialists.
+
+Low risk
+
+Blinding of outcome assessment (detection Low risk
+bias)
+Not seeing well
+
+Questionnaire used to assess outcome.
+
+Incomplete outcome data (attrition bias)
+All outcomes
+
+Attrition rate very low and fully explained.
+
+Low risk
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+29
+
+
+[page 32]
+Wagner 1994
+
+(Continued)
+
+Selective reporting (reporting bias)
+
+Low risk
+
+Primary outcomes reported.
+
+Other bias
+
+Low risk
+
+None.
+
+General practice is equivalent to family practice
+
+Characteristics of excluded studies [ordered by study ID]
+
+Study
+
+Reason for exclusion
+
+Carpenter 1990
+
+Visual outcomes not measured
+
+Clarke 1992
+
+Intervention did not include assessment of vision
+
+Epstein 1990
+
+Visual outcomes not measured
+
+Fabacher 1994
+
+Visual outcomes not measured
+
+Hall 1992
+
+Visual outcomes not measured
+
+Hanger 1990
+
+No control group
+
+Hendriksen 1984
+
+Visual outcomes not measured
+
+Matchar 2017
+
+Not a general population group - participants were recently discharged from emergency department and study
+was aimed at falls prevention rather than vision improvement
+
+Pathy 1992
+
+Visual outcomes not measured
+
+Rubenstein 1986
+
+No control group
+
+Sorensen 1988
+
+Visual outcomes not measured
+
+Stone 1978
+
+Participants aged 64 years and under only
+
+Stuck 1995
+
+Visual outcomes not measured
+
+Tinetti 1994
+
+Visual outcomes not measured
+
+Tulloch 1979
+
+Visual outcomes not measured
+
+Williams 1987
+
+Visual outcomes not measured.
+
+Yeo 1987
+
+Visual outcomes not measured
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+30
+
+
+[page 33]
+DATA AND ANALYSES
+
+Comparison 1. Vision screening as part of multi-component screening package versus no vision screening (standard
+care)
+
+Outcome or subgroup title
+
+No. of
+studies
+
+No. of
+participants
+
+6
+
+4522
+
+1 Not seeing well (as defined by
+each trial)
+
+Statistical method
+
+Effect size
+
+Risk Ratio (M-H, Fixed, 95% CI)
+
+1.05 [0.97, 1.14]
+
+Analysis 1.1. Comparison 1 Vision screening as part of multi-component screening package versus no vision
+screening (standard care), Outcome 1 Not seeing well (as defined by each trial).
+Review:
+
+Community screening for visual impairment in older people
+
+Comparison: 1 Vision screening as part of multi-component screening package versus no vision screening (standard care)
+Outcome: 1 Not seeing well (as defined by each trial)
+
+Study or subgroup
+
+Intervention
+
+Control
+
+Risk Ratio
+
+n/N
+
+n/N
+
+M-H,Fixed,95% CI
+
+Weight
+
+Risk Ratio
+
+Eekhof 2000 (1)
+
+248/483
+
+257/545
+
+36.6 %
+
+1.09 [ 0.96, 1.23 ]
+
+McEwan 1990 (2)
+
+21/118
+
+19/111
+
+3.0 %
+
+1.04 [ 0.59, 1.83 ]
+
+Van Rossum 1993 (3)
+
+99/231
+
+87/221
+
+13.5 %
+
+1.09 [ 0.87, 1.36 ]
+
+Vetter 1984 (4)
+
+161/486
+
+141/453
+
+22.1 %
+
+1.06 [ 0.88, 1.28 ]
+
+Vetter 1992 (5)
+
+75/240
+
+68/207
+
+11.1 %
+
+0.95 [ 0.73, 1.25 ]
+
+Wagner 1994 (6)
+
+74/581
+
+111/846
+
+13.7 %
+
+0.97 [ 0.74, 1.28 ]
+
+Total (95% CI)
+
+2139
+
+2383
+
+100.0 %
+
+1.05 [ 0.97, 1.14 ]
+
+M-H,Fixed,95% CI
+
+Total events: 678 (Intervention), 683 (Control)
+Heterogeneity: Chi2 = 1.27, df = 5 (P = 0.94); I2 =0.0%
+Test for overall effect: Z = 1.14 (P = 0.25)
+Test for subgroup differences: Not applicable
+
+0.2
+
+0.5
+
+Favours intervention
+
+1
+
+2
+
+5
+
+Favours control
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+31
+
+
+[page 34]
+(1) The outcome measure for this study was determined through the use of questions about vision and visual acuity assessment using a Snellen Chart.
+(2) The outcome measure for this study involved the use of questions only.
+(3) The outcome measure for this study involved the use of questions only.
+(4) The outcome measure for this study involved the use of questions only.
+(5) The outcome measure for this study involved the use of questions only.
+(6) The outcome measure for this study involved the use of questions only.
+
+APPENDICES
+Appendix 1. CENTRAL search strategy
+#1 MeSH descriptor: [Vision Screening] explode all trees
+#2 MeSH descriptor: [Mass Screening] explode all trees
+#3 screen*
+#4 MeSH descriptor: [Preventive Health Services] explode all trees
+#5 MeSH descriptor: [Health Promotion] explode all trees
+#6 MeSH descriptor: [Activities of Daily Living] explode all trees
+#7 MeSH descriptor: [Diagnostic Services] explode all trees
+#8 MeSH descriptor: [Multiphasic Screening] explode all trees
+#9 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8
+#10 MeSH descriptor: [Aged] explode all trees
+#11 MeSH descriptor: [Aged, 80 and over] explode all trees
+#12 (geriatric* or elderly or senior)
+#13 #10 or #11 or #12
+#14 #9 and #13
+#15 MeSH descriptor: [Geriatric Assessment] explode all trees
+#16 MeSH descriptor: [Health Services for the Aged] explode all trees
+#17 #15 or #16
+#18 #14 or #17
+#19 MeSH descriptor: [Eye Diseases] explode all trees
+#20 MeSH descriptor: [Visual Acuity] explode all trees
+#21 (eye* or vision or visual or macula* degeneration or cataract* or presbyopia)
+#22 #19 or #20 or #21
+#23 #18 and #22
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+32
+
+
+[page 35]
+Appendix 2. MEDLINE Ovid search strategy
+1. randomized controlled trial.pt.
+2. (randomized or randomised).ab,ti.
+3. placebo.ab,ti.
+4. dt.fs.
+5. randomly.ab,ti.
+6. trial.ab,ti.
+7. groups.ab,ti.
+8. or/1-7
+9. exp animals/
+10. exp humans/
+11. 9 not (9 and 10)
+12. 8 not 11
+13. exp vision screening/
+14. Mass Screening/
+15. multiphasic screening/
+16. screen$.tw.
+17. Preventive Health Services/
+18. Health Promotion/
+19. Activities of Daily Living/
+20. Diagnostic Services/
+21. or/13-20
+22. exp aged/
+23. “Aged, 80 and over”/
+24. (geriatric$ or elderly or senior$).tw.
+25. or/22-24
+26. 21 and 25
+27. Geriatric Assessment/
+28. Health Services for the Aged/
+29. or/27-28
+30. 26 or 29
+31. exp eye diseases/
+32. exp visual acuity/
+33. (eye$ or vision or visual or macular degeneration or cataract$ or presbyopia).tw.
+34. or/31-33
+35. 30 and 34
+36. 12 and 35
+The search filter for trials at the beginning of the MEDLINE strategy is from the published paper by Glanville 2006.
+
+Appendix 3. Embase Ovid search strategy
+1. exp randomized controlled trial/
+2. exp randomization/
+3. exp double blind procedure/
+4. exp single blind procedure/
+5. random$.tw.
+6. or/1-5
+7. (animal or animal experiment).sh.
+8. human.sh.
+9. 7 and 8
+10. 7 not 9
+11. 6 not 10
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+33
+
+
+[page 36]
+12. exp clinical trial/
+13. (clin$ adj3 trial$).tw.
+14. ((singl$ or doubl$ or trebl$ or tripl$) adj3 (blind$ or mask$)).tw.
+15. exp placebo/
+16. placebo$.tw.
+17. random$.tw.
+18. exp experimental design/
+19. exp crossover procedure/
+20. exp control group/
+21. exp latin square design/
+22. or/12-21
+23. 22 not 10
+24. 23 not 11
+25. exp comparative study/
+26. exp evaluation/
+27. exp prospective study/
+28. (control$ or prospectiv$ or volunteer$).tw.
+29. or/25-28
+30. 29 not 10
+31. 30 not (11 or 23)
+32. 11 or 24 or 31
+33. exp vision test/
+34. mass screening/
+35. screen$.tw.
+36. preventive health service/
+37. health promotion/
+38. daily life activity/
+39. or/33-38
+40. exp aged/
+41. exp senescence/
+42. (geriatric$ or elderly or senior$).tw.
+43. or/40-42
+44. 39 and 43
+45. geriatric assessment/
+46. elderly care/
+47. or/45-46
+48. 44 or 47
+49. exp eye disease/
+50. exp visual acuity/
+51. (eye$ or vision or visual or macula$ degeneration or cataract$ or presbyopia).tw.
+52. or/49-51
+53. 48 and 52
+54. 32 and 53
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+34
+
+
+[page 37]
+Appendix 4. ISRCTN search strategy
+screen AND community AND elderly
+
+Appendix 5. ClinicalTrials.gov search strategy
+screen AND community AND elderly AND (vision OR visual OR sight)
+
+Appendix 6. WHO ICTRP search strategy
+screen AND community AND elderly AND vision
+
+WHAT’S NEW
+Last assessed as up-to-date: 23 November 2017.
+
+Date
+
+Event
+
+Description
+
+6 January 2017
+
+New citation required but conclusions have not changed Issue 2, 2018: Four new trials included (Eekhof 2000;
+Moore 1997; Swamy 2009; Tay 2006)
+
+6 January 2017
+
+New search has been performed
+
+Issue 2, 2018: Electronic searches updated
+
+HISTORY
+Protocol first published: Issue 1, 1998
+Review first published: Issue 3, 1998
+
+Date
+
+Event
+
+Description
+
+9 May 2008
+
+New search has been performed
+
+Electronic searches have been updated.
+
+23 April 2008
+
+Amended
+
+Converted to new review format.
+
+2 March 2006
+
+New citation required and conclusions have changed
+
+Substantive amendment
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+35
+
+
+[page 38]
+CONTRIBUTIONS OF AUTHORS
+Conceiving the idea for the review: SI
+Developing the review: LS
+Undertaking manual searches for trials: LS
+Assessing quality of trials: ELC, LS, JE
+Extracting data: ELC, LS, JE
+Analysing data: ELC, LS, JE
+Writing the review: ELC, LS, JE
+Advising on the review: LS, JE
+Updating the review: ELC, LS, JE
+
+DECLARATIONS OF INTEREST
+None known.
+
+SOURCES OF SUPPORT
+Internal sources
+• London Academic Training Scheme, UK.
+
+External sources
+• Medical Research Council, UK.
+• National Institute for Health Research (NIHR), UK.
+• Richard Wormald, Co-ordinating Editor for Cochrane Eyes and Vision (CEV) acknowledges financial support for his CEV
+research sessions from the Department of Health through the award made by the NIHR to Moorfields Eye Hospital NHS
+Foundation Trust and UCL Institute of Ophthalmology for a Specialist Biomedical Research Centre for Ophthalmology.
+• This review update was supported by the NIHR, via Cochrane Infrastructure funding to the CEV UK editorial base.
+The views and opinions expressed therein are those of the authors and do not necessarily reflect those of the Systematic Reviews
+Programme, NIHR, NHS or the Department of Health.
+
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW
+We made some changes because of updated Cochrane guidance (methods.cochrane.org/mecir).
+• Assessment of risk of bias (MECIR C52 to C60).
+• Grading the certainty of the evidence using GRADE (MECIR C74, C75).
+• We have amended the inclusion criteria to make it clear that we have excluded trials of multi-component screening that did not
+consider the impact of screening on vision outcomes (C40).
+• Searches for the 2017 update now include searching the ISRCTN registry, ClinicalTrials.gov and the World Health
+Organization (WHO) International Clinical Trials Registry Platform (ICTRP). The UK Clinical Trials Gateway and PubMed are no
+longer being searched; (MECIR C27).
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+36
+
+
+[page 39]
+• we compared fixed-effect and random-effects models to test our assumption as to the model required (C71).
+We did not do some planned analyses because of lack of data.
+• We planned sensitivity analyses to assess the effects of including or excluding trials of different quality. We did not identify any
+trials at high risk of bias in any domain so did not do this planned sensitivity analysis.
+The protocol specified the odds ratio but we have calculated the risk ratio which is more easily interpreted.
+As a result of peer review comments, we performed a post hoc sensitivity analysis excluding studies that did not directly refer patients
+to eye specialists.
+We also added in a sensitivity analysis for one analysis which included a cluster randomised trial for which we did not have adjusted
+estimates.
+
+INDEX TERMS
+Medical Subject Headings (MeSH)
+∗
+
+Mass Screening; Community Health Services; Vision Disorders [∗ prevention & control]
+
+MeSH check words
+Aged; Humans
+
+Community screening for visual impairment in older people (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+37
+

@@ -1,0 +1,1281 @@
+[page 1]
+Ophthalmic Epidemiology, 19(5), 306–316, 2012
+© 2012 Informa Healthcare USA, Inc.
+ISSN: 0928-6586 print/1744-5086 online
+DOI: 10.3109/09286586.2012.712192
+
+ORIGINAL ARTICLE
+
+
+
+Andhra Pradesh Eye Disease Study – Visual Function
+Questionnaire: Further Improvements in Psychometric
+Properties using Rasch Analysis
+Vijaya K. Gothwal1,2 and Deepak K. Bagga1,2
+Meera and L B Deshpande Centre for Sight Enhancement, Vision Rehabilitation Centres, L V Prasad Eye Institute,
+Hyderabad, India and 2Bausch and Lomb School of Optometry, L V Prasad Eye Institute, Hyderabad, India
+
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+1
+
+ABSTRACT
+Purpose: Previous Rasch analysis of the Andhra Pradesh Eye Disease Study-Visual Function Questionnaire
+(APEDS-VFQ) lacked comprehensiveness, specifically, dimensionality (whether it measures single/multiple
+constructs). Therefore, using the Rasch model this study provides a detailed assessment of psychometric
+properties of the APEDS-VFQ.
+Methods: A total of 351 visually impaired adults (mean age, 43.3 years) were verbally administered the APEDS VFQ. Rasch analysis was used to assess the psychometric properties of the instrument.
+Results: Participants could distinguish only three categories of difficulty, so response categories were reduced
+from five to three. A single item (“reading small prints in newspaper/magazines”, infit mean square 1.54)
+misfit the model. The overall pattern of fit statistics for item and person measures suggested that the underlying construct (visual ability) is not unidimensional. When the items were grouped into subsets based on
+functional requirements (resolution, contrast sensitivity, illumination and peripheral vision) and separate
+person measures were estimated for each of these domains, the first principal component contained the visual
+ability and accounted for 72% of the variance. Item measure distributions could be divided into 18 strata, and
+item-separation reliability was 0.99. Person measures could be divided into three statistically distinct strata
+and the person-separation reliability was 0.81.
+Conclusions: The APEDS-VFQ is a precise measure of visual ability in visually impaired adults in India. Similar
+to other visual function questionnaires developed for the Western population, our results demonstrate that
+visual ability is a two-factor composite latent variable; one dimension heavily influences reading and the other
+most heavily influences peripheral vision (mobility).
+KEYWORDS: Rasch analysis, Andhra Pradesh Eye Disease Study-Visual Function Questionnaire,
+Psychometric properties, India
+
+INTRODUCTION
+existing instruments (for example, deleting misfitting
+items) have been recommended, the potential of
+an optimized version of the APEDS-VFQ was not
+explored. Considered together, these findings suggest
+that the APEDS-VFQ in its native form is likely
+suboptimal. Furthermore, certain components of the
+APEDS-VFQ have not been investigated either in
+detail or completely. These include: (1) dimensionality
+(the extent to which all items are measuring the same
+underlying construct, ie unidimensionality, or if they
+are also measuring a different construct, in which
+
+The Andhra Pradesh Eye Disease Study-Visual
+Function Questionnaire (APEDS-VFQ) was developed
+to assess the level of difficulty of various aspects
+of visual function in an Indian adult low vision
+population.1 Previous Rasch analysis of the APEDS VFQ reported adequate measurement precision
+and targeting of the instrument in 135 adults with
+low vision.2 However, few misfitting items were
+reported and shortening of the rating scale was
+suggested. Although procedures for re-engineering
+
+Received 30 May 2011; revised 31 December 2011; accepted 06 March 2012
+Correspondence: Vijaya K. Gothwal PhD, Meera and L B Deshpande Centre for Sight Enhancement, Vision Rehabilitation Centres, L V
+Prasad Eye Institute, Kallam Anji Reddy Campus, L V Prasad Marg, Banjara Hills, Hyderabad - 500034, Andhra Pradesh, India.
+Tel: +91 40 30612820. Fax: +91 40 23548271. E-mail: vijayagothwal@gmail.com
+
+306
+
+
+[page 2]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+APEDS-Visual Function Questionnaire
+case the instrument lacks unidimensionality),3,4 that
+has not been assessed in detail; and (2) differential item
+functioning (DIF, which tests whether items perform
+consistently across subgroups of the population), which
+has yet to be investigated.
+Unidimensionality constitutes an important
+attribute of a good measure.3 This property is an
+important prerequisite to generate a valid total score
+for an instrument and the user can be certain that
+a single underlying construct is being measured.5–7
+Although previous Rasch analysis of the APEDS-VFQ
+used fit statistics to investigate dimensionality, this
+constitutes a limited aspect of the assessment. Recent
+studies have indicated that fit statistics alone are an
+insufficient indicator of unidimensionality; a thorough assessment using principal components analysis (PCA) of residuals is required.8 DIF is another
+important related property of a good measure as its
+presence violates the assumption of unidimensionality.9 DIF occurs when an item performs differently
+for one subgroup compared to another, despite being
+equal on the amount of the construct in both subgroups.10 Thus, DIF analysis can help to determine if
+items are appropriate for use in various subgroups in
+a heterogeneous sample.
+Using some of the widely used VFQs such as the
+Activities of Daily Vision Scale, National Eye Institute
+Visual Function Questionnaire, Visual Functioning
+Index-14, Visual Activities Questionnaire and the
+Activity Inventory, Massof demonstrated that visual
+ability is a composite variable with two factors; one
+most heavily influences reading function and the other
+most heavily influences mobility function.11–14 Given this
+finding, the aim of the present study was to examine
+whether the underlying construct (visual ability) of the
+APEDS-VFQ exhibits a similar pattern. A secondary aim
+was to investigate the behavior of the response categories and in case of deficiencies, to propose a revised
+rating scale. Finally, Excel sheets that convert raw to
+Rasch-scaled scores for those who wish to use the benefits of interval-level measurement are provided.
+
+METHODS
+Andhra Pradesh Eye Disease Study-Visual
+Function Questionnaire
+The APEDS-VFQ contains 16 items (Table 1). Participants
+rated the level of difficulty on a five category scale in
+performing day-to-day tasks. The response options
+range from 0 (“no difficulty”) to 4 (“cannot manage”).
+Intermediate response options include 1 (“little difficulty”), 2 (“moderate difficulty”) and 3 (“great deal of
+difficulty but can still manage”). The instrument was
+scored as recommended by the developers. A higher
+APEDS-VFQ score represents greater difficulty with
+visual function.
+© 2012 Informa Healthcare USA, Inc.
+
+307
+
+TABLE 1 Item content of the revised 16-item Andhra Pradesh
+Eye Disease Study-Visual Function Questionnaire.
+Original
+item no.
+Description
+1.
+Reading small prints in the newspaper/magazines
+2.
+Recognizing small objects (for example, inserting a
+thread in a needle)
+3.
+Recognizing people near you
+4.
+Recognizing people across the street
+5.
+Recognizing the bus number
+6.
+Seeing objects in bright light due to glare
+7.
+Seeing objects in poorly lit surroundings?
+8.
+Adjusting from darkness to bright light
+9.
+Adjusting from bright light to darkness
+10.
+Identifying colors
+11.
+Recognizing traffic signals/lights
+12.
+Noticing objects off to the side, when you are walking and looking straight ahead
+13.
+Noticing objects on the floor near you, when you
+are walking around the house and looking straight
+ahead
+14.
+Reaching for an object, because it is farther or closer
+than you thought (eg, to take a glass)
+15.
+Climbing up or down steps because they were
+closer or further away than you thought
+16.
+Estimating the distance of a vehicle (a bus coming
+towards you) while crossing the road
+The framing question for all items is “How much difficulty do
+you have in…”
+
+Subjects
+Participants were visually impaired adults referred
+to the Vision Rehabilitation Centres, LV Prasad Eye
+Institute, India. The APEDS-VFQ was administered by
+trained interviewers in a face-to-face interview to each
+participant prior to any examination.
+Participants were aged 18 years or older, had visual
+impairment (best-corrected visual acuity in the better eye <20/60 or ≥20/60 with restricted visual fields)
+and could respond to the instrument. Ethical approval
+was obtained from the LV Prasad Eye Institute Ethics
+Committee and all participants provided informed consent. The study was conducted in accordance with the
+tenets of the Declaration of Helsinki.
+Sociodemographic data was extracted from clinical
+records. Participant characteristics of those who provided
+responses to the APEDS-VFQ are shown in Table 2.
+
+Procedures
+Each participant underwent assessment for comprehensive low vision rehabilitation; procedures have
+been described in detail elsewhere.15 Specifically, distance visual acuity (habitual and best-spectacle corrected) was recorded using a Bailey-Lovie logarithm
+of the minimum angle of resolution (logMAR) chart.16
+All assessments were performed monocularly and
+binocularly.
+
+
+[page 3]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+308
+
+V. K. Gothwal and D. K. Bagga
+
+TABLE 2 Sociodemographic and clinical characteristics of the
+351 participants who completed the 16-item Andhra Pradesh
+Eye Disease Study-Visual Function Questionnaire.
+Characteristic
+n (%) or mean ± SD
+Age (years)
+43.3 ± 17.8
+Sex
+Male
+269 (77)
+Female
+82 (23)
+Visual acuity in
+better eye
+≥20/60*
+60 (17)
+<20/60–20/200
+205 (58)
+<20/200
+86 (25)
+Mean visual acuity
+LogMAR (Snellen) 0.83 ± 0.42 (6/38-2)
+in better eye
+Range
+0.0 to 3.00 (20/20 to
+light perception)
+Education level$
+Illiterate
+27 (8)
+Up to 9 years
+88 (25)
+10–12 years
+91 (26)
+> 12 years
+127 (36)
+Duration of vision
+loss (years)
+Median
+5
+Systemic
+co-morbidity#
+Present
+110 (31)
+Absent
+239 (68)
+*These patients had restricted visual fields (less than 20 degrees
+in better eye).
+$
+Data was missing for 18 cases.
+#
+Includes diabetes, hypertension, asthma, coronary artery
+disease. Data was missing for two cases.
+SD, standard deviation; LogMAR, logarithm of the minimum
+angle of resolution.
+
+Rasch Analysis
+The matrix of responses from 351 participants was subjected to Rasch analysis using the Andrich rating scale
+model for polytomous data.17 The theory behind the
+Rasch measurement model has been described elegantly
+by Massof.18,19 Rasch analysis is an iterative procedure
+that estimates interval measurement from ordinal data
+and the unit is logits (log-odd units).19
+Winsteps software20 (version 3.68) was used to conduct the Rasch analysis, and estimates of person ability
+and item difficulties were obtained. There are a series of
+components to Rasch analysis that have been described
+elsewhere in detail.21,22 Briefly, we assessed the properties as described below.
+Unidimensionality was assessed by examining the
+item fit statistic, infit mean square (MnSq), which has
+an expected value of 1.0 and is preferable for assessing
+item fit as it is less sensitive to sample size compared
+to standardized z values.24 We used infit MnSq values
+between 0.7 and 1.3 to indicate item fit.21 Items with
+MnSq values less than 0.7 suggest presence of redundant
+items and values higher than 1.3 indicate unusual and/or
+
+inappropriate response patterns, and signal misfit. While
+some researchers believe that misfitting items should be
+deleted to optimize the instrument’s properties, we did
+not pursue this instantaneously, as we believe that item
+misfit per se should not be a cause for removing items.
+Furthermore an instrument is considered to have acceptable unidimensionality when at least 95% of the items
+fit the Rasch measurement model.25 The presence of
+misfitting items should rather alert the researcher that
+there might be a problem requiring further investigation
+(such as DIF analysis – described later). Item misfit can
+be sample-dependent, so we investigated fit statistics
+for person measures, at times removing grossly misfitting persons (standardized infit, z >2.5) who distorted
+the measurement system which could potentially fix the
+item misfits. Some of the reasons for person misfit could
+be carelessness, fatigue, boredom or disinterest and this
+could threaten the instrument’s validity. Closer analysis
+of these response patterns is required before a sound
+rationale can be established for removing all misfitting
+persons. However, it is generally accepted that 2.5% of the
+sample, by chance, may not demonstrate acceptable fit.12
+Subsequently, we investigated the person measure fit
+statistics and identified the outliers. Then we grouped
+participants by their fit statistics to test the hypothesis that misfitting persons represent distortion by
+identifiable confounding variables in the sample. We
+expected two possible outcomes: (1) non-uniform DIF
+(ie members of one group are favored up to a level on
+the ability scale, and from that point on, the relationship
+is reversed26) will vary across infit groups (steepest item
+characteristic curves for small MnSq values and shallowest item characteristic curves for large MnSq values);
+and/or (2) uniform DIF (when a group performs better
+than another group on all ability levels26) will occur for
+groups of misfitting persons. The items that showed the
+most MnSq-dependent non-uniform and/or uniform
+DIF would be considered the strongest candidates for
+being edited from the instrument because they are sensitive to contamination by confounding variables in the
+person sample. Furthermore, the presence of DIF suggests that the item is measuring an additional construct,
+or dimension that may not be relevant to the intended
+construct. DIF was considered notable if >1.0 logits.21
+In addition to DIF, we also investigated differential
+person functioning that occurs when a person may
+function differently on two groups of items after controlling for an overall measure.27 For this analysis, we
+divided the 16 items into 4 groups based on functional
+requirements: (1) those dependent on resolution; (2)
+those dependent on illumination; (3) those dependent on
+contrast sensitivity; and (4) those dependent on peripheral vision. Subsequently, we estimated the person
+measures from each subset of items (with item measures
+and structure calibrations anchored to their originally
+estimated values) and then performed exploratory factor
+analysis (using varimax rotation) on the set of person
+measures plus logMAR acuity, restricting the analysis
+Ophthalmic Epidemiology
+
+
+[page 4]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+APEDS-Visual Function Questionnaire
+to two factors. This analysis revealed if there was a two
+composite latent variable in the underlying construct.
+Principal components analysis of the item measure
+residuals was undertaken to further assess the dimensionality of the instrument. We used the following two
+criteria to establish unidimensionality: (1) a cut-off variance of 60% accounted for by the first factor (ie dimension); and (2) the eigenvalue of the first contrast should
+be smaller than 3.0.8
+Although previous Rasch analysis of the APEDS-VFQ
+suggested shortening of the rating scale by combining
+the two end categories, the resultant new category was,
+however, not labeled. Furthermore, the rater use of the
+revised categories in a new sample has not been evaluated. Thus, we investigated the behavior of the original
+rating scale in our population. Specifically, we assessed
+the response format for location of the thresholds using
+category probability curves (CPC). The threshold is the
+point of intersection between two adjacent categories
+where the response to either of the two adjacent categories is equally probable.23 The thresholds are expected
+to increase monotonically. For a well-fitting model, one
+would expect an ordered set of response thresholds (first
+followed by second threshold, and so on) represented by a
+range of hills arranged sequentially in the CPC. However,
+if threshold disordering (for example, the third threshold
+is located between the first and second) occurs, then categories need to be combined to repair the disordering.
+Reliability of the estimated measures was determined
+by examination of the person and item separation indices
+and their related separation reliability. Separation (G) is
+defined as the ratio of the true spread of the measures
+with their measurement error, and refers to the number
+of distinct strata that can be identified in the distribution of participants and items.23,25 Consequently the item
+separation index provides an estimate (in standard error,
+SE, units) of the spread or separation of items along the
+measurement construct, and the person separation index
+gives an estimate of the spread or separation of participants along the measurement construct. A separation of
+2.0 is considered good and enables the distinction of three
+groups or strata (number of distinct strata = (4G+1)/3])23
+Separation, in turn, determines reliability (item separation and person separation reliability) which indicates the
+degree of confidence that can be placed in the consistency
+of the estimates (range 0–1; coefficients equivalent to or
+exceeding 0.80 are considered good which corresponds to
+a separation index of 2.0).25 However, person separation
+reliability depends on both the average SE of the person
+measure estimate and the standard deviation (SD) of
+the person measure distribution. Hence, separation reliability is sample-dependent. Given this, we used item
+separation reliability as an indicator of the instrument’s
+reliability instead of person separation reliability.
+To assess the ability of the instrument to appropriately target the population under consideration, we
+visually inspected the Wright person-item map. A well targeted instrument should include a set of items that
+© 2012 Informa Healthcare USA, Inc.
+
+309
+
+span the full range of person estimates. Targeting and
+reliability (or measurement precision) are related concepts. Reliability is not uniform across the entire range
+of test scores. Scores at the edges of the test’s range, for
+example, generally have more error associated with
+them than scores closer to the middle of the range.
+Therefore, a Fisher information function is a better
+method to illustrate targeting and this function defines
+the upper bound of measurement precision expected by
+the Rasch model given the observed responses.19,28 The
+Fisher information function is an index related to the
+distribution of item measures but incorporates SE of the
+estimate for each item. In a well-targeted instrument this
+would indicate the highest level of information at the
+mean of the person measures. The Fisher information
+function was superimposed on the person-item map.
+Factor analyses were performed using SPSS software
+(version 15.0, Chicago, IL). A P value of <0.05 was considered statistically significant.
+
+RESULTS
+Assessment of Response Categories
+Figure 1a illustrates the CPC of an item in its original
+5-category format showing the range of visual function
+for which each of the five response options were most
+likely to be chosen. The CPC plots the probability of
+choosing a given category (on the y-axis) for every place
+along the measured construct (visual function on the
+x-axis). Useful categories are those with high probabilities
+that span a distinct portion of the construct. However,
+the figure shows that categories 1 (“little difficulty”) and
+3 (“great deal of difficulty, but can still manage”) do not
+have a range along the scale where they are the most
+likely categories to be selected and disordering of thresholds is observed. Disordering is also shown by the lack of
+monotonic increase of the thresholds (from category 1 to
+2 and 3 to 4) in Table 3.
+A couple of rescoring options were tested, however, a
+global rescore was found to be the most appropriate solution. All disordered thresholds were resolved (Figure 1b
+and Table 4) by rescoring that involved reducing the original 5-category scale (0, 1, 2, 3, 4) to a 3-category scale (0,
+1, 1, 1, 2) by merging the three middle categories (“a little
+difficulty”, “moderate difficulty”, and “great deal of difficulty but can still manage”). The resultant three categories
+included: 0 “no difficulty”, 1 “can manage with difficulty”,
+and 2 “cannot manage”. In essence, the end categories
+were untouched and the intermediate categories were
+combined in the revised rating scale of the APEDS-VFQ.
+
+Dimensionality
+Two items (item 1 “reading small prints in the newspaper/magazines” and item 2 “recognizing small objects,
+
+
+[page 5]
+310
+
+V. K. Gothwal and D. K. Bagga
+
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+for example inserting a thread in the needle”) showed
+misfit, albeit misfit was negligible for item 2 (Table 5).
+The misfit of item 1 was present both before and after
+re-organization of the response categories (Tables 5 and
+6). PCA of the item measure residuals showed that the
+variance explained by the principal component was
+56%, but the unexplained variance explained by the
+first contrast was 2.9 eigenvalue units. Thus, the findings of dimensionality were mixed. The finding of item
+misfit suggests that the item (“reading small prints in
+the newspaper/magazines”) was not in tandem with
+the rest of the items in the measurement of visual ability. Instead of deleting this item, we tried to understand
+
+the source of such a high misfit. So in the next step
+we examined the fit statistics for the person measures
+given that item misfit can be sample-dependent.
+Figure 2 plots the person measures against the
+z-transformation (Zstd) infit values for the 351 participants (prior to collapsing categories). Data points for
+the participants with most visual ability are located at
+the bottom of the graph and those for participants with
+least visual ability are located at the top. Data points for
+participants that are in the shaded regions of the box
+are those that either exceeded (right box) or were less
+than (left box) the expected value by 2 SD indicating
+that these response patterns are inconsistent with the
+
+FIGURE 1 (a) Rasch model category probability curves (CPC) for the 16-item Andhra Pradesh Eye Disease Study-Visual Function
+Questionnaire illustrating the range over which each of the five categories is most likely chosen. Response categories: 0 “no difficulty”,
+1 “little difficulty”, 2 “moderate difficulty”, 3 “great deal of difficulty, but can still manage” and 4 “cannot manage”. The CPC plots the
+probability of choosing a given category (on the y-axis) for every place along the measured construct (visual function on the x-axis).
+Boundaries (or thresholds) occur at points along the scale where the category most likely to be chosen changes from one to the next. For
+any given point along this scale, the category most likely to be chosen by a participant is shown by the category curve with the highest
+probability. At no point were categories 1 or 3 the most likely to be chosen, resulting in disordered thresholds. (b) Category probability
+curves (CPC) following category re-organization of response categories from Figure 1a. Response categories 1, 2 and 3 were combined
+to form a single category (“can manage with difficulty”) with end categories remaining unaltered. The thresholds demonstrated an
+ordered pattern.
+TABLE 3 Response category measures for original rating scale of the 16-item Andhra Pradesh Eye Disease Study-Visual Function
+Questionnaire (N = 351).
+Response category
+Observed count (%)
+Infit MnSq
+Threshold
+Category measure
+No difficulty (0)
+2238 (40)
+1.15
+None
+(−1.51)
+Little difficulty (1)
+637 (11)
+1.06
+0.46
+−0.58
+Moderate difficulty (2)
+884 (16)
+0.92
+−0.73
+−0.03
+Great deal of difficulty but can still manage (3)
+612 (11)
+1.12
+0.41
+0.55
+Cannot manage (4)
+1212 (22)
+0.88
+−0.14
+(1.59)
+Observed count: number (%) of times each response category was used across items and participants. Infit mean square (MnSq):
+information-weighted fit statistic for each category (expected value 1.0). Threshold: the calibrated measure of the transition from the
+category below to this category (there is no threshold for category 0, because there is no lower category), thresholds should increase
+monotonically across the rating scale. Category measure: for each response category 1–3, category measure is the sample-free average
+functional reserve (functional reserve is the difference between a person’s visual ability and ability required by the item). For extreme
+categories (0 and 4), the category measures are 0.25 logit inside the most extreme functional reserve measures for the sample and are
+denoted with parentheses as the sample-free functional reserve is infinite for the extreme categories.
+Ophthalmic Epidemiology
+
+
+[page 6]
+APEDS-Visual Function Questionnaire
+
+311
+
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+TABLE 4 Response category measures for the revised rating scale of the 16-item Andhra Pradesh Eye Disease Study-Visual Function
+Questionnaire (N = 351).
+Response category
+Observed count (%)
+Infit MnSq
+Threshold
+Category measure
+No difficulty (0)
+2238 (40)
+1.12
+None
+(−2.34)
+Can manage with difficulty (1)
+2133 (38)
+0.92
+−1.17
+0.00
+Cannot manage (2)
+1212 (22)
+0.96
+1.17
+(2.34)
+Observed count: number (%) of times each response category was used across items and participants. Infit mean square (MnSq):
+information-weighted fit statistic for each category (expected value 1.0). Threshold: the calibrated measure of the transition from
+the category below to this category (there is no threshold for category 0, because there is no lower category), the thresholds should
+increase monotonically across the rating scale. Category measure: For response category 1, category measure is the sample-free
+average functional reserve (functional reserve is the difference between a person’s visual ability and ability required by the item). For
+extreme categories (0 and 2), the category measures are 0.25 logit inside the most extreme functional reserve measures for the sample
+and are denoted with parentheses as the sample-free functional reserve is infinite for the extreme categories
+TABLE 5 The 16-item Andhra Pradesh Eye Disease Study-Visual Function Questionnaire (original 5 categories) with item calibrations
+and fit statistics before and after deleting misfitting persons (items ordered from least to most difficult).
+Prior to deleting misfitting persons
+After deleting most-misfitting persons
+Item no. n (N = 351) Measure, logits
+SE
+Infit MnSq
+Item no.
+n (N = 331) Measure, logits
+SE
+Infit MnSq
+14
+350
+1.14
+0.07
+0.93
+14
+330
+1.29
+0.08
+0.93
+3
+351
+0.79
+0.06
+1.24
+3
+331
+0.89
+0.06
+1.28
+10
+351
+0.65
+0.05
+1.04
+10
+331
+0.75
+0.06
+1.05
+8
+350
+0.57
+0.05
+0.75
+8
+330
+0.62
+0.06
+0.78
+11
+347
+0.56
+0.05
+1.22
+11
+327
+0.60
+0.06
+1.28
+16
+350
+0.39
+0.05
+0.77
+16
+330
+0.46
+0.05
+0.80
+12
+351
+0.31
+0.05
+0.98
+12
+331
+0.43
+0.05
+0.91
+9
+351
+0.18
+0.05
+0.73
+9
+331
+0.23
+0.05
+0.71
+7
+351
+0.08
+0.05
+1.30
+7
+331
+0.13
+0.05
+1.29
+15
+351
+0.06
+0.05
+0.70
+15
+331
+0.12
+0.05
+0.69
+6
+350
+0.00
+0.04
+1.08
+13
+331
+0.04
+0.05
+0.74
+13
+351
+−0.03
+0.04
+0.78
+6
+331
+0.02
+0.05
+1.10
+5
+347
+−0.90
+0.05
+0.91
+5
+327
+−1.04
+0.05
+0.91
+1
+331
+−1.07
+0.05
+1.54
+1
+311
+−1.31
+0.06
+1.50
+2
+350
+−1.36
+0.06
+1.31
+4
+331
+−1.57
+0.07
+1.30
+4
+351
+−1.36
+0.06
+1.27
+2
+330
+−1.65
+0.07
+1.29
+Measure (logits): estimate for the item difficulty in logits, positive values indicate less difficult items and negative values indicate more
+difficult items.
+SE: standard error of measurement in estimation of item difficulty in logits.
+Infit mean square (MnSq): values in bold represent misfitting items (using criterion 0.7–1.3), with item 2 being borderline misfit.
+
+expectations of the model. A total of 9% of participants
+had infit Zstd values that exceeded the expected values
+by more than 2 SD (compared with 2.5% of participants
+that would occur by chance alone), and 8% of participants had infit Zstd values that were below the expected
+values by more than 2 SD. However, 6% of participants
+were considered to be most-misfitting the model (infit
+Zstd above 2.5) indicating that the response patterns
+of these participants to the 16 APEDS-VFQ items were
+inconsistent with the expectations of the model. We did
+not, however, find anything in their chart histories for
+such behavior. Nonetheless, in order to ascertain the
+influence of misfitting participants on item fit statistics,
+we used the original data set with all 351 participants.
+Subsequently, we censured participants with infit Zstd
+> 2.5 and re-ran the Rasch analysis (Table 5). However,
+this did not help fix the item misfit and item 1 continued
+to misfit (Table 5). At this stage we decided to retain
+item 1 as it represents an important activity in daily life
+(it was applicable to 94% of the sample), and is among
+© 2012 Informa Healthcare USA, Inc.
+
+the chief complaints among people presenting to low
+vision clinics. Nonetheless, we investigated DIF (see
+below) prior to making a final decision on item deletion.
+Results of DIF analysis revealed that uniform DIF
+occurred for groups of misfitting persons and non-uniform DIF varied across infit groups. Notable uniform
+DIF occurred for item 1 (“reading small prints in the
+newspaper/magazines”).
+Notable DIF was present only in the visual acuity group. Those with visual acuity better than 20/200
+rated item 1 as relatively easier by 1.24 logits compared
+to other items. DIF by visual acuity suggested that our
+sample was heterogeneous (ie we had participants with
+severe impairment due to field loss but normal visual
+acuity, mixed with those whose main problem was loss
+of visual acuity). Therefore, as described in the methods,
+we performed exploratory factor analysis on four sets of
+person measures plus logMAR visual acuity and found
+eigenvalues of 2.4 for the first component and 1.2 for the
+second. All the resolution and contrast sensitivity items
+
+
+[page 7]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+312
+
+V. K. Gothwal and D. K. Bagga
+
+TABLE 6 The 16-item Andhra Pradesh Eye Disease Study Visual Function Questionnaire with item calibrations and fit
+statistics after collapsing categories (ordered by item difficulty
+from least to most difficult).
+Item
+Measure,
+no.
+n (N = 351)
+logits
+SE
+Infit MnSq
+14
+350
+2.31
+0.14
+0.85
+3
+351
+1.61
+0.11
+1.22
+10
+351
+1.30
+0.11
+1.00
+11
+347
+1.13
+0.11
+1.21
+8
+350
+0.83
+0.10
+0.83
+16
+350
+0.73
+0.10
+0.76
+12
+351
+0.67
+0.10
+1.03
+7
+351
+0.30
+0.10
+1.19
+9
+351
+0.24
+0.09
+0.76
+15
+351
+0.17
+0.09
+0.78
+6
+350
+0.16
+0.09
+1.03
+13
+351
+–0.01
+0.09
+0.81
+5
+347
+–1.73
+0.10
+0.90
+1
+331
+–2.18
+0.11
+1.43
+2
+350
+–2.75
+0.11
+1.27
+4
+351
+–2.79
+0.11
+1.21
+Measure (logits): estimate for item difficulty in logits, positive
+values indicate less difficult items and negative values indicate
+more difficult items.
+SE: standard error of measurement in estimation of item
+difficulty in logits.
+Infit mean square (MnSq): the value in bold represents a
+misfitting item.
+
+TABLE 7 Reliability indices of the Andhra Pradesh Eye Disease
+Study-Functional Vision Questionnaire (APEDS-VFQ): Native
+version and with revised rating scale.
+APEDS-VFQ
+APEDS-VFQ
+Parameter
+(native version) (revised rating scale)
+Item separation
+13.24
+13.57
+index
+Item separation
+0.99
+0.99
+reliability
+Person separation
+2.08
+2.00
+index
+Person separation
+0.81
+0.80
+reliability
+
+first principal component accounted for 72% of variance.
+These results indicate that the difficulty ratings are dominated by a single variable, visual ability. However, the
+single most-misfitting item perhaps suggests that there is
+a two factor composite latent variable in the underlying
+construct of visual ability. Given this, removing the most misfitting item would simply bias the construct towards
+one of the component variables. Thus, we decided to
+retain the single most-misfitting item (item 1).
+
+Reliability and Targeting
+Reliability indices for the APEDS-VFQ before and after
+the phase of rating scale modification are shown in
+Table 7. The reliability indices of the revised rating scale
+APEDS-VFQ presented comparable values to those of
+the APEDS-VFQ (native version); all the item and person reliabilities were ≥0.80. The items of both versions
+were distributed into about 18 difficulty strata.
+Figure 3 shows the person-item map (with Fisher
+information function superimposed) of participant ability and item difficulty of the APEDS-VFQ in the same
+logit units. It can be seen from the map that the items
+are not very well targeted to the participant sample.
+There are very few items (25%) that target participants
+with the most visual ability and there are large gaps
+between items.
+
+Criterion Validity
+FIGURE 2 Person measures of visual ability estimated from difficulty ratings of 16 items of the Andhra Pradesh Eye Disease
+Study-Visual Function Questionnaire plotted on the ordinate
+against the infit mean squares transformed to a standard normal
+deviate (z-score) on the abscissa. Data points for participants with
+the most visual ability are located at the bottom of the graph and
+those for participants with least visual ability at the top. Data
+points within the boxes represent those participants whose data
+points lie outside the ± 2 standard deviation (SD) limits around
+the expected value of the transformed infit mean square. The
+expected value of the infit mean square is 0 and 95% of values
+are expected to fall within ± 2SD of the expected value.
+
+loaded heavily, along with logMAR visual acuity, one to
+one factor, and the peripheral vision and items dependent
+on illumination levels loaded onto another factor. The
+
+There was a fair and statistically significant relationship
+(r = 0.28, P < 0.0001) between binocular visual acuity
+and the Rasch-scaled APEDS-VFQ score (Figure 4).
+
+Conversion of Raw- to Rasch-scaled Scores
+We recommend that users of the revised version of the
+APEDS-VFQ perform Rasch analysis on their own data.
+Given that Rasch analysis is considered tedious, and
+therefore, as stated in our objectives, we have provided
+ready-to-use Excel spreadsheets for conversion of raw
+ordinal scores to linear Rasch scores for those who are
+unfamiliar with Rasch analysis. However, the conversion
+Ophthalmic Epidemiology
+
+
+[page 8]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+APEDS-Visual Function Questionnaire
+
+313
+
+FIGURE 3 Person-item map for the 16-item Andhra Pradesh Eye Disease Study Visual Function Questionnaire in low vision patients. The
+vertical line represents the measure of visual ability, in logit units. Participants (represented by “x”) are located on the left hand side of
+the map and those with higher visual ability located toward the top. Items are located on the right of the dashed line with less difficult to-perform items also located toward the top of the map. Full descriptions of items are provided in Table 1. Each “x” represents three
+participants and each “.” represents 1–3 participants. M, mean; S 1 standard deviation (SD) from mean; T, 2SD from the mean. Overlaid
+is the Fisher information function (black curve).
+
+will be applicable only when the new data show a similar
+fit to the Rasch model. The Excel spreadsheets can either
+be downloaded directly from the journal’s website or can
+be obtained by contacting the corresponding author.
+Alternatively, the user can refer to the table of category measures, structure calibrations and item measures
+(Tables 4 and 6) to anchor the values to our calibrations
+and use Ministeps, which is a free version of Winsteps
+(Winsteps.com, Beaverton, Oregon), to estimate person
+measures.
+
+DISCUSSION
+The results of the present study are in accordance with
+similar such studies using other VFQs which concluded
+that visual ability is a composite variable and can be
+segregated into two independent dimensions.11–14 It is
+© 2012 Informa Healthcare USA, Inc.
+
+probably the choice of the items in a given VFQ that
+can bias the estimates of visual ability toward one or
+the other dimension.
+However, unidimensionality is one of the requirements of the Rasch model and needs to be satisfied in
+case items are summed to generate a valid summary
+score. Despite the finding from the present study of
+the presence of two dimensions in visual ability, we
+believe that as is the case with other most widely used
+VFQs,12,14 the APEDS-VFQ also functions as if it were
+unidimensional and, therefore, should be considered as
+a composite variable. In the present study, reading and
+contrast sensitivity items loaded heavily on one factor,
+and peripheral vision and items dependent on illumination loaded on another. Reading and contrast sensitivity,
+and peripheral vision and illumination are not measures
+of independent factors; rather they are measures that
+incorporate both factors. One dimension most heavily
+
+
+[page 9]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+314
+
+V. K. Gothwal and D. K. Bagga
+
+FIGURE 4 Scatterplot of person measure estimates based on
+participants’ responses to 16 items that required difficulty ratings on the Andhra Pradesh Eye Disease Study-Visual Function
+Questionnaire versus presenting binocular visual acuity. A logarithm of the minimum angle of resolution (logMAR) of 0 corresponds to Snellen acuity of 20/20 and a logMAR of 1 corresponds
+to 20/200. Negative values of person measures indicate higher
+visual ability and positive values lower visual ability. The regression line (solid line) has a slope of 0.86 and an intercept of −1.29.
+The Pearson correlation coefficient is 0.29.
+
+influences responses to items that describe reading and
+contrast sensitivity items and both require high visual
+resolution. This dimension is related to seeing detail that
+is disrupted by loss of visual acuity. The other dimension
+most heavily influences responses to items that describe
+peripheral vision and illumination. This dimension is
+related to size of the seeing area and level of lighting that
+is disrupted by contrast sensitivity and visual field loss.
+These two factors together constitute the visual ability
+variable and explain 72% of the response variance. The
+low correlation between visual acuity and person measures further supports the two dimensions in visual ability. The two factors mentioned above probably describe
+the properties of the participant’s visual ability rather
+than the visual impairment. Furthermore, the functional
+difficulties of low vision patients are varied and the
+items included in a VFQ must be as comprehensive as
+possible so as to include the entire range of activities.
+In the case of the APEDS-VFQ used in the present
+study, we found a single most-misfitting item (“reading
+small prints in the newspaper/magazines”). The large
+MnSq value for this item suggests that there is high variability in the sample in the functional requirements of the
+activity. We speculate that such high variability is perhaps related to the double-barreled nature of this item,
+in that it relates to reading small prints in the newspaper
+and/or magazines; print size and contrast vary among
+newspapers and across newspapers and magazines.
+Consequently, the visual demand could be expected to be
+different for reading newspapers versus magazines. For
+example, a participant may have had “mild difficulty”
+with reading small prints in newspapers but may have
+
+had a “great deal of difficulty” with reading such print
+in magazines. Despite this the participant was required
+to respond to this item as though it is a single activity.
+Normally, researchers would delete such a misfitting
+item so as to optimize the measurement properties of an
+instrument,13,29,30 but we did not pursue this. Care needs
+to be exercised while identifying misfitting items, as the
+ability of a single fit statistic to correctly identify misfit
+across a range of assessment scenarios and instruments
+has been questioned in the Rasch literature.31 It is therefore suggested that the removal of these items should be
+assessed against impact on clinical utility.29 Although the
+impact was not assessed in the present study (as it was
+not the intent of this study), our decision to retain the
+single most-misfitting item appears logical given that
+it improves content validity as “reading small prints in
+newspapers, books or magazines” is among the chief
+presenting complaints of people to a low vision clinic.
+This is evidenced by the fact that the item was applicable
+to 94% of our participants. Furthermore, there was no
+substantial worsening or improvement of the item or
+person separation reliability indices, further supporting
+our decision to retain this item.
+Rather than delete misfitting items, their presence
+should suggest the existence of a problem which requires
+further investigation (such as DIF analysis). Furthermore,
+item misfit can be sample-dependent, so we investigated
+fit statistics for the person measures. Sometimes removing grossly misfitting persons could fix the item misfits.
+However, the number of most-misfitting persons was
+probably too small to alter the item fit statistics and the
+single item continued to misfit. In our DIF analysis, we
+found the same most-misfitting item to demonstrate
+notable DIF by visual acuity suggesting again that it is a
+potential candidate for deletion, as the presence of DIF
+violates one of the requirements of unidimensionality of
+the model. Nonetheless, the existence of DIF in itself is
+not an indication of a problem with the item. However,
+just as judgment is required to determine cut-offs to flag
+DIF items, judgment is required to determine if the item
+is essential to the measurement process. Instruments are
+often a mixture of items that don’t measure the same
+thing in the same way. Items that exhibit performance
+differences on the rest of the instrument will be flagged
+for DIF but may be essential to the construct of interest.
+Furthermore, DIF may occur when an item measures
+dimensions other than the dimension measured by the
+other items. In the case of the APEDS-VFQ, examination
+of the items and the pattern of DIF indicated that slight
+multidimensionality was due to two dimensions of interest to the researcher (as mentioned earlier).
+Dimensionality per se is a bad property of an instrument if the construct of interest is a composite variable
+(such as the visual ability variable in most VFQs including the APEDS-VFQ). In contrast, if the dimensionality
+represents subgroups of participants that behave differently, then the construct is not a composite, but rather
+is confounded, which is undesirable. Given that the
+Ophthalmic Epidemiology
+
+
+[page 10]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+APEDS-Visual Function Questionnaire
+underlying construct is a composite variable, removing a misfitting item(s) would simply bias the construct
+towards one of the component variables. This further
+supported our decision against deleting the single most misfitting item and we thus retained all the original 16
+items in the instrument.
+Among the desirable qualities of a good measure is
+adequate reliability. The high item-separation reliability
+found for the APEDS-VFQ in the present and earlier
+study suggest that the items on the APEDS-VFQ are
+well separated relative to errors of their location on
+the scale, thereby defining a clear scale and that great
+confidence can be placed in the replicability of the item
+placement across future samples. Furthermore, it also
+suggests a high probability that items with high difficulty estimates are really more difficult than items with
+lower difficulty estimates.32 Thus, it would be safe to
+conclude that the APEDS-VFQ is a precise measure of
+visual ability in the visually impaired in India. Similar
+high item-separation reliability has been reported for
+the Activity Inventory developed by Massof.12,13
+A well-targeted instrument is a logical prerequisite
+when measurement and evaluation of improvements in
+patient outcomes are desired. In the present study, items
+mostly targeted participants with lower visual ability
+and gaps remained for those with relatively higher
+visual ability. More items (difficult) may be needed at
+the lower end of the scale to distinguish among levels
+of those with higher visual ability.
+Inspection of the rating scale format for the APEDS VFQ revealed issues regarding the ordering of response
+categories indicating that the response scale does not
+work as intended. Disordering of thresholds was identified but a reduction in number of response categories from five to three resolved any disordering. In the
+earlier Rasch analysis of the APEDS-VFQ, thresholds
+were also disordered and combining two middle categories (“moderate difficulty” and “great deal of difficulty but can still manage”) was suggested. However,
+in the present study there was a need to combine all
+three middle categories (including “little difficulty”),
+indicating that participants were unable to reliably
+distinguish between what is meant by the terms “a
+little”, “moderate” and “a great deal”, which could be
+replaced by a single category (ie “some difficulty”) for
+optimal functioning of the response categories. Despite
+the reduction in the response options from five to three,
+the revised APEDS-VFQ scale showed good item and
+person-separation reliability supporting this revision.
+Nonetheless, the new rating scale needs to be validated
+in future studies prior to being recommended for use.
+This study builds on previous Rasch analysis of
+the APEDS-VFQ. In the present study, we specifically
+assessed the dimensionality of the instrument. Like other
+VFQs, we found the latent variable (visual ability) of the
+APEDS-VFQ to be a two-dimension composite variable.
+The high reliability (for both items and persons) of the
+APEDS-VFQ (with the new rating scale) shown in this
+© 2012 Informa Healthcare USA, Inc.
+
+315
+
+study further supports the good measurement properties
+demonstrated in the earlier Rasch analysis. However, further studies are needed. They should include an analysis
+of the actual performance of the new response categories,
+because collapsing five categories to three is not the same
+as presenting three categories to participants.
+
+ACKNOWLEDGMENTS
+The authors wish to thank all the participants who volunteered to participate in the study. The authors also
+wish to thank the anonymous reviewers who helped
+improve the manuscript significantly.
+Funding/Support: This study was supported in part by
+the Hyderabad Eye Research Foundation.
+Declaration of interest: The authors report no conflicts
+of interest. The authors alone are responsible for the
+content and writing of the article.
+
+REFERENCES
+	 [1] Dandona R, Dandona L, Naduvilath TJ, et al. Design of a
+population-based study of visual impairment in India: The
+Andhra Pradesh Eye Disease Study. Indian J Ophthalmol
+1997;45(4):251–257.
+[2] Nutheti R, Shamanna BR, Krishnaiah S, et al. Perceived visual
+ability for functional vision performance among persons
+with low vision in the Indian state of Andhra Pradesh. Invest
+Ophthalmol Vis Sci 2004;45(10):3458–3465.
+ 	[3] Mallinson T. Why measurement matters for measuring patient
+vision outcomes. Optom Vis Sci 2007;84(8):675–682.
+[4] Tennant A, Pallant JF. Unidimensionality matters. Rasch Meas
+Trans 2006;20:1048–1051.
+ 
+[5] Tennant A, McKenna SP, Hagell P. Application of Rasch
+analysis in the development and application of quality of life
+instruments. Value Health 2004;7(Suppl. 1):S22–26.
+ 	[6] Conrad KJ, Smith EV, Jr. International conference on objective
+measurement: applications of Rasch analysis in health care.
+Med Care 2004;42(Suppl. 1):I1–6.
+ 
+[7] Tesio L. Measuring behaviours and perceptions: Rasch
+analysis as a tool for rehabilitation research. J Rehabil Med
+2003;35(3):105–115.
+[8] Smith EV. Detecting and evaluating the impact of multidimensionality using item fit statistics and principal component
+analysis of residuals. J Appl Meas 2002;3:205–231.
+ 	[9] Angoff WH. Use of difficulty and discrimination indices for
+detecting item bias. In: Berk RA, ed. Handbook of methods for detecting test bias. Baltimore, MD: Johns Hopkins University Press, 1982.
+[10] Holland PW, Wainer H. Differential item functioning. Hillsdale:
+Lawrence Erlbaum Associates, 1993.
+[11] Massof RW, Ahmadian L, Grover LL, et al. The Activity
+Inventory: an adaptive visual function questionnaire. Optom
+Vis Sci 2007;84(8):763–774.
+[12] Massof RW, Hsu CT, Baker FH, et al. Visual disability variables. II: the difficulty of tasks for a sample of low-vision
+patients. Arch Phys Med Rehabil 2005;86(5):954–967.
+[13] Massof RW, Hsu CT, Baker FH, et al. Visual disability variables.
+I: the importance and difficulty of activity goals for a sample of
+low-vision patients. Arch Phys Med Rehabil 2005;86(5):946–953.
+[14] Massof RW. An interval-scaled scoring algorithm for visual
+function questionnaires. Optom Vis Sci 2007;84(8):689–704.
+
+
+[page 11]
+Ophthalmic Epidemiol Downloaded from informahealthcare.com by Universiteit Twente on 11/30/14
+For personal use only.
+
+316
+
+V. K. Gothwal and D. K. Bagga
+
+[15] Marella M, Gothwal VK, Pesudovs K, Lamoureux E.
+Validation of the visual disability questionnaire (VDQ) in
+India. Optom Vis Sci 2009;86(7):E826–835.
+[16] Bailey IL, Lovie JE. New design principles for visual
+acuity letter charts. Am J Optom Physiol Opt 1976;53:
+740–745.
+[17] Andrich DA. A rating scale formulation for ordered response
+categories. Psychometrika 1978;43:561–573.
+[18] Massof RW. The measurement of vision disability. Optom Vis
+Sci 2002;79(8):516–552.
+[19] Massof RW. Understanding Rasch and item response theory
+models: applications to the estimation and validation of
+interval latent trait measures from responses to rating scale
+questionnaires. Ophthalmic Epidemiol 2011;18(1):1–19.
+[20] Linacre JM. WINSTEPS Rasch measurement computer program. Chicago: Winsteps.com, 2008.
+[21] Gothwal VK, Wright TA, Lamoureux EL, Pesudovs K. Rasch
+analysis of the quality of life and vision function questionnaire. Optom Vis Sci 2009;86(7):E836–844.
+[22] Gothwal VK, Wright TA, Lamoureux EL, Pesudovs K.
+Activities of Daily Vision Scale: what do the subscales measure? Invest Ophthalmol Vis Sci 2010;51(2):694–700.
+[23] Wright BD, Masters GN. Rating scale analysis. Chicago:
+MESA Press, 1982.
+
+[24] Smith AB, Rush R, Fallowfield LJ, et al. Rasch fit statistics and
+sample size considerations for polytomous data. BMC Med
+Res Methodol 2008;8:33.
+[25] Bond TG, Fox CM. Applying the Rasch model: fundamental measurement in the human sciences. London: Lawrence
+Erlbaum Associates, 2001.
+[26] Bachman LF. Statistical analyses for language assessment.
+Cambridge: Cambridge University Press, 2004.
+[27] Johanson GA, Alsmadi A. Differential person functioning. In: Annual meeting of the American Educational Research
+Association. San Diego, CA: 1998.
+[28] Mislevy RJ, Sheehan KM. Information matrices in latent variable models. J Edu Stat 1989;14:335–350.
+[29] Smith AB, Wright P, Selby PJ, Velikova G. A Rasch and factor
+analysis of the Functional Assessment of Cancer TherapyGeneral (FACT-G). Health Qual Life Outcomes 2007;5:19.
+[30] Lamoureux EL, Pallant JF, Pesudovs K, et al. The Impact of
+Vision Impairment Questionnaire: an evaluation of its measurement properties using Rasch analysis. Invest Ophthalmol
+Vis Sci 2006;47(11):4732–4741.
+[31] Karabatsos G. A critique of Rasch residual fit statistics. J Appl
+Meas 2000;1(2):152–176.
+[32] Wright BD, Stone MH. Best test design. Rasch measurement.
+Chicago: MESA Press, 1979.
+
+Ophthalmic Epidemiology
+

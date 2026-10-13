@@ -1,0 +1,1176 @@
+[page 1]
+JOURNAL OF BONE AND MINERAL RESEARCH
+Volume 19, Number 9, 2004
+Published online on May 10, 2004; doi: 10.1359/JBMR.040504
+© 2004 American Society for Bone and Mineral Research
+
+Different Aspects of Visual Impairment as Risk Factors for Falls and
+Fractures in Older Men and Women
+Michiel R de Boer,1 Saskia MF Pluijm,2 Paul Lips,2,3 Annette C Moll,1 Hennie J Völker-Dieben,1
+Dorly JH Deeg,2,4 and Ger HMB van Rens1
+
+ABSTRACT: Visual impairment has been implicated as a risk factor for falling and fractures, but results of
+previous studies have been inconsistent. The relationship between several aspects of vision and falling/
+fractures were examined in a prospective cohort study in 1509 older men and women. The analyses showed
+that impaired vision is an independent risk factor for both recurrent falling and fractures.
+Introduction: Falls and fractures are a major health problem among the elderly. Visual impairment has been
+implicated as a risk factor for both falls and fractures. However, results from studies are inconsistent. The
+inconsistency between findings can primarily be attributed to differences in the designs of these studies. Most studies
+have been cross-sectional or case-control studies, and many have not correctly adjusted for potential confounders.
+Furthermore, until now, the potential mediating effects of functional limitation, physical performance, and physical
+activity have not been examined.
+Materials and Methods: A total of 1509 people was examined in 1995–1996. Contrast sensitivity was assessed with
+the VCTS_6000-1 chart for near vision. In addition, self-reported visual impairment was assessed by questions on
+recognizing faces from a distance of 4 m, reading the small print in the newspaper, and problems with glare.
+Furthermore, many potential confounders and mediators were assessed. Falls and fractures were assessed prospectively during a 3-year follow-up period. The associations between the vision variables and falls and fractures were
+examined using Cox proportional hazards analyses.
+Results: After adjustment for potential confounders, contrast sensitivity was shown to be associated with recurrent
+falling (hazard ratio [HR] ⫽ 1.5), and the question on recognizing faces was shown to be associated with fractures
+(HR ⫽ 3.1). Furthermore, functional limitations and physical performance were shown to be mediators in the
+relationship between vision variables and recurrent falling/fractures.
+Conclusions: The results indicate that impaired vision is an independent risk factor for falling and fractures, but
+different aspects of visual functioning may have different relationships to falling and fractures.
+J Bone Miner Res 2004;19:1539 –1547. Published online on May 10, 2004; doi: 10.1359/JBMR.040504
+Key words:
+
+hip fracture, accidental falls, visual impairment, risk factors, survival analysis
+INTRODUCTION
+
+ALL AND FALL-RELATED fractures are a major public
+health problem among the elderly. Thirty percent of
+people over the age of 65 who live independently fall at
+least once a year, and 15% fall at least twice a year.(1–3) It
+has been well established that falls and fractures are among
+the principal causes of disability, admission to institutional
+care, and mortality in the elderly.(4,5) Examining treatable
+risk factors might help to develop preventive measures that
+can be included in prevention strategies. Visual impairment
+has been implicated as a treatable risk factor for both falls
+and fractures.(6,7)
+
+F
+
+Dr Lips received funding and served on the advisory board for
+Eli Lilly and Company, Merck & Co., Inc., and Wyeth. All other
+authors have no conflict of interest.
+
+In a recent review on the association between impaired
+vision and injuries, it was concluded that visually impaired
+people have a 1.7 times higher risk of falling, a 1.9 times
+higher risk of recurrent falling, and a 1.3–1.9 times higher
+risk of fractures.(8) However, some studies that were included in this review did not find any association. Furthermore, the risk estimate in the studies that did find an
+association ranged from 1.2 to 5.4 for falling and from 1.3
+to 6.0 for fractures.
+The inconsistency between findings can be attributed to
+differences in designs, statistical analyses, and duration of
+follow-up of these studies. Most were cross-sectional or
+used a case-control design and did not adjust correctly for
+potential confounders. To examine the strength of the association between vision and falls or fractures accurately,
+large prospective studies that include different types of
+
+1
+Department of Ophthalmology, VU University Medical Center, Amsterdam, The Netherlands; 2Institute for Research in Extramural
+Medicine, VU University Medical Center, Amsterdam, The Netherlands; 3Department of Endocrinology, VU University Medical Center,
+Amsterdam, The Netherlands; 4Department of Psychiatry, Vrije University, Amsterdam, The Netherlands.
+
+1539
+
+
+[page 2]
+1540
+
+DE BOER ET AL.
+
+visual measures and important potential confounders are
+needed. Furthermore, to our knowledge, prospective studies
+that examine the relation of impaired vision with both
+falling and fractures within the same study population have
+not been described. This hampers the interpretation of different observed risks for falls and fractures.
+Previous studies have shown that impaired visual acuity
+is a risk factor for self-reported and performance-based
+problems in activities such as getting in and out of bed and
+ascending stairs.(9,10) It has also been shown that functional
+limitations, physical performance, and level of physical
+activity are risk factors for fractures and falls.(2,6,7,11) This
+may indicate that the association between poor vision and
+falls or fractures is partly mediated by functional limitations, physical performance, and level of physical activity.
+However, studies specifically examining these potential mediating effects have not been reported.
+In this paper, we present findings from an ongoing cohort
+study among elderly in The Netherlands. Falls and fractures
+were both assessed prospectively for a period of 3 years, and
+the multifactorial design allowed for correction of various
+potential confounders and examination of potential mediators. The purposes of this study were (1) to examine whether
+impairments in near contrast sensitivity and other aspects of
+vision are associated with falls and fractures within the
+same cohort of people and (2) to examine the potential role
+of physical performance, functional limitations, and physical activity as mediators in the associations between visual
+impairment and falls and fractures.
+
+MATERIALS AND METHODS
+Study sample
+The Longitudinal Aging Study Amsterdam (LASA) is an
+ongoing cohort study on predictors and consequences of
+changes in autonomy and well being in the aging population
+in The Netherlands.(12) The sampling and data collection
+procedures have been described in detail elsewhere.(13,14)
+Briefly, a random sample of 3107 older men and women
+(55– 85 years of age) living in The Netherlands, stratified by
+age, gender, and urbanization, were enrolled in the baseline
+examination in 1992 or 1993. From 1995 to 1996, 2302
+(87.2%) of the 2639 eligible respondents completed a main
+interview. Lack of follow-up between the first and second
+cycle was mainly attributable to the death of the participant:
+417 of 3107 (13.4%) respondents died. This study was
+performed in a subsample of the LASA sample that consisted of respondents who participated in the medical interview of the second data collection cycle and who were born
+in or before 1930 (ⱖ65 years of age as of January 1, 1996).
+Of the 1720 eligible respondents, 1509 (87.7%) took part in
+the medical interview. These persons were asked to participate in a 3-year prospective fall and fracture follow-up
+study. Informed written consent was obtained from all respondents. The study was approved by the Medical Ethics
+Committee of the Vrije Universiteit Medical Center
+(VUMC) and conducted according to the principles of the
+Helsinki declaration.
+
+Measurements
+Assessment of falls: For 3 years, participants were asked
+to record fall events every week on a fall-and-fracture
+calendar and to mail the calendar page to the institute after
+3 months. They were contacted by telephone if the procedure of the calendar was too complicated for them, if no
+calendar was returned even after a reminder, or if the
+calendar was completed incorrectly. Proxies were contacted
+if participants were not able to respond. These were persons
+from the same household as the participant or someone from
+the nursing staff if the participant was institutionalized.
+A fall was defined as an unintentional change in position
+resulting in coming to rest at a lower level or on the
+ground.(15) A recurrent faller was defined as a subject who
+fell at least two times within a period of 6 months during the
+3-year fall follow-up.(16) The survival time was defined as
+the time between the first and second falls if a pair of falls
+occurred ⬍6 months apart, the date of death, or the date of
+the last follow-up.(11)
+Ascertainment of fractures: Participants were also asked
+to record any fractures that occurred in the 3-year follow-up
+period on the fall-and-fracture calendar every 3 months. In
+addition, information on fractures was collected retrospectively in 1998 and 1999. The general practitioners (GPs) of
+the respondents were asked to confirm the reported fractures. Furthermore, when a participant died, the GP was
+asked whether a fracture had occurred since the participant’s last contact with the researchers. In case of doubt,
+radiographs were obtained from the hospital and checked by
+a clinician of our institute. Eighty-two percent of all reported fractures were verified by a GP or by radiographs. A
+fracture was classified as definite (i.e., the self-reported
+fracture was confirmed by the GP or radiographs) or as
+possible (i.e., the self-reported fracture was not confirmed).
+Fractures of the head and neck, foot and toes, hand and
+fingers, and fractures caused by a motor vehicle accident
+were excluded from the analysis. Both definite and possible
+fractures were used in the analysis. Duration of follow-up
+was calculated as the time from the examination (1995–
+1996) to the date of the first fracture, the date of death, or
+the date of the last follow-up.
+Assessment of vision: There are several aspects of vision
+that can be clinically assessed, such as visual acuity, visual
+field, and contrast sensitivity. Visual acuity refers to the
+ability to see details, like small letters. Contrast sensitivity
+refers to the ability to differentiate between two objects of
+different light intensity. For example, the ability to see a
+large black garbage bin against the background of a gray
+wall—the closer the light intensities of two objects are, the
+higher the contrast sensitivity needed to be able to differentiate between the objects. Contrast sensitivity of a person
+can be different depending on the spacing of the objects
+(spatial frequency). For example, the large garbage bin
+might be detectable for someone, whereas two smaller bins
+(together the size of the large bin) standing a little apart
+from each other against the same background might not be
+detectable for that person. Information on the contrast sensitivity of a range of spatial frequencies can be integrated in
+a score (the integrated contrast sensitivity [ICS]) that re-
+
+
+[page 3]
+RISK OF IMPAIRED VISION ON FALLS AND FRACTURES
+
+1541
+
+FIG. 1. (A) VCTS_6000-1 near contrast sensitivity chart. (B) An example of a contrast sensitivity curve. The ICS equals the area under the
+curve and can be calculated using the formula
+⌺(Xi ⫺ [Xi ⫺ 1]) ⫻ (Yi ⫺ [Yi ⫺ 1]), where Xi ⫽
+a given spatial frequency and Yi ⫽ the contrast
+sensitivity value of a person on a linear scale for
+a given spatial frequency. Two points were
+added to the original data (0,0) and (24,0) to
+enable the calculation of the ICS.
+
+flects the total amount of visual information that is assimilated by the visual system.(17)
+In this study, contrast sensitivity was measured using the
+VCTS_6000-1 chart for near vision (Vistech Consultants,
+Dayton, OH, USA) at five different spatial frequencies (1.5,
+3, 6, 12, and 18 cycles/° of visual angle; see Fig. 1A). The
+chart was placed 30 –32 cm from the participant’s face. The
+respondent was asked to state whether the lines in the
+gratings were directed to the left, to the right, or straight
+upward. We have assessed the ICS for each eye separately
+by calculating the surface under the contrast sensitivity
+curve when plotted on a linear scale (Fig. 1B). The ICS of
+the best eye was used as the main determinant. This score
+was dichotomized at the fifth percentile, that is, comparing
+the 5% of persons with the lowest ICS scores with the rest
+of the population. This cut-off was chosen because the
+prevalence of visual impairment in The Netherlands (WHO
+criteria) has been shown to be around 5% for the age group
+
+in this study.(18) In previous studies, impaired contrast sensitivity of the low spatial frequencies has been implicated as
+a risk factor for poor mobility and fractures.(6,19) Therefore,
+a dichotomized score of the mean contrast sensitivity values
+based on the two lowest spatial frequencies (1.5 and 3
+cycles/degree) was also examined (5% worst scores versus
+the rest).
+Vision was also assessed by questioning the participants
+on whether they could read the small print in a newspaper or
+could recognize someone’s face at a distance of 4 m (wearing glasses or contact lenses if needed). Both questions were
+scored on a four-point scale. These scores were dichotomized (no difficulty or little difficulty versus much difficulty
+or cannot see). Finally, the participants were asked three
+questions on glare: whether one could see better in cloudy
+weather than in sunny weather, whether they were blinded
+by the light on a clear day, and whether they were blinded
+by the light when going from inside to outside during
+
+
+[page 4]
+1542
+
+daytime. The scores on these questions (range, 1– 4) were
+summed to a total score that ranged from 3 (no problems) to
+12 (many problems).
+Effect modifiers: Age and gender were considered potential effect modifiers in the relationship between vision and
+falling and vision and fractures.(20,21) Baseline information
+on age and gender were derived from the municipal registries.
+Potential confounders: In addition to age and gender,
+diabetes mellitus, osteoarthritis, cognitive impairment, and
+depression symptoms were considered as potential confounders in the relationship between poor vision and falls or
+fractures. They have all been shown to be associated with
+falls, fractures, osteoporosis,(16,22–25) and visual impairment.(26,27)
+Level of education was considered as an additional potential
+confounder in the relationship between impaired vision and
+falls.(11) Current smoking (yes or no), use of corticosteroids,
+weight, and previous fractures (after the age of 50) were
+considered as additional potential confounders.(6,28 –30)
+Diabetes and osteoarthritis were assessed by self-report
+with a validated questionnaire.(31) Cognitive impairment
+was assessed using the Mini-Mental State Examination (MMSE).(32) Depression symptoms were assessed using the Center for Epidemiologic Studies–Depression Scale
+(CES-D).(33) Level of education was assessed by asking the
+respondent for the highest educational level completed,
+ranging from primary to university education. The responses were converted into years of education (range, 5–18
+years). Use of corticosteroids was assessed by asking the
+respondents if they had ever used corticosteroids for a
+period of ⱖ3 months. Weight was assessed using a standardized scale. Finally, participants were asked about previous fractures (after the age of 50) in the medical interview.
+Potential mediators: Functional limitations, physical activity, and physical performance were considered to be
+possible mediators in the relationship between impaired
+vision and falls or fractures. Functional limitations were
+assessed with a questionnaire, previously validated in The
+Netherlands,(34) about the degree of difficulty with three
+activities of daily living: stair climbing, cutting one’s own
+toenails, and using personal or public transportation. Scores
+on the three questions (range, 0 – 4) were summed to a total
+score ranging from 0 to12. Physical activity was assessed
+with the validated LASA Physical Activity Questionnaire
+(LAPAQ).(35) Six yes or no questions about walking outside, bicycling, doing sport activities, and performing light
+and heavy household activities were summed to a physical
+activity score (range, 0 – 6). Level of physical performance
+was assessed with three physical performance tests(36) that
+included time needed to walk 3 m back and forth along a
+line, time needed to stand up and sit down five times with
+arms folded, and time needed to perform a tandem stand.
+For the first two tests, a score of 1– 4 points was assigned,
+corresponding to the quartile of time needed. For the tandem
+stand, 1 point was given to those who stood less than 10 s
+and 2 points were given to those who stood at least 10 s.
+Participants who were not able to perform a test obtained a
+score of 0 points. The scores of the three tests were summed
+to a physical performance score (range, 0 –10).
+
+DE BOER ET AL.
+
+Statistical analyses: Independent-sample t-tests and ␹2
+tests were used to test differences in means and prevalences
+of the vision variables, potential mediators, and potential
+confounders by recurrent falls and fractures. Variables that
+were not distributed normally were analyzed with the
+Mann-Whitney test. The association between vision variables and recurrent falling and fractures were examined
+using Cox proportional hazards analyses. The mediating
+effects of physical activity, physical performance, and functional limitations were examined by testing the four conditions proposed by Baron and Kenny.(37) These conditions
+state that (1) the predictor is significantly associated with
+the hypothesized mediator, (2) the predictor is significantly
+associated with the dependent variable, (3) the impact of the
+predictor on the dependent variable is less after controlling
+for the mediator, and (4) the mediator is significantly associated with the dependent variable. The first condition was
+tested with multiple linear regression analysis, whereas the
+second, third, and fourth conditions were tested using Cox
+proportional hazards analysis.
+Potential confounders and effect modifiers were examined in all Cox proportional hazard, logistic regression, and
+linear regression analyses. First, to test whether there was
+effect modification, interaction terms were included in the
+model. Subsequently, potential confounders were added to
+the model, one at a time, beginning with the strongest
+confounder. Confounders that led to a change in the ␤ of
+⬎10% were kept in the model. Continuous independent
+variables were divided into quintiles or quartiles and added
+to the model as dummy variables to examine possible nonlinear effects. When nonlinear effects were observed, the
+variables were kept in the model as dummy variables. A p ⬍
+0.05 was considered to reflect a statistically significant
+finding. Data were analyzed using the software package
+SPSS 9.0 for Windows (SPSS, Chicago, IL, USA).
+
+RESULTS
+Fall and fracture follow-up
+A total of 72 of the 1509 eligible participants did not
+participate in the fall follow-up. Additionally, 19 people
+were excluded from the analysis because they did not participate during two consecutive 3-month periods of time
+during the 3-year fall follow-up. These 91 people (6%) were
+considered nonresponders. Data on fractures were not available for 32 people (nonresponse). Sixteen additional people
+were excluded from the analysis because they had fractures
+of the head, neck, foot, toes, hand, and fingers or fractures
+caused by an accident. Compared with the responders, nonresponders of the fall and fracture follow-up more often had
+impaired ICS and low-frequency contrast sensitivity scores
+and more frequently reported difficulty in recognizing faces
+and reading a newspaper. Furthermore, they were older, had
+more functional limitations, had lower scores on the physical performance tests, weighed less, were less physically
+active, and reported diabetes, depression symptoms, and
+cognitive impairments more frequently.
+
+
+[page 5]
+RISK OF IMPAIRED VISION ON FALLS AND FRACTURES
+
+1543
+
+TABLE 1. BASELINE CHARACTERISTICS OF RECURRENT FALLERS VS. NONRECURRENT FALLERS AND RESPONDENTS
+WITH FRACTURES VS. RESPONDENT WITHOUT FRACTURES
+
+Variables
+Age (years); mean (SD)
+Gender; % female
+ICS; % impaired
+Contrast sensitivity (low spatial
+frequencies); % impaired
+Glare questions; mean (SD)
+Reading the newspaper; % much
+difficulty or cannot
+Recognizing faces; % much
+difficulty or cannot
+Education (years); mean (SD)
+Diabetes; %
+Smoking; %
+Osteoarthritis; %
+Corticosteroid use; %
+MMSE; median [IQ]
+Physical performance; mean (SD)
+Physical activity; mean (SD)
+Functional limitations; median
+[IQ]
+CES-D score; median [IQ]
+Weight; mean (SD)
+Previous fractures since age of
+50; %
+Recurrent falling; %
+
+Recurrent
+fallers
+(n ⫽ 365)
+
+Nonrecurrent
+fallers
+(n ⫽ 1053)
+
+p Value*
+
+Respondents
+with fractures
+(n ⫽ 76)
+
+Respondents
+without fractures
+(n ⫽ 1377)
+
+p Value*
+
+77.3 (6.9)
+52.9%
+8.0%
+7.7%
+
+75.1 (6.4)
+51.1%
+3.9%
+3.4%
+
+⬍0.001
+0.557
+0.002
+0.001
+
+78.3 (6.6)
+61.8%
+6.8%
+5.5%
+
+75.7 (6.6)
+51.1%
+5.3%
+4.8%
+
+0.001
+0.067
+0.582
+0.778
+
+4.6 (2.4)
+14.0%
+
+4.3 (2.1)
+10.5%
+
+0.015
+0.069
+
+4.5 (2.3)
+17.3%
+
+4.4 (2.2)
+11.4%
+
+0.679
+0.120
+
+7.5%
+
+4.7%
+
+0.042
+
+16.2%
+
+5.2%
+
+⬍0.001
+
+9.2 (3.6)
+10.4%
+17.9%
+53.0%
+7.1%
+27.0 [25.0–29.0]
+5.0 (2.8)
+3.2 (1.5)
+2.0 [0–6.0]
+
+8.8 (3.3)
+6.8%
+18.5%
+41.5%
+4.0%
+28.0 [26.0–29.0]
+6.1 (2.5)
+3.4 (1.4)
+1.0 [1.0–4.0]
+
+0.088
+0.027
+0.795
+⬍0.001
+0.015
+0.036
+⬍0.001
+0.122
+⬍0.001
+
+8.2 (3.5)
+3.9%
+21.1%
+55.3%
+10.5%
+26.0 [23.0–28.0]
+4.8 (2.9)
+2.9 (1.5)
+5.0 [1.0–10.0]
+
+8.9 (3.3)
+8.1%
+19.1%
+43.6%
+4.4%
+28.0 [26.0–29.0]
+5.8 (2.6)
+3.3 (1.4)
+1.0 [0–4.0]
+
+0.079
+0.188
+0.667
+0.046
+0.015
+0.001
+0.002
+0.021
+⬍0.001
+
+8.0 [4.0–14.0]
+72.6 (12.5)
+25.8%
+
+5.0 [2.0–10.0]
+75.0 (12.9)
+19.9%
+
+⬍0.001
+0.002
+0.018
+
+9.0 [3.0–14.0]
+71.2 (12.0)
+32.9%
+
+6.0 [3.0–12.0]
+74.4 (13.0)
+20.6%
+
+0.076
+0.037
+0.010
+
+56.2%
+
+23.3%
+
+⬍0.001
+
+MMSE, Mini-Mental State Examination (range in score 5–30); CES-D, Center for Epidemiologic Studies-Depression Scale (range in score, 0 – 46); IQ,
+interquartile range.
+* Differences in mean were examined with t-test; differences in median were examined with Mann-Whitney; differences in frequencies were examined
+with ␹2 tests.
+
+Baseline characteristics
+Table 1 shows differences in baseline characteristics for
+recurrent fallers and nonrecurrent fallers. Recurrent fallers
+had significantly lower ICS and low-frequency contrast
+sensitivity scores and more frequently reported difficulty
+with recognizing faces and glare. Furthermore, they were
+older, had more functional limitations, had lower physical
+performance, weighed less, reported diabetes and previous
+fractures more frequently, scored higher on the CES-D, and
+scored lower on the MMSE.
+Recognizing faces was the only vision variable for which
+statistically significant differences were found between respondents with fractures and respondents without fractures
+(Table 1). Furthermore, respondents with fractures were
+older, had more functional limitations, had lower physical
+performance, were less physically active, weighed less,
+reported osteoarthritis and previous fractures more frequently, used corticosteroids more often, and scored lower
+on the MMSE.
+
+Associations between vision variables and recurrent
+falling and fractures
+Table 2 shows the association between the vision variables and risk of recurrent falling. Unadjusted Cox re-
+
+gression analyses showed significant hazard ratios (HRs)
+for all vision variables. The strongest association was
+found between low-frequency contrast sensitivity and
+recurrent falling (HR ⫽ 2.09; CI ⫽ 1.41–3.10). After
+adjustment for all potential confounders, only ICS and
+low-frequency contrast sensitivity remained significantly
+associated with recurrent falls. Table 3 shows that there
+is a strong association between recognizing faces and
+fractures in unadjusted analyses as well as in adjusted
+analyses (HR ⫽ 3.10; CI ⫽ 1.65–5.82). For the other
+vision variables, no statistically significant elevated HRs
+could be observed.
+
+Role of potential mediators
+In Table 4, the mediating effects of physical performance,
+physical activity, and functional limitations in the associations between vision variables and recurrent falling and
+fractures were examined. The analyses were limited to those
+variables that had a statistically significant and independent
+relationship with the outcome measure. For the relationship
+between the ICS and recurrent falling, the four conditions of
+Baron and Kenny(37) were met for physical performance and
+functional limitations. Statistically significant associations
+between the ICS and the mediator (condition 1) and be-
+
+
+[page 6]
+1544
+
+DE BOER ET AL.
+TABLE 2. ASSOCIATION BETWEEN VISION VARIABLES AND RECURRENT FALLING
+Unadjusted analyses
+
+Adjusted for age
+
+Adjusted for other confounders*
+
+Variables
+
+HR (95% CI) for
+recurrent fallers
+
+p Value
+
+HR (95% CI) for
+recurrent fallers
+
+p Value
+
+HR (95% CI) for
+recurrent fallers
+
+p Value
+
+ICS
+Low-frequency contrast sensitivity
+Glare questions
+Reading the newspaper
+Recognizing faces
+
+2.02 (1.37–2.97)
+2.09 (1.41–3.10)
+1.06 (1.01–1.10)
+1.35 (1.01–1.82)
+1.68 (1.13–2.48)
+
+⬍0.001
+⬍0.001
+0.013
+0.046
+0.010
+
+1.70 (1.15–2.51)
+1.75 (1.17–2.60)
+1.04 (1.00–1.09)
+1.20 (0.89–162)
+1.45 (0.97–2.15)
+
+0.008
+0.006
+0.051
+0.199
+0.068
+
+1.53 (1.03–2.29)†‡
+1.66 (1.11–2.48)
+1.03 (0.98–1.07)
+1.12 (0.83–1.52)
+1.34 (0.90–1.99)
+
+0.037
+0.013
+0.245
+0.453
+0.153
+
+* In the adjusted analyses, all vision variables were corrected for age and depression. Interaction with age and gender was not significant for any of the
+vision variables.
+†
+Additionally corrected for diabetes.
+‡
+Additionally corrected for level of education.
+
+TABLE 3. ASSOCIATION BETWEEN VISION VARIABLES AND FRACTURES
+Unadjusted analyses
+
+Adjusted for age
+
+Adjusted for other confounders*
+
+Variables
+
+HR (95% CI) for
+fractures
+
+p Value
+
+HR (95% CI) for
+fractures
+
+p Value
+
+HR (95% CI) for
+fractures
+
+p Value
+
+ICS
+Low-frequency contrast sensitivity
+Glare questions
+Reading the newspaper
+Recognizing faces
+
+1.46 (0.59–3.63)
+1.31 (0.48–3.60)
+1.02 (0.92–1.13)
+1.70 (0.94–3.10)
+3.71 (2.0–6.88)
+
+0.412
+0.597
+0.707
+0.081
+⬍0.001
+
+1.09 (0.43–2.73)
+0.97 (0.35–2.70)
+1.01 (0.91–1.11)
+1.48 (0.81–2.70)
+3.10 (1.65–5.82)
+
+0.859
+0.96
+0.913
+0.206
+⬍0.001
+
+0.78 (0.30–2.04)†‡§¶
+0.75 (0.26–2.12)†‡¶
+1.00 (0.91–1.11)§
+1.38 (0.77–2.48)
+3.10 (1.65–5.82)**
+
+0.643
+0.625
+0.937
+0.281
+⬍0.001
+
+* In the adjusted analyses, all vision variables were corrected for age and cognitive functioning (except recognizing faces: only for age). Interaction with
+age and gender was not significant for any of the vision variables.
+†
+Additionally corrected for diabetes.
+‡
+Additionally corrected for corticosteroid use.
+§
+Additionally corrected for depression.
+¶
+Additionally corrected for previous fractures since age of 50.
+** There were no additional confounders that changed the ␤ of recognizing-faces with ⬎10%.
+
+tween the ICS and recurrent falling (condition 2) were
+found for all three potential mediators. However, after adjustment for the mediator, the ␤ values of the ICS decreased
+with ⬍10% for physical activity (condition 3). Furthermore,
+a significant association between the mediator and recurrent
+falling (condition 4) was found only for physical performance and functional limitations. According to the criteria
+of Baron and Kenny,(37) physical performance and functional limitations were also mediators in the association
+between contrast sensitivity of the low spatial frequencies
+and recurrent falling (data not shown).
+For the association between recognizing faces and
+fractures, the four conditions of Baron and Kenny(37)
+were met for functional limitations only. Statistically
+significant associations between “recognizing faces” and
+the mediator (condition 1) and between recognizing faces
+and fractures (condition 2) were found for all three potential mediators. However, after adjustment for physical
+activity, the ␤ values of recognizing faces decreased by
+only 3.6% (condition 3). Furthermore, there was no statistically significant association between physical activity
+and fractures and between physical performance and
+fractures (condition 4).
+
+DISCUSSION
+In this study, we showed that people with poor visual
+contrast sensitivity had a 1.5-fold increase in the relative
+risk of recurrent falling. Although Harwood(38) suggests that
+the influence of potential confounders in studies on the
+relationship between vision and falling is limited, our findings suggest that it is important to correct for confounding
+factors. For example, the risk estimate of the ICS decreased
+from 2 to 1.5 after adjustment for age and depression
+symptoms.
+To our knowledge, there are only three studies that examined contrast sensitivity as a risk factor for falls in a
+prospective study that included adjustment for potential
+confounders.(2,39,40) Only one found a significant association between contrast sensitivity and recurrent falls (no risk
+estimate given).(39) However, the three studies were analyzed as a prediction model with the aim of explaining as
+much statistical variance as possible. This does not ensure
+controlling for all potential confounders. Furthermore, these
+studies had a 1-year follow-up in contrast to the 3-year
+follow-up of this study. Finally, in these studies, a different
+test for contrast sensitivity was used from the one we used.
+
+
+[page 7]
+RISK OF IMPAIRED VISION ON FALLS AND FRACTURES
+
+1545
+
+TABLE 4. POTENTIAL ROLE OF PHYSICAL PERFORMANCE, PHYSICAL ACTIVITY, AND FUNCTIONAL LIMITATIONS AS MEDIATORS IN THE RELATION
+BETWEEN VISION VARIABLES AND RECURRENT FALLING/FRACTURES
+Four conditions of Baron and Kenny for a variable
+to be a mediator
+Recurrent falling
+(1) ICS-mediator
+(2) ICS-recurrent falling
+(3) ICS adjusted for mediator-recurrent falling (%␤ change)
+(4) Mediator-recurrent falling
+
+Functional
+limitations
+
+Physical performance
+
+Physical activity
+
+p ⫽ 0.004
+1.53 (1.03–2.29)
+10.6%
+1.93 (1.38–2.69) [1–4]*†
+1.19 (0.85–1.67) [2–4]
+1.15 (0.84–1.58) [3–4]
+
+p ⫽ 0.010
+1.53 (1.03–2.29)
+7.1%
+0.89 (0.64–1.23) [1–4]*‡
+0.71 (0.51–0.99) [2–4]
+0.75 (0.53–1.05) [3–4]
+
+p ⫽ 0.001
+1.53 (1.03–2.29)
+21.1%
+1.08 (1.04–1.11)
+
+p ⫽ 0.021
+3.10 (1.65–5.82)
+14.0%
+
+p ⫽ 0.034
+3.10 (1.65–5.82)
+3.6%
+
+p ⬍ 0.001
+3.10 (1.65–5.82)
+30.8%
+
+1.77 (0.81–3.89) [1–4]§
+1.02 (0.46–2.23) [2–4]
+0.83 (0.38–1.82) [3–4]
+
+0.90 (0.74–1.09)
+
+1.17 (1.11–1.24)
+
+Fractures
+(1) Recognizing faces-mediator
+(2) Recognizing faces-fractures
+(3) Recognizing-faces adjusted for mediator-fractures
+(%␤ change)
+(4) Mediator-fractures
+
+* The potential mediator had a nonlinear relation with the dependent variable. Therefore a dummy variable was used in the analysis. The categories of
+the dummy variable that were compared in the analysis are given in brackets. Categories for physical performance were: cat. 1 ⫽ 0 –3 points; cat. 2 ⫽ 4 –5
+points; cat. 3 ⫽ 6 –7 points; cat. 4 ⫽ 8 –10 points. Categories for physical activity were: cat. 1 ⫽ 0 –2 points; cat. 2 ⫽ 3 points; cat. 3 ⫽ 4 points; cat. 4 ⫽
+5– 6 points.
+†
+Overall p value ⬍ 0.001.
+‡
+Overall p value ⫽ 0.136.
+§
+Overall p value ⫽ 0.186.
+
+These differences make it difficult to compare the results of
+those studies with the results of this study.
+Our findings indicate very little difference between the
+relationships of ICS and low-frequency contrast sensitivity
+with recurrent falling, which is in agreement with a study by
+Ivers et al.(41)
+In this study, no associations between any of the subjective measures of vision and recurrent falling were found. In
+previous work on the same cohort, Tromp et al.(7) identified
+a relationship between recognizing faces and falls and recurrent falls. However, in that study, the follow-up was 1
+year compared with the 3-year follow-up of the analyses
+presented in this study. Moreover, recognizing faces was
+included as a predictor in a risk profile (i.e., only partly
+adjusted for other potential risk factors), whereas in this
+study, it was treated as an independent risk factor.
+Several prospective studies estimated the risk of impaired
+contrast sensitivity on incident fractures.(6,42– 44) In a study
+with a mean follow-up of 4.7 years, Ivers et al. examined the
+relationship between contrast sensitivity and fractures with
+separate analyses for fractures of the hip,(42) wrist, shoulder,
+and ankle.(43) In line with our findings, they did not find a
+significant association between contrast sensitivity and any
+type of fracture in adjusted analyses. In a study by Dargent Molina et al.,(44) with a mean follow-up of 1.9 years, no
+association was found between contrast sensitivity and hip
+fractures as well. Cummings et al.(6) did find an increased
+risk of hip fractures for people with impaired low-frequency
+contrast sensitivity. However, the latter two studies were
+analyzed as risk models, and depression, cognition, and
+diabetes were not assessed, leading to a possible overestimation of the risk estimates for the vision variables. Fur-
+
+thermore, the cohort of study participants consisted of
+women only.
+We could not locate prospective cohort studies in which
+self-reported visual impairment was examined as a risk
+factor for fractures. However, in agreement with our findings, recognizing a friend across the room was significantly
+associated with hip fractures in a case-control study.(45)
+Although impaired vision was shown to be an independent risk factor for recurrent falling as well as for fractures,
+there is a discrepancy in the type of visual risk factors for
+falls and fractures. The ICS was a risk factor for recurrent
+falling, whereas recognizing faces was a risk factor for
+fractures. Although it is thought that recognizing faces is an
+activity that is dependent on the level of contrast sensitivity
+rather than on visual acuity,(19) in this study, the association
+between recognizing faces and the ICS are low (␬ values:
+0.30 for the responders in the fall analyses and 0.32 for
+responders in the fracture analyses). Recognizing faces
+might encompass more than visual functioning alone. It is a
+daily life activity in which the environment and possibly
+memory functions are also important. Furthermore, recognizing faces was assessed with a question and is therefore
+influenced by the subjective impressions that respondents
+have about their eyesight and overall health. Subjectively
+reported health has been shown to be a risk factor for hip
+fractures in women.(6) Another difference between recognizing faces and contrast sensitivity lies in the distance of
+measurement. The question on recognizing faces was asked
+for a distance of 4 m, whereas the contrast sensitivity test was
+administered at 30–32 cm. However, it is unclear how these
+differences might explain the discrepancy in our findings.
+
+
+[page 8]
+1546
+
+Functional limitations and physical performance were
+shown to be mediators in the relationship between vision
+and recurrent falling. Functional limitations were also
+shown to be a mediator in the relationship between vision
+and fractures. This indicates that impaired vision leads to
+impaired physical performance and functional limitations,
+in turn leading to recurrent falling and fractures. Our finding
+that physical performance plays a mediating role in the
+relationship between contrast sensitivity and falling is supported by reports in the literature. The tests we used to
+assess physical performance (walking 3 m back and forth on
+a line, standing up and sitting down five times with arms
+folded, and performing a tandem stand) are markers for
+postural stability and gait. Several studies have shown that
+contrast sensitivity and other aspects of vision are associated with postural stability, particularly when standing on a
+compliant surface,(46,47)and with aspects of gait.(48) Furthermore, gait and balance abnormalities have been shown to be
+predictors of falls.(2,3,44,48)
+The role of functional limitations as a mediator in the
+relationship between impaired vision and falling and fractures is also supported by the literature. Functional limitations were assessed with questions on the degree of difficulty with climbing stairs, cutting one’s own toenails, and
+using public transportation. It is well known that visually
+impaired people have to use adaptive strategies to maintain
+their ability to perform activities such as climbing stairs and
+using public transportation.(49,50) However, even when they
+have mastered these adaptive strategies, it will still take
+them more effort and more time than normally sighted
+people, and therefore, it is not surprising that they feel
+limited in their ability to perform these activities. Furthermore, self-reported functional limitations have also been
+shown to be predictors of falls and fractures.(7,45)
+This study has several limitations. First, nonresponse was
+associated with poor vision and most potential confounders;
+frail respondents were less likely to participate in the medical interview and the fall and fracture follow-up. This has
+probably led to an underestimation of the association between the vision variables and falling or fractures. Second,
+in this study, contrast sensitivity was assessed using the
+VCTS_6000-1 chart for near vision. The distant version of
+this chart has been shown to be valid, but reproducibility
+was only moderate.(51,52) Reproducibility and validity of the
+near vision chart have not been assessed but are likely to be
+similar to those of the distant version given the similarity
+between charts and instruction. Imperfect reliability will
+lead to nondifferential misclassification. This also may have
+led to an underestimation of the association between contrast sensitivity and falling or fractures. The other aspects of
+vision were assessed with one (recognizing faces and reading the newspaper) or more questions (glare) with unknown
+validity and reliability. It is unclear if and how this might
+have influenced the associations that we found. Third, measurement of distant contrast sensitivity might have given us
+more insight into the discrepancies found between the ICS
+and recognizing faces in their relationship with falling and
+fractures. Future studies should address this problem. Finally, although the study consisted of a large sample size,
+the number of fractures was limited. Therefore, inferences
+
+DE BOER ET AL.
+
+about associations should be interpreted with caution. In
+addition, because of the limited number of fractures, we
+could not differentiate between types of fractures.
+In summary, this study shows that there is a significant
+and independent relation between impaired vision and both
+recurrent falling and recurrent fractures in a prospective
+study design. The multifactorial design of this study enabled
+correction for all known important confounders. The results
+showed that, in particular, ICS was associated with recurrent falls, whereas recognizing faces was associated with
+risk of fracture. Moreover, functional limitations and physical performance seem to play a mediating role in these
+relations. Future research should focus on the effectiveness
+of prevention of visual impairment and disability through
+surgical, optometric, and rehabilitative interventions. Self reported visual impairments should not be neglected in
+these studies.
+
+ACKNOWLEDGMENTS
+We thank Jan Poppelaars for help in data management
+and processing and Els Lommerse, Vianda Stel, Sylvia
+Witteveen, Marieke van Asselen, and Mohammad Asad
+Abdullah for data collection. This study is based on data
+collected in the context of the LASA, which is largely
+funded by the Ministry of Health, Welfare, and Sports of
+The Netherlands. In addition, financial support for this study
+was provided by the Landelijke Stichting voor Blinden en
+Slechtzienden (MRdB is a LSBS fellow), the Stichting
+Blindenhulp, the Haak-Bastiaanse Kuneman Stichting, and
+the Stichting voor Ooglijders.
+
+REFERENCES
+1. Tromp AM, Smit JH, Deeg DJH, Bouter LM, Lips P 1998 Predictors for falls and fractures in the Longitudinal Aging Study
+Amsterdam. J Bone Miner Res 13:1932–1939.
+2. Nevitt MC, Cummings SR, Kidd S, Black D 1989 Risk factors for
+recurrent nonsyncopal falls. A prospective study. JAMA 261:
+2663–2668.
+3. Tinetti ME, Speechley M, Ginter SF 1988 Risk factors for falls
+among elderly persons living in the community. N Engl J Med
+319:1701–1707.
+4. Cummings SR, Melton LJ III 2002 Epidemiology and outcomes of
+osteoporotic fractures. Lancet 359:1761–1767.
+5. Pluijm SM, Tromp AM, Smit JH, Deeg DJH, Lips P 2000 Consequences of vertebral deformities in older men and women.
+J Bone Miner Res 15:1564 –1572.
+6. Cummings SR, Nevitt MC, Browner WS, Stone K, Fox KM,
+Ensrud KE, Cauley J, Black D, Vogt TM 1995 Risk factors for hip
+fracture in white women. Study of Osteoporotic Fractures Research Group. N Engl J Med 332:767–773.
+7. Tromp AM, Pluijm SM, Smit JH, Deeg DJH, Bouter LM, Lips P 2001
+Fall-risk screening test: A prospective study on predictors for falls in
+community-dwelling elderly. J Clin Epidemiol 54:837– 844.
+8. Legood R, Scuffham P, Cryer C 2002 Are we blind to injuries in the
+visually impaired? A review of the literature. Inj Prev 8:155–160.
+9. Sarkisian CA, Liu H, Gutierrez PR, Seeley DG, Cummings SR,
+Mangione CM 2000 Modifiable risk factors predict functional
+decline among older women: A prospectively validated clinical
+prediction tool. The Study of Osteoporotic Fractures Research
+Group. J Am Geriatr Soc 48:170 –178.
+10. West SK, Munoz B, Rubin GS, Schein OD, Bandeen-Roche K,
+Zeger S, German S, Fried LP 1997 Function and visual impairment
+in a population-based study of older adults. The SEE project.
+Salisbury Eye Evaluation. Invest Ophthalmol Vis Sci 38:72– 82.
+11. Stel VS, Pluijm SM, Deeg DJH, Smit JH, Bouter LM, Lips P 2003
+A classification tree for predicting recurrent falling in community dwelling older persons. J Am Geriatr Soc 51:1356 –1364.
+
+
+[page 9]
+RISK OF IMPAIRED VISION ON FALLS AND FRACTURES
+12. Deeg DJH, Knipscheer CPM, van Tilburg W 1993 Autonomy and
+Well-Being in the Aging Population: Concepts and Design of the
+Longitudinal Aging Study Amsterdam. Institute of Gerontology,
+Bunnik, The Netherlands
+13. Smit JH, de Vries MZ 1994 Procedures and results of the field
+work. In: Deeg DJH, Westendorp-de Seriere M (eds.) Autonomy
+and Well-Being in the Aging Population I: Report From the
+Longitudinal Aging Study, Amstredam 1992–1993. VU University
+Press, Amsterdam, The Netherlands, pp. 7–14.
+14. Smit JH, de Vries MZ, Poppelaars JL 1994 Data-collection and
+fieldwork procedures. In: Deeg DJH, Westendorp-de Seriere M (eds.)
+Autonomy and Well-Being in the Aging Population II: Report From
+the Longitudinal Aging Study, Amsterdam 1992–1996. VU University Press, Amsterdam, The Netherlands, pp. 9–20.
+15. Kellog International Work Group on the Prevention of Falls by the
+Elderly 1987 The prevention of falls in later life. Dan Med Bull
+34:1–24.
+16. van Schoor NM, Smit JH, Pluijm SM, Jonker C, Lips P 2002
+Different cognitive functions in relation to falls among older persons. Immediate memory as an independent risk factor for falls.
+J Clin Epidemiol 55:855– 862.
+17. van Meeteren A, Vos JJ 1972 Resolution and contrast sensitivity at
+low luminances. Vision Res 12:825– 833.
+18. Klaver CC, Wolfs RC, Vingerling JR, Hofman A, de Jong PT 1998
+Age-specific prevalence and causes of blindness and visual impairment in an older population: The Rotterdam Study. Arch Ophthalmol 116:653– 658.
+19. Sekuler R, Hutman LP 1980 Spatial vision and aging. I: Contrast
+sensitivity. J Gerontol 35:692– 699.
+20. Felson DT, Anderson JJ, Hannan MT, Milton RC, Wilson PW,
+Kiel DP 1989 Impaired vision and hip fracture. The Framingham
+Study. J Am Geriatr Soc 37:495–500.
+21. Klein BE, Klein R, Lee KE, Cruickshanks KJ 1998 Performance based and self-assessed measures of visual function as related to
+history of falls, hip fractures, and measured gait time. The Beaver
+Dam Eye Study. Ophthalmology 105:160 –164.
+22. Whooley MA, Kip KE, Cauley JA, Ensrud KE, Nevitt MC,
+Browner WS 1999 Depression, falls, and risk of fracture in older
+women. Study of Osteoporotic Fractures Research Group. Arch
+Intern Med 159:484 – 490.
+23. Guo Z, Wills P, Viitanen M, Fastbom J, Winblad B 1998 Cognitive
+impairment, drug use, and the risk of hip fracture in persons over
+75 years old: A community-based prospective study. Am J Epidemiol 148:887– 892.
+24. Vogt MT, Cauley JA, Tomaino MM, Stone K, Williams JR, Herndon
+JH 2002 Distal radius fractures in older women: A 10-year follow-up
+study of descriptive characteristics and risk factors. The study of
+osteoporotic fractures. J Am Geriatr Soc 50:97–103.
+25. Burger H, van Daele PL, Odding E, Valkenburg HA, Hofman A,
+Grobbee DE, Schutte HE, Birkenhager JC, Pols HA 1996 Association of radiographically evident osteoarthritis with higher bone
+mineral density and increased bone loss with age. The Rotterdam
+Study. Arthritis Rheum 39:81– 86.
+26. Uhlmann RF, Larson EB, Koepsell TD, Rees TS, Duckert LG 1991
+Visual impairment and cognitive dysfunction in Alzheimer’s disease. J Gen Intern Med 6:126 –132.
+27. Paz SH, Globe DR, Wu J, Azen SP, Varma R 2003 Relationship
+between self-reported depression and self-reported visual function
+in Latinos. Arch Ophthalmol 121:1021–1027.
+28. Law MR, Hackshaw AK 1997 A meta-analysis of cigarette smoking, bone mineral density and risk of hip fracture: Recognition of
+a major effect. BMJ 315:841– 846.
+29. van Staa TP, Leufkens HG, Cooper C 2002 The epidemiology of
+corticosteroid-induced osteoporosis: A meta-analysis. Osteoporos
+Int 13:777–787.
+30. Hyman L 1987 Epidemiology of eye disease in the elderly. Eye
+1:330 –341.
+31. Kriegsman DM, Penninx BW, van Eijk JT, Boeke AJ, Deeg DJ
+1996 Self-reports and general practitioner information on the presence of chronic diseases in community dwelling elderly. A study
+on the accuracy of patients’ self-reports and on determinants of
+in accuracy. J Clin Epidemiol 49:1407–1417.
+32. Folstein MF, Folstein SE, McHugh PR 1975 “Mini-mental state.”
+A practical method for grading the cognitive state of patients for
+the clinician. J Psychiatr Res 12:189 –198.
+
+1547
+
+33. Radloff LS 1977 The CES_D scale: A self-report depression scale for
+research in the general population. Appl Psychol Meas 1:385– 401.
+34. van Sonsbeek JLA 1988 Methodological and substantial aspects of
+the OECD indicator of chronic functional limitations. Maandbericht Gezondheid (CBS) 88:4 –17.
+35. Stel VS, Smit JH, Pluijm SM, Visser M, Deeg DJH, Lips P 2004
+Comparison of the LASA Physical Activity Questionnaire with a
+7-day diary and pedometer. J Clin Epidemiol 57:252–258.
+36. Guralnik JM, Simonsick EM, Ferrucci L, Glynn RJ, Berkman LF,
+Blazer DG, Scherr PA, Wallace RB 1994 A short physical performance battery assessing lower extremity function: Association
+with self-reported disability and prediction of mortality and nursing home admission. J Gerontol 49:M85–M94.
+37. Baron RM, Kenny DA 1986 The moderator-mediator variable
+distinction in social psychological research: Conceptual, strategic,
+and statistical considerations. J Pers Soc Psychol 51:1173–1182.
+38. Harwood RH 2001 Visual problems and falls. Age Ageing
+30(Suppl 4):13–18.
+39. Lord SR, Ward JA, Williams P, Anstey KJ 1994 Physiological
+factors associated with falls in older community-dwelling women.
+J Am Geriatr Soc 42:1110 –1117.
+40. Lord SR, Dayhew J 2001 Visual risk factors for falls in older
+people. J Am Geriatr Soc 49:508 –515.
+41. Ivers RQ, Cumming RG, Mitchell P, Attebo K 1998 Visual impairment and falls in older adults: The Blue Mountains Eye Study.
+J Am Geriatr Soc 46:58 – 64.
+42. Ivers RQ, Cumming RG, Mitchell P, Simpson JM, Peduto AJ 2003
+Visual risk factors for hip fracture in older people. J Am Geriatr
+Soc 51:356 –363.
+43. Ivers RQ, Cumming RG, Mitchell P, Peduto AJ 2002 Risk factors
+for fractures of the wrist, shoulder and ankle: The Blue Mountains
+Eye Study. Osteoporos Int 13:513–518.
+44. Dargent-Molina P, Favier F, Grandjean H, Baudoin C, Schott AM,
+Hausherr E, Meunier PJ, Breart G 1996 Fall-related factors and
+risk of hip fracture: The EPIDOS prospective study. Lancet 348:
+145–149.
+45. Grisso JA, Kelsey JL, Strom BL, Chiu GY, Maislin G, O’Brien
+LA, Hoffman S, Kaplan F 1991 Risk factors for falls as a cause of
+hip fracture in women. The Northeast Hip Fracture Study Group.
+N Engl J Med 324:1326 –1331.
+46. Lord SR, Menz HB 2000 Visual contributions to postural stability
+in older adults. Gerontology 46:306 –310.
+47. Elliott DB, Patla AE, Flanagan JG, Spaulding S, Rietdyk S, Strong
+G, Brown S 1995 The Waterloo Vision and Mobility Study:
+Postural control strategies in subjects with ARM. Ophthalmic
+Physiol Opt 15:553–559.
+48. Lord SR, Lloyd DG, Li SK 1996 Sensori-motor function, gait
+patterns and falls in community-dwelling women. Age Ageing
+25:292–299.
+49. Stelmack J 2001 Quality of life of low-vision patients and outcomes of low-vision rehabilitation. Optom Vis Sci 78:335–342.
+50. McCabe P, Nason F, Demers TP, Friedman D, Seddon JM 2000
+Evaluating the effectiveness of a vision rehabilitation intervention
+using an objective and subjective measure of functional performance. Ophthalmic Epidemiol 7:259 –270.
+51. Rubin GS 1988 Reliability and sensitivity of clinical contrast
+sensitivity tests. Clin Vision Sci 2:169 –177.
+52. Leat SJ, Woo GC 1997 The validity of current clinical tests of
+contrast sensitivity and their ability to predict reading speed in low
+vision. Eye 11:893– 899.
+
+Address reprint requests to:
+Michiel R de Boer, Msc
+VU University Medical Center
+Department of Ophthalmology, 4A83
+PO Box 7057
+Amsterdam 1007 MB, The Netherlands
+E-mail: michiel.deboer@vumc.nl
+Received in original form January 14, 2004; in revised form March
+31, 2004; accepted May 7, 2004.
+

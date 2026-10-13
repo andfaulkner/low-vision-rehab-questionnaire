@@ -1,0 +1,912 @@
+[page 1]
+EClinicalMedicine 42 (2021) 101189
+
+Contents lists available at ScienceDirect
+
+EClinicalMedicine
+journal homepage: https://www.journals.elsevier.com/eclinicalmedicine
+
+Association of visual impairment with risk for future Parkinson’s disease
+Zhuoting Zhua, Wenyi Hub,d, Huan Liaoc, Zachary Tand, Yifan Chene, Danli Shif,
+Xianwen Shanga, Xueli Zhanga, Yu Huanga, Honghua Yua, Wei Wangf,**, Mingguang Hea,d,f,*,
+Xiaohong Yanga,**
+a
+
+Department of Ophthalmology, Guangdong Academy of Medical Sciences, Guangdong Provincial People's Hospital, Guangzhou, China
+Shanghai Jiao tong University, Shanghai, China
+c
+Neural Regeneration Group, Institute of Reconstructive Neurobiology, University of Bonn, Bonn, Germany
+d
+Centre for Eye Research, University of Melbourne, East Melbourne, Victoria, Australia
+e
+John Radcliffe Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK
+f
+State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University, Guangzhou, China
+b
+
+A R T I C L E
+
+I N F O
+
+Article History:
+Received 27 August 2021
+Revised 18 October 2021
+Accepted 19 October 2021
+Available online xxx
+Keywords:
+Visual impairment
+Parkinson’s disease
+Ageing
+
+A B S T R A C T
+
+Background: Although visual dysfunction is one of the most common non-motor symptoms among patients
+with Parkinson's disease (PD), it is not known whether visual impairment (VI) predates the onset of clinical
+PD. Therefore, we aim to examine the association of VI with the future development of PD in the UK Biobank
+Study.
+Methods: The UK Biobank Study is one of the largest cohort studies of health, enrolling over 500,000 participants aged 40 69 years between 2006 and 2010 across the UK. VI was deﬁned as a habitual distance visual
+acuity (VA) worse than 0¢3 logarithm of the minimum angle of resolution (LogMAR) in the better-seeing eye.
+Incident cases of PD were determined by self report data, hospital admission records or death records, whichever came ﬁrst. Multivariable Cox proportional hazard regression models were used to investigate the association between VI and the risk of incident PD.
+Findings: A total of 117,050 participants were free of PD at the baseline assessment. During the median observation period of 5¢96 (IQR: 5¢77 6¢23) years, PD occurred in 222 (0¢19%) participants. Visually impaired participants were at a higher risk of developing PD than non-VI participants (p < 0¢001). Compared with the
+non-VI group, the adjusted hazard ratio was 2¢28 (95% CI 1¢29 4¢05, p = 0¢005) in the VI group. These results
+were consistent in the sensitivity analysis, where incident PD cases diagnosed within one year after the baseline assessment were excluded.
+Interpretation: This cohort study found that VI was associated with an increased risk of incident PD, suggesting that VI may serve as a modiﬁable risk factor for prevention of future PD.
+© 2021 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+1. Introduction
+Parkinson’s disease (PD) is the second most prevalent neurodegenerative disease and affects 2 to 3% of the global population aged
+over 65 [1]. The total burden of disease associated with PD is increasing due to ageing populations, longer disease durations and
+Abbreviations: PD, Parkinson’s disease; VI, visual impairment; VA, visual acuity; LogMAR, logarithm of the minimum angle of resolution; NHS, National Health Service;
+PHQ-2, Patient Health Questionnaire-2; IQR, interquartile range; HR, hazard ratios; CI,
+conﬁdence intervals; SD, standard deviations; PPV, positive predictive value; BMI,
+body mass index
+* Centre for Eye Research, University of Melbourne, East Melbourne, Victoria,
+Australia
+** Corresponding authors.
+E-mail addresses: mingguang.he@unimelb.edu.au (M. He), syyangxh@scut.edu.cn
+(X. Yang).
+
+environmental and social risk factors [2]. Relatively conservative estimates predict over 12 million patients will be affected by PD globally
+by 2050 [3].
+In addition to motor symptoms, clinical features of PD involve
+many non-motor symptoms exacerbating overall disability [4]. Non motor symptoms of PD have recently received increased attention as
+they precede the onset of motor symptoms, and may act as markers
+of preclinical stages of PD [5]. Visual dysfunction including colour
+vision, pupil reactivity, stereopsis, eye movements [6], has been
+reported as one of the most common non-motor symptoms, and
+increasing evidence has demonstrated higher prevalence of this non motor symptom in PD patients compared to healthy controls [7 10].
+It is yet unknown however whether visual impairment (VI), an
+important indicator of visual dysfunction [11], predates the onset of
+clinical PD. Further, understanding the association between VI and
+
+https://doi.org/10.1016/j.eclinm.2021.101189
+2589-5370/© 2021 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+[page 2]
+2
+
+Z. Zhu et al. / EClinicalMedicine 42 (2021) 101189
+
+Research in context
+Evidence before the study
+Non-motor symptoms of Parkinson disease (PD) have been
+increasingly recognized to precede the onset of motor symptoms, and may act as markers of preclinical stages of PD. Of
+note, visual dysfunction as one of the non-motor symptoms of
+PD have been documented in several studies. The prevalence of
+this non-motor symptom was higher in PD patients compared
+with healthy subjects. However, no study to date have longitudinally examined the association of visual impairment (VI), an
+important indicator of visual dysfunction, with incident PD.
+Using the North American categorization, VI was deﬁned as a
+habitual distance visual acuity (VA) worse than 0.3 logarithm of
+the minimum angle of resolution (LogMAR) in the better-seeing
+eye.
+Added value of this study
+In this population-based cohort study of 117,050 individuals,
+we found that participants with VI had 2.28-fold increased risk
+of developing future PD compared with those who were not
+visually impaired during a median follow-up of 5.96 years.
+Implications of all the available evidence
+VI was identiﬁed as a potential risk factor of incident PD in the
+present study, suggesting that visual screening should be
+implemented in patients at a high risk of developing PD.
+
+future risk of PD may facilitate early diagnosis and intervention of PD
+prior to manifestation of the full clinical syndrome.
+In this context, we sought to examine the association of VI with
+risk of future PD development using the UK Biobank, a community based longitudinal sample.
+2. Methods
+
+2.2. Standard protocol approvals, registrations, and patient consents
+Access to the UK Biobank data was granted after registration. The
+application ID was 62443. The UK Biobank has obtained Research Tissue Bank approval from its Research Ethics Committee recommended
+by the National Research Ethics Service (reference 11/NW/0382). Participants provided written informed consent.
+2.3. Assessment of visual acuity
+Detailed methods for VA testing in the UK Biobank study have
+been described elsewhere [13]. Habitual distance VA was measured
+using a logarithm of the minimum angle of resolution (LogMAR) chart
+(Precision Vision, LaSalle, Illinois, USA). Participants were tested at
+4 m with habitual correction if any, or at 1 m if participants were
+unable to read. Participants were required to read letters sequentially
+from the top and the total number of correctly identiﬁed letters was
+converted to a logMAR VA. Presenting VA worse than 0¢3 logMAR
+units (equivalent to Snellen 20/40) was deﬁned as VI.
+2.4. Ascertainment of PD
+The algorithm for ascertaining PD in the UK Biobank Study could
+be found in detail elsewhere [14]. In brief, ascertainment of PD was
+based on self-reported data, diagnosis in the hospital admissions
+data, or cause of death recorded in the national death register, whichever was the earliest. Hospital admission data were retrieved from
+Health Episode Statistics records (for participants from England and
+Wales) and the Scottish Morbidity Records (for participants from
+Scotland). The National Health Service (NHS) Information Centre, and
+the NHS Central Register Scotland were used to obtain the date and
+causes of death for participants from England and Wales, and Scotland, respectively. The UK Biobank study conducted a validation
+study on the accuracy of code sources for identiﬁcation of PD cases,
+which achieved a positive predictive value (PPV) of 0¢91 (95% conﬁdence interval [CI], 0¢83 0¢96) when combining all sources (self
+report, hospital admission records, and death records) [14]. Follow up length was calculated as the time interval between the date of
+baseline assessment and the censor date, which is either the date of
+PD diagnosis, death, lost to follow-up or 1st March 2016.
+
+2.1. Study sample
+3. Covariates
+Detailed procedures of the UK Biobank study have been
+described elsewhere [12]. Brieﬂy, more than 500,000 participants
+aged between 40 and 69 years were recruited at 22 assessment
+centers across the UK from 2006 to 2010. Data on lifestyle, environment and medical history were obtained using self-administered questionnaires. Physical measurements and biological
+specimens including blood, urine and saliva samples were also
+collected. Detailed follow-up of the health of participants was
+achieved through linkage to national electronic health record
+datasets. Ophthalmic examinations for baseline assessment were
+carried out from 2009 at six assessment centers. Participants with
+available visual acuity (VA) data (n = 117,252) were included in
+the present analysis. Baseline characteristics of participants with
+and without VA data is shown in Supplement Table 1. Relative to
+participants without VA data, those with available VA data were
+more likely to be slightly older (56¢8 vs. 56¢4 years), of non-Caucasian ethnicity, more materially deprived, non-smokers, nondrinkers, physically active, diabetic, hypertensive, less likely to
+use psychotropic medications and more likely to be cognitively
+impaired and depressed. For analysis of incident PD, participants
+diagnosed with PD prior to baseline assessment (n = 174), and
+those with self-reported PD at the baseline nurse interview
+(n = 28) were excluded, leading to a ﬁnal cohort with 117,050
+participants included for analysis.
+
+Consistent with previous studies [15 18], covariates for the analysis of incident PD included age at baseline assessment (continuous),
+sex (male/female), ethnicity (Caucasian and non-Caucasian), the
+Townsend deprivation index (continuous), smoking (current smoker,
+past smoker, and never), alcohol consumption (current and past/
+never drinker), obesity (yes/no), physical activity (above moderate/
+vigorous/walking recommendation, and not), history of stroke (yes/
+no), history of diabete mellitus (yes/no), history of hypertension (yes/
+no), the use of psychotropic medications (yes/no), cognitive
+impairment (yes/no) and depression (yes/no).
+Obesity was deﬁned as body mass index (BMI) 30 kg/m2. History
+of diabete mellitus was deﬁned to include participants with either
+doctor-diagnosed diabetes, insulin treatment or oral antidiabetic
+medications. History of hypertension was deﬁned to include participants with either doctor-diagnosed hypertension, antihypertensive
+agents or measured systolic pressure 130 mmHg or diastolic pressure 80 mmHg. The previous use of anti-depressive, anti-migraine
+and axiolytic medications was deﬁned as the use of psychotropic
+medications. Cognitive impairment was deﬁned by four cognitive
+tests in the UK Bionbank including prospective memory, pairs matching, ﬂuid intelligence/reasoning, and reaction time. The failure of
+tests criteria were consistent with a previous study [19]. We deﬁned
+cognitive impairment as failure in at least one test. Depression was
+
+
+[page 3]
+Z. Zhu et al. / EClinicalMedicine 42 (2021) 101189
+
+3
+
+deﬁned by either a history of depression or with a Patient Health
+Questionnaire-2 (PHQ-2) score 3.
+
+considered statistically signiﬁcant. All tests were conducted using Stata
+version 13 (Stata Corp LLC, College Station, Texas USA).
+
+4. Statistical analysis
+
+5. Data availability statement
+
+We reported normally distributed variables as means and standard deviation (SD); skewed variables as median and interquartile
+range (IQR), and categorical variables as number and percentages.
+Unpaired t-test and Pearson’s x2 test were used to compare continuous and categorical variables, respectively. The log-rank test was
+used for comparison of incident PD distributions between VI and
+non-VI groups. The risks of incident PD associated with VI were evaluated using Cox proportional hazards models for estimation of hazard ratio (HR) with 95% conﬁdence interval (CI). The ﬁrst model was
+adjusted for age, gender and ethnicity, and the multivariable adjusted model was additionally adjusted for Townsend deprivation
+index, smoking status, drinking status, obesity, physical activity, history of stroke, history of diabetes, history of hypertension, psychotropic medications and cognitive impairment.
+To exclude the possibility that some patients with depression were
+not on an anti-depressive treatment, we performed a sensitivity analysis
+to additionally adjust for depression. To minimize the possibility of
+including prevalent cases in the present analysis, a sensitivity analysis
+was performed to exclude PD cases diagnosed in the year immediately
+following baseline assessment. Schoenfeld residuals were used to test
+the proportional hazards assumptions for Cox models and all variables
+were found to be valid. Two-sided p values less than 0¢05 were
+
+The UK Biobank is an open-access resource to researchers through
+registration of proposed research. This present study was approved
+and registered as study 62443 with the UK Biobank resource.
+6. Role of funding
+The funder was not involved in study design, data collection, data
+analysis, data interpretation, the writing this article or the decision to
+publish.
+7. Findings
+A total of 117,050 participants (mean [SD] age: 56¢8 [8¢11] years;
+female: 63,695 [54¢4%]) who were free of PD at the baseline assessment were included in this present analysis. Baseline characteristics
+of included participants are described in Table 1. A total of 4011
+(3¢43%) participants suffered from VI. The visually impaired participants tended to be older, of non-Caucasian ethnicity, more materially
+deprived, current smokers, non-drinkers, obese, with a history of
+stroke, diabetes and hypertension, and more likely to be cognitively
+impaired and depressed. There were no differences in other charateristics between the VI and non-VI group.
+
+Table 1
+Baseline characteristics of the study participants stratiﬁed by visual impairment status.
+Baseline Characteristics
+
+Total
+
+Non-VI Group
+
+VI Group
+
+n
+Age, mean (SD), yrs
+Gender, n (%)
+Female
+Male
+Ethnicity, n (%)
+White
+Other
+Townsend deprivation index, mean (SD)
+Smoking status, n (%)
+Never
+Former
+Current
+Drinking status, n (%)
+Never
+Former/current
+Obesity, n (%)
+No
+Yes
+Physical Activity
+Not meeting recommendation
+Above moderate/vigorous/walking recommendation
+History of stroke, n (%)
+No
+Yes
+History of diabetes, n (%)
+No
+Yes
+History of hypertension, n (%)
+No
+Yes
+Psychotropic medications, n(%)
+No
+Yes
+Cognitive deﬁcit, n(%)
+No
+Yes
+Depression, n(%)
+No
+Yes
+
+117,050
+56¢8 (8¢11)
+
+113,039
+56¢8 (8¢12)
+
+4,011
+58¢8 (7¢57)
+
+63,695 (54¢4)
+53,355 (45¢6)
+
+61,484 (54¢4)
+51,555 (45¢6)
+
+2,211 (55¢1)
+1,800 (44¢9)
+
+104,128 (89¢0)
+12,922 (11¢0)
+0¢93 (3¢01)
+
+100,829 (89¢2)
+12,210 (10¢8)
+0¢96 (3¢00)
+
+3,299 (82¢3)
+712 (17¢7)
+0¢12 (3¢33)
+
+64,503 (55¢5)
+40,014 (34¢4)
+11,744 (10¢1)
+
+62,314 (55¢5)
+38,750 (34¢5)
+11,252 (10¢0)
+
+2,189 (55¢5)
+1,264 (32¢0)
+492 (12¢5)
+
+6,215 (5¢33)
+110,352 (94¢7)
+
+5,877 (5¢22)
+106,731 (94¢8)
+
+338 (8¢54)
+3,621 (91¢5)
+
+87,747 (75¢4)
+28,640 (24¢6)
+
+84,859 (75¢5)
+27,576 (24¢5)
+
+2,888 (73¢1)
+1,064 (26¢9)
+
+16,831 (17¢7)
+78,195 (82¢3)
+
+16,259 (17¢7)
+75,642 (82¢3)
+
+572 (18¢3)
+2,553 (81¢7)
+
+115,275 (98¢5)
+1,775 (1¢52)
+
+111,368 (98¢5)
+1,671 (1¢48)
+
+3,907 (97¢4)
+104 (2¢59)
+
+109,222 (93¢3)
+7,828 (6¢69)
+
+105,589 (93¢4)
+7,450 (6¢59)
+
+3,633 (90¢6)
+378 (9¢42)
+
+29,940 (25¢6)
+87,110 (74¢4)
+
+29,113 (25¢8)
+83,926 (74¢2)
+
+827 (20¢6)
+3,184 (79¢4)
+
+107,982 (92¢3)
+9,068 (7¢75)
+
+104,314 (92¢3)
+8,725 (7¢72)
+
+3668 (91¢5)
+343 (8¢55)
+
+80,603 (69¢0)
+36,201 (31¢0)
+
+78,316 (69¢4)
+34,501 (30¢6)
+
+2287 (57¢4)
+1700 (42¢6)
+
+105,070 (89.8)
+11,980 (10.2)
+
+101,570 (89.9)
+11,469 (10.1)
+
+3500 (87.3)
+511 (12.7)
+
+SD = standard deviation; VI = visual impairment.
+
+P value
+<0¢001
+0¢361
+
+<0¢001
+
+<0¢001
+<0¢001
+
+<0¢001
+
+0¢001
+
+0¢378
+
+<0¢001
+
+<0¢001
+
+<0¢001
+
+0¢052
+
+<0¢001
+
+<0¢001
+
+
+[page 4]
+4
+
+Z. Zhu et al. / EClinicalMedicine 42 (2021) 101189
+
+During the median follow up period of 5¢96 (IQR: 5¢77 6¢23)
+years, a total of 222 cases of PD were recorded. The incidence of PD in
+all participants was 0¢19%, with 16 (7¢21%) being in the VI group and
+206 (92¢8%) being in the non-VI group, respectively. The log-rank test
+demonstrated a signiﬁcant difference in the incidence of PD between
+the VI and non-VI groups (p < 0¢001). Baseline characteristics stratiﬁed by the incidence of PD are shown in Table 2. The incident PD
+group consisted of a greater proportion of participants that were of
+older age, male gender, former/current smokers, less physically
+active, with a history of hypertension, use of psychotropic medications, and cognitively impaired at the baseline assessment compared
+to the non-PD group.
+The risks of developing PD for participants with and without VI
+based on Cox proportional hazard regression models are shown in
+Table 3. After adjusting for age, gender and ethnicity, the presence of
+VI was signiﬁcantly associated with a higher risk of developing PD
+(HR=2¢13, 95% CI: 1¢27 3¢56, p = 0¢004). The multivariable Cox proportional hazard regression model indicated that VI was associated
+with a 2¢28-fold higher risk of developing subsequent PD (95% CI:
+1¢29 4¢05, p = 0¢005). Similar ﬁndings were observed in the sensitivity analyses which additionally adjusted for depression (HR=2¢28,
+95% CI: 1¢29 4¢04, p = 0.005, Table 3) and excluded participants with
+PD cases diagnosed in the year immediately following baseline
+assessment (HR=1¢93, 95% CI: 1¢07 3¢48, p = 0¢030, Table 3).
+
+Table 2
+Baseline characteristics stratiﬁed by incident parkinson disease.
+Baseline Characteristics
+
+Non-PD Group
+
+PD Group
+
+N
+Age, mean (SD), yrs
+Gender, n (%)
+Female
+Male
+Ethnicity, n (%)
+White
+Others
+Townsend deprivation index,
+mean (SD)
+Smoking status, n (%)
+Never
+Former
+Current
+Drinking status, n (%)
+Never
+Former/current
+Obesity, n (%)
+No
+Yes
+Physical Activity
+Not meeting recommendation
+Above moderate/vigorous/
+walking¢ recommendation
+History of stroke, n (%)
+No
+Yes
+History of diabetes, n (%)
+No
+Yes
+History of hypertension, n (%)
+No
+Yes
+Psychotropic medications, n(%)
+No
+Yes
+Cognitive impairment, n(%)
+No
+Yes
+Depression, n(%)
+No
+Yes
+
+116,828
+56¢8 (8¢11)
+
+222
+63¢2 (5¢42)
+
+63,608 (54¢5)
+53,220 (45¢5)
+
+87 (39¢2)
+135 (60¢8)
+
+103,927 (89¢0)
+12,901 (11¢0)
+0¢93 (3¢01)
+
+201 (90¢5)
+21 (9¢46)
+1¢16 (2¢89)
+
+64,389 (55¢5)
+39,919 (34¢4)
+11,731 (10¢1)
+
+114 (51¢4)
+95 (42¢8)
+13 (5¢86)
+
+6,198 (5¢33)
+110,147 (94¢7)
+
+17 (7¢66)
+205 (92¢3)
+
+87,591 (75¢4)
+28,577 (24¢6)
+
+156 (71¢2)
+63 (28¢8)
+
+16,786 (17¢7)
+78,063 (82¢3)
+
+45 (25¢4)
+132 (74¢6)
+
+115,058 (98¢5)
+1,770 (1¢52)
+
+217 (97¢8)
+5 (2¢25)
+
+109,022 (93¢3)
+7,806 (6¢68)
+
+200 (90¢1)
+22 (9¢91)
+
+29,898 (25¢6)
+86,930 (74¢4)
+
+42 (18¢9)
+180 (81¢1)
+
+107,798 (92¢3)
+9,030 (7¢73)
+
+184 (82¢9)
+38 (17¢1)
+
+80,470 (69¢0)
+36,112 (31¢0)
+
+133 (59¢9)
+89 (40¢1)
+
+104,877 (89¢8)
+11,951 (10¢2)
+
+193 (86¢9)
+29 (13¢1)
+
+P value
+<0¢001
+<0¢001
+
+0¢452
+
+0¢258
+0¢010
+
+0¢123
+
+0¢153
+
+0¢007
+
+0¢369
+
+0¢054
+
+0¢023
+
+<0¢001
+
+0¢003
+
+0¢164
+
+SD = standard deviation; PD = Parkinson’s disease.
+
+8. Discussion
+In this large community-based sample, we found that visually
+impaired individuals had a 2¢28 times greater risk of developing PD
+compared to those who did not have any VI. Our ﬁndings suggest
+that VI may represent a prodromal feature of PD.
+The present study provided additional evidence to the limited
+knowledge on the longitudinal association between VI and PD. Our
+ﬁndings were in consistency with a recent longitudinal study in the
+Korean population, which found individuals with low VA had
+26.7 35.7% increased risk of developing PD in the future [20]. In
+cross-sectional studies, it is well established that VI is more common
+in PD compared to healthy controls. In a cross-sectional study of the
+European population, PD patients had a greater than double increase
+in the odds of having self-reported fair or poor eyesight [10]. Worse
+results of objectively measured VA was also identiﬁed in PD patients
+by Polo et al. [8]. In addition, a case-control study suggested that
+patients with mild to moderate PD had poorer performance in terms
+of both near and far VA, which was correlated with worse cognitive
+function as well [7], indicating that VI was also implicated in cognitive deterioration of PD.
+Of note, there have been numerous studies reporting the association between VI and dementia, another important neurodegenerative
+disease [21 26]. Longitudinal studies with follow-up periods ranging
+from 3.8 to 14.5 years suggested that visually impaired individuals
+are at a higher risk of developing dementia [22 24,26]. In a recent
+meta-analysis of 14 prospective studies, visually impaired individuals
+had an accumulatively 47% increased risk of developing incident
+dementia [22].
+Given the consistent evidence on associations of VI and neurodegenerative diseases, we could reasonably speculate a neurodegeneration process occurs in the eye as it does in the brain, which could
+explain the association. Phenotypically, reduced macular thickness
+and volume were observed in patients with PD and these measures
+strongly associated with visual parameters including VA [8]. Biologically, the ‘bottom-up theory’ and the ‘top-down theory’ could provide
+plausible explanations. The ‘bottom-up theory’ postulated that
+impairment of the retinal dopaminergic system might explain VI in
+PD [27]. Both animal and clinical studies had suggested that dopaminergic retinal cell loss was commonly seen in PD [28 31]. Further,
+aggregates of a-synuclein in the retina that mimiced the pathological
+process of PD, had been reported to cause neurodegeneration of the
+dopaminergic cells in the retina [32]. The ‘top-down theory’ might
+explain VI observed in PD. Support for this hypothesis came from evidence which demonstrated speciﬁc dysfunctions of the visual cortex
+in PD [33]. The depletion of neurotransmitters such as GABA and
+dopamine, as well as altered lipid metabolism in the visual cortex of
+PD patients, could account for VI [34 36]. Alternatively, shared elements in the development of visual-threatening eye diseases and PD
+could account for the association between VI and PD [37]. Previous
+studies found that ocular diseases, such as glaucoma, cataract, age related macular degeneration and diabetic retinopathy [38 40],
+shared similar pathogenesis [41,42], risk factors [27,43] and proteomics proﬁles [44] with PD. Further studies are warranted to conﬁrm
+these speculations.
+Our ﬁndings have an important implication for research and public health policy. In the present study, VI was identiﬁed as a potential
+risk factor of incident PD, suggesting that visual screening should be
+implemented in patients at a high risk of developing PD. In addition,
+the beneﬁts of the VA screening may be expanded beyond its current
+scope in the prevention of sight-threatening disease.
+The strengths of the present study include its large sample size,
+long-term follow-up duration, and comprehensive adjustments for
+confounding factors. However, several limitations should be considered. Firstly, the present analysis was solely based on baseline VA.
+Further studies are needed to examine the impact of vision loss and/
+
+
+[page 5]
+Z. Zhu et al. / EClinicalMedicine 42 (2021) 101189
+
+5
+
+Table 3
+Cox Proportional hazards models for incident parkinson disease by visual impairment status.
+VI Status
+
+Multivariable Model a
+
+Age-, Gender- and Ethnicity-Adjusted Model
+HR (95% CI)
+
+Main analysis
+VI status
+None
+1 [Reference]
+VI
+2¢13 (1¢27 3¢56)
+Sensitivity analysis Ib
+VI status
+None
+VI
+Sensitivity analysis IIc
+VI status
+None
+1 [Reference]
+VI
+1¢79 (1¢05 3¢03)
+
+P-value
+
+HR (95% CI)
+
+P-value
+
+0¢004
+
+1 [Reference]
+2¢28 (1¢29 4¢05)
+
+0¢005
+
+1 [Reference]
+2.28 (1¢29 4¢04)
+
+0¢005
+
+1 [Reference]
+1¢93 (1¢07 3¢48)
+
+0¢030
+
+0¢031
+
+VI = visual impairment; PD = Parkinson’s disease; HR = hazard ratio; CI = conﬁdence interval.
+a
+Cox proportional hazards regression models adjusted for age, gender, race/ethnicity, Townsend deprivation index, smoking status, drinking status, obesity, physical activity, history of
+stroke, history of diabetes, history of hypertension, psychotropic medications and cognitive
+impairment.
+b
+Cox proportional hazards regression models adjusted for age, gender, race/ethnicity, Townsend deprivation index, smoking status, drinking status, obesity, physical activity, history of
+stroke, history of diabetes, history of hypertension, psychotropic medications, cognitive
+impairment and depression.
+c
+Excluding incident PD diagnosed in the year immediately following baseline assessment.
+
+or other aspects of visual dysfunction on future risk of PD. Secondly,
+we did not have sufﬁcient information to differentiate between
+causes of VI, thus preventing us from investigating associations
+between speciﬁc causes of VI and the risk of developing PD. Thirdly,
+due to the nature of an observational study, the causal relationship
+between VI and incident PD cannot be conﬁrmed. Fourth, the UK Biobank participants were relatively younger and might not represent
+the whole population. Nevertheless, this would not affect the association between VI and incident PD [45]. Lastly, we could not completely
+exclude the possibility of residual confounding.
+In summary, we found that VI was associated with a signiﬁcantly
+increased risk of developing PD. Our ﬁndings highlighted the importance of vision screening in identifying individuals at high risk of
+developing PD. Further studies in a distinct population are needed to
+corroborate our ﬁndings, and the causal nature of VI and PD.
+
+Author contributions
+Study concept and design: Zhu ZT, Hu WY, Liao H, He MG, Yang
+XH.
+Access to raw data: Zhu ZT, Wang W, Shi DL.
+Acquisition, analysis, or interpretation: All authors.
+Drafting of the manuscript: Zhu ZT, Hu WY, Liao H.
+Critical revision of the manuscript for important intellectual content: Tan Z, Chen YF, Shi DL, Wang W, He MG, Yang XH.
+Statistical analysis: Zhu ZT, Wang W, Shi DL.
+Obtained funding: He MG, Yang XH.
+Administrative, technical, or material support: Zhu ZT, Shang XW,
+Wang W, He MG, Yang XH.
+Study supervision: Wang W, He MG, Yang XH.
+Declaration of Competing Interest
+
+Data sharing statement
+All statistical outputs in the present study are included in the
+main text or the supplementary ﬁles. Further enquiries could be sent
+to the corresponding author.
+Funding
+The present work was supported by the NHMRC Investigator
+Grant (APP1175405), Fundamental Research Funds of the State Key
+Laboratory of Ophthalmology, National Natural Science Foundation
+of China (82000901, 82101173, 81870663, 82171075), Outstanding
+Young Talent Trainee Program of Guangdong Provincial People’s Hospital (KJ012019087), Guangdong Provincial People’s Hospital Scientiﬁc Research Funds for Leading Medical Talents and Distinguished
+Young Scholars in Guangdong Province (KJ012019457), Talent Introduction Fund of Guangdong Provincial People’s Hospital
+(Y012018145), Science and Technology Program of Guangzhou, China
+(202002020049), Project of Special Research on Cardiovascular Diseases (2020XXG007), and Research Foundation of Medical Science
+and Technology of Guangdong Province (B2021237). Prof. Mingguang
+He receives support from the University of Melbourne at Research
+Accelerator Program and the CERA Foundation. The Centre for Eye
+Research Australia receives Operational Infrastructure Support from
+the Victorian State Government.
+
+The author(s) have no potential conﬂicts of interest in any materials discussed in this article.
+Supplementary materials
+Supplementary material associated with this article can be found
+in the online version at doi:10.1016/j.eclinm.2021.101189.
+References
+[1] Wirdefeldt K, Adami HO, Cole P, Trichopoulos D, Mandel J. Epidemiology and etiology of Parkinson's disease: a review of the evidence. Eur J Epidemiol 2011;26
+(Suppl 1):S1–58.
+[2] Kalia LV, Lang AE. Parkinson's disease. Lancet 2015;386(9996):896–912.
+[3] GBDPsD Collaborators. Global, regional, and national burden of Parkinson's disease, 1990-2016: a systematic analysis for the Global Burden of Disease Study
+2016. Lancet Neurol 2018;17(11):939–53.
+[4] Poewe W, Seppi K, Tanner CM, et al. Parkinson disease. Nat Rev Dis Prim
+2017;3:17013.
+[5] Ross GW, Petrovitch H, Abbott RD, et al. Association of olfactory dysfunction with
+risk for future Parkinson's disease. Ann Neurol 2008;63(2):167–73.
+[6] Armstrong RA. Oculo-visual dysfunction in Parkinson's disease. J Parkinsons Dis
+2015;5(4):715–26.
+[7] Uc EY, Rizzo M, Anderson SW, Qian S, Rodnitzky RL, Dawson JD. Visual dysfunction in Parkinson disease without dementia. Neurology 2005;65(12):1907–13.
+[8] Polo V, Satue M, Rodrigo MJ, et al. Visual dysfunction and its correlation with retinal changes in patients with Parkinson's disease: an observational cross-sectional
+study. BMJ Open 2016;6(5):e009658.
+
+
+[page 6]
+6
+
+Z. Zhu et al. / EClinicalMedicine 42 (2021) 101189
+
+[9] Ming W, Palidis DJ, Spering M, McKeown MJ. Visual contrast sensitivity in early stage Parkinson's disease. Invest Ophthalmol Vis Sci 2016;57(13):5696–704.
+[10] Hamedani AG, Willis AW. Self-reported visual dysfunction in Parkinson disease:
+the survey of health, ageing and retirement in Europe. Eur J Neurol 2020;27
+(3):484–9.
+[11] Nirmalan PK, John RK, Gothwal VK, et al. The impact of visual impairment on
+functional vision of children in rural South India: the Kariapatti Pediatric Eye
+Evaluation Project. Invest Ophthalmol Vis Sci 2004;45(10):3442–5.
+[12] Sudlow C, Gallacher J, Allen N, et al. UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. PLoS
+Med 2015;12(3):e1001779.
+[13] Chua SYL, Thomas D, Allen N, et al. Cohort proﬁle: design and methods in the eye
+and vision consortium of UK Biobank. BMJ Open 2019;9(2):e025077.
+[14] Kathryn Bush KR, Tim Wilkinson, Christian Schnier and Cathie Sudlow on behalf of
+UK biobank outcome adjudication group. deﬁnitions of Parkinson’s disease and the
+major causes of Parkinsonism, UK Biobank phase 1 outcomes adjudication. 2018.
+[15] Qiu C, Hu G, Kivipelto M, et al. Association of blood pressure and hypertension
+with the risk of Parkinson disease: the National FINRISK study. Hypertension
+2011;57(6):1094–100.
+[16] Xu Q, Park Y, Huang X, et al. Diabetes and risk of Parkinson's disease. Diabetes
+Care 2011;34(4):910–5.
+[17] Kizza J, Lewington S, Mappin-Kasirer B, et al. Cardiovascular risk factors and Parkinson's disease in 500,000 Chinese adults. Ann Clin Transl Neurol 2019;6(4):624–32.
+[18] Egeberg A, Hansen PR, Gislason GH, Thyssen JP. Exploring the association
+between Rosacea and Parkinson Disease: a Danish nationwide cohort study.
+JAMA Neurol 2016;73(5):529–34.
+[19] Ko F, Muthy ZA, Gallacher J, et al. Association of retinal nerve ﬁber layer thinning
+with current and future cognitive decline a study using optical coherence tomography. JAMA Neurol 2018;75(10):1198–205.
+[20] Han G, Han J, Han K, Youn J, Chung TY, Lim DH. Visual acuity and development of
+Parkinson's disease: a nationwide cohort study. Mov Disord 2020;35(9):1532–41.
+[21] Luo Y, He P, Guo C, Chen G, Li N, Zheng X. Association between sensory
+impairment and dementia in older adults: evidence from China. J Am Geriatr Soc
+2018;66(3):480–6.
+[22] Shang X, Zhu Z, Wang W, Ha J, He M. The association between vision impairment
+and incidence of dementia and cognitive impairment: a systematic review and
+meta-analysis. Ophthalmology 2021;128(8):1135–49.
+[23] Zhu Z, Shi D, Liao H, et al. Visual impairment and risk of dementia: the UK biobank
+study. Am J Ophthalmol 2021 S0002-9394(21)00423-2.
+[24] Tran EM, Stefanick ML, Henderson VW, et al. Association of visual impairment
+with risk of incident dementia in a women's health initiative population. JAMA
+Ophthalmol 2020;138(6):624–33.
+[25] Chen SP, Azad AD, Pershing S. Bidirectional association between visual
+impairment and dementia among older adults in the united states over time.
+Ophthalmology 2021;128(9):1276–83.
+[26] Davies-Kershaw HR, Hackett RA, Cadar D, Herbert A, Orrell M, Steptoe A. Vision
+impairment and risk of dementia: ﬁndings from the english longitudinal study of
+ageing. J Am Geriatr Soc 2018;66(9):1823–9.
+
+[27] Guo L, Normando EM, Shah PA, De Groef L, Cordeiro MF. Oculo-visual abnormalities in Parkinson's disease: possible value as biomarkers. Mov Disord 2018;33
+(9):1390–406.
+[28] Nguyen-Legros J. Functional neuroarchitecture of the retina: hypothesis on the
+dysfunction of retinal dopaminergic circuitry in Parkinson's disease. Surg Radiol
+Anat 1988;10(2):137–44.
+[29] Harnois C, Di Paolo T. Decreased dopamine in the retinas of patients with Parkinson's disease. Invest Ophthalmol Vis Sci 1990;31(11):2473–5.
+[30] Biehlmaier O, Alam M, Schmidt WJ. A rat model of Parkinsonism shows depletion
+of dopamine in the retina. Neurochem Int 2007;50(1):189–95.
+[31] Ortuno-Lizaran I, Sanchez-Saez X, Lax P, et al. Dopaminergic retinal cell loss and
+visual dysfunction in Parkinson disease. Ann Neurol 2020;88(5):893–906.
+[32] Marrocco E, Indrieri A, Esposito F, et al. alpha-synuclein overexpression in the retina leads to vision impairment and degeneration of dopaminergic amacrine cells.
+Sci Rep 2020;10(1):9619.
+[33] Weil RS, Schrag AE, Warren JD, Crutch SJ, Lees AJ, Morris HR. Visual dysfunction in
+Parkinson's disease. Brain 2016;139(11):2827–43.
+[34] Firbank MJ, Parikh J, Murphy N, et al. Reduced occipital GABA in Parkinson disease
+with visual hallucinations. Neurology 2018;91(7):e675–e85.
+[35] Armstrong RA. Visual dysfunction in Parkinson's disease. Int Rev Neurobiol
+2017;134:921–46.
+[36] Cheng D, Jenner AM, Shui G, et al. Lipid pathway alterations in Parkinson's disease
+primary visual cortex. PLoS ONE 2011;6(2):e17299.
+[37] Ekker MS, Janssen S, Seppi K, et al. Ocular and visual disorders in Parkinson's disease: common but frequently overlooked. Parkinsonism Relat Disord 2017;40:1–
+10.
+[38] Jonas JB, Aung T, Bourne RR, Bron AM, Ritch R, Panda-Jonas S. Glaucoma. Lancet
+2017;390(10108):2183–93.
+[39] Zhao J, Xu X, Ellwein LB, et al. Causes of visual impairment and blindness in the
+2006 and 2014 nine-province surveys in rural China. Am J Ophthalmol
+2019;197:80–7.
+[40] Khan A, Petropoulos IN, Ponirakis G, Malik RA. Visual complications in diabetes
+mellitus: beyond retinopathy. Diabet Med 2017;34(4):478–84.
+[41] Ramirez AI, de Hoz R, Salobrar-Garcia E, et al. The role of Microglia in retinal neurodegeneration: Alzheimer's disease, parkinson, and glaucoma. Front Aging Neurosci 2017;9:214.
+[42] Brennan LA, Kantorow M. Mitochondrial function and redox control in the aging
+eye: role of MsrA and other repair systems in cataract and macular degenerations.
+Exp Eye Res 2009;88(2):195–203.
+[43] Zheng F, Yu M, Leung CK. Diagnostic criteria for detection of retinal nerve ﬁbre
+layer thickness and neuroretinal rim width abnormalities in glaucoma. Br J Ophthalmol 2020;104(2):270–5.
+[44] Sundstrom JM, Hernandez C, Weber SR, et al. Proteomic analysis of early diabetic
+retinopathy reveals mediators of neurodegenerative brain diseases. Invest Ophthalmol Vis Sci 2018;59(6):2264–74.
+[45] Fry A, Littlejohns TJ, Sudlow C, et al. Comparison of sociodemographic and health related characteristics of UK biobank participants with those of the general population. Am J Epidemiol 2017;186(9):1026–34.
+

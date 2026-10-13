@@ -1,0 +1,1303 @@
+[page 1]
+Applied Ergonomics 44 (2013) 523e531
+
+Contents lists available at SciVerse ScienceDirect
+
+Applied Ergonomics
+journal homepage: www.elsevier.com/locate/apergo
+
+Quantifying age-related differences in visual-discrimination capacity: Drivers
+with and without visual impairment
+Carolina Ortiz*, José J. Castro, Aixa Alarcón, Margarita Soler, Rosario G. Anera
+Department of Optics, Laboratory of Vision Sciences and Applications, University of Granada, Ediﬁcio Mecenas, Av. Fuentenueva s/n, Granada 18071, Spain
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 19 January 2012
+Accepted 13 November 2012
+
+The aim of this study is to examine the effects of aging as well as visual impairment on retinal-image
+quality and visual performance in drivers. We use a new visual test called Halo v1.0 software for
+quantifying the discrimination capacity, an important visual function for evaluating the visual disturbances perceived by the observer. The study included 55 subjects with normal vision and 15 older
+subjects with cataracts. All subjects were examined for visual acuity, contrast sensitivity, visual discrimination capacity and optical quality. Subjects also completed a subjective Driving Habits Questionnaire (DHQ). Older drivers with and without visual impairment showed signiﬁcantly (p < 0.05)
+worse visual performance and deteriorated retinal-image quality, even when their binocular visual
+acuity was 20/25. In conclusion, some visual functions are considerably diminished in older drivers,
+even when visual acuity is sufﬁcient to get or renew a driver’s license. Halo software enables easy
+quantiﬁcation of night-vision disturbances such as halos, which could impede the detection of pedestrians, cyclists, or trafﬁc signals, thereby making this system advisable in clinical practice, e.g. in the
+requirements for a driver’s license, particularly for older drivers.
+Ó 2012 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+
+Keywords:
+Safety driving
+Cataract
+Visual-discrimination capacity
+
+1. Introduction
+The quality of retinal images is affected by such defects as
+aberrations and scattering, caused by the ocular characteristics
+themselves or by different pathologies. With age, changes arise in
+the different eye structures, and the loss of transparency causes
+a physiological increase in ocular scattering, mainly at the level of
+the lens, although the cornea and the vitreous humour also
+contribute to this condition to a certain degree (Pierscionek, 1996).
+When the loss of lens transparency worsens, it can trigger the
+formation of cataracts. Cataracts are the major cause of blindness
+and visual impairment in developing countries (Rao et al., 2011). A
+study in the United States showed that cataracts constitute the
+leading cause of bilateral vision worse than 20/40 among white,
+black and Hispanic persons (Congdon et al., 2004). Cataracts are
+frequently present in drivers over 65 years of age (Nischler et al.,
+2010). This visual pathology diminishes visual acuity and contrast
+sensitivity (Babizhayev, 2003; Mäntyjärvi and Tuppurainen, 1999).
+In driving, decreased contrast sensitivity lowers the discrimination
+capacity in such a way that pedestrians, cyclists and trafﬁc signs
+
+* Corresponding author. Tel.: þ34 958 24 40 67; fax: þ34 958 24 85 33.
+E-mail address: ortizh@ugr.es (C. Ortiz).
+
+could go undetected by the driver, particularly at dusk or under
+unfavourable meteorological conditions such as fog, rain, or snowfall. This can compromise trafﬁc safety in older drivers affected with
+cataracts (Babizhayev, 2003; Owsley et al., 1999).
+It has been suggested that the older drivers with and without
+visual impairment were signiﬁcantly less safe than the younger and
+middle-aged drivers (Babizhayev, 2003; Owsley et al., 1999; Ryan
+et al., 1998; Wood and Mallon, 2001). As the number of elderly is
+increasing, the number of older drivers will also rise in the coming
+years.
+Often, persons with some visual pathology or deterioration
+manage to get a driver’s license if their binocular vision is 20/40 or
+better. The test most frequently used in the clinic to predict visual
+function is the measurement of visual acuity; however, in visual
+functions, there are other factors that can affect trafﬁc safety, such
+as contrast sensitivity, dark adaptation, colour vision, glare sensitivity, and visual ﬁeld (Mäntyjärvi and Tuppurainen, 1999;
+Mäntyjärvi et al., 1999; Rogé and Pébayle, 2009; Van Rijn et al.,
+2011). It has been recommended that a contrast-sensitivity test
+be added for driver’s license testing in older people (Decina and
+Staplin, 1993). However, psychophysical tests are time consuming
+and constitute a difﬁcult task for older people. On the other hand,
+the use of questionnaires has serious limitations because the
+subjects may fail to reveal the magnitude of their problem. For
+these reasons, we consider it important to include standardized
+
+0003-6870/$ e see front matter Ó 2012 Elsevier Ltd and The Ergonomics Society. All rights reserved.
+http://dx.doi.org/10.1016/j.apergo.2012.11.006
+
+
+[page 2]
+524
+
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+
+tests in clinical practice that quickly and reliably characterize the
+critical aspects of vision needed in trafﬁc in order to determine
+whether a person fulﬁls the requisites to get or renew a driver’s
+license, particularly for older drivers.
+The aim of this study was to examine the way in which the
+normal aging process, as well as eye disease such as cataracts, affect
+optical quality and visual performance in younger and older drivers
+(with and without visual impairment), and to ﬁnd out whether
+other visual functions, apart from visual acuity, should be taken into
+account in the issuing of a driver’s license. We use a new visual test
+for quantifying visual-discrimination capacity (Castro et al., 2011),
+this being an important visual function for quantifying the visual
+disturbances, such as halos, that affect visual performance
+(Gutiérrez et al., 2003; Jiménez et al., 2006; Villa et al., 2007) and
+could hamper tasks such as night driving, especially in older
+drivers.
+2. Methods
+2.1. Participants
+A total of 70 participants were recruited for this study. Of these,
+55 subjects without any ocular disease and having best-corrected
+visual acuity equal to or better than 20/20 in both eyes were
+divided into three age categories: groups of 20 younger (19e29
+years old, mean age 24.7  2.6 years, standard deviation
+included); 20 middle-aged (30e59 years old, mean age 44.1  7.7
+years); and 15 older subjects (>60 years old, mean age 68.5  4.4
+years). Also included were 15 subjects older than 60 years of age
+and with a clinically relevant cataract in at least one eye (>60 years
+old, mean age 71.4  5.0 years) with binocular visual acuity equal to
+or better than 20/25. The cataract was classiﬁed as nuclear in 13
+subjects (26 eyes) and posterior subcapsular in 2 subjects (4 eyes).
+Each cataract subject was classiﬁed according to the degree of
+nuclear opaciﬁcation (NO), nuclear colour (NC), and posterior
+subcapsular opaciﬁcation (P), by using the LOCSIII chart (Chylack
+et al., 1993). The 30 cataract eyes were classiﬁed as follows: 16
+eyes as grade 1 (NO1, NC1), 10 eyes as grade 2 (NO2, NC2), and 4
+eyes as P1. There were no signiﬁcant differences in age between the
+older subjects without any ocular diseases and those affected with
+cataracts.
+All participants were licensed drivers and reported that they
+drove regularly.
+The cataract group was diagnosed by the same ophthalmologist
+at the Adeslas S.A. Clinic of Granada (Spain). All participants in the
+study gave their informed consent in accordance with the Helsinki
+Declaration.
+2.2. Study design and procedures
+Snellen visual acuity was measured monocularly and binocularly for all participants with their best correction at a working
+distance of 6 m. The pupil diameter was measured with a Colvard
+pupillometer (OASIS, Glendora, CA, USA) to ensure that all patients
+during visual performance measurements (the contrast-sensitivity
+function and the discrimination capacity) reached a pupil diameter
+greater than 4 mm. The patients were examined binocularly for the
+visual performance (the contrast-sensitivity function and the
+discrimination capacity), because the binocular visual acuity
+required for a driver’s license is 20/40.
+To determine the optical quality, we took objective data from
+a visual-quality device, Optical Quality Analysis System (Visiometrics SL, Tarrasa, Spain), based on the double-pass technique
+(Díaz-Doutón et al., 2006; Güell et al., 2004). The following optical quality parameters were analysed: the cut-off frequency of the
+
+modulation transfer function (MTF), the Strehl ratio, and the
+objective scattering index (OSI).
+The participants also completed a subjective Driving Habits
+Questionnaire (DHQ), designed to compile information about their
+driving during the past year (Owsley et al., 1999). This questionnaire is frequently used in these types of studies (Babizhayev et al.,
+2009; Ball et al., 1998; McGwin et al., 2000).
+2.3. Contrast-sensitivity function
+The CSF test was administered with a B-VAT II device (Mentor
+O&O, Inc.) using the following spatial frequencies: 1.5, 2.4, 3.7, 6.0,
+9.2, 12.0, 15.0, 20.0, and 24.0 cycles per degree (cpd). The test was
+administered binocularly at 6 m corresponding to a visual angle of
+1.8 . The mean luminance for all the frequencies was within the
+mesopic range (in all cases 4 cd/m2), to simulate the conditions
+during night driving when visual performance is diminished.
+Sinusoidal gratings may be oriented vertically or 14 clockwise or
+anticlockwise from vertical and they are presented randomly, to
+prevent memorization.
+In each subject, the CSF was determined using the method of the
+limits (Anera et al., 2003; Jiménez et al., 2003, 2006) as follows: the
+subject, was asked to indicate the orientation of the grating from
+among 3 possibilities, beginning with the lowest spatial frequency
+and the highest contrast value available. This contrast value was
+reduced until the subject was unable to answer correctly. The
+procedure was repeated 3 times. The threshold contrast was the
+mean of the 3 contrasts perceived by the subject. Once the contrast
+threshold had been determined, the procedure was repeated using
+a larger spatial-frequency grating.
+CSF data were taken for all participants with their best correction for the distant visual acuity. Before the data were recorded,
+each observer underwent several training sessions to ensure the
+correct understanding of the test.
+2.4. Discrimination-capacity measurements
+For a complete evaluation of the visual performance, it is
+important to quantify the discrimination capacity, which is deteriorated in the presence of visual disturbances perceived by the
+observer, especially in subject diagnosed with an ocular pathology
+such as cataract. A deterioration in the discrimination capacity can
+affect certain tasks such as night-time driving, hampering visibility
+of pedestrians or the recognition of trafﬁc signals. To evaluate the
+discrimination capacity, we sought to quantify the visual disturbances perceived by the subject under low-illumination conditions.
+For this, we used a new visual test called Halo v1.0 software
+(Laboratory of Vision Sciences and Applications, University of Granada, Spain). The subject’s task consisted of discriminating luminous
+peripheral stimuli around a central high-luminance stimulus over
+a dark background. More information on this visual test can be
+found elsewhere (Castro et al., 2011). Halo software is freeware and,
+free of charge, can be downloaded from the laboratory webpage:
+http://www.ugr.es/wlabvisgr/.
+2.4.1. Measurement of visual-disturbance index
+After the test was ﬁnished, the visual-disturbance index was
+calculated as a ratio between non-detected stimuli and all the
+peripheral stimuli presented to the observer according to Eq. (1).
+This ratio takes into account the distance of each undetected
+peripheral stimulus to the main stimulus centre, adjusted for the
+times that the corresponding peripheral stimulus was not detected
+by the subject. The distance dependence is also present in the
+denominator, where all the peripheral stimuli are considered. The
+disturbance index is calculated by Eq. (1):
+
+
+[page 3]
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+
+rq ¼
+
+
+
+2
+N
+2
+pS
+SN
+p
+r
+r
+i¼1 i i
+i¼1 i
+
+
+
+(1)
+
+where ri is the distance (in pixels) from the centre of the central
+stimulus to the centre of the i-peripheral stimulus, considering
+a concrete semiaxis; N is the total number of peripheral stimuli; p is
+the total weight (number of times that each stimulus i is shown);
+and after being selected is the same for all the peripheral stimuli;
+and pi is the number of times over the total weight (pi  p) that the
+i-peripheral stimulus is not detected by the subject.
+The disturbance index takes values from 0 to 1. The greater value
+of this parameter indicates that there is a greater contribution of
+visual disturbances, such as glare, a veil of stray light over the
+retinal image, or visual halos around luminous stimuli, and therefore poorer discrimination capacity.
+In addition to the disturbance index, the Halo software generates a graph of results, showing areas where the peripheral stimuli
+were not detected by the observer and areas where the peripheral
+stimuli were detected totally or partially. In the graph, the central
+stimulus is shown as well as the number of times that each
+peripheral stimulus is detected by the observer (X for being
+undetected, or 1, 2, or 3 if detected one, two or three times,
+respectively), with respect the total weight (p ¼ 3). These values
+(X, 1, 2, or 3) are placed in the corresponding position where each
+peripheral stimulus was shown. This graph describes the shape of
+the visual disturbances perceived by the observer (halos, starbursts
+or glare), showing information about areas around a highluminance stimulus where the observer presents difﬁculties on
+detecting different luminous stimulus, and therefore giving
+complete information on the discrimination capacity.
+2.4.2. Experiment arrangement
+The discrimination capacity was assessed using an LCD-monitor
+with the resolution set at 1024  768 pixels. The distance from the
+observer to the monitor was 2.5 m and the test was performed
+binocularly, the normal state in driving. The size of the stimuli was
+30 pixels for the radius of the central stimulus and 1 pixel for the
+radius of the peripheral stimuli, subtending 0.46 and 0.02 ,
+respectively (conﬁguration 1). The luminance of the stimuli was
+measured with a spectroradiometer SpectraScan PR-650 (Photo
+Research, Incorporated, Chatsworth, CA, USA), being of 176.1 cd/m2
+for the main stimulus and 61.1 cd/m2 for the peripheral one, with the
+luminance for the background monitor of 0.71 cd/m2. The monitor
+showed 72 peripheral stimuli around the central one, distributed
+along 18 semiaxes (four stimuli per semiaxis) in order to evaluate
+a higher area around the central stimulus. The maximum radius of
+each semiaxis was 60 pixels (the most distant stimulus being
+60 pixels from the centre of the main stimulus). Conﬁguration 1 was
+used for both groups (control and cataracts). However, with the
+conﬁguration used, 6 cataract subjects with a greater visual deterioration found it difﬁcult to detect peripheral stimuli, failing to
+detect any of the stimuli presented. Therefore, for these 6 subjects,
+the results with this conﬁguration showed the maximum value for
+the disturbance index (disturbance index ¼ 1), thereby losing
+information in the discrimination capacity. To achieve an accurate
+disturbance index, we increased the size of the peripheral stimuli
+from 1 to 2 pixels, subtending 0.04 from the observer’s position
+(conﬁguration 2). In this case, the maximum radius was 70 pixels, to
+compensate for the increment in the peripheral stimuli size and to
+extend the region of the stimulus detection. The rest of the
+parameters were equal for all subjects. This conﬁguration agrees
+with spatial parameters used in other works (Castro et al. 2011;
+Gutiérrez et al., 2003; Jiménez et al., 2006).
+We used a weight of 3 (p ¼ 3), taking pi values of 0 (peripheral
+stimulus detected) or 1, 2, or 3 (stimulus not detected one, two, or
+
+525
+
+three times, respectively). Also, we used a weight of 3 to assess
+a higher level of accuracy. Therefore, the monitor showed a total of
+216 peripheral stimuli around the central one.
+The exposure time of each peripheral stimulus was 1 s, a value
+closer to the real night-driving situations where the subject must
+discriminate or distinguish lights or pedestrians. After the exposure
+of a peripheral stimulus, a time lapse between the stimuli (refresh)
+of 0.8e2 s was used. During this time, only the central spot was
+presented.
+To simulate night-driving situations such as the headlights of an
+oncoming car in which the subjects could indicate night-vision
+disturbances (glare or halos), the measurements were performed
+with the examining room dark and the minimum background
+luminance of the monitor to provide high contrast with the stimulus. The illuminance at the observer position with the halo test
+running was of 0.03 lux, measured with an illuminance meter T-10
+(Konica Minolta Sensing, Inc., NJ, USA).
+2.4.3. Test protocols
+Before the formal session began, an initial trial was executed to
+check the subject’s correct understanding of the test. The formal
+testing began after the observer’s position was ﬁxed in front of the
+monitor with a chin and forehead rest. A session was conducted as
+follows: after a 3-min adaptation period to darkness of the monitor
+background, there was 1-min adaptation to the main stimulus, and
+then the subject was randomly presented with peripheral stimuli
+around to the central stimulus, to avoid learning effects. The
+patient, on detecting peripheral spots, pressed a button on the
+mouse, storing this information for subsequent treatment and
+calculation of the disturbance index.
+2.5. Optical-quality measurements
+To determine the optical quality, we took objective data from an
+optical device based on the double-pass technique (Díaz-Doutón
+et al., 2006; Güell et al., 2004). The Optical Quality Analysis
+System [(OQAS), Visiometrics SL, Tarrasa, Spain], provides data on
+diffraction, ocular aberrations, and scattering that diminish the
+image clarity, reducing visual quality of the subject. This objective
+optical device is useful in patients having an ocular pathology such
+as cataract or in older patients for whom the inﬂuence of scattering
+could be great due to natural changes (mainly in the lens) caused by
+aging. Because of this, we found a worse retinal-image quality and
+a higher number of difﬁculties often encountered during driving
+(glare, signal recognition, and visibility of the pedestrians).
+2.5.1. The modulation transfer function cut-off frequency (MTF
+cut-off), Strehl ratio and objective scattering index (OSI)
+The MTF represents the loss of contrast produced by the eye’s
+optics on a sinusoidal grating as a function of its spatial frequency
+(Díaz-Doutón et al., 2006). We analysed the MTF cut-off for
+a complete evaluation of the ocular optical quality. Theoretically,
+this parameter represents the spatial frequency, in cycles per
+degree (cpd), corresponding to an MTF value of 0. However, due to
+the noise introduced by the CCD camera in the OQAS device, an
+MTF value of 0.01 is considered in order to determine the MTF cutoff. A higher value of the MTF cut-off indicates a better optical
+quality of the eye. On the other hand, we took the Strehl ratio,
+deﬁned as the ratio between the 2D-MTF area of the eye and the
+diffraction-limited 2D-MTF area. The Strehl ratio ranges from 0 to 1.
+A lower value of this parameter indicates a greater contribution of
+aberrations and ocular scattering and therefore poorer optical
+quality. Finally, we also took the OSI, the only parameter that
+permits the objective quantiﬁcation of the intraocular scattering.
+For younger eyes, the OSI value is lower than 0.5; for eyes with an
+
+
+[page 4]
+526
+
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+
+early cataract the OSI value ranges from 1.4 to 4 and, while for eyes
+with a cataract the value is higher to 4. More information on this
+device can be found elsewhere (e.g. Díaz-Doutón et al., 2006; Güell
+et al., 2004).
+2.5.2. Test protocols
+The data from the double-pass device were referred to a pupil
+size of 4 mm for all subjects and these data were taken with no
+dilation in order to maintain natural conditions. With the OQAS, we
+took at least 3 measurements in each eye for each parameter
+(the MTF cut-off, Strehl ratio and OSI) and averaged them. The
+measurements were made with the examining room dark.
+2.6. Assessing driving performance
+The Driving Habits Questionnaire (DHQ) was designed to gather
+information about driving during the past year (Owsley et al., 1999).
+Several items rate the degree of visual difﬁculty experienced in
+speciﬁc driving situations. Ratings were made on a 5-point scale
+(5 ¼ no difﬁculty, 4 ¼ a little difﬁculty, 3 ¼ moderate difﬁculty,
+2 ¼ extreme difﬁculty, 1 ¼ so difﬁcult that I no longer drive in that
+situation).
+2.7. Data analysis
+Statistical analysis was performed by Student’s t-test with
+p ¼ 0.05 taken as the upper limit of signiﬁcance. t-test was used to
+examine differences between two independents groups (older
+drivers with and without cataracts). For CSF, quantitative variables
+were compared using a bifactorial analysis of variance, with type of
+older driver (with and without cataracts) as the main factors. In
+addition to the bifactorial analysis, a post hoc comparison (the
+Bonferroni test, with a minimum level of signiﬁcance of 0.05) was
+made for each spatial frequency considered in order to compare
+means for the drivers individually. We also used an analysis of
+variance to test for differences between groups (younger, middle aged, and older) and parameters measured (disturbance index,
+Strehl ratio, OSI and MTF cut-off) as the dependent variables.
+3. Results
+3.1. Control group
+According to the retinal-image quality, we found a lower value
+of the Strehl ratio and a higher OSI as age increased (Table 1),
+indicating a worse retinal-image quality due to a combination of
+greater intraocular scattering, aberrations, and retinal reﬂection.
+The results show signiﬁcant differences in the Strehl ratio
+(p ¼ 0.009) and in the OSI (p ¼ 0.013) among the group of young
+subjects (19e29 years of age) and the group of more than 60 years
+of age. This deterioration was reﬂected in the MTF mean cut-off
+found for each group, which was signiﬁcantly lower (p < 0.05)
+for older drivers. For the discrimination capacity, we found similar
+results: a higher disturbance index with age (Table 1), this being
+statistically signiﬁcant between the younger group (19e29 years
+old) and the group older than 60 years of age (p ¼ 0.015). The higher
+disturbance index indicates a deteriorated discrimination capacity
+
+resulting from the many changes that occur within the lens with
+the age, such as increased intraocular scattering. As an example of
+this deterioration, Fig. 1 shows the graphs pertaining to the Halo
+software for three different drivers: a younger, a middle-aged, and
+an older subject. We can see that the older driver presents a greater
+number of undetected peripheral stimuli and a higher disturbance
+index (rq ¼ 0.10, rq ¼ 0.26, and rq ¼ 0.42 respectively). In addition,
+the ﬁgure reﬂects that, as the age of the driver increases, the
+number of undetected peripheral stimuli around the central stimulus increase, that is, the area corresponding to these undetected
+stimuli augments.
+Fig. 2 presents the results for binocular contrast-sensitivity
+function (as a function of the spatial frequencies considered) for
+the average of 20 younger, 20 middle-aged, and 15 older subjects
+without any ocular pathology (control group). This ﬁgure clearly
+reﬂects the deterioration in visual performance (lower contrast sensitivity function) for older subjects. An ANOVA shows that this
+deterioration in older subjects was signiﬁcant (p < 0.05) with
+respect younger and middle-aged groups for at least 5 spatial
+frequencies: 2.4; 3.7; 6.0; 12.0, and 15.0 cpd (Table 2).
+Table 3 indicates the results for each driving situation with
+respect to the age of the subject. We found less difﬁculty for the
+older group although there were no signiﬁcant differences except
+with regard to parallel parking between the younger and the older
+group (p ¼ 0.031). These differences could have arisen because the
+subjective questionnaire has serious limitations in the sense that
+subjects may fail to reveal the full magnitude of the problem or may
+not be aware of the vision loss until reaching an advanced state of
+visual deterioration, considering their way of driving to be normal
+and safe. For this reason, could be recommendable to examine
+others visual functions by implementing in clinical practice, quick,
+easy, and reliable tests that provide a complete evaluation of the
+visual performance. This would make the subject aware for any
+limitations and thereby increase safety in everyday tasks such as
+driving.
+3.2. Cataract group
+For older drivers (with and without cataracts), we examined the
+retinal-image quality. For subjects with cataracts, the Strehl ratio
+ranged from 0.04 to 0.25 with a mean value of 0.12  0.05 (standard
+deviation). In the case of older drivers without cataracts the mean
+was 0.17  0.05, indicating a signiﬁcantly lower value (p < 0.001) in
+the Strehl ratio for drivers affected with cataracts (Table 4).
+Regarding the OSI, drivers with cataracts registered a mean value of
+2.91  1.55 (ranging from 0.5 to 7.0) and 1.15  0.51 for older drivers
+without cataracts, the differences being signiﬁcantly higher for the
+cataract group (p < 0.001). The data reﬂect a clearly higher inﬂuence of aberrations and intraocular scattering for drivers affected
+with cataracts. We found a mean MTF cut-off of 18.56  10.86 cpd
+for drivers having cataracts, this being signiﬁcantly lower
+(p < 0.001) than the MTF cut-off found for healthy older drivers
+(29.67  10.73 cpd) (Table 4).
+In addition, we examined the discrimination capacity for older
+drivers (with and without cataracts) excluding 6 subjects who had
+cataracts, using a different spatial conﬁguration for these subjects.
+For the initial parameters (conﬁguration 1), the discrimination
+
+Table 1
+Data for the optical quality and discrimination capacity. Standard deviation included.
+Age
+
+Strehl ratio mean  SD (range)
+
+OSI mean  SD (range)
+
+MTF cut-off (cpd) mean  SD (range)
+
+Disturbance index mean  SD (range)
+
+19e29 years
+30e59 years
+>60 years
+
+0.24  0.07 (0.13e0.44)
+0.20  0.06 (0.09e0.34)
+0.17  0.04 (0.10e0.26)
+
+0.57  0.32 (0.20e1.20)
+0.85  0.65 (0.20e3.00)
+1.11  0.50 (0.30e2.30)
+
+40.29  9.38 (18.21e56.91)
+34.11  12.04 (9.54e54.87)
+29.67  10.73 (14.35e51.68)
+
+0.15  0.08 (0.04e0.39)
+0.18  0.08 (0.03e0.36)
+0.23  0.08 (0.13e0.42)
+
+
+[page 5]
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+
+527
+
+Fig. 1. Graphs made with the Halo v1.0 software for three different drivers: (a) a younger driver (rq ¼ 0.10), (b) a middle-aged driver (rq ¼ 0.26), (c) an older driver without cataracts
+(rq ¼ 0.42).
+
+capacity in these 6 subjects with cataracts was clearly lower than in
+the rest of the subjects, given that the maximum value of 1 for the
+disturbance index was reached; for this reason, we increased the
+size of the peripheral stimuli. According to a statistical analysis,
+there were signiﬁcant differences (p ¼ 0.010) for older drivers (with
+and without cataracts) in the disturbance index (Table 4). The data
+from the software indicated an impairment of the discrimination
+capacity in subjects affected with cataracts. As an example, Fig. 3
+shows the graphs pertaining to the Halo software for an older
+driver without cataracts and an older driver with cataracts. We
+found that a higher number of stimuli were undetected by the
+driver affected with the pathology and a higher disturbance index
+(rq ¼ 0.42, and rq ¼ 0.81 respectively). The ﬁgure reﬂects that the
+driver affected by the pathology presented difﬁculties in detecting
+not only the stimuli that were close to the central stimulus but also
+those that were farther away, thus expanding the area corresponding to the undetected stimuli. This was due to a higher level
+of ocular scattering that contributes to the sensation of glare as well
+as to the perception of larger halos around central lights, severely
+diminishing the capacity to detect peripheral lights surrounding
+the central source.
+Fig. 4 presents the results for binocular contrast-sensitivity
+function (as a function of the spatial frequencies considered) for
+the older subjects (with and without cataracts). This ﬁgure clearly
+reﬂects the deterioration in visual performance (lower contrast sensitivity function) for subjects affected with the pathology. The
+results in the binocular contrast-sensitivity function were signiﬁcantly worse for subjects with cataracts than for cataract-free
+subjects in four spatial frequencies: 6.0, 9.2, 12.0, and 24.0 cpd
+(Table 5).
+
+With respect to driving difﬁculty, older subjects with and
+without cataracts were scored as 0 “no difﬁculty” vs. 1 “difﬁculty”.
+Table 6 illustrates the results for each driving situation. In the
+cataract group, the greater driving difﬁculty proved signiﬁcant
+(p < 0.05) with respect to the no-cataract group in parallel parking, driving in heavy trafﬁc, driving in rush hour, and driving at
+night.
+4. Discussion
+With age, changes occur in the different ocular structures, one
+of the most frequent being transparency loss in the lens, which can
+give rise to the formation of cataracts. These changes, whether
+a consequence of aging itself or due to an eye disease, increase
+ocular scattering. This greater scattering is reﬂected in a worsening of retinal-image quality and contributes to the sensation of
+glare as well as to the perception of halos around central lights,
+diminishing the contrast sensitivity and the ability to detect
+peripheral stimuli (reducing discrimination capacity), and therefore diminishing the overall visual performance of the subject,
+especially under low-illumination conditions. This deterioration in
+visual performance could cause trouble in seeing pedestrians and
+
+Table 2
+Data for the average of 20 younger, 20 middle-aged and 15 older drivers without any
+ocular pathology corresponding to binocular CSF.
+Spatial frequencies
+(cpd)
+
+Range of age
+(years)
+
+CSF mean  SD
+
+p-value
+
+1.5
+
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+19e29
+30e59
+>60
+
+176.89  62.04
+163.92  57.04
+131.31  30.31
+292.56  77.79
+316.69  107.00
+217.39  68.09
+335.13  90.98
+324.19  107.33
+239.57  77.94
+265.20  96.69
+251.31  77.79
+173.48  61.05
+139.65  52.15
+136.04  44.27
+102.83  26.16
+91.83  42.52
+86.68  38.00
+49.89  17.15
+57.37  26.23
+46.00  14.92
+25.82  14.59
+28.22  18.82
+23.02  10.24
+14.91  8.99
+18.96  15.69
+13.20  6.56
+8.28  6.03
+
+>60
+19e29 (0.049)
+30e59 (0.235)
+>60
+19e29 (0.049)
+30e59 (0.005)
+>60
+19e29 (0.015)
+30e59 (0.034)
+>60
+19e29 (0.006)
+30e59 (0.021)
+>60
+19e29 (0.052)
+30e59 (0.088)
+>60
+19e29 (0.004)
+30e59 (0.011)
+>60
+19e29 (0.000)
+30e59 (0.012)
+>60
+19e29 (0.020)
+30e59 (0.264)
+>60
+19e29 (0.016)
+30e59 (0.542)
+
+2.4
+
+3.7
+
+6.0
+
+9.2
+
+12.0
+
+15.0
+
+20.0
+
+24.0
+Fig. 2. Average binocular CSF corresponding to the 20 younger, 20 middle-aged and 15
+older subjects without any ocular pathology. Data include standard error.
+
+
+[page 6]
+528
+
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+
+Table 3
+Driving-difﬁculty questionnaire with respect to the age of the subject. Data presented as percentages.
+Driving habits
+questionnaire
+
+19e29 years
+(% of group)
+
+1. Driving in the rain
+Difﬁculty
+53
+No difﬁculty
+47
+2. Driving alone
+Difﬁculty
+5
+No difﬁculty
+95
+3. Parallel parking
+Difﬁculty
+37
+No difﬁculty
+63
+4. Left turns in trafﬁc
+Difﬁculty
+16
+No difﬁculty
+84
+5. Driving on freeways
+Difﬁculty
+0
+No difﬁculty
+100
+6. Driving in heavy trafﬁc
+Difﬁculty
+26
+No difﬁculty
+74
+7. Driving in rush hour
+Difﬁculty
+26
+No difﬁculty
+74
+8. Driving at night
+Difﬁculty
+50
+No difﬁculty
+50
+
+30e59 years
+(% of group)
+
+>60 years
+(% of group)
+
+55
+45
+
+20
+80
+
+0
+100
+
+0
+100
+
+25
+75
+
+0
+100
+
+15
+85
+
+13
+87
+
+0
+100
+
+0
+100
+
+35
+65
+
+20
+80
+
+40
+60
+
+20
+80
+
+55
+45
+
+53
+47
+
+road signs, this representing a risk factor in trafﬁc. According to
+some studies, older drivers with and without visual impairment
+are signiﬁcantly less safe than the younger and middle-aged
+drivers (Babizhayev, 2003; Owsley et al., 1999; Ryan et al., 1998;
+Wood and Mallon, 2001).
+According to our results, older drivers without cataracts showed
+a more deteriorated retinal-image quality and a lower discrimination capacity under low-illumination conditions (Table 1 and Fig. 1),
+which corresponds to a decline in the binocular CSF (Table 2 and
+Fig. 2). These results imply that older drivers could have greater
+difﬁculty in detecting peripheral stimuli such as pedestrians,
+cyclists, and road signs and therefore could have less ability to
+undertake certain activities such as driving, particularly at night.
+However, the subjective data compiled from the DHQ interview,
+reﬂect a lower difﬁculty for the older group although there were no
+signiﬁcant differences except with regard to parallel parking
+between the younger and the older group. The reason could be that
+objective evidence of driving ability (performance or event history)
+does not appear to affect a driver’s conﬁdence or self-rating of
+abilities (Marottoli and Richardson, 1998), indicating a lack of
+awareness of their abilities and limitations. Another possible
+explanation would be that this group of drivers reﬂects greater
+comparative optimism, as reﬂected in the study by Gosselin et al.
+
+Fig. 3. Graphs made with the Halo v1.0 software for: (a) an older driver without
+cataracts (rq ¼ 0.42), (b) an older driver with cataracts (rq ¼ 0.81).
+
+(2010) for three age groups of drivers. These researchers deﬁne
+comparative optimism (CO) as the tendency of individuals to estimate that they are less susceptible to risks than others. Their results
+indicated that drivers aged 65 and above exhibited a statistically
+signiﬁcant level of CO when they considered the risks related to
+driving, instead of reﬂecting a cautious attitude. However,
+a number of studies have reported that older subjects with and
+without visual impairment had signiﬁcantly poorer driving
+performance than younger subjects (Dobbs et al., 1998; Szlyk et al.,
+1995; Wood, 1999; Wood and Mallon, 2001). Therefore, it has been
+suggested that drivers 70 and over have more trafﬁc accidents with
+more severe outcomes per mile driven than do younger drivers
+(Ryan et al., 1998).
+For older drivers affected with cataracts, our results show
+a higher quantity of aberrations and intraocular scattering, thus
+affecting retinal-image quality. It is well known that aberrations
+and ocular scattering result in a lower discrimination capacity and
+a lower binocular CSF, deteriorating the visual performance (Artal
+et al., 1993; Fujikado et al., 2004; Jiménez et al., 2008a,b)
+(Tables 4 and 5 and Figs. 3 and 4). This deterioration in visual
+performance due to cataract formation could lower driver safety
+and exacerbate driving difﬁculties, elevating the accident risk. In
+the interview, drivers with cataracts showed more difﬁculty in four
+situations commonly encountered in nonrural areas: parallel
+parking, driving in heavy trafﬁc, rush hour driving, and night-time
+driving (Table 6). Despite that the results of this study clearly reﬂect
+that the drivers with cataracts had poorer visual performance, in
+the questionnaire, we found no differences between cataract and
+
+Table 4
+Data of optical parameters and the disturbance index for older drivers without and
+with cataracts. Standard deviation included.
+
+Older drivers
+without
+cataract
+Older drivers
+with cataract
+Mean
+comparison
+(p-value)
+
+Strehl ratio
+mean  SD
+(range)
+
+OSI
+mean  SD
+(range)
+
+MTF cut-off
+(cpd) mean
+ SD (range)
+
+Disturbance
+index mean
+ SD (range)
+
+0.17  0.05
+(0.10e0.28)
+
+1.15  0.51
+(0.30e2.30)
+
+29.67  10.73
+(14.35e51.68)
+
+0.23  0.08
+(0.13e0.42)
+
+0.12  0.05
+(0.04e0.25)
+p < 0.001
+
+2.91  1.55
+(0.5e7.0)
+p < 0.001
+
+18.56  10.86
+(7.23e53.02)
+p < 0.001
+
+0.49  0.25
+(0.14e0.87)
+0.010
+Fig. 4. Average binocular CSF for 15 healthy older drivers and 15 cataract drivers. Data
+include standard error.
+
+
+[page 7]
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+Table 5
+Data for the average of 15 older drivers without cataracts and 15 older drivers with
+the pathology corresponding to binocular CSF.
+Spatial
+frequencies
+(cpd)
+
+Older drivers
+without cataract
+(CSF mean  SD)
+
+Older drivers
+with cataract
+(CSF mean  SD)
+
+pValue
+
+1.5
+2.4
+3.7
+6.0
+9.2
+12.0
+15.0
+20.0
+24.0
+
+131.31  30.31
+217.39  68.09
+239.57  77.94
+173.48  61.05
+102.83  26.16
+49.89  17.15
+25.82  14.59
+14.91  8.99
+8.28  6.03
+
+121.74  94.43
+193.48  98.96
+199.57  81.73
+113.83  64.50
+47.29  29.70
+28.43  31.05
+17.06  19.70
+8.05  10.05
+3.87  2.57
+
+0.486
+0.447
+0.181
+0.015
+0.000
+0.026
+0.177
+0.059
+0.027
+
+cataract-free drivers with respect to difﬁculty in driving in the rain,
+alone, on freeways, or in making left turns across oncoming trafﬁc.
+Most older drivers with visual impairment avoid these driving
+situations, reﬂecting a safety strategy (Ball et al., 1998; Owsley et al.,
+1999, 2001). However, it is important to point out that in our study,
+the subjects with cataracts had good binocular visual acuity (equal
+to or better than 20/25), and therefore might not avoid challenging
+driving situations because they might not be aware of their own
+limitations, thus making driving less safe. Our results support those
+of other studies indicating that contrast sensitivity and other visual
+functions such as visual acuity in glare are considerably decreased
+in older drivers with cataracts (Babizhayev, 2003; Mäntyjärvi and
+Tuppurainen, 1999), creating a risk factor in trafﬁc and increasing
+crash risk (Babizhayev, 2003; Owsley et al., 1999). According to the
+results of the present study, the drivers affected with cataracts
+should be carefully evaluated, even if visual acuity is sufﬁcient to
+obtain or renew driver’s license because they suffer a deterioration
+in other important visual functions that can impede the safe
+performance of activities such as driving.
+Others authors have found that older drivers with cataracts are
+more likely to stop driving compared with those without cataract
+(Owsley et al., 2001) or to reduce their driving exposure (Owsley
+
+Table 6
+Driving-difﬁculty questionnaire for older subjects with and without cataracts. Data
+presented as percentages.
+Driving habits
+questionnaire
+
+Cataract
+(% of group)
+
+1. Driving in the rain
+Difﬁculty
+47
+No difﬁculty
+53
+2. Driving alone
+Difﬁculty
+20
+No difﬁculty
+80
+3. Parallel parking
+Difﬁculty
+33
+No difﬁculty
+67
+4. Left turns in trafﬁc
+Difﬁculty
+33
+No difﬁculty
+67
+5. Driving on freeways
+Difﬁculty
+13
+No difﬁculty
+87
+6. Driving in heavy trafﬁc
+Difﬁculty
+60
+No difﬁculty
+40
+7. Driving in rush hour
+Difﬁculty
+64
+No difﬁculty
+36
+8. Driving at night
+Difﬁculty
+93
+No difﬁculty
+7
+
+No cataract
+(% of group)
+
+p-value
+
+20
+80
+
+0.130
+
+0
+100
+
+0.072
+
+0
+100
+
+0.013
+
+13
+87
+
+0.208
+
+0
+100
+
+0.153
+
+20
+80
+
+0.025
+
+20
+80
+
+0.014
+
+53
+47
+
+0.012
+
+529
+
+et al., 1999). However, when the binocular visual acuity is sufﬁcient to be issued a driver’s license, drivers with cataracts may be
+often unaware of their visual impairment and how it may affect
+driving performance, until the pathology reaches an advanced
+stage, which could compromise driving safety. For this reason, it is
+advisable to explain the visual test results to the subjects, showing
+them for example Fig. 3 and making them aware of their visual
+limitations and the implications involved. In view of our results, the
+measurement of visual acuity may not be a sufﬁcient measure for
+an applicant to earn or renew a driver’s license, since visual
+performance would not be completely characterized, making it
+important to examine other visual functions such as contrast
+sensitivity or halometry. In visual performance, there are other
+functions that can affect driving safety, such as contrast sensitivity,
+dark adaptation, colour vision, glare sensitivity and visual ﬁeld
+(Mäntyjärvi and Tuppurainen, 1999; Mäntyjärvi et al., 1999; Rogé
+and Pébayle, 2009; Van Rijn et al., 2011).
+In the present study, we have evaluated an important aspect of
+vision, the visual-discrimination capacity under low-illumination
+conditions. Our results indicate that elderly people, especially
+those affected by any ocular disease such as cataract, have
+a reduced ability to detect peripheral stimuli around the highluminance stimulus, limiting visual performance. Driving is
+a highly visual task and therefore it is fundamental to make
+a complete evaluation of visual performance, especially older
+drivers. This capacity is key, for example, when driving in the dark,
+where failure to detect peripheral stimuli around headlights of the
+oncoming trafﬁc (e.g., pedestrians crossing the street, or any sign on
+the road) could lead to a trafﬁc accident. Some studies have shown
+that older drivers have more severe trafﬁc accidents per mile driven
+than younger drivers (Ryan et al., 1998) and older drivers with
+cataracts have an elevated crash risk compared to those without
+pathology (Owsley et al., 1999). Therefore, the visual deterioration
+that occurs with the normal aging process, as well as eye diseases
+such as cataract, can notably diminish the ability to perform tasks
+such as driving, lowering the safety of drivers. Our recommendation is to examine other visual functions such as visual-discrimination capacity, even when binocular visual acuity is sufﬁcient to
+earn a driver’s, at least for older drivers.
+Recently, Castro et al. (2011) showed that the Halo software is
+a useful tool for the study, monitoring, and early diagnosis of
+different pathologies, such as age-related macular degeneration
+and keratitis, pathologies that deteriorate the retinal-image quality
+and visual performance, reﬂecting a reduction in functions such as
+the contrast-sensitivity function (Jiménez et al., 2008a,b, 2009). In
+addition, this software could be useful in patients of laser refractive
+surgery who frequently mention night-vision disturbances such as
+a halo around a central source, indicating that they have greater
+difﬁculty in discriminating peripheral lights surrounding the
+central source (Anera et al., 2011; Gutiérrez et al., 2003; Jiménez
+et al., 2006).
+Others works (Babizhayev et al., 2009) have examined the visual
+impairment using a halometer test in older drivers, but without
+evaluating the optical quality with an objective method, this being
+important to determine the deterioration in visual performance. In
+addition, the study by Babizhayev et al. (2009) showed that the
+evaluation of night-vision disturbances required hardware, and
+the use of which could be a disadvantage in clinical examination vs.
+the Halo v1.0 software used in the present work, which is a freeware program, enabling its use by any examiner who has a PC,
+without any additional hardware. On the other hand, it also permits
+the all parameters to be modiﬁed, depending on the type of patient
+or the experimental conditions, making it possible to customize the
+test for a particular case or a group of patients. Furthermore, the
+results found in previous studies have shown the effectiveness of
+
+
+[page 8]
+530
+
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+
+the Halo software by a signiﬁcant correlation between the objective
+measurements and the visual disturbances perceived by the subject
+(Anera et al., 2011; Castro et al., 2011).
+One of the limitations of the present study is that the central
+stimulus used in the discrimination capacity is a stationary
+constant stimulation and is relatively weak compared with the
+headlight of an oncoming vehicle. However, Gutiérrez et al. (2003)
+using a halometer found that average values for the disturbance
+index did not depend on the intensity of the central source. It is
+important to emphasize that all older drivers with and without
+visual impairment included in this study had difﬁculty detecting
+peripheral stimuli around the central one shown with the Halo test,
+revealing statistically signiﬁcant differences with respect to other
+groups of drivers. Therefore, it was expected that a stimulus with
+greater luminance would provoke more night-vision disturbances
+(glare or halos), interfering even more with the discrimination of
+peripheral stimuli, such as pedestrians, cyclists and trafﬁc signs,
+particularly in older drivers. On the other hand, although the
+present study lacks an objective driving evaluation (on-road
+driving test or simulated driving test), we have used a subjective
+Driving Habits Questionnaire (DHQ), very frequently used in these
+types of works (Babizhayev et al., 2009; Ball et al., 1998; McGwin
+et al., 2000), to compare our results on visual function of drivers
+with their own subjective opinion.
+In summary, our results indicate that, older drivers with or
+without ocular pathology have lower contrast sensitivity and
+a less ability to detect peripheral stimuli (reduced discrimination
+capacity) compared with other groups of drivers, even when the
+binocular visual acuity is sufﬁcient to obtain or renew a driver’s
+license. The discrimination capacity is a crucial visual function for
+the safe performance of such tasks as driving, where it is fundamental to detect peripheral stimuli, such as pedestrians, bicyclists,
+or trafﬁc signals. Therefore, although for obtaining or renewing
+a driver’s license, the binocular visual acuity required is 20/40 or
+better, even if exist an eye disease such as cataract, measurement
+of visual acuity alone might not be sufﬁcient measures for the
+issuance or renewal of a license because other visual functions
+can be considerably decreased, hampering the driving ability,
+particularly at night (Babizhayev, 2003; Mäntyjärvi and
+Tuppurainen, 1999). A detailed eye examination is necessary for
+the evaluation of the ocular health for driving. More studies are
+needed to set the visual standards for different visual aspects and
+environments in driving (http://www.icoph.org/downloads/
+vision for driving.pdf), although currently the Halo programme
+acts as a useful tool, being reliable, quick, and easy to perform,
+and available to any examiner. This tool evaluates the inﬂuence of
+night-vision disturbances such as halos and quantiﬁes the
+discrimination capacity. Furthermore, it shows the subjects their
+own visual results, making them aware of their visual limitations
+and the implications involved. Finally, given the quantitative
+index provided, it is possible to study the temporal evolution of
+the disease and also enables a clinician to characterize the degree
+to which visual performance is affected by the different types of
+cataracts. Therefore, this test would be advisable in clinical
+practice for driver’s license requirements, particularly for older
+drivers, evaluating visual functions that, when deteriorated,
+compromise driving safety.
+Acknowledgements
+The authors wish to thank David Nesbitt for translating the text
+into English. This research was supported by Ministerio de Educación y Ciencia (Spain) grant FIS 2009-07482 and Junta de Andalucía
+(Spain) grants P06-FQM-01359 and P07-FQM-02663.
+
+References
+Anera, R.G., Jiménez, J.R., J. del Barco, L., Bermúdez, J., Hita, E., 2003. Changes in
+corneal asphericity after laser in situ keratomileusis. J. Cataract Refract. Surg. 29,
+762e768.
+Anera, R.G., Castro, J.J., Jiménez, J.R., Villa, C., Alarcón, A., 2011. Optical quality and
+visual discrimination capacity after myopic LASIK with a standard and aspheric
+ablation proﬁle. J. Refract. Surg. 27, 597e601.
+Artal, P., Ferro, M., Miranda, I., Navarro, R., 1993. Effects of aging in retinal image
+quality. J. Opt. Soc. Am. A, Opt. Image Sci. Vis. 10, 1656e1662.
+Babizhayev, M.A., Minasyan, H., Richer, S.P., 2009. Cataract halos: a driving hazard in
+aging populations. Implication of the Halometer DG test for assessment of
+intraocular light scatter. Appl. Ergon. 40, 545e553.
+Babizhayev, M.A., 2003. Glare disability and driving safety. Ophthalmic Res.
+35, 19e25.
+Ball, K., Owsley, C., Stalvey, B., Roenker, D.L., Sloane, M.E., Graves, M., 1998. Driving
+avoidance and functional impairment in older drivers. Accid. Anal. Prev. 30,
+313e322.
+Castro, J.J., Jiménez, J.R., Ortiz, C., Alarcón, A., Anera, R.G., 2011. New testing software
+for quantifying discrimination capacity in subjects with ocular pathologies.
+J. Biomed. Opt. 16, 015001.
+Chylack, L.T., Wolfe, J.K., Singer, D.M., Leske, M.C., Bullimore, M.A., Bailey, I.L.,
+Friend, J., McCarthy, D., Wu, S.Y., 1993. The lens opacities classiﬁcation system
+III. The longitudinal study of cataract study group. Arch. Ophthalmol. 111,
+831e836.
+Congdon, N., Vingerling, J.R., Klein, B.E.K., West, S., Friedman, D.S., Kempen, J.,
+O’Colmain, B., Wu, S., Taylor, H.R., Wang, J.J., 2004. Causes and prevalence of
+visual impairment among adults in the United States. Arch. Ophthalmol. 122,
+477e485.
+Decina, L.E., Staplin, L., 1993. Retrospective evaluation of alternative vision
+screening criteria for older and younger drivers. Accid. Anal. Prev. 25,
+267e275.
+Díaz-Doutón, F., Benito, A., Pujol, J., Arjona, M., Güell, J.L., Artal, P., 2006.
+Comparison of the retinal image quality with a HartmanneShack wavefront sensor and a double-pass instrument. Invest. Ophthalmol. Vis. Sci.
+47, 1710e1716.
+Dobbs, A.R., Heller, R.B., Schopﬂocher, D., 1998. A comparative approach to identify
+unsafe older drivers. Accid. Anal. Prev. 30, 363e370.
+Fujikado, T., Kuroda, T., Maeda, N., Ninomiya, S., Goto, H., Tano, Y., Oshika, T.,
+Hirohara, Y., Mihashi, T., 2004. Light scattering and optical aberrations as
+objective parameters to predict visual deterioration in eyes with cataracts.
+J. Cataract Refract. Surg. 30, 1198e1208.
+Gosselin, D., Gagnon, S., Stinchcombe, A., Joanisse, M., 2010. Comparative optimism among drivers: an intergenerational portrait. Accid. Anal. Prev. 42,
+734e740.
+Güell, J.L., Pujol, J., Arjona, M., Díaz-Doutón, F., Artal, P., 2004. Optical quality
+analysis system: instrument for objective clinical evaluation of ocular optical
+quality. J. Cataract Refract. Surg. 30, 1598e1599.
+Gutiérrez, R., Jiménez, J.R., Villa, C., Valverde, J.A., Anera, R.G., 2003. Simple device
+for quantifying the inﬂuence of halos alter lasik surgery. J. Biomed. Opt. 8,
+663e667.
+Jiménez, J.R., Anera, R.G., Jiménez, R., Salas, C., 2003. Impact of interocular differences in corneal asphericity on binocular summation. Am. J. Ophthalmol. 135,
+279e284.
+Jiménez, J.R., Villa, C., Anera, R.G., Gutiérrez, R., J. del Barco, L., 2006. Binocular visual
+performance after LASIK. J. Refract. Surg. 22, 679e688.
+Jiménez, J.R., Ortiz, C., Hita, E., Soler, M., 2008a. Correlation between image quality
+and visual performance. J. Mod. Optic 55, 783e790.
+Jiménez, J.R., Ortiz, C., Pérez-Ocón, F., Castro, J.J., 2008b. Objective and subjective
+optical-quality measurements in subjects with keratitis and age-related
+macular degeneration. J. Mod. Optic 55, 2371e2380.
+Jiménez, J.R., Ortiz, C., Pérez-Ocón, F., Jiménez, R., 2009. Optical image
+quality and visual performance for patients with keratitis. Cornea 28 (7),
+783e788.
+Mäntyjärvi, M., Tuppurainen, K., 1999. Cataract in trafﬁc. Graefes Arch. Clin. Exp.
+Ophthalmol. 237, 278e282.
+Mäntyjärvi, M., Väinö, J., Tuppurainen, K., 1999. Visual functions of drivers involved
+in trafﬁc accidents. Accid. Anal. Prev. 31, 121e124.
+Marottoli, R.A., Richardson, E.D., 1998. Conﬁdence in, and self-rating of, driving
+ability among older drivers. Accid. Anal. Prev. 30, 331e336.
+McGwin Jr., G., Chapman, V., Owsley, C., 2000. Visual risk factors for driving difﬁculty among older drivers. Accid. Anal. Prev. 32, 735e744.
+Nischler, C., Michael, R., Wintersteller, C., Marvan, P., Emesz, M., Van Rijn, L.J., Van
+den Berg, T.J.T.P., Wilhelm, H., Coeckelbergh, T., Barraquer, R.I., Grabner, G.,
+Hitzl, W., 2010. Cataract and pseudophakia in elderly European drivers. Eur. J.
+Ophthalmol. 20, 892e901.
+Owsley, C., Stalvey, B., Wells, J., Sloane, M.E., 1999. Older drivers and
+cataract: driving habits and crash risk. J. Gerontol. Med. Sci. 54A,
+M203eM211.
+Owsley, C., Stalvey, B., Wells, J., Sloane, M.E., McGwin Jr., G., 2001. Visual risk factors
+for crash involvement in older drivers with cataract. Arch. Ophthalmol. 119,
+881e887.
+Pierscionek, B.A., 1996. Aging changes in the optical elements of the eye. J. Biomed.
+Opt. 1, 147e156.
+
+
+[page 9]
+C. Ortiz et al. / Applied Ergonomics 44 (2013) 523e531
+Rao, G.N., Khanna, R., Payal, A., 2011. The global burden of cataract. Curr. Opin.
+Ophthalmol. 22, 4e9.
+Rogé, J., Pébayle, T., 2009. Deterioration of the useful visual ﬁeld with ageing during
+simulated driving in trafﬁc and its possible consequences for road safety. Saf.
+Sci. 47, 1271e1276.
+Ryan, G.A., Legge, M., Rosman, D., 1998. Age related changes in drivers’ crash risk
+and crash type. Accid. Anal. Prev. 30, 379e387.
+Szlyk, J.P., Seiple, W., Viana, M., 1995. Relative effects of age and compromised vision
+on driving performance. Hum. Factors 37, 430e436.
+Van Rijn, L.J., Nischler, C., Michael, R., Heine, C., Coeckelbergh, T., Wilhelm, H.,
+Grabner, G., Barraquer, R.I., Van den Berg, T.J.T.P., 2011. Prevalence of
+impairment of visual function in European drivers. Acta Ophthalmol. 89,
+124e131.
+
+531
+
+Villa, C., Gutiérrez, R., Jiménez, J.R., González-Méijome, J.M., 2007. Night vision
+disturbances after successful LASIK surgery. Br. J. Ophthalmol. 91, 1031e1037.
+Wood, J.M., Mallon, K., 2001. Comparison of driving performance of young and old
+drivers (with and without visual impairment) measured during in-trafﬁc
+conditions. Optom. Vis. Sci. 78, 343e349.
+Wood, J.M., 1999. How do visual status and age impact on driving performance
+as measured on a closed circuit driving track? Ophthalmic Physiol. Opt. 19,
+34e40.
+
+Web reference
+http://www.icoph.org/downloads/visionfordriving.pdf (2005).
+

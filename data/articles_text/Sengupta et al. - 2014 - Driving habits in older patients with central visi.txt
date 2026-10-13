@@ -1,0 +1,724 @@
+[page 1]
+Driving Habits in Older Patients with Central
+Vision Loss
+Sabyasachi Sengupta, DNB, FRCS, Suzanne W. van Landingham, MD, Sharon D. Solomon, MD,
+Diana V. Do, MD, David S. Friedman, MD, PhD, Pradeep Y. Ramulu, MD, PhD
+Objective: To determine if central visual loss is associated with driving cessation, driving restriction, or other driver preference.
+Design: Cross-sectional study.
+Participants: Sixty-four subjects with bilateral visual loss (<20/32 in better eye) or severe unilateral visual
+loss (<20/200) from age-related macular degeneration (AMD) and 58 normally sighted controls between 60 and
+80 years of age.
+Methods: Participants self-reported driving habits. Other-driver preference was deﬁned as preferring that
+another drive when there is more than 1 driver in the car. Subjects reporting 2 or more driving limitations were
+considered to have restricted their driving.
+Main Outcome Measures: Self-reported driving cessation, other-driver preference, and driving restriction.
+Results: Age-related macular degeneration subjects were older (74.7 vs. 69.7 years), had worse visual
+acuity (VA; mean better-eye VA, 0.43 vs. 0.08 logarithm of minimum angle of resolution [logMAR]) and contrast
+sensitivity (CS; 1.4 vs. 1.9 log units of CS [logCS]), and were more likely to be white when compared with
+controls (P < 0.001 for all). Drivers with AMD-related vision loss were more likely to avoid driving over longer
+distances, beyond 1 hour, at night, and in unfamiliar conditions (P < 0.05 for all). In multivariate models, driving
+cessation was associated with worse better-eye VA (odds ratio [OR], 1.5 per 1-line decrement in VA; P < 0.001)
+and worse binocular CS (OR, 1.36 per 0.1 logCS increment; P ¼ 0.005); however, AMD group status was not
+associated with driving cessation (OR, 1.9; P ¼ 0.35). Factors predicting driving restriction were AMD (OR, 9.0;
+P ¼ 0.004), worse vision (OR, 2.5 per line of VA loss; P < 0.001), lower CS (OR, 2.2 per 0.1-logCS increment;
+P < 0.001), and female gender (OR, 27.9; P ¼ 0.002). Other-driver preference was more common with worse
+vision (OR, 1.6 per 0.1-logMAR increment; P ¼ 0.003), female gender (OR, 4.5; P ¼ 0.02), and being married (OR,
+3.8; P ¼ 0.04).
+Conclusions: Most patients with AMD-related central vision loss continue to drive, but demonstrate signiﬁcant
+driving restrictions, especially with more severe VA and CS loss. Future work should determine which driving adaptations the visually impaired best balance safety and independence. Ophthalmology 2014;121:727-732 ª 2014
+by the American Academy of Ophthalmology.
+
+Age-related macular degeneration (AMD) is the most
+frequent cause of severe, irreversible visual impairment in the
+developed world.1,2 In the United States alone, there are an
+estimated 1.75 million adults with neovascular AMD or
+geographic atrophy, and these cases account for approximately 46% of cases of severe visual loss.3,4 With improved
+life expectancies and an aging population, the global prevalence of AMD will rise further in the years to come. Age related macular degeneration predominantly leads to loss of
+central vision and is rarely associated with systemic disease
+(unlike other common diseases such as cataract or diabetes).
+Additionally, subjects with AMD have well-preserved peripheral vision. Hence, AMD is a good model disease for
+assessing the effects of central vision loss on important patient outcomes. Prevention of AMD-related vision loss and
+proper rehabilitation and counseling of individuals with
+untreatable AMD-related vision loss will become increasingly important, and rehabilitation strategies for visually
+impaired AMD patients will serve as a model to guide the
+care of other patients with primarily central vision loss.
+ 2014 by the American Academy of Ophthalmology
+Published by Elsevier Inc.
+
+Several important functional domains are affected in
+visually impaired AMD patients, including mobility,5
+reading, recognizing faces, watching TV, and driving.6 Of
+these, driving has a particularly strong association with
+quality of life, especially in the United States, where
+public transportation is frequently limited or not available.
+Driving offers independence to older individuals, and
+limiting or ceasing driving is reported to be associated
+with incident depression, increased dependence, reduced
+accessibility to health care, and higher mortality.7e9 Psychometric tools such as the 25-item National Eye Institute
+Visual Function Questionnaire have a limited number of
+questions about driving that have been used to characterize
+driving impairment on quality of life in patients with
+AMD10,11 and have been used to demonstrate that AMD
+treatments can prevent driving cessation and improve
+perceived driving ability.12 However, the small number of
+driving-related questions on the 25-item National Eye
+Institute Visual Function Questionnaire precludes a
+comprehensive description of the types of driving alterations
+ISSN 0161-6420/14/$ - see front matter
+http://dx.doi.org/10.1016/j.ophtha.2013.09.042
+
+727
+
+
+[page 2]
+Ophthalmology Volume 121, Number 3, March 2014
+that occur in conjunction with AMD-related vision loss. In
+particular, there is very little research describing how, and
+how often, individuals with vision loss resulting from AMD
+restrict their driving,13 and literature from other eye diseases
+suggests that restriction of driving in particular settings may
+be a more frequent adaptation to vision loss than driving
+cessation.14
+In this study, we used a detailed driving questionnaire to
+compare the driving habits and driving adaptations found in
+a sample of AMD patients with vision loss and in a sample
+of normally sighted controls. Evaluated adaptations to
+driving included complete cessation of driving, restriction of
+driving to more favorable conditions or locations, and
+preferring that another person drive, each of which has its
+own psychosocial impact.9
+
+Methods
+Study Participants
+The study was approved by The Johns Hopkins Medical Institutions’ Institutional Review Board, and written informed
+consent was obtained from all study subjects. Participants were
+recruited from a convenience sample of patients being cared for
+at the Wilmer Eye Institute at Johns Hopkins. Subjects’ charts
+were prescreened for eligibility, and eligible subjects had to be
+between the ages of 60 and 80 years and had to be former or
+current drivers. Patients were recruited between July 2009 and
+June 2012.
+The AMD subjects were required to have bilateral AMD with
+evidence of drusen, geographic atrophy, or choroidal neovascularization in both eyes. Visual acuity (VA) was required to be
+20/32 or worse in both eyes or worse than 20/200 in one eye
+regardless of vision in the second eye. Subjects with deterioration
+of visual angle by more than 50% over the past 3 months and those
+who received intravitreal injections over the past month were
+excluded. Control subjects were glaucoma suspects or ocular hypertensives with a VA of 20/40 or better and normal visual ﬁelds
+and were being treated at the same eye hospital as the AMD
+subjects.15 Participants also had to be residing in the Mid Atlantic
+region (deﬁned for this Baltimore-based study as Maryland, Virginia, Delaware, the District of Columbia, and Pennsylvania).
+Glaucoma suspects were chosen as a comparison group because:
+(1) they are most likely to have similar social and health behavior
+characteristics as the AMD patients seeking care at the same
+hospital and (2) they have been shown to be similar with regard to
+VA, contrast sensitivity (CS), and visual ﬁelds to older individuals
+without eye disease characterized in a previous population-based
+survey.15
+
+Evaluation of Driving Habits
+Driving habits were evaluated with an interviewer-administered
+questionnaire taken from the Salisbury Eye Evaluation Driving
+Study, which extends on questionnaires previously used in the
+Salisbury Eye Evaluation.16,17 Subjects were asked, “Have you
+driven a car in the past 3 months?” to assess driving cessation. For
+those who were currently driving, 9 different driving limitations
+were assessed: (1) not driving outside of the mid-Atlantic region,
+(2) not driving more than 1 hour away from home, (3) not driving
+to neighboring towns or areas, (4) not driving beyond the neighborhood, (5) not driving in the rain, (6) not driving at night, (7) not
+driving in unfamiliar areas, (8) driving less than twice per week,
+and (9) driving fewer than 5000 miles per year (the standard for
+
+728
+
+restricted driving in Maryland). Each of these limitations was
+assessed for the past year, except for driving at night and driving in
+unfamiliar areas, which were assessed for the past 3 months. The
+questionnaire asked whether a person had performed a particular
+driving activity at all during the appointed time frame, but not if
+they chose to avoid that particular driving activity or if they were
+legally prohibited from doing it.
+Driver preference was assessed by asking subjects, “In a typical
+week when you travel in a car, how often are you the driver?”
+Subjects who reported that they were the driver 50% or less of the
+time they rode in a car were considered to have other-driver
+preference.
+
+Measurement of Vision and Covariates
+Monocular VA was measured using the Early Treatment Diabetic
+Retinopathy Study chart, and better-eye VA was converted to the
+logarithm of the minimum angle of resolution (logMAR) units for
+use in statistical analysis. Binocular CS was measured using the
+Pelli-Robson chart at 1 m with subjects wearing their usual
+correction and was converted into log units of CS (logCS) for
+analysis. Both eyes were examined after pupillary dilation for
+signiﬁcant lenticular changes in phakic eyes using the Wilmer
+cataract grading system or posterior capsular opaciﬁcation in
+pseudophakic eyes, as previously described.18,19
+Demographic information was collected by self-report, including
+age, gender, race, employment status, years of education completed,
+living situation (if the subject lives with any other adults), and
+marital status. Cognitive ability was assessed using the Mini-Mental
+Status Examination for the visually impaired.20 Depressive
+symptoms were detected using the Geriatric Depression Scale
+Short Form, with subjects demonstrating 6 or more positive
+responses considered to have depressive symptoms.21 Medical
+comorbidities were assessed using a standardized structured
+medical history questionnaire and were summarized as the number
+of comorbid conditions present.22 Speciﬁc comorbidities inquired
+about included arthritis, broken or fractured hip, back problems,
+heart attack or myocardial infarction, angina or chest pain,
+congestive heart failure, peripheral vascular disease, hypertension,
+diabetes, emphysema, asthma, stroke, Parkinson’s disease, cancer
+(other than skin cancer), and vertigo or Ménière’s disease.
+
+Statistical Analysis
+The current study was a secondary analysis from a study powered
+to detect differences in physical activity and travel patterns in
+subjects with normal vision, visual ﬁeld loss resulting from
+glaucoma, and decreased VA from AMD. The proposed sample
+size of 60 normally sighted subjects and 60 visually impaired
+subjects with AMD had a more than 70% power to detect a 3-fold
+higher odds of driving cessation or driving restriction in our
+AMD patients as compared with controls assuming a type I error
+probability of 0.05 and a baseline level of driving cessation or
+driving restriction similar to that observed in prior population based surveys.15
+Group differences for continuous variables were evaluated using the Student t test or Wilcoxon rank-sum test. Chi-square
+analysis was used to assess differences in categorical variables.
+Binary outcomes, including driving cessation, driver preference,
+and the presence of individual driving limitations, were assessed
+using univariate and multivariate logistic regression models. The
+number of driving limitations was analyzed as a continuous variable and also was converted into a binary variable, driving restriction, and was classiﬁed as present if 2 or more driving
+limitations were reported.15 Covariates included in multivariate
+regression models included those with a P value of less than
+
+
+[page 3]
+Sengupta et al  Driving in Elderly with Vision Loss
+0.05 on univariate analysis and those demonstrated to have
+association with driving habits in previous research.15 The
+statistical analysis was completed using Stata software version
+12.0 (Stata Corp., College Station, TX).
+
+Results
+Sixty-four patients with bilateral AMD and 58 controls were
+enrolled in the study. Baseline demographics and visual parameters
+in the 2 groups are shown in Table 1. The AMD patients were
+older, had worse VA and CS, and were more likely to be white
+when compared with controls (P  0.01 for all). In the better seeing eye, 30 subjects (47%) with AMD had geographic atrophy and 34 (53%) had a predominantly scarred neovascular
+membrane involving the center of the fovea.
+In univariate analyses, more patients in the AMD group had
+ceased driving as compared with controls (25.4% vs. 6.9%; P ¼
+0.006). Subjects who had stopped driving had signiﬁcantly worse
+vision in the better-seeing eye (VA, 0.77 vs. 0.08 logMAR; P ¼
+0.001) and CS (logCS, 1.8 vs. 1.2; P ¼ 0.03) compared with those
+who continued to drive. Drivers in the AMD group also had a
+greater mean number of driving limitations than control group
+drivers (2.7 vs. 1.1; P < 0.001) and were more likely to report 2 or
+more driving restrictions (Fig 1). Other-driver preference also was
+reported more frequently by AMD subjects than controls (37% vs.
+18%; P ¼ 0.04). Presence of cataract or posterior capsular opaciﬁcation in the better-seeing eye did not show any signiﬁcant association with driving cessation, restriction, or other-driver
+preference (P > 0.5 for all).
+In multivariate models adjusting for age, race, gender,
+employment, marital status, living situation, cognition, comorbidities, and depressive symptoms, AMD group status was not associated signiﬁcantly with driving cessation (odds ratio [OR], 1.9;
+95% conﬁdence interval [CI], 0.5e7.3; P ¼ 0.35; Table 2).
+However, driving cessation was more likely with worse VA in
+the better-seeing eye (OR, 1.5 for each 1-line loss of vision; 95%
+CI, 1.2e1.9; P < 0.001) and worse CS (OR, 1.36 for each 0.1decrement in logCS; 95% CI, 1.1e1.7; P ¼ 0.005). Figure 2
+shows the modeled probability of driving cessation based on VA
+among the full study sample. The type of AMD in the better seeing eye (neovascular vs. nonneovascular) was not associated
+with driving cessation, nor were any health-related or demographic
+factors.
+More driving restrictions were found among subjects with
+worse VA (Fig 3). Factors predictive of signiﬁcant restriction (2
+driving limitations) of driving included female gender (OR, 27.9;
+95% CI, 3.5, 223.0; P ¼ 0.002), AMD group status (OR, 9.0;
+95% CI, 2.0e40.4; P ¼ 0.004), lower CS (OR, 2.2 for each
+0.1-decrement in logCS; 95% CI, 1.4e3.5; P < 0.001), and
+worse VA (OR, 2.5 per 0.1-logMAR worsening; 95% CI, 1.6e4.0;
+P < 0.001). Other-driver preference was signiﬁcantly predicted by
+worse vision (OR, 1.6 per 0.1-logMAR increment; 95% CI,
+1.2e2.1; P ¼ 0.003), female gender (OR, 4.5; 95% CI, 1.2e16.2;
+P ¼ 0.02), and being married (OR, 3.8; 95% CI, 1.0e14.3; P ¼
+0.04) in multivariate models, whereas lower CS and the AMD
+group status did not signiﬁcantly inﬂuence other-driver preference
+(P > 0.05 for both).
+In multivariate models including both VA and CS, only VA
+remained associated with driving cessation (OR, 1.4; 95% CI,
+1.1e1.9; P ¼ 0.01) and driving restriction (OR, 2.1; 95% CI,
+1.2e3.4; P ¼ 0.007), although these 2 visual measures were
+correlated signiﬁcantly (r ¼ 0.78; P < 0.001). The association
+between VA and both driving cessation and restriction also persisted when the presence or absence of cataract or posterior
+capsular opaciﬁcation was included in the models.
+
+Table 1. Characteristics of Study Participants in Age-Related
+Macular Degeneration Group versus Controls
+
+Parameter Evaluated
+Demographics
+Age (yrs)
+Female gender (%)
+White race (%)
+Education (years)
+Unemployment (%)
+Lives with others (%)
+Married (%)
+Health/cognition
+MMSE-VI score
+Comorbid illnesses (no.)
+Depressive symptoms (%)
+Vision parameters
+Binocular CS (log units)
+Better eye acuity (logMAR)
+Worse eye acuity (logMAR)
+Signiﬁcant cataract/PCO
+Right eye (%)
+Left eye (%)
+
+Controls
+(n [ 58)
+
+Age-Related
+Macular
+Degeneration
+(n [ 64)
+
+P
+Value
+
+69.8 (5.29)
+60.3
+77.6
+15.5 (2.2)
+60.3
+25.9
+67.2
+
+74.8 (4.98)
+57.1
+93.7
+15 (1.9)
+79.3
+17.5
+68.3
+
+<0.001
+0.72
+0.01
+0.13
+0.02
+0.26
+0.11
+
+20.8 (1.4)
+2 (2, 3)
+5.2
+
+20.6 (1.7)
+2.5 (1, 3)
+4.8
+
+0.76
+0.54
+0.9
+
+1.9 (0.12)
+0.08 (0.12)
+0.18 (0.14)
+
+1.4 (0.33)
+0.43 (0.32)
+1.05 (0.46)
+
+<0.001
+<0.001
+<0.001
+
+16.7
+14.8
+
+27.6
+23.3
+
+0.16
+0.25
+
+CS ¼ contrast sensitivity; logMAR ¼ logarithm of the minimum angle of
+resolution; MMSE-VI ¼ Mini-Mental Status Examination; PCO ¼ posterior capsular opaciﬁcation.
+Continuous variables reported as mean (95% conﬁdence interval).
+
+Discussion
+One in 4 patients with AMD-related central vision loss was
+noted to have stopped driving in our cohort, although patients in this group were not more likely than controls to
+have stopped driving in multivariate models. Driving
+cessation was, however, more common with worse VA in
+the better-seeing eye and CS, suggesting that driving
+cessation is more likely in more advanced disease. Although
+most of our visually impaired AMD patients continued to
+
+Figure 1. Bar graph showing the driving limitations in current drivers with
+and without age-related macular degeneration (AMD).
+
+729
+
+
+[page 4]
+Ophthalmology Volume 121, Number 3, March 2014
+Table 2. Multivariate Analysis Showing Effect of Age-Related Macular Degeneration and Its Severity on Driving Status
+Variable
+Vision
+AMD
+Type of AMD (worse eye)
+Type of AMD (better eye)
+Binocular contrast sensitivity
+Better eye acuity (logMAR)
+Demographics
+Age
+Race
+Gender
+Employment
+Living situation
+Marital status
+Health/cognition
+MMSE VI score
+Comorbidities
+Depressive symptoms
+
+Interval
+
+Not Driving
+
+Driving Restriction*
+
+Prefer Another Driver*
+
+Present
+Wet AMD
+Wet AMD
+1 letter worsey
+1 line worsez
+
+1.9 (0.5e7.3)
+0.6 (0.1e3.3)
+2.7 (0.6e11.5)
+1.36 (1.1e1.7)x
+1.5 (1.2e1.9)x
+
+9.0 (2.0e40.4)x
+0.4 (0.06e1.9)
+0.7 (0.2e2.9)
+2.2 (1.4e3.5)x
+2.5 (1.6e4.0)x
+
+2.2 (0.7e7.1)
+0.3 (1.8)
+1.2 (0.3e4.8)
+1.24 (0.9e1.6)
+1.6 (1.1e2.1)x
+
+5 yrs older
+White
+Female
+Present
+Lives with others
+Married
+
+1.9 (0.8e4.4)
+d
+1.1 (0.3e4.3)
+0.2 (0.02e2.2)
+0.4 (0.06e3.1)
+1.2 (0.2e5.9)
+
+1.8 (0.8e4.2)
+0.3 (0.03e1.8)
+27.9 (3.5e224)x
+0.3 (0.05e1.9)
+3.2 (0.6e17.1)
+5.4 (0.9e31.2)
+
+1.0 (0.6e1.8)
+1.4 (0.3e7.0)
+4.5 (1.2e16.2)x
+0.3 (0.06e1.2)
+2.0 (0.6e7.2)
+3.8 (1.0e14.2)x
+
+5 points lower
+1 illness
+Present
+
+1.1 (0.2e7.3)
+1.1 (0.7e1.6)
+2.1 (0.1e35.3)
+
+1.4 (0.2e10.5)
+0.8 (0.5e1.3)
+0.06 (0.001e3.3)
+
+0.7 (0.1e4.1)
+1.1 (0.7e1.6)
+d
+
+AMD ¼ age-related macular degeneration; logMAR ¼ logarithm of minimal angle of resolution; MMSE-VI ¼ Mini-Mental Status Examination.
+Data are odds ratio (95% conﬁdence interval).
+*Refers to current drivers only.
+y
+Corresponds to 0.05-log unit change.
+z
+Corresponds to 0.1-logMAR change.
+x
+P < 0.05.
+
+drive, they were signiﬁcantly more likely to prefer that
+another adult drive when possible and were more likely to
+restrict where, when, and how far they drive. These ﬁndings
+suggest that driving restriction, and not driving cessation, is
+the primary driving adaptation found among patients with
+AMD-associated vision loss.
+Our ﬁndings regarding driving cessation differ somewhat
+from previous papers examining driving cessation in AMD.
+Campbell et al22 found that approximately 50% of their
+patients with AMD had ceased driving and that AMD was
+
+Figure 2. Graph showing the modeled probability of not driving as a
+function of better-eye visual acuity in age-related macular degeneration
+patients. In addition to better-eye visual acuity, our multivariate logistic
+regression model includes age, gender, unemployment, cognition, comorbidities, and depressive symptoms. logMAR ¼ logarithm of minimum
+angle of resolution.
+
+730
+
+1 of the 6 most important causes of driving cessation in
+the elderly. However, neither severity of AMD in terms of
+vision loss nor type of AMD was recorded in this study.
+DeCarlo et al24 used the Driving Habits Questionnaire23 to
+characterize AMD patients seeking low-vision rehabilitation and reported that only 24% patients in their series
+continued driving. The lower frequency of driving cessation
+noted in the current study suggests that driving cessation is
+much more dependent on severity of vision loss in the
+better-seeing eye rather than the mere presence or absence of
+AMD or AMD subtype. Indeed, many of our studied patients met the state of Maryland’s requirements for an unrestricted (at least 20/40 in 1 eye) or restricted (20/70 in at
+least 1 eye) driver’s license, allowing them the opportunity
+to continue driving if they were so inclined.
+Many patients with central vision loss may adjust to
+driving difﬁculty by self-regulating when, where, and how
+often they drive as opposed to stopping driving altogether.
+Of note, the apparent preference to restrict driving as a result
+of AMD-related vision loss, as opposed to stopping driving
+altogether, is distinct from what is observed with visual ﬁeld
+loss in glaucoma, where driving cessation is an adaptation as
+much or more frequently seen than driving restriction.14,15
+Our group of visually impaired AMD patients reported
+increased driving limitations, with almost 1 in 3 patients
+avoiding driving at night, 1 in 2 avoiding driving in unfamiliar areas, and 3 in 4 avoiding driving over long distances.
+DeCarlo et al24 found signiﬁcantly reduced driving exposure
+and frequent avoidance of challenging driving situations
+among advanced AMD patients requiring low-vision aids
+who continued to drive, although no control group was
+available for comparison. Ball et al,25 using a driving habits
+questionnaire, reported more driving avoidance in subjects
+
+
+[page 5]
+Sengupta et al  Driving in Elderly with Vision Loss
+
+Figure 3. Bar graph showing the mean number of driving restrictions in
+age-related macular degeneration (AMD) and control subjects.
+
+with AMD and cataract, although AMD subjects comprised less than 10% (n ¼ 19) of the total sample studied.
+Another interview-based study conducted by Moore and
+Miller26 found that the older drivers with AMD used
+several strategies while driving, such as exercising extreme
+caution, relying on memory for the location of turn-offs
+and trafﬁc control devices, and increased scanning of the
+road, suggesting that driving is signiﬁcantly more challenging
+in visually impaired AMD patients who continue to drive.
+We found loss of VA in the better-seeing eye to be the best
+predictor for driving cessation, restriction, and other-driver
+preference. In a recent study of pooled data from the
+MARINA (Minimally Classic/Occult Trial of the Anti-VEGF
+Antibody Ranibizumab in the Treatment of Neovascular Age Related Macular Degeneration trial) and ANCHOR (AntiVEGF Antibody for the Treatment of Predominantly Classic
+Choroidal Neovascularization in Age-Related Macular
+Degeneration) trials, Bressler et al12 reported that patients
+receiving antievascular endothelial growth factor therapy
+for choroidal neovascularization were less likely to stop
+driving and had better perception of driving ability as
+compared with subjects receiving sham treatments. In these
+studies, more than 80% patients with AMD continued to
+drive at the 2-year follow-up period, similar to our data,
+although the frequency of driving limitation was not
+explored. Together, these data strongly suggest that preservation of VA may enable elderly subjects with AMD to
+sustain and enjoy their driving capabilities.
+In addition to worse VA in the better-seeing eye, we found
+that reduction in CS was associated signiﬁcantly with driving
+cessation and restriction, but not driving preference, similar
+to results reported from glaucoma patients.14 Bronstad et al,27
+in a recent study using driving simulators, showed that CS
+was the best predictor for responses when the participants
+with AMD perceived virtual pedestrians using the areas of
+the visual ﬁeld with no scotoma, similar to our results. In this
+study, VA was not correlated with response measures, that is,
+late and missed responses. In our study, when both VA and
+CS were included in predictive models for driving cessation
+and restriction, we found that only VA was associated
+
+signiﬁcantly with driving cessation and restriction, although
+both VA and CS were highly correlated. Our current study
+also found that women were considerably more likely to
+have driving restriction and that married individuals were
+more likely to prefer another to drive as compared with
+controls. Campbell et al22 also showed similar trends and in
+their study, with women twice as likely as men to stop
+driving (although driving restriction and other-driver preference were not measured by the authors). This trend suggests
+that women may be inherently more cautious and hence restrict
+themselves more often than men, and also that married women
+probably frequently defer driving to their spouse.
+One drawback of our study is the use of self-reported
+driving habits from patients, which may differ in different
+settings. Additionally, we used glaucoma suspects as controls in our study and not so-called truly normal subjects,
+although previous work has demonstrated that the visual
+characteristics of this group are almost identical to those of
+normal subjects from population-based surveys.15 In some
+aspects, this control group is better suited for comparison
+with our AMD cases because they match the AMD
+population with respect to seeking care at a tertiary
+referral care center, which may reﬂect very speciﬁc
+behavioral patterns and may have very low rates of
+driving cessation and driving restriction (suggesting that
+they are indeed visually normal despite their suspect
+glaucoma). Although we realize that intravitreal injections
+are a routine part of care for wet AMD, we excluded
+subjects who received intravitreal injections within 1 month
+of taking the questionnaire to minimize the effect of recent
+visual change. Given emerging evidence for the need for
+long-term maintenance of antievascular endothelial growth
+factor therapy in neovascular AMD,28 future studies would
+do well to also study patients receiving antievascular
+endothelial growth factor therapy. Finally, because our
+study was cross-sectional, we cannot determine when, or at
+what level of VA, our AMD patients stopped or restricted
+their driving. A strength of our study was the use of a detailed
+questionnaire to determine various aspects of driving. The use
+of this questionnaire allowed us to document the many ways
+that visually impaired AMD patients restrict their driving as
+compared with controls including distance, frequency, conditions, and driver preference.
+In conclusion, most of the visually impaired AMD patients in our series continued to drive, but had signiﬁcant
+driving restrictions. Further work is necessary to evaluate
+whether these restrictions are effective adaptations that
+effectively balance safety and independence, or whether
+they simply indicate that patients minimize their total
+driving risk by driving in dangerous conditions less often.
+
+References
+1. Klein R, Klein BE, Linton KL. Prevalence of age-related
+maculopathy. The Beaver Dam Eye Study. Ophthalmology
+1992;99:933–43.
+2. Kahn HA, Leibowitz HM, Ganley JP, et al. The Framingham
+Eye Study. I. Outline and major prevalence ﬁndings. Am J
+Epidemiol 1977;106:17–32.
+
+731
+
+
+[page 6]
+Ophthalmology Volume 121, Number 3, March 2014
+3. Eye Diseases Prevalence Research Group. Prevalence of age related macular degeneration in the United States. Arch Ophthalmol 2004;122:564–72.
+4. Eye Diseases Prevalence Research Group. Causes and prevalence of visual impairment among adults in the United States.
+Arch Ophthalmol 2004;122:477–85.
+5. Popescu ML, Boisjoly H, Schmaltz H, et al. Age-related eye
+disease and mobility limitations in older adults. Invest Ophthalmol Vis Sci 2011;52:7168–74.
+6. Mitchell J, Bradley C. Quality of life in age-related macular
+degeneration: a review of the literature. Health Qual Life
+Outcomes [serial online] 2006;4:97. Available at: http://
+www.hqlo.com/content/4/1/97. Accessed August 11, 2013.
+7. Fonda SJ, Wallace RB, Herzog AR. Changes in driving patterns and worsening depressive symptoms among older adults.
+J Gerontol B Psychol Sci Soc Sci 2001;56:S343–51.
+8. Edwards JD, Perkins M, Ross LA, Reynolds SL. Driving
+status and three-year mortality among community-dwelling
+older adults. J Gerontol A Biol Sci Med Sci 2009;64:300–5.
+9. Freeman EE, Gange SJ, Muñoz B, West SK. Driving status
+and risk of entry into long-term care in older adults. Am J
+Public Health 2006;96:1254–9.
+10. Hochberg C, Maul E, Chan ES, et al. Association of vision
+loss in glaucoma and age-related macular degeneration with
+IADL disability. Invest Ophthalmol Vis Sci 2012;53:3201–6.
+11. Finger RP, Fleckenstein M, Holz FG, Scholl HP. Quality of
+life in age-related macular degeneration: a review of available
+vision-speciﬁc psychometric tools. Qual Life Res 2008;17:
+559–74.
+12. Bressler NM, Chang TS, Varma R, et al. Driving ability reported by neovascular age-related macular degeneration patients after treatment with ranibizumab. Ophthalmology
+2013;120:160–8.
+13. Owsley C, McGwin G Jr. Driving and age-related macular
+degeneration. J Vis Impair Blind 2008;102:621–35.
+14. van Landingham SW, Hochberg C, Massof RW, et al. Driving
+patterns in older adults with glaucoma. BMC Ophthalmol [serial
+online] 2013;13:4. Available at: http://www.biomedcentral.
+com/14712-415/13/4. Accessed August 11, 2013.
+15. Ramulu PY, West SK, Munoz B, et al. Driving cessation and
+driving limitation in glaucoma: the Salisbury Eye Evaluation
+Project. Ophthalmology 2009;116:1846–53.
+
+16. Freeman EE, Muñoz B, Turano KA, West SK. Measures of
+visual function and their association with driving modiﬁcation in older adults. Invest Ophthalmol Vis Sci 2006;47:
+514–20.
+17. Turano KA, Munoz B, Hassan SE, et al. Poor sense of direction is associated with constricted driving space in older
+drivers. J Gerontol B Psychol Sci Soc Sci 2009;64:348–55.
+18. West SK, Munoz B, Wang F, Taylor H. Measuring progression of lens opacities for longitudinal studies. Curr Eye Res
+1993;12:123–32.
+19. Findl O, Buehl W, Menapace R, et al. Comparison of 4
+methods for quantifying posterior capsule opaciﬁcation.
+J Cataract Refract Surg 2003;29:106–11.
+20. Busse A, Sonntag A, Bischkopf J, et al. Adaptation of dementia screening for vision-impaired older persons: administration of the Mini-Mental State Examination (MMSE). J Clin
+Epidemiol 2002;55:909–15.
+21. Montorio I, Izal M. The Geriatric Depression Scale: a review
+of its development and utility. Int Psychogeriatr 1996;8:
+103–12.
+22. Campbell MK, Bush TL, Hale WE. Medical conditions associated with driving cessation in community dwelling, ambulatory elders. J Gerontol 1993;48:S230–4.
+23. Owsley C, Stalvey B, Wells J, Sloane ME. Older drivers and
+cataract: driving habits and crash risk. J Gerontol A Biol Sci
+Med Sci 1999;54:M203–11.
+24. DeCarlo DK, Scilley K, Wells J, Owsley C. Driving habits and
+health-related quality of life in patients with age-related maculopathy. Optom Vis Sci 2003;80:207–13.
+25. Ball K, Owsley C, Stalvey B, et al. Driving avoidance and
+functional impairment in older drivers. Accid Anal Prevent
+1998;30:313–22.
+26. Moore L, Miller M. Driving strategies used by older adults
+with macular degeneration: assessing the risks. Appl Nurs Res
+2005;18:110–6.
+27. Bronstad PM, Bowers AR, Albu A, et al. Driving with central
+ﬁeld loss. I. Effect of central scotomas on responses to hazards.
+JAMA Ophthalmol 2013;131:303–9.
+28. Rofagha S, Bhisitkul RB, Boyer DS, et al; SEVEN-UP Study
+Group. Seven-year outcomes in ranibizumab-treated patients
+in ANCHOR, MARINA, and HORIZON: a multicenter cohort
+study (SEVEN-UP). Ophthalmology 2013;120:2292–9.
+
+Footnotes and Financial Disclosures
+Originally received: April 16, 2013.
+Final revision: September 23, 2013.
+Accepted: September 25, 2013.
+Available online: December 2, 2013.
+
+Manuscript no. 2013-623.
+
+Wilmer Eye Institute, The Johns Hopkins University, Baltimore, Maryland.
+Financial Disclosure(s):
+The author(s) have no proprietary or commercial interest in any materials
+discussed in this article.
+Supported in part by the Dennis W. Jahnigen Memorial Award (American
+Geriatrics Society, New York, New York); the National Institutes of Health,
+Bethesda, Maryland (grant no.: EY018595); Research to Prevent Blindness
+
+732
+
+Robert and Helen Schaub Special Scholar Award, New York, New York;
+the Intramural Research Program of the National Institute on Aging, National Institutes of Health, Bethesda, Maryland; and the Doris Duke
+Charitable Research Foundation Clinical Research Fellowship, New York,
+New York. All funding organizations had no role in the design or conduct
+of this research.
+Correspondence:
+Pradeep Y. Ramulu, MD, PhD, Wilmer Eye Institute, The Johns Hopkins
+University, 600 North Wolfe Street, Maumenee B-110, Baltimore,
+MD 21287. E-mail: pramulu1@jhmi.edu.
+

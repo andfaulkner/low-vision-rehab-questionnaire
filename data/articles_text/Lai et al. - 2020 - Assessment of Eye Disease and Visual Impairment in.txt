@@ -1,0 +1,970 @@
+[page 1]
+HHS Public Access
+Author manuscript
+Author Manuscript
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August
+06.
+Published in final edited form as:
+
+Ophthalmic Surg Lasers Imaging Retina. 2020 May 01; 51(5): 262–270.
+doi:10.3928/23258160-20200501-03.
+
+Assessment of Eye Disease and Visual Impairment in the
+Nursing Home Population Using Mobile Health Technology
+Krystal Y. Lai, BS,
+Byers Eye Institute, Stanford University, Palo Alto, California
+
+Author Manuscript
+
+Mythili P. Pathipati, MD,
+Byers Eye Institute, Stanford University, Palo Alto, California
+Mark S. Blumenkranz, MD,
+Byers Eye Institute, Stanford University, Palo Alto, California
+Loh-Shan Leung, MD,
+Byers Eye Institute, Stanford University, Palo Alto, California; VA Palo Alto Health Care System,
+Palo Alto, California
+Darius M. Moshfeghi, MD,
+Byers Eye Institute, Stanford University, Palo Alto, California
+Brian C. Toy, MD,
+Roski Eye Institute, Department of Ophthalmology, University of Southern California, Los
+Angeles, California
+
+Author Manuscript
+
+David Myung, MD, PhD
+Byers Eye Institute, Stanford University, Palo Alto, California; VA Palo Alto Health Care System,
+Palo Alto, California
+
+Abstract
+BACKGROUND AND OBJECTIVE: To characterize the burden of eye disease and the utility of
+teleophthalmology in nursing home patients, a population with ophthalmic needs not
+commensurate with care received.
+
+Author Manuscript
+
+PATIENTS AND METHODS: Informed consent was obtained from 78 California Bay Area
+skilled nursing facility patients. Near visual acuity (VA) and anterior/posterior segment
+photographs were taken with a smartphone-based VA app and ophthalmic camera system. The
+Nursing Home Vision-Targeted Health-Related Quality of Life questionnaire was also
+Address correspondence to David Myung, MD, PhD, Byers Eye Institute, Stanford University, 2452 Watson Court, 9 Palo Alto, CA
+94303; djmyung@stanford.edu; and Brian Toy, MD, Roski Eye Institute, USC School of Medicine, 1450 San Pablo St., 4th Floor, Los
+Angeles, CA 90033; brian.toy@med.usc.edu.
+Dr. Blumenkranz is a member of the board of directors of Verana Health. Dr. Moshfeghi reports the following disclosures: Akebia
+(SAB), Bayer (steering committee), Congruence Medical (consultant), dSENTZ (founder, director, equity), Genentech (research),
+Grand Legend Technologies (equity), Iconic Therapeutics (steering committee, consultant), Linc (founder, equity), Novartis (DMC,
+consultant), Pr3vent (founder, equity), Promisight (SAB, equity), Pykus (SAB, equity), Regeneron (consultant, steering committee),
+Versl (founder, equity), Visunex (consultant, equity). Dr. Toy has received non-financial support from Verana Health (formerly
+Digisight Technologies) during the conduct of the study, as well as personal fees from Eleusis Ltd., Mallinckrodt inc., and Advanced
+Clinical outside the submitted work. Dr. Myung has a patent on the ophthalmic camera technology used in this study, but no active
+commercial relationship with the company (Verana Health) that commercialized the technology.
+Dr. Moshfeghi did not participate in the editorial review of this manuscript.
+
+
+[page 2]
+Lai et al.
+
+Page 2
+
+Author Manuscript
+
+administered. Risk factors for visual impairment were assessed. Institutional review board
+approval was obtained from Stanford University.
+RESULTS: Cataracts (51%), diabetic retinopathy (DR) (12%), optic neuropathy (12%), and age related macular degeneration (AMD) (10%) were common findings; 11.7% had other referral warranted findings. AMD and DR correlated with a higher risk of poor VA, with adjusted odds
+ratios of 22 (P = .01) and 43 (P = .004).
+CONCLUSIONS: This study demonstrated a high prevalence of poor VA and ophthalmic disease
+in the nursing home population impacting quality of life. Smartphone-based teleophthalmology
+platforms have the potential to increase access to eye care for nursing home patients.
+
+INTRODUCTION
+Author Manuscript
+
+According to the World Health Organization, adults older than 50 years of age are at higher
+risk for vision impairment.1 Prevalence of vision impairment is even higher in nursing
+homes, where a significant number of these adults reside. Compared to their
+noninstitutionalized peers, nursing home residents have a three- to 15-fold increase in
+incidence of visual impairment, depending on the geographical population and study setting.
+2-6 Rates of ophthalmic disease are also high in this population, with one study finding
+incidences in nursing home residents of cataract, macular degeneration, and glaucoma to be
+37% to 54%, 7% to 29%, and 4% to 10%, respectively.7,8
+Decreased visual function has been found to diminish quality of life through decreased
+functional ability as measured by the Barthel index, decreased activities of daily living
+independence, decreased mobility, increased fall risk, higher rates of depression, and
+negative self-reported impact on mental and physical well being.9-13
+
+Author Manuscript
+
+Current American Academy of Ophthalmology guidelines recommend that adults 55 to 64
+years have a comprehensive eye evaluation every 1 to 3 years, whereas individuals 65 years
+and older should be examined every 1 to 2 years, even if asymptomatic.14 Despite these
+guidelines and the high prevalence of visual impairment and eye disease in this vulnerable
+population, a study conducted in Alabama nursing homes demonstrated that 66% of patients
+had no documented eye exam, though 90% had insurance coverage. Another study found
+that only 46% of nursing home patients had seen an eye care professional in the last 2 years.
+15 Possible barriers to care include limited transportation resources, delay of specialty care
+until problems become significant, shortage of eye care professionals, and patients’
+diminished sense of importance regarding regular eye exams.2,4,16
+
+Author Manuscript
+
+A telehealth study conducted in long-term care facilities in Brisbane, Australia,
+demonstrated that 5% of external specialty consults were to ophthalmology, and all 40 of
+them required transport to an ophthalmologist.17 Teleophthalmology is a potential method
+for addressing accessibility barriers and supporting the increased need for ophthalmic care in
+the nursing home setting. Smartphone-based platforms have emerged as promising
+modalities to expand accessibility to teleophthalmology due to their portability. The Paxos
+ophthalmic camera and visual acuity testing app originally developed at Stanford University
+and later Verana Health (former Digisight Technologies) are examples of such a platform,
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 3]
+Lai et al.
+
+Page 3
+
+Author Manuscript
+
+one that has been previously validated with 91% sensitivity and 99% specificity to detect
+gradations of diabetic retinopathy (DR) through measurements of visual acuity (VA) and
+acquisition of anterior and posterior segment photographs remotely graded by an
+ophthalmologist.18
+The aim of this study was to characterize the prevalence of ophthalmic disease and visual
+impairment in the ethnically and socioeconomically diverse geriatric nursing home
+population of the California Bay Area that, to our knowledge, has not previously been
+studied. The use of smartphone-based screening tools in this study serves as a proof-of concept for teleophthalmology to address the ophthalmic needs of this population.
+
+PATIENTS AND METHODS
+Population
+
+Author Manuscript
+
+From three skilled nursing facilities (SNFs) in the San Francisco Bay Area, specifically
+Santa Clara and San Mateo counties, 78 patients were recruited. Of current residents invited
+to participate, those who provided informed consent were deemed eligible if they (1) were
+55 years or older and (2) scored 13 or higher on a Mini-Mental State Exam.19 Patient
+medical records at the SNFs were reviewed for age, sex, race, past ocular history, and other
+medical diagnoses. Institutional review board approval was granted by Stanford University,
+and the study was conducted in compliance with the principles of the Declaration of
+Helsinki.
+Assessment
+
+Author Manuscript
+
+Near VA and contrast sensitivity were measured with Paxos Checkup, a smartphone-based
+near visual acuity testing application.20 Personnel trained on Paxos Checkup conducted all
+assessments with patients’ own corrective lenses or a +2.5 diopter lens held in front of the
+eye as needed. Anterior and posterior segment photographs were taken with the Paxos Scope
+ophthalmic camera system coupled to an iPhone (Apple, Cupertino, CA).18,21,22 Anterior
+and posterior photographs were reviewed and graded remotely by an ophthalmologist
+masked to patient identifiers. Smartphone-acquired data were uploaded to a secure HIPAA compliant server.
+
+Author Manuscript
+
+To measure quality of life, the Nursing Home Vision-Targeted Health-Related Quality of
+Life (NHVQoL) questionnaire was administered. The questionnaire consists of nine
+subcategories: general vision; reading; ocular symptoms; mobility; psychological distress;
+activities of daily living, social activities, and hobbies; adaptation; and coping. Results were
+scored according to the provided scoring algorithm, with values ranging from 0 (lowest level
+of function) to 100 (highest level of function.23
+Statistical Analysis
+Descriptive statistics were calculated for prevalence of ophthalmic disease and vision
+impairment, range of visual function, quality of life, and demographic factors. Univariate
+and multivariate logistic regression analyses were performed to assess structure-function
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 4]
+Lai et al.
+
+Page 4
+
+Author Manuscript
+
+correlations between diagnoses ascertained by history and photography and level of visual
+function (VA, contrast sensitivity, and NHVQoL score).
+
+RESULTS
+Of the 78 patients who participated in this study, the mean age was 77 years ± 11 years.
+Males (51%) and females (49%) were approximately equally represented in an ethnically
+diverse sample that had Caucasian (65%), Latino (17%), Asian (10%), and African
+American (6%) representation.
+Functional vision measurements including VA and contrast sensitivity are summarized in
+Table 1. Mean scores for the nine subscales of the NHVQoL questionnaire can be found in
+Table 2.
+
+Author Manuscript
+
+Anterior and posterior segment photographs were available for 77 of the 78 patients with
+findings summarized in Table 3 and example images shown in Figures 3 and 4. Nine patients
+(11.7%) had referral-warranted findings in their anterior or posterior segment photography
+that were not previously documented in their medical records. “Referral-warranted” was
+defined as any abnormal finding for a disease that may need future treatment. These
+included visually significant cataract (2), referral-warranted DR (3), wet age-related macular
+degeneration (AMD) conversion (1), hypertensive retinopathy (2), and epiretinal membrane
+(1).
+
+Author Manuscript
+
+Univariate and multivariate logistic regression analyses were performed to evaluate the
+association between different factors and poor VA (≤ 20/200). Crude and adjusted odds
+ratios (ORs) were calculated for age, sex, race, and ophthalmic pathology. Male sex had a
+protective adjusted OR of 0.06 (P = .003). Patients with AMD and DR had a higher risk of
+poor VA, with adjusted ORs of 22 (P = .01) and 43 (P = .004), respectively (Table 4).
+
+DISCUSSION
+
+Author Manuscript
+
+This study was conducted to evaluate the prevalence of visual impairment and eye disease
+within a specific nursing home population in the Bay Area, specifically within Santa Clara
+and San Mateo counties. The final sample size ended up being representative of the ethnic
+diversity within these regions. According to census data, San Mateo County has a population
+of 60.6% Caucasian, 29.6% Asian, 24.5% Latino, and 2.8% African American, whereas
+Santa Clara county has a distribution of 53.8% Caucasian, 37.5% Asian, 25.6% Latino, and
+2.8% African American.24,25 To our knowledge, this is the first study to evaluate the
+prevalence of visual impairment and eye disease in the Bay Area nursing home population.
+One limitation of this study was low participation rates and a smaller sample size, which
+could have resulted in biased estimates of prevalence rates in this population. Future studies
+could strengthen participation by including more nursing homes in the geographic area.
+A large proportion of patients in this nursing home setting were found to have impaired or
+diminished VA (73%) and contrast sensitivity (79%). Prevalence of visual impairment (VA <
+20/40) was higher than previously reported values found in other geographical regions in the
+U.S.: 18.8%,3 57%,2 70%,26 and 29.11%.27 Prevalence of eye disease is also comparable to
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 5]
+Lai et al.
+
+Page 5
+
+Author Manuscript
+
+a previous study conducted in Baltimore nursing homes, which found the following
+incidences: cataract (37% to 54%) and AMD (7% to 29%). The prevalence of DR (12%),
+however, was much higher than the 2.3% of participants with signs of DR as found in the
+Blue Mountains eye study.12
+
+Author Manuscript
+
+Vision quality of life as determined by the NHVQoL was most affected by problems with
+general vision (70 ± 25), psychological (81 ± 25), reading (83 ± 22), and ocular symptoms
+(84 ± 19). Table 5 compares previous studies utilizing the NHVQoL questionnaire in nursing
+home populations. Variation in the reported NHQVoL scores between studies may be
+affected by interdependent factors including location, mean age, sex, socio-economic status
+of patients within the population, and incidence of pathologies within the population.
+Determining the specific effects of these factors on the NHQVoL scores would require a
+more in-depth analysis of the previously published data, though the variations themselves
+underscore the benefits of evaluating survey scores and corresponding prevalence of disease
+within specific populations before drawing population-specific conclusions or proceeding
+with interventions.
+
+Author Manuscript
+
+Though many of the mean scores for the nine subscales in this study were similar to or
+higher than other studies, any significant decrease from 100 (which indicates highest level of
+function) as was noted in general vision, psychological, reading, and ocular symptoms,
+warrants attention and potential intervention. By identifying specific domains in which
+quality of life is most affected, future public health initiatives and screening programs can be
+directed toward these areas. For example, general vision problems can potentially be
+attributed to treatable refractive error and cataract which can be addressed if detected
+through screening programs.3,16 Future work should be directed towards elucidating the
+underlying causes for lower scores in these subscales.
+To that end, this study found that female sex, AMD, and DR were risk factors associated
+with poor vision, defined as 20/200 or less. AMD and DR are both pathologies for which, if
+detected promptly, interventions can slow progression. Undetected and untreated, patients
+are at greater risk for developing poor vision, which in previous studies noted above can lead
+to decreased quality of life and poor health outcomes. These findings further support the
+need for improved screening and increased rates of comprehensive ophthalmic exams in the
+nursing home to catch these pathologies earlier and thus improve quality of life and health
+outcomes for this population.
+
+Author Manuscript
+
+The smartphone-based ophthalmic camera and visual acuity testing app that were used in
+this study serve as proof-of-concept for the use of universal ophthalmic telemedicine as an
+accessible nursing home screening tool. Using this system to capture anterior and posterior
+segment photographs, nine patients (11.7%) were found to have referral-warranted findings
+that were not noted in their medical records. These were new abnormal findings that
+suggested disease that may need future treatment and would benefit from a follow-up visit
+with an ophthalmologist.
+In concordance with previous studies, this study suggests a high prevalence of poor VA and
+ophthalmic disease in the nursing home population. To better detect and address these
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 6]
+Lai et al.
+
+Page 6
+
+Author Manuscript
+
+findings, telemedicine options like the mobile platform evaluated in this study provide
+screening solutions that are low cost, allow for remote analysis of patient data, and may be
+useful for the detection and triage of referral-warranted eye disease.
+
+Acknowledgments
+Supported by unrestricted grants to the Departments of Ophthalmology at both Stanford and USC from Research to
+Prevent Blindness (RPB), New York, New York, and a departmental P30-EY026877 core grant to Stanford from the
+National Eye Institute.
+
+REFERENCES
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+1. World Health Organization. Blindness and visual impairment. World Health Organization http://
+www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment. Updated October 11,
+2018.
+2. Owsley C, McGwin G, Scilley K, Meek GC, Dyer A, Seker D. The visual status of older persons
+residing in nursing homes. Arch Ophthalmol. 2007;125(7):925–930. 10.1001/archopht.125.7.925
+PMID:17620572 [PubMed: 17620572]
+3. Tielsch JM, Javitt JC, Coleman A, Katz J, Sommer A. The prevalence of blindness and visual
+impairment among nursing home residents in Baltimore. N Engl J Med. 1995;332(18): 1205–1209.
+10.1056/NEJM199505043321806 PMID:7700315 [PubMed: 7700315]
+4. West SK, Friedman D, Muñoz B, et al. A randomized trial of visual impairment interventions for
+nursing home residents: study design, baseline characteristics and visual loss. Ophthalmic
+Epidemiol. 2003;10(3):193–209. 10.1076/opep.10.3.193.15081 PMID:12815493 [PubMed:
+12815493]
+5. Horowitz A Vision impairment and functional disability among nursing home residents.
+Gerontologist. 1994;34(3):316–323. 10.1093/geront/34.3.316 PMID:8076872 [PubMed: 8076872]
+6. Mitchell P, Hayes P, Wang JJ. Visual impairment in nursing home residents: the Blue Mountains Eye
+Study. Med J Aust. 1997; 166(2):73–76. 10.5694/j.1326-5377.1997.tb138724.x PMID:9033561
+[PubMed: 9033561]
+7. Friedman DS, O’Colmain BJ, Muñoz B, et al.; Eye Diseases Prevalence Research Group.
+Prevalence of age-related macular degeneration in the United States. Arch Ophthalmol.
+2004;122(4):564–572. 10.1001/archopht.1941.00870100042005 PMID:15078675 [PubMed:
+15078675]
+8. Friedman DS, Wolfs RC, O’Colmain BJ, et al.; Eye Diseases Prevalence Research Group.
+Prevalence of open-angle glaucoma among adults in the United States. Arch Ophthalmol.
+2004;122(4):532–538. 10.1001/archopht.122.4.532 PMID:15078671 [PubMed: 15078671]
+9. Knudtson MD, Klein BE, Klein R, Cruickshanks KJ, Lee KE. Age-related eye disease, quality of
+life, and functional activity. Arch Ophthalmol. 2005;123(6):807–814. 10.1001/archopht.123.6.807
+PMID:15955982 [PubMed: 15955982]
+10. Rubin GS, Roche KB, Prasada-Rao P, Fried LP. Visual impairment and disability in older adults.
+Optom Vis Sci. 1994;71(12):750–760. 10.1097/00006324-199412000-00005 PMID:7898882
+[PubMed: 7898882]
+11. Rokicki W, Drozdzowska B, Czekajło A, et al. Relationship between visual status and functional
+status and the risk of falls in women. The RAC-OST-POL study. Arch Med Sci. 2016;12(6):1232–
+1238. 10.5114/aoms.2015.55146 PMID:27904513 [PubMed: 27904513]
+12. Chia EM, Wang JJ, Rochtchina E, Smith W, Cumming RR, Mitchell P. Impact of bilateral visual
+impairment on health-related quality of life: the Blue Mountains Eye Study. Invest Ophthalmol Vis
+Sci. 2004;45(1):71–76. 10.1167/iovs.03-0661 PMID:14691156 [PubMed: 14691156]
+13. Ip S, Leung YF, Mak WP Depression in institutionalized older people with impaired vision. Int J
+Geriatr Psychiatry. 2001;15(12):1120–1124. 10.1002/1099-1166(200012)15:12<1120::AIDGPS256>3.0.CO;2-X
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 7]
+Lai et al.
+
+Page 7
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+14. AAO Hoskins Center for Quality Eye Care. Frequency of ocular examinations - 2015. American
+Academy of Ophthalmology. https://www.aao.org/clinical-statement/frequency-of-ocularexaminations. Updated March 2015.
+15. Keller BK, Hejkal T, Potter JF Barriers to vision care for nursing home residents. J Am Med Dir
+Assoc. 2001;2(1):15–21. 10.1016/S1525-8610(04)70148-6 PMID:12812600 [PubMed: 12812600]
+16. Friedman DS, Muñoz B, Roche KB, Massof R, Broman A, West SK. Poor uptake of cataract
+surgery in nursing home residents: the Salisbury Eye Evaluation in Nursing Home Groups study.
+Arch Ophthalmol. 2005;123(11):1581–1587. 10.1001/archopht.123.11.1581 PMID:16286622
+[PubMed: 16286622]
+17. Gray LC, Edirippulige S, Smith AC, et al. Telehealth for nursing homes: the utilization of specialist
+services for residential care. J Telemed Telecare. 2012;18(3):142–146. 10.1258/jtt.2012.SFT105
+PMID:22362837 [PubMed: 22362837]
+18. Toy BC, Myung DJ, He L, et al. Smartphone-based dilated fundus photography and near visual
+acuity testing as inexpensive screening tools to detect referral warranted diabetic eye disease.
+Retina. 2016;36(5):1000–1008. 10.1097/IAE.0000000000000955 PMID:26807627 [PubMed:
+26807627]
+19. Folstein MF, Folstein SE, McHugh PR. “Mini-mental state”. A practical method for grading the
+cognitive state of patients for the clinician. J Psychiatr Res. 1975;12(3):189–198.
+10.1016/0022-3956(75)90026-6 PMID:1202204 [PubMed: 1202204]
+20. Tsui I, Drexler A, Stanton AL, Kageyama J, Ngo E, Straatsma BR. Pilot study using mobile health
+to coordinate the diabetic patient, diabetologist, and ophthalmologist. J Diabetes Sci Technol.
+2014;8(4):845–849. 10.1177/1932296814529637 PMID:24876413 [PubMed: 24876413]
+21. Myung DJ, Jais A, He L, Blumenkranz MS, Chang RT. 3D printed smartphone indirect lens
+adapter for rapid, high quality retinal imaging. J Mob Technol Med. 2014;3(1):9–15. 10.7309/
+jmtm.3.1.3
+22. Myung DJ, Jais A, He L, Chang RT. Simple, low-cost smartphone adapter for rapid, high quality
+ocular anterior segment imaging: A photo diary. J Mob Technol Med. 2014;3(1):2–8. 10.7309/
+jmtm.3.1.2
+23. Dreer LE, McGwin G Jr, Scilley K, et al. Development of a nursing home vision-targeted health related quality of life questionnaire for older adults. Aging Ment Health. 2007;11(6):722–733.
+10.1080/13607860701366186 PMID:18074260 [PubMed: 18074260]
+24. U.S. Census Bureau. QuickFacts: San Mateo county, California U.S. Census Bureau https://
+www.census.gov/quickfacts/fact/table/sanmateocounty-california/PST045217#qf-headnote-a.
+Updated July 1, 2018.
+25. U.S. Census Bureau. QuickFacts: Santa Clara county, California U.S. Census Bureau https://
+www.census.gov/quickfacts/fact/table/santa-claracountycalifornia/INC110216. Updated July 1,
+2018.
+26. Elliott AF, McGwin G Jr, Owsley C. Vision impairment among older adults residing in assisted
+living. J Aging Health. 2013;25(2):364–378. 10.1177/0898264312472538 PMID:23338786
+[PubMed: 23338786]
+27. Dev MK, Paudel N, Joshi ND, Shah DN, Subba S. Impact of visual impairment on vision-specific
+quality of life among older adults living in nursing home. Curr Eye Res. 2014;39(3):232–238.
+10.3109/02713683.2013.838973 PMID: 24144491 [PubMed: 24144491]
+28. Lamoureux EL, Fenwick E, Moore K, Klaic M, Borschmann K, Hill K. Impact of the severity of
+distance and near-vision impairment on depression and vision-specific quality of life in older
+people living in residential care. Invest Ophthalmol Vis Sci. 2009;50(9):4103–4109. 10.1167/
+iovs.08-3294 PMID:19357359 [PubMed: 19357359]
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 8]
+Lai et al.
+
+Page 8
+
+Author Manuscript
+Author Manuscript
+Figure 1.
+
+Photograph of the Paxos Scope smartphone adapter. An indirect ophthalmoscopy lens was
+fitted to the adapter, which together were coupled and aligned to the camera lens of an
+iPhone.
+
+Author Manuscript
+Author Manuscript
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 9]
+Lai et al.
+
+Page 9
+
+Author Manuscript
+Author Manuscript
+
+Figure 2.
+
+Author Manuscript
+
+Screen shots of the visual acuity (VA) testing app used with the Paxos Scope. (Left) VA
+measurement using an interactive alphabet letter match. (Middle) An example of an anterior
+segment photograph captured with the Paxos Scope adapter. (Right) An example of a dilated
+fundus photograph taken with the same adapter. Photographs and data collected through the
+app are securely uploaded through a HIPAA-compliant telemedicine platform (Verana
+Health, formerly Digisight Technologies).
+
+Author Manuscript
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 10]
+Lai et al.
+
+Page 10
+
+Author Manuscript
+Author Manuscript
+
+Figure 3.
+
+Example anterior segment photographs taken with the Paxos Scope showing (A) cataract,
+(B) pseudophakia with posterior capsular opacification, (C) cataract with posterior
+synechiae, and (D) suspicious iris nevi.
+
+Author Manuscript
+Author Manuscript
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 11]
+Lai et al.
+
+Page 11
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 4.
+
+Example posterior segment fundus photographs taken with Paxos Scope showing (A)
+neovascular age-related macular degeneration (AMD) with active choroidal neovascular
+membrane and hemorrhage, (B) high-risk intermediate AMD and advanced dry AMD with
+geographic atrophy, and (C) asymmetric disc cupping.
+
+Author Manuscript
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 12]
+Author Manuscript
+
+Author Manuscript
+62 (79%)
+24 (31%)
+
+< 0.9
+
+0.7 ± 0.5
+
+Worse eye
+< 1.5
+
+1.1 ± 0.4
+
+23 (29%)
+
+Better eye
+
+57 (73%)
+
+≤ 20/200
+
+41 ± 17
+
+53 ± 17
+
+< 20/40
+
+Worse eye
+
+Better eye
+
+VA = visual acuity; ETDRS = Early Treatment Diabetic Retinopathy Study; SD = standard deviation
+
+ETDRS letters were presented to the patients using forced multiple-choice, single-letter discriminations at 14 inches. Mean number of letters identified in the better and worse eye and standard deviation
+were reported and converted to equivalent Snellen scores. A 5-letter difference was equivalent to one Snellen line.
+
+Number of patients, %
+
+LogCS, mean ± SD
+
+Contrast Sensitivity
+
+Number of patients, %
+
+ETDRS letters, mean ± SD
+
+Near VA
+
+Author Manuscript
+
+Visual Acuity and Contrast Sensitivity Measurements
+
+Author Manuscript
+
+TABLE 1
+Lai et al.
+Page 12
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 13]
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+83 ± 22
+84 ± 19
+97 ± 9
+92 ± 12
+89 ± 16
+81 ± 25
+85 ± 26
+91 ± 16
+
+Reading
+
+Ocular symptoms
+
+ADLs
+
+Mobility
+
+Activities
+
+Psychological
+
+Adapting
+
+Social
+
+NHVQoL = Nursing Home Vision-Targeted Health-Related Quality of Life; ADLs = activities of daily living; SD = standard deviation
+
+70 ± 25
+
+Overall
+
+General vision
+
+Mean ± SD
+
+Quality of Life Scale (0-100)
+
+Mean Quality of Life Scores and Standard Deviations for Each of the Nine Subcategories in the NHVQoL Questionnaire
+
+Author Manuscript
+
+TABLE 2
+Lai et al.
+Page 13
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 14]
+Author Manuscript
+
+Author Manuscript
+26 (34%)
+4 (5%)
+2 (3%)
+1 (1%)
+
+Pseudophakia
+
+Iris nevus
+
+Peripheral iridotomy
+
+Uveitis
+
+9 (12%)
+9 (12%)
+8 (10%)
+
+Diabetic retinopathy
+
+Optic neuropathy
+
+AMD
+
+AMD = age-related macular degeneration
+
+Percentages are based on the 77 patients for whom anterior and posterior segment photographs were available. Other fundus abnormalities included vascular abnormalities (tortuosity, hypertensive
+retinopathy), pigmentary retinopathy, choroidal nevus, and epiretinal membrane.
+
+10 (13%)
+
+Other fundus abnormalities
+
+n (%)
+
+Posterior Segment Findings
+
+39 (51%)
+
+Cataract
+
+n (%)
+
+Anterior Segment Findings
+
+Author Manuscript
+
+Summary of Anterior and Posterior Segment Findings
+
+Author Manuscript
+
+TABLE 3
+Lai et al.
+Page 14
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 15]
+Author Manuscript
+
+Author Manuscript
+0.1
+
+Male Sex
+
+11
+7.2
+0.3
+3.2
+
+Diabetic Retinopathy
+
+Optic Neuropathy
+
+Other Fundus
+
+22
+43
+
+.01*
+
+.09
+
+.28
+
+0.9
+
+.006*
+
+10.1
+
+0.8
+
+3.9
+
+1.9
+
+.19
+
+.10
+
+.41
+
+.28
+
+.06
+
+Ref
+
+0.06
+
+.001*
+
+Ref
+
+1.1
+
+OR
+
+.02
+
+P Value
+
+.004*
+
+.01*
+
+.97
+
+.11
+
+.84
+
+.19
+
+.65
+
+Ref
+
+.003*
+
+.14
+
+P Value
+
+Multivariate
+
+VA = visual acuity; OR = odds ratio; Ref = reference; AMD = age-related macular degeneration
+
+Indicates P values < .05
+
+*
+
+Odds ratio calculated using univariate and multivariate logistic regression.
+
+4.4
+
+AMD
+
+1.9
+
+Asian
+
+Pseudophakia
+
+2.0
+
+Latino
+
+6
+
+0.8
+
+African American
+
+Cataract
+
+Ref
+
+Caucasian
+
+Race
+
+1.1
+
+Age
+
+OR
+
+Univariate
+
+Author Manuscript
+
+Risk Factors for Poor VA (≤ 20/200)
+
+Author Manuscript
+
+TABLE 4
+Lai et al.
+Page 15
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+
+
+[page 16]
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+51%
+
+70 ± 25
+83 ± 22
+84 ± 19
+97 ± 9
+92 ± 12
+89 ± 16
+81 ± 25
+85 ± 26
+91 ± 16
+
+Male
+
+General Vision
+
+Reading
+
+Ocular Symptoms
+
+ADLs
+
+Mobility
+
+Activities
+
+Psychological
+
+Adapting
+
+Social
+
+33.54%
+
+75 ± 7.12
+
+Kathmandu Valley, Nepal
+
+Dev 2014
+
+89 ± 17
+
+85 ± 24
+
+67 ± 23
+
+86 ± 22.6
+
+86 ± 16
+
+94 ± 15
+
+69 ± 29
+
+78 ± 28
+
+64 ± 21
+
+58.83 ± 17.22
+
+40.36 ± 22.57
+
+37.28 ± 23.41
+
+64.10 ± 22.46
+
+63.00 ± 19.08
+
+64.85 ± 18.18
+
+41.38 ± 11.74
+
+62.39 ± 24.27
+
+43.39 ± 22.11
+
+NHQVoL Scores (Mean ± SD)
+
+16%
+
+82 ± 7.7
+
+Birmingham, AL
+
+Dreer 2007
+
+91.63 ± 16.62
+
+85.78 ± 21.91
+
+85.78 ± 21.91
+
+75.04 ± 22.93
+
+90.55 ± 12.97
+
+94.78 ± 12.57
+
+90.22 ± 13.92
+
+75.78 ± 32.19
+
+77.49 ± 20.13
+
+40%
+
+83.9 ± 9.9
+
+Victoria, Australia
+
+Lamoureux 2009
+
+NVHQoL = Nursing Home Vision-Targeted Health-Related Quality of Life; ADLs = activities of daily living; SD = standard deviation
+
+77 ± 11
+
+Bay Area, CA
+
+Mean Age
+
+Location
+
+This Study
+
+Comparison of Previously Reported Quality of Life Mean Scores and Standard Deviations for the Nine Subcategories in the NVHQoL Questionnaire
+
+Author Manuscript
+
+TABLE 5
+Lai et al.
+Page 16
+
+Ophthalmic Surg Lasers Imaging Retina. Author manuscript; available in PMC 2020 August 06.
+

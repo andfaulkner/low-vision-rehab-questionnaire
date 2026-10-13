@@ -1,0 +1,1423 @@
+[page 1]
+C L I N I C A L
+
+A N D
+
+E X P E R I M E N T A L
+
+OPTOMETRY
+
+Vision and self-reported mobility performance in
+patients with low vision
+Clin Exp Optom 2007; 90: 2: 115–123
+Sarah A Bibby BOptom
+Erin R Maslin BOptom
+Roberta McIlraith BOptom
+Grace P Soong BOptom PhD
+Department of Optometry and Vision
+Science, The University of Auckland,
+New Zealand
+E-mail: gsoong@uic.edu
+
+Submitted: 1 September 2005
+Revised: 20 September 2006
+Accepted for publication: 23 October
+2006
+
+DOI:10.1111/j.1444-0938.2007.00120.x
+Background: As vision plays a significant role in mobility performance, it is usual to refer
+low vision patients, particularly those who complain of mobility difficulties, for orientation and mobility (O&M) training to help them maintain safe independent travel. Our
+study aimed to determine whether there was a relationship between measures of vision
+and self-reported mobility, and the applicability of a patient-based mobility assessment
+in patients with heterogeneous causes of visual loss.
+Method: We assessed the high and low contrast visual acuity, visual field and scanning
+ability of 30 patients with low vision. A validated mobility questionnaire was used to assess
+the participants’ perceived visual ability for independent mobility.
+Results: Vision was significantly correlated with self-reported mobility performance,
+however, visual field was a significant predictor accounting for 56.5 per cent of the
+variance. The instrument was well constructed with valid content and high reliability
+scores.
+Conclusions: Self-reported mobility performance together with measures of vision could
+be used as a guide to refer patients for O&M training. The patient-based assessment
+instrument was valid to measure perceived visual ability for independent mobility in
+patients with heterogeneous causes of visual loss.
+
+Key words: low vision, orientation and mobility training, scanning ability, self-reported mobility, visual acuity, visual field
+
+Vision plays an important role in navigation of the environment. Research has
+shown that visual acuity, visual field and
+contrast sensitivity correlate with mobility
+performance, however, visual field and
+contrast sensitivity are stronger predictors
+than visual acuity.1–4
+In a group of participants with heterogeneous causes of low vision, Marron and
+Bailey1 showed that visual field and contrast sensitivity together accounted for 53
+per cent of the variance in mobility performance. In a more recent study, Kuyk,
+
+Elliott and Fuhr3 investigated mobility performance (time to complete a course and
+the number of mobility incidents) of a
+large sample of visually impaired adults
+(n = 156) using measures of visual sensory
+and perceptual functions. They found that
+visual field, scanning reaction time and
+contrast sensitivity together accounted for
+45 per cent and 48 per cent of the variance
+in total time and total errors, respectively.
+Using patients with age-related macular
+degeneration (AMD), Brown and associates5 demonstrated that visual acuity
+
+© 2007 The University of Auckland
+Journal compilation © 2007 Optometrists Association Australia
+
+was a significant predictor accounting for
+more than 70 per cent of the variance in
+each mobility measure.
+Thus, if there are deficits in these visual
+functions, one’s navigational skills would
+be adversely affected and consequently,
+one may not be able to travel
+independently.
+Fortunately, low vision patients can be
+referred by their eye care practitioners
+and/or rehabilitation officers for orientation and mobility (O&M) training to
+maintain their ability to travel indepenClinical and Experimental Optometry 90.2 March 2007
+
+115
+
+
+[page 2]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+dently.6 In O&M training, low vision
+patients learn new mobility skills to ambulate and negotiate the environment safely
+and independently.7 By learning new skills
+to compensate for their visual loss, low
+vision patients have increased travel
+options, thus maintaining their quality of
+life. Geruschat and Del’Aune8 showed
+that mobility skills of low vision patients
+improved significantly following O&M
+training. Further, Kuyk and associates9
+showed that self-reported mobility function of low vision patients improved significantly following a comprehensive
+blind rehabilitation program that included O&M training.
+There are no established guidelines in
+New Zealand or Australia that eye care
+practitioners and rehabilitation officers
+could use to refer patients for O&M training. In Australia, low vision patients are
+usually referred for general vision rehabilitation services, which may include O&M
+training based on their visual field and
+visual acuity.10,11 Self-reported mobility difficulty is often used as a general guide by
+eye care practitioners and rehabilitation
+officers to determine if O&M training is
+warranted. This was confirmed by Beggs12
+who found that mobility officers at a
+residential rehabilitation centre referred
+their clients for O&M training based on
+how the clients felt about their mobility
+skills. It is not surprising that low vision
+people’s perception of their own mobility
+skills will determine whether they are confident to travel independently. It may not
+be unexpected that those patients with
+poor vision are likely to report difficulties
+with travelling independently.
+Our study sought to determine if there
+is a relationship between vision and
+self-reported mobility performance. We
+hypothesised that vision is significantly
+related to self-reported mobility performance.
+We used a validated patient-based
+assessment instrument, which was used
+in patients with retinitis pigmentosa13 or
+glaucoma14 to assess self-reported mobility
+performance. Our study also aimed to
+determine the applicability of the questionnaire in patients with heterogeneous
+causes of low vision.
+Clinical and Experimental Optometry 90.2 March 2007
+
+116
+
+ID
+
+Age
+(years)
+
+Ocular condition
+
+Visual
+acuity
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+85
+53
+41
+31
+81
+82
+82
+49
+40
+85
+27
+73
+48
+26
+85
+77
+64
+83
+86
+75
+79
+81
+81
+91
+75
+83
+83
+76
+44
+48
+
+AMD
+Retinitis pigmentosa
+Choroideraemia
+Leber’s optic atrophy, glaucoma
+AMD
+AMD
+AMD
+Ocular trauma
+Congenital glaucoma
+Hypentensive retinopathy
+Glaucoma, Peter’s anomaly
+AMD
+Retinitis pigmentosa
+Retinitis pigmentosa
+AMD
+AMD
+Central retinal vein occlusion
+AMD
+AMD
+AMD
+AMD
+AMD
+AMD
+Diagnosis unknown
+Cataracts
+Glaucoma
+Macular hole
+Diagnosis unknown
+Retinitis pigmentosa
+Choroidal scar
+
+6/120
+6/9.5
+6/19
+6/6000
+6/95
+6/30
+6/48
+6/6000
+6/24
+6/38
+6/120
+6/950
+6/75
+6/75
+6/12
+6/12
+6/15
+6/38
+6/9.5
+6/15
+6/12
+6/12
+6/12
+6/7.5
+6/24
+6/15
+6/9.5
+6/75
+6/15
+6/5
+
+AMD: age-related macular degeneration
+
+Table 1. Characteristics of subjects
+
+approval for the study. All participants
+gave written informed consent for participation following explanation of the
+nature of the study.
+
+METHODS
+
+Participants
+Thirty-two low vision participants were
+recruited from the Low Vision Clinic, the
+University of Auckland. Two participants
+were excluded from the study because
+they were no longer visually impaired due
+to recent cataract surgery. The participants’ ages ranged from 26 to 91 years
+and they had various ocular conditions
+(Table 1). The mean age (standard deviation) of the participants was 65.1 (± 21.7)
+years.
+The Auckland Ethics Committee of the
+New Zealand Ministry of Health granted
+
+Measurements of vision
+The participants’ vision was assessed binocularly with their habitual optical corrections using the following visual function
+tests.
+HIGH CONTRAST VISUAL ACUITY (HCVA)
+
+Binocular HCVA was measured using the
+high contrast Bailey-Lovie distant chart,
+scored letter-by-letter and expressed as
+the logarithm of the minimum angle of
+resolution.15
+© 2007 The University of Auckland
+
+Journal compilation © 2007 Optometrists Association Australia
+
+
+[page 3]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+LOW CONTRAST VISUAL ACUITY (LCVA)
+
+LCVA was measured using the low contrast
+Bailey-Lovie distant chart and scored
+using the same letter-by-letter method as
+the high contrast Bailey-Lovie chart.15
+There were 10 participants (33 per
+cent) who were unable to perceive any
+letters from the low contrast chart
+irrespective of the test distance. This
+indicates that using the low contrast
+Bailey-Lovie chart for contrast sensitivity
+assessment may not be appropriate for
+low vision patients who have severe visual
+loss.
+VISUAL FIELD (BVF)
+
+The kinetic program of the Allergan
+Humphrey Field Analyser (600 series) was
+used to measure the participants’ visual
+field with the following stimulus parameters used by Soong, Lovie-Kitchin and
+Brown:16
+–
+1. size: IV 4 E (Goldmann notation)
+2. diameter: 4.6 mm
+3. luminance: 13.2 cd/m2
+4. background: 10 cd/m2
+5. speed: 4 deg/sec.
+A C++ Builder computer program was
+used to convert polar co-ordinates of the
+isopters into points on the surface of a
+sphere to compute the participants’ visual
+field in percentage of a sphere.17 The
+remaining binocular visual field as a percentage of a sphere (BVF) was calculated
+by taking the difference between the area
+of the total visual field and that of any
+scotoma within the field area.
+SCANNING ABILITY (SA)
+
+The participants’ SA were assessed by
+measuring their scanning reaction time
+(SRT),18 using the Director 8 Macromedia
+computer program based on the time
+(seconds) taken to locate, in order, a
+sequence of four numbers (1, 2, 3, 4) on
+each of four black and white photographs
+with randomly scattered distractor stimuli
+(Figure 1).
+In each photograph, the numbers were
+located at different positions so that the
+participants were required to scan the
+computer monitor to locate them. The
+presentations of the four photographs
+were randomised among participants to
+
+Figure 1. Black and white photographs, each with four numbered targets for measurement of the participants’ scanning reaction time (SRT). Numbers are not drawn to scale.
+
+avoid any bias in performance on a
+photograph.
+Each photograph was displayed on a
+17-inch computer monitor (average
+luminance, 56.2 cd/m2) with the subject
+seated to provide a 40 cm viewing distance
+to the monitor. The participants used
+their appropriate spectacle correction for
+the distance. The size of each number was
+equivalent to 6/120.
+Each participant was required to indicate the location of the numbers on each
+photograph by using a plastic pointer. The
+response was keyed into the program by
+an experimenter using the computer keyboard. There were five trials for each photograph, thus totalling 20 trials for each
+subject for the four photographs. There
+were no significant differences in performance between the photographs and
+between trials, when the scanning ability
+test was used with a group of normally
+sighted participants (L Wood, M Collie, M
+Hay and GP Soong, personal communication). We calculated the mean of the five
+trials for each photograph, then the mean
+of the four photographs to determine the
+SRT of each participant.
+
+© 2007 The University of Auckland
+Journal compilation © 2007 Optometrists Association Australia
+
+Two participants were unable to perceive any of the numbered targets on the
+photographs due to severe visual loss.
+The participants’ scanning ability, SA
+(per second) was calculated as: SA = 1/
+SRT.
+We assigned a nominal value of five
+standard deviations about the mean to
+those participants who were unable to perceive letters and numbers on the Bailey Lovie charts and on the photographs
+in the scanning ability assessment, respectively. For the participants who were
+unable to perceive the stimulus of the
+kinetic perimetric program, we assigned a
+value of zero to each participant’s BVF
+score, indicating that there was no remaining visual field recorded.
+
+Assessment of self-reported
+mobility
+We used the patient-based assessment
+instrument, the Independent Mobility
+questionnaire to assess the participants’
+perceived visual ability for independent
+mobility.13,14 The questionnaire was administered verbally by an experimenter.
+Using Rasch analysis, Turano and as Clinical and Experimental Optometry 90.2 March 2007
+
+117
+
+
+[page 4]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+sociates13 and Turano, Massof and
+Quigley14 showed that the instrument was
+well constructed with valid content and
+high reliability for assessing perceived visual ability for independent mobility in
+patients with retinitis pigmentosa13 and
+patients with glaucoma.14 There is no
+other validated patient-based mobility assessment instrument that could be used to
+assess self-reported mobility of patients
+with heterogeneous causes of visual loss.
+The instrument consisted of 35 items of
+mobility situations (part one) and a series
+of questions requiring ‘Yes’ or ‘No’
+answers about the participants’ mobility related behaviour, such as the history of
+falls and whether they had had mobility
+training (part two). The participants were
+required to rate on a scale of 1 to 5 the
+level of difficulty they encountered in
+each of the 35 mobility situations, when
+unaccompanied by a person or without
+the use of a mobility device. They were
+informed that 1 meant ‘no difficulty’ and
+5 meant ‘extreme difficulty’ while 2, 3 and
+4 were not explained. The participants
+were also told to score a mobility situation
+‘NA’ if they performed an activity with
+assistance and to score ‘X’ if the difficulty
+was due to causes other than visual loss.
+An abbreviated form of the questionnaire
+is included in Table 3. The complete questionnaire can be viewed in the appendix
+of Turano and associates.13
+
+Data analysis
+The Statistical Package for the Social Sciences (SPSS) was used for data analysis.
+Using the Kolmogorov-Smirnov test, we
+found that the measures of vision were not
+significantly different from a normal distribution (p > 0.05).
+We also used Rasch analysis to estimate
+interval measures of perceived visual ability for independent mobility (person measure) and visual ability required for each
+mobility situation (item measure) from
+the ordinal ratings of difficulty of the
+35 mobility situations.13,19 The analysis
+transformed the raw ordinal data into
+an equal–interval scale using logarithmic
+transformations of the raw data and probabilistic equations.20 The measurement
+unit of the interval scale was the logit,
+Clinical and Experimental Optometry 90.2 March 2007
+
+118
+
+Person measure
+Pearson correlation
+p value
+
+HCVA
+(LogMAR)
+
+LCVA
+(LogMAR)
+
+BVF
+(percentage
+of a sphere)
+
+SA
+(per second)
+
+0.410
+0.024
+
+0.576
+0.001
+
+-0.762
+0.000
+
+-0.662
+0.000
+
+HCVA: high contrast visual acuity
+LCVA: low contrast visual acuity (sample size was reduced in the analysis)
+BVF: binocular visual field
+SA: scanning ability
+
+Table 2. Pearson correlations between person measure (perceived visual ability for independent mobility) and HCVA, LCVA, BVF and SA
+
+which was used for the person and item
+measures.
+If a person’s perceived visual ability for
+independent mobility was more than the
+visual ability required for a mobility situation, we expected that he/she had a
+greater likelihood of reporting less difficulty with the mobility situation. On the
+other hand, if a person had less perceived
+visual ability, we expected that they would
+report greater difficulty in that mobility
+situation.
+Using a Winsteps Rasch-model computer program,21 an unconditional maximum likelihood estimation routine was
+performed to determine the parameters
+of the Wright and Masters22 version of the
+Rasch model for rating scale data. The
+analysis provided reliability indices to indicate the spread of person ability and item
+difficulty along the measurement continuum.20 The person reliability index indicated the replicability of person ordering
+using a different instrument measuring
+the same construct, perceived visual ability
+for independent mobility. The item reliability index indicated the replicability of
+item placements along the item difficulty
+continuum if the instrument was applied
+to a different sample of participants with
+comparable ability.
+In addition, the Rasch measurement
+model produced chi-square fitting statistics to determine how well the data set met
+the requirements of the model. The infit
+value provided information about an item
+performance for participants whose ability
+
+was close to the item’s difficulty. The infit
+statistic was calculated by weighting each
+squared standardised residual value by its
+variance for each item responded by every
+participant and then summed. The total
+value was then divided by the sum of the
+variances. The outfit value, which was not
+weighted, provided information on the
+influence of outlying scores. The outfit statistic was obtained based on the sum of
+squared standardised response residuals,
+that is, for every participant, each standardised residual cell was squared for every
+item responded to by the participant and
+summed. The average was then derived by
+dividing the number of items responded
+to by the participant. Both outfit and infit
+statistics were reported in mean squares
+and were transformed into the standardised forms.
+As the person measure estimate was
+not significantly different from a normal
+distribution (p > 0.05), we used Pearson
+product moment correlation to determine
+the relationships between the visual functions and person measure estimate.
+RESULTS
+
+Relationship between vision and
+self-reported mobility
+performance
+The participants’ person measure was significantly correlated with HCVA, LCVA,
+BVF and SA (Table 2). This suggests that
+patients with reduced HCVA, LCVA, BVF
+© 2007 The University of Auckland
+
+Journal compilation © 2007 Optometrists Association Australia
+
+
+[page 5]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+2
+
+Person measure = 0.231 - 0.142BVF
+(adjusted R square = 0.565, p < 0.05)
+Person measure: Perceived visual ability for independent mobility
+BVF: Remaining binocular visual field in percentage of a sphere
+
+Person measure (logit)
+
+1
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+-1
+-2
+-3
+-4
+-5
+-6
+
+BVF (percentage of a sphere)
+
+Figure 2. Relationship between person measure and visual
+field (BVF) with linear regression line
+
+and/or SA are likely to report difficulty
+with independent mobility.
+We also performed a linear stepwise
+multiple regression to determine the
+amount of variability in the person measure that can be accounted for by the
+visual function measures. The analysis
+showed that BVF was the only significant
+predictor accounting for 56.5 per cent
+of the variance in person measure
+(Figure 2).
+
+Rasch analysis
+The Rasch analysis produced a map of the
+person and item measures, which displayed the level of perceived visual ability
+for independent mobility (person measure) (left side) and visual ability required
+for each mobility situation (item measure)
+(right side) (Figure 3). The items of
+mobility situations were indicated by the
+item numbers from the questionnaire,
+while each subject’s perceived visual ability for independent mobility was represented by an ‘x’. The logit scale, which had
+equal values along the vertical axis, was
+displayed in the centre of the map.
+The item-person map showed the relationship between the item measure estimate and person measure estimate. The
+participants’ perceived visual ability loca-
+
+tions were plotted, so that any subject who
+was located at the same position as a
+mobility situation on the logit scale had a
+50 per cent probability of succeeding in
+performing that mobility situation. If a
+mobility situation were located further up
+the scale, the subject would have a higher
+probability of succeeding in performing
+the mobility situation.
+The participants with least perceived
+visual ability for independent mobility
+were at the top of the scale, while those
+with most perceived visual ability were at
+the bottom of the scale. The mobility situations that were located further down the
+scale became more difficult to perform.
+For example, moving about at work
+(item 4) was more difficult to perform
+than moving about at home (item 3)
+(Figure 3).
+Table 3 shows the 35 mobility situations
+listed in order of least to most required
+visual ability, together with the error and
+fit statistics. The mobility items that
+required the least visual ability were ‘moving about in the home’, ‘moving about at
+work’ and ‘walking in familiar areas’ while
+‘walking in high glare areas’, ‘walking at
+night’ and ‘walking in unfamiliar areas’
+required the most visual ability. Walking in
+high-glare areas (item 18) was the most
+
+© 2007 The University of Auckland
+Journal compilation © 2007 Optometrists Association Australia
+
+difficult to perform requiring the most
+amount of visual ability.
+The mean of the item measure was
+located at zero by default.20 The standard
+deviation for the item measure was close
+to 1 (standard deviation = 0.91), indicating that the majority of the items
+were located between +1 and -1 logits
+(Figure 3). The reliability of the item measure estimates was high on a scale from 0
+to 1 (reliability = 0.90), indicating that a
+large amount of the variance of the item
+measure was due to the variance in the
+measure and minimal due to measurement error.
+Figure 4 shows the distribution of the
+person measure estimates. The mean of
+the person measure estimate of -0.85 was
+moderately close to zero, indicating that
+the sample’s perceived visual ability was
+closely matched to the difficulty of the
+mobility items. In comparison to the item
+measure, the person measure estimates
+had a slightly greater spread of variation
+(standard deviation = 1.13). The reliability was high (reliability = 0.93), indicating
+that the same ordering of person measure
+estimates was likely to be expected, if
+another set of mobility items that measured the same construct (perceived visual
+ability for independent mobility) were
+applied to our sample of participants.
+In our sample, the means of the
+unstandardised fitting statistics for both
+the person measure and item measure
+estimates were very close to the expected
+Rasch-model value of 1, hence, producing
+standardised fitting statistics (Z values) of
+the expected mean zero in both measures
+(Table 4). The standard deviations were
+close to the expected 1.
+With the exception of one participant
+(ID 30), whose values exceeded the Rasch
+model’s expectation by more than two
+standard deviations, the person and item
+performance in our study were close to
+the expected Rasch model for measuring
+perceived visual ability for independent
+mobility.
+DISCUSSION
+In agreement with our hypothesis, we
+showed that measures of vision were sigClinical and Experimental Optometry 90.2 March 2007
+
+119
+
+
+[page 6]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+Figure 3. Map of person and item measures of the 30 participants and 35 items of mobility situations
+Clinical and Experimental Optometry 90.2 March 2007
+
+120
+
+nificantly correlated with perceived visual
+ability for independent mobility. The current findings confirm previous research,
+which showed that visual acuity, visual
+field, contrast sensitivity and scanning
+ability were important in mobility performance of low vision patients.2,4,23–25 This
+indicates that patients with reduced visual
+acuity, visual field, contrast sensitivity and/
+or scanning ability are likely to report difficulty with independent mobility, hence
+may need O&M assessment.
+Our findings agree with West and colleagues,26 who found significant associations between self-reported mobility
+limitations and high and low contrast
+visual acuity, contrast sensitivity and visual
+field in a large population-based study.
+Szlyk and co-workers27 also showed that
+self-reported mobility was significantly correlated with visual field and high contrast
+visual acuity in a group of patients with
+retinitis pigmentosa (RP).
+Similarly, in a group of participants with
+RP, Turano and associates13 showed that
+perceived visual ability for independent
+mobility was covariant with contrast sensitivity and visual field but not with high
+contrast visual acuity. In another study,
+Turano, Massof and Quigley14 found that
+visual acuity was significantly correlated
+with perceived visual ability in a group of
+participants with glaucoma.
+The difference in findings may be
+attributed to the different causes of low
+vision in the studies and the stage or severity of the disease. This suggests that the
+importance of different visual functions in
+mobility performance may be dependent
+on the type and progression of the ocular
+disease.
+We found that visual field was the significant predictor in perceived visual ability
+for independent mobility in a multivariate
+regression model, that is, visual acuity,
+contrast sensitivity and scanning ability
+did not explain any more of the variance
+than visual field. Similarly, West and coworkers26 showed that visual field was
+a significant predictor of self-reported
+mobility limitations in their cohort of noninstitutionalised residents. By assessing
+mobility performance, Lovie-Kitchin and
+associates17 and Haymes and associates28
+© 2007 The University of Auckland
+Journal compilation © 2007 Optometrists Association Australia
+
+
+[page 7]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+Mobility situation
+
+3
+4
+1
+13
+5
+26
+17
+24
+28
+29
+25
+22
+27
+33
+15
+30
+14
+7
+19
+11
+16
+20
+34
+10
+6
+21
+31
+23
+35
+32
+12
+8
+2
+9
+18
+
+Item
+measure
+(logit)
+
+Error
+
+3.23
+1.76
+1.29
+1.18
+1.04
+0.88
+0.72
+0.72
+0.39
+0.31
+0.15
+0.14
+0.11
+-0.08
+-0.10
+-0.12
+-0.26
+-0.27
+-0.30
+-0.33
+-0.33
+-0.38
+-0.42
+-0.44
+-0.48
+-0.56
+-0.57
+-0.65
+-0.67
+-0.80
+-0.81
+-0.84
+-0.92
+-1.01
+-1.58
+
+0.95
+0.45
+0.29
+0.28
+0.37
+0.24
+0.23
+0.23
+0.21
+0.20
+0.20
+0.23
+0.20
+0.20
+0.20
+0.19
+0.20
+0.20
+0.20
+0.19
+0.19
+0.19
+0.20
+0.21
+0.19
+0.21
+0.18
+0.20
+0.18
+0.19
+0.18
+0.19
+0.20
+0.21
+0.21
+
+Moving in home
+Moving at work
+Walking in familiar areas
+Walking up steps
+Moving in classroom
+Avoid bumping into walls
+Walking through doorways
+Aware of person’s presence
+Avoid bumping into shoulder-height objects
+Avoid bumping into waist-height objects
+Avoid bumping into people
+Adjusting to lighting changes at night: street lights to indoor
+Avoiding bumping into head-height objects
+Moving around in social gatherings
+Stepping onto curbs
+Avoiding knee-height objects
+Walking down steps
+Moving about outdoors
+Adjusting to lighting changes during the day: indoor to outdoors
+Detecting ascending stairs
+Stepping off curbs
+Adjusting to lighting changes during the day: outdoors to indoors
+Finding restrooms in public places
+Using public transportations
+Moving about in stores
+Adjusting to lighting changes at night: indoors to street lights
+Avoiding bumping into low lying objects
+Walking in dimly-lit indoor areas
+Seeing cars at intersections
+Avoiding tripping over uneven travel surface
+Detecting descending stairs
+Moving about in crowded situations
+Walking in unfamiliar areas
+Walking at night
+Walking in high glare areas
+
+Infit
+
+Outfit
+
+MNSQ
+
+ZSTD
+
+MNSQ
+
+ZSTD
+
+0.73
+0.90
+0.61
+1.09
+0.70
+0.54
+0.50
+0.89
+0.78
+0.80
+0.67
+1.00
+1.13
+1.18
+0.65
+1.47
+1.07
+1.12
+1.21
+1.25
+0.86
+1.08
+1.39
+1.21
+1.11
+0.82
+1.20
+1.38
+1.45
+0.72
+0.88
+1.00
+0.45
+1.25
+0.78
+
+0.2
+0.1
+-0.9
+0.4
+-0.5
+-1.5
+-1.8
+-0.2
+-0.7
+-0.6
+-1.3
+0.1
+0.6
+0.7
+-1.3
+1.6
+0.3
+0.5
+0.8
+1.0
+-0.4
+0.4
+1.3
+0.8
+0.5
+-0.6
+0.8
+1.3
+1.6
+-1.1
+-0.4
+0.1
+-2.4
+0.9
+-0.7
+
+0.21
+0.60
+0.86
+2.27
+0.66
+0.49
+0.63
+0.89
+0.81
+0.70
+0.53
+0.82
+0.97
+1.09
+0.81
+1.13
+1.13
+1.01
+1.43
+1.03
+0.94
+0.87
+1.16
+1.16
+0.88
+0.93
+1.04
+2.02
+1.83
+0.79
+0.72
+0.78
+0.42
+0.90
+0.74
+
+0.20
+-0.20
+0.10
+1.40
+-0.40
+-0.70
+-0.50
+0.00
+-0.20
+-0.50
+-1.00
+-0.10
+0.10
+0.30
+-0.30
+0.40
+0.40
+0.20
+1.00
+0.20
+0.00
+-0.20
+0.50
+0.60
+-0.20
+0.00
+0.20
+2.10
+2.00
+-0.50
+-0.70
+-0.50
+-1.90
+-0.10
+-0.60
+
+MNSQ : mean square fit statistics
+Zstd : normalised fit statistics
+Numbers adjacent to each item indicate the order of the items on the questionnaire
+
+Table 3. Results of Rasch analysis for the 35 questionnaire items applied to the participants
+
+demonstrated that visual field played a
+more important role than other visual
+functions, such as visual acuity and contrast sensitivity for predicting mobility performance in people with low vision. This
+suggests that patients with visual field loss
+are likely to report mobility problems as a
+result of not being able to navigate safely
+in the environment. Therefore, it is essential to refer patients with visual field loss
+for O&M training when they complain of
+
+mobility difficulty, so that they are able to
+maintain safe independent travel.
+
+Use of instrument in patients with
+heterogeneous causes of low
+vision
+Our study showed that the patient-based
+assessment instrument had good content
+and valid construction in our sample of
+participants with heterogeneous causes of
+low vision. This suggests that the recorded
+
+© 2007 The University of Auckland
+Journal compilation © 2007 Optometrists Association Australia
+
+observations using the instrument
+reflected the measurement of the underlying variable, perceived visual ability for
+independent mobility. Based on our sample of participants, the instrument had
+high reliability indices indicating both
+item and person measures were widely
+spread along the visual ability dimension.
+Our findings agree with Turano and
+associates13 and Turano, Massof and Quigley,14 who used the instrument on patients
+Clinical and Experimental Optometry 90.2 March 2007
+
+121
+
+
+[page 8]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+current findings confirmed the findings of
+Soong,29 who showed that mobility performance of low vision people was adversely
+affected in glare conditions. Similarly, in
+a forced-choice survey, Smith, Del’Aune
+and Geruschat30 showed that walking
+under glare conditions presented the
+most difficult mobility task for people with
+low vision.
+
+7
+
+Number of participants
+
+6
+5
+4
+3
+2
+
+Future research
+1
+0
+
+-6
+
+-5
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+Person measure (logit)
+
+Figure 4. Distribution of person measure estimates derived
+from Rasch analysis applied to the difficulty ratings of the 35
+mobility situations
+
+Person measure (logit)
+Mean
+SD
+Mean
+SD
+
+Infit mean square
+0.98
+0.39
+Infit standardised Z
+0
+1.3
+
+Outfit mean square
+0.96
+0.35
+Outfit standardised Z
+0
+0.8
+
+Infit mean square
+0.97
+0.27
+Infit standardised Z
+0
+1.0
+
+Outfit mean square
+0.95
+0.41
+Outfit standardised Z
+0
+0.8
+
+Item measure (logit)
+Mean
+SD
+Mean
+SD
+SD: standard deviation
+
+Table 4. Fit statistics of the item measure and person measure estimates
+
+with retinitis pigmentosa or glaucoma to
+assess perceived visual ability for independent mobility.
+Similar to these workers,13,14 we found
+that moving about at home and walking in
+familiar areas required the least visual ability. This is not a surprising result, as low
+vision people are usually familiar with
+their home environments and other environments, with which they have had travel
+experience. There are usually no major
+changes in object positioning such as furClinical and Experimental Optometry 90.2 March 2007
+
+122
+
+niture at home, thus they are able to anticipate where objects are positioned to avoid
+bumping into them.
+In contrast, the participants in our study
+had the most difficulty with moving about
+in dim lighting conditions and extreme
+lighting conditions such as glare. Turano
+and associates13 and Turano, Massof and
+Quigley14 also showed that the mobility situations with which their participants had
+the most difficulty were related to low or
+extremely high light level conditions. The
+
+The correlation between contrast sensitivity and perceived visual ability for independent mobility might have been limited
+by the fact that one-third of the participants were unable to perform the test.
+Thus, in a future study, contrast sensitivity
+could be assessed using the Pelli-Robson
+chart to obtain measurements in participants with severe visual loss. Further, the
+measurement of scanning ability might
+have been confounded by a motor component (eye-hand co-ordination), as the
+participants were required to point at a
+number using a pointer as soon as they
+located each number on the computer
+monitor screen.
+We had a small sample of participants
+with large variability in measures of vision.
+For future research, a larger sample size
+could be used to confirm the findings of
+this study. Further, it would be interesting
+to determine the correlation between self reported mobility and objective measures
+of mobility performance.
+It is also essential to determine the
+critical level of perceived visual ability for
+independent mobility and measures of
+vision, at which mobility performance
+becomes sufficiently impaired to warrant
+O&M training. This would provide accurate guidelines to eye care practitioners
+and rehabilitation officers to assess better
+the need for O&M training for people
+with low vision. This would enable rehabilitation resources to be used effectively and
+efficiently in view of the limited financial
+funding available in Australia and New
+Zealand for rehabilitation of people with
+low vision.
+ACKNOWLEDGEMENT
+
+We would like to thank Mr Graham Blair
+and Mr Chris Anderson for provision
+© 2007 The University of Auckland
+
+Journal compilation © 2007 Optometrists Association Australia
+
+
+[page 9]
+Vision and self-reported mobility Bibby, Maslin, McIlraith and Soong
+
+of their computer programs, the C++
+Builder and the Director 8 Macromedia
+computer program respectively. We are
+grateful to Associate Professor Robert
+Jacobs, Department of Optometry and
+Vision Science, the University of Auckland
+for his suggestions on improving the
+manuscript.
+GRANTS AND FINANCIAL ASSISTANCE
+
+The study was supported in part by the
+Auckland Medical Research Foundation,
+project grant number 81409.
+REFERENCES
+1. Marron JA, Bailey IL. Visual factors and orientation-mobility performance. Am J Optom
+Physiol Opt 1982; 59: 413–426.
+2. Bailey IL, Greer R, Owen J. Orientation and
+visually-directed mobility with restricted
+visual fields. Optom Vis Sci 1993; 70: 130.
+3. Kuyk T, Elliott JL, Fuhr PSW. Visual correlates of obstacle avoidance in adults with
+low vision. Optom Vis Sc 1998; 75: 174–182.
+4. Hassan SE, Lovie-Kitchin JE, Woods RL.
+Mobility performance in age-related macular degeneration. Optom Vis Sci 2002; 79:
+697–707.
+5. Brown B, Brabyn L, Welch L, HaegerstromPortnoy G, Colenbrander A. Contribution
+of vision variables to mobility in age-related
+maculopathy patients. Am J Optom Physiol
+Opt 1986; 63: 733–739.
+6. Welsh R. Promoting adult independence
+through orientation and mobility. J Vis
+Impairment Blindness 1981; 75: 115–121.
+7. Peterson L, Cory D, Wiener W, Brooks A.
+O&M services for all individuals with functional mobility limitations. The 9th International Mobility Conference; 1998; Atlanta,
+USA. Atlanta: Rehabilitation Research &
+Development Center, Atlanta VA Medical
+Center.
+8. Geruschat DR, Del’Aune W. Reliability and
+validity of O&M instructor observations. J
+Vis Impairment Blindness 1989; 83: 457–460.
+9. Kuyk T, Elliott JL, Wesley J, Scilley K, McIntosh E. Mobility function in older veterans
+improves after blind rehabilitation. J Rehabil
+Res Dev 2004; 41: 337–346.
+10. Keeffe JE, Lovie-Kitchin JE, Taylor HR.
+Referral to low vision services by ophthalmologists. Aust NZ J Ophthalmol 1996; 24:
+207–214.
+11. Lovie-Kitchin JE, Keeffe JE, Taylor HR.
+Referral to low vision services by optometrists. Clin Exp Optom 1996; 79: 227–233.
+12. Beggs WDA. How mobility officers assess
+need for mobility training. Int J Rehabil Res
+1990; 13: 281–290.
+13. Turano KA, Geruschat DR, Stahl JW, Massof RW. Perceived visual ability for indepen-
+
+dent mobility in persons with retinitis
+pigmentosa. Invest Ophthalmol Vis Sci 1999;
+40: 865–877.
+14. Turano KA, Massof RW, Quigley HA. A
+self-assessment instrument designed for
+measuring independent mobility in RP
+patients: generalizability to glaucoma patients. Invest Ophthalmol Vis Sci 2002; 43:
+2874–2881.
+15. Kitchin J, Bailey I. Task complexity and
+visual acuity in senile macular degeneration. Aust J Optom 1981; 64: 235–242.
+16. Soong GP, Lovie-Kitchin JE, Brown B. Does
+mobility performance of visually impaired
+adults improve immediately following orientation and mobility training? Optom Vis
+Sci 2001; 78: 657–666.
+17. Lovie-Kitchin JE, Mainstone J, Robinson J,
+Brown B. What areas of the visual field are
+important for mobility in low vision patients. Clin Vis Sci 1990; 5: 249–263.
+18. Kuyk T, Elliott J, Biehl J, Fuhr PS. Environmental variables and mobility performance
+in adults with low vision. J Am Optom Assoc
+1996; 67: 403–409.
+19. Rasch G. Probabilistic Models for Some
+Intelligence and Attainment Tests. Chicago: Mesa Press, 1980.
+20. Bond TG, Fox CM. Applying the Rasch
+Model: Fundamental Measurement in the
+Human Sciences. New Jersey: Lawrence
+Erlbaum Associates, 2001.
+21. Linacre JM, Winsteps Rasch Measurement
+Computer Program. Chicago: Winsteps.
+com, 2003.
+22. Wright BD, Masters GN. Rating Scale Analysis: Rasch Measurement. Chicago: Mesa
+Press, 1982.
+23. Black A, Lovie-Kitchin J, Woods R, Arnold
+N, Byrnes J, Murrish J. Mobility performance with retinitis pigmentosa. Clin Exp
+Optom 1997; 80: 1–12.
+24. Kuyk T, Elliott JL, Fuhr PSW. Visual correlates of mobility in real world settings in
+older adults with low vision. Optom Vis Sci
+1998; 75: 538–547.
+25. Geruschat DR, Turano KA, Stahl JW. Traditional measures of mobility performance
+and retinitis pigmentosa. Optom Vis Sci
+1998; 75: 525–537.
+26. West CG, Gildengorin G, HaegerstromPortnoy G, Schneck ME, Lott L, Brabyn JA.
+Is vision function related to physical functional performance in older adults? J Am
+Geriatr Soc 2002; 50: 136–145.
+27. Szlyk JP, Fishman GA, Alexander KR, Revelins BI, Derlacki DJ, Anderson RJ. Relationship between difficulty in performing
+daily activities and clinical measures of
+visual function in patients with retinitis pigmentosa. Arch Ophthalmol 1997; 115: 53–59.
+28. Haymes S, Guest D, Heyes A, Johnston A.
+Mobility of people with retinitis pigmentosa
+as a function of vision and psychological
+variables. Optom Vis Sci 1996; 73: 621–637.
+
+© 2007 The University of Auckland
+Journal compilation © 2007 Optometrists Association Australia
+
+29. Soong GP. The effect of orientation and
+mobility training on vision and mobility
+performance in visually impaired adults.
+Unpublished thesis; Brisbane: Queensland
+University of Technology, 2000.
+30. Smith AJ, Del’Aune W, Geruschat DR. Low
+vision mobility problems: Perceptions of
+O&M specialists and persons with low
+vision. J Vis Impairment Blindness 1992; 86:
+58–62.
+
+Corresponding author:
+Dr Grace Soong
+Department of Ophthalmology and Visual
+Sciences
+University of Illinois at Chicago
+B-110, 1855 W. Taylor Street
+Chicago IL, 60612
+USA
+E-mail: gsoong@uic.edu
+
+Clinical and Experimental Optometry 90.2 March 2007
+
+123
+

@@ -1,0 +1,2154 @@
+[page 1]
+ORIGINAL INVESTIGATION
+
+Personalized Telerehabilitation for a Head-mounted Low Vision Aid:
+A Randomized Feasibility Study
+Marie-Céline Lorenzini, MSc, PhD1,2,3* and Walter Wittich, PhD, FAAO1,2,3
+
+SIGNIFICANCE: A recent trend in low vision rehabilitation has been the use of portable head-mounted displays to
+enhance residual vision. Our study confirms the feasibility of telerehabilitation and informs the development of
+evidence-based recommendations to improve telerehabilitation interventions to reduce device abandonment.
+PURPOSE: To develop evidence-based recommendations for telerehabilitation, we conducted a feasibility study in
+preparation for a future randomized trial on the use of head-mounted displays.
+METHODS: We recruited novice eSight Eyewear users, randomized 1:1: the experimental group received telerehabilitation
+by a low vision therapist using video conferencing; the control group completed at home self-training provided by the device manufacturer. The primary feasibility outcomes were whether the recruitment goal of 60 participants (30/group)
+was attainable within 1 year and how participants judged the accessibility and acceptability of the telerehabilitation.
+An exploratory outcome was the impact of telerehabilitation on eSight Eyewear use behavior.
+RESULTS: Among 333 eSight users, 57 participants were enrolled, of which 35% withdrew from the study,
+whereas the remainder completed the 6-month follow-up. The withdrawal rate was higher in the control group but did
+not differ significantly from the experimental group. High accessibility (93% of participants accessed the platform)
+and global acceptability (100% overall satisfaction) were reported among those who completed the telerehabilitation
+protocol. The therapist had no difficulty judging the participants' reading performances qualitatively while participants
+used their device to read their eSkills and VisExc guides. Most participants improved their daily activities, based on qualitative reports of the attained goals. Seventy-nine percent of individuals declined to participate, whereas 16% of participants decided not to use eSight Eyewear anymore.
+CONCLUSIONS: The data demonstrated the feasibility of a randomized controlled telerehabilitation study for people with low vision using a head-mounted display. Positive feedback from the participants and the therapist suggests the potential value of this modality for low vision services.
+Optom Vis Sci 2021;98:570–581. doi:10.1097/OPX.0000000000001704
+Copyright © 2021 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Optometry.
+This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives
+License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work
+cannot be changed in any way or used commercially without permission from the journal.
+Supplemental Digital Content: Direct URL links are provided within the text.
+
+Worldwide, around 314 million people have a visual impairment.1 This is a public health concern that is likely to expand as
+the population of older adults increases. Visual impairment is globally prevalent across the lifespan and includes blindness and low
+vision. Low vision is defined as a partial visual impairment that is
+not correctable with glasses, contact lenses, or surgical interventions and interferes with normal everyday functioning.2 Low vision
+rehabilitation is the primary intervention for individuals with reduced visual function to improve independence in activities of
+daily living and quality of life by enhancing their remaining sight.3
+The most common form of intervention in low vision rehabilitation
+is the provision of, and training in, the use of visual aids, such as
+optical and electronic magnification devices, including handheld
+magnifiers and close-circuit televisions.4
+A recent development in low vision rehabilitation has been toward the use of wearable head-mounted displays that are immersive
+systems (e.g., virtual reality) providing hands-free magnification and
+contrast enhancements at all distances, using optoelectronics and
+real-time video technology.5 One of the first head-mounted displays,
+www.optvissci.com
+
+Author Afﬁliations:
+1
+School of Optometry, Université de
+Montréal, Montreal, Quebec, Canada
+2
+Centre de Recherche Interdisciplinaire
+en Réadaptation de Montréal
+métropolitain, Centre de réadaptation
+Lethbridge-Layton-Mackay du CIUSSS
+du Centre-Ouest-de-l'Île-de-Montréal,
+Montreal, Quebec, Canada
+3
+Institut Nazareth et Louis-Braille du
+CISSS de la Montérégie-Centre,
+Montreal, Quebec, Canada
+*marie-celine.lorenzini@umontreal.ca
+
+the Low Vision Enhancement System, demonstrated positive vision
+outcomes, improving visual acuity and contrast sensitivity.6,7 Benefitting from major technological evolution, head-mounted display performance has been compared with traditional optical visual aids and
+demonstrated positive outcomes.8 Continuing this trend, a new
+head-mounted display, eSight Eyewear (eSight Corp., Toronto, Ontario,
+Canada), was designed to improve on previous devices by not only providing adjustable magnification, autofocus, contrast enhancement,
+hands-free use, and portability but also offering the user approximately
+30° of field of view through digital image processing.9 A multicenter
+prospective trial demonstrated improvement in visual ability including
+activities of daily living and reading in 51 novice users followed up for
+3 months.9
+Despite the functional and evidence-based benefits of magnifying low vision aid use,10 rates of device nonuse are highly variable.11 A cross-sectional study revealed that of 109 eSight
+Eyewear users, 17.4% (n = 19) did not use their device in the past
+3 months.12 The reasons for nonuse had been identified as multifactorial, involving the device, the user, the environment, and the
+
+Optom Vis Sci 2021; Vol 98(6)
+
+570
+
+
+[page 2]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+intervention. The costs associated with the device as well as the low
+vision examination and low motivation of the patient to undergo a
+low vision examination13 were identified as important barriers.11
+In addition, limited access to transportation to receive training
+with a device11,14 and insufficient training duration and frequency
+were also reported as predictors of low vision aid abandonment.11
+This is particularly a challenge given the paucity of specialty low vision clinics, thereby considerably affecting the access to care in rural areas of geographically dispersed countries, such as the United
+States and Canada.15,16
+In recent years, telerehabilitation has become a viable alternative for delivering rehabilitation services, allowing individuals to remain at home while interacting with a rehabilitation professional
+via the Internet.17 A systematic review of telerehabilitation across
+disabilities revealed that most of the interventions were successful,18 thereby contributing to evidence-based practice recommendations toward its implementation. In the context of low vision, a
+Cochrane systematic review documented very few applications
+and no published outcomes.19 Since then, a pilot study confirmed
+the feasibility and acceptability of training to optimize the use of
+handheld magnifiers in 10 individuals via telerehabilitation.20
+Given the absence of randomized controlled studies and to help
+guide evidence-based practice recommendations for this modality,
+the present feasibility study was conducted. The primary objective
+was to determine whether telerehabilitation with participants with
+low vision using their eSight Eyewear would be feasible. Specifically, we asked whether 1 year would be sufficient to recruit the required number of participants, what proportion of participants
+would be lost to follow-up, and whether participants would
+judge the intervention as accessible and acceptable. Our secondary objective was to determine if personalized intervention
+through telerehabilitation would be able to reduce discontinuance of head-mounted display use.
+
+METHODS
+Study Design
+Following the CONSORT guidelines,21 this parallel two-arm randomized feasibility study consisted of training individuals with low
+vision in the use of eSight Eyewear when engaging in activities of
+daily living. The participants were enrolled through the School of Optometry of the Université de Montréal, Montreal, Quebec, Canada.
+The protocol has previously been published in detail,22 was approved by the institutional review board of the Centre de recherche
+interdisciplinaire en réadaptation du Montréal métropolitain (CRIR
+No. 1286-1217), and complied with the ethical standards for
+research with human participants defined by the Declaration
+of Helsinki.
+
+Sample Size and Participant Eligibility Criteria
+Through eSight Corporation, we recruited novice users aged
+18+ years who had a tablet, desktop, or laptop computer with Internet access and recently bought (<1 month) or were renting eSight
+Eyewear. The eligible rental period offered by the device manufacturer was 2 weeks. At the end of the rental period, renters had the
+possibility to either purchase (keep their current device) or return
+their device to the manufacturer. Detailed exclusion criteria are
+available in the detailed protocol publication.22 Fig. 1 summarizes
+the design of the study with each aspect described hereinafter.
+www.optvissci.com
+
+Interventions
+Participants were randomized (1:1 ratio) into the control and experimental groups to each receive 30 hours of training for 1 month.
+The detailed interventions are described in the protocol publication.22 Briefly, the control group received a self-training standard
+provided by eSight, including the eSkills learning and training
+guide,23 which is provided when purchasing the device. This guide
+is a self-administered program that spans 1 hour per day for 1 month
+(30 hours) to be performed self-guided at home and is divided into 4
+consecutive weeks of exercises. The experimental group received
+personalized training through telerehabilitation provided by a low vision therapist using the eSkills learning and training guide23 and
+digitized exercises extracted from the VisExc eccentric fixation program24 (partially adapted from the McGill Low Vision Manual25).
+The personalized training consisted of six 1-hour online training sessions within the first 2 weeks (6 hours), 12 additional hours of homework in parallel during the same 2 weeks, and an additional 12 hours
+of homework in the following 2 weeks. At the end of their respective
+training, the participants continued to use the device in their environment until the end of the study 5 months later (and beyond).
+
+Outcomes
+Primary Outcomes
+The primary outcome was the feasibility of telerehabilitation:
+(1) enrollment target (signed consent) within 12 months, (2) retention of participants until 6 months after randomization, (3)
+accessibility of telerehabilitation training, and (4) acceptability
+of telerehabilitation training.
+Our enrollment target was 60 participants with 30 individuals in
+each group (a sample size comparable to other feasibility studies in
+low vision rehabilitation26) for 12 months, with a success criterion
+of n = 60 (100%). Given the proposed recruitment period, this
+sample size allowed for the evaluation of any possible limitations
+with enrollment and retention more robustly and provided rich data
+on accessibility and acceptability of telerehabilitation training. We
+recorded the number of eligible individuals declining to participate
+and why and captured whether any participants withdrew from the
+study and why. Retention was monitored by follow-up evaluations
+and through questionnaires including individual questions specifically developed for the study to measure the number of participants
+who withdrew from the study. Accessibility of the training by
+telerehabilitation was determined from the report of any problems related to Internet connectivity, access to the Reacts telehealth platform (https://www.iitreacts.com), use of the hardware, and audio/
+visual quality. We used the secured React telehealth platform in its
+simplest basic form of Skype/FaceTime-like session to make navigation as easy as possible for both the clinician and participants. At the
+time of the study, the eSight device did not allow the clinician to also
+visualize what the participants are seeing through their display. Regarding acceptability, participants of the experimental group completed a satisfaction survey with a research assistant, whereby they
+were asked to rate the experience of telerehabilitation for comfort,
+efficiency, effectiveness, likelihood for future use, and overall satisfaction rated on a 4-point Likert scale (strongly agree, somewhat
+agree, somewhat disagree, and strongly disagree). The low vision
+therapist was asked to use a rating scale (no difficulty, little difficulty, moderate difficulty, and impossible) to indicate the difficulty
+with using the videoconference portal to clinically and qualitatively
+estimate the participants' working distance (i.e., distance participants
+are from their intended viewing object such as reading material) and
+
+Optom Vis Sci 2021; Vol 98(6)
+
+571
+
+
+[page 3]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+FIGURE 1. Chart showing participant flow. Design of the study with each of the following aspects: recruitment, enrollment, allocation with intervention
+types, evaluation timeline, and primary and secondary outcomes.
+
+www.optvissci.com
+
+Optom Vis Sci 2021; Vol 98(6)
+
+572
+
+
+[page 4]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+lighting environment while using their eSight device and to quantify
+their reading fluency (i.e., speed, accuracy) using shared reading materials, as well as her impressions of the effect of both the eSkills guide
+and/or the VisExc program on participants (estimate of goals reached
+for each participant ranged from completely to not at all ). The low
+vision therapist and participants shared common work materials
+composed of exercises that they could easily refer to: the eSkills
+learning and training guide23 and digitized exercises extracted
+from the VisExc eccentric fixation program24 (partially adapted
+from the McGill Low Vision Manual25), as detailed in the published
+protocol.22 Overall, common exercises of the eSkills were performed by both the control and the experimental groups. However,
+the VisExc program was performed by the experimental group exclusively. Participants who received telerehabilitation received assistance from the low vision therapist by telephone if needed. In
+addition, we noted who received assistance from a friend or family
+member during some of the training sessions.
+
+RESULTS
+Recruitment
+Recruitment took place from June 2018 to June 2019. The participant flow is shown in Fig. 1. A total of 333 eSight users were
+assessed for eligibility and approached by eSight Corporation.
+Then, the study team contacted all of the 333 eSight users by telephone to confirm eligibility and whether they accepted or declined
+to participate in the study. The recruitment efforts occurred gradually over time. Of these, 270 declined to participate, and 6 did not
+meet the inclusion criteria (1 did not speak English and or French,
+2 were younger than 18 years, 2 had poor general health, 1 had
+cognitive issues interfering with communication).
+
+Baseline Characteristics
+
+Secondary Outcomes
+We assessed the effect of telerehabilitation on eSight device
+use behavior (discontinuance rate) at two different times. Early discontinuance was defined as when a participant stopped using the
+device during the first 2 weeks of the study (either a renter who decided not to buy the device at the end of the rental period or a buyer
+who decided not to use it anymore). We defined late discontinuance as when a participant reported complete nonuse of the device
+in the previous 3 months, a period commonly used in previous research.27 The tasks were recorded using 94 open and closed questions adopted from and including the items of the Psychosocial
+Impact of Assistive Devices Scale28 and the Quebec User Evaluation of Satisfaction with Assistive Technology29 (see additional
+analyses of these measures in our parallel study30) and questions
+specifically developed for this study about a device user's characteristics and changes in use.22 The questionnaires were administered
+at baseline by the low vision therapist and self-administered through
+a URL link at 2 weeks and 3 and 6 months after randomization.
+
+Statistical Analyses
+Statistical analyses were conducted using JASP version 0.9 software (Eric-Jan Wagenmakers, University of Amsterdam, Amsterdam,
+Netherlands).31 In step 1, descriptive statistics were used to present
+the sample and responses on all outcome measures. In step 2, enrollment was analyzed using the 1-year period of recruitment reporting
+the number of participants assessed for eligibility and the number of
+participants who were excluded (number of participants declining to
+participate and number of participants not meeting the inclusion
+criteria). Retention in both the experimental and the control groups
+was analyzed at 2 weeks, as well as 3 and 6 months, using the
+number of participants remaining in the study. If participants
+wished to withdraw after they had been allocated to an intervention
+group, we gave them the opportunity to explain their reasoning, should
+they be interested in sharing these reasons. Variables assessing accessibility of telerehabilitation training (numbers and types of issues with
+Internet connectivity, access to the videoconference platform, use of
+the hardware, and audio/visual quality) were presented as frequency
+counts. Acceptability was measured using ordinal data from a satisfaction survey and descriptive statistics. In step 3, early and late
+discontinuance rates were analyzed using descriptive statistics. We
+decided to analyze data from the renters and the buyers separately
+www.optvissci.com
+
+and also to differentiate early and late device discontinuance because of the eSight buyer/renter policy.
+
+The mean (standard deviation) age of the participants was
+54.5 (16.7) years (range, 21 to 82 years; see Table 1 for
+group-specific details). Participant characteristics at randomization
+are summarized in Tables 1 and 2 and show comparable demographic and descriptive variables in both groups, albeit with retired
+participants' preponderance in the control-renter subgroup (Table 1)
+and a male majority in the control group. Participants completing
+the trial had a range of ocular pathologies, with optic nerve dystrophies
+and central degenerations being the most common (Table 3). The 20
+individuals who withdrew from the study (lost during the follow-up period) did not differ statistically on any of the demographic measures
+from those who completed the follow-up period (Table 4). The nine individuals who reported not using their eSight Eyewear anymore (both
+early and late discontinuance) did not differ statistically on any of
+the demographic measures (statistically comparable, given the frequency distribution of the data) from those with complete data, with
+the exception of their distribution across their country of residence:
+more Canadians reported to not use their device anymore after the initial
+assessment (five from Canada vs. four from the United States), whereas
+the user pool contained more Americans (41 from the United
+States vs. 7 from Canada; χ21 [n = 57] = 7.66, P < .01; Table 5).
+Table 1 displays descriptive comparisons between buyers
+and renters belonging to the control group, and between buyers
+and renters belonging to the experimental group. Statistical
+comparisons were calculated when the frequency distribution
+of the data allowed it. Participant characteristics at randomization show comparable demographic and descriptive variables
+across groups, albeit with a retired participant's preponderance
+in the control-renter subgroup.
+Table 2 displays descriptive comparisons between the control
+and experimental groups and between the buyer and renter groups.
+Participant characteristics at randomization show comparable demographic and descriptive variables across groups, albeit with a
+male majority in the control group.
+Table 4 displays descriptive comparisons (number of participants and percentage are provided in the table) between participants who remained in the study and those who withdrew from the
+study. Statistical comparisons were calculated when the frequency
+distribution of the data allowed it. Participant characteristics show
+comparable demographic and descriptive variables in groups.
+Table 5 displays descriptive comparisons (number of participants
+and percentage are provided in the table) between participants
+
+Optom Vis Sci 2021; Vol 98(6)
+
+573
+
+
+[page 5]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+TABLE 1. Participant characteristics
+Control buyers (n = 19)
+Age (y), mean (SD)
+Male/female, n (%)
+
+55.5 (11.7)
+
+Control renters (n = 10)
+61.4 (12.9)
+
+Experimental buyers (n = 20)
+50.3 (21.0)
+
+Experimental renters (n = 8)
+54.1 (18.9)
+
+12 (63)/7 (37)
+
+7 (70)/3 (30)
+
+10 (50)/10 (50)
+
+4 (50)/4 (50)
+
+United States
+
+17 (89)
+
+6 (60)
+
+17 (85)
+
+5 (63)
+
+Canada
+
+2 (11)
+
+4 (40)
+
+3 (15)
+
+3 (37)
+
+Student/employed
+
+8 (42)*
+
+1 (10)
+
+4 (20)
+
+3 (37)
+
+Unemployed
+
+7 (37)
+
+2 (20)
+
+7 (35)
+
+1 (13)
+
+Retired
+
+4 (21)
+
+7 (70)
+
+9 (45)
+
+4 (50)
+
+Alone
+
+4 (21)
+
+3 (30)
+
+3 (15)
+
+2 (25)
+
+Not alone
+
+15 (79)
+
+7 (70)
+
+17 (85)
+
+6 (75)
+
+Country, n (%)
+
+Living situation, n (%)
+
+Living arrangement, n (%)
+
+Level of study, n (%)
+Secondary
+
+7 (37)
+
+3 (30)
+
+11 (55)
+
+1 (13)
+
+Post-secondary
+
+12 (63)
+
+7 (70)
+
+9 (45)
+
+7 (87)
+
+Peripheral
+
+5 (26)
+
+2 (20)
+
+8 (40)
+
+2 (25)
+
+Central
+
+7 (37)
+
+4 (40)
+
+4 (20)
+
+4 (50)
+
+Both
+
+4 (21)
+
+3 (30)
+
+3 (15)
+
+1 (12)
+
+None
+
+3 (16)
+
+1 (10)
+
+5 (25)
+
+1 (13)
+
+Visual field deficit, n (%)
+
+Ocular disease, n (%)
+Central
+
+8 (42)
+
+5 (50)
+
+7 (35)
+
+3 (37)
+
+Peripheral
+
+2 (11)
+
+3 (30)
+
+1 (5)
+
+2 (25)
+
+General
+
+9 (47)
+
+2 (20)
+
+12 (60)
+
+3 (38)
+
+Birth
+
+6 (32)
+
+3 (30)
+
+7 (35)
+
+2 (25)
+
+>10 y
+
+6 (31)
+
+4 (40)
+
+6 (30)
+
+5 (62)
+
+<6 mo to 10 y
+
+7 (37)
+
+3 (30)
+
+7 (35)
+
+1 (13)
+
+No
+
+15 (79)
+
+8 (80)
+
+17 (85)
+
+6 (75)
+
+Yes
+
+4 (21)
+
+2 (20)
+
+3 (15)
+
+2 (25)
+
+19 (100)
+
+10 (100)
+
+20 (100)
+
+8 (100)
+
+No
+
+16 (84)
+
+8 (80)
+
+16 (80)
+
+7 (87)
+
+Yes
+
+3 (16)
+
+2 (20)
+
+4 (20)
+
+1 (13)
+
+11 (58)
+
+6 (60)
+
+12 (60)
+
+4 (50)
+
+Eye disease onset, n (%)
+
+Other sensory impairment, n (%)
+
+Cognitive impairment, n (%)
+No
+Physical impairment, n (%)
+
+Health condition, n (%)
+Poor to good
+Very good
+
+5 (26)
+
+2 (20)
+
+7 (35)
+
+2 (25)
+
+Excellent
+
+3 (16)
+
+2 (20)
+
+1 (5)
+
+2 (25)
+
+*χ2 Test with P < .05. SD = standard deviation.
+
+who maintained their eSight use and those who discontinued their
+use. Statistical comparisons were calculated when the frequency
+distribution of the data allowed it. Participant characteristics show
+www.optvissci.com
+
+comparable demographic and descriptive variables in groups, albeit
+with a statistically significant majority of participants who resided in
+the United States in the group that maintained eSight use.
+
+Optom Vis Sci 2021; Vol 98(6)
+
+574
+
+
+[page 6]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+TABLE 2. Participant characteristics and their relationship with group type
+Control group (n = 29)
+Age (y), mean (SD)
+Male/female, n (%)
+
+57.6 (12.3)
+19 (66)/10 (34)
+
+Experimental group (n = 28)
+51.4 (20.1)
+14 (50)/14 (50)
+
+Country, n (%)
+
+P
+.34*
+.24
+
+Buyers (n = 39)
+52.9 (17.1)
+22 (56)/17 (44)
+
+Renters (n = 18)
+58.2 (15.80)
+11 (61)/7 (39)
+
+.67
+23 (79)
+
+22 (79)
+
+34 (87)
+
+11 (61)
+
+Canada
+
+6 (21)
+
+6 (21)
+
+5 (13)
+
+7 (39)
+
+Renter
+
+10 (34)
+
+8 (29)
+
+Buyer
+
+19 (66)
+
+20 (71)
+.80
+
+NV
+
+Student/employed
+
+9 (31)
+
+7 (25)
+
+12 (31)
+
+4 (22)
+
+Unemployed
+
+9 (31)
+
+8 (29)
+
+14 (36)
+
+3 (17)
+
+Retired
+
+11 (38)
+
+13 (46)
+
+13 (33)
+
+11 (61)
+
+Living arrangement, n (%)
+
+.56
+
+.40
+
+Alone
+
+7 (24)
+
+5 (18)
+
+7 (18)
+
+5 (28)
+
+Not alone
+
+22 (76)
+
+23 (82)
+
+32 (82)
+
+13 (72)
+
+Secondary
+
+10 (34)
+
+12 (43)
+
+18 (46)
+
+4 (22)
+
+Post-secondary
+
+19 (66)
+
+16 (57)
+
+21 (54)
+
+14 (78)
+
+Level of study, n (%)
+
+.52
+
+Visual field deficit, n (%)
+
+.08
+
+.53
+
+.53
+
+Peripheral
+
+7 (24)
+
+10 (36)
+
+13 (33)
+
+4 (22)
+
+Central
+
+11 (38)
+
+8 (29)
+
+11 (28)
+
+8 (45)
+
+Both
+
+7 (24)
+
+4 (14)
+
+7 (18)
+
+4 (22)
+
+None
+
+4 (14)
+
+6 (21)
+
+8 (21)
+
+2 (11)
+
+13 (45)
+
+10 (36)
+
+15 (38)
+
+8 (44)
+
+Ocular disease, n (%)
+
+.48
+
+.06
+
+Peripheral
+
+4 (14)
+
+3 (11)
+
+3 (7)
+
+5 (28)
+
+General
+
+11 (38)
+
+15 (53)
+
+21 (54)
+
+5 (28)
+
+Birth
+
+9 (31)
+
+9 (32)
+
+13 (33)
+
+5 (28)
+
+>10 y
+
+10 (34)
+
+11 (39)
+
+12 (31)
+
+9 (50)
+
+<6 mo to 10 y
+
+10 (35)
+
+8 (29)
+
+14 (36)
+
+4 (22)
+
+No
+
+23 (79)
+
+23 (82)
+
+32 (82)
+
+14 (78)
+
+Yes
+
+6 (21)
+
+5 (18)
+
+7 (18)
+
+4 (22)
+
+29 (100)
+
+28 (100)
+
+39 (100)
+
+18 (100)
+
+No
+
+24 (83)
+
+23 (82)
+
+32 (82)
+
+15 (83)
+
+Yes
+
+5 (17)
+
+5 (18)
+
+7 (18)
+
+3 (17)
+
+Eye disease onset, n (%)
+
+.88
+
+Other sensory impairment, n (%)
+
+.35
+
+.79
+
+Cognitive impairment, n (%)
+No
+
+.56
+
+.63
+
+Living situation, n (%)
+
+Central
+
+.30*
+
+.15
+
+United States
+
+User type, n (%)
+
+P
+
+.70
+
+NV
+
+Physical impairment, n (%)
+
+NV
+
+.95
+
+Health condition, n (%)
+
+NV
+
+.68
+
+NV
+
+Poor to good
+
+17 (58)
+
+16 (57)
+
+23 (59)
+
+10 (56)
+
+Very good
+
+7 (24)
+
+9 (32)
+
+12 (31)
+
+4 (22)
+
+Excellent
+
+5 (17)
+
+3 (11)
+
+4 (10)
+
+4 (22)
+
+P value calculated with χ2 test. *P value calculated with Mann-Whitney tests. NV = “no value” when statistical comparisons were not possible given the
+frequency distribution of the data; SD = standard deviation.
+
+www.optvissci.com
+
+Optom Vis Sci 2021; Vol 98(6)
+
+575
+
+
+[page 7]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+TABLE 3. Causes of vision impairment
+Control
+group
+
+Experimental
+group
+
+(n = 29)
+
+(n = 28)
+
+Optic nerve disease
+
+8
+
+10
+
+AMD
+
+6
+
+6
+
+Retinopathy of prematurity
+
+3
+
+2
+
+Retinitis pigmentosa
+
+3
+
+1
+
+Cause of sight impairment, n (%)
+
+Diabetic retinopathy
+
+0
+
+2
+
+Stargardt disease
+
+1
+
+1
+
+Congenital nystagmus
+
+1
+
+1
+
+Retinal detachment
+
+1
+
+1
+
+Keratoconus
+
+1
+
+0
+
+Central retinal vein occlusion
+
+1
+
+0
+
+Central serous retinopathy
+
+1
+
+0
+
+Malign myopia
+
+1
+
+0
+
+Stroke
+
+1
+
+0
+
+Optic atrophy with cerebral visual
+impairment
+
+0
+
+2
+
+Congenital cataract
+
+0
+
+1
+
+Peter syndrome
+
+0
+
+1
+
+Erdheim-Chester disease
+
+1
+
+0
+
+Accessibility of Telerehabilitation
+All of the participants in the experimental group had their own
+desktop computer to access the telehealth platform application
+with the help of the low vision therapist. None of them used their
+tablet or smartphone for the study. Either the camera was already
+incorporated into the computer, or participants added their own
+webcam and centered it in front of their face. Therefore, participants had both hands free during the entire session. Four (14%)
+of these 28 participants received assistance from a friend or family
+member during some of the training sessions and completed all six
+sessions. Two participants (7%) withdrew from the study (did not
+complete all six sessions) because they were not able to access
+the platform independently, of which one decided not to use the
+device anymore. There were no major issues with the audio component of the sessions; however, three participants had a weak signal
+connection that resulted in inconsistent and jerky audio when joining the platform, requiring them to intermittently use their telephone until the issue was solved. For six participants, the video
+did not automatically connect when they joined the session for
+the first time. Audio and/or video issues never jeopardized participants' training and were not a cause for withdrawing from the
+study.
+
+Acceptability of Telerehabilitation Training
+
+Primary Outcomes
+Recruitment Target
+We enrolled 32 participants (>50%) within 6 months and 57
+participants (95%) within 12 months, with the target number of
+60 participants being nearly reached (the last participant was enrolled on June 15, 2019). There were no adverse events requiring
+exclusion of participants.
+
+Retention Rates
+The retention rates were 93% (n = 53) at 2 weeks, 68% (n = 39)
+at 3 months, and 65% (n = 37) at 6 months. Of the 18 renters, 5
+returned their device after the 2-week loan. The main reason was
+because they were not able to be proficient in reading with their device. For the participants who bought eSight (initial and new
+buyers, n = 52), the retention rates at 3 months were 75% and
+71% at 6 months. Of the 20 participants who did not complete assessments within 6 months, 7 belonged to the experimental and
+13 to the control group. The withdrawal did not differ significantly
+from the experimental group (χ21 [n = 57] = 2.46, P = .12). In the
+experimental group, one participant decided not to buy the device,
+two had difficulty accessing the Reacts telehealth portal and
+lacked support from their family/friends for usage of the platform
+(one of them had a technical device failure), and four withdrew
+from the study without giving any reason. In the control group, four
+participants decided not to buy the device, one participant had a
+decline in his health status, and eight withdrew without giving
+any reason. The 20 individuals who withdrew from the study did
+not differ statistically on any of the available variables displayed
+in Table 4, which included demographic (i.e., age, sex, country, living situation, living arrangement, and level of study) and ocular and
+www.optvissci.com
+
+general health conditions (i.e., ocular disease, eye disease onset, visual field deficit, and health condition). Twenty-six of 28 participants
+in the experimental group completed the six telerehabilitation
+sessions; the 2 remaining participants completed only the first
+two sessions.
+
+Participants' Ratings of Telerehabilitation Training
+The 5-minute satisfaction survey was completed by 23 of 28
+participants in the experimental group after the 2-week training
+in a separate session. All of the five participants who did not respond withdrew from the study. The respondents agreed that they
+were comfortable with receiving telerehabilitation training, of
+which 83% strongly agreed with this statement. The majority of
+the participants (overall 66%) strongly or mostly agreed that the
+training was as efficient (16/23), was as effective (16/23), and
+allowed them to better accomplish their goals (17/23) compared
+with other previous in-person rehabilitation services. Finally, most
+of the participants (20/23) strongly agreed that they would be interested in using telerehabilitation again if their visual needs change
+in the future. All agreed that they were satisfied overall with receiving telerehabilitation training, with 65% strongly agreeing with this
+statement (see Appendix, available at http://links.lww.com/OPX/
+A493, for detailed individual ratings).
+Low Vision Therapist's Ratings of Telerehabilitation Training
+While participants used their device, the low vision therapist
+clinically and qualitatively judged the evaluation of the working distance and lighting environment as moderately difficult for all participants. No exact measurement of the working distance and
+reading posture was obtained, but they were estimated through
+the camera and corrected by providing instructions. Finding the
+minimum magnification with the best reading distance and posture, we adjusted the magnification level on the device. By asking
+the participants to use their computer camera to scan around the
+room and observe the presence of windows or lamps, the level of
+lighting was qualitatively estimated. Moreover, an optional light integrated in the eSight device, providing direct and constant
+
+Optom Vis Sci 2021; Vol 98(6)
+
+576
+
+
+[page 8]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+TABLE 4. Participants characteristics and their relationship with study withdraw
+Variables
+
+No withdraw group (n = 37)
+
+Age (y), mean (SD)
+
+54.0 (17.9)
+
+Male/female, n (%)
+
+Withdraw group (n = 20)
+55.5 (14.7)
+
+22 (59)/15 (41)
+
+11 (55)/9 (45)
+
+United States
+
+30 (81)
+
+15 (75)
+
+Canada
+
+7 (19)
+
+5 (25)
+
+Control
+
+16 (43)
+
+13 (65)
+
+Experimental
+
+21 (57)
+
+7 (35)
+
+Renter
+
+10 (27)
+
+8 (40)
+
+Buyer
+
+27 (73)
+
+12 (60)
+
+Country, n (%)
+
+P
+.97*
+.75
+.59
+
+Group type, n (%)
+
+.12
+
+Customer type, n (%)
+
+.32
+
+Living situation, n (%)
+
+.40
+
+Student/employed
+
+12 (33)
+
+Unemployed
+
+9 (24)
+
+4 (20)
+8 (40)
+
+Retired
+
+16 (43)
+
+8 (40)
+
+Alone
+
+6 (16)
+
+6 (30)
+
+Not alone
+
+31 (84)
+
+14 (70)
+
+Living arrangement, n (%)
+
+.22
+
+Level of study, n (%)
+
+.68
+
+Secondary
+
+15 (41)
+
+7 (35)
+
+Post-secondary
+
+22 (59)
+
+13 (65)
+
+Visual field deficit, n (%)
+
+.87
+
+Peripheral
+
+11 (30)
+
+6 (30)
+
+Central
+
+13 (35)
+
+6 (30)
+
+Both
+
+6 (16)
+
+5 (25)
+
+None
+
+7 (19)
+
+3 (15)
+
+Central
+
+14 (38)
+
+9 (45)
+
+Peripheral
+
+7 (19)
+
+1 (5)
+
+General
+
+16 (43)
+
+10 (50)
+
+Birth
+
+12 (32)
+
+6 (30)
+
+>10 y
+
+14 (38)
+
+7 (35)
+
+<6 mo to 10 y
+
+11 (30)
+
+7 (35)
+
+No
+
+30 (81)
+
+16 (80)
+
+Yes
+
+7 (19)
+
+4 (20)
+
+37 (100)
+
+20 (100)
+
+Ocular disease, n (%)
+
+.35
+
+Eye disease onset, n (%)
+
+.93
+
+Other sensory impairment, n (%)
+
+NV
+
+Cognitive impairment, n (%)
+No
+
+NV
+
+Physical impairment, n (%)
+
+NV
+
+No
+
+31 (84)
+
+16 (80)
+
+Yes
+
+6 (16)
+
+4 (20)
+
+Health condition, n (%)
+
+.69
+
+Poor to good
+
+20 (54)
+
+13 (65)
+
+Very good
+
+11 (30)
+
+5 (25)
+
+Excellent
+
+6 (16)
+
+2 (10)
+
+P value calculated with χ test. *P value calculated with Student t test. n = number of participants; NV = “no value” when statistical comparisons were
+not possible given the frequency distribution of the data; SD = standard deviation.
+2
+
+www.optvissci.com
+
+Optom Vis Sci 2021; Vol 98(6)
+
+577
+
+
+[page 9]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+TABLE 5. Demographic variables and their relationship with eSight device use
+Variables
+
+eSight users (n = 48)
+
+Age (y), mean (SD)
+
+53.4 (17.0)
+
+Male/female, n (%)
+
+Discontinuance of eSight use (n = 9)
+60.8 (14.4)
+
+26 (54)/22 (46)
+
+7 (78)/2 (22)
+
+United States
+
+41 (85)
+
+4 (44)
+
+Canada
+
+7 (15)
+
+5 (56)
+
+Country, n (%)
+
+P
+.28*
+.19
+<.01
+
+Group type
+
+.30
+
+Control
+
+23 (48)
+
+6 (67)
+
+Experimental
+
+25 (52)
+
+3 (33)
+
+Renter
+
+11 (23)
+
+7 (78)
+
+Buyer
+
+37 (77)
+
+2 (22)
+
+No
+
+35 (73)
+
+2 (22)
+
+Yes
+
+13 (27)
+
+7 (78)
+
+Student/employed
+
+15 (31)
+
+1 (11)
+
+Unemployed
+
+15 (31)
+
+2 (22)
+
+Retired
+
+18 (38)
+
+6 (67)
+
+Alone
+
+9 (19)
+
+3 (33)
+
+Not alone
+
+39 (81)
+
+6 (67)
+
+Secondary
+
+19 (40)
+
+3 (33)
+
+Post-secondary
+
+29 (60)
+
+6 (67)
+
+15 (31)
+
+2 (22)
+
+User type, n (%)
+
+NV
+
+Withdraw the study
+
+NV
+
+Living situation, n (%)
+
+NV
+
+Living arrangement, n (%)
+
+.33
+
+Level of study, n (%)
+
+NV
+
+Visual field deficit, n (%)
+
+NV
+
+Peripheral
+Central
+
+13 (27)
+
+6 (67)
+
+Both
+
+10 (21)
+
+1 (11)
+
+None
+
+10 (21)
+
+0 (0)
+
+18 (37)
+
+5 (56)
+
+Peripheral
+
+7 (15)
+
+1 (11)
+
+General
+
+23 (48)
+
+3 (33)
+
+Birth
+
+18 (38)
+
+0 (0)
+
+>10 y
+
+15 (31)
+
+6 (67)
+
+<6 mo to 10 y
+
+15 (31)
+
+3 (33)
+
+No
+
+39 (81)
+
+7 (78)
+
+Yes
+
+9 (19)
+
+2 (22)
+
+48 (100)
+
+9 (100)
+
+No
+
+39 (81)
+
+8 (89)
+
+Yes
+
+9 (19)
+
+1 (11)
+
+Poor to good
+
+29 (60)
+
+4 (44)
+
+Very good
+
+13 (27)
+
+3 (33)
+
+Excellent
+
+6 (13)
+
+2 (22)
+
+Ocular disease, n (%)
+
+NV
+
+Central
+
+Eye disease onset, n (%)
+
+NV
+
+Other sensory impairment, n (%)
+
+NV
+
+Cognitive impairment, n (%)
+No
+Physical impairment, n (%)
+
+NV
+
+Health condition, n (%)
+
+.61
+
+P value calculated with χ test. *P value calculated with Student t test. n = number of participants; NV = “no value” when statistical comparisons were
+not possible given the frequency distribution of the data; SD = standard deviation.
+2
+
+www.optvissci.com
+
+Optom Vis Sci 2021; Vol 98(6)
+
+578
+
+
+[page 10]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+illumination onto the reading material, was easy to manage by the
+low vision therapist and the participants. Finally, the low vision
+therapist clinically and qualitatively judged the evaluation of reading
+speed and reading accuracy through the shared reading material as
+not difficult for all participants. Even from nonstandardized text, it
+was possible to observe and identify reading problems including difficulties with long words, line breaks, or confusion of some letters.
+
+Secondary Outcomes
+eSight Eyewear Discontinuance
+Early Discontinuance
+Among the 57 participants, 7 (12%) reported discontinuing
+their eSight device use early: 5 renters decided not to buy the device because they did not experience reading improvement, and
+2 buyers decided not to use the device anymore because of a decline in health and difficulty using the device. Three participants
+did not complete their questionnaire at 2 weeks and withdrew from
+the study without providing any reasons. For these participants, it
+was not possible to confirm if they discontinued their eSight use
+early. Considering their group membership, 71% (5/7) of the participants who discontinued their device use early belonged to the
+control group.
+Late Discontinuance
+Two participants reported nonuse of the device in the previous
+3 months. They reported that they had not completely stopped
+using their device and that they simply had not needed it since their
+last use. At their 6-month evaluation, four participants reported nonuse between 1- and 3-month periods, and three of them reported that
+they completely stopped using their eSight device: two did not give a
+reason, and one reported a decline in health. At either time point, the
+number of participants who sustained their device use did not differ
+statistically between the two groups (Table 5).
+The questions specifically developed for this study about device
+user's characteristics and changes in use identified that the activities for which eSight device was most used were as follows: reading
+and watching TV (see Appendix, available at http://links.lww.com/
+OPX/A493, for detailed individual goals), a finding that is consistent with other studies on head-mounted display systems.7,32
+Those who reported nonuse of the device were those for which
+these activities were the least performed with the eSight. The activities for which the device was least used included cooking, shopping, and meetings.
+
+DISCUSSION
+The purpose of the present study was to conduct a feasibility
+study to assess the recruitment, retention, accessibility, and overall
+acceptability of telerehabilitation for people with low vision using a
+head-mounted display. Our results demonstrated that it was feasible to implement a randomized controlled study design, with individuals with visual impairment using eSight Eyewear receiving
+rehabilitation via a telehealth platform. Once enrolled, 35% of participants withdrew from the study. We observed high accessibility
+and acceptability of the telerehabilitation training sessions among
+those completing the protocol, and a low usage discontinuation of
+the head-mounted display (16% of all participants across the
+study). The participants' choice to continue using the device was
+independent of the training offered.
+www.optvissci.com
+
+When we compared the current study with previous randomized
+trials of vision rehabilitation in terms of loss to follow-up or study
+withdrawal rates, we observed that our 35% is higher than the
+8.5%,33 15%,34 and 24%35 reported in the literature. As opposed
+to our study that administered three successive follow-up assessments for 6 months, these cited studies implemented only one
+follow-up assessment at 3 months,33 4 months,34 or 12 months.35
+If we considered the participants who bought eSight only, we obtained a withdrawal rate of 29% at 6 months that tends to align
+with the study by Bahrami et al.35 Although withdrawal from the
+study did not differ significantly from the experimental group,
+nearly twice as many participants withdrew from the control group.
+This difference may be explained by the lack of personalized
+guided instruction and accountability by a low vision therapist
+who provided the training in the telerehabilitation group. Future
+investigations including more participants will be useful to confirm the statistical relevance of this difference between the two
+interventions.
+There were no major issues with the audio and video components of the telerehabilitation probably because participants used
+their own computer and did not experience such issues as reported
+in a previous pilot study.20 In addition, we used a secure and
+accredited telehealth platform that has been used by various telehealth
+projects by public health providers within the university health network
+of the research team. The high accessibility and acceptability reported
+by our participants suggest that telerehabilitation seems a promising
+modality for low rehabilitation services. The training delivered in our
+study was personalized, providing relevant insights into the participants'
+environment that were visually challenging to the low vision therapist.
+The telerehabilitation training was similar to services that would be
+given in-office, including the same confidence level and comfort in human interaction with participants, in particular for reading, writing, other
+eye-hand coordination tasks (e.g., sewing and drawing), and initial eccentric fixation training. The eccentric vision program was not offered
+in its entirety and not to all participants, only to those where the therapist identified a need. More than six sessions would be needed for the
+acquisition of a stable eccentric fixation according to the low vision therapist. Few participants needed direct assistance from a friend or family
+during the telerehabilitation sessions. Most were independent, and once
+connected and if they experienced technical challenges with the
+telehealth platform, it did not compromise training.
+In light of an inconsistent training model for emerging
+head-mounted display technology, the present study compared a
+clinical-type intervention with a commercial self-training standard
+provided by the device manufacturer. A recent pilot study supported
+the potential value and feasibility of low vision telerehabilitation in
+10 patients receiving a 1-hour unique training session at home to
+use their handheld magnifier, provided by an in-office clinician.20
+Positive accessibility feedback was gathered from both participants
+and providers, and encouraging results were obtained regarding acceptability as well. An alternative telerehabilitation format is currently implemented by the Buffalo Veterans Affairs low vision
+service, in which participants travel to an equipped location in their vicinity to receive training from a remote low vision rehabilitation therapist.36 Considering the diversity of telerehabilitation types described,
+one of the next steps will be to compare our telerehabilitation training
+with a traditional in-office low vision service. Moreover, given these encouraging outcomes,20 it is likely feasible to provide telerehabilitation
+for other head-mounted displays or electronic low vision aids.
+We included measures of device usage as secondary outcome
+measures; however, we did not find any significant difference in
+
+Optom Vis Sci 2021; Vol 98(6)
+
+579
+
+
+[page 11]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+device use between the two intervention groups. This finding indicates that training provided by the device manufacturer is equally
+feasible as the proposed personalized telerehabilitation training.
+Insofar as low vision aid usage depends on training,37 this result
+is perhaps not surprising. In particular, a scoping review reported
+that intensive training was predictive of magnifying low vision aids
+use.11 Considering the sustained 30-hour training of the eSkills program, this may have produced the same effect on device use as the personalized telerehabilitation training. However, a cross-sectional study
+revealed that training was not a predicting factor of eSight device
+use.12 It is probable that follow-up assessments, required by the present longitudinal design, positively influenced participants' motivation
+regardless of their self-training compliance (Hawthorne effect).
+Compared with the 30% discontinuance rate (also considered
+as a threshold for defining low and high rates of device abandonment38) of assistive technology use traditionally observed in the literature,39,40 the 16% (including early and late discontinuance) in
+the present study is considered low. It mirrors behavior use measured in an online survey, whereby 17% of the participants had
+discontinued their device use.12 This finding is also in line with
+the 17% abandonment rate reported in the context of patients receiving magnifiers via a novel low vision mobile clinic delivery
+model.27 We anticipated that this low discontinuation rate may
+be an underestimate, given the number of participants who withdrew from the study without providing any reasons, as well as a possible social desirability bias in the responses of the remaining
+participants. The cost involved in obtaining the device may also influence the motivation to maintain usage over the time. However,
+the logic that tends to associate people who withdraw from the
+study with those who discontinued their device use did not entirely
+apply here. The two participants who discontinued their device use
+late completed the entire 6-month follow-up. Moreover, five participants who completely stopped using their device (but did not meet
+our late discontinuance definition and were not categorized as
+nonusers) did not withdraw from the study.
+A limitation of the study design is that it is not possible in the
+experimental group to determine if the beneficial effects were from
+either or both the eSkills guide and/or the VisExc program. Compared with the 26%,35 28%,34 or 33%33 reported by previous randomized trials of vision rehabilitation, a rather large proportion of
+those who were eligible for the study had declined to participate
+(79%), perhaps because telerehabilitation is not desirable by new
+eSight users, and/or there may be inherent differences in terms of
+age, sex, or socioeconomic status among those who choose to participate versus those who did not. Although a lack of interest in the
+study was the reason reported by the individuals who did not participate, a major limitation of this current study is the lack of in-depth
+documentation to indicate the reasons why potential participants
+had declined to join the study; this deserves to be highlighted as
+an important area for future study. Self-selection bias is a limitation,
+insofar as we enrolled participants who spontaneously decided to
+use eSight Eyewear and were willing to participate in research and
+to try an Internet-based video conference platform. Future studies
+should consider providing the head-mounted display and Internet
+access, thereby avoiding the possibility of the purchase commitment
+to affect the outcomes. It is worth noticing that, among users who
+were contacted, nobody was excluded from this study because of a
+lack of Internet and/or computer/tablet access because all were already equipped. However, the participants were not representative
+of the general low vision population because they were already exposed to sophisticated technology, possibly leading them to be more
+www.optvissci.com
+
+willing to try technology used for telerehabilitation and/or video conferencing. However, this limitation will probably be less contextual
+over the next decades with upcoming generations. Participants were
+experienced technology users, possibly leading them to be more willing to try the video conference platform and also making them less
+representative of the general low vision population. The two participants who withdrew from the study because they experienced difficulties using basic functions of their computer did not complete
+the training sessions and the satisfaction survey, and this may have
+induced a bias in the conclusion about acceptability. In terms of
+telerehabilitation acceptability, some questions of the satisfaction
+survey compare the telerehabilitation training for the eSight to previous in-person training for other visual assistive devices (e.g., handheld magnifiers or closed-circuit televisions or telescopes) in terms
+of being efficient, being effective, and accomplishing goals. However, those data may be difficult to interpret because the types of devices are different, and it is unknown if the ratings were influenced
+by the type of device (eSight vs. handheld magnifier) or the training
+modality (telerehabilitation video visit vs. in-office). In addition, it
+was not always possible to differentiate device discontinuance from
+other types of attrition, specifically with participants who withdrew
+from the study without explanation. However, through regular monitoring, we hope we were able to record most reasons for leaving the
+study. To further optimize a future trial, duration of use and the settings used by the participant should be monitored. Moreover, the absence of an effect of the offered training does not include the
+opinions of the 35% who withdrew from the study. Other potential
+limitations are the absence of an in-office evaluation with objective
+visual function measures, as well as the lack of assessment of the
+satisfaction for the control subjects, which could be added to future
+protocols. For example, a standardized near reading or acuity cards
+during the telerehabilitation session had already been successfully
+implemented.20 Finally, it was not possible to mask participants to
+the experimental intervention. This may have introduced social desirability bias, possibly influencing the usage of the head-mounted
+display and attrition. Randomized participant allocation, masking
+the researcher to group allocation, and the use of self-administered
+assessments minimized selection, detection, and experimenter bias.
+
+CONCLUSIONS
+The data demonstrated the feasibility of a randomized controlled study of telerehabilitation for people living with low vision
+and using a head-mounted display. Positive feedback from the participants and the low vision therapist suggests the potential value
+of this modality for low vision services. With the aging of the population, it is urgent to provide innovative care delivery strategies for
+low vision service to maintain and increase the standard of care
+and the quality of life for people with low vision. Low vision rehabilitation has the potential to overcome barriers associated with
+existing service delivery while maintaining personalized care and
+human interaction. Moreover, telerehabilitation has the potential
+to increase efficiency, reducing travel time and expenses for both
+the low vision therapist and the patients. This modality may increase the number of follow-up sessions to improve learning about
+device use and health-related outcomes. New reimbursement
+modes for telehealth services will need to be addressed and could
+open the door to future implementation of the services into current
+clinical practice.
+
+Optom Vis Sci 2021; Vol 98(6)
+
+580
+
+
+[page 12]
+Personalized Telerehabilitation: Feasibility Study — Lorenzini and Wittich
+
+ARTICLE INFORMATION
+Supplemental Digital Content: The Appendix, available at
+http://links.lww.com/OPX/A493, describes acceptability
+outcomes that include the goals of rehabilitation for each
+participant of the experimental group and the low vision
+therapist's ratings of the extent to which each goal was
+reached, as well as participants' ratings of telerehabilitation
+training. The activities for which the eSight device was most
+used were reading and watching TV. For 28 participants,
+the low vision therapist estimated that 17 completely and
+7 partially reached their goals, but 4 did not complete their
+goals at all.
+Submitted: February 7, 2020
+Accepted: January 16, 2021
+Funding/Support: Mitacs (IT08595 Grant; to M-CL) and
+Fonds de Recherche du Québec—Santé (Junior 2
+chercheur boursier Career Award No. 281454; to WW).
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest. The sponsor
+facilitated subject recruitment; however, the sponsor
+was not involved in study design, analyses, and interpretation.
+The authors were responsible for the preparation of
+this article and the decision to submit this article for
+publication. Each of the authors had access to the study
+data and takes full responsibility for his/her presentation in
+this article.
+Author Contributions and Acknowledgments: Conceptualization:
+M-CL, WW; Data Curation: M-CL; Formal Analysis: M-CL,
+WW; Funding Acquisition: M-CL; Investigation: M-CL;
+Methodology: M-CL, WW; Project Administration: M-CL,
+WW; Resources: WW; Software: M-CL; Supervision: WW;
+Validation: WW; Writing – Original Draft: M-CL; Writing –
+Review & Editing: M-CL, WW.
+The authors thank Josée Duquette for access to the
+VisExc-INLB eccentric fixation program and Nancy
+Primeau for her support for formatting of bibliographic
+references.
+
+REFERENCES
+1. Foster A, Gilbert C, Johnson G. Changing Patterns in
+Global Blindness: 1988–2008. Community Eye Health
+2008;21:37–9.
+2. Corn A, Lusk KE. Perspectives on low vision. In: Corn
+A, Koenig A, eds. Foundations of Low Vision: Clinical
+and Functional Perspectives. 2nd ed. New York: AFB
+Press; 2010:3–25.
+3. Binns AM, Bunce C, Dickinson C, et al. How Effective
+Is Low Vision Service Provision? A Systematic Review.
+Surv Ophthalmol 2012;57:34–65.
+4. Trauzettel-Klosinski S. Rehabilitation for Visual Disorders. J Neuroophthalmol 2010;30:73–84.
+5. Deemer AD, Bradley CK, Ross NC, et al. Low Vision
+Enhancement with Head-mounted Video Display
+Systems: Are We There Yet? Optom Vis Sci 2018;
+95:694–703.
+6. Ortiz A, Chung ST, Legge GE, et al. Reading with a
+Head-mounted Video Magnifier. Optom Vis Sci 1999;
+76:755–63.
+
+www.optvissci.com
+
+7. Ballinger R, Lalle P, Maino J, et al. Veterans Affairs
+Multicenter Low Vision Enhancement System (LVES)
+Study: Clinical Results. Report 1: Effects of Manual-focus
+LVES on Visual Acuity and Contrast Sensitivity. Optometry
+2000;71:764–74.
+8. Lin CS, Jan HA, Lay YL, et al. Evaluating the Image
+Quality of Closed Circuit Television Magnification Systems versus a Head-mounted Display for
+People with Low Vision. Assist Technol 2014;
+26:202–8.
+
+23. eSight Corporation. Eskills User Guide & Proficiency
+Program. Toronto, Ontario, Canada: The Corporation; 2015.
+24. Duquette J, Lapointe N, Loiselle J. Visexc-INLB:
+Method of Evaluation and Training in Eccentric Vision
+of the Nazareth and Louis-Braille Institute: User Manual. Longueuil, Quebec, Canada: Institut Nazareth et
+Louis-Braille; 2013.
+25. Overbury O, Conrod EB. McGill Low Vision Manual.
+Montreal, Quebec, Canada: Betacom Group; 1997.
+
+9. Wittich W, Lorenzini MC, Markowitz SN, et al. The Effect of a Head-mounted Low Vision Device on Visual
+Function. Optom Vis Sci 2018;95:774–84.
+
+26. Gothwal VK, Thomas R, Crossland M, et al. Randomized Trial of Tablet Computers for Education and
+Learning in Children and Young People with Low Vision.
+Optom Vis Sci 2018;95:873–82.
+
+10. Stelmack JA, Tang XC, Wei Y, et al. Outcomes of the
+Veterans Affairs Low Vision Intervention Trial II (LOVIT
+II): A Randomized Clinical Trial. JAMA Ophthalmol
+2017;135:96–104.
+
+27. Gobeille MR, Malkin AG, Jamara R, et al. Utilization
+and Abandonment of Low Vision Devices Prescribed on
+a Mobile Clinic. Optom Vis Sci 2018;95:859–64.
+
+11. Lorenzini MC, Wittich W. Factors Related to the Use
+of Magnifying Low Vision Aids: A Scoping Review.
+Disabil Rehabil 2020;42:3525–37.
+12. Lorenzini MC, Hamalainen AM, Wittich W. Factors
+Related to the Use of a Head-mounted Display for Individuals with Low Vision [published online December
+28, 2019]. Disabil Rehabil 2019. doi:10.1080/
+09638288.2019.1704892.
+13. Malkin AG, Ross NC, Chan TL, et al. U.S. Optometrists' Reported Practices and Perceived Barriers for
+Low Vision Care for Mild Visual Loss. Optom Vis Sci
+2020;97:45–51.
+14. Goldstein RB, Dugan E, Trachtenberg F, et al. The
+Impact of a Video Intervention on the Use of Low Vision
+Assistive Devices. Optom Vis Sci 2007;84:208–17.
+15. Lezzoni LI, Killeen MB, O'Day BL. Rural Residents
+with Disabilities Confront Substantial Barriers to Obtaining
+Primary Care. Health Serv Res 2006;41:1258–75.
+16. Gold D, Zuvela B, Hodge WG. Perspectives on Low
+Vision Service in Canada: A Pilot Study. Can J
+Ophthalmol 2006;41:348–54.
+
+28. Day H, Jutai J. Measuring the Psychosocial Impact
+of Assistive Devices: The PIADS. Can J Rehabil 1996;
+9:159–68.
+29. Demers L, Weiss-Lambrou R, Ska B. Development
+of the Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST). Assist Technol 1996;8:3–13.
+30. Lorenzini MC, Wittich W. Head-mounted Visual Assistive Technology–related Quality of Life Changes after
+Telerehabilitation. Optom Vis Sci 2021;98:582–91.
+31. JASP [Computer Program]. Version 0.9. Amsterdam,
+the Netherlands: University of Amsterdam; 2017.
+32. Crossland MD, Starke SD, Imielski P, et al. Benefit
+of an Electronic Head-mounted Low Vision Aid. Ophthalmic Physiol Opt 2019;39:422–31.
+33. Smith HJ, Dickinson CM, Cacho I, et al. A Randomized Controlled Trial to Determine the Effectiveness of
+Prism Spectacles for Patients with Age-related Macular
+Degeneration. Arch Ophthalmol 2005;123:1042–50.
+34. Stelmack JA, Tang XC, Reda DJ, et al. Outcomes of
+the Veterans Affairs Low Vision Intervention Trial
+(LOVIT). Arch Ophthalmol 2008;126:608–17.
+
+17. Brennan DM, Tindall L, Theodoros D, et al. A Blueprint for Telerehabilitation Guidelines—October 2010.
+Telemed J E Health 2011;17:662–5.
+
+35. Bahrami H, Melia M, Dagnelie G. Lutein Supplementation in Retinitis Pigmentosa: PC-based Vision Assessment
+in a Randomized Double-masked Placebo-controlled Clinical Trial [Nct00029289]. BMC Ophthalmol 2006;6:23.
+
+18. Hailey D, Roine R, Ohinmaa A, et al. Evidence of
+Benefit from Telerehabilitation in Routine Care: A Systematic Review. J Telemed Telecare 2011;17:281–7.
+
+36. Ihrig C. Steps to Offering Low Vision Rehabilitation
+Services through Clinical Video Telehealth. J Vis Impair
+Blind 2016;110:441–7.
+
+19. Bittner AK, Yoshinaga PD, Wykstra SL, et al.
+Telerehabilitation for People with Low Vision. Cochrane
+Database Syst Rev 2020;2:CD011019.
+
+37. Copolillo A, Teitelman JL. Acquisition and Integration of Low Vision Assistive Devices: Understanding the
+Decision-making Process of Older Adults with Low Vision. Am J Occup Ther 2005;59:305–13.
+
+20. Bittner AK, Yoshinaga P, Bowers A, et al. Feasibility
+of Telerehabilitation for Low Vision: Satisfaction Ratings by
+Providers and Patients. Optom Vis Sci 2018;95:865–72.
+
+38. Scherer MJ. Outcomes of Assistive Technology Use
+on Quality of Life. Disabil Rehabil 1996;18:439–48.
+
+21. Consolidated Standards of Reporting Trials (CONSORT) Group. Pilot and Feasibility Trials; 2018. Available at: http://www.consort-statement.org/extensions/
+overview/pilot and feasibility. Accessed May 8, 2019.
+
+39. Scherer MJ, Sax C, Vanbiervliet A, et al. Predictors
+of Assistive Technology Use: The Importance of Personal
+and Psychosocial Factors. Disabil Rehabil 2005;27:
+1321–31.
+
+22. Lorenzini MC, Wittich W. Measuring Changes in Device Use of a Head-mounted Low Vision Aid After
+Personalised Telerehabilitation: Protocol for a Feasibility
+Study. BMJ Open 2019;9:e030149.
+
+40. Verza R, Carvalho ML, Battaglia MA, et al. An Interdisciplinary Approach to Evaluating the Need for Assistive Technology Reduces Equipment Abandonment.
+Mult Scler 2006;12:88–93.
+
+Optom Vis Sci 2021; Vol 98(6)
+
+581
+

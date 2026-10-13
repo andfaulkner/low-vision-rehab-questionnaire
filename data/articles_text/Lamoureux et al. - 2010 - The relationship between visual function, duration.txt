@@ -1,0 +1,971 @@
+[page 1]
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+DOI 10.1007/s00417-009-1260-x
+
+LOW VISION
+
+The relationship between visual function, duration and main
+causes of vision loss and falls in older people with low vision
+Ecosse Lamoureux & Sandeep Gadgil &
+Konrad Pesudovs & Jill Keeffe & Eva Fenwick &
+Mohamed Dirani & Satu Salonen & Gwyn Rees
+
+Received: 12 June 2009 / Revised: 1 November 2009 / Accepted: 19 November 2009 / Published online: 7 January 2010
+# Springer-Verlag 2010
+
+Abstract
+Background Falls are an alarming health problem and a
+major cause of injury among the elderly. The healthcare
+cost associated with falls is considerable. Visual acuity has
+been found to be an independent risk factor for falls;
+however, the results are not unanimous. Moreover, other
+aspects of visual function such as visual field, contrast
+sensitivity and depth perception have not been adequately
+investigated in relation to falls. The aim of this study,
+therefore, was to determine the relationship between visual
+function, duration, and main causes of visual impairment,
+and falls in individuals with low vision.
+Methods This was a cross-sectional study involving participants attending a public tertiary eye care hospital. Partic-
+
+Statements No authors have any financial relationship with the
+organisation that sponsored the research. All authors have full control of
+all primary data, and they agree to allow Graefe’s Archive for Clinical
+and Experimental Ophthalmology to review their data if requested.
+E. Lamoureux : S. Gadgil : J. Keeffe : E. Fenwick (*) :
+M. Dirani : S. Salonen : G. Rees
+Centre for Eye Research Australia,
+The Royal Victorian Eye and Ear Hospital,
+University of Melbourne,
+Melbourne, Australia
+e-mail: fenwicke@unimelb.edu.au
+E. Lamoureux : J. Keeffe
+Vision CRC-Sydney,
+Sydney, Australia
+K. Pesudovs
+NH&MRC Centre for Clinical Eye Research,
+Flinders University and Flinders Medical Centre-Australia,
+Adelaide, SA, Australia
+
+ipants were mobile, aged 60 years or above, and had low
+vision (visual acuity >0.3 LogMAR in the better eye).
+Details about falls in the previous 12 months and other
+information were collected, and patients completed a
+questionnaire about activities of daily living. The duration
+and main causes of visual impairment, visual acuity, contrast
+sensitivity, depth perception, and visual field were assessed.
+Descriptive statistical analyses were performed to characterize the participants’ sociodemographic and clinical data.
+Results One hundred and twenty seven patients (53%; 67
+males) with a mean age of 76.3±8.3 years were recruited.
+Thirty seven percent of the participants (n=47) had mild,
+50% (n=64) moderate and 13% (n=16) severe visual
+impairment (>0.3–0.5; >0.5–1.0; and >1.0 LogMAR
+respectively). The frequencies of single and multiple falls
+were 42.5% and 12.6% respectively. Visual acuity, contrast
+sensitivity, depth perception, visual field, main cause,
+and duration of visual impairment were not significantly
+associated with falls (p>0.05). In multiple regression
+analyses, physical in activity remained the only variable
+independently associated with falls in all models except for
+visual field. Overall, visually impaired people were three
+times more likely to fall if they were physically inactive.
+Conclusions Visual function, duration and main causes of
+visual impairment are not independently associated with
+falls in people with low vision. However, a significant
+relationship between non-participation in physical activity
+and falls was found. Further work is required to investigate
+the association between vision-related factors and falls in
+older people with visual impairment.
+Keywords Low vision . Falls . Visual function .
+Older individuals
+
+
+[page 2]
+528
+
+Introduction
+Falls are an important health problem, as more than a third
+of community-living elderly individuals experience at least
+one fall annually [1–4]. Falls are the leading cause of
+injury-related deaths among elderly individuals [5, 6], and
+can result in restriction of mobility and activity, feelings of
+helplessness, loss of confidence, depression, and institutionalization [7]. Economically, the health care costs
+associated with falls in Australia were estimated at AU
+$500 million in 2001, and this figure is expected to almost
+triple by 2051 due to the anticipated ageing of the Australian
+population [8]. In the US, the cost of fatal and non-fatal falls
+is estimated to be even higher, standing at more than USD
+$19 billion (AUTHOR please correct this figure!) in 2000
+[9]. Effective screening, prevention, and rehabilitation programs are required to prevent falls, as well the identification
+of the risk factors for falls. Falls have a multi-factorial
+etiology, and a considerable number of risk factors have been
+described as either personal or environmental [10]. Several
+population-based studies have identified reduced visual
+acuity as one of the most common risk factors for falls
+[11–13]. Also, individuals with compromised vision, compared to fully sighted populations, are almost twice as likely
+to fall, have recurrent falls, and sustain fractures [14].
+However, other smaller prospective studies have failed to
+show any significant difference in visual acuity between
+fallers and non-fallers [15–20]. Other aspects of visual
+function are also not consistently related to falls. For
+example, a number of studies have demonstrated that contrast sensitivity can increase the risks of falls [15, 18, 20],
+while others have failed to replicate such findings [17, 21,
+22]. Some studies have reported the role of depth perception
+and visual field in falls [23]. These findings indicate an
+equivocal role of visual function as a mechanism for falls,
+and suggest that further research in this area is needed.
+In this study, we investigated evidence of the relationship between vision-related factors and falls in people with
+low vision. For example, we probed whether there was a
+relationship between severity of visual impairment and a
+higher frequency of falls. Such information is fundamental
+to prioritize prevention and rehabilitation programs for
+people who are at higher risk of falling within a visually impaired population. Consequently, the aim of this study
+was to determine the relationship between visual function,
+severity, duration and causes of visual impairment, and falls
+in community-living elderly adults with low vision.
+
+Materials and methods
+All patients from the tertiary referral outpatient eye clinics
+at the Royal Victorian Eye and Ear Hospital (RVEEH) were
+
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+
+initially approached between October 2005 and March
+2006. They needed to be community-living individuals
+aged 60 years or above, have low vision (visual acuity>0.3
+LogMAR (6/12 Snellen) in the better eye), be mobile and
+able to communicate in English or with a translator. All
+consenting participants provided information regarding
+demographics, general health, current medical history,
+present and past ocular history, presence of common risk
+factors for falls, use of medications, history of falls,
+participation in daily activities [24], level of physical
+activity, and education level. Ethics approval for this project
+was granted by the RVEEH Human Research Ethics
+Committee. This research adhered to the tenets of the
+Declaration of Helsinki.
+Main outcome: falls
+A fall was defined as an event which resulted in a person
+coming to rest unintentionally on the ground or other lower
+level [16]. All patients were asked to report the number of
+falls experienced during the previous month, 6 months and
+year. A patient was classified as a “Faller” if he or she
+reported a history of one or more falls in any of the above mentioned periods. Otherwise, the patient was classified as
+a “Non-Faller”. The specific characteristics of each fall
+were also recorded, namely the activity prior, location,
+presence and type of any obstacle involved, injuries, and
+prior warning signs [25].
+Visual acuity
+Visual acuity (VA) was tested individually and binocularly
+with a 4-m LogMAR chart. Patients with LogMAR>1.0
+(6/60 Snellen) were allocated the following LogMAR
+equivalents: counting fingers (LogMAR=1.7); hand movements (LogMAR=2.0) and perception of light (LogMAR=
+2.3) [26].
+Contrast sensitivity
+The participants’ contrast sensitivity was tested individually
+and binocularly using a 1-m Pelli–Robson contrast sensitivity chart [27].
+Depth perception
+Binocular depth perception was assessed using the Stereo
+Fly Test. Polarised vectograph plates are viewed through
+polarised viewers, allowing patients with stereopsis to view a
+3-D image. If a loss in gross stereopsis is present, the patient
+will not be able to describe the figure of the housefly as solid
+or 3-D, it will appear flat. Patients were asked to use reading
+glasses if used habitually, and the polarised viewers were
+
+
+[page 3]
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+
+worn over these. Patients were judged as having gross
+stereopsis or having a loss in gross stereopsis.
+Visual field
+Visual field loss was determined using the Humphrey
+Visual Field Analyser. The test used was the central 24-2
+threshold test, using the Swedish interactive threshold
+algorithm (SITA) standard strategy on the Humphrey Visual
+Field Analyser (HFA) (Humphrey Zeiss Visual Field
+Analyser Model 750). As the name suggests, it can locate
+losses in the central 24 degrees of the visual field. Visual
+field loss was measured based on the number of abnormal
+stimulus locations, defined as those with statistical probability levels of p<0.05. A pattern deviation plot was used to
+determine the number of affected points [28].
+Instrumental Activities of Daily Living (IADL)
+The Lawton’s Instrumental Activities of Daily Living scale
+[24] was also administered to ascertain the patients’ level of
+functioning and independence. The scale rates the difficulty
+of performing eight daily living tasks, which are: ‘using the
+telephone’, ‘getting to places beyond walking distance’,
+‘grocery shopping’, ‘preparing meals’, ‘doing housework or
+handyman work’, ‘doing the laundry’, ‘taking medications’,
+and ‘managing money’. The response categories are
+‘unable to do’, ‘need some help’, and ‘need no help’, and
+were coded as 0, 1 and 2 respectively. A summary score
+was generated where a participant needing no help with
+the eight items will produce a maximum score of 16.
+Conversely, a person unable to do any of the eight items
+will have a summary score of 0.
+Statistical analysis
+Descriptive statistical analyses were performed to characterize the participants’ sociodemographic and clinical
+data. The distribution of variables such as visual acuity
+(logMAR), contrast sensitivity (db), visual field (points
+missed), and the IADL summary score was initially
+assessed for normality using the Kolmogorov–Smirnov,
+skewness and kurtosis test statistics, and found to be
+normally distributed. Statistical analyses using the χ2
+statistic for categorical data and Student’s t-test or one way ANOVA for continuous data were performed to
+identify factors that differed between fallers and nonfallers. Binary logistic regression analyses for predictors
+of falls were performed for variables which were significant
+in the univariate analyses. Data were analyzed using the
+SPSS statistical software (Version 14.0.1, SPSS Science,
+Chicago, IL, USA). A p value<0.05 was used to indicate
+statistical significance.
+
+529
+
+Results
+One hundred and twenty-seven patients (53%; 67 males)
+with a mean age of 76.3±8.3 years were recruited for the
+study (Table 1). Only 39.4% of the participants (n=50)
+were born in Australia. Ninety-five participants (74.8%)
+were involved in regular physical activity. More than 60%
+of the participants (n=75) rated their health as being
+‘good’, and the most common medical conditions were
+diabetes and arthritis which affected 35% (n=44) and 38%
+(n=48) of the participants respectively. The mean IADL
+summary score was 11.6±4.3 (range 0–16), which suggests
+that overall the participants were generally functional and
+independent.
+The participants’ clinical characteristics and visual
+functioning are shown in Table 2. The most common eye
+conditions were glaucoma (33.1%, n=42) and cataract in
+either eye (21.3%, n=27). The mean ± SD for best
+corrected binocular visual acuity (BVCA) and contrast
+sensitivity were 0.72±0.47 LogMAR (6/30) and 1.02±0.47
+db respectively. Over forty percent of our participants (n=
+53) had a lack of gross stereopsis, and the mean ± SD
+points missed on the visual field test was 16.03±12.6.
+Overall, 37% of the participants (n=47) had mild, 50% (n=
+64) moderate and 13% (n=16) severe visual impairment
+(VA (better eye) >0.3–0.5; >0.5–1.0; and >1.0 LogMAR
+respectively).
+Frequency and characteristics of falls
+The frequency of recalled falls was 42.5% with 54 patients
+reporting 111 falls in the last 12 months. However, the
+participants could only recall the details of 71 of these falls,
+suggesting a recall bias of 36%. Of these, 16 (29.6%)
+reported more than one fall. Overall, 37 patients (29.1%)
+reported having fallen at least once in the previous
+6 months, while 18 (14.2%) reported having fallen at least
+once in the last month.
+Almost 65% of the falls (n=46) happened indoors (e.g.,
+the bedroom, bathroom). The majority of falls (60%)
+occurred at the patients’ home and surrounding environments (garden or backyard areas). Negotiating obstacles
+(e.g., curbs and steps) and slippery surfaces contributed to
+more 50% of all falls. ‘Walking’ was the most common
+activity in which the participants were involved at the time
+of the fall (62%). Only 18.3% of the falls were preceded by
+any warning sign such as dizziness, palpitations, or
+weakness. More than one third of the falls resulted in
+bruises and grazes, 15% in cuts and almost 10% in
+fractures. Approximately 40% of the patients were unable
+to get up by themselves after the fall, and 34.4% sought
+medical attention following a fall.
+
+
+[page 4]
+530
+
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+
+Table 1 Characteristics of the 127 visually impaired participants of the study
+Patients’ characteristics
+Age (years)
+Gender
+Country of birth
+Smoker
+
+Other conditions
+
+Use of
+Physical activity
+General health
+
+Alcohol
+IADLa
+
+Total (127)
+
+Non-faller (n=73)
+
+Faller (n=54)
+
+P value
+
+Mean ± SD
+Female
+Australia
+Never
+Current
+Past
+Diabetes
+Arthritis
+History of stroke
+Parkinson’s disease
+COPD
+Urinary incontinence
+Hearing impairment
+Foot problems
+
+76.3±8.3
+60 (47.2%)
+50 (39.7%)
+53 (41.7%)
+13 (10.3%)
+61 (48.0%)
+48 (37.8%)
+44 (37.8%)
+8 (6.3%)
+1 (0.8%)
+1 (0.8%)
+35 (27.6%)
+52 (40.9%)
+40 (31.5%)
+
+76.2±8.4
+33 (55%)
+25 (50%)
+27 (50.9%)
+7 (53.8%)
+39 (63.9%)
+28 (38.4%)
+22 (30.1%)
+1 (1.4%)
+0 (0.0)%
+0 (0.0)%
+18 (51.4%)
+24 (46.2%)
+21 (52.5%)
+
+76.4±8.7
+27 (45%)
+25 (50%)
+26 (49.1%)
+6 (46.2%)
+22 (36.1%)
+20 (37.0%)
+22 (40.7%)
+7 (13.0%)
+1 (100%)
+1 (100%)
+17(48.6%)
+28 (53.8%)
+19 (47.5%)
+
+0.88
+0.72
+0.21
+0.36
+
+Anti-depressants
+Assistive device
+Yes
+No
+Very good/excellent
+Good
+Poor/fair
+Regular consumption
+Summary score (mean±SD)
+
+8 (6.3%)
+38 (29.9%)
+95 (74.8%)
+32 (25.2%)
+29 (22.8%)
+46 (36.2%)
+52 (40.9%)
+47 (37.0%)
+11.6±4.3
+
+3 (37.5%)
+16 (42.1%)
+62 (65.3%)
+11 (34.4%)
+19 (65.5%)
+28 (60.9%)
+26 (50%)
+30 (63.8%)
+12.8±3.4
+
+5 (62.5%)
+22 (57.9%)
+33 (34.7%)
+21 (65.6%)
+10 (34.5%)
+18 (31.1%)
+26 (50%)
+17 (36.2%)
+10.1±4.1
+
+0.81
+0.26
+0.01b
+0.43
+0.43
+0.43
+0.05
+0.45
+0.28
+0.18b
+<0.01b
+0.85
+
+0.35
+<0.01b
+
+a
+
+IADL: Instrumental Activities of Daily Living summary score ranging between 0 and 16, where a low score indicates substantial difficulty
+undertaking activities of daily living.
+b
+
+p<0.05
+
+Table 2 Clinical characteristics of the 127 visually impaired participants of the study
+Total (n=127)
+
+Non-faller (n=73)
+
+Faller (n=54)
+
+P valueb
+
+12 (9.4%)
+27 (21.3%)
+25 (19.7%)
+42 (33.1%)
+21 (16.5%)
+72 (56.7%)
+0.73±0.49
+1.59±0.65
+0.72±0.47
+1.04±0.45
+0.45±0.51
+1.02±0.47
+16.03±12.6
+
+9 (75%)
+17 (63%)
+12 (48%)
+27 (64.3%)
+8 (38.1%)
+42 (58.3%)
+0.73±0.49
+1.56±0.65
+0.72±0.49
+0.49±0.53
+1.10±0.42
+1.10±0.45
+13.75±14.3
+
+3 (25%)
+10 (27%)
+13 (52%)
+15 (35.7%)
+13 (61.9%)
+30 (41.7%)
+0.73±0.48
+1.64±0.64
+0.71±0.46
+0.39±0.48
+0.96±0.47
+0.93±0.50
+17.27±10.3
+
+0.11
+
+Visual field (mean ± SD)
+
+AMD
+Cataract
+DR
+Glaucoma
+Other
+Gross stereopsisa
+Better eye
+Worse eye
+Binocular
+Worse eye
+Better eye
+Binocular
+Points missed
+
+0.85
+0.96
+0.50
+0.92
+0.33
+0.12
+0.11
+0.28
+
+Duration of impairment (years)
+
+Median (range)
+
+4 (1–65)
+
+4.0 (1–65)
+
+4.5 (1–57)
+
+0.25
+
+Characteristics
+Eye conditions
+
+Depth perception
+Visual acuity (LogMAR-mean ± SD)
+
+Contrast sensitivity (db-mean ± SD)
+
+AMD = age-related macular degeneration, DR = diabetic retinopathy
+a
+
+Data missing for two patients
+
+b
+
+p values derived from chi-squared and ANOVA tests, as appropriate.
+
+
+[page 5]
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+
+531
+
+Comparison between fallers and non-fallers
+In the univariate analyses, fallers compared to non-fallers
+were significantly less likely to be involved in vigorous
+physical activity (χ2; p<0.05) (Table 1). Overall, they also
+experienced significantly greater difficulty performing activities of daily living (ANOVA; p<0.05). A significantly
+greater proportion of fallers reported a history of stroke and
+making use of an assistive device while walking (χ2; p<
+0.05). There were no differences between fallers and nonfallers for eye conditions and the duration of vision impairment (χ2 and t-test; p>0.05, Table 2). Critically, our analyses
+found no statistically significant differences for visual acuity,
+depth perception, contrast sensitivity and visual field
+between fallers and non fallers (ANOVA; p>0.05; Table 2).
+Multivariate analysis
+Although visual acuity, contrast sensitivity, depth perception, and visual field were not found to be significantly
+
+associated with falls, each was included separately in a
+regression model together with age, gender, and other
+variables significantly related with falls. Non-participation
+in physical activity was found to be independently significantly associated with recalled falls in three of the four
+models (Table 3).
+Overall, a strong relationship was observed between
+falling, visual impairment and non-involvement in any form
+of physical activity.
+
+Discussion
+Our results indicate that more than 40% of individuals with
+low vision attending a public tertiary eye care hospital fell
+in the past 12 months. The frequency of falls reported here
+is similar to or even higher (28–35%) than that in normally
+sighted community-dwelling elderly individuals [1, 2, 4,
+16, 19], suggesting that visually impaired people are at a
+substantial risk of falls. Furthermore, almost 30% of our
+
+Table 3 Four binary logistic regression models showing the relationship between falls in the last 12 months and visual impairment
+Variables entered
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+a
+
+Coefficient
+
+P value
+
+Odds ratio
+
+95.0% confidence interval for odds ratio
+Lower
+
+Upper
+
+Visual acuity
+Gender
+Age
+Physical Activitya
+History of Stroke
+Summary IADL score
+Contrast sensitivity
+Gender
+Age
+Physical Activitya
+History of Stroke
+Summary IADL score
+
+-0.09
+-0.01
+-0.03
+1.18
+0.91
+-0.27
+-0.59
+0.00
+-0.03
+1.17
+0.85
+-0.24
+
+0.82
+0.98
+0.19
+0.01
+0.12
+0.24
+0.17
+0.98
+0.20
+0.01
+0.17
+0.2
+
+0.91
+0.98
+0.96
+3.27
+2.48
+0.76
+0.55
+1.01
+0.96
+3.25
+2.36
+0.78
+
+0.40
+0.46
+0.92
+1.34
+0.77
+0.47
+0.23
+0.46
+0.91
+1.31
+0.68
+0.49
+
+2.04
+2.13
+1.02
+7.96
+7.98
+1.21
+1.29
+2.21
+1.02
+8.05
+8.19
+1.24
+
+Depth perception
+Gender
+Age
+Physical Activitya
+History of Stroke
+Summary IADL score
+Visual field
+Gender
+Age
+Physical Activity
+History of Stroke
+Summary IADL score
+
+0.36
+0.04
+-0.02
+1.23
+0.73
+-0.29
+-0.04
+-0.23
+-0.04
+1.08
+0.52
+-0.23
+
+0.37
+0.91
+0.36
+0.01
+0.24
+0.21
+0.06
+0.64
+0.25
+0.08
+0.53
+0.41
+
+1.44
+1.05
+0.97
+3.42
+2.08
+0.74
+0.96
+0.79
+0.96
+2.96
+1.68
+0.79
+
+0.64
+0.48
+0.92
+1.40
+0.61
+0.46
+0.92
+0.29
+0.89
+0.87
+0.32
+0.46
+
+3.25
+2.26
+1.03
+8.34
+7.03
+1.18
+1.00
+2.11
+1.03
+10.11
+8.96
+1.38
+
+denotes a significant (p<0.05) independent association with having a fall in each model.
+
+
+[page 6]
+532
+
+participants had had more than one fall in the last
+12 months. This finding is lower than that reported in a
+recent prospective study of normally sighted community dwelling elderly people in which 50% of single fallers
+reported multiple falls [15]. The difference is likely to be
+due to reliance on memory recall within retrospective
+studies, resulting in an underestimate of falls [29].
+Only non-participation in physical activity was found to
+be independently and significantly linked with falls. Our
+finding is not unusual, as several studies using other
+population samples have also shown in activity to be a
+consistent risk factor for falls and moving from being
+sedentary to moderately active can reduce the risks of falls
+and hip fractures by 20–40% [16, 30, 31]. Physical activity
+reflects aspects of mobility, dynamic stability and musculoskeletal system function. Previous investigations that have
+shown measures of muscle weakness, such as the inability to
+get up from a chair without using the hands, to predict falls
+[17, 19]. Given that these factors are readily modifiable with
+appropriate intervention strategies, further work is required
+to examine these elements and their associations with falls
+within the visually impaired population.
+The four aspects of visual function were not found to be
+associated with falls. Several population-based studies have
+found visual acuity (<6/12) to be significantly associated
+with falls [13, 21, 32], including injurious falls [32, 33].
+Whilst visual impairment (absence or presence) may be an
+independent predictor of falls in a heterogeneous population, our results indicate that the degree or level of visual
+acuity has limited association with falls in this specific
+population. It has been argued that visual acuity plays
+a more significant role as a falls risk factor when the
+participants are dependent [33]. It should be noted that our
+sample were mobile and independent community-dwelling
+individuals, and therefore the role of visual acuity as an
+independent predictor of falls may be less important.
+Furthermore, over 90% of our participants had mild or
+moderate vision loss, and it is possible that a floor effect in
+the range of visual impairment may help to explain our lack
+of association between level of visual acuity and falls.
+Future studies, using a larger sample size and an even
+representation of visual impairment, are needed to confirm
+these hypotheses and to determine more precisely the level
+of visual acuity at which the risk of falls increases.
+That visual field loss was not found to be associated with
+falls is perhaps also not surprising, as there is a lack of
+consensus on this issue. Several studies have shown an
+increased risk of falls in patients with compromised visual
+field [13, 34, 35], while others have shown no association
+[22, 36]. Similarly, some studies have found contrast
+sensitivity to predict falls [37], while others have found
+no significant association [21, 22]. Equally, the association
+of depth perception with falls has been ambiguous, as some
+
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+
+studies have demonstrated a link [15], while others have
+found none [22, 35]. Our finding that there is no association
+between falls and eye conditions is also not unprecedented,
+as there has been conflicting evidence on the role of eye
+diseases as potential risk factors for falls [11, 12, 32, 38].
+In conclusion, this study found that more than two out of
+five individuals with low vision fall annually, suggesting
+that a substantial proportion of this specific population is
+vulnerable to falling and its debilitating impact. Four
+aspects of visual function were not found to be associated
+with falling, suggesting that once the visual system
+deteriorates, other factors such as participation in physical
+activity may be more significant. Such information is
+valuable in the planning of prevention and rehabilitation
+programs for people who are at higher risk of falling within
+a visually-impaired population, and could be the focus of
+larger studies in the future. Due to the cross-sectional nature
+of this study and the relatively small sample size, further
+investigation is required to determine whether a fear of
+falling or a previous fall limits participation in physical
+activity and, additionally, that the non-involvement in
+physical activity increases the risk of falling. Future
+prospective research involving a larger sample from diverse
+settings and including formal assessment of functional gait,
+mobility, balance, and muscular strength is also required to
+identify the independent predictors of falls in individuals
+with low vision.
+
+References
+1. Campbell AJ, Reinken J, Allan BC, Martinez GS (1981) Falls in
+old age: a study of frequency and related clinical factors. Age
+Ageing 10:264–270
+2. Prudham D, Evans JG (1981) Factors associated with falls in the
+elderly: a community study. Age Ageing 10:141–146
+3. Tinetti ME, Speechley M, Ginter SF (1988) Risk factors for falls
+among elderly persons living in the community. New England
+Journal of Medicine 319:1701–1707
+4. Blake AJ, Morgan K, Bendall MJ, Dallosso H, Ebrahim SB, Arie TH,
+Fentem PH, Bassey EJ (1988) Falls by elderly people at home:
+prevalence and associated factors. Age Ageing 17:365–372
+5. Dunn C, Sadkowsky K, Jelfs P (2002) Trends in Deaths: Australian
+data, 1987–1998 with updates to 2000. Australian Institute of
+Health and Welfare, Canberra
+6. Baker SP, Harvey AH (1985) Fall injuries in the elderly. Clin
+Geriatr Med 1:501–512
+7. Tinetti ME, Powell L (1993) Fear of falling and low self-efficacy:
+a case of dependence in elderly persons. J Gerontol 48 Spec
+No:35–38
+8. Moller J (2003) Projected costs of fall related injury to older
+persons due to demographic changes in Australia. Commonwealth
+Department of Health and Ageing
+9. Stevens JA, Corso PS, Finkelstein EA, Miller TR (2006) The
+costs of fatal and non-fatal falls among older adults. Inj Prev
+12:290–295, doi:10.1136/ip. 2005.011015
+
+
+[page 7]
+Graefes Arch Clin Exp Ophthalmol (2010) 248:527–533
+10. Connell BR (1996) Role of the environment in falls prevention.
+Clin Geriatr Med 12:859–880
+11. Ivers R, Cumming R, Mitchell P (2002) Poor vision and risk of
+falls and fractures in older Australians: the Blue Mountains Eye
+Study. New South Wales Public Health Bulletin 13:8–10
+12. Coleman AL, Stone K, Ewing SK, Nevitt M, Cummings S,
+Cauley JA, Ensrud KE, Harris EL, Hochberg MC, Mangione CM
+(2004) Higher risk of multiple falls among elderly women who
+lose visual acuity. Ophthalmology 111:857–862
+13. Ivers RQ, Cumming RG, Mitchell P, Attebo K (1998) Visual
+impairment and falls in older adults: the Blue Mountains Eye Study.
+J Am Geriatr Soc 46:58–64
+14. Legood R, Scuffham P, Cryer C (2002) Are we blind to injuries in the
+visually impaired? A review of the literature. Inj Prev 8:155–160
+15. Lord SR, Dayhew J (2001) Visual risk factors for falls in older
+people. J Am Geriatr Soc 49:508–515
+16. Tinetti ME, Speechley M, Ginter SF (1988) Risk factors for falls
+among elderly persons living in the community. N Engl J Med
+319:1701–1707
+17. Nevitt MC, Cummings SR, Kidd S, Black D (1989) Risk factors
+for recurrent nonsyncopal falls. A prospective study. JAMA
+261:2663–2668
+18. Lord SR, Clark RD, Webster IW (1991) Visual acuity and contrast
+sensitivity in relation to falls in an elderly population. Age Ageing
+20:175–181
+19. Campbell AJ, Borrie MJ, Spears GF (1989) Risk factors for falls
+in a community-based prospective study of people 70 years and
+older. J Gerontol 44:M112–M117
+20. de Boer MR, Pluijm SM, Lips P, Moll AC, Volker-Dieben HJ,
+Deeg DJ, van Rens GH (2004) Different aspects of visual
+impairment as risk factors for falls and fractures in older men and
+women. J Bone Miner Res 19:1539–1547
+21. Klein BE, Klein R, Lee KE, Cruickshanks KJ (1998)
+Performance-based and self-assessed measures of visual function
+as related to history of falls, hip fractures, and measured gait time.
+The Beaver Dam Eye Study. Ophthalmology 105:160–164
+22. Friedman SM, Munoz B, West SK, Rubin GS, Fried LP (2002)
+Falls and fear of falling: which comes first? A longitudinal
+prediction model suggests strategies for primary and secondary
+prevention. J Am Geriatr Soc 50:1329–1335
+23. Black A, Wood J (2005) Vision and falls. Clin Exp Optom
+88:212–222
+24. Lawton MP, Brody EM (1969) Assessment of older people: self maintaining and instrumental activities of daily living. Gerontologist
+9:179–186
+25. Bloem BR, Grimbergen YA, Cramer M, Willemsen M, Zwinderman
+AH (2001) Prospective assessment of falls in Parkinson’s disease.
+J Neurol 248:950–958
+
+533
+26. Nicholas S, Riley A, Patel H, Neveldson B, Purdie G, Wells AP
+(2006) Correlations between optical coherence tomography
+measurement of macular thickness and visual acuity after
+cataract extraction. Clinical and Experimental Ophthalmology
+34:124–129
+27. Pelli DG, Robson JG, Wilkins AJ (1988) The design of a new
+letter chart for measuring contrast sensitivity. Clin Vis Sci 2:187–
+199
+28. Hudson C, Flanagan JG, Turner GS, Chen HC, Young LB,
+McLeod D (1998) Influence of laser photocoagulation for
+clinically significant diabetic macular oedema (DMO) on shortwavelength and conventional automated perimetry. Diabetologia
+41:1283–1292
+29. Cummings SR, Nevitt MC, Kidd S (1988) Forgetting falls. The
+limited accuracy of recall of falls in the elderly. J Am Geriatr Soc
+36:613–616
+30. Gillespie LD, Gillespie WJ, Robertson MC, Lamb SE, Cumming RG,
+Rowe BH (2001) Interventions for preventing falls in elderly people.
+Cochrane Database Syst Rev: CD000340
+31. Gregg EW, Pereira MA, Caspersen CJ (2000) Physical activity, falls,
+and fractures among older adults: a review of the epidemiologic
+evidence. J Am Geriatr Soc 48:883–893
+32. Felson DT, Anderson JJ, Hannan MT, Milton RC, Wilson PW,
+Kiel DP (1989) Impaired vision and hip fracture. The Framingham
+Study. J Am Geriatr Soc 37:495–500
+33. Koski K, Luukinen H, Laippala P, Kivela SL (1998) Risk factors for
+major injurious falls among the home-dwelling elderly by functional
+abilities. A prospective population-based study. Gerontology
+44:232–238
+34. Ramrattan RS, Wolfs RC, Panda-Jonas S, Jonas JB, Bakker D,
+Pols HA, Hofman A, de Jong PT (2001) Prevalence and causes of
+visual field loss in the elderly and associations with impairment
+in daily functioning: the Rotterdam Study. Arch Ophthalmol 119:
+1788–1794
+35. Klein BE, Moss SE, Klein R, Lee KE, Cruickshanks KJ (2003)
+Associations of visual function with physical outcomes and
+limitations 5 years later in an older population: the Beaver Dam
+Eye Study. Ophthalmology 110:644–650
+36. Glynn RJ, Seddon JM, Krug JH Jr, Sahagian CR, Chiavelli ME,
+Campion EW (1991) Falls in elderly patients with glaucoma. Arch
+Ophthalmol 109:205–210
+37. Klein BE, Klein R, Knudtson MD, Lee KE (2003) Relationship
+of measures of frailty to visual function: the Beaver Dam Eye
+Study. Trans Am Ophthalmol Soc 101:191–196 discussion 196–
+199
+38. Ivers RQ, Cumming RG, Mitchell P, Simpson JM, Peduto AJ
+(2003) Visual risk factors for hip fracture in older people. J Am
+Geriatr Soc 51:356–363
+

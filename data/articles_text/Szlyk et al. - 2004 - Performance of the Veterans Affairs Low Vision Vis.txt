@@ -1,0 +1,1868 @@
+[page 1]
+Performance of the Veterans Affairs
+Low Vision Visual Functioning
+Questionnaire
+Janet P. Szlyk, Joan Stelmack, Robert W Massof,
+Thomas R. Stelmack, Paulette Demers-Turco,
+R. Tracy Williams, and Benjamin D. Wright
+Abstract: The purpose of this study was to develop an instrument that would be
+sensitive to the visual difficulties of persons with low vision and that could be
+used to evaluate outcomes and plan vision rehabilitation services. Toward that
+end, the Veterans Affairs Low Vision Visual Functioning Questionnaire was administered to 117 participants in rehabilitation programs in Veterans Affairs
+medical centers and in the private sector. The results demonstrate that the questionnaire is an effective instrument for measuring vision difficulties in persons
+who receive low-vision rehabilitation.
+
+Approximately 240,000 new cases of visual impairments (that is, low vision and
+blindness) occur each year in the United
+States, and this number is expected to
+double over the next 25 years, according
+to estimates cited in an epidemiological
+review by Massof (2002). Given that
+most of the diseases and conditions that
+result in visual impairments are more
+prevalent in older people, the aging of
+An earlier version of this article was presented, in part, at the annual meeting of the
+Association for Research in Vision and Ophthalmology, Fort Lauderdale, FL, May 2001.
+The research on which this article was based
+was supported by a research grant from the
+U.S. Department of Veterans Affairs, Veterans Health Administration, and Rehabilitation Research and Development Service,
+Washington, DC; National Institutes of
+Health Core Grant EY01792, Bethesda, MD;
+and an unrestricted grant from Research to
+Prevent Blindness, New York, NY
+©2004 AFB, All Rights Reserved
+
+baby boomers will strongly contribute to
+this increased number of cases. The rehabilitation community has been faced with
+the challenge of developing better methods and models for extending services to
+provide for the impending epidemic of vision loss (Massof, 1998). As Congress debates an increase in Medicare coverage
+for rehabilitation services (Capuano,
+2000), rehabilitation scientists are faced
+with the task of evaluating methods and
+determining their effectiveness for improving the quality of life of persons with
+low vision (Stelmack, 2001).
+A number of questionnaires have been
+developed to assess the quality of life of
+or the ability to perform daily tasks by individuals who have vision problems (for a
+review, see Massof & Rubin, 2001). However, the main emphasis of the design of
+the items and their scales has been on
+evaluating visual function in clinical triJournal of Visual Impairment & Blindness, May 2004
+
+261
+
+
+[page 2]
+als for specific treatable eye conditions,
+such as cataract (Mangione et aI., 1992).
+Most measures have been validated
+against traditional measures of visual
+function, including visual acuity and visual fields, using correlation analyses that
+have yielded acceptable but not high correlations (Haymes, Johnston, & Heyes,
+2000). The correlations are not expected to
+be high. As has been pointed out (Massof
+& Rubin, 2001), redundancy should be
+avoided, and the participants' self-report
+measures should provide wider profiles of
+functional performance than can be gained
+from laboratory tests of letter recognition
+and spot-luminance detection.
+The aim of the research reported here
+was to use this effective means of obtaining more information from people with
+visual impairments and apply it to persons with low vision who are undergoing
+vision rehabilitation. The intent was to
+build a scale of items that are directly addressed by, and affected positively by, rehabilitation strategies. The methods used
+in this study were different from those
+used in previous work with low-vision
+participants in that we maintained a
+strong clinical orientation to vision rehabilitation. We were interested in developing a scale with clearly written questions
+about the performance of daily tasks that
+participants could easily understand. Another goal was to incorporate subcomponents of the items related to (1) whether
+any difficulty was the result of visual
+problems, (2) whether the participant was
+interested in receiving training for that
+activity, and (3) how the participant performed the activity. Even if an activity or
+task is difficult to perform, if the participant is not interested in training in it,
+then the activity or task becomes much
+
+262
+
+Journal of Visual Impairment & Blindness, May 2004
+
+less important for developing the participant's rehabilitation curriculum.
+In addition, we used the Rasch rating scale model (Wright & Masters, 1982) to
+construct a yardstick from the ordinal
+data provided by the questionnaire. The
+Rasch technique is optimal for developing
+an understandable ranking of tasks (for
+example, from the least to the most difficult). It has been used successfully in the
+development of interval scales, such as
+difficulty in assessing the activity levels of
+people who are blind (Becker, Lambert,
+Schulz, Wright, & Burnet, 1985; Schulz,
+Lambert, & Becker, 1985), the importance
+of accomplishing daily goals by persons
+with low vision (Massof, 1998), and the
+self-perceived ability for independent mobility in those with vision loss that is due
+to the inherited retinal degenerative disease retinitis pigmentosa (RP) (Turano,
+Geruschat, Stahl, & Massof, 1999). The
+ranking represents a useful yardstick to
+gauge a participant's functional growth
+after a rehabilitation program.
+A pilot study (Stelmack, Szlyk, Joslin,
+Swetland, & Myers, 2000), in which the
+authors applied the National Eye Institute Visual Functioning Questionnaire-25
+(NEI VFQ-25, 1996) in a Veterans Affairs
+(VA) setting, demonstrated some limitations in its use with persons who are undergoing vision rehabilitation. In this earlier work, Stelmack et aI. found that 77
+legally blind veterans from the Edward
+Hines VA Blind Rehabilitation Center, an
+inpatient program, reported statistically
+significant improvement on 30 of 39 items.
+The 9 items on which there was no significant improvement dealt with overall
+health, ocular pain, driving, socializing,
+and grooming. Stelmack et al. concluded
+that because the inpatient program does
+©2004 AFB, All Rights Reserved
+
+
+[page 3]
+not focus on the rehabilitation of overall
+health or ocular pain, a change on these
+indexes would not be expected. In addition, the severity of the participants' vision losses precluded any training in driving. Another previous study in the senior
+author's laboratory showed no relationship between vision and either socializing
+or grooming (Szlyk et aI., 2001).
+Furthermore, Stelmack et aI. (2000)
+found that almost one-fourth of the questions on the NEI VFQ-25 werenot relevant
+to the study group. The also found that the
+older participants were confused about
+the directions and the wording of some
+of the items and whether the questions
+should be answered according to their
+corrected (eyeglass or contact lens) visual acuity or their visual acuity with
+low-vision devices. The goal became to
+develop a visual functioning questionnaire that would be appropriate for the
+aging participant of a low-vision rehabilitation program that could be used to
+design the participant's program and
+could provide a standard to measure
+progress.
+This article reports the results from the
+baseline testing of participants who were
+enrolled in vision rehabilitation programs
+within the VA or in private-sector clinics.
+It includes the psychometric properties
+associated with each scale.
+
+Methods
+PARTICIPANTS
+
+The Veterans Affairs Low Vision Visual
+Functioning Questionnaire was administered to 117 participants (97 men and 20
+women), who ranged in age from 29 to 93
+(mean age = 72 years). The participants
+were recruited from four rehabilitation
+©2004 AFB, All Rights Reserved
+
+programs: (1) the Visual Impairment
+Center to Optimize Remaining Sight
+(VICTORS) Program at the Chicago VA
+Health Care System, West Side Division, a
+short-term inpatient regional program that
+serves veterans who have less-severe vision
+loss than legal blindness (that is, a visual
+acuity of 20/200 or worse and/or a visual
+field diameter of 20 degrees or less) (20 participants), with visual acuity typically ranging from 20/40 to 20/200; (2) the Hines
+Blind Rehabilitation Center, described earlier (49 participants), with participants
+whose visual acuities are typically 20/200
+and worse; (3) the Edwin and Lois Deicke
+Eye Center, a nonprofit agency providing
+low-vision services in the private sector (32
+participants), serving participants with a
+spectrum of visual acuities from 20/40 and
+worse; and (4) the Massachusetts Eye and
+Ear Infirmary, a hospital-based rehabilitation program in Boston (16 participants),
+serving participants with a range of visual
+acuities that is similar to the Deicke Eye
+Center program. All the participants gave
+their informed consent to participate. The
+protocol was approved by the VAand University of Illinois at Chicago Institutional
+Review Boards.
+PROCEDURES
+
+The questionnaire consisted of 48 items
+that evaluated functional performance in
+areas encompassing navigation, resolution, peripheral detection, finding, and
+general function (see Box 1). The questions were derived from items that had
+been successfully used in previous questionnaires and assessment batteries developed by the authors (Ross, Stelmack, Stelmack, & Fraim, 1991; Szlyk et aI., 1997;
+Szlyk, Fishman, Grover, Revelins, & Derlacki, 1998; Szlyk et aI., 2001), as well as
+Journal of Visual Impairment & Blindness, May 2004
+
+263
+
+
+[page 4]
+Items on the Veterans Affairs Low Vision Visual Functioning
+Questionnaire
+Is it difficult to ...
+1. Get dressed?
+2. Keep clean?
+3. Identify medicine?
+4. Tell time?
+5. Identify money?
+6. Match clothes?
+7. Groom yourself?
+8. Identify food on a plate?
+9. Eat and drink neatly?
+10. Fix a snack?
+11. Prepare meals?
+12. Use appliance dials?
+13. Clean the house?
+14. Handle finances?
+15. Make out a check?
+16. Take a message?
+17. Find something on a crowded shelf?
+18. Find public restrooms?
+19. Get around indoors in places you
+know?
+20. Get around outdoors in places you
+know?
+21. Get around in unfamiliar places?
+22. Go out at night?
+23. Go down steps in dim light?
+
+24. Adjust to bright light?
+25. Cross streets at traffic lights?
+26. Use public transportation?
+27. Get around in a crowd?
+28. Avoid bumping into things?
+29. Recognize persons up close?
+30. Recognize persons from across the room?
+31. Read street signs and store names?
+32. Read headlines?
+33. Read menus?
+34. Read newspaper or magazine articles?
+35. Read mail?
+36. Read small print on package labels?
+37. Read print on the television?
+38. Keep your place while reading?
+39. Watch television?
+40. Play table and card games?
+41. See photos?
+42. Work on your favorite hobby?
+43. Go to the movies?
+44. Go to spectator events?
+45. Play sports?
+46. Do yard work?
+47. Sign your name?
+48. Read signs?
+
+Box 1.
+
+from interviews with rehabilitation specialists about the tasks that are taught in
+programs and with study participants regarding activities that they find most relevant to their lives.
+There were four (a-d) subcomponents to
+each question. The first subcomponent
+(a) asked the participant to rate his or her
+difficulty with a particular task. The rating
+scale consisted of six response categories:
+(1) "not difficult," (2) "slightly difficult,"
+(3) "moderately difficult," (4) "extremelydif-
+
+264
+
+Journal of Visual Impairment & Blindness, May 2004
+
+ficult," (5) "impossible," and (6) "do not do
+it for nonvisual reasons." If the participant
+responded "1," the interviewer would skip
+to the d subcomponent of the question. If
+the participant responded "6," the interviewer would skip to the next question.
+The second subcomponent (b) asked the
+participant if any difficulty expressed in
+subcomponent a was because of her or his
+vision; the participant responded yes or no.
+If the participant responded no, the interviewer would skip to the next question.
+©2004 AFB, All Rights Reserved
+
+
+[page 5]
+The third subcomponent (c) asked the participant if he or she wanted training in the
+activity; the participant responded yes or no.
+The fourth subcomponent (d) asked the participant how he or she usually performed the
+task. There were five response categories for
+subcomponent d: (1) "with my own eyes,"
+(2)"with vision devices/techniques" (a magnifier), (3) "with my other senses or non vision
+devices" (for example, a cane), (4) "someone
+helpsme,"and (5) "not applicable."
+The questionnaire was administered to
+participants by telephone before their admission to the rehabilitation programs.
+The interviewer received consent from the
+participants by telephone, and the participants signed the consent form when they
+were admitted to the rehabilitation programs. As was stated earlier, data were
+analyzed with a Rasch rating-scale
+model (Wright & Masters, 1982), using
+WINSTEPS Version 3.16 Analysis Software. Correlational analyses were then used
+to relate the transformed Rasch measures.
+
+Results
+THE SCALES
+
+Figure 1 shows the difficulty scalein performing a task (questionnaire item)for subcomponent a, generated from the Rasch
+analysis, which gives the distribution of responses for items that were rated not difficult to impossible. The questionnaire
+items that even the most-able participants
+rated difficult (with a mean score of approximately 4, or extremely difficult) were
+reading small print on package labels,
+playing sports, reading newspapers or
+magazine articles, reading television
+print, reading menus, working on a favorite hobby, reading street signs and
+names of stores, recognizing persons
+©2004 AFB, All Rights Reserved
+
+from across the room, and reading mail.
+The items that even the least-able participants found not difficult (with a mean
+score of approximately 1) were keeping
+clean, getting around indoors in places
+you know, getting dressed, fixing a snack,
+eating and drinking neatly, getting around
+outdoors in places you know, grooming
+oneself, and telling time.
+In Figure 1, the 48 items on the y-axis
+range from items that the 117 participants
+found the least difficult to do (top) to
+those they found the most difficult to do
+(bottom). The response distribution,
+ranging from scores for the most-able to
+the least-able participants, is shown on
+the x-axis, with the mean scores for each
+item indicated by the vertical line (M). As
+the cascade of numbers descends to the
+left, it indicates items that even the mostable participants found difficult. The
+Rasch analysis shows the full range of
+scores, but only bold-face numbers are
+meaningful. A response of 1 indicates not
+difficult, 2 indicates slightly difficult, 3 indicates moderately difficult, 4 indicates
+extremely difficult, and 5 indicates impossible. Colons indicate half-score points.
+Horizontal lines designate groupings of
+items that share the same response categories for the mean response.
+The item ordering for the difficulty
+question (subcomponent a) was highly
+correlated with the item ordering for
+whether difficulty was related to vision
+(subcomponent b; R = .87, p s .01). As
+Figure 2 indicates, the participants reported most often that their difficulty
+reading small print on package labels,
+reading street signs and store names,
+reading newspapers or magazine articles,
+and reading menus was because of their
+vision loss. They reported least often that
+Journal of Visual Impairment & Blindness, May 2004
+
+265
+
+
+[page 6]
+Is it difficult to
+% of
+
+Participants Responding
+
+o
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+-----+-----+-----+-----+--- -+-----+-----+-----+-----+-----1
+1
+1:
+
+1
+
+1
+1
+1
+1
+1
+
+1
+I
+I
+
+I
+I
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+1
+1
+
+2
+
+1
+
+2
+2
+2
+2
+
+2
+2
+
+2
+2
+2
+2
+2
+2
+
+4
+
+5
+
+2 : 3 : 4
+2 :3
+4
+3 : 4
+: 3 : 4
+: 3:
+4
+
+5
+
+3
+
+:3
+4
+:3
+4
+3
+4
+3
+4
+3
+4
+3
+4
+3: 4
+:3 : 4
+3 : 4
+3
+4
+3
+4
+3
+4
+3
+4
+3
+4
+
+2 :
+2 :
+2 :3
+2: 3
+2 :3
+2 :3
+2 :3
+
+2
+
+2 : 3
+2 :3
+2 :3
+
+3
+
+5
+
+2: 3 : 4
+2: 3 : 4
+
+2 :
+
+1
+1
+1
+
+: 2 : 3 : 4
+2 : 3 : 4
+
+2 : 3 : 4
+
+1
+1
+
+1
+
+2: 3:
+4
+2:3:4
+
+4
+
+2: 3: 4
+2: 3 :
+1
+1
+2: 3 :
+2: 3:
+I
+1
+2:3:4
+1 : 2: 3: 4
+1 :2:3:4
+1 :2:3:4
+1
+2 :3: 4
+
+4
+4
+4
+
+4
+4
+4
+
+4
+4
+4
+4
+
+5
+5
+5
+5
+5
+
+4
+
+5
+5
+5
+
+1
+
+5
+
+5
+
+5
+5
+
+5
+5
+
+5
+5
+5
+5
+
+5
+5
+
+5
+5
+5
+
+5
+5
+5
+5
+5
+5
+5
+
+5
+5
+5
+
+5
+5
+5
+
+5
+5
+5
+
+5
+5
+
+5
+
+5
+
+5
+5
+
+Least Difficult
+
+Not Difficult
+
+Keep clean
+Get around indoors
+Get dressed
+Fix snack
+Eat neatly
+Get around outdoors
+Groom self
+Tell time
+Slightly Difficult
+
+Match clothes
+Avoid bumping
+Identify food on plate
+Take a message
+Clean house
+Identify medicine
+Identify money
+Sign name
+Find restroom
+Use appliance dials
+See persons up close
+Get around in a crowd
+Prepare meals
+Go down steps in dim light
+Read headlines
+Watch TV
+Cross streets at light
+Public transportation
+Handle finances
+Moderately Difficult
+
+Adjust to bright light
+Find item on shelf
+Make out a check
+Do yard work
+Get around in unfamiliar
+Go to movies
+See photos
+Play games
+Go out at night
+Go to spectator events
+Keep place while reading
+Read signs
+Extremely Difficult
+
+Read mail
+Recognize persons far away
+Read street signs
+Work on hobby
+Read menus
+Read TV print
+Read newspaper
+Play sports
+Read small-print labels
+
+1-----+-----+-----+-----+-- --+-----+-----+-----+-----+-----1 Most Difficult
+o
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+
+% of Participants Responding
+Most
+Able Participants
+
+Least
+Able Participants
+
+Figure 1. Ranking of responses to questionnaire subcomponent a: "Is it difficult to ... T'
+
+
+[page 7]
+any difficulty with such activities as keeping clean, getting around indoors in
+places you know, and getting dressed was
+because of their vision loss.
+Note that the 48 items on the y-axis of
+Figure 2 range from items that the 117
+participants least often found difficult because of their vision (top) to those they
+most often found difficult (bottom). A
+no, "Not because of my vision," response
+was coded 2. The most probable modal
+response is indicated by the x-axis. As the
+cascade of numbers descends to the left,
+it indicates items that even the most-able
+participants found difficult because of
+their vision. The vertical line (M) indicates the mean.
+Also, the item ordering for the difficulty question (subcomponent a) was
+highly correlated with the item ordering
+for subcomponent c on whether the participants wanted training (R = .85, p ::;
+.01). Figure 3 shows the item orderings
+for subcomponent c. The 48 items on the
+y-axis range from those for which the participants had the least interest in receiving
+training (top) to those for which the participants had the greatest interest in receiving training (bottom). A no, "I do not
+want training," response was coded 2. The
+most probable modal response is indicated by the x-axis. As the cascade of
+numbers descends to the left, it indicates
+items for which even the most-able participants wanted training. The vertical line
+(M) indicates the mean. As may be expected and as is evident in Figure 3, the
+participants wanted training in the reading items and navigation items, such as
+getting around in unfamiliar places.
+In Figure 4, this correlation is plotted
+between the Rasch measures for visual
+difficulty in performing an item versus
+©2004 AFB, All Rights Reserved
+
+the Rasch measures for the interest in
+training on that item. The items within
+the small oval in the lower-left quadrant
+are items that the participants found difficult and for which they wanted training:
+reading menus, reading small print on
+package labels, and reading newspaper or
+magazine articles. The items within the
+small oval in the upper-right quadrant
+are items that the participants found easy
+and for which they did not want training:
+keeping clean, getting around indoors in
+places they know, and getting dressed.
+The items within the larger oval are
+items for which the participants were
+less interested in training even though
+the tasks were difficult: playing sports,
+working on a favorite hobby, playing
+table and card games, using public transportation, doing yard work, going to the
+movies, going to spectator events, reading signs, and going out at night. These
+nine items may be weighted toward
+being more idiosyncratic or ambiguous
+and may not lend themselves easily to
+training. As we stated earlier, the item
+ordering for the difficulty question
+(items ranked from the easiest to the
+most difficult) was highly correlated
+with the item ordering for whether the
+participants wanted training (R = .85, P
+::; .01). This correlation increased to R =
+.98 (p::; .01) with the removal of the nine
+ineffective items shown in the larger
+oval. The rankings for the vision (subcomponent b) and training questions
+(subcomponent c) were also highly correlated (R = .98, p ::; .01).
+The separation (S) and reliability (R) of
+the scales for subcomponents a through c;
+respectively, were high at S = 3.91 and R =
+.94, S = 3.54 and R = .93,and S = 3.29and
+R = .92. (For a discussion of separation
+Journal of Visual Impairment & Blindness, May 2004
+
+267
+
+
+[page 8]
+Is it because of your vision?
+
+o
+
+10
+
+% of Participants Responding No
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+1-----+-----+-----+-----+-----+- ---+-----+-----+-----+-----1 Least Because of Vision
+
+2
+2
+2
+2
+
+2
+2
+2
+2
+
+2
+
+2
+2
+2
+
+2
+
+2
+
+2
+
+2
+
+Keep clean
+Get around indoors
+Get dressed
+Fix snack
+Eat neatly
+Get around outdoors
+Public transportation
+Groom self
+Match clothes
+Clean house
+Take a message
+Tell time
+Avoid bumping
+Sign name
+Go to movies
+Do yard work
+
+Get around in a crowd
+Identify medicine
+Identify food on plate
+Find restroom
+Read signs
+
+2
+
+2
+
+2
+2
+
+2
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+2
+
+2
+2
+
+2
+2
+2
+2
+2
+
+2
+2
+2
+
+2
+2
+
+2
+2
+
+Prepare meals
+Play sports
+Recognize persons up close
+Read headlines
+Go down steps in dim light
+Use appliance dials
+Identify money
+Play games
+Cross streets at light
+Go to spectator events
+Handle finances
+Make out a check
+Watch TV
+Work on hobby
+Go out at night
+Adjust to bright light
+Keep place while reading
+Get around in unfamiliar
+Find item on shelf
+See photos
+Recognize persons far away
+Read mail
+Read street signs
+Read TV print
+Read newspaper
+Read menus
+Read small-print labels
+
+1-----+-----+-----+-----+-----+-----+-----+-----+-----+-----1 Most Because of Vision
+o
+10
+20
+30
+40
+50 M 60
+70
+80
+90
+100
+% of Participants Responding No
+
+Most
+Able
+Participants
+
+Least
+Able
+Participants
+
+Figure 2. Ranking of responses to questionnaire subcomponent b: "Is it because of your vision?"
+
+
+[page 9]
+Do you want training?
+% of Participants Responding No
+
+o
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+1-----+-----+-----+-----+-----+ ----+-----+-----+-----+-----1
+2
+
+2
+2
+2
+2
+2
+2
+
+2
+
+2
+2
+2
+2
+
+2
+
+2
+2
+
+2
+2
+
+2
+
+2
+2
+
+Least Want Training
+Keep clean
+Get around indoors
+Get dressed
+
+Fix snack
+Eat neatly
+Groom self
+Public transportation
+Get around outdoors
+Match clothes
+Clean house
+Tell time
+Take a message
+Go to movies
+Do yard work
+Identify food on plate
+Sign name
+Avoid bumping
+Identify medicine
+Play sports
+Find restroom
+Get around in a crowd
+
+2
+
+Read signs
+Recognize persons up close
+
+2
+2
+
+2
+2
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+2
+2
+
+2
+2
+
+2
+2
+2
+2
+
+Prepare meals
+Read headlines
+Identify money
+Play games
+Use appliance dials
+Go down steps in dim light
+Go to spectator events
+Cross streets at light
+Handle finances
+Watch TV
+Make out a check
+Go out at night
+Adjust to bright light
+Work on hobby
+
+2
+2
+2
+
+2
+
+1-----+-----+-----+-----+-----+ ----+-----+-----+-----+-----1
+
+o
+
+10
+
+20
+
+30
+
+40
+
+50 M
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Keep place while reading
+Find item on shelf
+See photos
+Recognize persons far away
+Read TV print
+Read mail
+Read street signs
+Read menus
+Read small-print labels
+Read newspaper
+
+Most Want Training
+
+% of Participants Responding No
+Most
+Able
+Participants
+
+Least
+Able
+Participants
+
+Figure 3. Ranking of responses to questionnaire subcomponent c: "Do you want training?"
+
+
+[page 10]
+Training and visual difficulty
+100
+
+Do
+not
+want 90
+
+...CD:::J
+III
+CU
+CD
+
+E
+C'l
+e
+c
+'iii
+...
+
+-
+
+J:
+
+(J
+
+III
+CU
+
+II:
+
+keep clean
+nav.indoors
+dress
+
+80
+
+•
+•
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+enus
+small labels
+newspapers
+
+Want
+
+10 +------L-_._--___,_--____r------;~--,_--_._--___,_--____r--____,--___i
+30
+Hard
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Rasch visual difficulty measure
+
+75
+
+80
+Easy
+
+Figure 4. Rasch measures for the difficulty question, subcomponent G, plotted against the Rasch measures for the training question, subcomponent c.
+
+and reliability in relation to the Rasch
+model, see Wright & Masters, 1982.) These
+values indicate that there was a high degree
+of discrimination between items on the
+scales and that the orderings were consistent across the participants.
+A principal-components analysis on
+the item-measure residuals was performed on the training subcomponent
+(subcomponent c) of the questionnaire.
+The analysis discriminated two dimensions with positive and negative factor
+loadings. One dimension was labeled
+"Reading" (15 items) and the other was
+labeled "Mobility" (18 items) because
+they were differentiated by resolutiontype tasks and navigation-type tasks, Figures 5 and 6 show the item-ordering
+scales for these two dimensions, Reading
+and Mobility, respectively.
+
+270
+
+Journal of Visual Impairment & Blindness, May 2004
+
+Figure 5 presents the distribution of
+responses of the 117 participants from
+those reading items for which training
+was not requested (top) to those reading
+items for which training was requested
+(bottom). As the cascade of numbers descends to the left, it indicates items for
+which even the most-able participants
+wanted reading training. Vertical lines indicate 2 SD and the mean (M). Data were
+analyzed for 96 participants and 15items.
+There were 6 participants who responded
+"No, I do not want training" to all the
+reading-oriented questions and 15 participants who responded "Yes, I do want
+training" to all these questions. Items
+with a mean response of 2 (meaning "No,
+I do not want training") or approximately 2 included making out a check,
+handling finances, watching television,
+©2004 AFB, All Rights Reserved
+
+
+[page 11]
+Do you want reading training?
+
+o
+
+10
+
+% of Participants Responding No
+20
+3
+40
+50
+60
+70
+80
+
+90
+
+100
+
+1-----+-----+----- -----+-----+----- -----+-----+-----+-----1
+2
+
+2
+
+2
+2
+
+2
+2
+2
+
+2
+
+2
+
+2
+
+2
+2
+2
+2
+2
+
+1-----+-----+----- -----+-----+----- -----+-----+-----+-----1
+
+o
+
+10
+
+20
+
+30
+40
+2 SD
+
+50
+
+60
+M
+
+70
+
+80
+
+% of Participants Responding No
+Most
+Able
+Participants
+
+90
+
+100
+
+Least Want Training
+Tell time
+Take a message
+Identify medicine
+Read headlines
+
+Use appliance dials
+Watch TV
+Handle finances
+Make out a check
+Keep place while reading
+See photos
+Read mail
+Read TV print
+Read menus
+Read small-print labels
+Read newspaper
+
+Most Want Training
+
+Least
+Able
+Participants
+
+Figure 5. The scale for interest in reading training generated by the Rasch analysis.
+
+using appliance dials, and reading headlines.
+Figure 6 demonstrates the distribution
+of responses of the 117 participants from
+those mobility items for which training
+was the least requested (top) to those for
+which training was the most requested
+(bottom). A no response, "I do not want
+training," was coded 2. As the cascade of
+numbers in Figure 6 descends to the left,
+it indicates items for which even the mostable participants wanted mobility training. The vertical line (M) indicates the
+mean. Data were analyzed for 109 participants and 18 items because there were 6
+participants who responded "No, I do
+not want training" to all the mobilityoriented questions and 2 participants
+who responded "Yes, I do want training"
+to all these questions. Items with a mean
+©2004 AFB, All Rights Reserved
+
+response of 2 or approximately 2 included preparing meals, recognizing persons up close, getting around in a crowd,
+and finding public restrooms.
+In Figure 7, the Rasch training measure
+for reading is plotted versus the Rasch
+training measure for mobility for each participant. The two measures are significantly
+correlated, but at a lower level (R = .53, P ~
+.01) than was shown between subcomponents. The participants whose plots are located above the diagonal axis were more interested in receiving mobility training than
+receiving reading training. Those whose
+plots are located below the diagonal axis
+were more interested in receiving reading
+training than receiving mobility training.
+The Rasch analysis for subcomponent
+d, the levelof independence, yielded a lack
+of variability when each possibility was
+Journal of Visual Impairment & Blindness, May 2004
+
+271
+
+
+[page 12]
+Do you want mobi~ity
+
+training?
+
+% of Participants Responding No
+
+o
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+1-----+-----+-----+-----+----- -----+-----+-----+-----+-----1 Least Want Training
+
+2
+
+2
+
+2
+2
+
+2
+
+2
+
+2
+2
+
+2
+
+2
+2
+
+2
+2
+2
+2
+2
+
+1-----+-----+-----+-----+----- -----+-----+-----+-----+-----1
+
+o
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Get dressed
+Eat neatly
+Public transportation
+Get around outdoors
+Clean house
+Go to movies
+Identify food on plate
+Avoid bumping
+Find restroom
+Get around in a crowd
+Recognize persons up close
+Prepare meals
+Go down steps in dim light
+Go out at night
+Adjust to bright light
+Get around in unfamiliar
+Find item on shelf
+Read street signs
+
+Most Want Training
+
+M
+
+% of Participants Responding No
+Most
+Able
+Participants
+
+Least
+Able
+Participants
+
+Figure 6. The scale for interest in mobility training generated by the Rasch analysis.
+
+analyzed separately. Most participants did
+not use a low vision device; however, 19
+participants reported using a low vision
+device for reading tasks (for example, reading menus, small print on package labels,
+newspapers, or magazine articles). An
+analysis of this question will be more important in the postrehabilitation analysis,
+once the participants have been provided
+with devices and given training in their
+use. The participants reported obtaining
+help from others on only 9 of the 48 tasks
+mentioned on the questionnaire: going out
+at night, finding public restrooms, making
+out a check, handling finances, reading
+signs, reading small print on package labels, reading mail, getting around in unfamiliar places, and reading menus.
+
+272
+
+Journal of Visual Impairment & Blindness, May 2004
+
+Discussion
+LIMITATIONS OF THE RESEARCH
+
+Overall, there was a high level of correspondence between the level of difficulty
+of a task and the participants' interest in
+receiving training. However, on nine items,
+there were incongruent findings between
+difficulty and training (see Figure 4). Although the participants considered these
+items difficult, they were not interested in
+receiving training in these tasks. The participants may have perceived these items to
+be less relevant to their lives and their
+overall ability to function and survive in
+everyday life. They may also have perceived that training in activities, such as
+yard work, was out of the purview of a vi©2004 AFB, All Rights Reserved
+
+
+[page 13]
+Mobility training vs. reading training
+for 117 patients
+
+120-,---------------------------------------",
+Want
+mobility training
+Least
+more than
+able
+100 reading training
+
+•
+
+•
+
+•
+C'l
+C
+C
+
+80
+
+>-
+
+60
+
+:lE
+
+40
+
+-...
+
+•
+
+'(6
+
+:c0
+
+•
+
+Most
+able
+
+0
+
+•
+
+•
+
+0
+
+•
+•
+20
+
+•
+
+••
+
+...
+
+••
+•
+
+••
+•
+••
+• •• ••
+••
+••
+
+.. . •
+
+..
+
+20
+
+•
+
+•• • •
+•
+••••t !• .• ~
+•
+•
+• • • ! ••
+•
+•
+• • •
+•
+• • • •• • • •
+•
+••••
+• • •
+• •
+
+•
+•
+
+~
+
+•
+
+•
+
+40
+
+• • •
+
+60
+
+Reading training
+
+••
+
+••
+Want reading
+training more than
+mobility training
+
+80
+
+100
+
+R=.53
+
+120
+
+Figure 7. The Rasch reading-training measure versus the Rasch mobility-training measure.
+
+sion rehabilitation program. It may be that
+the nine items with the incongruent findings could be eliminated from the questionnaire. However, it is prudent to wait
+for the postrehabilitation analyses to be
+completed. Items that were considered too
+easy could also be eliminated from the
+questionnaire. In the long term, these
+types of tasks may also be eliminated from
+curricula in low vision rehabilitation.
+The item "reading street signs and
+store names" generated a different response profile from the generic question
+for reading signs (see Figure 1). Perhaps
+the participants can assess their degree of
+difficulty more accurately when they are
+provided with a specific instance or example of a task instead of a general question. The generic item "reading signs"
+could be confused with simply recognizing signs (using color, a gross logo, or
+©2004 AFB, All Rights Reserved
+
+other graphic cues) and thus could be
+rated as less difficult than "reading street
+signs and store names."
+Another seeming discrepancy is that although the participants most commonly
+rated reading small print on labels as extremely difficult and wanted rehabilitation
+training for it, they scored identifying
+medicine as only slightly difficult and did
+not want training for it (see Figure 5). The
+two items may seem to be similar, in that
+medicines likely have small-print labels;
+however, medicines come in different formulations, shapes, and sizes and sometimes in potentially identifiable containers.
+Tactile variation may explain the difference in responses between these two items.
+IMPLICATIONS FOR PRACTICE
+
+The results show that this questionnaire is an effective instrument for strati Journal of Visual Impairment & Blindness, May 2004
+
+273
+
+
+[page 14]
+fying and measuring visual difficulties in
+individuals who receive low vision rehabilitation. The Rasch analytic technique
+was critical in the development of a reliable yardstick with which to measure a
+participant's progress after participation
+in a program. Consistent with Massof's
+(1998) findings that recreational reading
+requires the most visual ability and self care requires the least, we found that reading small print on package labels and reading newspapers were the most difficult
+tasks for the participants in our study and
+that keeping clean and getting dressed
+were among the least difficult tasks. The
+aim of Massof's study was to develop a
+hierarchy of importance, before persons
+undergo low-vision rehabilitation, for
+achieving daily goals independently. Our
+study showed that getting around in familiar places, such as the home, was not difficult for the participants. This finding is
+consistent with the finding by Turano et al.
+(1999), which used Rasch analysis, and that
+"moving about in the home" required the
+least visual ability for participants with RP.
+Use of the Veterans Affairs Low Vision Visual Functioning Questionnaire and tracking whether a participant prefers reading or
+mobility training (see Figure 7) would provide a clearer direction for planning a customized rehabilitation program.
+IMPLICATIONS FOR RESEARCH
+
+In future research, we will assess the reliability of the rank ordering of items after
+rehabilitation. This will be a further test of
+the integrity of the difficulty scale. The
+work by Turano et al. (1999) to define a
+mobility scale for participants with peripheral vision loss and the two dimensions of reading and mobility defined in
+our study emphasize the need to develop
+
+274
+
+Journal of Visual Impairment & Blindness, May 2004
+
+interval scales that are based on the predominant visual profiles in study groups.
+In' this study, the participants' interest in
+receiving training was differentiated on the
+basis of their needs. Some participants
+preferred to receive training in reading related items, while others tended to prefer
+training on items that focused on mobility
+(see Figure 7). These preferences were related to the loss of central vision versus the
+loss of peripheral vision, respectively. However, this is a point that is beyond the scope
+of this article and needs to be explored in
+greater depth in subsequent articles dealing
+with this measure. Future rehabilitation
+programs may want to consider including a
+choice of either reading- or mobility focused tracks to make better use of the
+participants' and specialists' time.
+
+References
+Becker, S. W, Lambert, R. W, Schulz, E. M.,
+Wright, B. D., & Burnet, D. L. (1985). An
+instrument to measure the activity level of
+the blind. International Journal of Rehabilitation Research, 8, 415-424.
+Capuano, M. E. (2000, June 29). In support
+of passage of Medicare coverage of vision
+rehabilitation services (H.R. 2870). Congressional Record, 146, EI144-1145.
+Haymes, S. A., Johnston, A. W, & Heyes, A.
+D. (2000). The relationship between clinical
+measures of vision impairment and performance of activities of daily living. In C.
+Stuen, A. Arditi, A. Horowitz, M. A. Lang,
+B. Rosenthal, & K. Seidman (Eds.), Vision
+rehabilitation, assessment, intervention, and
+outcomes (pp. 148-151). Exton, PA: Swets
+& Zeitlinger.
+Mangione, C. M., Phillips, R. S., Seddon, 1. M.,
+Lawrence, M. G., Cook, E. F., Dailey, R., et
+al. (1992). Development of the Activities of
+Daily Vision Scale: A measure of visual functional status. Medical Care, 30, 1111-1126.
+Massof, R. W (1998). A systems model for
+low vision rehabilitation: II. Measurement
+©2004 AFB, All Rights Reserved
+
+
+[page 15]
+of vision disabilities. Optometry and Vision
+Science, 75, 349-373.
+Massof, R. W (2002). A model of the prevalence and incidence of low vision and
+blindness among adults in the U.S. Optometry and Vision Science, 79,31-38.
+Massof, R. W, & Rubin, G. S. (2001). Visual
+function assessment questionnaires. Survey
+of Ophthalmology, 45, 531-548.
+National Eye Institute Visual Functioning
+Questionnaire-25 (VFQ-25). (1996). Santa
+Monica, CA: Rand Corporation.
+Ross, C. K, Stelmack, J. A., Stelmack, T. R.,
+& Fraim, M. (1991). Preliminary examination of the reliability and relation to clinical state of a measure of low vision patient
+functional status. Optometry and Vision
+Science, 68, 918-923.
+Schulz, E. M., Lambert, R. W, & Becker, S.
+W (1985). An assessment of the needs of
+rehabilitated veterans. Journal of Visual Impairment & Blindness, 79,301-305.
+Stelmack, J. (2001). Quality of life of low vision patients and outcomes of low-vision
+rehabilitation. Optometry and Vision Science, 78, 335-342.
+Stelmack, J., Szlyk, J., Joslin, c., Swetland,
+B., & Myers, L. (2000). Pilot study: Use of
+the NEI VFQ-25 to measure outcomes of
+low vision rehabilitation services in the Department of Veterans Affairs. In C. Stuen,
+A. Arditi, A. Horowitz, M. A. Lang, B.
+Rosenthal, & K Seidman (Eds.), Vision rehabilitation, assessment, intervention, and
+outcomes (pp. 774-776). Exton, PA: Swets
+& Zeitlinger.
+Szlyk, J. P., Fishman, G. A., Alexander, K. R.,
+Reve1ins, B. 1., Derlacki, D. J., & Anderson,
+R. J. (1997). Relationship between difficulty in performing daily activities and
+clinical measures of visual function in patients with retinitis pigmentosa. Archives of
+Ophthalmology, 115, 53-59.
+Szlyk, J. P., Fishman, G. A., Grover, S., Revelins, B. 1., & Derlacki, D. J. (1998). Difficulty in performing everyday activities in
+patients with juvenile macular dystrophies
+with a comparison to patients with retinitis
+pigmentosa. British Journal of Ophthalmology, 82, 1372-1376.
+©2004 AFB, All Rights Reserved
+
+Szlyk, J. P., Seiple, W, Fishman, G. A.,
+Alexander, K. R., Grover, S., & Mahler, C.
+(2001). Perceived and actual performance
+of daily tasks: Relationship to visual function tests in patients with retinitis pigmentosa. Ophthalmology, 108, 65-75.
+Turano, K. A., Geruschat, D. R., Stahl, J. W,
+& Massof, R. W (1999). Perceived visual
+ability for independent mobility in persons
+with retinitis pigmentosa. Investigative Ophthalmology and Vision Science, 40, 865-877.
+Wright, B. D., & Masters, G. N. (1982). Rating
+scale analysis: Rasch measurement. Chicago:
+MESA Press, University of Chicago.
+Janet P. Szlyk, Ph.D., rehabilitation research career
+scientist, VA Chicago Health Care System, West
+Side Division, 820 South Damen Avenue, Chicago,
+IL 60612; Rehabilitation Research and Development Service, Department of Veteran Affairs, 810
+Vermont Avenue NW; Washington, DC 20420; and
+associate professor and director, Low Vision Laboratory, Department of Ophthalmology and Visual
+Sciences, University of Illinois at Chicago, 1855
+West Taylor Street, MIC 648, Chicago, IL 60612 ;
+e-mail: <janeszly@uic.edu>. Joan Stelmack, D.D.,
+staff optometrist, Blind Rehabilitation Service, Edward Hines Veterans Hospital, Building 13, Hines,
+IL 60141; e-mail: <joan.stelmack@med.va.gov>.
+Robert Tv. Massof, Ph.D., professor, Wilmer Eye Institute, Johns Hopkins Hospital, 600 North Wolfe
+Street, Baltimore, MD 21287; e-mail: <rmassof@
+lions.med.jhu.edu>. Thomas R. Stelmack, D.D.,
+chief, optometry section, director, VICTORS, VA
+Chicago Health Care System, West Side Division,
+820 South Damen Avenue, Chicago, IL 60612; and
+Department of Ophthalmology and Visual Sciences,
+University of Illinois at Chicago, College of Medicine,
+Chicago, IL 60612; e-mail: <thomasrstelmack-od@
+comcast.net>. Paulette Demers-Turco, D.D., clinical instructor, Vision Rehabilitation Center, Department of Ophthalmology, Harvard Medical
+School Massachusetts Eye and Ear Infirmary, 243
+Charles Street, C/O Faculty Services, Boston, MA
+02114; e-mail: <pauletteturcoiiimeeiharvard: edu>.
+R. Tracy Williams, D.D., executive director, low vision rehabilitation doctor, Lois and Edwin
+Deicke Center for Vision Rehabilitation, Wheaton,
+IL 60187, and clinical assistant professor, Department of Ophthalmology, Loyola University School
+of Medicine, 2160 South First Avenue, Maywood,
+IL 60153; e-mail: <twilli8@lumc.edu>. Benjamin
+D. Wright, Ph.D., professor, Department of Education, University of Chicago, 5835 Kimbark Avenue,
+Chicago, IL 60637; e-mail: <bd_wright@
+uchicago.edu>. Address all correspondence to Dr.
+Szlyk.
+
+Journal of Visual Impairment & Blindness, May 2004
+
+275
+

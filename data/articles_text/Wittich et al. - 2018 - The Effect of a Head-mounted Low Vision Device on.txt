@@ -1,0 +1,1601 @@
+[page 1]
+ORIGINAL INVESTIGATION
+
+The Effect of a Head-mounted Low Vision Device on Visual Function
+Walter Wittich, PhD, FAAO,1,2,3* Marie-Céline Lorenzini, MSc,1 Samuel N. Markowitz, MD,4 Michael Tolentino, MD,5,6
+Scott A. Gartner, MD,7,8 Judith E. Goldstein, OD, FAAO,9 and Gislin Dagnelie, PhD9
+
+SIGNIFICANCE: Head-mounted low vision devices have received considerable attention in recent years owing to
+rapidly developing technology, facilitating ease of use and functionality. Systematic clinical evaluations of such devices remain rare but are needed to steer future device development.
+PURPOSE: The purpose of this study was to investigate, in a multicenter prospective trial, the short- and mediumterm effects of a head-worn vision enhancement device (eSight Eyewear).
+METHODS: Participants aged 13 to 75 years with stable vision (distance acuity, 20/60 to 20/400; visual field diameter >20°) were recruited across six sites. Data were collected at baseline (no device), at fitting (with device),
+and after 3 months of everyday use. Outcome measures were visual ability measured by the Veterans Affairs Low
+Vision Visual Functioning Questionnaire 48, distance acuity (Early Treatment Diabetic Retinopathy Study), reading
+performance (MNREAD chart), contrast sensitivity (MARS chart), face recognition, and a modified version of the
+Melbourne Low Vision Activities of Daily Living (ADL) Index.
+RESULTS: Among the 51 participants, eSight introduction immediately improved distance acuity (0.74 ± 0.28
+logMAR), contrast sensitivity (0.57 ± 0.53 log units), and critical print size (0.52 ± 0.43 logMAR), all P < .001,
+without any further change after 3 months; reading acuity improved at fitting (0.56 ± 0.35 logMAR) and by one additional line after 3 months, whereas reading speed only slightly increased across all three time points. The Melbourne
+ADL score and face recognition improved at fitting (P < .01) with trends toward further improvement at 3 months.
+After 3 months of use, Veterans Affairs Low Vision Visual Functioning Questionnaire 48 person measures (in logits)
+improved: overall, 0.84, P < .001; reading, 2.75, P < .001; mobility, 0.04, not statistically significant; visual information, 1.08, P < .001; and visual motor, 0.48, P = .02.
+CONCLUSIONS: eSight introduction yields immediate improvements in visual ability, with face recognition and
+ADLs showing a tentative benefit of further use. Overall, visual ability, reading, and visual information showed
+greatest benefit with device use. Further studies need to examine benefits of practice and training and possible differential effects of underlying pathology or baseline vision.
+
+Optom Vis Sci 2018;95:774–784. doi:10.1097/OPX.0000000000001262
+Copyright © 2018 The Author(s). Published by Wolters Kluwer Health, Inc. on behalf of the American Academy of Optometry.
+This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives
+License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work
+cannot be changed in any way or used commercially without permission from the journal.
+
+Spurred on by the rapid miniaturization of camera, image processing, and display electronics in recent decades, novel head mounted displays have been developed specifically for individuals
+with vision impairment,1 becoming a viable addition to the arsenal
+of low vision aids for the visually impaired.2–4 Head-mounted devices incorporate a display in front of the user's eyes, typically using
+a frontal camera to capture live video and embedded image processing software to present enhanced visual information.5,6 Advantages
+of head-mounted displays are that they provide hands-free magnifications for resolution tasks at far, intermediate, and near distances;
+use autofocus and variable magnification to facilitate viewing; and
+provide video inversion as well as contrast and brightness enhancement. Interest in head-mounted displays has increased over the
+years, starting with the early designs of the Low Vision Enhancement
+System7,8 and the Joint Optical Reflective Display,9 whose technical
+www.optvissci.com
+
+Author Afﬁliations:
+1
+School of Optometry, Université de
+Montréal, Montreal, Quebec, Canada
+2
+CRIR/Centre de réadaptation
+MAB-Mackay du CIUSSS du
+Centre-Ouest-de-l'Île-de-Montréal,
+Montreal, Quebec, Canada
+3
+CRIR/Institut Nazareth et Louis-Braille
+du CISSS de la Montérégie-Centre,
+Longueuil, Quebec, Canada
+4
+Toronto Western Hospital, University of
+Toronto, Toronto, Ontario, Canada
+5
+School of Medicine, University of
+Central Florida, Orlando, Florida
+6
+The Macula Center, Clearwater, Florida
+7
+Miami Lighthouse for the Blind and
+Visually Impaired, Miami, Florida
+8
+Lighthouse for the Blind of the Palm
+Beaches, Palm Beach, Florida
+9
+Johns Hopkins University Wilmer Eye
+Institute, Baltimore, Maryland
+*walter.wittich@umontreal.ca
+
+challenges (weight, size, limited visual field, low resolution, lag time,
+and covering the user's eyes7,10) limited their integration into the
+lives of low vision users. Still, even these early designs were shown
+to be effective for both adults8,11,12 and children13 with low vision;
+major benefits included improved print reading, contrast sensitivity,
+and illumination control. Since then, technological advances have
+made head-mounted displays lighter and smaller, with more processing power, and a performance comparison with conventional
+optical devices indicated that their greater magnification range significantly improved utility at long and intermediate distances.10,14
+In addition, Peterson et al.15 showed that reading with a conventional optical aid, such as a magnifier, was slower than with head mounted displays. Furthermore, previous research has indicated
+that head-mounted displays have the potential to improve visual
+search and nighttime travel in individuals with visual field loss and
+
+Optom Vis Sci 2018; Vol 95(9)
+
+774
+
+
+[page 2]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+impaired dark adaptation, by virtue of automatic gain control, variable object magnification, and the ability to magnify/minify sections
+of the visual field.16 Until now, little evidence has been provided as
+to whether head-mounted displays have the ability to facilitate activities of daily living such as face recognition, specifically as judged by
+the device users. The present study aims to fill this gap by examining
+changes in visual ability as well as performance-based subjective
+and objective functional vision after 3 months of the introduction
+and use of eSight Eyewear.
+Several researchers have highlighted the importance of understanding how video systems improve the processing and perception
+of an image by enhancing its contrast and contours, beyond what
+can be achieved with traditional tools such as color filters17 or optical magnification currently used to improve visual ability in visually impaired individuals.16,18,19 With these considerations in
+mind, eSight Eyewear (Fig. 1) was designed to improve on previous
+devices by not only providing variable magnification (1.3 to
+12.3), autofocus, contrast enhancement, binarization (mainly
+for the purpose of reading), hands-free use, and portability but also
+offering digital image processing that allows the user to scan
+through a wide-field image, freeze frames for optical character recognition and text-to-speech conversion, and perform other functions. It is a class I medical device, registered with the U.S. Food
+and Drug Administration, Health Canada, and the European Database on Medical Devices, in accordance with the European Union
+directives on medical devices.20–22 Originally launched commercially in 2013, eSight Eyewear had more than 2000 partially
+sighted users by March 2018. The study device weighed approximately 200 g and contains a high-resolution 30-fps video camera,
+providing a full-color digital image displayed in real time on two
+high-resolution near-to-eyes organic light-emitting diode displays
+(800  600 pixels) subtending a display field of view of 28° width
+(35° diagonal) and maximum magnification of 12.3 times using a
+combination of optical and digital zoom. The use of organic lightemitting diodes is of specific interest because they are emissive,
+meaning each pixel is a light source. Other display technologies operate by blocking out a backlight to their best ability; however, organic light-emitting diode's black is truly black (no light),
+whereas on other display types black appears as dark gray.
+
+FIGURE 1. eSight Eyewear (glasses and manual controller) in its
+second generation.
+
+www.optvissci.com
+
+Therefore, organic light-emitting diodes can be much brighter than
+comparable microdisplay technologies, such as liquid-crystal display technology. Users adjust the functionality via a handheld controller that is connected to the eyewear by an external wire. To
+confirm the functionalities of the device and to examine its effect
+on visual ability, the present study reports on 51 novice eSight
+Eyewear users who were followed for 3 months of device use. It
+was hypothesized that the device would improve performance on
+all eye charts, questionnaires, and activities–of-daily-living measures.
+
+METHODS
+This multisite, prospective, single-arm study was registered at
+ClinicalTrials.gov under study number NCT02616900 and received
+ethics approval in Canada and the United States through the
+Centre for Interdisciplinary Research in Rehabilitation of Greater
+Montreal (Quebec, Canada) and the institutional review boards of
+the Wilmer Eye Institute (Johns Hopkins University, Baltimore, MD)
+and the University of Michigan Kellogg Eye Center (Ann Arbor, MI),
+whereas IRB Services in Aurora (Ontario, Canada) oversaw ethical
+conduct of the study at the University of Toronto and two private
+low vision centers in Florida. Recruitment was conducted at the
+Johns Hopkins University Wilmer Eye Institute, the University of
+Michigan Kellogg Eye Center, the Center for Retina and Macular Disease (Lakeland, FL), the Lighthouse for the Blind of Palm Beaches
+(Palm Beaches, FL), the Toronto Western Hospital, University of
+Toronto (Toronto, Ontario, Canada), and the School of Optometry,
+University of Montreal, as well as its affiliated rehabilitation centers
+(Montreal and Longueuil, Quebec, Canada).
+Of the 144 individuals who were screened for participation,
+74 met the following inclusion criteria: they ranged in age from
+13 to 75 years; they had best-corrected visual acuity in the better
+eye of 20/60 to 20/400 and an estimated or measured visual field
+diameter of at least 20° (monocular or binocular); their visual status had been stable for at least 6 months; and participants were
+mostly experienced users of one or more assistive devices and
+benefited from magnification. They had to demonstrate motivation
+to wear eSight Eyewear in a variety of situations, including during
+the day in public (e.g., at work or school), be mentally competent
+to comply with the study requirements, and pass the blind version
+of the Montreal Cognitive Assessment.23 Study participants completed the 36-Item Short Form Health Survey at baseline and at
+the 3-month follow-up period, to assess changes in general health
+during the study period. The main study elements and enrolment
+attrition are shown in Fig. 2.
+Participants completed measures of distance visual acuity
+using the Early Treatment Diabetic Retinopathy Study chart24;
+reading acuity, reading speed, and critical print size (MNREAD)25;
+and contrast sensitivity (MARS test).26 Chart measures were taken
+at three time points: baseline measures without the device with
+best correction as established by an optometrist or ophthalmologist, at visit 1; intermediate measures at the fitting with the device
+incorporating that same refractive distance correction during visit
+2 (around two to three weeks later), before participants were
+allowed to take the device home as a free limited three-month loan;
+and final measures after three months of device use at visit 3, at
+which point the eSight Eyewear was returned to the research team.
+The Veterans Affairs Low Vision Visual Functioning Questionnaire
+48 was administered either over the phone or in person, before the
+baseline appointment and again after three months of device use.27
+
+Optom Vis Sci 2018; Vol 95(9)
+
+775
+
+
+[page 3]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+Activities of Daily Living Index.29 The Facial Recognition test was
+developed using images from the University of Pittsburgh Cohn Kanade facial image database.30,31 Participants were asked to
+name the sex (male/female) and facial expressions (neutral, happy,
+sad, disgusted, angry, surprised, or fearful, according to their categorization in the database) of 50 images of faces displayed on a computer screen presented at life size at a distance of 5 ft on a 22-in
+monitor. Different images were presented during the three administrations. Each image was presented for up to 120 seconds to provide
+sufficient time for viewing. The test was scored logarithmically such
+that a time of 2 seconds or less on a particular image resulted in a
+maximum possible score of 2, and scores for times longer than 2 seconds decayed logarithmically to a score of 0 at 120 seconds, unless
+either the sex or expression was incorrect, at which point the score
+became 0 as well. This resulted in a maximum score of 100 if all
+50 faces were correctly identified for sex and expression in less than
+2 seconds and a minimum score of 0.
+To avoid redundancy with some of the questions in the Veterans
+Affairs Low Vision Visual Functioning Questionnaire 48, only 12 items
+of the Melbourne Low Vision Activities of Daily Living Index29 were administered, as listed in Table 1. All tasks were timed, and scoring was
+done on a scale of 0 (very unsatisfactory: unable to attempt, performance at chance) to 4 (very satisfactory: attempt complete, fast with
+self-correction, all correct), based on the judgment of the clinician or
+rehabilitation professionals who administered the test. Scores could
+range from 0 to 48, with higher scores indicating more successful task
+completion, and were then normalized to range from 0 to 100.
+Participants were provided with the eSkills manual,32 a self training program developed by eSight that provides instructions
+and exercises for device users, intended to increase their competence and familiarity with the device. The manual contained detailed
+information about the device, its interface, and user instructions for
+the headset and the controller unit, as well as information on how to
+adjust zoom, focus, contrast, color mode, and the freeze-image
+option, followed by sections on Web support, advanced functions
+
+TABLE 1. Elements of the Melbourne Low Vision Activities of Daily
+Living Index administered to eQUEST participants, at baseline and
+after 3 months of device use
+Task number
+
+Description
+
+FIGURE 2. Display of the study components and their chronological
+order, including data on the number of participants who completed
+in each step.
+
+1
+
+Write a check (given amount, date, and signature).
+
+2
+
+Find the company name and amount due on a bill.
+
+3
+
+Read time on a wrist watch.
+
+Questionnaire scores were converted into logit units, using the calibrated conversion table provided by Stelmack and Massof.28 The
+four functional domains of the Veterans Affairs Low Vision Visual
+Functioning Questionnaire 48 are reading, containing items such
+as reading newspaper, print on television, or street signs; visual information gathering, made up of items such as recognizing faces,
+finding an item on a crowded shelf, or matching clothes; visual motor,
+containing items related to activities of daily living such as pouring a
+liquid into a cup, preparing a meal, or self-grooming; and mobility,
+which involves use of public transport, navigating stairs, and getting
+around in unfamiliar places.
+Participants also completed an exploratory face recognition test
+and a subset of function items from the Melbourne Low Vision
+
+4
+
+Read newspaper print.
+
+5
+
+Read name and dosage instructions on a medicine label.
+
+6
+
+Read the name and address on a medical appointment
+slip.
+
+7
+
+Read a newspaper headline.
+
+8
+
+Pour water into a glass from a jug to within 1 in of top rim.
+
+www.optvissci.com
+
+9
+
+Read time on a wall clock.
+
+10
+
+Identify product names on cereal and food containers.
+
+11
+
+Identify coins and create two piles of coins, totaling
+65 cents and 90 cents.
+
+12
+
+Identify five playing cards.
+
+Optom Vis Sci 2018; Vol 95(9)
+
+776
+
+
+[page 4]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+such as on-screen menus, tips on safety, and maintenance. The
+eSkills training modules laid out a four-day learning calendar with
+examples and exercises for the user to get to know the device, including modules on reading at distance and near, writing and
+using computers, and general viewing and search strategies. During the first four weeks of use, participants received regular follow up phone calls once per week from a member of the research
+team (e.g., an occupational therapist, orthoptist, or low vision
+therapist) who was familiar with the device, to assist with possible
+troubleshooting as well as device use strategies. During the remaining
+2 months, these professionals were available if participants wanted to
+obtain additional advice. Participants were encouraged to use the device at school or work, as well as during as many activities during their
+day where they felt comfortable using it. After 3 months of device use,
+practice, and self-guided training with eSkills, participants returned
+the device and completed their final testing session. During administration of the chart-based vision tests using the eSight device, participants were encouraged to adjust magnification and/or contrast
+enhancement for best performance; however, the actual settings
+used were not recorded.
+Statistical analyses were conducted using JASP version 0.8.5.1
+(University of Amsterdam, Amsterdam, The Netherlands).33 For the
+analyses presented below, analyses of variance where the assumption of sphericity was violated were adjusted using a GreenhouseGeisser correction. Pairwise post hoc comparisons are reported
+using repeated-measures contrasts, and conservative population
+effect size estimates are reported using omega squared (ω2), to facilitate effect magnitude comparison across published studies.
+Values for ω2 of 0.01, 0.06, and 0.14 have been suggested to indicate small, medium, and large effects, respectively34; t tests or
+Wilcoxon signed rank tests were used for paired comparisons of
+the Veterans Affairs Low Vision Visual Functioning Questionnaire
+48 scores, depending on the observed adherence to normality in
+the data, and effect sizes are reported using Cohen d. Values for d
+of 0.2, 0.5, and 0.8 have been suggested to indicate small,
+
+medium, and large effects, respectively,35,36 and comparable values
+have been reported for cognitive neuroscience.37 Detailed descriptive statistics for all comparisons are provided in Table 2.
+
+RESULTS
+Screen Calibration
+To confirm the visual field available to participants within the
+horizontal 28° display field of view of the near-eye screens, we conducted visual field testing with both Octopus automated perimetry
+(Haag-Streit Group, Mason, OH) and manual tangent screen field
+measurements, with the camera placed at the location where the
+eye would normally be. Both techniques indicated that the field
+available extended from 21.2° horizontally at the lowest magnification setting (1.3 linear magnification) to 2.3° at the highest setting
+(12.3). Progression of magnification at increasing settings was inversely linear, following the equation y = 28 / x, where y is the visual
+field in degrees and x is the magnification; screen resolution is fixed
+at 20/42 (800 pixels spanning 28°, whereby 1 pixel = 2.1 arcmin).
+
+Participants
+Of the 74 participants who joined the trial, 17 left the study during
+the three-month study period: 2 owing to discomfort (nausea, neck
+pain), 7 owing to insufficient benefit, 1 owing to difficulty operating
+the device, 4 owing to scheduling conflicts or relocation, 1 owing to
+an unrelated illness, and 2 lost to follow-up. For 6 participants, the
+final data set was incomplete owing to data omission, leaving complete
+data for 51 participants, presented here. The 17 individuals lost during
+the follow-up period did not differ statistically on any of the functional or
+demographic measures from those whose complete data are presented
+below, with the exception of their distribution across the sexes: more
+women were lost after the initial assessment (n = 12/17), whereas
+the remaining participant pool contained more men (n = 30/51)
+(χ21 [n = 67] = 5.58, P < .02). The 30 men and 21 women (mean
+
+TABLE 2. Descriptive statistics for all variable comparisons, mean (SD)
+Baseline
+Variable (measurement tool)
+
+Unit
+
+Without device
+
+With device
+
+End point
+
+Distance acuity (ETDRS)
+
+logMAR
+
+0.95 (0.25)
+
+0.20 (0.31)
+
+0.19 (0.30)
+
+Reading acuity (MNREAD)
+
+logMAR
+
+0.90 (0.34)
+
+0.33 (0.39)
+
+0.24 (0.36)
+
+Critical print size (MNREAD)
+
+logMAR
+
+1.08 (0.27)
+
+0.59 (0.40)
+
+0.50 (0.31)
+
+Reading speed (MNREAD)
+
+wpm
+
+92 (68)
+
+102 (75)
+
+98 (65)
+
+wpm/200
+
+0.23 (0.20)
+
+0.34 (0.25)
+
+0.36 (0.24)
+
+Reading accessibility index (MNREAD)
+
+log CS
+
+0.89 (0.48)
+
+1.44 (0.44)
+
+1.41 (0.44)
+
+Face perception
+
+Contrast sensitivity (MARS)
+
+Test score
+
+37.77 (17.57)
+
+45.29 (18.45)
+
+47.08 (15.41)
+
+Melbourne Low Vision Activities of Daily Living Index
+
+Test score
+
+66.90 (19.10)
+
+76.61 (19.51)
+
+78.84 (22.09)
+
+Veterans Affairs Low Vision Visual Functioning Questionnaire
+Reading
+
+Logits
+
+1.75 (1.43)
+
+—
+
+4.33 (2.68)
+
+Visual information
+
+Logits
+
+1.12 (0.91)
+
+—
+
+2.29 (1.19)
+
+—
+
+Visual motor
+
+Logits
+
+1.05 (0.81)
+
+Mobility
+
+Logits
+
+0.88 (1.06)
+
+1.42 (1.30)
+0.92 (1.74)
+
+Bold face numbers indicate statistically significant differences (P < .05) for each given variable. logCS = logarithm of contrast sensitivity; logMAR = logarithm of the minimum angle of resolution; wpm = words per minute.
+
+www.optvissci.com
+
+Optom Vis Sci 2018; Vol 95(9)
+
+777
+
+
+[page 5]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+age, 48 [standard deviation, 17] years; range, 13 to 75 years; see
+Table 3 for additional characteristics) in the final analysis presented
+with Early Treatment Diabetic Retinopathy Study acuities ranging from
+20/63 to 20/400 (mean, 20/178), with one outlier at 20/760.
+Participants reported the number of assistive vision devices used
+at baseline, whereby 5 used 4 devices, 9 used 3 devices, 21 used
+2 devices, 14 used only 1 assistive vision device, and 2 had not previously used any device. Raw 36-Item Short Form Health Survey scores
+did not differ markedly before and after the intervention, and no participants were excluded based on changes in general health. Analysis of
+variance indicated that participants at site 4 (mean age, 61 years)
+were statistically significantly older than those at sites 2 (mean age,
+39 years) and 3 (mean age, 34 years) (P = .02 and P = .002, respectively). The potential effect of age was examined first by correlating
+age with the change scores for each test: baseline to fitting, fitting to
+final, and baseline to final scores. Only difference scores for reading
+speed (baseline − final score, r = 0.32; younger age was correlated
+with larger gains) and face perception (baseline − final score,
+r = −0.30; and fitting − final score, r = −0.49; increased age was correlated with larger gains at both follow-up points) were statistically significantly correlated. Therefore, age was included only as a covariate
+in the analyses for these two measures.
+The potential effect of diagnosis was explored by creating three
+diagnostic groups: central (e.g., age-related macular degeneration,
+Stargardt, n = 22), peripheral (e.g., retinitis pigmentosa, glaucoma,
+n = 5), and general (e.g., optic atrophy, Leber, n = 24). Comparison
+of these three groups on all dependent measures as well as their gain
+scores at all follow-up points revealed that four variables indicated
+statistically significant differences: gain in distance acuity from
+baseline to fitting showed a statistically significant difference
+(F2,48 = 3.34, P = .04, ω2 = 0.08), driven by a difference between
+the central versus the general group (PTukey < .04, dCohen = 0.35), indicating that participants with general visual impairment gained
+more acuity at fitting than individuals with central impairment only.
+Reading acuity at 3 months indicated a significant difference (F2,48 =
+3.51, P = .04, ω2 = 0.09); however, post hoc analyses only indicated
+a trend for a difference between the central and peripheral group
+(PTukey < .07, dCohen = 0.32), with the peripheral group showing better
+reading acuities. VFQ Visual information scores indicated a statistically
+significant difference (F2,48 = 4.30, P = .02, ω2 = 0.12), whereby
+the peripheral group showed lower scores compared with the general
+group (PTukey < .04, dCohen = 0.35). Finally, the reading accessibility
+index score gain from fitting to 3 months differed statistically (F2,44 =
+3.87, P = .03, ω2 = 0.11); post hoc comparisons indicated that the
+peripheral group had smaller gains than both the central (PTukey < .05,
+dCohen = 0.35) and general groups (PTukey < .02, dCohen = 0.40).
+
+Chart Tests
+Distance Acuity
+As shown in Fig. 3, the magnification provided by eSight Eyewear
+resulted in a significant improvement in the ability to read print at
+distance (F2,100 = 255.0, P < .001, ω2 = 0.83), with a gain of seven
+lines from baseline to the intermediate measure (P < .001). There
+was no further improvement after 3 months of use.
+
+MNREAD Measures
+Reading Acuity
+Similarly, the device provided a significant improvement in the
+ability to read print at near (F1.78,88.95 = 129.30, P < .001,
+ω2 = 0.71), with a gain of five lines immediately (P < .001) and
+www.optvissci.com
+
+TABLE 3. Participant characteristics
+ID Age (y) Sex
+
+Diagnosis
+
+Baseline distance acuity
+
+1
+
+61
+
+M
+
+Dry AMD
+
+20/159 (6/48)
+
+2
+
+75
+
+M Hereditary retinal dystrophy
+
+20/200 (6/60)
+
+3
+
+49
+
+F
+
+20/200 (6/60)
+
+4
+
+55
+
+M
+
+Optic atrophy
+
+20/200 (6/60)
+
+5
+
+39
+
+F
+
+Retinitis pigmentosa
+
+20/289 (6/87)
+
+6
+
+46
+
+M
+
+Stargardt
+
+20/200 (6/60)
+
+7
+
+46
+
+F
+
+Glaucoma
+
+20/317 (6/95)
+
+8
+
+59
+
+M
+
+Dry AMD
+
+20/264 (6/79)
+
+9
+
+13
+
+M
+
+Stargardt
+
+20/159 (6/48)
+
+10
+
+15
+
+M
+
+Stargardt
+
+20/100 (6/30)
+
+11
+
+21
+
+M
+
+Retinitis pigmentosa
+
+20/145 (6/43)
+
+12
+
+75
+
+M
+
+Dry AMD
+
+20/174 (6/52)
+
+13
+
+74
+
+F
+
+LHON
+
+20/317 (6/95)
+
+14
+
+18
+
+F
+
+Achromatopsia
+
+20/69 (6/21)
+
+15
+
+51
+
+F
+
+Angloid streaks
+
+20/264 (6/79)
+
+16
+
+57
+
+F
+
+Myopic degeneration
+
+20/66 (6/20)
+
+17
+
+31
+
+M
+
+LHON
+
+20/66 (6/20)
+
+18
+
+46
+
+M
+
+Stargardt
+
+20/200 (6/60)
+
+19
+
+27
+
+F
+
+Cone rod dystrophy
+
+20/69 (6/21)
+
+20
+
+38
+
+M
+
+LHON
+
+20/289 (6/87)
+
+21
+
+39
+
+F
+
+Optic atrophy
+
+20/174 (6/52)
+
+22
+
+24
+
+F
+
+Optic atrophy
+
+20/145 (6/43)
+
+23
+
+56
+
+M
+
+Stargardt
+
+20/760 (6/228)
+
+24
+
+38
+
+F
+
+Optic atrophy
+
+20/317 (6/95)
+
+25
+
+23
+
+M
+
+LHON
+
+20/303 (6/91)
+
+26
+
+15
+
+M
+
+Retinitis pigmentosa
+
+20/76 (6/23)
+
+27
+
+36
+
+M
+
+LHON
+
+20/317 (6/95)
+
+28
+
+74
+
+F
+
+Dry AMD
+
+20/126 (6/31)
+
+29
+
+72
+
+F
+
+Dry AMD
+
+20/399 (6/120)
+
+30
+
+71
+
+M
+
+Dry AMD
+
+20/63 (6/19)
+
+31
+
+51
+
+M
+
+Stargardt
+
+20/399 (6/120)
+
+32
+
+61
+
+F
+
+Dry AMD
+
+20/200 (6/60)
+
+33
+
+75
+
+F
+
+Optic atrophy
+
+20/159 (6/48)
+
+34
+
+69
+
+M
+
+Diabetic retinopathy
+
+20/159 (6/48)
+
+35
+
+56
+
+F
+
+Toxoplasmosis
+
+20/100 (6/30)
+
+36
+
+39
+
+M
+
+Optic neuritis
+
+20/317 (6/95)
+
+37
+
+67
+
+F
+
+Stargardt
+
+20/200 (6/60)
+
+38
+
+63
+
+M
+
+Stargardt
+
+20/159 (6/48)
+
+39
+
+37
+
+M
+
+Stargardt
+
+20/458 (6/137)
+
+40
+
+47
+
+M
+
+Stargardt
+
+20/126 (6/31)
+
+41
+
+45
+
+F
+
+Cone rod dystrophy
+
+20/138 (6/42)
+
+42
+
+63
+
+M
+
+Optic atrophy
+
+20/132 (6/40)
+
+43
+
+45
+
+M
+
+Achromatopsia
+
+20/110 (6/33)
+
+Optom Vis Sci 2018; Vol 95(9)
+
+Retinopathy of prematurity
+
+Continued
+
+778
+
+
+[page 6]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+TABLE 3. Continued
+ID Age (y) Sex
+
+Diagnosis
+
+Baseline distance acuity
+
+M
+
+Optic atrophy
+
+20/110 (6/33)
+
+44
+
+62
+
+45
+
+46
+
+F
+
+Vasularitis
+
+20/152 (6/46)
+
+46
+
+46
+
+M
+
+Rubella
+
+20/317 (6/95)
+
+47
+
+50
+
+F
+
+Retinitis pigmentosa
+
+20/100 (6/30)
+
+48
+
+46
+
+F
+
+Stargardt
+
+20/159 (6/48)
+
+49
+
+63
+
+M
+
+Cone rod dystrophy
+
+20/399 (6/120)
+
+50
+
+36
+
+M
+
+LHON
+
+20/63 (6/19)
+
+51
+
+36
+
+M
+
+LHON
+
+20/252 (6/76)
+
+Baseline acuities in the better eye with best standard correction, using
+ETDRS chart. AMD = age-related macular degeneration; ETDRS = Early
+Treatment Diabetic Retinopathy Study; F = female; LHON = Leber
+hereditary optic neuropathy; M = male.
+
+a gain of one additional line after 3 months (P = .03) (Fig. 4). Analysis of variance indicated that subjects at sites 4, 5, and 6 had, on
+average, two to three lines worse reading acuity at baseline
+(P < .01) but that their improvements were comparable with the
+other sites.
+Critical Print Size
+Like reading acuity, critical print size differed in a significant
+way (F1.56,70.3 = 74.5, P < .001, ω2 = 0.61), improving immediately (P < .001) but staying unchanged after 3 months (Fig. 5).
+Reading Accessibility Index
+The reading accessibility index, defined by Calabrèse et al.38
+based on an individual's mean reading speed measured across up
+to the 10 largest print sizes on the MNREAD, also indicated significant change (F1.73,79.61 = 27.67, P < .001, ω2 = 0.71),
+
+FIGURE 4. Reading acuity equivalent of print size read on the MNREAD
+chart at baseline without the device, at fitting with the device, and after 3 months of device use. Mean baseline reading acuity without device was 20/159 (mean logMAR, 0.90 [SD, 0.34]), which improved to
+20/43 (mean, 0.33 [SD, 0.39]) with the device but stayed unchanged
+after 3 months of device use and training (mean, 0.24 [SD, 0.36]). ID
+numbers of outlier correspond to participant IDs in Table 3. *Statistically significant differences.
+
+improving immediately (P < .001) and staying unchanged at
+3 months (Fig. 6).
+Reading Speed
+Analysis of covariance revealed a statistically significant change
+in reading speed across the three time points after controlling for
+age (F2,96 = 3.22, P = .04, ω2 < 0.04) (Fig. 7). However, the effect
+was too small to render any of the repeated-measure comparisons
+statistically significant.
+
+Contrast Sensitivity
+Using the contrast enhancement functionality in eSight Eyewear, participants significantly improved their scores on the MARS
+test (F1.65,82.63 = 43.46, P < .001, ω2 = 0.45), gaining the equivalent of 12 letters immediately (P < .001) with no further improvement at 3 months (Fig. 8).
+
+Activities-of-Daily-Living Tests
+Face Perception
+
+FIGURE 3. Distance acuity equivalent of print size correctly read on
+the ETDRS chart at baseline without the device, at fitting with the device, and after 3 months of device use. Mean baseline acuity without
+device was 20/177 (mean logMAR, 0.95 [SD, 0.25]), which improved
+to 20/32 (mean, 0.20 [SD, 0.31]) with the device but stayed unchanged after 3 months of device use and training (mean, 0.19 [SD,
+0.30]). ID numbers of outlier correspond to participant IDs in Table 3.
+*Statistically significant differences. ETDRS = Early Treatment Diabetic Retinopathy Study.
+
+www.optvissci.com
+
+Analysis of covariance indicated that the ability to correctly
+identify the sex and emotional expression in the image improved,
+after controlling for the effect of age (F2,92 = 4.19, P < .01,
+ω2 = 0.06); scores increased immediately when wearing the device
+compared with baseline (P < .001), and there was no further improvement observed after 3 months (P = .36) (Fig. 9).
+
+Melbourne Low Vision Activities of Daily Living Index
+(Selected Tasks)
+Similarly, the analysis on the Melbourne Low Vision Activities of
+Daily Living Index indicated an immediate change in overall visual
+
+Optom Vis Sci 2018; Vol 95(9)
+
+779
+
+
+[page 7]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+FIGURE 5. Critical print size measured on the MNREAD chart at baseline without the device, at fitting with the device, and after 3 months of
+device use. Mean baseline critical print size without device was
+20/240 (mean logMAR, 1.08 [SD, 0.27]), which improved to 20/78
+(mean, 0.59 [SD, 0.40]) with the device but stayed unchanged after
+3 months of device use and training (mean, 0.50 [SD, 0.31]). ID numbers of outlier correspond to participant IDs in Table 3. *Statistically
+significant differences.
+
+ability (F1.77,85.17 = 6.00, P = .005, ω2 = 0.09), and performance
+did not change further after the 3-month follow-up period (Fig. 10).
+
+Veterans Affairs Low Vision Visual Functioning
+Questionnaire
+The Veterans Affairs Low Vision Visual Functioning Questionnaire 48 was administered at baseline and at the final follow-up.
+Overall, participants' scores reflected significant improvement in
+their visual abilities (t50 = 4.62, P < .001, d = 0.65). This effect
+was largely driven by the reading subscale (t50 = 7.51, P < .001,
+d = 1.05) (Fig. 11) followed by changes in the visual information
+
+FIGURE 6. Reading accessibility index values at baseline without the
+device, at fitting with the device, and after 3 months of device use.
+Mean values increased significantly with the device at fitting but did
+not improve further after 3 months of device use and training. *Statistically significant differences.
+
+www.optvissci.com
+
+FIGURE 7. Reading speed values at baseline without the device, at
+fitting with the device, and after 3 months of device use. The analysis
+did not reveal any statistically significant change in reading speed between any of the time points.
+
+items such as face perception (t50 = 6.03, P < .001, d = 0.84)
+and the visual motor items such as pouring a liquid into a cup
+(Z = 389, P = .02, d = 0.27). There was no significant change
+among the mobility items (Z = 3547, P = .86, d = 0.03).
+
+DISCUSSION
+The purpose of the present clinical evaluation of eSight Eyewear
+was to examine to what extent the device enhances visual ability in
+a low vision population, by evaluating its effects on chart-based
+
+FIGURE 8. Contrast sensitivity (CS) measured by the MARS chart at baseline without the device, at fitting with the device, and after 3 months of device use. Mean baseline log CS without device was 0.89 (20/177 [SD,
+0.48]), which improved to 1.44 (SD, 0.44) with the device but stayed unchanged after 3 months of device use and training (mean, 1.41 [SD,
+0.44]). ID numbers of outlier correspond to participant IDs in Table 3.
+*Statistically significant differences.
+
+Optom Vis Sci 2018; Vol 95(9)
+
+780
+
+
+[page 8]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+FIGURE 9. Face perception test results at baseline without the device,
+at fitting with the device, and after 3 months of device use. The mean baseline face perception test score without device was 37.77 (SD, 17.57), which
+improved to 45.29 (SD, 18.45) with the device but stayed unchanged after
+3 months of device use and training (47.08 [SD, 15.41]). The ID number of
+the outlier corresponds to participant ID in Table 3. *Statistically significant
+differences.
+
+measures, performance measures, and patient-reported outcomes,
+and to determine if results changed over a short interval after the
+first time experience with the device. Overall, wearing the fitted device instantly improved the participants' distance and near visual
+acuity, contrast sensitivity, minimum and critical reading print
+size, and reading speed measured across the 10 largest MNREAD
+print sizes (reading accessibility index), indicating that the magnification and contrast enhancement functions immediately have
+their intended effect, similar to improvements that we would expect from conventional visual magnification and contrast enhancement aids. The only measure that further improved after 3 months
+of use of the device was reading acuity, which may reflect the practice of hand-eye coordination involved in holding the material at a
+set distance and making effective scanning and repositioning
+movements while reading small text or the development of more
+stable head positioning. These aspects of device use may be optimized over time, resulting in a reduced need for magnification.
+Hand-eye coordination has been shown to be negatively affected
+by low vision39,40 but would not be required for single-letter acuity
+tests or for reading larger print sizes. Maximum reading speed, on
+the other hand, was only minimally affected by the device, after
+controlling for age, most likely reflecting the fact that eye movement control and cognitive processes involved in reading are relatively unchanged by magnification. Thus, participants were
+reading smaller print sizes with the same degree of difficulty using
+the device as they read larger print without the device. An additional factor may be that the use of single sentences on the
+MNREAD chart does not adequately reflect aspects of reading that
+may be positively affected by device use. For example, changes in
+continuous reading on measures such as the International Reading
+Speed Texts41 may be more appropriate in the measurement of
+normal reading behavior. Future studies should also include measures of reading comprehension, as the effort involved in device
+use may further affect the processing of what is being read. It is
+of interest to observe the outlier among the reading measures (participant 23, whose presenting acuity of 20/760 fell outside the
+original recruitment criteria). Her improvement on acuity-related
+www.optvissci.com
+
+measures was minimal, suggesting that an upper acuity limit may
+exist for eSight users to optimally benefit; however, her performance on most other measures did not present as outliers.
+The effect of magnification using a head-mounted display can
+be restricted by resolution limitations. For the eSight study device,
+the camera resolution is 2592 (horizontal)  1944 (vertical), which,
+when zooming the image to approximately 4.25 times, reaches the
+same number of pixels as the display. At higher magnifications,
+the image will be affected by the resolution limit of the display; however, for a device user with a visual acuity of 20/120 or lower, such
+reduced resolution would be neither visible nor noticeable. Even
+users with better visual acuity are unlikely to experience this limitation because the instability of images caused by high magnification
+limits the viewer's ability to see detail.
+When examining responses to the Veterans Affairs Low Vision
+Visual Functioning Questionnaire 48, participants generally self reported the largest perceived improvements on the reading items,
+followed by improvements in tasks related to visual information
+(e.g., face perception or finding an item on a crowded shelf ) and visual motor activities that require hand-eye coordination (e.g.,
+signing a check or preparing a meal). No change was reported on
+the mobility items of the questionnaire. Even though eSight Eyewear in its current design is not intended as a mobility aid, it had
+been initially anticipated as an effective aid to assist in the orientation requirement of effective mobility function (e.g., signage identification but not fall prevention). In fact, the item responses from
+the Veterans Affairs Low Vision Visual Functioning Questionnaire
+48 support this finding. Orientation-related items of the Veterans
+Affairs Low Vision Visual Functioning Questionnaire 48 are largely
+grouped within the visual information and reading domains (e.g.,
+reading street signs, where a beneficial effect was present). In contrast, the pure mobility items, such as the ability to get around indoors, outdoors, or in unfamiliar places; going out at night; or
+bumping into things, would not be expected to demonstrate beneficial effects. The fact that using the eSight device did not result in
+
+FIGURE 10. Partial Melbourne Low Vision Activities of Daily Living Index results at baseline without the device, at fitting with the device,
+and after 3 months of device use. Participant ID numbers are grouped
+by site (first digit). The mean baseline partial Melbourne score without
+device was 69.90 (SD, 19.10), which improved to 76.61 (SD, 19.51)
+with the device but stayed unchanged after 3 months of device use and
+training (mean, 78.84 [SD, 22.09]). ID numbers of outlier correspond
+to participant IDs in Table 3. *Statistically significant differences.
+
+Optom Vis Sci 2018; Vol 95(9)
+
+781
+
+
+[page 9]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+FIGURE 11. Results of four domains of the Veterans Affairs Low Vision Visual Functioning Questionnaire at baseline and after 3 months of device use.
+For the reading items, the mean baseline reading score without device was 1.75 logit units (SD, 1.43), which improved to 4.33 logits (SD, 2.68). For visual
+information items, the mean score without device was 1.21 logit units (SD, 0.91), which improved to 2.29 logits (SD, 1.19). The mean baseline visual motor
+score without device was 1.05 logit units (SD, 0.81), which improved to 1.42 logits (SD, 1.30) with the device after 3 months of device use and training.
+Scores on the mobility items did not demonstrate a significant change after 3 months. ID numbers of outlier correspond to participant IDs in Table 3. *Statistically significant differences.
+
+degraded mobility scores is regarded as a positive outcome. This is
+likely a result of the device's intentionally open and variably adjustable bioptic design, whereby the wearer's habitual peripheral vision, which for users with central visual field impairments can be
+as good as that of a healthy sighted individual, is not occluded by
+the device. Future evaluations should consider specifically whether
+the device might be beneficial as an orientation device, in the context of reading store or street signs (categorized under the reading
+domain), recognizing landmarks (categorized under the visual information gathering domain), or planning a route on a map to reach
+a target (categorized as visual-motor coordination).
+The benefits that were observed on the face perception task
+show a difference relative to previous findings examining the effect
+of magnification on face perception in age-related macular degeneration patients.42 Prior studies demonstrated that magnification
+by itself does not improve emotion detection as measured by facial
+recognition. It is likely that the observed improvement in this study
+is mediated by contrast enhancement because facial features tend
+to have low contrast and contrast sensitivity was impaired in our
+subjects. Interestingly, our face perception measure demonstrated
+an effect of age, however, in the opposite direction that we had anticipated, whereby older adults benefited more from device use
+when detecting facial expressions and the sex of the presented face.
+As our older participants were mostly affected by macular degeneration, it is possible that the previously demonstrated benefits of telescopic magnification on face perception were also observed in our
+older participants.43 Telescopic magnification does not compensate
+for age-related macular degeneration patients' low contrast sensitivity, and it is likely that the effect we found can be attributed to a
+combination of magnification and contrast enhancement.
+When comparing performance across diagnostic groups, only
+four variables revealed statistically significant differences; however,
+www.optvissci.com
+
+these findings need to be interpreted with caution because the peripheral vision loss group consisted of only five participants and
+some of the assumptions of analysis of variance are questioned with
+such a small sample size, when the comparison groups all contain
+more than 20 observations. Therefore, only the results indicating
+that participants with general visual impairment gained more acuity
+at fitting than individuals with central impairment may hold because
+this is the only analysis that was driven by the two largest samples.
+
+Limitations
+Other than the inadvertent inclusion of a subject with 20/760
+visual acuity, our subject population met the pre-determined inclusion and exclusion criteria. The loss of 17 subjects during follow-up
+and of 6 with incomplete data represents a potential source of bias,
+but even if one assumes that most of those individuals may have
+had no benefit from the eSight device, this leaves a substantial percentage of participants who perceived sufficient benefit to complete the trial. Previous studies have indicated that cosmesis,
+motion sickness, and cost all play important roles in the uptake
+and use of low vision aids.44,45 Therefore, we speculate that the
+high proportion of women who abandoned this trial may, in part,
+be connected to these factors. Future studies should collect additional data about the interest in adopting the device after an initial
+trial and training period, the price participants would be willing
+to pay to own the device, and whether they would recommend the
+device to a friend. In the present study, all participants had been
+recruited within the context of service provision through a rehabilitation center; therefore, they had the possibility to pursue other devices recommended as part of their regular care. The findings on
+the number of devices the participants were already using at the
+time of this trial reflect prior exposure to visual aids training and
+adaptation techniques. Therefore, further gain with additional aids
+
+Optom Vis Sci 2018; Vol 95(9)
+
+782
+
+
+[page 10]
+Visual Function with HMD for Low Vision — Wittich et al.
+
+may not have been meaningful to the patient. Unfortunately,
+data on types of devices previously used were not recorded, which
+could be relevant, as experience with other non–head-borne video based devices may more easily transfer into successful use of
+eSight Eyewear.
+An important limitation of this study is that we did not systematically collect measures of the magnification and contrast enhancement used while collecting functional measures with the device.
+The reasoning was based on the reality that device users engaging
+in their activities of daily living change the device settings on an
+ongoing basis, depending on the type of task, its distance, and environmental considerations; typically, this setting is a trade-off between the need to see details and both the field of view and the
+challenge of image stabilization at higher magnification. However,
+future studies with head-mounted displays should increase the
+rigor of measurement by recording the device settings chosen for
+specific tasks of interest. Another important limitation is that we
+did not compare device performance with that of other tools for
+sight enhancement, as has been rightly suggested by previous
+researchers as a key step in comparing effectiveness.6 Such comparison is the logical next step, as it will be able to answer the
+key question whether the eSight device demonstrates benefits
+over devices that are recommended within current standard of care
+and whether these benefits justify the cost. Furthermore, both
+qualitatively asking subjects about their previous or concurrent experiences with other devices and systematically comparing task
+performance are planned for follow-up studies.
+Participants in the study were provided with a practice manual
+and advice by telephone, but this is not necessarily an adequate
+substitute for a targeted rehabilitation program administered by a
+qualified therapist. A follow-up study of the effects of such a structured rehabilitation program for eSight users is currently underway
+at one of the participating institutions. The tests in this study were
+repeated two to three times, and repeated administration of the
+same tests could lead to improved performance on the basis of
+practice. Even though this possibility exists in our study, it should
+be limited to unfamiliar measures such as the face perception
+and activities–of-daily-living tests. The fact that improvement
+was seen almost exclusively upon introduction of the device and
+
+ARTICLE INFORMATION
+Submitted: November 10, 2017
+Accepted: June 19, 2018
+Funding/Support: Mitacs (IT07437 and IT08595; to
+M-CL) and eSight Corporation (to WW, SNM, MT, SAG,
+JEG, GD).
+Conflict of Interest Disclosure: The authors listed report a
+financial conflict of interest (WW, SNM, MT, SAG, JEG,
+DG). The sponsor eSight Corporation provided financial and
+material support, but had no role in the study design,
+conduct, analysis and interpretation, or writing of the report.
+The author M-CL received an eSight-sponsored peer reviewed Mitacs doctoral fellowship for her work on this trial.
+Author Contributions and Acknowledgments: Conceptualization:
+SNM, MT, SAG, JEG, GD; Data Curation: WW, M-CL, SNM,
+MT, SAG, JEG, GD; Formal Analysis: WW, JEG, GD; Funding
+Acquisition: WW, SNM, MT, SAG, JEG, GD; Investigation:
+WW, M-CL, SNM, MT, SAG, JEG, GD; Methodology: WW,
+M-CL, SNM, MT, SAG, JEG, GD; Project Administration:
+SNM, MT, SAG, JEG, GD; Resources: WW, SNM, MT, SAG,
+
+www.optvissci.com
+
+occurred equally across familiar and unfamiliar tests suggests that
+this type of practice effect through test familiarity did not play an
+appreciable role in our study; as indicated before, the images of
+the face-perception test were deliberately varied to avoid practice.
+Most importantly, large improvements were seen immediately upon
+introduction of the device, although no practice was available
+in the preceding two- to three-week period, whereas the subsequent 3 months of practice yielded very limited further improvement. It should be noted that, since the study completion, the
+manufacturer has launched its next-generation device, which
+embodies several improvements in various key parameters. This
+will provide the opportunity to use an updated version of the device in upcoming studies.
+
+CONCLUSIONS
+The presented data indicate that the use of eSight Eyewear has
+striking beneficial effects on a variety of visual functions. Furthermore, 3 months of continued use and practice with the device
+did not result in remarkable further improvements, indicating immediate efficacy. Head-mounted low vision devices have received
+considerable attention in recent years owing to rapidly developing
+technology, facilitating ease of use, and functionality. Systematic
+clinical evaluations of such devices remain rare but are needed to
+steer future device development and inform standard-of-care
+models. Unlike other biomedical fields, which include drugs, devices, and diagnostics where research agendas and progress
+are often driven by the pharmaceutical or medical device and
+equipment industries, low vision devices do not require clinical
+data to obtain regulatory approval. This may explain why the
+present study is one of only a few that have received funding
+from an assistive device manufacturer, in this case, eSight Corporation. Even though this funding support may raise questions
+about potential bias, it has been pointed out that, in an era of financial austerity, close cooperation with industry is one of very
+few options in our drive to present clinically relevant data that
+advance rehabilitation best practices.46
+
+JEG, GD; Software: WW; Supervision: SNM, MT, JEG, GD;
+Validation: WW, M-CL, SNM, MT, SAG, JEG, GD;
+Visualization: WW, M-CL, SNM, SAG, JEG, GD; Writing –
+Original Draft: WW, M-CL, SNM, JEG, GD; Writing –
+Review & Editing: WW, M-CL, SNM, MT, SAG, JEG, GD.
+The authors thank Rob Hilkes at eSight Corporation for
+his integrity and respect for the scientific process
+during this study and his assistance in coordinating all
+collaborative aspects and Aaron Johnson for his
+assistance with calibration.
+
+REFERENCES
+1. Wolffsohn JS, Peterson RC. A Review of Current
+Knowledge on Electronic Vision Enhancement Systems
+for the Visually Impaired. Ophthalmic Physiol Opt
+2003;23:35–42.
+2. Hwang AD, Peli E. An Augmented-reality Edge Enhancement Application for Google Glass. Optom Vis
+Sci 2014;91:1021–30.
+
+Optom Vis Sci 2018; Vol 95(9)
+
+3. Luo G, Woods RL, Peli E. Collision Judgment when
+Using an Augmented-vision Head-mounted Display Device. Invest Ophthalmol Vis Sci 2009;50:4509–15.
+4. Longley C, Whitaker D. Google Glass Glare: Disability
+Glare Produced by a Head-mounted Visual Display. Ophthalmic Physiol Opt 2016;36:167–73.
+5. Lin CS, Yang HJ, Lay YL, et al. Design and Evaluation
+of a Public Installation of an Eye-gaze System. Assist
+Technol 2011;23:187–98.
+6. Ehrlich JR, Ojeda LV, Wicker D, et al. Head-mounted
+Display Technology for Low-vision Rehabilitation and
+Vision Enhancement. Am J Ophthalmol 2017;176:
+26–32.
+7. Massof RW, Rickman DL. Obstacles Encountered in
+the Development of the Low Vision Enhancement System. Optom Vis Sci 1992;69:32–41.
+8. Ballinger R, Lalle P, Maino J, et al. Veterans Affairs
+Multicenter Low Vision Enhancement System (LVES)
+Study: Clinical Results. Report 1: Effects of Manual focus LVES on Visual Acuity and Contrast Sensitivity.
+Optometry 2000;71:764–74.
+
+783
+
+
+[page 11]
+Visual Function with HMD for Low Vision — Wittich et al.
+9. Chang K. Sleek New Devices Help Low-vision Patients See. New York Times; April 6, 2004. Available
+at: https://www.nytimes.com/2004/04/06/health/sleeknew-devices-help-low-vision-patients-see.html. Accessed
+June 20, 2018.
+10. Culham LE, Chabra A, Rubin GS. Clinical Performance of Electronic, Head-mounted, Low-vision Devices. Ophthalmic Physiol Opt 2004;24:281–90.
+
+scripts/cdrh/cfdocs/cfRL/rl.cfm?lid=368800&lpcd=
+HPA. Accessed March 25, 2018.
+
+34. Field A. Discovering Statistics Using IBM SPSS
+Statistics. London, UK: Sage; 2013.
+
+22. U.S. Food and Drug Administration. Establishment
+Registration & Device Listing; 2018. Instrument registration #886.5910. Available at: https://www.
+accessdata.fda.gov/scripts/cdrh/cfdocs/cfRL/rl.cfm?
+lid=368799&lpcd=HOT. Accessed March 25, 2018.
+
+35. Cohen J. The Statistical Power of Abnormal-social
+Psychological Research: A Review. J Abnorm Soc
+Psychol 1962;65:145–53.
+
+11. Ortiz A, Chung ST, Legge GE, et al. Reading with a
+Head-mounted Video Magnifier. Optom Vis Sci 1999;
+76:755–63.
+
+23. Wittich W, Phillips N, Nasreddine ZS, et al. Sensitivity and Specificity of the Montreal Cognitive Assessment
+Modified for Individuals Who Are Visually Impaired. J Vis
+Impair Blind 2010;104:360–8.
+
+12. Weckerle P, Trauzettel-Klosinski S, Kamin G, et al.
+Task Performance with the Low Vision Enhancement
+System (LVES). Vis Impair Res 2000;2:155–62.
+
+24. Ferris FL, 3rd, Kassoff A, Bresnick GH, et al. New
+Visual Acuity Charts for Clinical Research. Am J
+Ophthalmol 1982;94:91–6.
+
+13. Geruschat D, Deremeik JT, Whited S. Head mounted Displays: Are They Practical for School-age
+Children? J Vis Impair Blind 1999;8:485–97.
+
+25. Legge GE, Ross JA, Luebker A, et al. Psychophysics
+of Reading. VIII. The Minnesota Low-vision Reading
+Test. Optom Vis Sci 1989;66:843–53.
+
+14. Peláez-Coca MD, Vargas-Martín F, Mota S, et al. A
+Versatile Optoelectronic Aid for Low Vision Patients.
+Ophthalmic Physiol Opt 2009;29:565–72.
+15. Peterson RC, Wolffsohn JS, Rubinstein M, et al.
+Benefits of Electronic Vision Enhancement Systems
+(EVES) for the Visually Impaired. Am J Ophthalmol
+2003;136:1129–35.
+16. Peli E, Luo G, Bowers A, et al. Applications of Augmented Vision Head-mounted Systems in Vision Rehabilitation. J Soc Inf Disp 2007;15:1037–45.
+17. Eperjesi F, Fowler CW, Evans BJ. The Effects of
+Coloured Light Filter Overlays on Reading Rates in
+Age-related Macular Degeneration. Acta Ophthalmol
+Scand 2004;82:695–700.
+18. Arici T, Dikbas S, Altunbasak Y. A Histogram Modification Framework and its Application for Image Contrast Enhancement. IEEE Trans Image Process 2009;
+18:1921–35.
+19. Moshtael H, Aslam T, Underwood I, et al. High Tech
+Aids Low Vision: A Review of Image Processing for the
+Visually Impaired. Transl Vis Sci Technol 2015;4:6.
+20. U.S. Food and Drug Administration. Establishment
+Registration & Device Listing; 2018. Instrument registration #3010358810. Available at: https://www.
+accessdata.fda.gov/scripts/cdrh/cfdocs/cfRL/rl.cfm?
+rid=154214. Accessed March 25, 2018.
+21. U.S. Food and Drug Administration. Establishment Registration & Device Listing; 2018. Instrument registration
+#886.1415. Available at: https://www.accessdata.fda.gov/
+
+www.optvissci.com
+
+26. Dougherty BE, Flom RE, Bullimore MA. An Evaluation of the Mars Letter Contrast Sensitivity Test. Optom
+Vis Sci 2005;82:970–5.
+27. Stelmack JA, Szlyk JP, Stelmack TR, et al. Psychometric Properties of the Veterans Affairs Low-vision Visual Functioning Questionnaire. Invest Ophthalmol Vis
+Sci 2004;45:3919–28.
+28. Stelmack JA, Massof RW. Using the VA LV VFQ-48
+and LV VFQ-20 in Low Vision Rehabilitation. Optom
+Vis Sci 2007;84:705–9.
+29. Haymes S, Johnston A, Heyes A. The Development
+of the Melbourne Low-vision ADL Index: A Measure of Vision Disability. Invest Ophthalmol Vis Sci 2001;42:
+1215–25.
+30. Lucey P, Cohn J, Kanade T, et al. The Extended
+Cohn-Kanade Dataset (CK+): A Complete Expression
+Dataset for Action Unit and Emotion-specified Expression. In: Proceedings of the Third International Workshop on CVPR for Human Communicative Behavior
+Analysis (CVPR4HB). San Francisco, CA; 2010:
+94–101.
+31. Kanade T, Cohn J, Tian Y. Comprehensive Database
+for Facial Expression Analysis. In: Proceedings of the
+Fourth IEEE International Conference on Automatic
+Face and Gesture Recognition (FG'00). Grenoble, France;
+2000:46–53.
+32. eSkills User Guide & Proficiency Program. Ottawa,
+Canada: eSight Corporation; 2015.
+33. JASP [computer software]. Version 0.8.1.1. Amsterdam, The Netherlands: JASP Team; 2017.
+
+Optom Vis Sci 2018; Vol 95(9)
+
+36. Rossi JS. Statistical Power of Psychological Research: What Have we Gained in 20 Years? J Consult
+Clin Psychol 1990;58:646–56.
+37. Szucs D, Ioannidis JP. Empirical Assessment of
+Published Effect Sizes and Power in the Recent Cognitive Neuroscience and Psychology Literature. PLoS Biol
+2017;15:e2000797.
+38. Calabrèse A, Owsley C, McGwin G, et al. Development of a Reading Accessibility Index Using the
+MNREAD Acuity Chart. JAMA Ophthalmol 2016;134:
+398–405.
+39. Kotecha A, O'Leary N, Melmoth D, et al. The Functional Consequences of Glaucoma for Eye-hand Coordination. Invest Ophthalmol Vis Sci 2009;50:203–13.
+40. Timberlake GT, Omoscharka E, Quaney BM, et al.
+Effect of Bilateral Macular Scotomas from Age related Macular Degeneration on Reach-to-grasp
+Hand Movement. Invest Ophthalmol Vis Sci 2011;
+52:2540–50.
+41. Trauzettel-Klosinski S, Dietz K, IReST Study Group.
+Standardized Assessment of Reading Performance: The
+New International Reading Speed Texts IReST. Invest
+Ophthalmol Vis Sci 2012;53:5452–61.
+42. Johnson AP, Woods-Fry H, Wittich W. Effects of
+Magnification on Emotion Perception in Patients with
+Age-related Macular Degeneration. Invest Ophthalmol
+Vis Sci 2017;58:2520–6.
+43. Tejeria L, Harper RA, Artes PH, et al. Face Recognition in Age Related Macular Degeneration: Perceived
+Disability, Measured Disability, and Performance with
+a Bioptic Device. Br J Ophthalmol 2002;86:1019–26.
+44. Virgili G, Acosta R, Grover LL, et al. Reading Aids for
+Adults with Low Vision. Cochrane Database Syst Rev
+2013;CD003303.
+45. Harper R, Culham L, Dickinson C. Head Mounted
+Video Magnification Devices for Low Vision Rehabilitation: A Comparison with Existing Technology. Br J
+Ophthalmol 1999;83:495–500.
+46. Frontera WR, Fuhrer MJ, Jette AM, et al. Rehabilitation Medicine Summit: Building Research Capacity.
+J Spinal Cord Med 2006;29:70–81.
+
+784
+

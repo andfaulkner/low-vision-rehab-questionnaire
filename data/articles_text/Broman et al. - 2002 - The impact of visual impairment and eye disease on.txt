@@ -1,0 +1,690 @@
+[page 1]
+FREE
+
+Clinical and Epidemiologic Research | November 2002
+
+The Impact of Visual Impairment and Eye
+Disease on Vision-Related Quality of Life in a
+Mexican-American Population: Proyecto VER
+Aimee Teo Broman; Beatriz Munoz; Jorge Rodriguez; Rosario Sanchez; Harry A. Quigley; Ronald Klein; Robert
+Snyder; Sheila K. West
+ Author Affiliations
+
+Investigative Ophthalmology & Visual Science November 2002, Vol.43, 3393-3398. doi:
+
+Abstract
+purpose. To describe the relationship of visual acuity impairment and eye disease on vision-
+
+related quality of life, as measured by the 25-item National Eye Institute Visual Function
+Questionnaire (NEI-VFQ-25), in a cross-sectional, population-based study of older Hispanic
+persons living in Arizona.
+methods. A random sample of block groups with Hispanic residents in Nogales and Tucson,
+
+Arizona, were selected for study. Participants were interviewed at home with a
+questionnaire that included the NEI-VFQ-25, an instrument measuring vision-related
+quality of life. Acuity was obtained with Early Treatment Diabetic Retinopathy Study
+(ETDRS) charts and standard protocol. Cataract was determined by clinical examination,
+diabetic retinopathy was diagnosed on stereo fundus photographs, and glaucoma was
+diagnosed on the basis of clinical examination and visual field results. Analyses were done
+to determine the degree of association between subscale scores and acuity in the better seeing eye, monocular visual impairment, and specific eye diseases, with adjustment for
+acuity.
+
+ By continuing to use our website, you are agreeing to
+This site uses cookies.
+our privacy policy. | Accept
+
+
+[page 2]
+results. Of the 4774 participants in the study, 99.7% had completed questionnaires that
+
+were not completed by proxy. Participants with visual impairment had associated
+decrements in scores on all subscales, with a decrease in presenting acuity associated with
+a worse score (P < 0.05), after adjustment for demographic variables. Monocular
+impairment was also associated with lower scores in several subscales. In those with
+cataract, low acuity explained most of the low scores, but those with glaucoma or diabetic
+retinopathy had low scores independent of acuity.
+conclusions. In this study of Mexican-American persons aged 40 or more, monocular
+
+impairment and better-eye acuity was associated with a decrease in most domains
+representing quality of life. Subjects with uncorrected refractive error, cataract, diabetic
+retinopathy, and glaucoma had associated decrements in quality of life, many not
+explained by loss of acuity. Further work on the specific measures of vision associated with
+reported decreases in quality of life, such as visual field or contrast sensitivity, is
+warranted.
+
+The Hispanic population is the fastest growing minority group in the United States, and there is
+considerable interest in the health status of this heterogeneous population. 1 In particular, the eye
+health of this population is of concern, because there is a relatively high rate of visual impairment
+2 compared with that in non-Hispanic whites. In previous publications, we have reported high
+
+rates of diabetic retinopathy (DR) in a Mexican-American population, attributable to the high
+prevalence of diabetes in this group. 3 Rates of glaucoma also appear to be higher than in the
+non-Hispanic white population. 4
+However, not much is known about the impact of visual impairment on the quality of life in this
+population. Impairment in acuity has been associated with self-reported difficulties in physical
+function, 5 6 7 emotional distress, 8 and low socialization 8 9 —all domains that are considered part
+of quality of life. As part of the validation of the National Eye Institute Visual Function
+Questionnaire (NEI-VFQ), decreases in scores associated with vision loss due to glaucoma, DR,
+and cataract have been reported. 10 11 12 However, the independent contributions of disease
+beyond acuity impairment have not been well characterized.
+In a previous report, we described the psychometric properties of the short version, the NEI-VFQ25, in this Mexican-American
+population, showing the association of visual acuity impairment and
+ By
+This site uses cookies.
+continuing to use our website, you are agreeing to
+demographic
+variables
+with
+scores in quality-of-life domains. 13 In that report, we demonstrated
+our privacy
+policy.
+| Accept
+
+
+[page 3]
+the validity of the NEI-VFQ-25 in this population by observing the association of decrements in
+quality of life with levels of visual impairment.
+The purpose of this study was to determine the association of acuity using habitual distance
+correction (hereafter referred to as presenting acuity) and monocular impairment with quality-oflife-domains and to determine the individual contribution of uncorrected refractive error,
+cataract, DR, and glaucoma to decrements in quality of life in a Mexican-American group.
+
+Methods
+Population
+Proyecto VER (Vision and Eye Research Project) is a population-based survey of visual impairment
+and blindness among noninstitutionalized Hispanics, aged 40 years or more living in Nogales or
+Tucson, Arizona. Sampling methods have been described elsewhere. 3 In summary, a stratified
+random sample of block groups were selected based on census data of the Hispanic population in
+1990. Every other household in Nogales block groups and two of every three households in
+Tucson block groups were chosen for determination of eligibility. All members of selected
+households who were self-described Hispanics aged 40 or more years were eligible to
+participate.
+After obtaining informed consent for participation, the participant was interviewed at home by
+trained personnel. The interview was followed by a complete ophthalmic examination at a central
+clinic site. A total of 4774 subjects participated in the interview and examination, for a response
+rate of 70.1%. All study procedures were approved by the Johns Hopkins University Joint
+Committee on Clinical Investigations and the University of Arizona Institutional Review Board and
+complied with the tenets of the Declaration of Helsinki.
+
+Home Interview
+The questionnaire was administered by trained personnel and offered in English and Spanish. The
+majority of home interviews (80%) were conducted in Spanish. The questionnaire contained
+specific questions on education, socioeconomic and health status, history of vision problems, visit
+to an eye care professional, and Native-American ancestry. Also included was the NEI-VFQ-25, and
+a series of questions on health care utilization, access, and insurance from the Hispanic Health
+and Nutrition Examination Survey (HHANES). 14 An acculturation index was created by
+
+summarizing
+questions
+HHANES
+regarding
+preferred
+language,
+country
+
+This sitespecific
+uses cookies.
+By from
+continuing
+to use
+our website,
+you are
+agreeing
+to of birth, and
+our privacy policy. | Accept
+
+
+[page 4]
+other questions relating to adapting to U.S. culture. 15 The acculturation score ranges from 1 to 5,
+where 1 is low acculturation, and 5 is high acculturation.
+The NEI-VFQ-25 is a subset of the original 51-item NEI-VFQ. 16 Subscales and items for the 1996
+version used in this study are shown in Table 1 . Items were answered in the following manner:
+“amount of difficulty,” “amount of time,” “amount true,” and amplitude. Item responses were
+adjusted for directionality (high scores reflect participants with good vision/health), and were
+rated on a scale of 0 to 100. Subscale scores were created by averaging their adjusted item
+responses. Participants’ responses were excluded from specific items if they had stopped the
+activity for reasons other than poor eyesight or if someone other than the participant had
+answered the questionnaire.
+
+Clinical Measures
+Presenting and best-corrected distance acuity were measured at the clinic. Acuity was measured
+in each eye with the participant using habitual distance correction. The following methods were
+used for assessing visual acuity in each eye: an autorefractor (Humphrey Instruments, San
+Leandro, CA) was used as a starting point for full subjective refraction. Distance acuity was tested
+with the Early Treatment Diabetic Retinopathy Study (ETDRS) chart 17 at 3 m, illuminated at 130
+cd/m2. Participants who failed to read the largest letters at 3 m were retested at 1.5 m and then at
+1 m. Visual acuity was scored as the total number of letters read correctly, transformed to log of
+the minimum angle of resolution (logMAR) units. Failure to read any letters was assigned an
+acuity of 1.7 logMAR units, which is equivalent to an acuity of 20/1000. An E chart 17 was used for
+participants who were illiterate. A person was considered to have uncorrected refractive error if
+the difference between best-corrected and presenting acuity was more than 2 lines.
+After dilation, stereo fundus photographs of fields 1, 2, and 4 were taken and graded for presence
+and severity of DR, according to the modified Arlie House definition. For this analysis, a person
+with diabetes was considered to have DR if the grade exceeded 31 (moderate to proliferative
+retinopathy) in at least one eye. 3
+An ophthalmologist examined lenses at the slit lamp. The Wilmer grading scheme was used to
+grade the severity and the type of lens opacity. 18 For the purpose of this analysis, individuals
+were considered to have cataract if they had a nuclear grade of 4 (the highest grade), a cortical
+grade higher than 0.5, or posterior subcapsular cataract (PSC) in at least one eye. The narrowness
+of the This
+anterior
+chamber
+alsocontinuing
+examinedto
+at use
+the our
+slit lamp.
+was By
+site uses
+cookies.
+website, you are agreeing to
+our privacy policy. | Accept
+
+
+[page 5]
+To identify glaucoma (open-angle and angle-closure), a glaucoma specialist (HAQ) reviewed charts
+of persons with the following characteristics: history of glaucoma, glaucoma thought to be
+present by the examining ophthalmologist, IOP of 22 mm Hg or more in either eye, shallow
+anterior chamber, visual field defect, or cup-to-disc ratio of 0.7 or greater. Visual field testing was
+performed in each eye that had 20/200 or better visual acuity with a threshold-testing program
+(Swedish interactive test algorithm [SITA] Fast, 24-2 protocol of the Zeiss-Humphrey Humphrey
+Field Analyzer [HFA II] instrument, Zeiss-Humphrey Systems, Dublin, CA). Applanation tonometry
+was performed in each person. Methods for diagnosing open-angle glaucoma and angle-closure
+glaucoma are described elsewhere. 4
+Blood pressure was measured three times, according to a standardized protocol. 19 The average
+of the final two readings was used to characterize blood pressure. Hypertension was defined as a
+positive answer to the question of whether the person has hypertension and is currently under
+treatment with antihypertensive medication or has systolic pressure of 160 mm Hg or higher or
+diastolic blood pressure of 90 mm Hg or higher.
+
+Statistical Analysis
+In previous work 13 we showed that the NEI-VFQ-25 was not only influenced by visual function, but
+by other demographic factors as well: age, gender, level of acculturation, income level, education
+level, location (Nogales or Tucson), and self-report of having medical insurance. These
+confounders were chosen because of their demonstrated effects on self-reported quality of life in
+this population and their association with eye disease. We adjusted for all these variables in the
+ensuing multivariate regression models to obtain more precise estimates of the relationship of
+vision with quality-of-life domains. Although diabetes was an important comorbid condition in this
+population, the models do not include diabetes as a covariate, because of its high association
+with DR; however, we adjusted for the presence of hypertension as a representative of comorbid
+conditions. All covariates, except age, were modeled as categorical variables.
+We used presenting acuity in the better-seeing eye to characterize vision used on a daily basis.
+This approach was reasonable, because acuity in the better eye has been shown to be as good a
+predictor of self-reported functional status as other approaches of summarizing better- and
+worse-eye acuity. 20 We modeled presenting acuity as a continuous variable (logMAR units) and
+analyzed the strength of the association between lines lost and subscale score.
+We also This
+explored
+whether
+monocular
+impairment
+(presenting
+acuity are
+in the
+worsetoeye worse than
+ By
+site uses
+cookies.
+continuing
+to use our
+website, you
+agreeing
+our acuity
+privacyin the
+policy. |
+Accept
+20/40 and
+fellow
+eye of 20/40 or better) influenced quality-of-life domains.
+
+
+[page 6]
+Participants with presenting acuity in the better eye of 20/40 or better were used in the analysis,
+and comparisons were made between those with no impairment (both eyes had 20/40 or better
+acuity) and those who had monocular impairment (one eye had worse than 20/40 acuity). In
+addition, we adjusted for acuity in the better eye, because those with monocular impairment
+were more likely to have lower presenting acuity in the better eye than those without
+impairment.
+Also assessed were the individual contributions of glaucoma, DR, cataract, and refractive error on
+quality-of-life-domains. In a first model, we assessed these additive contributions without
+accounting for acuity impairment, to determine the contribution a particular disease has on
+quality of life. Those with any of these eye diseases or refractive error were compared with those
+with no evidence of eye disease nor refractive error. However, eye disease per se would not be
+expected to impact on quality of life unless there were an associated impact on some aspect of
+vision. In a second model, we tested this hypothesis by evaluating the additive contributions of
+eye disease (glaucoma, DR, and/or cataract) on quality of life, with adjustment for presenting
+acuity. In a third analysis, we added to the model second-order interaction terms between eye
+disease variables, to observe whether decrements in quality of life due to eye disease acted
+additively, or whether extra decrements occurred when two diseases were present. Participants
+with vision loss not due to glaucoma, DR, or cataract (e.g., macular degeneration, amblyopia,
+trauma) were excluded from these analyses because there were small numbers of people in
+these categories.
+Because the data are from a cross-sectional sample, all inferences regarding the relationship of
+acuity and quality-of-life scores refer to the comparison of quality-of-life measures between
+individuals with different levels of acuity. Use of the words “decrement,” “decline,” or “loss” are
+meant only to describe the relationship between the measures of interest, rather than to imply a
+longitudinal shift in quality of life with a change in vision (or other measure).
+Preliminary analysis showed that some NEI-VFQ-25 subscales had a potentially nonlinear
+relationship with presenting acuity: Distance Vision, Driving, and Mental Health. For these
+subscales, we allowed the slope of presenting acuity to change for acuity worse than 20/40 (spline
+regression).
+Subscale score distributions were skewed toward the higher scores (e.g., ratings of excellent or no
+difficulty),
+linear
+residuals to that
+independent
+butagreeing
+non-normally
+distributed.
+ model
+Thisresulting
+site usesincookies.
+By continuing
+usewere
+our website,
+you are
+to
+Confidence
+intervals
+will suggest
+our privacy
+policy.
+| Acceptfalse significance, because the standard error calculation from
+
+
+[page 7]
+such models is based on residuals that are normally distributed. To better characterize the
+variation of the parameter estimates, we performed a nonparametric bootstrap on all models. A
+participant’s information was drawn at random, with replacement, from the observed values.
+Estimates from the linear models were calculated (a bootstrap estimate), and this process was
+repeated to create 1000 bootstrap estimates. A 95% bias-corrected confidence interval, was
+calculated, using the 2.5th and 97.5th percentiles of the bootstrap distributions.
+
+Results
+Of the 4774 participants in the study, 13 (0.3%) had questionnaires completed by proxy and 7
+participants refused to undergo measurement of refraction. Of the remainder, 175 participants
+did not receive a complete eye disease assessment, and 29 were diagnosed with eye disease
+other than glaucoma, DR, or cataract. These latter two groups totaling 204 were excluded from
+the analyses of eye disease and quality of life.
+The average age for our sample was 56.9 years (range, 40–96; Table 2 ). Approximately two thirds
+of this sample had a yearly income below $20,000 and had less than a high school education. The
+participants had low acculturation scores, with a mean of 1.99 ± 0.95 (SD). Almost 80% chose to
+take the questionnaire in Spanish.
+Table 3 describes the average decrement in score for each 2 lines of presenting acuity lost for
+each subscale of the NEI-VFQ-25. In all domains, scores showed significant decline as the logMAR
+increased, after adjustment for demographic variables. The slope change was the steepest in the
+domains of Role Difficulties (−6.23 change in score per 2 lines lost), Dependency (−5.27 change in
+score per 2 lines lost), and Near Vision (−5.26 change in score per 2 lines lost). For subscales with
+nonlinear associations with acuity, there were significantly steeper declines for those with vision
+worse than 20/40, especially in the Driving subscale, which showed a decline of −11.6 for every 2
+lines lost.
+Of the 4368 participants with presenting acuity in the better eye of 20/40 or better, 663 (15.2%)
+had acuity worse than 20/40 in the other eye (monocular impairment). Those with monocular
+impairment had average presenting acuity in the better eye of 0.12 ± 0.13 (SE) logMAR. In those
+with no impairment, average presenting acuity in the better eye was −0.04 ± 0.11 logMAR.
+Monocular impairment was associated with a modest decrease in quality of life, in all domains
+except General Health, Near Vision, Color Vision, and Ocular Pain (Table 4) . The greatest
+ By continuing to use our website, you are agreeing to
+This site uses cookies.
+our privacy policy. | Accept
+
+
+[page 8]
+decrements in scores of those with monocular impairment occurred in the visual tasks of Driving
+(−5.68) and General Vision (−3.44), as well as in Role Function (−4.43).
+Subjects with cataract had mean better-eye acuity comparable to the acuity of those with
+glaucoma and DR (Table 5) . Most persons with cataract had PSC only (149/374; 39.8%) or mixed
+cataract (86/374; 23.0%), with the greatest acuity impairment in those with nuclear cataract
+(average, 0.29 logMAR) and mixed cataract (average, 0.36 logMAR).
+After adjustment for demographic variables, those with glaucoma, DR, cataract, and uncorrected
+refractive error were found to have lower scale scores than those without disease in general
+(Table 6) . Those with glaucoma had significantly lower scores in all domains except General
+Health and Ocular Pain than did those with no eye disease. Those with DR had significantly lower
+scores in all domains. The largest decrease occurred in General Health, which was expected,
+because these participants had diabetes. Those with glaucoma or DR reported larger decreases in
+the areas of Near and Distance Vision, Driving, and Peripheral Vision and in the psychosocial
+domains of Role Difficulties, Dependency, Social Function, and Mental Health than did those with
+cataract or uncorrected refractive error.
+The association of eye disease with quality-of-life-domains was not as strong after adjustment for
+presenting acuity; however, there still were significant effects of disease (Table 7) . For glaucoma,
+the difference in scores after adjustment for acuity was modest, in most cases only one point or
+less different from scores that were not adjusted for acuity. For DR, the change in scores was
+slightly greater (except for General Health), but still the overall decrement in scale scores with DR
+was large, after adjustment for acuity. None of the scale scores was significantly different
+between those with cataract and those with no eye disease, except in Driving, after adjustment
+for acuity. This suggests that the effect of cataract on quality of life in this population was due to
+the effect on decreasing acuity.
+The models that included interactions between glaucoma, cataract, and DR, suggested that
+multiple eye disease was associated with additional decrements in quality of life, beyond the
+additive decrements associated with each disease separately. Table 8 shows the proportion of
+our participants with different combinations of eye disease. After adjustment for demographic
+variables, there was a significant additional decrement in score (range, −20.2 to −8.5, P < 0.05) in
+the scales of Near and Distant Vision, Driving, Ocular Pain, Role Function, Dependency, Mental
+Health, This
+andsite
+Color
+Vision
+with both to glaucoma
+and cataract.
+There
+was a to
+significant
+for those
+uses
+cookies.
+By continuing
+use our website,
+you are
+agreeing
+decrease
+Driving,
+Role Function,
+our in privacy
+policy.
+| Accept and Dependency (range, −17.8 to −14.5, P < 0.05) for those
+
+
+[page 9]
+with glaucoma and DR, and there was also a significant decrease in the Driving score (−8.7, P =
+0.04) for those with DR and cataract. However, the number of persons with combinations of eye
+disease was small and did not permit more detailed analyses.
+
+Discussion
+Visual acuity impairment was significantly associated with a decrement in all measured domains
+of self-reported, vision-related quality of life in this sample of Mexican-Americans. For some
+physical tasks, related to driving and distance vision, steeper decreases in scores were observed
+once presenting acuity was worse than 20/40. Steeper declines in the mental health scale were
+also observed. These data suggest that self-reported decrement in quality of life was present even
+with modest visual loss, and that there was no threshold effect. The finding of a modest
+decrement in scores among those with monocular impairment with better-eye presenting acuity
+of 20/40 or better, further supports this statement.
+Participants with glaucoma reported difficulties with driving and tasks of peripheral vision and
+feelings of dependency. The restrictions on independent functioning imposed by driving
+difficulties may have contributed to reports of low scores in dependency. The scores changed
+only slightly after adjustment for acuity, which was expected because glaucoma affects peripheral
+field before central field. Most persons with glaucoma do not lose central acuity until late in the
+course of disease (although, in this population, glaucoma was the leading cause of blindness 21 ).
+Participants with DR reported low scores in all domains, especially in general health. These
+participants, by definition, all had diabetes, and therefore low scores in health were expected. It is
+interesting that those with DR also reported low scores in near and distance tasks and that most
+of these difficulties were not explained by decreased acuity. A further analysis of the impact of DR
+on other measures of vision is warranted, because decrement in ability to perform these
+functions may explain decrements in quality of life better than impairment of acuity.
+We have shown in previous work that the impact on self-reported physical function with loss in
+multiple measures of visual function is additive. 22 For example, decreases in acuity and loss of
+visual fields produced additive effects on difficulties with physical function. In this study, we
+observed that the impact of cataract on quality of life was largely mediated through its effect on
+acuity alone. However, glaucoma and DR probably have other effects, apart from acuity, that have
+an impact on quality of life. Our findings are consistent with our previous work, in that those with
+ By continuing to use our website, you are agreeing to
+This site uses cookies.
+our privacy policy. | Accept
+
+
+[page 10]
+glaucoma and DR were associated with larger decrements in scale scores than those with
+cataract.
+Mangione et al. 12 found similar results, in that patients with glaucoma, DR, and cataract had
+lower scores in all domains than did those with no evidence of eye disease. It is interesting that
+those with uncorrected refractive error reported decrements in quality of life that were
+comparable to decrements reported by participants with cataract. A prospective study would
+determine whether provision of adequate correction would result in improvement in function in
+all these domains. Although it is reasonable to suppose that difficulties in tasks embedded in the
+near distance and driving scales would be resolved with adequate correction, the impact on
+psychological and social function is not clear and deserves study.
+Having more than one eye disease appeared to have a multiplicative effect in most domains,
+especially in participants with glaucoma and cataract. This finding suggests that removing cataract
+in the presence of other eye disease may significantly improve quality of life in these subjects.
+A main limitation in our analysis of visual impairment and vision-related quality of life was the
+availability of data only on central acuity impairment. Clearly, visual impairment may have
+multiple dimensions, such as loss of contrast sensitivity, peripheral field, stereo acuity, and other
+measures. 23 We did not capture other aspects of visual impairment, except for visual fields, which
+were used in the diagnosis of glaucoma. Decrements in these other aspects of vision may
+correlate more closely with decrements in specific domains. Also, we did not collect detailed
+comorbidity information from participants. Information such as hearing loss, heart disease,
+arthritis, or stroke may have been useful in also predicting declines in domains such as Social
+Function and Dependency. Obviously, increasing severity of disease would have some impact on
+vision and thus an increasing impact on quality of life, but we did not make such an analysis. We
+also did not address disease-specific issues, such as the effect of visual field loss on quality of life
+in those with glaucoma.
+In summary, our data suggest that visual acuity impairment, in both the better- and the worse seeing eyes, was associated with a decrease in quality of life within the Mexican-American sample
+studied, and the steepness of that decrease was associated with level of visual impairment.
+Uncorrected refractive error, cataract, DR, and glaucoma all were associated with decrements in
+quality of life, many not explained by the impact of acuity. Further longitudinal studies on the
+impact This
+of remediation
+of
+on quality
+of life
+this population
+warranted.
+vision
+site uses cookies.
+By loss
+continuing
+to use
+our in website,
+you are are
+agreeing
+to
+our privacy policy. | Accept
+
+
+[page 11]
+3 Deceased, September 2002.
+
+Supported by Grant U10-EY11283 from the National Eye Institute. SKW is a Research to Prevent
+Blindness Senior Scientific Investigator.
+Submitted for publication August 13, 2001; revised May 1, 2002; accepted May 30, 2002.
+Commercial relationships policy: N.
+The publication costs of this article were defrayed in part by page charge payment. This article
+must therefore be marked “advertisement” in accordance with 18 U.S.C. §1734 solely to indicate
+this fact.
+Corresponding author: Sheila K. West, Wilmer Eye Institute, Room 129, Johns Hopkins Hospital,
+600 N. Wolfe Street, Baltimore, MD 21287; shwest@jhmi.edu.
+
+Table 1.
+
+
+View Table
+1996 NEI-VFQ-25
+
+Table 2.
+
+
+View Table
+Characteristics of Mexican-American Participants in Proyecto VER
+
+TableThis
+3. site uses cookies.
+ By continuing to use our website, you are agreeing to
+our privacy policy. | Accept
+
+
+[page 12]
+
+View Table
+Relationship of Presenting Acuity in the Better Eye to Scale Scores of The NEI-VFQ 25, Adjusting
+for Demographic Factors
+
+Table 4.
+
+
+View Table
+Degree of Decrement in Subscale Scores of Those with Monocular Presenting Acuity Impairment,
+Compared with Those with 20/40 or Better Acuity in Both Eyes
+
+Table 5.
+
+
+View Table
+Comparison of Mean LogMAR Acuity in the Better Eye of Participants with Cataract, Glaucoma, or
+DR
+
+Table 6.
+
+
+
+ By continuing to use our website, you are agreeing to
+This site uses cookies.
+our privacy policy. | Accept
+
+
+[page 13]
+View Table
+Effect of Eye Disase on NEI-VFQ-25 Scale Scores, Compared with Those with No Eye Disease, and
+Adjusting for Demographic Variables
+
+Table 7.
+
+
+View Table
+Effect of Eye Disease on NEI-VFQ-25 Scale Scores, Adjusted for Presenting Acuity and Other
+Demographic Variables
+
+Table 8.
+
+
+View Table
+Eye Disease Categories
+
+The authors thank Gary Rubin, Karen Bandeen-Roche, and the anonymous referees for their
+advice and input; and team of Proyecto VER for their skill and support.
+1
+
+Novello AC, Wise PH, Kleinman DV. Hispanic health: time for data, time for action. JAMA. 1991;265:253–
+255. [CrossRef] [PubMed]
+
+2
+
+Munoz B, West SK, Rodriguez J, et al. Blindness, visual impairment and the problem of uncorrected
+refractive error in a Mexican-American population: Proyecto VER. Invest Ophthalmol Vis Sci. 2002;43:608–
+This site uses cookies. By continuing to use our website, you are agreeing to
+614. [PubMed]
+
+
+
+our privacy policy. | Accept
+
+
+[page 14]
+3
+
+West SK, Klein R, Rodriguez J, et al. Diabetes and diabetic retinopathy in a Mexican-American population:
+Proyecto VER. Diabetes Care. 2001;24:1204–1209. [CrossRef] [PubMed]
+
+4
+
+Quigley HA, West SK, Rodriguez J, Munoz B, Klein R, Snyder R. The prevalence of glaucoma in a population based study of Hispanic subjects. Arch Ophthalmol. 2001;119:1819–1826. [CrossRef] [PubMed]
+
+5
+
+Mangione CM, Gutierrez PR, Lowe G, Orav EJ, Seddon JM. Influence of age-related maculopathy on visual
+functioning and health-related quality of life. Am J Ophthalmol. 1999;128:45–53. [CrossRef] [PubMed]
+
+6
+
+West SK, Munoz B, Rubin GS, et al. Function and visual impairment in a population-based study of older
+adults: The SEE Project. Invest Ophthalmol Vis Sci. 1997;38:72–81. [PubMed]
+
+7
+
+Steinberg EP, Tielsch JM, Schein OD, et al. The VF-14: An index of functional impairment in patients with
+cataract. Arch Ophthalmol. 1994;112:630–638. [CrossRef] [PubMed]
+
+8
+
+Scott IU, Smiddy WE, Schiffman J, Feuer WJ, Pappas CJ. Quality of life of low-vision patients and the impact
+of low vision services. Am J Ophthalmol. 1999;128:54–62. [CrossRef] [PubMed]
+
+9
+
+Wang JJ, Mitchell P, Smith W, Cumming RG, Attebo K. Impact of visual impairment on use of community
+support services by elderly persons: The Blue Mountain Eye Study. Invest Ophthalmol Vis Sci. 1999;40:12–
+19. [PubMed]
+
+10
+
+Parrish RK. Visual impairment, visual functioning, and quality of life assessments in patients with
+glaucoma. Trans Am Ophthalmol Soc. 1996;94:919–1028. [PubMed]
+
+11
+
+Klein R, Moss SE, Klein BEK, Gutierrez P, Mangione CM. The NEI-VFQ-25 in people with long-term type I
+diabetes mellitus. Arch Ophthalmol. 2001;119:733–740. [CrossRef] [PubMed]
+
+12
+
+Mangione CM, Lee PP, Pitts J, Gutierrez P, Berry S, Hays RD. Psychometric properties of the National Eye
+Institute visual function questionnaire (NEI-VFQ). Arch Ophthalmol. 1998;116:1496–1504. [CrossRef]
+[PubMed]
+
+13
+
+Broman AT, Munoz B, West SK, et al. Psychometric properties of the 25-item NEI-VFQ in a Hispanic
+population: Proyecto VER. Invest Ophthalmol Vis Sci. 2001;42:606–613. [PubMed]
+
+14
+
+Delgado JL, Johnson CL, Roy I, Trevino FM. Hispanic Health and Nutrition Examination Survey:
+methodological considerations. Am J Public Health. 1990;80:6–10. [CrossRef] [PubMed]
+
+15
+
+Espino DV, Maldonado D. Hypertension and acculturation in elderly Mexican Americans: results form
+1982–84 Hispanic HANES. J Gerontology. 1990;45:M209–M213. [CrossRef]
+
+16
+
+Mangione CM, Lee PP, Gutierrez PR, et al. Development of the 25-item National Eye Institute visual
+function questionnaire. Arch Ophthalmol. 2001;119:1050–1058. [CrossRef] [PubMed]
+
+17
+
+Ferris FL, Kassof A, Bresnick GH, Baily I. New visual acuity charts for clinical research. Am J Ophthalmol.
+1982;94:91–96.
+[CrossRef]
+This site uses
+cookies.[PubMed]
+By continuing to use our website, you are agreeing to
+
+18
+
+
+
+our privacy policy. | Accept
+
+
+[page 15]
+West SK, Munoz B, Schein OD, Duncan DD, Rubin GS. Racial differences in lens opacities: The Salisbury Eye
+Evaluation (SEE) Project. Am J Epidemiol. 1998;148:1033–1039. [CrossRef] [PubMed]
+19
+
+The 1988 report of the Joint National Committee on detection, education and treatment of high blood
+pressure. Arch Intern Med. 1988;148:1023–1038. [CrossRef] [PubMed]
+
+20
+
+Rubin GS, Munoz B, Bandeen-Roche K, West SK. Monocular versus binocular visual acuity as measures of
+vision impairment and predictors of visual disability. Invest Ophthalmol Vis Sci. 2000;41:3327–3344.
+[PubMed]
+
+21
+
+Rodriguez J, Sanchez R, Munoz B, et al. Causes of blindness and visual impairment in a population-based
+sample of U. S. Hispanics. Ophthalmology. 2002;109:737–743. [CrossRef] [PubMed]
+
+22
+
+Rubin GS, Bandeen-Roche K, Huang GH, et al. The Association of multiple visual impairments with self reported visual disability: SEE Project. Invest Ophthalmol Vis Sci. 2001;42:64–72. [PubMed]
+
+23
+
+Rubin GS, West SK, Munoz B, et al. A comprehensive assessment of visual impairment in a population of
+older Americans. Invest Ophthalmol Vis Sci. 1997;38:557–568. [PubMed]
+
+Copyright 2002 The Association for Research in Vision and Ophthalmology, Inc.
+
+ By continuing to use our website, you are agreeing to
+This site uses cookies.
+our privacy policy. | Accept
+

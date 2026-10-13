@@ -1,0 +1,1877 @@
+[page 1]
+University of Southern Denmark
+
+Prevalence of Charles Bonnet syndrome in low vision
+
+a systematic review and meta-analysis
+Subhi, Yousif; Nielsen, Mads Assenholt; Scott, Daniel Andrew Richard; Holm, Lars Morten;
+Singh, Amardeep
+Published in:
+Annals of Eye Science
+DOI:
+10.21037/aes-21-37
+Publication date:
+2022
+Document version:
+Final published version
+Document license:
+CC BY-NC-ND
+Citation for pulished version (APA):
+Subhi, Y., Nielsen, M. A., Scott, D. A. R., Holm, L. M., & Singh, A. (2022). Prevalence of Charles Bonnet
+syndrome in low vision: a systematic review and meta-analysis. Annals of Eye Science, 7, Article 6793.
+https://doi.org/10.21037/aes-21-37
+
+Go to publication entry in University of Southern Denmark's Research Portal
+
+Terms of use
+This work is brought to you by the University of Southern Denmark.
+Unless otherwise specified it has been shared according to the terms for self-archiving.
+If no other license is stated, these terms apply:
+• You may download this work for personal use only.
+• You may not further distribute the material or use it for any profit-making activity or commercial gain
+• You may freely distribute the URL identifying this open access version
+If you believe that this document breaches copyright please contact us providing details and we will investigate your claim.
+Please direct all enquiries to puresupport@bib.sdu.dk
+
+Download date: 05. okt.. 2026
+
+
+[page 2]
+Original Article
+
+Page 1 of 12
+
+Prevalence of Charles Bonnet syndrome in low vision:
+a systematic review and meta-analysis
+Yousif Subhi1,2^, Mads Assenholt Nielsen1,3, Daniel Andrew Richard Scott4^, Lars Morten Holm1,3,
+Amardeep Singh1,3^
+1
+
+Department of Ophthalmology, Rigshospitalet, Glostrup, Denmark; 2Department of Clinical Research, University of Southern Denmark, Odense,
+
+Denmark; 3Faculty of Health and Medical Sciences, University of Copenhagen, København, Denmark; 4Department of Ophthalmology, Waikato
+District Health Board, Hamilton, New Zealand
+Contributions: (I) Conception and design: Y Subhi, LM Holm, A Singh; (II) Administrative support: Y Subhi; (III) Provision of study materials or
+patients: Y Subhi; (IV) Collection and assembly of data: Y Subhi, MA Nielsen, DAR Scott; (V) Data analysis and interpretation: All authors; (VI)
+Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.
+Correspondence to: Yousif Subhi, MD, PhD. Department of Ophthalmology, Rigshospitalet, Valdemar Hansens Vej 3, DK-2600 Glostrup, Denmark.
+Email: ysubhi@gmail.com.
+
+Background: Charles Bonnet syndrome (CBS) is characterized by vivid lifelike visual hallucinations and
+is typically seen in individuals with visual impairment. In this systematic review, we summarize current
+knowledge on the prevalence of CBS in patients with low vision.
+Methods: We searched 11 literature databases on 21 April 2021 for studies on the prevalence of CBS in low
+vision populations. Our protocol was registered in the PROSPERO database (reg. No. CRD42021255021).
+Eligible studies were defined as those on a population of low vision patients wherein the prevalence of
+CBS was evaluated (without any further restriction on the method for diagnosis of CBS). No restriction
+was enforced on study design, but we expected observational cross-sectional studies due to the nature of
+our research question. Two authors independently extracted data and evaluated risk of bias of individual
+studies using the Agency for Healthcare Research and Quality checklist for cross-sectional studies. Studies
+underwent qualitative review in the text and quantitatively in a prevalence meta-analysis using the random effects model. Sensitivity analysis was made to evaluate the robustness of the summary estimate.
+Results: We identified 11 studies, which summarized data on 4,521 individuals with visual impairment.
+Diagnosis of CBS was based on screening questions or interviews, which in positive cases often was explored
+in more detail with follow-up questions or interviews. Most studies either had normal mental state as a
+participant eligibility criterion or as a part of the diagnosis of CBS. The pooled prevalence of CBS in low
+vision patients aged ≥40 years was 19.7% (95% CI: 13.8% to 26.4%). The sensitivity analysis showed certain
+robustness in the summary prevalence estimate wherein prevalence estimates ranged from 16.9% to 22.5%.
+Conclusions: CBS is a prevalent condition in patients with low vision at a rate of approximately one in five
+patients. Considering that an estimated 239 million individuals have moderate visual impairment or worse,
+we estimate a global number of patients with CBS at approximately 47.2 million.
+Keywords: Charles Bonnet syndrome (CBS); visual hallucinations; low vision
+Received: 05 August 2021; Accepted: 16 January 2022; Published: 15 June 2022.
+doi: 10.21037/aes-21-37
+View this article at: https://dx.doi.org/10.21037/aes-21-37
+
+^ ORCID: Yousif Subhi, 0000-0001-6620-5365; Daniel Andrew Richard Scott, 0000-0002-0954-582X; Amardeep Singh, 0000-0003-1955-4081.
+
+© Annals of Eye Science. All rights reserved.
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 3]
+Page 2 of 12
+
+Introduction
+Charles Bonnet syndrome (CBS), named after the Genevan
+natural historian Charles Bonnet, is the occurrence of
+complex visual hallucinations in patients with visual
+impairment and partial or complete insight into the unreal
+nature of the visual experience (1). As a consequence
+of his own gradual vision loss, Bonnet’s interest turned
+to philosophy and mental health and in year 1769, he
+published a book on his observations (Essai Analytique sur
+les Facultés de l’Ame; English: Analytical Essays Concerning the
+Faculties of the Mind). In this book, he described his mentally
+healthy, but blind 87-year-old grandfather, who saw faces,
+birds, horse carriages, and buildings, and was perfectly
+aware that these observations were unreal (2). The term
+CBS was coined by the French neurologist Georges de
+Morsier in a publication in 1967 titled, ‘Visual hallucinations
+in the aged without mental deficiency’ (3). The pathophysiology
+of CBS is not completely understood, although it is thought
+to be an interplay of higher cortical level inputs producing
+complex visual hallucinations (4).
+Although many ophthalmologists have background
+knowledge of CBS, one common presumption is that
+it is rarely seen in eye clinics. However, studies suggest
+that CBS may be more common than anticipated when
+patients are systematically interviewed for presence of CBS
+(5,6). CBS has also been described in numerous other less
+common ophthalmic conditions (7-11). One explanation
+for the discrepancy in the perceived rarity of this condition
+and its actually relatively common occurrence may be
+that the patients might not discuss visual hallucinations
+with their ophthalmologist for various reasons, e.g., taboo
+subject in many cultures, self-perceived irrelevance to their
+eye condition, association of visual hallucinations with
+neurodegenerative or psychiatric disease and unawareness
+of CBS (4,12).
+The topic of CBS is receiving increasingly more
+attention (13). The latest revision of the International
+Classification of Diseases version 11 (ICD-11) by the World
+Health Organization has allocated a specific diagnose code
+for CBS: 9D56 Visual release hallucinations “Charles Bonnet
+syndrome, also called visual release hallucinations, refers to the
+experience of complex visual hallucinations in a person who has
+experienced partial or complete loss of vision. Hallucinations are
+exclusively visual, usually temporary, and unrelated to mental
+and behavioural disorders.” (14). Furthermore, patient
+support groups specific to CBS have emerged and work
+with healthcare stakeholders for improving awareness,
+
+© Annals of Eye Science. All rights reserved.
+
+Annals of Eye Science, 2022
+
+diagnosis, support, and research funding specific to
+CBS (13). However, one question remains unanswered, and
+is of high importance for stakeholders when planning and
+allocating resources to CBS: Exactly how common is CBS
+in patients with low vision? In this systematic review and
+meta-analysis, we aim to answer this question through a
+systematic review of published studies with a meta-analysis
+to provide a summary prevalence estimate. We present
+the following article in accordance with the PRISMA
+checklist (available at https://aes.amegroups.com/article/
+view/10.21037/aes-21-37/rc) (15).
+Methods
+Our protocol was registered in the PROSPERO database
+(reg. no. CRD42021255021) (https://cdn.amegroups.cn/
+static/public/aes-21-37-1.pdf) (16). According to Danish
+Law, institutional review board approval is not relevant for
+systematic reviews.
+Eligibility criteria
+Eligible studies were defined as those on a population of low
+vision patients wherein the prevalence of CBS was evaluated
+(without any further restriction on the method for diagnosis
+of CBS). We focused on studies considering a consecutive
+group of low vision patients, i.e., not studies of specific eye
+diseases but rather prevalence studies in low vision clinics
+or population-based studies of low vision individuals. No
+restriction was enforced on study design, but we expected
+observational cross-sectional studies due to the nature of
+our research question. Studies only reported as conference
+abstract were considered eligible. We did not consider case
+reports or review papers without original data. We did not
+restrict studies based on geography or journal, but only
+considered studies disseminated in English language.
+Information sources, search, and study selection
+We searched the following literature databases: PubMed/
+MEDLINE, EMBASE, Web of Science Core Collection,
+BIOSIS Previews, Current Contents Connect, Data
+Citation Index, Derwent Innovations Index, KCI-Korean
+Journal Database, Russian Science Citation Index, SciELO
+Citation Index, and the Cochrane Central. Details of our
+search strategy in individual databases are available as
+https://cdn.amegroups.cn/static/public/aes-21-37-2.pdf.
+The search was performed on April 21st, 2021.
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 4]
+Annals of Eye Science, 2022
+
+One author (Y Subhi) examined the title and abstracts
+of all identified records and removed those deemed as
+obviously irrelevant or duplicates. Two authors (Y Subhi
+and MA Nielsen) then independently examined remaining
+references in full text for eligibility. References from these
+studies were also screened for any additional relevant
+studies. Disagreements in study selection were discussed
+between the authors, and where consensus could not be
+reached a third author (A Singh) would be included for final
+decision making.
+Data collection and risk of bias of individual studies
+We extracted data on study characteristics, population
+characteristics, diagnosis of CBS and prevalence of CBS
+using pre-designed study data extraction form. If studies
+reported data on several groups, we focused our data
+extraction for the quantitative analyses on those with best corrected visual impairment of the best-seeing eye of 6/18
+or worse and on adults aged ≥40 years. We enforced age
+restriction on data to focus the data analysis on the acquired
+causes of visual impairment, as the relationship between
+visual impairment from childhood and visual hallucinations
+is hypothesized to be more complex and different from
+those acquired in later age. If these visual acuity or age
+criteria could not be fulfilled, we extracted data where we
+anticipated that the majority of cases would fulfill these
+criteria. Since we anticipated that the majority of studies
+would be of cross-sectional design, we evaluated quality of
+eligible studies using relevant items from the Agency for
+Healthcare Research and Quality (AHRQ) checklist for
+Cross-Sectional Studies, which is the recommended tool for
+evaluating cross-sectional studies (17).
+Two authors (Y Subhi and DAR Scott) extracted data and
+evaluated risk of bias of individual studies in an independent
+fashion. Any disagreements between the authors were
+discussed and where consensus could not be reached a
+third author (A Singh) would be included for final decision
+making.
+Statistical analysis, synthesis of results, summary measures,
+and risk of bias across studies
+Eligible studies were described in text and summarized in
+tables for a qualitative synthesis. The primary outcome
+measure was the prevalence of CBS in low vision patients.
+Meta-analysis was made using MetaXL 5.3 (EpiGear
+International, Sunrise Beach, QLD, Australia) for Microsoft
+
+© Annals of Eye Science. All rights reserved.
+
+Page 3 of 12
+
+Excel 2013 (Microsoft, Redmont, WA, USA). We used the
+random-effects model to account for potential heterogeneity
+across studies. In prevalence meta-analyses, caution must
+be shown when numbers are close to the extremes (0% or
+100%) because of variance instability, which results in studies
+getting erroneous weights (18). Therefore, all prevalence
+numbers were transformed using the double arcsine method
+for analysis and then back-transformed for interpretation (18).
+Heterogeneity was assessed using the Cochran’s Q and I2 (19).
+We used a Funnel plot to identify skewed results and evaluate
+possible publication bias (20). Individual prevalence estimates
+and the pooled summary measure prevalence estimate
+was presented using a Forest plot (21). Sensitivity analysis
+was made by removing studies in turn and evaluating the
+magnitude of the change of the results.
+Results
+Study selection
+The literature search across multiple databases identified
+a total of 350 records, and three additional records was
+known to us a priori. After discarding duplicates (n=71),
+obviously irrelevant records (n=266), 16 records remained
+and were screened in full text. Of these, five were excluded
+because they did not fulfill our eligibility criteria (Figure 1).
+Eleven records were deemed eligible and included for the
+qualitative and quantitative review.
+Study characteristics
+The eleven studies included in the review collectively
+summarized data on 4,521 individuals with visual
+impairment. Study characteristics and definitions used in
+the individual studies are summarized in Table 1. Studies
+were designed as cross-sectional (n=8) or cohort studies
+(n=3); however, all reported prevalence data were cross sectional data. Studies were based on populations in North
+America (n=4), Europe (n=4), Asia (n=2), and Oceania
+(n=1). Apart from the study from India by Marmamula
+et al. (2019) where the majority were diagnosed with
+cataract (22), and two studies with no data on diagnoses, the
+majority of patients in the remaining studies had a clinical
+diagnosis of age-related macular degeneration (AMD).
+Diagnosis of CBS was based on screening questions or
+interviews, which in positive cases often were explored in
+more detail with follow-up questions or further interviews
+(Table 1). Most studies either had normal mental state as a
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 5]
+Page 4 of 12
+
+Annals of Eye Science, 2022
+
+Identification of studies via databases
+
+Screening
+
+Identification
+
+Records identified from:
+PubMed/Medline (n=216)
+Cochrane Library (n=0)
+Embase (n=76)
+
+Records removed before screening:
+Duplicate records removed (n=71)
+
+Web of Science (n=58)
+Known to us a priori (n=3)
+
+Records screened (n=282)
+
+Records excluded (n=266)
+
+Reports sought for retrieval (n=16)
+
+Reports not retrieved (n=0)
+
+Reports excluded:
+Reports assessed for eligibility (n=16)
+
+Participants not eligible for this
+review (n=3)
+Case report (n=1)
+
+Included
+
+No original data (n=1)
+Studies included in review (n=11)
+Reports of included studies (n=11)
+
+Figure 1 Flow diagram of study selection process.
+
+participant eligibility criterion or as a part of the diagnosis
+of CBS (Table 1). The diagnostic definition of CBS was not
+outlined in six studies, and based on a set of criteria for the
+diagnosis of CBS in two studies, based on whether or not
+visual hallucinations were complex in two studies, based on
+psychiatrist evaluation without any further details in one
+study (Table 1).
+Individual studies
+Crumbliss et al. (2008) evaluated presence of CBS in
+consecutive patients presenting for initial evaluation to a
+visual rehabilitation clinic (23). Of the 12 individuals with
+visual hallucinations categorized as CBS, six had daily
+events with CBS hallucinations (23). Elflein et al. (2016)
+investigated CBS in a visual rehabilitation clinic where
+
+© Annals of Eye Science. All rights reserved.
+
+patients with visual impairment stratified according to
+age (≤40 years vs. >40 years), and a control group without
+visual impairment stratified according to age (≤40 years vs.
+>40 years) (24). The control group did not experience any
+visual hallucinations regardless of age (24). The authors
+found a small but statistically insignificant difference in the
+prevalence of CBS between young and older patients with
+visual impairment (24). Gilmour et al. (2009) did not find
+differences in prevalence of CBS across different diagnoses
+among attendees of a low vision clinic (25). There was a
+trend of higher likelihood of CBS with longer duration
+of the disease (25). Gordon (2016) surveyed new patients
+of a national low vision institute and found that the risk
+of CBS correlated with the extent of vision loss and that
+the underlying ophthalmic diagnosis did not influence
+the risk of CBS (26). Jackson et al. (2007) evaluated the
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 6]
+Annals of Eye Science, 2022
+
+Page 5 of 12
+
+Table 1 Characteristics of studies included in the review
+Reference
+
+Country
+
+Study design
+
+Population description
+
+Sample size
+
+Demographics
+
+Clinical diagnoses
+
+Diagnosis of CBS
+
+Definition of CBS
+
+Crumbliss et al. USA
+2008
+
+Cohort
+
+New attendees of a low vision rehabilitation
+clinic; mean BCVA in best-seeing eye was 20/175
+and 20/114 in those with and without CBS,
+respectively; all participants underwent MMSE,
+but this was not used for study eligibility
+
+50
+
+Mean age 74 years (range, 23 to 95
+years); 48% were female
+
+No data for the entire study population, but
+patients with follow-up data had mostly AMD
+(64%), and the rest optic nerve pathology,
+BRVO or macular edema
+
+Participants were administered an 11-item
+questionnaire designed to determine whether they
+had experienced visual hallucinations typical of
+CBS
+
+Unclear
+
+Elflein et al.
+2016
+
+Germany
+
+Cross-sectional
+
+Attendees recruited from an institution for
+rehabilitation of the blind and the visually
+impaired; of the 324 participants in total, we
+focused on visually impaired aged >40 years; all
+participants had to pass a modified MMSE for the
+blind and DemTest
+
+81
+
+Median age 75 years (range, 41 to
+99 years); 62% were female
+
+No data
+
+A standardized, detailed interview was used to
+establish whether or not subjects had experienced
+visual hallucinations among other things; those
+who reported visual hallucinations were then
+included in a second interview to obtain details
+regarding the hallucinations
+
+Unclear
+
+Gilmour et al.
+2009
+
+Canada
+
+Cohort
+
+Attendees of low vision clinic with a BCVA ≤20/40
+or a reduced visual field of ≤120°; all participants
+had normal cognition (MMSE ≥22).
+
+258
+
+Mean age 80 years (range, 41 to 99
+years)
+
+76% of all patients had AMD; remaining 24%
+Repeated questioning during history taking
+had one or more of the following: diabetic
+retinopathy, glaucoma, optic nerve dysfunction,
+corneal diseases, cataracts, or retinitis
+pigmentosa
+
+Gordon 2016
+
+Canada
+
+Cross-sectional
+
+First time attendees of a low vision rehabilitation
+clinic; BCVA and visual field restriction were
+transformed into a vision code score, which made
+it impossible to extract detailed BCVA or visual
+field data
+
+2,565
+
+41% were aged 40 to 80 years, and 61% had AMD, 12% had glaucoma, 7% had
+the remaining 59% were aged 81+ diabetic retinopathy, and 20% had other eye
+years; 63% were female
+diseases
+
+Presence of CBS was evaluated based on the
+Unclear
+answers to a specific question regarding CBS:
+“Many people who come to CNIB tell us that they
+see things they know are not there. Some see
+patterns or shapes. Others see images of people or
+animals. Have you ever experienced this?”
+
+Jackson et al.
+2007
+
+USA
+
+Cross-sectional
+
+First time attendees of a low vision rehabilitation
+clinic; of the 225 participants in total, our review
+focuses on participants with moderate visual
+acuity or worse (<6/18)
+
+124
+
+Mean age 80 years; 70% were
+female
+
+63% had AMD; no further data on diagnosis
+was reported
+
+Presence of CBS was evaluated based on answers Only reports of formed images were
+to the questions: “Some patients with partial vision considered hallucinations
+who come to the Clinic tell us that they see things
+that they know are not there. They may see colored
+shapes or organized patterns or they may even see
+vivid images of people, animals or flowers.” and
+“Have you ever experienced this?”
+
+Marmamula
+et al. 2019
+
+India
+
+Cross-sectional
+
+Population-based study in two districts in
+Telangana, India; all participants underwent eye
+examination and questionnaires; of the 6,000
+participants in total, our review focuses on
+participants with moderate visual impairment or
+worse (<6/18); questions were used to exclude
+participants with cognitive impairment
+
+774
+
+All were aged 40 or more; specific
+demographics of participants with
+visual impairment was not reported
+
+No specific data for the population of interest in
+our review was reported; however, the majority
+had cataract, and the remaining patients had
+refractive errors or other eye diseases
+
+Presence of CBS was evaluated based on the
+answers to a specific question regarding CBS:
+“Have you experienced seeing any imaginary
+images such as animals, trees, flowers, people
+etc.?”
+
+Menon 2005
+
+United
+Kingdom
+
+Cohort
+
+Consecutive patients with BCVA of ≤20/200 from
+one ophthalmic clinic
+
+48
+
+Mean 79.1 (SD: 10.9) years (range,
+43 to 93 years); 54% were female
+
+50% had AMD, 31% had glaucoma, 19%
+had diabetic retinopathy with or without
+macular edema, and the rest had myopic
+maculopathies, keratopathies, optic atrophies,
+optic neuropathies, aphakia, cataract, retinal
+detachment, and macroaneurism
+
+Presence of CBS was evaluated based on a
+Unclear
+structured history taking with an initial non-leading
+question about the existence of symptoms other
+than visual impairment itself; if a history of visual
+hallucination was not volunteered on non-leading
+questions, a leading question was posed; if
+hallucinations were admitted to, history taking was
+continued to elucidate different aspects of such
+hallucinations
+
+Table 1 (continued)
+
+© Annals of Eye Science. All rights reserved.
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+Presence of CBS was defined as presence
+of formed or unformed visual hallucinations
+with the absence of primary or secondary
+delusions, full or partial retention of insight
+into the unreal nature of the hallucinations,
+and absence of hallucinations in any other
+sensory modalities
+
+Unclear
+
+
+[page 7]
+Page 6 of 12
+
+Annals of Eye Science, 2022
+
+Table 1 (continued)
+Reference
+
+Country
+
+Study design
+
+Population description
+
+Shiraishi et al.
+2004
+
+Japan
+
+Cross-sectional
+
+Consecutive patients from one ophthalmic clinic;
+of the 1,000 individuals seen in the outpatient
+clinic by either an ophthalmologist or an
+optometrist, 372 were low vision patients (defined
+as a BCVA of ≤0.3 Snellen); these individuals
+could be of any age; the authors stratified these
+372 individuals into young (n=252) and elderly
+(n=120); elderly were defined as being
+>64 years of age; patients were excluded in case
+of the presence of any psychiatric disorder that
+can produce visual hallucination
+
+Tatlipinar et al.
+2001
+
+Turkey
+
+Cross-sectional
+
+Teunisse et al.
+1995
+
+The
+Netherlands
+
+Vikucevic &
+Fitzmaurice
+2008
+
+Australia
+
+Sample size
+
+Demographics
+
+Clinical diagnoses
+
+Diagnosis of CBS
+
+Definition of CBS
+
+120
+
+All individuals in this subset of
+patients were defined as being
+>64 years of age
+
+No data
+
+Participants were screened for CBS using the
+question: “When people suffer from low visual
+acuity, they sometimes see things and/or other
+people that are not there. Has such phenomenon
+ever happened to you?”; in case of a positive
+answer, the patients were interviewed by a
+psychiatrist on visual hallucinations to confirm
+and elaborate on the nature of such visual
+hallucinations
+
+CBS was defined according to the following
+criteria: at least one complex visual
+hallucination within the past 4 weeks;
+a period between the first and the last
+hallucination exceeding 4 weeks; full or
+partial retention of insight into the unreal
+nature of the hallucinations; absence of
+hallucinations in other sensory modalities;
+absence of delusions; the authors did not
+elaborate whether all or some of these criteria
+had to be fulfilled to diagnose CBS
+
+Patients were referred to a vision rehabilitation
+clinic; participants had BCVA in best-seeing
+eye of ≤20/100 or worse; participants were not
+known with any psychiatric disorders and were
+orienteered in time, place, and person
+
+80
+
+Mean age 56 years (range, 12 to 88
+years); 49% were female
+
+48% had AMD, 14% had Stargardt’s disease,
+10% had diabetic retinopathy, and the rest
+had glaucoma, retinitis pigmentosa, cone
+dystrophy, uveitis, optic atrophy, albinism, and
+CNV secondary to anguloid streaks
+
+Patients were asked in a non-threatening manner if Unclear
+they had ever experienced seeing something that
+really was not there; it was stressed to the patient
+that other patients with low vision have similar
+experiences
+
+Cross-sectional
+
+Attendees from a low vision clinic and an
+optometrist clinic; of the 600 patients in total, only
+data from the low vision clinic aged >64 years are
+included in this review; positive cases underwent
+MMSE and Geriatric Mental State Schedule
+
+221
+
+All were aged >64 years
+(mean 77.1 years; SD 6.5 years);
+67% were female
+
+No specific data for the population of interest in
+our review was reported; however, the majority
+of patients had AMD, and the remaining
+patients had cataract, diabetic retinopathy,
+glaucoma, or corneal diseases
+
+Presence of CBS was based on a semi-structured
+interview, where the interviewer afterwards
+decided whether a subject had “no”, “possible”, or
+“probable” hallucinations
+
+Cross-sectional
+
+Consecutive patients with BCVA ≤6/12 from
+four ophthalmic clinics without any history
+of psychiatric disorders or use of medication
+known to cause visual hallucinations, history
+of hallucinations in other sensory modalities,
+report of excess alcohol use, or taking illicit or
+hallucinogenic drugs
+
+200
+
+Mean 77.7 (SD 7.4) years (range, 65 No specific data for the population of interest in
+to 92 years)
+our review was reported; however, the majority
+of patients had AMD, and the remaining
+patients had diabetic retinopathy, other retinal
+diseases, or anterior segment pathologies
+
+If the interviewed decided that the
+hallucinations were either “possible” or
+“probable”, the patient would have a
+psychiatrist examination including GMSS and
+MMSE; the psychiatrist then decided whether
+the hallucination was CBS
+
+Participants were screened for CBS using the
+Only reports of complex hallucinations were
+question: “We had a patient here the other day that considered cases of CBS
+had a similar problem with their eyes to yourself.
+The condition made it difficult to see things and
+they also noticed that they could see things that
+were really not there or that other people don’t see.
+Has this ever happened to you?”
+
+AMD, age-related macular degeneration; BCVA, best-corrected visual acuity; BRVO, branch retinal vein occlusion; CBS, Charles Bonnets syndrome; CNIB, Canadian National Institute for the Blind; CNV, choroidal neovascularization; GMSS, Geriatric Mental State Schedule; MMSE, Mini Mental State
+Examination; SD, standard deviation; USA, United States of America.
+
+© Annals of Eye Science. All rights reserved.
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 8]
+Annals of Eye Science, 2022
+
+association between visual parameters and presence of
+CBS in patients referred for low vision rehabilitation (27).
+Here, a multiple logistic regression analysis revealed that
+low contrast sensitivity was the strongest predictor of
+CBS hallucination after adjusting for best-corrected visual
+acuity (27). In a population-based screening study,
+Marmamula et al. (2019) screened 6,000 individuals in
+120 clusters of the Khammam and Warangal districts of
+India (22). Of these, we only considered the 774 individuals
+for our quantitative review who had moderate visual
+impairment (<6/18 to 6/60 in best-seeing eye), severe
+visual impairment (<6/60 to 3/60 in best-seeing eye), and
+blindness (<3/60 to no light perception in best-seeing eye),
+although it was unclear if the reported visual acuity was the
+best-corrected or uncorrected (22). Risk of CBS increased
+with visual impairment (21). An interesting insight from this
+study was that 15.6% of individuals with visual impairment
+due to cataract reported having CBS (22), which is a rate
+similar to that seen in other reports focused on retinal
+diseases with affection of central vision (5,6,28). Menon
+(2005) evaluated presence of CBS among a consecutive
+range of patients with a best-corrected visual acuity of
+20/200 or worse in the better eye, and for comparison
+recruited an equal number of control individuals of elderly
+patients with a best-corrected visual acuity of 20/40 or
+better in their better eye (29). The authors found that
+63% of these visually impaired patients admitted to having
+experienced complex hallucinations, whereas none in the
+control group had any complex hallucinations (29). Shiraishi
+et al. (2004) screened for complex hallucinations among
+1,000 consecutive Japanese patients seen at an ophthalmic
+clinic either by an ophthalmologist or an optometrist for
+various eye diseases (30). Among those defined as low
+vision (best-corrected visual acuity of 0.3 Snellen or worse
+in the better eye), 0.8% had CBS (30). The authors then
+stratified data based on age (≤64 vs. >65 years) and found
+no significant age-related difference in the prevalence of
+CBS (30). Tatlipinar et al. (2001) found that approximately
+one out of three patients referred to low a low vision
+rehabilitation clinic experienced elementary or complex
+visual hallucinations irrespective of age (31). Teunisse
+et al. (1995) found that patients attending a low-vision unit
+were 11 times more likely to experience CBS compared
+to those with relative preserved vision in the optometry
+unit (32). The authors found that a best-corrected visual
+acuity of 6/18 Snellen or worse in the best-seeing eye was
+a significant risk factor of CBS (32). No clear association
+was found to the underlying ophthalmic diagnosis (32).
+
+© Annals of Eye Science. All rights reserved.
+
+Page 7 of 12
+
+From this study, we only included patients from the low vision group aged >64 years (n=221) for our quantitative
+review (32). Vikucevic & Fitzmaurice (2008) screened 200
+consecutive patients with best-corrected visual acuity of
+6/12 or worse from four ophthalmic clinics and found a
+high rate of CBS, but no clear association to any specific
+ophthalmic diagnosis (33).
+Risk of bias within studies
+Risk of bias evaluation of individual studies revealed that
+most studies clearly defined the data source, eligibility
+criteria of participants, and described and/or controlled
+c o n f o u n d i n g . Ti m e p e r i o d o f s t u d y, c o n s e c u t i v e
+recruitment, explanation of exclusions, and any quality
+assurance for certainty of the employed methods were
+less consistently declared. Our risk of bias evaluation of
+individual studies are summarized in Table 2.
+Synthesis of results in meta-analysis and risk of bias across
+studies
+The random-effects pooled prevalence of CBS in low
+vision patients was 19.7% (95% confidence interval: 13.8%
+to 26.4%) (Figure 2). Considerable heterogeneity across
+studies was present, which was quantified as an I2 at 95%.
+The Funnel plot did not suggest a strong presence of
+publication bias (Figure S1). The sensitivity analysis showed
+certain robustness in the summary prevalence estimate,
+since excluding studies by turn only lead to minor deviation
+from the overall estimate with prevalence estimates ranging
+from 16.9% to 22.5% (Table S1).
+Discussion
+In this systematic review and meta-analysis of 11 studies
+on patients with low vision, we find that the prevalence of
+CBS can be summarized to 19.7%. In other words, one in
+five patients with low vision have CBS. This is a simple but
+important message and should be kept in mind when dealing
+with patients with low vision. Furthermore, this estimate
+also states that CBS is prevalent at a rate which necessitates
+important attention from healthcare stakeholders, justify
+attention on planning and allocating resources to CBS,
+and suggests that a business case should be possible for
+development of therapy or otherwise medical technology to
+help these patients. Considering that the majority of cases
+can be dealt with through information, our findings also call
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 9]
+Page 8 of 12
+
+Annals of Eye Science, 2022
+
+Table 2 Risk of bias within individual studies included in the review
+Defines
+source
+
+Eligibility
+criteria
+
+Time period
+
+Consecutive
+recruitment
+
+Quality
+assurance
+
+Explains
+exclusions
+
+Describes
+confounding
+
+Crumbliss et al. 2008
+
+Yes
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Elflein et al. 2016
+
+Yes
+
+Yes
+
+Yes
+
+Unclear
+
+Yes
+
+NR
+
+Yes
+
+Gilmour et al. 2009
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+Gordon 2016
+
+Yes
+
+Yes
+
+Yes
+
+Unclear
+
+No
+
+Yes
+
+Yes
+
+Jackson et al. 2007
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+No
+
+NR
+
+Yes
+
+Marmamula et al. 2019
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Menon 2005
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+NR
+
+Yes
+
+Shiraishi et al. 2004
+
+Yes
+
+Unclear
+
+No
+
+Yes
+
+Yes
+
+NR
+
+No
+
+Tatlipinar et al. 2001
+
+Yes
+
+Yes
+
+Yes
+
+Unclear
+
+No
+
+NR
+
+Yes
+
+Teunisse et al. 1995
+
+Yes
+
+Unclear
+
+No
+
+Yes
+
+Yes
+
+NR
+
+No
+
+Unclear
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Reference
+
+Vikucevic & Fitzmaurice
+2008
+
+In these cases, authors do not explain any reason for exclusion because there are no exclusions. Studies are assessed on relevant items
+from the Agency for Healthcare Research and Quality checklist. Defines source: defines the source of information. Eligibility criteria: lists
+inclusion and exclusion criteria or refers to previous publications. Time period: indicates time period used for identifying participants.
+Consecutive recruitment: indicates whether or not subjects were consecutively recruited for the study. Quality assurance: describes any
+assessments undertaken for quality assurance purposes. Explains exclusions: explains any patient exclusions from analysis. Describes
+confounding: describes how confounding was assessed and/or controlled. NR, not relevant.
+
+Study
+
+Prev (95% CI)
+
+% weight
+
+Shiraishi et al. 2004
+
+0.01 (0.00, 0.04)
+
+9.1
+
+Elflein et al.2016
+
+0.06 (0,02, 0.13)
+
+8.6
+
+Teunisse et al.1995
+
+0.13 (0.09, 0.18)
+
+9.6
+
+Marmamula et al. 2019
+
+0.14 (0.11, 0.16)
+
+10.1
+
+Tatlipinar et al. 2001
+
+0,15 (0.08, 0.24)
+
+8.6
+
+Vikucevic & Fitzmaurice 2008
+
+0.18 (0.13, 0.23)
+
+9.5
+
+Gordon 2016
+
+0.19 (0.17, 0.20)
+
+10.2
+
+Crumbliss et al. 2008
+
+0.24 (0.13, 0.37)
+
+7.8
+
+Gilmour et al.2009
+
+0.34 (0.28, 0.40)
+
+9.7
+
+Jackson et al. 2007
+
+0.41 (0.33, 0.50)
+
+9.1
+
+Menon 2005
+
+0.63 (0.48, 0.76)
+
+7.7
+
+Overall
+
+0.20 (0.14, 0.26)
+
+100.0
+
+Q=188,90, P=0.00, I2=95%
+0.0
+
+0.2
+0.4
+0.6
+Prevalence
+
+0.8
+
+Figure 2 Forest plot illustrating the results of the meta-analysis of the prevalence of Charles Bonnet syndrome in low vision patients.
+Prevalence numbers are in decimals.
+
+© Annals of Eye Science. All rights reserved.
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 10]
+Annals of Eye Science, 2022
+
+Page 9 of 12
+
+Table 3 Geographical estimates of the number of patients with CBS
+Geographical area
+
+Individuals with MSVI Individuals with blindness Total number of individuals with
+(in 1000s)
+(in 1000s)
+MSVI or blindness (in 1000s)
+
+Estimate of individuals
+with CBS (in 1000s)
+
+Andean Latin America
+
+1,620
+
+275
+
+1,895
+
+373
+
+Australasia
+
+472
+
+58
+
+530
+
+104
+
+Caribbean
+
+967
+
+205
+
+1,172
+
+231
+
+Central Asia
+
+1,930
+
+222
+
+2,152
+
+424
+
+Central Europe
+
+3,270
+
+279
+
+3,549
+
+699
+
+Central Latin America
+
+5,760
+
+970
+
+6,730
+
+1,326
+
+Central Sub-Saharan Africa
+
+1,030
+
+167
+
+1,197
+
+236
+
+East Asia
+
+44,900
+
+7,260
+
+52,160
+
+10,276
+
+Eastern Europe
+
+8,940
+
+682
+
+9,622
+
+1,896
+
+Eastern Sub-Saharan Africa
+
+3,600
+
+1,200
+
+4,800
+
+946
+
+High-income Asia Pacific
+
+4,080
+
+450
+
+4,530
+
+892
+
+High-income North America
+
+4,750
+
+591
+
+5,341
+
+1,052
+
+North Africa and Middle East
+
+12,000
+
+2,350
+
+14,350
+
+2,827
+
+Oceania
+
+222
+
+23
+
+245
+
+48
+
+South Asia
+
+68,800
+
+9,580
+
+78,380
+
+15,441
+
+Southeast Asia
+
+19,800
+
+4,550
+
+24,350
+
+4,797
+
+Southern Latin-America
+
+1,240
+
+125
+
+1,365
+
+269
+
+Southern Sub-Saharan Africa
+
+870
+
+353
+
+1,223
+
+241
+
+Tropical Latin-America
+
+5,710
+
+1,430
+
+7,140
+
+1,407
+
+Western Europe
+
+11,100
+
+1,350
+
+12,450
+
+2,453
+
+Western Sub-Saharan Africa
+
+5,530
+
+1,490
+
+7,020
+
+1,383
+
+Global
+
+206,000
+
+33,600
+
+239,600
+
+47,201
+
+The numbers of individuals with MSVI, blindness, and with CBS are all listed in estimates from year 2020 and in 1000s of individuals. The
+numbers of individuals with MSVI and blindness is courtesy of the Vision Loss Expert Group of the Global Burden of Disease Study (32).
+CBS, Charles Bonnet syndrome; MSVI, moderate-to-severe visual impairment.
+
+for the need for greater awareness on this condition (28,34).
+The currently best estimate on the global prevalence
+of visual impairment and its future forecast is made by
+the Vision Loss Expert Group of the Global Burden of
+Disease Study (35). Available estimates for moderate and
+severe visual impairment (defined as <6/18 to 3/60) and
+blindness (defined as <3/60 or less than 10° visual field
+around central fixation), in individuals aged 50 years or
+more, can be extracted for geographical regions as defined
+by the WHO. We used these numbers and our estimate
+of 19.7% having CBS to calculate number of patients with
+CBS in geographically defined areas (Table 3). To our best
+
+© Annals of Eye Science. All rights reserved.
+
+knowledge, these estimates constitute the World’s first
+reliable estimate on the number of patients with CBS.
+Among 239 million individuals with moderate visual
+impairment or worse, we estimate that the global number of
+patients with CBS is approximately 47.2 million.
+It is important to acknowledge the limitations of our
+study when interpreting its results. Firstly, we evaluate
+patients who are referred to a low vision clinic or
+visual rehabilitation clinic. There may be a bias in that
+patients may be more likely to be referred or turn up to
+consultations if they are relatively more affected by their
+disease, which one can speculate could be reflective of
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 11]
+Page 10 of 12
+
+a higher prevalence of CBS. Secondly, the majority of
+cases had AMD, which also reflects the leading reason for
+visual impairment in elders in developed countries. The
+high prevalence of CBS in AMD has been extensively
+documented (5). However, the picture may differ in
+developing countries where other eye conditions are the
+leading reason for visual impairment, which introduces
+an uncertainty on the estimates, at least for developing
+countries where we only had one study to provide data (22).
+Third, pediatric cases of CBS and CBS related to inherited
+causes of visual impairment are not considered in our
+review. Emerging evidence suggest that such cases may
+be underestimated (36,37). Therefore, our estimates may
+underestimate the total number of CBS. Finally, there are
+no validated questionnaires or gold standards for diagnosis
+of CBS, and the approach for diagnosis differed across
+studies. To further complicate the matters, sociocultural
+aspects may also potentially influence on the response
+rate through different methodological approaches.
+These uncertainties also contribute as a limitation to our
+summary estimate.
+In conclusion, we find that CBS is relatively common
+in patients with low vision at a rate of approximately
+one in five patients. Extrapolating this estimate number
+of individuals with visual impairment highlight that
+CBS is no rare condition and that CBS warrants further
+attention from ophthalmologists as well as healthcare
+stakeholders.
+
+Annals of Eye Science, 2022
+
+board member of Annals of Eye Science from June 2020 to
+May 2022. The other authors have no conflicts of interest
+to declare.
+Ethical Statement: The authors are accountable for all
+aspects of the work in ensuring that questions related
+to the accuracy or integrity of any part of the work are
+appropriately investigated and resolved.
+Open Access Statement: This is an Open Access article
+distributed in accordance with the Creative Commons
+Attribution-NonCommercial-NoDerivs 4.0 International
+License (CC BY-NC-ND 4.0), which permits the noncommercial replication and distribution of the article
+with the strict proviso that no changes or edits are made
+and the original work is properly cited (including links
+to both the formal publication through the relevant
+DOI and the license). See: https://creativecommons.org/
+licenses/by-nc-nd/4.0/.
+References
+1.
+2.
+3.
+4.
+
+Acknowledgments
+Funding: None.
+
+5.
+
+Footnote
+Reporting Checklist: The authors have completed the
+PRISMA reporting checklist. Available at https://aes.
+amegroups.com/article/view/10.21037/aes-21-37/rc
+
+6.
+
+Peer Review File: Available at https://aes.amegroups.com/
+article/view/10.21037/aes-21-37/prf
+
+7.
+
+Conflicts of Interest: All authors have completed the ICMJE
+uniform disclosure form (available at https://aes.amegroups.
+com/article/view/10.21037/aes-21-37/coif). YS serves as an
+unpaid editorial board member of Annals of Eye Science from
+June 2020 to May 2022. AS serves as an unpaid editorial
+
+© Annals of Eye Science. All rights reserved.
+
+8.
+
+9.
+
+Hedges TR Jr. Charles Bonnet, his life, and his syndrome.
+Surv Ophthalmol 2007;52:111-4.
+Bonnet C. Essai Analytique sur les Facultés de l’Ame.
+Copenhaven & Geneva, 1769.
+de Morsier G. Le Syndrome de Charles Bonnet. Ann Med
+Psych 1967;128:677-702.
+Coerver KA, Subramanian PS. Visual hallucinations in
+psychiatric, neurological and ophthalmological disease.
+Curr Opin Ophthalmol 2020;31:475-82.
+Niazi S, Krogh Nielsen M, Singh A, et al. Prevalence of
+Charles Bonnet syndrome in patients with age-related
+macular degeneration: systematic review and meta analysis. Acta Ophthalmol 2020;98:121-31.
+Subhi Y, Schmidt DC, Bach-Holm D, et al. Prevalence
+of Charles Bonnet syndrome in patients with glaucoma:
+a systematic review with meta-analyses. Acta Ophthalmol
+2021;99:128-33.
+Roed Rasmussen ML, Prause JU, Johnson M, et al.
+Phantom eye syndrome: types of visual hallucinations
+and related phenomena. Ophthalmic Plast Reconstr Surg
+2009;25:390-3.
+O'Hare F, Bentley SA, Wu Z, et al. Charles Bonnet
+Syndrome in Advanced Retinitis Pigmentosa.
+Ophthalmology 2015;122:1951-3.
+Vahdani K, Poon JS, Antoniou E, et al. Charles Bonnet
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 12]
+Annals of Eye Science, 2022
+
+Syndrome Following Eyelid Reconstruction Surgery.
+Ophthalmic Plast Reconstr Surg 2017;33:229-30.
+10. Smith CS, Nichols J, Riaz KM. Remission of Charles
+Bonnet syndrome after cataract extraction. Can J
+Ophthalmol 2018;53:e221-2.
+11. Vacchiano V, Tonon C, Mitolo M, et al. Functional MRI
+study in a case of Charles Bonnet syndrome related to
+LHON. BMC Neurol 2019;19:350.
+12. Molander S, Peters D, Singh A. Charles Bonnet syndrome:
+low awareness among patients with glaucoma. Ann Eye Sci
+2020;5:30.
+13. Potts J. Charles Bonnet Syndrome: so much more than
+just a side effect of sight loss. Ther Adv Ophthalmol
+2019;11:2515841419886257.
+14. World Health Organization. (2018). International
+classification of diseases for mortality and morbidity
+statistics (11th Revision). Available online: https://icd.who.
+int/browse11/l-m/en
+15. Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting
+items for systematic reviews and meta-analyses: the
+PRISMA statement. BMJ 2009;339:b2535.
+16. Subhi Y, Nielsen MA, Scott DAR, Holm LM, Singh
+A. Prevalence of Charles Bonnet Syndrome in Low
+Vision: A Systematic Review and Meta-analysis.
+PROSPERO 2021 CRD42021255021. Available online:
+https://www.crd.york.ac.uk/prospero/display_record.
+php?ID=CRD42021255021
+17. Zeng X, Zhang Y, Kwong JS, et al. The methodological
+quality assessment tools for preclinical and clinical
+studies, systematic review and meta-analysis, and clinical
+practice guideline: a systematic review. J Evid Based Med
+2015;8:2-10.
+18. Barendregt JJ, Doi SA, Lee YY, et al. Meta-analysis
+of prevalence. J Epidemiol Community Health
+2013;67:974-8.
+19. Higgins JP, Thompson SG, Deeks JJ, et al. Measuring
+inconsistency in meta-analyses. BMJ 2003;327:557-60.
+20. Egger M, Davey Smith G, Schneider M, et al. Bias in
+meta-analysis detected by a simple, graphical test. BMJ
+1997;315:629-34.
+21. Lewis S, Clarke M. Forest plots: trying to see the wood
+and the trees. BMJ 2001;322:1479-80.
+22. Marmamula S, Sumalini R, Reddy TK, et al. Prevalence of
+visual hallucinations. Clin Exp Optom 2020;103:865-9.
+23. Crumbliss KE, Taussig MJ, Jay WM. Vision rehabilitation
+and Charles Bonnet Syndrome. Semin Ophthalmol
+2008;23:121-6.
+
+© Annals of Eye Science. All rights reserved.
+
+Page 11 of 12
+
+24. Elflein HM, Rudy M, Lorenz K, et al. Charles Bonnet’s
+syndrome: not only a condition of the elderly. Graefes
+Arch Clin Exp Ophthalmol 2016;254:1637-42.
+25. Gilmour G, Schreiber C, Ewing C. An examination of
+the relationship between low vision and Charles Bonnet
+syndrome. Can J Ophthalmol 2009;44:49-52.
+26. Gordon KD. Prevalence of visual hallucinations in a
+national low vision client population. Can J Ophthalmol
+2016;51:3-6.
+27. Jackson ML, Bassett K, Nirmalan PV, et al. Contrast
+sensitivity and visual hallucinations in patients referred
+to a low vision rehabilitation clinic. Br J Ophthalmol
+2007;91:296-8.
+28. Singh A, Subhi Y, Sørensen TL. Low awareness of the
+Charles Bonnet syndrome in patients attending a retinal
+clinic. Dan Med J 2014;61:A4770.
+29. Menon GJ. Complex visual hallucinations in the visually
+impaired: a structured history-taking approach. Arch
+Ophthalmol 2005;123:349-55.
+30. Shiraishi Y, Terao T, Ibi K, et al. The rarity of Charles
+Bonnet syndrome. J Psychiatr Res 2004;38:207-13.
+31. Tatlipinar S, Kadayifcilar S, Eldem, et al. Prevalence of
+photopsias and Charles Bonnet syndrome; evaluation
+of eighty cases with low vision. Neuroophthalmology
+2001;25:193-7.
+32. Teunisse RJ, Cruysberg JR, Verbeek A, et al. The
+Charles Bonnet syndrome: a large prospective study
+in The Netherlands. A study of the prevalence of the
+Charles Bonnet syndrome and associated factors in
+500 patients attending the University Department
+of Ophthalmology at Nijmegen. Br J Psychiatry
+1995;166:254-7.
+33. Vukicevic M, Fitzmaurice K. Butterflies and black lacy
+patterns: the prevalence and characteristics of Charles
+Bonnet hallucinations in an Australian population. Clin
+Exp Ophthalmol 2008;36:659-65.
+34. Best J, Liu PY, Ffytche D, et al. Think sight loss, think
+Charles Bonnet syndrome. Ther Adv Ophthalmol
+2019;11:2515841419895909.
+35. GBD 2019 Blindness and Vision Impairment
+Collaborators; Vision Loss Expert Group of the Global
+Burden of Disease Study. Trends in prevalence of blindness
+and distance and near vision impairment over 30 years: an
+analysis for the Global Burden of Disease Study. Lancet
+Glob Health 2021;9:e130-43.
+36. Jones L, Moosajee M. Visual hallucinations and sight
+loss in children and young adults: a retrospective case
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 13]
+Page 12 of 12
+
+series of Charles Bonnet syndrome. Br J Ophthalmol
+2021;105:1604-9.
+37. Dhooge PPA, Teunisse RJ, Liefers B, et al. Charles Bonnet
+
+Annals of Eye Science, 2022
+
+syndrome in patients with Stargardt disease: prevalence
+and risk factors. Br J Ophthalmol 2021. doi: 10.1136/
+bjophthalmol-2021-319525.
+
+doi: 10.21037/aes-21-37
+Cite this article as: Subhi Y, Nielsen MA, Scott DAR, Holm
+LM, Singh A. Prevalence of Charles Bonnet syndrome in low
+vision: a systematic review and meta-analysis. Ann Eye Sci
+2022;7:12.
+
+© Annals of Eye Science. All rights reserved.
+
+Ann Eye Sci 2022;7:12 | https://dx.doi.org/10.21037/aes-21-37
+
+
+[page 14]
+Supplementary
+
+Figure S1 Risk of bias across studies: funnel plot of studies
+included in our meta-analysis of prevalence of Charles Bonnet
+syndrome in low vision patients.
+
+Table S1 Sensitivity analysis on the estimate of the prevalence of Charles Bonnet syndrome in low vision patients
+Pooled prevalence
+
+LCI 95%
+
+HCI 95%
+
+Cochran Q
+
+I2
+
+Shiraishi et al. 2004
+
+22.5%
+
+16.8%
+
+28.8%
+
+134.3
+
+93.3
+
+Elflein et al. 2016
+
+21.3%
+
+15.0%
+
+28.3%
+
+178.1
+
+94.9
+
+Teunisse et al. 1995
+
+20.5%
+
+14.0%
+
+27.9%
+
+184.5
+
+95.1
+
+Marmamula et al. 2019
+
+20.5%
+
+13.3%
+
+28.8%
+
+175.3
+
+94.9
+
+Tatlipinar et al. 2001
+
+20.2%
+
+13.9%
+
+27.3%
+
+188.4
+
+95.2
+
+Vikucevic & Fitzmaurice 2008
+
+20.0%
+
+13.5%
+
+27.4%
+
+188.8
+
+95.2
+
+Gordon 2016
+
+19.9%
+
+11.8%
+
+29.4%
+
+187.9
+
+95.2
+
+Crumbliss et al. 2008
+
+19.4%
+
+13.2%
+
+26.3%
+
+187.7
+
+95.2
+
+Gilmour et al. 2009
+
+18.4%
+
+12.6%
+
+24.9%
+
+154.0
+
+94.2
+
+Jackson et al. 2007
+
+17.8%
+
+12.3%
+
+24.2%
+
+155.6
+
+94.2
+
+Menon 2005
+
+16.9%
+
+11.7%
+
+22.7%
+
+146.1
+
+93.8
+
+Excluded study
+
+LCI 95%, lower 95% confidence interval; HCI, higher/upper 95% confidence interval.
+
+© Annals of Eye Science. All rights reserved.
+
+https://dx.doi.org/10.21037/aes-21-37
+

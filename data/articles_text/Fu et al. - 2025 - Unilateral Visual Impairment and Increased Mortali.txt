@@ -1,0 +1,1099 @@
+[page 1]
+Public Health
+
+Unilateral Visual Impairment and Increased Mortality:
+The UK Biobank Cohort Study
+Chenxi Fu1,* , Jinbo Chen1,* , Qinyi Gu1 , Yanzhen Li1 , Xi Li2 , Xiaoyu Zhang3 , and
+Wei Chen4,5
+1
+
+Ningbo Eye Hospital, Wenzhou Medical University, Ningbo, People’s Republic of China
+Shanxi Eye Hospital affiliated to Shanxi Medical University, Shanxi Province, People’s Republic of China
+3
+School of Public Health, Wenzhou Medical University, Wenzhou, People’s Republic of China
+4
+National Clinical Research Centre for Ocular Diseases, Eye Hospital, Wenzhou Medical University, Wenzhou, People’s Republic of China
+5
+Ningbo Key Laboratory of Medical Research on Blinding Eye Diseases, Ningbo Eye Institute, Ningbo Eye Hospital, Wenzhou Medical
+University, Ningbo, People’s Republic of China
+2
+
+Correspondence: Wei Chen, School
+of Ophthalmology and Optometry,
+Wenzhou Medical University,
+270 Xueyuan West Rd.,
+Wenzhou, Zhejiang 325027,
+People’s Republic of China. e-mail:
+chenweimd@wmu.edu.cn
+Xiaoyu Zhang, School of Public
+Health, Wenzhou Medical University,
+Ouhai District, Wenzhou, Zhejiang
+325015, People’s Republic of China.
+e-mail: shirleymayzhang@163.com
+Received: January 29, 2025
+Accepted: June 10, 2025
+Published: July 23, 2025
+Keywords: UK Biobank; cohort
+study; visual impairment (VI);
+mortality
+Citation: Fu C, Chen J, Gu Q, Li Y, Li X,
+Zhang X, Chen W. Unilateral visual
+impairment and increased mortality:
+The UK Biobank cohort study. Transl
+Vis Sci Technol. 2025;14(7):17,
+https://doi.org/10.1167/tvst.14.7.17
+
+Purpose: The purpose of this study was to investigate the association between the
+full spectrum of visual acuity categories and risks of all-cause, cardiovascular disease
+(CVD)-related, cancer-related mortality in the UK Biobank study.
+Methods: A total of 131,468 participants (aged 40–79 years) with visual acuity measurement from the UK Biobank prospective cohort were included. Visual acuities of both eyes
+were used to assign each participant into one of the following groups: bilateral normal,
+unilateral near normal, bilateral near normal, unilateral visual impairment (VI), mild VI,
+and low vision. Cox proportional hazards multivariable regression models were used to
+estimate the hazard ratios (HRs) and 95% confidence intervals (CIs) for the risks of all cause, CVD-related, and cancer-related mortality.
+Results: Over a median follow-up of 13.49 years, a total of 9372 deaths were recorded,
+including 4682 cancer-related deaths and 1926 CVD-related deaths. Compared with the
+bilateral normal group, participants with decreased visual acuity had increased risks of
+all-cause and CVD-related mortality with dose-response-type gradients, but no elevated
+risk of cancer-related mortality was observed. Decreased unilateral visual acuity but not
+bilateral near normal vision was associated with increased risks for all-cause and CVD related mortality. For all-cause and CVD-related mortality, the adjusted HRs were 1.17
+(95% CI = 1.09–1.25) and 1.24 (95% CI = 1.07–1.44) for the unilateral near normal group,
+and 1.20 (95% CI = 1.14–1.27) and 1.26 (95% CI = 1.12–1.42) for the unilateral VI group.
+Conclusions: Decreased unilateral visual acuity was associated with increased all-cause
+and CVD-related mortality risks among participants without VI in the UK Biobank.
+Translational Relevance: Achieving bilateral vision balance may contribute to reducing
+the mortality risk of individuals with decreased unilateral visual acuity.
+
+Introduction
+Visual impairment (VI), encompassing conditions
+from mild visual difficulties to complete blindness,
+has a profound impact on individuals, their families,
+and society.1,2 VI is associated with increased risks of
+cognitive impairment, dementia, depression, psychosis,
+and Parkinson’s disease, and with reduced quality
+
+of life and loss of independence, posing a substantial public health challenge.3–12 Studies across diverse
+populations and countries investigated the relationship
+between VI and increased mortality risks.13–15 Some
+studies also reported the association between VI and
+cause-specific mortality risks, including cardiovascular disease (CVD)-related, cancer-related, and injury related mortality risks.16–18 However, most existing
+studies focused primarily on individuals with severely
+
+Copyright 2025 The Authors
+tvst.arvojournals.org | ISSN: 2164-2591
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+1
+
+
+[page 2]
+Unilateral Visual Impairment and Mortality
+
+impaired visual acuity, leaving a gap in understanding mortality risks for those with mildly reduced or
+near-normal visual acuity. The gap may be partly
+attributable to the widespread use of the World Health
+Organization (WHO) VI classification, which defines
+VI as visual acuity in the better eye worse than 6/12
+(Snellen equivalent).1
+Individuals with mildly reduced visual acuity
+faced elevated risks of lacking educational qualifications, possessing higher deprivation scores, being
+unemployed, holding lower-status jobs, living alone,
+and experiencing mental health issues.19,20 These
+challenges contribute significantly to societal burdens,
+especially considering the large proportion of individuals with mildly reduced visual acuity worldwide. A
+recent study involving 581,526 Korean adults found
+that individuals with mildly reduced visual acuity
+faced a 17% increased risk of all-cause mortality
+among young to middle-aged population (average
+age = 39.7 years), but not in the overall population or
+among older adults.17 Thus, it underscored the need
+for comprehensive studies that consider the entire
+spectrum of visual acuity categories to better understand and address the broader impacts of visual acuity
+on mortality.
+On the other hand, in previous studies exploring
+the association between VI and mortality risk, VI
+was defined using various measures: presenting visual
+acuity of the better eye,17 binocular presenting visual
+acuity, or best-corrected visual acuity of the better or
+worse eye.13 For each individual, monocular or binocular visual acuity was used to identify the vision level,
+which, however, could not reflect the combined visual
+acuities of both eyes. Individuals with visual acuity
+above the VI threshold in one eye and below the threshold in the other eye were overlooked and classified into
+the reference group along with those who had good
+visual acuities in both eyes.
+Fortunately, the UK Biobank Eye and Vision
+Consortium offers a comprehensive classification
+system that covers the full spectrum of visual acuity
+categories by assessing the visual acuities of both eyes.
+This system classified visual acuity levels above the
+WHO VI threshold (equal to or better than 6/12) into
+normal (6/6 to 6/9.5) and near-normal vision (worse
+than 6/9.5 to 6/12), encompassing a spectrum from
+bilateral normal vision to blindness. It further subdivides individuals within the WHO-defined non-VI
+group into four categories: bilateral normal vision
+(normal vision for both eyes), unilateral near-normal
+vision (normal vision for one eye and near-normal
+vision for the other), bilateral near-normal vision
+(near-normal vision for both eyes), and unilateral VI
+(above the WHO VI threshold for one eye and below
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 2
+
+for the other).19 Leveraging the UK Biobank dataset,
+the largest prospective adult cohort with visual acuity
+measurements and over a decade of follow-up,21 our
+study aimed to investigate the associations between
+the full spectrum of visual acuity categories and
+mortality risks, including all-cause, CVD-related,
+and cancer-related mortality risks. Additionally, we
+explored these associations across age subgroups
+(above and below 60 years) and by sex stratification.
+We hypothesized that, even among individuals classified as non-VI according to WHO criteria, variations
+in visual acuity levels would be associated with mortality risk, and that these associations would differ by age
+and sex.
+
+Methods
+Study Design and Population
+The datasets used in this study were obtained
+from the UK Biobank (Application: 129237). The
+UK Biobank is a large, population-based prospective cohort, in which more than 0.5 million participants aged 37 to 73 years attended one of the
+22 assessment centers across England, Scotland, and
+Wales between 2006 and 2010 at baseline examinations (5.5% response rate).22,23 Between 2009 and
+2010, approximately 117,252 participants underwent
+the initial assessment visit including eye measurements. An additional 16,016 participants, who had not
+received eye examinations at their initial visits, underwent eye assessments during the first repeat assessment
+visit between 2012 and 2013.24 We defined the visit
+with the first available visual acuity examination as the
+“baseline”, either between 2009 and 2010 or 2012 and
+2013.
+The UK Biobank study was granted ethical
+approval from the National Health Service (NHS)
+North West Centre for Research Ethics, adhering to
+the principles outlined in the Declaration of Helsinki
+(Ref: 21/NW/0157). This work used data provided
+by patients and collected by the NHS as part of
+their care and support. All participants gave written
+informed consent and signed the informed consent
+to be linked to national electronic health-related
+datasets.
+
+Classification of Visual Acuity Categories
+Habitual distance visual acuity in each eye (i.e.
+tested with the individual wearing any prescribed,
+presently used optical correction) was measured to
+assess real-life visual acuity rather than best-corrected
+
+
+[page 3]
+Unilateral Visual Impairment and Mortality
+
+visual acuity (Field ID 5208 and 5201, measurement details in Resource 100250). Briefly, visual acuity
+was measured using a traditional logarithm of the
+minimum angle of resolution (LogMAR) chart on a
+computer screen under standard illumination.25
+Each individual was assigned to one of six
+mutually exclusive visual acuity categories based on
+the LogMAR visual acuity of both eyes. According to the WHO definition, VI was defined as visual
+acuity worse than 6/12 (> 0.3 LogMAR) in the better seeing eye. Above the WHO VI threshold, we defined
+normal vision as visual acuity between 0 and 0.2 (6/6
+to 6/9.5, Snellen equivalent), and near-normal vision
+as visual acuity between 0.21 and 0.3 (worse than 6/9.5
+to 6/12, Snellen equivalent). Considering the combined
+visual acuities of both eyes, individuals not meeting
+the WHO criteria for VI (i.e. the WHO non-VI group)
+were subdivided into four groups: (1) bilateral normal
+vision (visual acuity of 0–0.2 in both eyes); (2) unilateral near-normal vision (0–0.2 in one eye and 0.21–
+0.3 in the other eye); (3) bilateral near-normal vision
+(0.21–0.3 in both eyes); and (4) unilateral VI (0–0.3
+in one eye and 0.31 or worse in the other eye). In
+addition, individuals who met the WHO definition
+of VI were classified as (5) mild VI (visual acuity
+of 0.31–0.49 in the better eye), and (6) low vision
+(visual acuity ≥ 0.5 in the better eye). The low vision
+group included participants from the WHO moderate
+VI (n = 966), WHO severe VI (n = 71), and WHO
+blindness categories (n = 4), due to the small sample
+sizes within each individual group. Detailed definitions
+and the distribution of WHO VI classification and six
+visual acuity categories are provided in Supplementary
+Table S1.
+
+Mortality and Follow-Up
+The date of death (Field ID 40000) was obtained
+from NHS Digital for participants in England and
+Wales and from the NHS Central Register for those
+in Scotland, with a data update period of every 3 or
+6 months. It was used to determine the survival status
+and follow-up endpoint. Participants not matched with
+death certificates were considered alive. Participant
+follow-up duration started at the date of baseline and
+ended either at the date of death or October 13,
+2023. The underlying cause of death (Field ID 40001)
+was used to determine the specific cause of death
+according to the International Statistical Classification of Diseases and Related Health Problems, 10th
+revision (ICD-10). CVD-related mortality was identified using ICD-10 codes I00 to I99, whereas cancer related mortality was determined using ICD-10 codes
+C00 to D48.
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 3
+
+Covariates Ascertainment
+In this study, demographic characteristics (age, sex,
+ethnicity, income, and education), lifestyle factors
+(smoking and drinking status), medical history
+(diabetes mellitus, hypertension, stroke, and heart
+attack histories), and body mass index (BMI) were
+collected. Sex was acquired from the central registry
+at recruitment (Field ID 31). The baseline information
+was collected during the baseline visit, including age
+(Field ID 21003), income (Field ID 738), ethnicity
+(Field ID 21000), education (Field ID 6138), smoking
+and drinking status (Field ID 20116 and 20117),
+medical history (hypertension, stroke, and heart attack
+histories from Field ID 61500, and diabetes mellitus
+from Field ID 2443) and BMI (kg/m2 , Field ID 61500).
+BMI was imputed with mean value (missing percent =
+0.50%) and categorized into four groups according to
+the WHO BMI classification.21
+
+Statistical Analysis
+Participant characteristics were summarized utilizing descriptive statistics. Continuous variables were
+presented as mean ± standard deviation or median
+(interquartile range [IQR]), depending on the normality of data distribution, which was evaluated using
+Q-Q plots. Categorical variables were presented as
+frequencies and percentages (n, %). The standardized
+mean difference was used to compare variables between
+visual acuity categories, with a standardized mean
+difference exceeding 0.1 indicating a significant difference in variables.
+Cox proportional hazards regression was used to
+estimate the hazard ratios (HRs) and 95% confidence
+intervals (CIs) for all-cause, CVD-related, and cancer related mortality in different visual acuity categories,
+with the bilateral normal group as the reference. The
+assumption of proportional hazards was evaluated by
+statistical tests based on weighted Schoenfeld residuals,26 and the stratification method was used to deal
+with the violation of variables sex and age. Model 1
+was stratified with sex and age group (age ≥ 60 or <
+60 years). Model 2 was adjusted for age and ethnicity based on model 1. Model 3 was further adjusted
+for income, education, smoking and drinking status,
+histories of diabetes mellitus, hypertension, stroke, and
+heart attack, and BMI category based on model 2.
+Based on our hypothesis and the violation of the
+proportional hazard assumption, subgroup analyses
+were performed with stratification by sex and age.
+Several sensitivity analyses were carried out to
+assess the robustness of our results. First, participants with cancer or CVD at baseline were excluded
+
+
+[page 4]
+Unilateral Visual Impairment and Mortality
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 4
+
+when assessing the associations between visual acuity
+categories and specific-cause mortality. Second, we
+excluded participants who died within the first 2 or
+4 years of follow-up to avoid the potential risk of
+reverse causation. Third, Fine and Gray subdistribution hazard models were used to examine the associations between visual acuity categories and CVD-related
+and cancer-related mortality with the death of other
+causes considered as competing events.27
+Statistical analyses were performed utilizing R
+software (version 4.3.0, https://www.R-project.org/).
+All statistical tests were 2-sided, and the type I error
+rate for statistical significance was set at 0.05.
+
+near-normal vision, 0.87% had bilateral near-normal
+vision, 13.18% had unilateral VI, 2.12% had mild
+VI, and 0.79% had low vision (definition, distribution, and the comparison with WHO VI classification provided in Supplementary Table S1). The Table
+presents an overview of participant characteristics,
+stratified by visual acuity categories. There were
+significant differences in age, ethnicity, income, and
+highest educational attainment between visual acuity
+categories.
+
+Results
+
+Over a median follow-up period of 13.49 years,
+a total of 9372 deaths were recorded. Survival
+curves in Figure 2A show that participants with
+decreased visual acuity had lower long-term survival
+rates compared with those with bilateral normal
+vision. Figure 2B shows the association between
+decreased visual acuity and increased all-cause mortality risk, and the strength of the association increased
+from unilateral near normal to low vision (P for trend
+< 0.001) in model 3 (source data and results of model 1
+and model 2 in Supplementary Table S2). Specifically,
+the adjusted HRs were 1.17 (95% CI = 1.09–1.25) for
+the unilateral near-normal vision group and 1.20 (95%
+
+Baseline Characteristics
+A total of 131,468 participants were included in
+the final analysis, representing 26.18% of the original UK Biobank cohort of 502,165 individuals. The
+details of the participants’ exclusion process are
+presented in Figure 1. The mean age of these participants was 57.42 ± 8.17 years, with 45.95% being
+male participants. The distribution of visual acuity
+categories among participants was as follows: 75.28%
+had bilateral normal vision, 7.76% had unilateral
+
+Association of Visual Acuity Categories With
+All-Cause Mortality
+
+Figure 1. Flowchart of participants’ exclusion process. ICD-10, International Statistical Classification of Diseases and Related Health
+Problems, 10th revision.
+
+
+[page 5]
+45,576 (46.05)
+56.84 (8.28)
+87,319 (88.22)
+4,683 (4.73)
+4,422 (4.47)
+904 (0.91)
+373 (0.38)
+1,273 (1.29)
+69,179 (69.90)
+12,430 (12.56)
+25,832 (26.10)
+11,798 (11.92)
+48,087 (48.59)
+9,047 (9.14)
+90,973 (91.92)
+5,375 (5.43)
+25,999 (26.27)
+1,338 (1.35)
+1,962 (1.98)
+32,971 (33.31)
+536 (0.54)
+42,159 (42.60)
+23,308 (23.55)
+
+60,416 (45.95)
+57.42 (8.17)
+115,338 (87.73)
+6,711 (5.10)
+5,814 (4.42)
+1,241 (0.94)
+548 (0.42)
+1,816 (1.38)
+89,138 (67.80)
+18,481 (14.06)
+34,129 (25.96)
+15,232 (11.59)
+62,342 (47.42)
+12,381 (9.42)
+120,070 (91.33)
+7,738 (5.89)
+36,018 (27.40)
+2,008 (1.53)
+2,889 (2.20)
+43,403 (33.01)
+717 (0.55)
+55,934 (42.55)
+31,414 (23.89)
+
+Bilateral
+Normal
+n = 98,974
+
+3,322 (32.56)
+60 (0.59)
+4,288 (42.03)
+2,533 (24.83)
+
+1,857 (18.20)
+2,642 (25.89)
+1,059 (10.38)
+4,507 (44.17)
+978 (9.59)
+9,186 (90.03)
+705 (6.91)
+3,104 (30.42)
+174 (1.71)
+259 (2.54)
+
+8,894 (87.17)
+557 (5.46)
+418 (4.10)
+116 (1.14)
+57 (0.56)
+161 (1.58)
+6,323 (61.97)
+
+4,556 (44.65)
+59.35 (7.52)
+
+Unilateral
+Near Normal
+n = 10,203
+
+370 (32.43)
+4 (0.35)
+481 (42.16)
+286 (25.07)
+
+251 (22.00)
+273 (23.93)
+111 (9.73)
+484 (42.42)
+118 (10.34)
+1,009 (88.43)
+96 (8.41)
+362 (31.73)
+32 (2.80)
+29 (2.54)
+
+975 (85.45)
+71 (6.22)
+52 (4.56)
+15 (1.31)
+5 (0.44)
+23 (2.02)
+665 (58.28)
+
+496 (43.47)
+60.35 (7.08)
+
+Bilateral
+Near Normal
+n = 1,141
+
+5,538 (31.96)
+94 (0.54)
+7,395 (42.68)
+4,299 (24.81)
+
+3,063 (17.68)
+4,410 (25.45)
+1,906 (11.00)
+7,731 (44.62)
+1,793 (10.35)
+15,577 (89.91)
+1,254 (7.24)
+5,328 (30.75)
+365 (2.11)
+531 (3.06)
+
+14,972 (86.41)
+1,085 (6.26)
+740 (4.27)
+167 (0.96)
+91 (0.53)
+271 (1.56)
+10,931 (63.09)
+
+8,020 (46.29)
+59.02 (7.59)
+
+Unilateral VI
+n = 17,326
+
+850 (30.54)
+15 (0.54)
+1,199 (43.08)
+719 (25.84)
+
+661 (23.75)
+704 (25.30)
+272 (9.77)
+1,085 (38.99)
+306 (11.00)
+2,423 (87.06)
+219 (7.87)
+909 (32.66)
+66 (2.37)
+81 (2.91)
+
+2,332 (83.79)
+231 (8.30)
+132 (4.74)
+23 (0.83)
+15 (0.54)
+50 (1.80)
+1,481 (53.22)
+
+1,311 (47.11)
+59.66 (7.40)
+
+Mild VI
+n = 2,783
+
+352 (33.81)
+8 (0.77)
+412 (39.58)
+269 (25.84)
+
+219 (21.04)
+268 (25.74)
+86 (8.26)
+448 (43.04)
+139 (13.35)
+902 (86.65)
+89 (8.55)
+316 (30.36)
+33 (3.17)
+27 (2.59)
+
+846 (81.27)
+84 (8.07)
+50 (4.80)
+16 (1.54)
+7 (0.67)
+38 (3.65)
+559 (53.70)
+
+457 (43.90)
+57.94 (8.07)
+
+Low
+Vision
+n = 1,041
+
+0.036
+0.200
+0.113
+
+0.113
+0.113
+
+0.054
+0.079
+0.054
+0.053
+0.057
+0.028
+0.049
+
+<0.001
+
+<0.001
+<0.001
+
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+
+SMD
+0.015
+<0.001
+
+P Value
+
+BMI, body mass index; SD, standard deviation; SMD, standardized mean difference; VI, visual impairment.
+Data were reported as mean ± SD for continuous variables and number (proportion) for categorical variables.
+SMD exceeding 0.1 indicates a significant difference in variables, and P values were derived from one-way ANOVA tests for continuous variables and chi-square
+tests for categorical variables.
+
+Sex, male, n (%)
+Age, y, mean ± SD
+Ethnicity, n (%)
+White
+Mixed
+Asian or Asian British
+Black or Black British
+Chinese
+Other
+Income, > £18,000 £, n (%)
+Highest educational attainment, n (%)
+No qualifications
+O levels
+A levels
+University/others
+Current smoker, n (%)
+Current drinker. n (%)
+History of diabetes mellitus, n (%)
+History of hypertension, n (%)
+History of stroke, n (%)
+History of heart attack, n (%)
+BMI categories, n (%)
+Normal
+Underweight
+Overweight
+Obesity
+
+Overall
+n = 131,468
+
+Table. Characteristics of Participants Stratified by Visual Acuity Categories
+
+Unilateral Visual Impairment and Mortality
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 5
+
+
+[page 6]
+Unilateral Visual Impairment and Mortality
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 6
+
+Figure 2. Associations of visual acuity categories with all-cause and cause-specific mortality among overall participants.
+(A) Adjusted survival curves of visual acuity categories. (B) Associations of visual acuity categories with all-cause mortality. (C) Associations
+of visual acuity categories with CVD-related mortality. (D) Associations of visual acuity categories with cancer-related mortality. Adjusted
+survival curves based on the Cox regression model stratified with sex and age group (age ≥ 60 or < 60 years) and adjusted for age, ethnicity,
+income, education, smoking and drinking status, histories of diabetes mellitus, hypertension, stroke, and heart attack, and BMI categories.
+All analyses were stratified with sex and age group (age ≥ 60 or < 60 years) and adjusted for age, ethnicity, income, education, smoking
+and drinking status, histories of diabetes mellitus, hypertension, stroke and heart attack, and BMI categories. Data are presented as HR ±
+95% CI for Cox regression. Error bars represent the 95% CIs for each effect estimate. BMI, body mass index; CI, confidence intervals; CVD,
+cardiovascular disease; HR, hazard ratio, VI, visual impairment. Source data are provided in Supplementary Table S2.
+
+CI = 1.14–1.27) for the unilateral VI group. Participants within the WHO VI group had increased risks
+with adjusted HRs of 1.23 (95% CI = 1.10–1.38) for
+the mild VI group and 1.70 (95% CI = 1.43–2.02) for
+the low vision group. However, the association between
+bilateral near-normal vision and all-cause mortality
+risk was not statistically significant in the fully adjusted
+model.
+
+Association of Visual Acuity Categories With
+Cause-Specific Mortality
+A total of 4682 cancer deaths (49.96% of all deaths)
+and 1926 CVD deaths (20.55% of all deaths) were
+recorded. Similar associations between decreased
+visual acuity and increased mortality risk were
+observed for CVD-related mortality as for all-cause
+
+mortality (Fig. 2C). Individuals with decreased visual
+acuity exhibited an increased risk of CVD-related
+mortality, except for the bilateral near-normal vision
+group, demonstrating a clear dose-response relationship (P for trend < 0.001). For cancer-related mortality, the strength trend and associations with decreased
+visual acuity were observed in model 1 and model 2
+(see Supplementary Table S2). However, the associations did not remain significant in the fully adjusted
+model (model 3), with one exception of association
+with unilateral VI, which remained significant after
+adjusting all potential confounders (Fig. 2D).
+
+Stratified Analyses
+In participants aged 60 years and older, similar
+associations between decreased visual acuity and
+increased risks of all-cause, CVD-related, and cancer-
+
+
+[page 7]
+Unilateral Visual Impairment and Mortality
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 7
+
+Figure 3. Associations of visual acuity categories with all-cause and cause-specific mortality among sex or age group stratified
+participants. All analyses were stratified with sex (age group stratification) or age group (sex stratification) and adjusted for age, ethnicity,
+income, education, smoking and drinking status, histories of diabetes mellitus, hypertension, stroke and heart attack, and BMI category.
+Data are presented as HR ± 95% CI for Cox regression. Error bars represent the 95% CIs for each effect estimate. Arrows indicate that the CIs
+are outside the range shown in the figure. Source data are provided in Supplementary Table S4. Results of model 1 and model 2 are provided
+in Supplementary Table S6.
+
+related mortality were observed as those in the overall
+population. Among younger participants, unilateral
+VI and low vision were associated with an increased
+risk of all-cause mortality, whereas bilateral near
+
+normal, unilateral VI, and low vision were associated with an increased risk of CVD-related mortality. In female participants, the associations between
+decreased visual acuity and increased risks of all-
+
+Figure 4. Associations of visual acuity categories with all-cause and cause-specific mortality among sex and age group stratified
+participants. All analyses were adjusted for age, ethnicity, income, education, smoking and drinking status, histories of diabetes mellitus,
+hypertension, stroke and heart attack, and BMI category. Data are presented as HR ± 95% CI for Cox regression. Error bars represent the
+95% CIs for each effect estimate. Source data are provided in Supplementary Table S5. Results of model 1 and model 2 are provided in
+Supplementary Table S7.
+
+
+[page 8]
+Unilateral Visual Impairment and Mortality
+
+cause, CVD-related, and cancer-related mortality were
+consistent with those observed in the overall population, except for the associations between low vision
+and risks of CVD-related and cancer-related mortality. In male participants, all levels of decreased visual
+acuity in the non-VI group and low vision were
+associated with an increased risk of all-cause mortality. Moreover, male participants with unilateral VI
+and low vision exhibited an increased risk of CVD related mortality (Fig. 3, source data in Supplementary
+Table S4).
+In subgroup analyses stratified by sex and age
+group (Fig. 4, source data in Supplementary Table
+S5), the results for female participants aged 60 years
+and above were consistent with those observed in
+female participants of all ages. For male participants aged 60 years and above, an increased risk
+for all-cause mortality was found in the unilateral
+near-normal, unilateral VI, and low vision groups,
+whereas an increased risk for CVD-related mortality
+was found in the unilateral near-normal group. For
+female participants under 60 years, an increased risk
+of all-cause mortality was observed only in the low
+vision group. Among male participants under 60 years,
+increased risks for all-cause and CVD-related mortality were found in the unilateral VI and the low vision
+groups.
+
+Sensitivity Analyses
+The results among the overall participants remained
+largely consistent with the main analyses after excluding those with cancer or CVD at baseline (Supplementary Table S8), excluding participants who died within
+the first 2 or 4 years (Supplementary Table S9), and
+using Fine and Gray subdistribution hazard models
+(Supplementary Table S10). However, the associations were slightly attenuated in some visual acuity
+categories.
+
+Discussion
+In this prospective cohort of 131,468 participants
+from the UK Biobank, we found that decreased visual
+acuity, including WHO-defined VI, was associated with
+increased risks of all-cause and CVD-related mortality.
+Additionally, we believe that our study was the first to
+report the association of increased risks for all-cause
+and CVD-related mortality with slightly and significantly decreased unilateral visual acuity in the WHO
+non-VI groups.
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 8
+
+With the variations of visual acuity classification
+methods, reference groups, and study population, there
+were inconsistencies in findings across studies. In the
+UK Biobank cohort, Zhang et al. found that participants with WHO-defined VI (presenting visual acuity
+of the better eye worse than 0.3 LogMAR) had a
+26% increased risk for all-cause mortality, combining those with mild VI and moderate to severe VI
+as one group and setting the participants without
+dual sensory impairment (VI and hearing impairment) as the reference group.28 Supporting this, we
+also found that participants with WHO-defined VI
+exhibited a 28% increased risk for all-cause mortality setting WHO-defined non-VI group as reference.
+Additionally, we examined the associations between
+WHO-defined VI and different VI levels (mild VI and
+moderate to severe VI) with all-cause, CVD-related,
+and cancer-related mortality, and compared the results
+using different reference groups. For individuals within
+the same visual acuity category, outcomes can vary
+depending on the choice of reference group. In our
+study, when bilateral normal vision was used as the
+reference group, participants classified as mild VI
+and low vision showed higher adjusted HRs for all cause mortality compared to when the WHO non-VI
+group was used as the reference. Moreover, for participants with mild VI, an increased risk for CVD-related
+mortality was observed only when bilateral normal
+vision served as the reference group, but not when
+the WHO non-VI group was used (see Supplementary Table S3). Of note, the impact of VI may be
+underestimated when the WHO non-VI group was
+used as the reference group because the WHO nonVI group included the bilateral normal vision, unilateral near-normal vision, bilateral near-normal vision,
+and unilateral VI groups. In addition, for individuals
+in the WHO non-VI group, the vision levels definition
+methods may contribute to different results. Among
+the young to middle-aged Korean population, Han et
+al. used habitual distance visual acuity in the better
+eye to categorize vision levels and found that individuals with mildly reduced visual acuity (between 0.5 and
+0.8, decimal value) had an increased risk of all-cause
+mortality, but not CVD-related mortality, compared
+with those with normal vision (better than 0.8, decimal
+value).17 In our study, which classified visual acuity
+category based on the combined visual acuities of
+both eyes, participants under 60 years with unilateral VI had increased risks of both all-cause and
+CVD-related mortality, whereas those with bilateral
+near-normal vision had an increased risk of CVD related mortality. The method of defining vision levels
+based on the visual acuity of the better eye assumes
+that individuals with decreased unilateral visual acuity
+
+
+[page 9]
+Unilateral Visual Impairment and Mortality
+
+face the same mortality risk as those with good
+visual acuity in both eyes, potentially overlooking the
+increased risk among those with unilateral visual acuity
+decline.
+In our study, participants with decreased unilateral visual acuity (unilateral near normal and unilateral VI) and WHO-defined VI (mild VI and low vision)
+faced with increased risks of all-cause and CVD related mortality. The association between VI and
+mortality risk was supported in other studies,13–18 with
+chronic stress being a potential contributing factor.
+Zheng et al. suggested that increased allostatic load
+(AL) served as a mediator between VI and elevated
+all-cause and CVD-related mortality risks.18 AL is
+a biomarker reflecting chronic stress and associated
+with an increased risk for CVD incidence.29 Furthermore, high AL is associated with low socioeconomic
+status and a lack of social support.30 Cross-sectional
+studies using similar visual acuity categories also
+showed that decreased unilateral visual acuity was
+associated with lower socioeconomic status, lack of
+support, and poorer general health.19,20 Individuals
+with decreased unilateral visual acuity may experience
+more significant chronic stress due to these socioeconomic, mental, and physical challenges, potentially
+leading to an elevated AL that increases mortality risk.
+Additionally, lower socioeconomic status and limited
+support may reduce their accessibility to healthcare,
+further contributing to the elevated mortality risk.
+Unlike those with decreased unilateral visual acuity,
+individuals in the bilateral near-normal vision group
+did not exhibit lower socioeconomic status or limited
+support compared with those with bilateral normal
+vision.19 This may partly explain the comparable
+risks of all-cause and CVD-related mortality observed
+between the two groups. On the other hand, compared
+with the unilateral near-normal vision (7.76%) and
+unilateral VI (13.18%) groups, the relatively small
+sample size of the bilateral near-normal vision group
+(0.87%) may have contributed to the lack of statistically significant associations with mortality risk.
+This finding warrants further investigation in other
+populations with different distributions of visual acuity
+categories.
+In our study, older paticipants (aged 60 years and
+above) with either unilateral near-normal or unilateral VI demonstrated increased risks for all-cause,
+CVD-related and cancer-related mortality. Among
+younger participants (under 60 years), those with
+unilateral VI showed increased risks for all-cause
+and CVD-related mortality. Previous studies have
+suggested that limitations in daily living activities,
+particularly walking ability, may mediate the relationship between VI and mortality in older adults.18,31,32
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 9
+
+Furthermore, decreased unilateral visual acuity may
+impair mobility in older adults due to imbalanced
+visual acuity between the eyes. In younder adults,
+only more severe unilateral impairment may similarly
+hinder mobility and contribute to adverse health
+outcomes. However, to our knowledge, no studies have
+specifically examined the effects of decreased unilateral visual acuity or visual imbalance on daily living
+activities. In further subgroup analyses stratified by
+sex, unilateral VI was associated with CVD-related
+mortality in older female subjects but not in older
+male subjects. Human and animal researches suggest
+that reproduction is a significant stress source for
+female subjects, which would cause oxidative stress
+contributing to elevated AL.33 The potential association between reproduction and AL, as well as the sexspecific difference in the cardiovascular biomarkers of
+AL might partly explain the sex difference.30,34 The
+mechanisms linking decreased unilateral visual acuity
+to higher mortality risks are likely multifaceted, involving factors such as social status, access to healthcare,
+mobility limitations, and overall physical health. The
+UK Biobank Eye and Vision Consortium suggested
+these visual acuity categories as a key sensory health
+indicator, considering it both as a risk factor and a
+health outcome.19 These complexities warrant further
+investigation to better understand and address these
+associations.
+In existing studies focusing on VI, the decreased
+visual acuity and the comprehensive assessment of
+visual acuity in both eyes among individuals without
+VI have been neglected. Our study revealed that the
+classification of VI based on the visual acuity of the
+better eye not only overlooked the adverse effects of
+mildly reduced visual acuity, particularly in cases of
+unilateral visual acuity decline, but also underestimated
+the impact of VI when the WHO non-VI classification was used as the reference group. To advance
+ophthalmology research and policy, a broader perspective on the visual acuity category method needs to
+be considered. For instance, in our study, individuals
+with unilateral near-normal vision and 82.81% of those
+with unilateral VI were classified as having normal
+vision when visual acuity category was determined by
+the visual acuity of the better eye. As a result, the
+increased mortality risk associated with impaired visual
+acuity in these groups would have been overlooked.
+Although the distribution of visual acuity categories
+may vary across populations and countries, addressing the needs of previously neglected groups could
+deliver significant public health benefits. In clinical
+practice, ophthalmologists and optometrists should
+consider not only focusing on enhancing the vision
+of patients with severe VI but also addressing unilat-
+
+
+[page 10]
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 10
+
+Unilateral Visual Impairment and Mortality
+
+eral visual acuity decline to achieve bilateral vision
+balance, which may contribute to reducing mortality
+risks. For example, in individuals with good visual
+acuity in one eye but uncorrected refractive error in
+the other, prescribing appropriate refractive correction (e.g. glasses or contact lenses) can help achieve
+balanced bilateral visual acuity. In older adults with
+bilateral cataracts, timely surgery for the fellow eye
+after the surgery of the first eye needs to be considered.
+To our knowledge, our study novelly reported
+the association of the full spectrum of visual acuity
+categories, which was assessed using combined visual
+acuities of both eyes, with all-cause, CVD-related, and
+cancer-related mortality. With the large-scale participants, rich data sources, and long follow-up time of
+the UK Biobank, subgroup analysis and sensitivity
+analysis were conducted to verify the result’s reliability with multivariable models. The comparison between
+the associations of the visual acuity categories and
+WHO VI classification with risks of all-cause, CVD related, and cancer-related mortality was investigated.
+Nevertheless, several limitations of our study
+warrant mention. First, because of the nonrandom
+recruitment and low response rate of the UK Biobank
+and the fact that the eye examination was performed on
+a subset of the population, the distribution of visual
+acuity categories in our study may vary among the
+populations in the UK and other countries.22 However,
+the “healthy volunteer effect” in the UK Biobank had a
+limited effect on the investigation of participants with
+mildly reduced visual acuity because of the relatively
+less impacts caused by impaired vision. Second, the
+limited numbers of participants with moderate VI
+and severe VI precluded separate association analyses. These participants were considered as the low
+vision group, leading to masking group differences.
+Third, the specific eye diseases leading to decreased
+visual acuity were not investigated in detail. All-cause
+impaired habitual visual acuity was an overall visual
+acuity outcome of diverse eye conditions and diseases,
+which might have a better reflection than specific eye
+diseases.
+In conclusion, our study found that decreased
+unilateral visual acuity was associated with increased
+risks of all-cause and CVD-related mortality among
+participants without VI in WHO classification in the
+UK Biobank. Additionally, the associations between
+decreased unilateral visual acuity and mortality risks
+varied across different sex and age subgroups. These
+findings highlighted the importance of adopting
+a broader concept of visual acuity classification
+method beyond VI in ophthalmology and visual
+sciences. Integrating strategies to achieve bilateral
+
+vision balance in clinical practice may enable ophthalmologists and optometrists to help reduce the mortality risk of individuals with decreased unilateral visual
+acuity.
+
+Acknowledgments
+Supported by the Ningbo Top Medical and Health
+Research Program (grant number 2023030716); the
+Medical Health Science and Technology Project of
+Zhejiang Province (grant number 2024XY040).
+Disclosure: C. Fu, None; J. Chen, None; Q. Gu,
+None; Y. Li, None; X. Li, None; X. Zhang, None;
+W. Chen, None
+*
+
+CF and JC contributed equally to this article and
+are to be considered co-first authors.
+
+References
+1. World Health Organization. World Report
+on Vision. World Health Organization; 2019,
+Accessed January 30, 2024. Available at:
+https://iris.who.int/handle/10665/328717.
+2. Bourne R, Steinmetz JD, Flaxman S, et al. Trends
+in prevalence of blindness and distance and near
+vision impairment over 30 years: an analysis for
+the global burden of disease study. Lancet Glob
+Health. 2021;9(2):e130–e143.
+3. Cao G, Wang K, Han L, et al. Visual trajectories and risk of physical and cognitive impairment
+among older Chinese adults. J Am Geriatr Soc.
+2021;69(10):2877–2887.
+4. De La Fuente J, Hjelmborg J, Wod M, et al. Longitudinal associations of sensory and cognitive functioning: a structural equation modeling approach.
+J Gerontol B Psychol Sci Soc Sci. 2019;74(8):1308–
+1316.
+5. Littlejohns TJ, Hayat S, Luben R, et al. Visual
+impairment and risk of dementia in 2 population based prospective cohorts: UK Biobank and
+EPIC-Norfolk. J Gerontol A Biol Sci Med Sci.
+2022;77(4):697–704.
+6. Zhao X, Liu W, Lu B, Zhu X, Zhou M, Sun
+X. Visual impairment and depression in China: a
+7-year follow-up study from national longitudinal
+surveys. BMJ Open. 2022;12(4):e055563.
+7. Ferguson EL, Thoma M, Buto PT, et al. Visual
+impairment, eye conditions, and diagnoses of neurodegeneration and dementia. JAMA Netw Open.
+2024;7(7):e2424539.
+
+
+[page 11]
+Unilateral Visual Impairment and Mortality
+
+8. Lopez D, McCaul KA, Hankey GJ, et al. Falls,
+injuries from falls, health related quality of life and
+mortality in older adults with vision and hearing
+impairment—is there a gender difference? Maturitas. 2011;69(4):359–364.
+9. Varma R, Wu J, Chong K, Azen SP, Hays RD.
+Impact of severity and bilaterality of visual impairment on health-related quality of life. Ophthalmology. 2006;113(10):1846–1853.
+10. Committee on Public Health Approaches to
+Reduce Vision Impairment and Promote Eye
+Health, Board on Population Health and Public
+Health Practice, Health and Medicine Division, National Academies of Sciences, Engineering, and Medicine. Making Eye Health a
+Population Health Imperative: Vision for Tomorrow. (Teutsch SM, McCoy MA, Woodbury
+RB, Welp A, eds.). Washington, DC: National
+Academies Press; 2016. Accessed January 30, 2024.
+Available at: https://www.nap.edu/catalog/23471
+11. Shoham N, Lewis G, Hayes JF, Silverstein SM,
+Cooper C. Association between visual impairment and psychosis: a longitudinal study and
+nested case-control study of adults. Schizophr Res.
+2023;254:81–89.
+12. Zhu Z, Hu W, Liao H, et al. Association of visual
+impairment with risk for future Parkinson’s disease. EClinicalMedicine. 2021;42:101189.
+13. Ehrlich JR, Ramke J, Macleod D, et al. Association between vision impairment and mortality: a
+systematic review and meta-analysis. Lancet Glob
+Health. 2021;9(4):e418–e430.
+14. Wang Z, Congdon N, Ma X. Longitudinal associations between self-reported vision impairment
+and all-cause mortality: a nationally representative
+cohort study among older Chinese adults. Br J
+Ophthalmol. 2023;107:1597–1605.
+15. Zhang Y, Ge M, Zhao W, et al. Sensory impairment and all-cause mortality among the oldest-old:
+findings from the Chinese Longitudinal Healthy
+Longevity Survey (CLHLS). J Nutr Health Aging.
+2020;24(2):132–137.
+16. Lee DJ. Visual acuity impairment and mortality in US adults. Arch Ophthalmol. 2002;120(11):
+1544.
+17. Han SY, Chang Y, Shin H, Choi CY, Ryu S. Visual
+acuity and risk of overall, injury-related, and
+cardiovascular mortality: the Kangbuk Samsung
+Health Study. Eur J Prev Cardiol. 2022;29(6):904–
+912.
+18. Zheng DD, Christ SL, Lam BL, et al. Visual acuity and increased mortality: the role of allostatic
+load and functional status. Invest Opthalmol Vis
+Sci. 2014;55(8):5144.
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 11
+
+19. Cumberland PM, Rahi JS, for the UK Biobank
+Eye and Vision Consortium. Visual function, social
+position, and health and life chances: the UK
+Biobank Study. JAMA Ophthalmol. 2016;134:959–
+966.
+20. Rahi JS, Cumberland PM, Peckham CS. Visual
+function in working-age adultsearly life influences
+and associations with health and social outcomes.
+Ophthalmology. 2009;116(10):1866–1871.
+21. Collins R. What makes UK Biobank special?
+Lancet. 2012;379(9822):1173–1174.
+22. Fry A, Littlejohns TJ, Sudlow C, et al. Comparison of sociodemographic and health-related
+characteristics of UK Biobank participants with
+those of the general population. Am J Epidemiol.
+2017;186(9):1026–1034.
+23. Sudlow C, Gallacher J, Allen N, et al. UK
+Biobank: an open access resource for identifying the causes of a wide range of complex
+diseases of middle and old age. PLoS Med.
+2015;12(3):e1001779.
+24. Repeat Assessment: Participant Characteristics of
+Responders vs. Nonresponders. Published online
+April 2024. Available at: https://biobank.ndph.ox
+.ac.uk/∼bbdatan/repeat_assessment_characteristi
+cs.pdf
+25. Chua SYL, Thomas D, Allen N, et al. Cohort
+profile: design and methods in the eye and
+vision consortium of UK Biobank. BMJ Open.
+2019;9(2):e025077.
+26. Grambsch PM, Therneau TM. Proportional hazards tests and diagnostics based on weighted residuals. Biometrika. 1994;81(3):515–526.
+27. Fine JP, Gray RJ. A proportional hazards model
+for the subdistribution of a competing risk. J Am
+Stat Assoc. 1999;94(446):496–509.
+28. Zhang X, Wang Y, Wang W, et al. Association
+between dual sensory impairment and risk of mortality: a cohort study from the UK Biobank. BMC
+Geriatr. 2022;22(1):631.
+29. Juster RP, McEwen BS, Lupien SJ. Allostatic
+load biomarkers of chronic stress and impact
+on health and cognition. Neurosci Biobehav Rev.
+2010;35(1):2–16.
+30. Maestripieri D, Hoffman CL. Chronic stress, allostatic load, and aging in nonhuman primates. Dev
+Psychopathol. 2011;23(4):1187–1195.
+31. Karpa MJ. Direct and indirect effects of visual
+impairment on mortality risk in older persons:
+the Blue Mountains Eye Study. Arch Ophthalmol.
+2009;127(10):1347.
+32. Christ SL, Zheng DD, Swenor BK, et al. Longitudinal relationships among visual acuity,
+daily functional status, and mortality: the Salis-
+
+
+[page 12]
+Unilateral Visual Impairment and Mortality
+
+bury Eye Evaluation Study. JAMA Ophthalmol.
+2014;132(12):1400.
+33. Finkel T, Holbrook NJ. Oxidants, oxidative stress
+and the biology of ageing. Nature. 2000;408(6809):
+239–247.
+
+TVST | July 2025 | Vol. 14 | No. 7 | Article 17 | 12
+
+34. Juster RP, McEwen BS, Lupien SJ. Allostatic
+load biomarkers of chronic stress and impact
+on health and cognition. Neurosci Biobehav Rev.
+2010;35(1):2–16.
+

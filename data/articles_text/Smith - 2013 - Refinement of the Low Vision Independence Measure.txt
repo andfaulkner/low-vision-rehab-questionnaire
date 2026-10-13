@@ -1,0 +1,659 @@
+[page 1]
+Physical & Occupational Therapy in Geriatrics, 31(3):182–196, 2013
+ 2013 by Informa Healthcare USA, Inc.
+C
+Available online at http://informahealthcare.com/potg
+DOI: 10.3109/02703181.2013.813619
+
+ORIGINAL ARTICLE
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Refinement of the Low Vision Independence
+Measure: A Qualitative Study
+Theresa Marie Smith, PhD, OTR/L, CLVT
+Department of Occupational Therapy and Occupational Science, Towson University,
+Towson, Maryland, USA
+
+ABSTRACT. Purpose: The purpose of this qualitative study was to improve clinical
+utility of the Low Vision Independence Measure (LVIM) and strengthen its content validity. Methods: A two-part qualitative emergent design was used. Low vision therapists’
+opinions were collected first with a questionnaire and then with a focus group. Results:
+Findings indicated that clinical utility of the LVIM could be improved by adding comment sections and moving some of its items or subsections. The content validity of the
+LVIM could be strengthened through the additions of new items to some subsections,
+new subsections, and item lists, as well as rewording of some items. Therapists acknowledged current LVIM strengths of client-centeredness, ability to identify problem areas
+upon which to formulate a plan of care, versatility for use in different treatment settings, efficient administration, and cultural sensitivity. Conclusions: Further research is
+needed on the refined LVIM to establish its psychometric properties.
+KEYWORDS.
+tative research
+
+Low vision, outcome measures, clinical utility, content validity, quali-
+
+By the year 2050, the projected number of U.S. residents who are 65 and older will
+be 88.5 million (U.S. Census Bureau, 2010). In 2000, 2.4 million people 40 years and
+older had low vision and this number is projected to multiply by 70% to 4.1 million
+by 2020, owing mainly to the aging of the population (Eye Diseases Prevalence
+Research Group, 2004). The four leading causes of visual impairments that affect
+older adults in the United States include age-related macular degeneration (AMD),
+diabetic retinopathy, glaucoma, and cataracts, with AMD being the most common
+(Sight Connection, n.d.). The prevalence and incidence of the various eye diseases
+depends on an individual’s ethnicity, age, and socioeconomic variables.
+Low vision is a visual impairment defined as significant vision loss that is not correctable by refraction or treatment (Rees, Saw, Lamoureux, & Keeffe, 2007). It can
+significantly impact a person’s ability to perform activities of daily living (ADLs)
+and instrumental activities of daily living (IADLs; National Eye Institute [NEI],
+Address correspondence to: Theresa Smith, PhD, OTR/L, CLVT, 10 Stapleton CT #201, Timonium, MD
+21093, USA (E-mail: thsmith@towson.edu).
+(Received 11 January 2013; accepted 6 June 2013)
+
+182
+
+
+[page 2]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Refinement of the LVIM: A Qualitative Study
+
+183
+
+2011). Individuals with low vision demonstrate 30% higher dependence on others
+to perform ADLs than individuals who do not have low vision (Burmedi, Becker,
+Heyl, Wahl, & Himmelsbach, 2002).
+Studies have shown that rehabilitation services improve functional outcomes
+for clients with visual impairment (Binns et al., 2012). Although which model of
+low vision rehabilitation constitutes best practice is not established, Medicare reimburses for therapy services for clients with low vision provided by occupational
+therapists, physical therapists, and speech therapists (Centers for Medicare & Medicaid Services, 2002). There are a number of reliable and valid assessments available
+to measure low vision rehabilitation but the majority of these were developed by
+researchers for research purposes. Assessments are needed that measure the outcomes of low vision rehabilitation provided; one of these is the Smith’s Low Vision
+Independence Measure (LVIM).
+Although test–retest reliability has been established for the LVIM (Smith, 2009),
+clinical utility and content validity have not. The purpose of this qualitative study
+was to improve clinical utility of the LVIM and strengthen its content validity from
+expert opinion of experienced low vision therapists. At this end, two research questions were used: (a) what insight can experienced low vision therapists provide to
+improve clinical utility of the LVIM? And (b) what modifications of LVIM items
+do the same experienced low vision therapists suggest be made to strengthen the
+content validity?
+LITERATURE REVIEW
+Clinical Utility
+Clinical utility refers to an assessment’s usefulness in clinical practice (Smart, 2006).
+According to Polgar, Reg, and Barlow (as cited in Smart, 2006), there are 6 key components of clinical utility: (a) ease of use, (b) time, (c) training and qualifications, (d)
+format, (e) interpretation, and (f) meaning and relevance of information obtained.
+Ease of use considers the availability and price of an assessment, the completeness
+and clarity of instructions for use, specification or provision of materials and methods, and clarity of environmental requirements (Smart, 2006). Time refers to the
+amount of time required for administration and the effect of timing on reliability
+and validity. Training and qualifications include the requirements of professional
+knowledge, ability, or training to administer; as well as, the availability of training
+for administration. The format of an assessment is the ease of use for the client and
+clinician. Interpretation considers ease in scoring and understanding the results of
+an assessment as well as any training required for interpretation. Finally, the meaning and relevance of information obtained from an assessment refers to the applicability of the results in a clinic setting and any factors that could compromise the
+use of the information.
+Rudman and Hannah (1998) added that in order for an assessment to have
+clinical utility it must be acceptable to clients. If it is not, clients’ willingness to
+participate in the evaluation may be adversely affected. Factors that may influence
+whether an assessment is acceptable by clients include if its purpose is understood,
+age, language requirements, and cultural applicability (Rudman & Hannah, 1998,
+p. 271).
+
+
+[page 3]
+184
+
+Smith
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Visual Function Assessments
+Visual function assessments (VFAs) are used with clients with low vision to evaluate their functional ability to perform ADLs and IADLs (Binns et al., 2012). They
+are designed to collect data through self-report, observation, or a combination of
+the two. Assessments that use a self-report rating scale are beneficial to the clinician because they provide a more comprehensive assessment of which factor is
+really affecting the client’s performance. However, self-report ratings are subjective because of the client’s bias and the possibility of over- or underrating himself
+or herself. The limitation of client bias can alter the true results of the outcomes of
+visual rehabilitation. The objective data derived from observation can be valuable
+because these are obtained from an expert clinician who can adequately evaluate
+the quality and independence of the client’s performance of a task. Just as self reports contain client bias, observations contain clinician bias as each clinician may
+have his or her own perception of how to rate a specific item. In addition, these
+assessments require more personnel time to administer.
+Several VFAs were designed for use with a specific visual diagnosis thereby limiting their application with the general population. For example, the Manchester
+Low Vision Questionnaire (MLVQ; Harper, Doorduyn, Reeves, & Slater, 1999)
+was developed to evaluate clients with AMD. Other VFAs, such as The Visual Function Index (VF-14; Steinberg et al., 1994), Activities of Daily Vision Scale (ADVS;
+Mangione et al., 1992), and Visual Disability Assessment (VDA; Pesudovs &
+Coster, 1998) were designed specifically for patients with cataracts. Lastly, the Functional Independence Measure for Blind Adults (FIMBA) focuses on rehabilitation
+outcome measures for blind clients (Long, Crews, & Mancil, 2000).
+Technology is expanding at a rapid rate and more health practitioners are using
+technology in the clinic. One example of an assessment using new technology is
+the Activity Inventory (AI) that is a computer-based adaptive VFA (Massof et al.,
+2007). Administration of the AI requires a computer and Internet service neither
+of which may be available in all clinics and it may not be useful to therapists who
+lack computer skills. In addition, due to its extensive list of 459 tasks and 50 goals,
+the AI is time intensive to administer.
+
+Visual Functional Assessments and Occupational Therapy
+VFAs developed by occupational therapists include: the Self-Report Assessment of
+Functional Visual Performance (SRAFVP; Gilbert & Baker, 2011), the Melbourne
+low-vision ADL index (MLVAI; Haymes, Johnston, & Heyes, 2001), DahlinIvanoff, Sonn, and Svensson’s (2001) low vision assessment, and the LVIM (Smith,
+2009). Both the SRAFVP (Gilbert & Baker, 2011) and the MLVAI (Haymes et al.,
+2001) have observable tasks. The SRAFVP is two-part with the first part being
+a self-report questionnaire and the second an optional observational assessment.
+When the second part is used, 7 tasks can be observed to determine the client’s functional abilities. To date, no outcome studies are available on the SRAFVP. Haymes
+et al. (2001) developed the MLVAI, a standardized assessment with 27 test items;
+9 are self-report items including bathing, eating, food preparation, shopping, cleaning, and medication management. Sixteen of the test items are observable tasks
+
+
+[page 4]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Refinement of the LVIM: A Qualitative Study
+
+185
+
+including pouring, naming colors, face recognition, check writing, label reading, and
+shirt buttoning.
+Dahlin-Ivanoff et al.’s (2001) VFA examines clients’ perceived level of security
+performing ADLs. A limitation of this assessment is the use of the score of security/insecurity, which is an uncommon way of rating functional ability and may cause
+difficulty for clients to objectively rate their level of independence or for the therapist explaining this measure’s terminology. Further, there is not a name for this
+VFA.
+The LVIM (Smith, 2009) was designed to be administered to the general low
+vision population. It has been refined with input from experienced low vision practitioners and clients with low vision (Smith, Glasson, Tioseco, & Welborn, 2009). It
+uses the constructs and terminology outlined in the Occupational Therapy Practice
+Framework (OTPF; American Occupational Therapy Association [AOTA], 2008)
+and focuses on performance of ADLS and IADLS commonly affected by low vision. It provides therapists with a framework and common terminology to assess the
+client’s occupational performance and measures the effectiveness of the treatment
+commonly provided in low vision rehabilitation.
+METHODS
+Design and Rationale
+The current research study used a qualitative design consisting of two parts: a questionnaire and a focus group, which both included open-ended questions that gave
+participants the opportunity to elaborate on their responses and provided the researchers with rich description. Questionnaires have been used to elicit expert
+opinions needed in the process of establishing content validity of an instrument
+(Kimberlin & Winterstein, 2008). They are generally efficient and convenient for
+participants to complete since they can finish them in their own environment. In this
+study, participants provided their initial opinions of the LVIM with the questionnaire and their responses aided in the development of the focus group questions,
+which allowed for an emergent design (Creswell, 2007).
+Focus groups utilize informal discussion among individuals regarding a topic
+of concentration in order to understand different perspectives on the topic (Stancanelli, 2010; Wilkinson, 2004). They allow participants to interact in a natural social environment, which elicits responses that may not have been captured in an
+individual interview (Gaiser, 2008; Kroll, Barbour, & Harris, 2007). This is further facilitated because participants are able to bounce ideas off of each other,
+which can lead to deep discussions about topics and opinions expressed that may
+not have arisen in a typical one-to-one interview. Virtual focus groups were used
+in the current study to facilitate a deep discussion on the LVIM among experienced low vision therapists from a wide geographic area. Further, focus groups have
+been shown valuable in refining an instrument to improve content validity (DahlinIvanoff, 2002; Long et al., 2000).
+Participants
+The inclusion criteria for the current study included that the participants be therapists who (a) identified themselves as a low vision therapist, (b) were currently
+
+
+[page 5]
+186
+
+Smith
+
+treating clients with low vision, and (c) able to give the LVIM to 6 clients in a 1
+month time period. The participants could be of any age, gender, or ethnicity. Participants were recruited by the author from previous colleagues, community low
+vision therapists, low vision therapists identified on LinkedIn, and contacts made
+at low vision rehabilitation conferences.
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Setting
+The first stage of data collection occurred with participants in outpatient or home
+settings (2 participants worked in the same outpatient setting) answering a questionnaire. The second stage took place in the virtual context of an online focus
+group. During this stage, data were collected through Internet connections by researchers in a classroom located in their affiliated university and the participants
+contributed from their individual computers in their respective locations.
+Instruments
+The LVIM was the instrument under review. It measures a client’s level of difficulty
+in performing ADLS and IADLs (Smith, 2009). It is a self-report questionnaire
+consisting of 55 items, divided into 8 subsections of “Self-care,” “Food Preparation,”
+“Home Management,” “Shopping,” “Communication,” “Financial Management,”
+“Leisure,” and “Mobility.” The level of difficulty for completion of each item is rated
+using a four-point Likert scale where 1 = unable, 2 = very difficult, 3 = moderately
+difficult, and 4 = not difficult. If an activity is not performed, the client can choose
+n/a = not applicable. The assessment takes approximately 15 min to administer and
+has good test–retest reliability of 0.822–0.967 across the 8 subsections (Smith et al.,
+2009).
+The LVIM Content Validity Questionnaire, developed by the researchers, was
+used to explore the participants’ expert opinion of the LVIM and to develop the
+focus group questions. The questionnaire included open-ended questions about recommended additions or modifications to the LVIM, clarity of the LVIM directions,
+its format and organization, cultural relevancy, as well as participants’ demographic
+information. Questions on participants’ demographic information were placed at
+the end of the questionnaire to avoid participants questioning the relevance of the
+demographic questions to the study (Forsyth & Kviz, 2006).
+Focus groups were held online using WebEx technology. Using an emergent design, the focus group questions were generated from the results of the LVIM Content Validity Questionnaire and were designed to further explore and reaffirm the
+participants’ opinions elicited with the questionnaire.
+Trustworthiness
+Trustworthiness of this study occurred through credibility, transferability, dependability, and confirmability (Gay, Mills, & Airasian, 2012). Credibility was established by using a two-part study. Participants’ opinions were first elicited with
+an open-ended questionnaire and then reaffirmed during a focus group. Also,
+study findings were replete with participants’ direct quotes. Transferability was
+increased by describing participants’ characteristics. Dependability was obtained
+by using field notes from several researchers and the faculty advisor (author),
+
+
+[page 6]
+Refinement of the LVIM: A Qualitative Study
+
+187
+
+multiple coders, establishment of a code book for the focus group results, and
+triangulation of results from all data sources. In addition, an audit trail of the study
+was maintained by the faculty advisor. Lastly, confirmability of the data was established by rechecking focus group transcripts for accuracy before coding began,
+peer review, and continuous review by the faculty advisor throughout the research
+study.
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Data Collection Procedures
+Twelve potential participants were contacted to explain the study and determine
+their interest in being in the study. After 10 of them agreed to participate and sent
+a letter of support to the author, recruitment of participants was concluded. Next,
+participants signed and returned informed consent letters approved through the author’s affiliated Institutional Review Board. Once all informed consent forms were
+returned, participants were sent a copy of the LVIM as well as the LVIM Content
+Validity Questionnaire. Participants completed the content questionnaire and returned it to the author. Over the following month, each participant administered
+the LVIM to 6 clients in order to judge its utility and to develop his or her opinion
+on how to further refine the tool.
+The second part of the study utilized online focus groups to collect data. The
+researchers conducted two back-to-back focus groups that lasted over 75 min
+in length using WebEx technology. This technology allowed participants and researchers to interact in real time and record audio and video of the sessions. Although an equal number of participants were planned for each WebEx session, interface difficulties prevented 1 participant from entering the first focus group. As a
+result, 4 participants interacted in the first focus group and 6 in the second.
+Data Analysis
+Data analysis began with participants’ responses to the LVIM Content Validity
+Questionnaires. Initial coding took place independently, with student researchers
+reviewing questionnaire responses to determine categories or topic areas (Creswell,
+2013). When all questionnaires were coded, the student researchers met with the
+faculty advisor to organize categories based on the replies to each question on the
+LVIM Content Validity Questionnaire. These categories were collapsed into 3 categories with related subcategories and were used to formulate the focus group questions and probes.
+Directly after each focus group was conducted, the audio and video recordings were obtained. Several of the student researchers transcribed the focus group
+recordings verbatim and other student researchers reviewed the transcriptions for
+accuracy. Three student researchers independently read and coded the first focus
+group transcript, while 2 others read and coded the second. After the initial coding
+was completed, the researchers met with the faculty advisor to discuss coding discrepancies and to develop a code book (Saldaña, 2009). Similar codes were grouped
+together to form focus group themes and subthemes (Creswell, 2013). Thematic development provided an understanding of participants’ opinions on how to refine the
+LVIM.
+
+
+[page 7]
+188
+
+Smith
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+TABLE 1. Participant, Education and Professional Certifications
+Participant No.
+
+State
+
+Education Level
+
+Professional Certification
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+MD
+LA
+LA
+IL
+IL
+VA
+ME
+TX
+PA
+NJ
+
+BS
+MS
+BS
+MS
+MS
+BS
+MS
+BS
+MS
+MS
+
+CLVT
+COMS, CLVT
+None
+None
+None
+None
+CLVT
+CLVT
+None
+SCLV, CLVT
+
+RESULTS
+The 10 participants in the study included 7 females (70%) and 3 males (30%). Education level of participants included bachelor and master degrees and 3 different types of professional certifications in low vision rehabilitation including: Certified Low Vision Therapist (CLVT), Certified Orientation and Mobility Specialist
+(COMS), and Specialty Certificate in Low Vision (SCLV) with some participants
+having dual professional certificates (see Table 1). All but one of the participants
+was a certified occupational therapist. Participants practiced in 8 different states
+including: Maryland, Louisiana, Illinois, Virginia, Maine, Texas, Pennsylvania, and
+New Jersey. The range of total years of practice for participants was 23 with a mean
+of 12.95 years and the range of years of practice in low vision was 20 with a mean
+of 6.45.
+Data analysis of the LVIM Content Validity Questionnaire yielded three topic
+areas to explore in the focus groups. These included: (a) rewording of items and
+changes to the sequence of subcategories to increase clinical utility, (b) items to add
+or omit from the LVIM to improve content validity, and (c) existing client-centered
+aspects of the LVIM.
+Analysis of the focus group transcripts yielded 18 codes that were combined and
+collapsed to form 3 themes and related subthemes. Theme 1: Recommended refinements to the LVIM to improve clinical utility consisted of the 2 subthemes formatting
+and rating clarification. The subtheme of formatting was developed to address participant recommendations related to the inclusion of areas where comments could
+be documented, the organization of some of the items, and the provision of lists of
+items to replace some single items.
+In reference to organization of items, Participant 9 explained that sometimes
+the item order impeded the clients’ ability to understand the context of the item.
+For example, because the item “cutting food” came before “identifying foods when
+eating,” she had to explain this item referred to cutting food on their plate to eat,
+not for preparing food in the kitchen.
+Development of the subtheme of rating clarification was garnered from two participants’ comments. Participant 9 suggested that administration of the LVIM utilize rating cards similar to the cards used in the COPM (Canadian Occupational
+Performance Measure) because her clients kept forgetting what their choices were.
+
+
+[page 8]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Refinement of the LVIM: A Qualitative Study
+
+189
+
+Participant 1 felt that the LVIM rating scale required further clarification and stated,
+“Sometimes it wasn’t clear in defining [the rating scale] . . . there are no real guidelines for what ‘moderate’ is.”
+Theme 2: Suggested changes to the LVIM content consisted of the two subthemes:
+additions and rewording. The subtheme of additions emerged from participants’
+suggestions for adding new items to the LVIM pertaining to technology, religious
+reading materials, mobility, and self-advocacy. During the discussion of items to
+include related to technological advancements, Participant 7 commented, “. . . we
+have a lot of clients now that are very much using e-books, the Kindle, and the
+iPad.”
+A discussion also arose around the wording of the items “arranging transportation” and “finding help when needed.” One participant deduced that both items
+were really self-advocacy tasks and could be combined. Participant 9 suggested
+“putting something [regarding self-advocacy] under the “Communication” [subsection], because that’s truly where [self-advocacy] does fall . . .”
+Other suggestions by participants included adding new subsections of “Medication Management,” “Safety/Mobility,” and “Reading.” Participant 5, remarked,
+“Right now we use FIM [Functional Independence Measure] scores, and I follow
+ADLS, IADLS, near reading, intermediate, and distance viewing. So for me personally I would like a subsection [for reading].”
+The second subtheme, rewording of items, emerged through suggestions from
+participants to help clarify items such as “choosing clothing,” “telling apart toiletries,” “volunteering in the community,” “making appointments,” “cutting food,”
+and “reading medication directions.” The majority of participants agreed with
+the recommendations to change “choosing clothing” to “identifying clothing” and
+“telling apart toiletries” to “identifying toiletries.” Furthermore, the majority of
+participants agreed on changing the item, “volunteering in community” to “community involvement.” Participant 2 rationalized the suggested change:
+Being involved in the community is a lot more broad. . . . I think the impression
+a few of my people got when I asked if they were volunteering in the community
+was almost, they pulled back from it. . . I don’t want to say it made them feel
+guilty, but almost something along that line.
+Some participants felt the item “making appointments” was not difficult but
+recording or documenting appointments was, and that this item should be reworded
+accordingly. In addition, one participant suggested item, “cutting food” was confusing to clients and required further explanation to clarify that this item referred to
+“. . . cutting food on their plate.” Lastly, some participants felt that the wording of
+item “reading medication directions” was too restrictive. Instead of the word “reading,” Participant 7 suggested that “managing” was a more accurate way of capturing
+all the tasks involved in taking medications.
+Under Theme 3: Perceived utility of the LVIM, 5 subthemes emerged including
+versatility, ease/time to administer, addresses item bias, client-centered, and facilitates
+clinical reasoning and guides practice. Two participants emphasized the versatility of
+the LVIM, as it can be used in diverse practice settings. Participant 6, in particular,
+articulated the use of the LVIM in the home care setting:
+
+
+[page 9]
+190
+
+Smith
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+I know everybody doesn’t practice in the home, that’s what I do, and for me
+this is helpful. We sort of walk around the house while we’re filling it out and
+depending on which room we’re in, kind of categorizes the things that we’re
+talking about.
+In regards to the subtheme of ease/time to administer, the majority of the participants agreed that the LVIM was “quick” and “easy” to administer, taking about
+10–20 min.
+During the discussion of cultural sensitivity, participants noted two forms of potential item bias (age and gender) and the subtheme of addresses item bias emerged.
+In regards to age bias, Participant 5 commented that a lot of elderly clients no longer
+perform some of the heavy activities listed on the LVIM. Participant 8, the sole participant who expressed concern for gender bias, stated that male clients were not
+likely to perform activities such as “mopping the floor” but could select the answer
+“not applicable” in such cases. Most of the participants agreed that the LVIM exhibited no apparent cultural bias. Participant 5 shared, “Chicago is an urban environment so we did use this, the LVIM, with many different backgrounds of patients so
+I think it was appropriate across the board with everyone we use it for.” A few participants from rural areas also agreed. Participant 7 stated, “[the LVIM] did seem
+to cross different cultures rather effectively. I didn’t find anything uncomfortable
+for any of the clients that I worked with.”
+The researchers developed the client-centered subtheme from discussions of the
+LVIM related to rapport building and identification of problematic issues for clients.
+Participants shared that the LVIM contributed to building rapport with their clients.
+Participant 10 said:
+I just think [the LVIM] helped streamline the interview process a little bit more
+in setting priorities more with the clients. . . . I also agree that it helps with prodding the conversation along when they tell you they don’t have a problem and
+we all know that they obviously do.
+The final subtheme, facilitating clinical reasoning and guiding practice, emerged
+as half of the participants agreed that the LVIM could serve as a precursor to referrals. Participant 6 shared, “I think this is good to screen out those things that
+maybe they are having big problems with that and we’re not qualified to do [orientation and mobility] training, but then we should get them hooked up with someone
+who can.” A few participants also agreed that the LVIM helped them as clinicians
+identify problematic areas. Participant 2 stated:
+[The LVIM] has value as a short item to kind of put up a red flag that says ok,
+later I need to go back and ask questions about, or maybe refer somebody for
+help with home management or transportation or whatever.
+Additionally, participants agreed that the LVIM assisted in developing a plan of
+care and writing goals.
+The themes and subthemes that were derived from the focus groups’ data contributed to answering the research questions of: (a) what insight can experienced
+low vision therapists provide to improve clinical utility of the LVIM? And (b) what
+
+
+[page 10]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Refinement of the LVIM: A Qualitative Study
+
+191
+
+modifications of LVIM items do the same experienced low vision therapists suggest
+be made to strengthen the content validity?
+Theme 1: Recommended refinements to the LVIM to improve clinical utility
+answered research question (a). Therapists suggested that changes to the LVIM
+formatting such as adding comment lines and reordering items as well as clarification of its rating scale would improve the clinical utility of the LVIM. Theme 2:
+Suggested changes to the LVIM content answered research question (b). Therapists
+concluded that adding items and subcategories, and rewording other items would
+strengthen the content validity of the LVIM. These changes and refinements to
+the LVIM resulted in 11 reworded items, 5 combined items, 4 added items, added
+comment lines and goal section, and 3 moved items, and 1 moved subsection.
+Lastly, the emergence of Theme 3: Perceived utility of the LVIM demonstrated
+existing qualities of the LVIM such as its client-centeredness, quick and easy to
+administer, helps in formulating a plan of care, and its versatility for use in different
+treatment settings and with diverse client populations.
+DISCUSSION
+Results of this study yielded modifications to the LVIM to improve its clinical utility and strengthen its content validity. To improve clinical utility, sections could be
+added where therapists could document comments and the sequence of items and
+subsections could be better organized to provide a more logical progression during administration of the assessment. LVIM content validity could be strengthened
+by adding new items and/or subsections, item lists, or by rewording items. Positive
+attributes of the LVIM make it useful in the provision of low vision rehabilitation
+by experienced low vision therapists and acceptable by the clients. No cultural bias
+was detected and for assessments items, which may be affected by age, the client
+can choose the items are not applicable.
+In contrast to other studies, participants in this study did not recommend any
+of the 55 items of the LVIM be discarded indicating that items on the LVIM represented typical activities addressed in low vision rehabilitation. In a study by Becker,
+Lambert, Schulz, Wright, and Burnet (1985) on the refinement of an instrument to
+measure the activity level of the blind, participants recommended 23 of the instrument’s 99 items be culled. In their development of an ADL assessment, DahlinIvanoff et al.’s (2001) assessment initially consisted of 65 items. This number was reduced to 53 from discussions in 2 focus groups with elderly participants with AMD.
+Then, 3 occupational therapists in their study identified 24 of the remaining items
+as not useful in the clinic setting and they were removed.
+Combining and rewording of items suggested in this study have been used in the
+refinement of other low vision assessments. Head, Babcock, Goodrich, and Boyless
+(2000) dropped some of their initial items but also reduced the number of items
+through combining and rewording of others. The number of items in the revised
+LVIM did not decrease by the number of items combined (5) because 4 items were
+added.
+Limitations
+Study limitations included the absence of pilot testing of the LVIM Content Validity Questionnaire. One question on the LVIM Content Validity Questionnaire
+
+
+[page 11]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+192
+
+Smith
+
+intended to assess participants’ perceptions of its appropriateness for use with various ethnic, racial, and socioeconomic groups was misinterpreted. Participants gave
+unrelated responses and this poorly constructed question may have led to inadequate data collection. Researchers also exercised poor time management as evidenced by a limited amount of time to analyze the questionnaire results that were
+required to develop appropriate focus group questions. In addition, they scheduled back-to-back focus groups, which permitted only cursorily analysis of the data
+obtained in focus group one before beginning focus group two. This affected researchers’ ability to incorporate findings from focus group one into questions and
+probes used with focus group two. Participants having difficulty with the technology
+may have been distracted by connectivity issues versus concentrating on the questions at hand. Finally, the researchers did not engage in WebEx practice sessions
+with participants to ensure each participant’s ability to utilize the technology.
+Implications for Practice and Future Research
+The LVIM has been shown to have good clinical utility and can be used in evaluating a client with low vision and in determining rehabilitation outcomes. It is easy to
+use, quick to administer, and no additional training is needed to administer it as the
+directions are self-explanatory. The information solicited with the LVIM is meaningful and relevant to the rehabilitation process for clients with low vision. Lastly, it
+has been reformatted to reflect the recommendations of practicing low vision therapists (see Appendix). The content validity of the LVIM has been strengthened by
+including and confirming that its items are valid in the rehabilitation of clients with
+low vision.
+It is critical at this stage of development and refinement of the LVIM that additional research be done to document its reliability and validity. A study is underway to establish the measurement validity of the LVIM through a Rasch analysis.
+A Rasch analysis of the LVIM will lead to a more efficient VFA and one which will
+reduce client burden by assessing the clients on only the most relevant assessment
+items (Classen & Velozo, 2014). Once the LVIM’s psychometric properties are fully
+established, it will be a valuable low vision assessment that contributes to low vision
+therapists’ client-centered practice.
+CONCLUSION
+In this qualitative study, 10 experienced low vision therapists provided insight on
+suggested improvements to the LVIM. Refinements made to the LVIM have improved its clinical utility and content validity. It is a client-centered tool that aids
+in formulating a treatment plan, is easy to administer, and can be used in different contexts. In addition, it measures outcomes of the treatment provided. Further
+research is needed on the refined LVIM to establish its psychometric properties.
+ACKNOWLEDGMENTS
+The author thanks the following students who participated in the research project of
+which the focus groups described in this manuscript were part: Laurel Bragg, Marie
+Chandler, Cory Hill, Jeronimo Jimenez, Jaime McGuire, Jennifer Norris, Megan
+
+
+[page 12]
+Refinement of the LVIM: A Qualitative Study
+
+193
+
+Setlock, Linsey Shakespeare, Katie Shuler, and Talia Schuss. In addition, the author
+thanks Carolyn DiMaria, her research assistant, for her assistance in editing the
+manuscript.
+DECLARATION OF INTEREST
+The author reports no conflict of interest. The author alone is responsible for the
+content and writing of this paper.
+
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+ABOUT THE AUTHOR
+Theresa Marie Smith, PhD, OTR/L, CLVT, is Assistant Professor in the Department of Occupational Therapy and Occupational Science, Towson University,
+Towson, Maryland, USA.
+REFERENCES
+American Occupational Therapy Association. (2008). Occupational therapy practice framework:
+Domain and process (2nd ed.). American Journal of Occupational Therapy, 62(6), 625–683.
+Becker, S.W., Lambert, R.W., Schulz, E.M., Wright, B.D. & Burnet, D.L. (1985). An instrument to
+measure the activity level of the blind. International Journal of Rehabilitative Research, 8(4),
+415–424.
+Binns, A.M., Bunce, C., Dickinson, C., Harper, R., Tudor-Edwards, R., Woodhouse, M., et al.
+(2012). How effective is low vision service provision? A systemic review. Survey of Ophthalmology, 57(1), 34–65.
+Burmedi, D., Becker, S., Heyl, V., Wahl, H.W. & Himmelsbach, I. (2002). Behavioral consequences of age-related low vision: A narrative review. Visual Impairment Research, 4(1),
+15–45.
+Centers for Medicare and Medicaid Services. (2002). Program memorandum intermediaries/carriers. Transmittal AB-02078. Baltimore: Centers for Medicare and Medicare Services.
+Retrieved from http://www.cms.gov/Transmittals/downloads/AB03077.pdf
+Classen, S. & Velozo, C. (2014). Critiquing assessments. In: B.A. Boyt Schell, G. Gillen
+and M. Scaffa (Eds.), Willard & Spackman’s occupational therapy (12th ed.), pp. 302–321.
+Philadelphia, PA: Lippincott Williams & Wilkins.
+Creswell, J.W. (2007). Qualitative inquiry & research design: Choosing among five approaches
+(2nd ed.). Thousand Oaks, CA: Sage.
+Creswell, J.W. (2013). Qualitative inquiry & research design: Choosing among five approaches
+(3rd ed.). Thousand Oaks, CA: Sage.
+Dahlin-Ivanoff, S. (2002). Focus group discussions as a tool for developing a health education
+programme for elderly persons with visual impairment. Scandinavian Journal of Occupational
+Therapy, 9(1), 3–9.
+Dahlin-Ivanoff, S., Sonn, U. & Svensson, E. (2001). Development of an ADL instrument targeting elderly persons with age-related macular degeneration. Disability & Rehabilitation, 23(2),
+69–79.
+Eye Diseases Prevalence Research Group. (2004). Causes and prevalence of visual impairment among adults in the United States. Archives of Ophthalmology, 112(4), 477–485. doi:
+10.1001/archopht.122.4.477
+Forsyth, K. & Kviz, F.J. (2006). Survey research design. In: G. Kielhofner (Ed.), Research in occupational therapy, pp. 91–109. Philadelphia, PA: F. A. Davis.
+Gaiser, T.J. (2008). Online focus groups. In: N. Fielding, R.M. Lee and G. Blank (Eds.), The SAGE
+handbook of online research methods. Thousand Oaks, CA: Sage.
+Gay, L.R., Mills, G.E. & Airasian, P. (2012). Educational Research: Competencies for analysis and
+application (10th ed.). Upper Saddle River, NJ: Pearson.
+
+
+[page 13]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+194
+
+Smith
+
+Gilbert, M.P. & Baker, S.S. (2011). Evaluation and intervention for basic and instrumental activities of daily living. In: M. Warren and E.A. Barstow (Eds.), Occupational therapy interventions
+for adults with low vision, pp. 227–267. Bethesda, MD: AOTA Press.
+Harper, R., Doorduyn, K., Reeves, B. & Slater, L. (1999). Evaluating the outcome of low vision
+rehabilitation. Ophthalmic and Physiological Optics, 19(1), 3–11.
+Haymes, S.A., Johnston, A.W. & Heyes, A.D. (2001). The development of the Melbourne low vision ADL index: A measure of vision disability. Investigative Ophthalmology & Visual Science, 42(6), 1215–1225.
+Head, D.N., Babcock, J.L., Goodrich, G.L. & Boyless, J.A. (2000). A geriatric assessment of
+functional status in vision rehabilitation. Journal of Visual Impairment and Blindness, 9(6),
+307–321.
+Kimberlin, C.L. & Winterstein, A.G. (2008). Validity and reliability of measurement instruments
+used in research. American Journal of Health System Pharmacists, 65(23), 2276–2284.
+Kroll, T., Barbour, R. & Harris, J. (2007). Using focus groups in disability research. Qualitative
+Health Research, 17(5), 690–698.
+Long, R.G., Crews, J.E. & Mancil, R. (2000). Creating measures of rehabilitation outcomes for
+people who are visually impaired: The FIMBA project. Journal of Visual Impairment & Blindness, 94(5), 292–306.
+Mangione, C.M., Phillips, R.S., Seddon, J.M., Lawrence, M.G., Cook, E.F., Dailey, R., et al. (1992).
+Development of the ‘Activities of Daily Vision Scale’: A measure of visual functional status.
+Medical Care, 30(12), 1111–1126.
+Massof, R.W., Ahmadian, L., Grover, L.L., Deremeik, J.T., Goldstein, J.E., Rainey, C., et al.
+(2007). The activity inventory: An adaptive visual function questionnaire. Optometry and Vision Science, 84(8), 763–774.
+National Eye Institute. (2011). What you should know about low vision. Retrieved from
+http://www.nei.nih.gov/health/lowvision/LowVisPatBro2.pdf
+Pesudovs, K. & Coster, D.J. (1998). An instrument for assessment of subjective visual disability
+in cataract patients. British Journal of Ophthalmology, 82(6), 617–624.
+Rees, G., Saw, C., Lamoureux, L. & Keeffe, E. (2007). Self-management programs for adults with
+low vision: Needs and challenges. Patient Education and Counseling, 69, 39–46.
+Rudman, D. & Hannah, S. (1998). An instrument evaluation framework: Description and application to assessments of hand function. Journal of Hand Therapy, 11, 266–277.
+Saldaña, J. (2009). The coding manual for qualitative researchers. Los Angeles, CA: Sage.
+Sight Connection (n.d.). Information about vision loss and the major causes. Retrieved from
+http://www.sightconnection.org/low-vision-rehabilitation/vision-loss-causes-information/
+Smart, A.D. (2006). A multi-dimensional model of clinical utility. International Journal of Quality
+in Health Care, 18(5), 377–382.
+Smith, T.M. (2009). Smith’s Low Vision Independence Measure (LVIM). Unpublished
+instrument.
+Smith, T.M., Glasson, H.E., Tioseco, T., & Welborn, K. (April, 2009). Development of an ADL
+Independence Assessment for Person’s with Low Vision. Poster Presentation at the AOTA
+National Conference, Houston, TX.
+Stancanelli, J. (2010). Conducting an online focus group. The Qualitative Report, 15(4), 761–765.
+Steinberg, E.P., Tielsch, J.M., Schein, O.D., Javitt, J.C., Sharkey, P., Cassard, S.D., et al. (1994).
+The VF-14: An index of functional impairment in patients with cataract. Archives of Ophthalmology, 112(5), 630–638.
+U.S. Census Bureau. (2010). The next four decades: The older population in the
+United States 2010 to 2050. Population Estimates and Projections. Retrieved from
+http://www.census.gov/prod/2010pubs/p25–1138.pdf.
+Wilkinson, S. (2004). Focus group research. In: D. Silverman (Ed.), Qualitative research: Theory,
+method, and practice, pp. 177–199. Thousand Oaks, CA: Sage.
+
+
+[page 14]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+Refinement of the LVIM: A Qualitative Study
+
+Appendix
+
+195
+
+
+[page 15]
+Phys Occup Ther Geriatr Downloaded from informahealthcare.com by Michigan University on 12/25/14
+For personal use only.
+
+196
+Smith
+

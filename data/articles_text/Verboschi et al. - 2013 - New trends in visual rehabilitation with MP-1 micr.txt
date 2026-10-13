@@ -1,0 +1,806 @@
+[page 1]
+In
+te
+rn
+az
+io
+na
+
+New trends in visual rehabilitation with MP-1
+microperimeter biofeedback: optic neural
+dysfunction
+
+li
+
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 285
+
+Francesca Verboschi, MDa,b
+Daniela Domanico, MDc
+Marcella Nebbioso, MDb,d
+Giulia Corradetti, MDe
+Sergio Zaccaria Scalinci, MDf
+Enzo Maria Vingolo, MD, PhDa,b
+
+Department of Ophthalmology, A. Fiorini Hospital,
+Terracina (LT), Italy
+b
+Sapienza University of Rome, Rome, Italy
+c
+Department of Ophthalmology, S.M. Goretti
+Hospital, Latina, Italy
+d
+Department of Sense Organs, Policlinico Umberto I,
+Rome, Italy
+e
+San Raffaele Scientific Institute Hospital, Milan, Italy
+f
+Department of Medical and Surgical Sciences,
+University of Bologna, Italy
+a
+
+KEY WORDS: bivariate contour ellipse area (BCEA), fixation, glaucoma, microperimetry, optic neural dysfunction, rehabilitation.
+
+Introduction
+
+Glaucoma is not a single entity. The term glaucoma
+refers to a group of ocular disorders with multifactorial
+etiology, all of which are characterized clinically by the
+presence of intraocular pressure-associated optic neuropathy. All the forms are potentially progressive and
+can lead to blindness. The primary site of neurological
+injury is the optic nerve head (Casson et al., 2012).
+It has been estimated that 12.3% of the worldwide
+population and 21.8% of European adults (including
+18% of those over 50 years of age) have been diagnosed with glaucoma (Resnikoff et al., 2004; Bourne,
+2006; Prokofyeva and Zrenner 2012).
+Overall, glaucoma is responsible for 5.2 million cases
+of blindness worldwide (15% of global blindness)
+(Thylefors and Négrel, 1994). The management of
+patients with advanced glaucoma is complex, partly
+because the primary risk factor for glaucoma is age.
+Once the defect approaches the fixation area, visual
+field assessment may be of little value in monitoring
+the progression of the disease. Advanced optic neural
+dysfunction due to glaucoma is considered to be present when there is a loss of vision great enough to produce significant symptoms and functional impairment,
+which can include difficulty in performing visual tasks
+and tiring easily on performing such tasks. In view of
+these difficulties, we decided to evaluate the efficacy
+of visual rehabilitation with MP-1 microperimeter
+(NIDEK Technologies Srl, Padua, Italy) biofeedback in
+patients with advanced glaucoma.
+Visual rehabilitation is a therapeutic approach that has
+been applied to different ocular diseases characterized
+by visual deterioration and loss of stable central fixation
+
+Abstract
+
+izi
+o
+
+ni
+
+Correspondence to: Marcella Nebbioso
+marcella.nebbioso@uniroma1.it
+
+central fixation. Mean retinal sensitivity changed
+from 7.43±8.28 dB to 8.33±9.04 dB (p<0.05); the
+mean best corrected visual acuity was 0.98±0.66
+logMAR at the baseline assessment, and 0.75±0.6
+logMAR at the end of rehabilitation (p>0.05); reading speed improved from a mean value of 31.4±4.3
+words/minute to 55.6±3.2 words/minute at the end
+of the training (p<0.05). The BCEA changed from
+0.94±0.39 deg 2 to 0.86±0.46 deg 2 (p=0.76).
+Rehabilitation with MP-1 biofeedback in patients
+with advanced glaucoma is a useful means of
+improving these patients’ fixation stability, reading
+speed and quality of life.
+
+©
+
+CI
+
+C
+
+Ed
+
+The aim of this study was to evaluate the efficacy
+of visual rehabilitation with MP-1 microperimeter
+biofeedback in advanced optic neural dysfunction
+due to glaucoma, and to precisely characterize fixation stability and location in affected patients.
+Ten patients (18 eyes) with advanced glaucoma
+were submitted to a rehabilitation protocol that
+consisted of: a 25-item questionnaire (National
+Eye Institute Visual Functioning Questionnaire);
+measurement of visual acuity; a reading speed
+test; microperimetry with fixation study, retinal
+sensitivity and the bivariate contour ellipse area
+(BCEA). The rehabilitation program consisted of
+10 training sessions of 10 minutes per eye performed over a period of one week and was repeated at four months, eight months, and one year.
+Statistical analysis was performed using the
+Student’s t-test and Spearman correlation; p values less than 0.05 were considered statistically
+significant. In 13 eyes fixation changed from
+unstable to relatively unstable while its location
+changed from predominantly eccentric to predominantly central. In five eyes, fixation changed from
+relatively unstable to stable with a change of location from poor central fixation to predominantly
+Functional Neurology 2013; 28(4): 285-291
+
+285
+
+
+[page 2]
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 286
+
+F. Verboschi et al.
+
+li
+
+affected eye having a best-corrected visual acuity below
+20/200. All patients had advanced glaucomatous visual
+field loss, with a mean deviation worse than -24 dB, only
+a central or temporal island remaining in the visual field
+gray scale, and clear evidence of glaucoma in the fellow
+eye (manifesting as glaucomatous-appearing discs and
+a glaucomatous visual field).
+Institutional review board approval was obtained and
+written informed consent was obtained from all participants. All procedures adhered to the tenets of the
+Declaration of Helsinki. This research received no
+specific grant from any funding agency in the public,
+commercial or not-for-profit sectors.
+All the patients then underwent the same low-vision
+rehabilitation protocol, which consisted of: a 25-item
+questionnaire, assessment of distance and near visual acuity, a reading speed test (words/min), a fixation
+test, microperimetry, and 10 training sessions with
+microperimeter MP-1 acoustic biofeedback.
+The 25-item questionnaire (National Eye Institute Visual
+Functioning Questionnaire, NEI-VFQ-25) developed
+under the sponsorship of the United States National Eye
+Institute (NEI), measures the influence of visual disability and visual symptoms on emotional well-being and
+social integration, as well as on task-oriented domains
+dependent on visual functions. The NEI-VFQ-25 comprises 12 subscales: General Health (1 question),
+General Vision (1 question), Near Vision (3 questions),
+Distance Vision (3 questions), Driving (2 questions),
+Peripheral Vision (1 question), Color Vision (1 question),
+Ocular Pain (2 questions), Role Limitations (2 questions), Dependency (3 questions), Social Function (2
+questions), and Mental Health (4 questions). Answers to
+each question on the NEI-VFQ-25 were converted to a
+100-point scale in which 100 was the best possible
+score and 0 the worst possible score. Each subscale
+score represents the average of one or more questions,
+as previously described (Mangione et al., 2001).
+Best distance spectacle corrected visual acuity (BCVA)
+was determined using the Snellen chart, and converted to logarithm of the minimum angle of resolution
+(logMAR) for statistical analyses. Near visual acuity
+was determined at 30 cm with appropriate correction.
+Reading speed for each eye was measured by reading words written in black on a white background
+(Times New Roman font) at a distance of 30 cm with
+appropriate correction. Subjects were asked to read
+aloud, monocularly, as quickly as possible without
+skipping words. The sentences had no punctuation
+and contained words that occur frequently in Italian.
+Microperimetry and fixation test were performed with an
+MP-1 microperimeter (NIDEK Technologies Srl, Padua,
+Italy) using the automated program, the 4-2 strategy
+threshold test, and a 1° single cross as fixation target.
+However, at the beginning of the study, if a patient was
+not able to see this target, the size was enlarged to a 2°
+single cross fixation target. After training, only a 1° single cross target was used for all patients.
+Retinal threshold sensitivity was measured in all eyes
+using the mire of Goldmann III (round shape with a
+white background) with stimulus intensity ranging from
+0 to 20 dB. Stimulus presentation time was 200 ms.
+
+Materials and methods
+
+ni
+
+In
+te
+rn
+az
+io
+na
+
+(Vingolo et al., 2009a). Through biofeedback methods,
+adopted in various branches of medicine, the patient
+learns in successive stages: i) to appreciate the variations of a bodily function through a system that measures
+and converts these variations into acoustic and/or luminous signals; ii) to modify these signals and, therefore,
+the function connected to them; and iii) to automatically
+control the function through practice, even in the
+absence of the feedback signal (Contestabile et al.,
+2002). Biofeedback applied to vision is still being studied,
+both in its methodological and its physiological aspects.
+Crossland et al. (2005), in a study of patients with macular disease, showed that the MP-1 microperimeter
+exploits cerebral plasticity and neurosensory adaptation
+to the central scotoma to improve these patients’ visual
+abilities. Indeed, such patients often develop a new preferred retinal locus (PRL), which can be defined as a discrete retinal area that contains more than 20% of the fixation points in a location that is considered unfavorable
+for reading and usually not the most profitable in terms of
+retinal sensitivity (Crossland et al., 2005).
+This study was conducted to evaluate the efficacy of
+visual rehabilitation with MP-1 acoustic biofeedback in
+patients with advanced optic neural dysfunction due to
+glaucoma; we also aimed, through close monitoring
+with MP-1 microperimetry, to precisely characterize
+fixation stability and location in these patients, and to
+improve their reading speed. We also evaluated the
+utility of the bivariate contour ellipse area (BCEA) in
+assessing visual function in advanced glaucoma.
+
+©
+
+CI
+
+C
+
+Ed
+
+izi
+o
+
+Between February 2011 and March 2012, we recruited ten patients with advanced open-angle glaucoma
+(7 males, 3 females; mean age: 65 years, range: 5971 years) at the Department of Ophthalmology, A.
+Fiorini Hospital, Sapienza University of Rome, in
+whom we examined a total of 18 eyes.
+Inclusion criteria were: age between 40 and 75 years,
+a minimum 10-year history of glaucoma, a cup-to-disk
+ratio ≥ 0.7 or a cup-to-disk ratio asymmetry ≥ 0.2
+between adjacent eyes, treatment with hypotonic therapy; all the patients had a middle school diploma.
+Exclusion criteria were: presence of angle-closure and
+secondary glaucoma, previous eye surgery (prior to the
+initial referral), previous corneal diseases, uveitis, vitreo-retinal interface diseases and retinal detachment.
+The diagnosis of advanced glaucoma was based on a
+complete eye examination which included: biomicroscopic examination of the anterior and posterior segments, visual acuity, Goldmann applanation tonometry, gonioscopy with three-mirror Goldmann lens, visual field examination by Humphrey 30-2 static perimetry, and spectral domain optical coherence tomography (Heidelberg HRA-2, TMB module, Heidelberg,
+Germany) with measurement of peripapillary retinal
+nerve fiber layer thickness.
+Advanced glaucoma was defined as the presence of
+either cup-to-disk ratio ≥ 0.7 or a cup-to-disk ratio asymmetry ≥ 0.2 between adjacent eyes, with one severely
+
+286
+
+Functional Neurology 2013; 28(4): 285-291
+
+
+[page 3]
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 287
+
+Visual rehabilitation in glaucoma
+
+li
+
+desired final fixation position. All the procedures were
+followed on a monitor. The training was repeated at
+four months, eight months and one year.
+At the end of the rehabilitation (12 months), the 25item questionnaire (NEI-VFQ-25), the assessment of
+distant and near visual acuity, and the reading speed,
+fixation and microperimetry tests were repeated.
+Microperimetry was repeated with the follow-up function, which automatically retests the retinal sensitivity
+in exactly the same locations and under the same conditions as in the previous examination.
+
+In
+te
+rn
+az
+io
+na
+
+According to Fujii et al. (2002), the fixation pattern
+was graded on the basis of two parameters: i) the
+location of fixation i.e., the position of fixation with
+respect to the center of the foveal avascular zone;
+ii) the stability of fixation i.e., the ability of the eye to
+maintain a stable fixation in the PRL.
+The location of fixation was defined as predominantly
+central when more than 50% of the fixation points
+were located within a predetermined limit area of variation of a 2° diameter circle centered in the fovea.
+Eyes with less than 50% but more than 25% of the
+preferred fixation points were classified as showing
+poor central fixation. Eyes with less than 25% of the
+preferred fixation points were classified as predominantly eccentric fixation.
+The grading of fixation stability was based on the variation of the PRL. If more than 75% of the fixation points
+were located within a predetermined limit area of variation of a 2° diameter circle centered in the baricenter
+of all fixation points, the fixation defined as stable. If
+less than 75% of the fixation points were located within a 2° diameter circle, but more than 75% of the fixation points were located within a 4° diameter circle, the
+fixation was defined as relatively unstable. If less than
+75% were located within a 4° diameter circle, the fixation was considered unstable (Fujii et al., 2002).
+Fixation stability was also quantified by calculating a
+BCEA encompassing 68% of fixation points based on
+fixation data collected by the MP-1 microperimeter.
+For statistical analysis, the BCEA values were converted into their logarithms to better approximate a
+normal distribution.
+The rehabilitation program consisted of 10 training
+sessions of 10 minutes per eye performed over a period of one a week using the MP-1 acoustic biofeedback examination. The patients were asked to move
+their eyes according to an audio feedback which
+advised them whether they were getting closer to the
+
+Statistical analysis
+
+Statistical analysis was performed using paired
+Student’s t-test; p values less than 0.05 were considered statistically significant for all tests because of the
+preliminary nature of this study. We also used a
+Spearman correlation function to compare retinal sensitivity with visual acuity and reading speed.
+
+Results
+
+©
+
+CI
+
+C
+
+Ed
+
+izi
+o
+
+ni
+
+We examined 10 patients with advanced glaucoma (7
+males and 3 females), for a total of 18 eyes, between
+February 2011 and March 2012. The mean patient age
+was 65 years (range: 59-71 years).
+All participants completed the rehabilitation program
+at the end of which, 13 of the 18 eyes showed an
+improvement in fixation stability from relatively unstable to stable within the 2° diameter circle, while the
+location of fixation changed from predominantly
+eccentric to predominantly central. In five eyes fixation
+stability improved from unstable to relatively unstable
+within the 2° diameter circle with a change of location
+from poor central fixation to predominantly central fixation (Fig.s 1 and 2). Fixation stability, quantified by
+
+Figure - 1 MP-1 microperimeter images. The fixation
+map at baseline (A), after 4 months (B), after 8
+months (C) and at the end of the training (D) with MP1 biofeedback in the left eye of one patient.
+Functional Neurology 2013; 28(4): 285-291
+
+287
+
+
+[page 4]
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 288
+
+In
+te
+rn
+az
+io
+na
+
+li
+
+F. Verboschi et al.
+
+Figure - 2 Image of the fundus with interpolated colorimetric map obtained with MP-1 microperimeter.
+(A) left eye of one patient before training, in which fixation is unstable; (B) left eye of the same patient after
+training, in which fixation is relatively unstable.
+
+visual acuity, reading speed and quality of life. Takanori
+et al. (2009) investigated fixation behavior in 39 eyes
+with advanced glaucoma using the MP-1 microperimeter and concluded that it is able to illustrate the fixation
+patterns in glaucomatous eyes and that patterns are
+well correlated with retinal sensitivity.
+Biofeedback techniques applied to vision are still
+being studied, both in their methodological and physiological aspects. Various authors (Vingolo et al.,
+2009a; Contestabile et al., 2002; Giorgi et al., 2005;
+Mezawa et al., 1990) have proposed different visual
+rehabilitation techniques and instruments using
+biofeedback strategies ranging from basic systems,
+such as the Accommotrac Vision Trainer (The Nasa
+Connection, Seattle, WA) and improved biofeedback
+integrated system devices, to more complex instruments such as the fundus related MP-1 microperimeter (NIDEK Technologies Srl, Padua, Italy).
+The Accommotrac Vision Trainer is a high-speed
+infrared optometer which records the vergence of light
+reflected from the retina at a rate of 40 Hz, then converts the signal into an auditory tone which increases
+in pitch and rate as accommodation decreases. The
+patient hears the tone and thus receives immediate
+auditory feedback as to his/her accommodative status.
+The MP-1 microperimeter biofeedback examination
+allows the ophthalmologist to train the patient to fixate
+the target with a new PRL. Patients are asked to move
+their eyes according to audio feedback which tells them
+whether they are getting closer to a specific retinal
+region chosen by the ophthalmologist. The patient’s
+perception of the sound increases his/her conscious
+attention, thereby facilitating the lock-in of the visual target and increasing the time the fixation target itself
+remains on the retina. This mechanism probably facilitates transmission of stimuli between intraretinal neurons as well as between the retina and brain, where the
+highest level of stimuli processing takes place, thereby
+supporting a “remapping phenomenon” (Alpeter et al.,
+2000; Buia and Tiesinga, 2006). Andrade et al. (2001)
+have shown that patients are usually unaware of their
+scotoma because, when the retina is damaged by a
+local lesion (induced scotoma), the cortical neurons
+driven by stimuli originating in this region do not remain
+inactive but become selective to stimuli originating in
+other parts of the retina. This process occurs in two distinct steps, each with its own time scale: i) a fast red is-
+
+Ed
+
+Discussion
+
+izi
+o
+
+ni
+
+calculating a BCEA encompassing 68% of fixation
+points based on data collected by the MP-1
+microperimeter, changed from 0.94±0.39 deg2 to
+0.86±0.46 deg2 but this change between mean BCEA
+baseline and mean BCEA after rehabilitation was not
+statistically significant (p=0.76).
+Mean retinal sensitivity changed from 7.43±8.28 dB to
+8.33±9.04 dB and this result was statistically significant (p=0.022). The mean BCVA was 0.98±0.66
+logMAR at the baseline assessment and 0.75±0.60
+logMAR at the end of the visual rehabilitation; this
+result was not statistically significant (p=0.32).
+Reading speed improved from a mean value of
+31.4±4.3 words/minute at the beginning of the study to
+55.6±3.2 words/minute at the end of the training; this
+result was statistically significant (p=0.031).
+The NEI-VFQ-25 scores were found to be statistically
+increased at the end of the rehabilitation program
+(p=0.034).
+At the end of the training the Spearman coefficient
+showed a positive correlation of retinal sensitivity with
+visual acuity and with reading speed (r=0.58).
+
+©
+
+CI
+
+C
+
+Glaucoma is a leading cause of blindness. At the early
+stage of the disease, macular function is mostly
+spared. However, in the advanced stage, the risk of the
+scotoma involving the fixation area becomes significant. At present, macular function in glaucoma patients
+is monitored using visual acuity testing and static and
+kinetic perimetry. Visual acuity is a good indicator of
+foveal function, but it reveals only one aspect of macular function. Perimetry can show the functioning of
+individual retinal locations in the macula, but the number and location of the testing points might not be adequate to detect subtle changes around the fixation
+region and in advanced glaucoma reliable test results
+are difficult to obtain because of unstable fixation.
+Advanced glaucoma is considered to be present when
+there is a loss of vision great enough to produce significant symptoms and functional impairment.
+In view of this, we decided to evaluate the efficacy of
+MP-1 microperimetry as a means of improving fixation
+behavior and as a rehabilitation tool in patients with
+advanced glaucoma, with the aim of improving their
+
+288
+
+Functional Neurology 2013; 28(4): 285-291
+
+
+[page 5]
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 289
+
+Visual rehabilitation in glaucoma
+
+li
+
+ation behavior and retinal sensitivity. All this resulted in
+improved visual performances, better quality of life,
+and a positive psychological impact on these patients
+(Cannata et al., 2009).
+Visual Pathfinder rehabilitation was tested in patients
+with retinitis pigmentosa, and it was shown that a
+structured stimulus can increase visual acuity and
+VEP amplitude, probably allowing a rearrangement of
+information from the residual retinal photoreceptors
+(Vingolo et al., 2009b).
+Acoustic biofeedback and luminous biofeedback (a
+flickering black and white checkerboard) were compared in patients with age-related macular degeneration randomly divided into two groups (Vingolo et al.,
+2013). Both groups showed better visual performance
+after rehabilitation and the luminous flickering biofeedback stimulus was found to be significantly better able
+to train the patients to modify their PRL compared with
+the acoustic biofeedback. This suggests that it might
+be possible, in the damaged retina, to override dead
+photoreceptor and outer retinal layers and involve
+residual surviving cells, as well as amplify and integrate retinal and brain cortical plasticity.
+Various hypotheses regarding the mechanisms of visual
+function improvement after visual training techniques
+can be advanced, such as that of an improvement in
+ocular motor control and “searching capacity”. Learning
+to use eccentric fixation could also be a mechanism
+contributing to improvements (Trachtman, 1994). In particular, it is very important to note that visual function
+could be improved as a result of the improved ability of
+patients undergoing training to exploit their visual acuity
+and other visual abilities to their full potential.
+Sabel et al. (2011) proposed the “residual vision activation theory” to explain how visual functions can be
+reactivated and restored. In the past decade, there
+have been reports (mostly from Germany) suggesting
+that vision restoration therapy (VRT), which involves a
+specific pattern of visual stimulation, directed at the
+border between the seeing and the blind field, can
+result in expansion of visual fields in individuals with
+brain or optic nerve injury (Kasten and Sabel, 1995:
+Kasten et al., 1998). Romano et al. (2008) demonstrated that VRT improves stimulus detection and
+results in a shift of the position of the border of the
+blind field as measured on suprathreshold visual field
+testing. These results support prior reports and support VRT as a useful rehabilitation intervention for
+some patients with visual field defects deriving from
+retrochiasmatic lesions.
+The possibility of restoring vision and the extent to
+which this can be achieved are dependent on the
+amount of residual tissue and its activation state.
+Sustained improvements require repetitive stimulation, possibly over days or months.
+The results obtained are very likely determined in part
+by subjective variables such as learning effect, motivation, level of attention, psycho-physical capacities,
+type of environment and influence of the examiner
+(Carpineto et al., 2007).
+The primary risk factor for glaucoma is age (Pache and
+Flammer, 2006: Steigerwalt et al., 2012; Nebbioso et
+
+©
+
+CI
+
+C
+
+Ed
+
+izi
+o
+
+ni
+
+In
+te
+rn
+az
+io
+na
+
+tribution of receptive fields (RFs) in the area of the
+lesion, and ii) a gradual reorganization that leads to the
+final RF configuration. Although the mechanisms underlying the gradual rearrangement are becoming clearer,
+the first step remains obscure. Cortical neurons located
+in the retinotopic position corresponding to the scotoma
+receive some degree of activity from the unimpaired
+neurons in the area surrounding the lesion (Andrade et
+al., 2001). Cortical plasticity allows the brain to adapt to
+background modifications or to nervous system damage. It also underlies learning and attention processes.
+As explained by Safran and Landis (1996), “Cortical
+changes occurring after focal visual differentiation modify visual perception by filling in visual field defects with
+information from the area surrounding the scotoma”.
+This modification causes affected subjects to ignore or
+underestimate their defects. With visual field defects,
+cortical plasticity also causes distortions in spatial perception. These effects can delay the identification of
+visual field defects, and hence the initiation of therapy,
+while also affecting the results of certain visual field
+testing procedures (Safran and Landis, 1996).
+As found by Mezawa et al. (1990), auditory biofeedback can be useful for the treatment of patients affected by congenital nystagmus, who have been found to
+report a subjective gain and an improvement of
+foveation time, amplitude, and frequency at the end of
+the visual training. The effects of auditory biofeedback
+on visual training have also been exploited in myopia
+(Rupolo et al., 1997; Angi et al., 1996) to improve visual acuity and psychological distress. Scanning laser
+ophthalmoscope (SLO) microperimetry is another
+technique that provides functional results by direct
+visualization of the macular area. It allows an exact,
+point-to-point correspondence between fundus image
+and perimetric results. Instability of fixation during
+computerized perimetry is a possible misleading factor
+that can result in inexplicable findings, especially in
+eyes with decreased visual acuity. The main characteristic of SLO microperimetry is that it allows real-time
+visualization of the stimuli presented on the retina: this
+in turn allows accurate monitoring of fixation and correlation of anatomical or pathological features directly
+with retinal function (Varano and Scassa,1998).
+Biofeedback techniques have been performed in the
+treatment of ametropia (myopia, astigmatism, and
+presbyopia), nystagmus and amblyopia (Trachtman,
+1978; Leung et al., 1996).
+Previous studies have demonstrated the efficacy of
+low-vision rehabilitation by means of MP-1 biofeedback in patients with different macular diseases (vitelliform dystrophy, post-traumatic macular scar,
+Stargardt disease, myopic macular degeneration, cone
+dystrophy, age-related macular degeneration), reporting improvements in visual acuity, fixation behavior,
+retinal sensitivity and reading speed (Vingolo et al.,
+2009a; Vingolo et al., 2007; Pacella et al., 2012).
+Other authors evaluated visual biofeedback training
+using the Visual Pathfinder (LACE Inc., Rome) system
+in patients with high myopia and demonstrated
+improvements in BCVA, amplitude of the main peak of
+the pattern reversal visual evoked potential (VEP), fixFunctional Neurology 2013; 28(4): 285-291
+
+289
+
+
+[page 6]
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 290
+
+F. Verboschi et al.
+
+li
+
+Crossland MD, Culham LE, Kabanarou SA, et al (2005).
+Preferred retinal locus development in patients with macular disease. Ophthalmology 112:1579-1585.
+Crossland MD, Dunbar HM, Rubin GS (2009). Fixation stability
+measurement using the MP1 microperimeter. Retina
+29:651-656.
+D’Angelo E (2012). New trends in neuroscience: the challenge
+of functional neurology. Funct Neurol 27:5.
+Fujii GY, de Juan E Jr, Sunness J, et al (2002). Patient selection
+for macular translocation surgery using the scanning laser
+ophthalmoscope. Ophthalmology 109:1737-1744.
+Giorgi D, Contestabile MT, Pacella E, et al (2005). An instrument for biofeedback applied to vision. Appl Psychophysiol
+Biofeedback 30:389-395.
+Gupta N, Ang LC, Noël de Tilly L, et al (2006). Human glaucoma and neural degeneration in intracranial optic nerve, lateral geniculate nucleus, and visual cortex. Br J Ophthalmol
+90:674-678.
+Kasten E, Sabel BA (1995). Visual field enlargement after computer training in brain-damaged patients with homonymous deficits: an open pilot trial. Restor Neurol Neurosci
+8:113-127.
+Kasten E, Wüst S, Behrens-Baumann W, et al (1998).
+Computer-based training for the treatment of partial blindness. Nat Med 4:1083-1087.
+Kirby E, Bandelow S, Hogervorst E (2010). Visual impairment in
+Alzheimer's disease: a critical review. J Alzheimers Dis
+21:15-34.
+Leung V, Wick B, Bedell HE (1996). Multifaceted treatment of
+congenital nystagmus: a report of 6 cases. Optom Vis Sci
+73:114-124.
+Mangione CM, Lee PP, Gutierrez PR, et al (2001). Development
+of the 25-item National Eye Institute Visual Function
+Questionnaire. Arch Ophthalmol 119:1050-1058.
+Mezawa M, Ishikawa S, Ukai K (1990). Changes in waveform of
+congenital nystagmus associated with biofeedback treatment. Br J Ophthalmol 74:472-476.
+Nebbioso M, De Gregorio F, Prencipe L, et al (2011).
+Psychophysical and electrophysiological testing in ocular
+hypertension. Optom Vis Sci 88:E928-939.
+Pacella E, Pacella F, Mazzeo F, et al (2012). Effectiveness of
+vision rehabilitation treatment through MP-1 microperimeter in patients with visual loss due to macular disease. Clin
+Ter 163:e423-428.
+Pache M, Flammer J (2006). A sick eye in a sick body?
+Systemic findings in patients with primary open-angle
+glaucoma. Surv Ophthalmol 51:179-212.
+Resnikoff S, Pascolini D, Etya’ale D, et al (2004). Global data
+on visual impairment in the year 2002. Bull World Health
+Organ 82:844-851.
+Romano JG, Schulz P, Kenkel S, et al (2008). Visual field
+changes after a rehabilitation intervention: vision restoration therapy. J Neurol Sci 273:70-74.
+Rupolo G, Angi M, Sabbadin E, et al (1997). Treating myopia
+with acoustic biofeedback: a prospective study on the evolution of visual acuity and psychological distress.
+Psychosom Med 59:313-317.
+Sabel BA, Henrich-Noack P, Fedorov A, et al (2011). Vision
+restoration after brain and retina damage: the "residual
+vision activation theory". Prog Brain Res 192:199-262.
+Safran AB,Landis T (1996). Plasticity in the adult visual cortex:
+implications for the diagnosis of visual field defects and
+visual rehabilitation. Curr Opin Ophthalmol 7:53-64.
+Prokofyeva E, Zrenner E (2012) Epidemiology of major eye disease leading to blindness in Europe: a literature review.
+Ophthalmic Research 47: 171-188.
+Steigerwalt RD Jr, Vingolo EM, Plateroti P, et al (2012). The
+
+References
+
+izi
+o
+
+ni
+
+In
+te
+rn
+az
+io
+na
+
+al., 2011) and since this disease is characterized by
+degeneration of the retinal ganglion cells (RGCs) and
+cupping of the optic nerve head it has been suggested
+that the visual impairment seen in Alzheimer’s disease
+may be due to patients having undiagnosed glaucoma.
+Diseases that result in RGC death or optic nerve fiber
+degeneration may both be based on a similar biological mechanism (Kirby et al., 2010). Furthermore,
+recent research has found that damage from glaucoma
+can extend to the lateral geniculate nucleus and visual
+cortex (Gupta et al., 2006). This, finding, suggesting
+that glaucoma could account for some of the visual
+deficits seen in patients affected by dementia, underlines the importance, nowadays, of developing an integrated approach favoring the connection, within an
+interdisciplinary setting, of new developments at different levels (D’Angelo, 2012).
+In this study we set out to demonstrate that it is possible to apply visual rehabilitation with MP-1 biofeedback also to patients with advanced glaucoma obtaining satisfactory results. In fact, increased fixation stability and retinal sensitivity were found to improve
+reading speed and visual efficiency. We also evaluated the utility of the BCEA to assess visual function in
+advanced glaucoma. The BCEA provides a precise
+continuous value for fixation stability, with smaller values indicating more stable fixation (Crossland et al.,
+2009).
+Our experience with low-vision rehabilitation in
+patients with advanced glaucoma suggests that it
+could be possible to improve these subjects’ residual
+vision and thus restore a better visual performance
+and a much more positive psychological situation.
+Studies with larger numbers of patients should be performed to confirm the significance of these data.
+
+©
+
+CI
+
+C
+
+Ed
+
+Alpeter E, Mackben M, Trauzettel-Klosinski S (2000). The
+importance of sustained attention for patients with maculopthies. Vision Res 40:1539-1547.
+Andrade MA, Muro EM, Morán F (2001). Simulation of plasticity in the adult visual cortex. Biol Cybern 84:445-451.
+Angi MR, Caucci S, Pilotto E, et al (1996). Changes in myopia,
+visual acuity, and psychological distress after biofeedback
+visual training. Optom Vis Sci 73:35-42.
+Bourne RR (2006). Worldwide glaucoma through the looking
+glass. Br J Ophthalmol 90:253-254.
+Buia C, Tiesinga P (2006). Attentional modulation of firing rate
+and synchrony in a model cortical network. J Comput
+Neurosci 20:247-264.
+Cannata R, Salvatore S, Girolami I, et al (2009). Acoustic
+biofeedback training in high myopic eyes. ARVO 2009
+Annual Meeting 3-7 May Fort Lauderdale, Florida
+Carpineto P, Ciancaglini M, Di Antonio L, et al (2007). Fundus
+microperimetry patterns of fixation in type 2 diabetic
+patients with diffuse macular edema. Retina 27:21-29.
+Casson RJ, Chidlow G, Wood JP, et al (2012). Definition of
+glaucoma: clinical and experimental concepts. Clin
+Experiment Ophthalmol 40:341-349.
+Contestabile MT, Recupero SM, Palladino D, et al (2002). A new
+method of biofeedback in the management of low vision.
+Eye (Lond) 16:472-480.
+
+290
+
+Functional Neurology 2013; 28(4): 285-291
+
+
+[page 7]
+10-Nebbioso 3b_FN 4 2013 20/02/14 09:11 Pagina 291
+
+Visual rehabilitation in glaucoma
+
+li
+
+Varano M, Scassa C (1998). Scanning laser ophthalmoscope
+microperimetry. Semin Ophthalmol 13:203-209.
+Vingolo EM, Cavarretta S, Domanico D, et al (2007).
+Microperimetric biofeedback in AMD patients. Appl
+Psychophysiol Biofeedback 32:185-189.
+Vingolo EM, Salvatore S, Cavarretta S (2009a). Low-vision
+rehabilitation by means of MP-1 biofeedback examination
+in patients with different macular diseases: a pilot study.
+Appl Psychophysiol Biofeedback 34:127-133.
+Vingolo EM, Salvatore S, Grenga PL, et al (2009b). Retinal
+Degeneration: Causes, Diagnosis and Treatment. New
+York, Nova Publisher, pp. 249-261.
+Vingolo EM, Salvatore S, Limoli PG (2013). MP-1 Biofeedback:
+luminous pattern stimulus versus acoustic biofeedback in
+age related macular degeneration (AMD). Appl
+Psychophysiol Biofeedback 38:11-16.
+
+©
+
+CI
+
+C
+
+Ed
+
+izi
+o
+
+ni
+
+In
+te
+rn
+az
+io
+na
+
+effect of latanoprost and influence of changes in body
+position on patients with glaucoma and ocular hypertension. Eur Rev Med Pharmacol Sci 16:1723-1728.
+Takanori K, Teruyo T, Masanori H, et al (2009). Fixation behavior in advanced stage glaucoma assessed by the
+microperimeter MP-1. Jpn J Ophthalmol 53:580-587.
+Thylefors B, Négrel AD (1994). The global impact of glaucoma.
+Bull World Health Organ 72:323-326.
+Trachtman JN (1978). Biofeedback of accomodation to reduce
+myopia: a case report. Am J Optom Physiol Opt 55:400406.
+Trachtman JN (1994). Raccolta dei Risultati Ottenuti in Pazienti
+a Seguito del Trattamento con l'Allenatore Della Vista
+Accomotrack Vision Trainer-Riduzione Della Miopia. Atti
+del XVI corso di aggiornamento Apimo. Montecatini Terme,
+Italy, 183-195.
+
+Functional Neurology 2013; 28(4): 285-291
+
+291
+

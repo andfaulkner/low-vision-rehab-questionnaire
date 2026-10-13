@@ -1,0 +1,1302 @@
+[page 1]
+Low Vision
+
+Screening Questions to Identify Low Vision and
+Acuity-Defined Legal Blindness
+Yueh-Hsun Wu,1 Deyue Yu,1 Judith Goldstein,2 MiYoung Kwon,3 Chun Wang,4 and
+Gordon E. Legge5
+1
+
+College of Optometry, The Ohio State University, Columbus, Ohio, United States
+Johns Hopkins Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States
+3
+Department of Psychology, Northeastern University, Boston, Massachusetts, United States
+4
+Measurement and Statistics, College of Education, University of Washington, Seattle, Washington, United States
+5
+Department of Psychology, University of Minnesota, Minneapolis, Minnesota, United States
+2
+
+Correspondence: Yueh-Hsun Wu,
+College of Optometry, The Ohio
+State University, 338 West 10th
+Avenue, Columbus, OH 43210, USA;
+wu.6239@osu.edu.
+Received: October 3, 2025
+Accepted: December 19, 2025
+Published: January 13, 2026
+Citation: Wu YH, Yu D, Goldstein J,
+Kwon M, Wang C, Legge GE.
+Screening questions to identify low
+vision and acuity-defined legal
+blindness. Invest Ophthalmol Vis Sci.
+2026;67(1):28.
+https://doi.org/10.1167/iovs.67.1.28
+
+PURPOSE. Visual screening is important in public health, but visual acuity (VA) testing
+is costly at scale. We used items from a validated VA survey with 100 yes/no questions
+to identify screening questions for low vision (VA ≤ 0.3 logMAR or 20/40) and legal
+blindness as defined by the VA criterion (VA ≤ 1 logMAR or 20/200).
+METHODS. We analyzed data from 385 adults with measured VA who completed the survey.
+Participants were classified positive if they answered “no” to selected single, pair, and
+triplet items for each threshold. We computed sensitivity, specificity, and area under the
+curve (AUC).
+RESULTS. For low vision, “In a fast-food restaurant, can you read the posted menus?”
+yielded AUC = 0.85 (sensitivity = 0.89; specificity = 0.81). For legal blindness, “When
+seated in front of a computer, are you able to read the letters on the keyboard keys?”
+produced AUC = 0.80 (sensitivity = 0.89; specificity = 0.71). For both screening thresholds, adding a second item increased AUC by ≤0.05; a third item gave no further improvement.
+CONCLUSIONS. One targeted question can screen for low vision or acuity-defined legal
+blindness with good discrimination; a two-item pair offers a compact option when higher
+specificity is desired. These brief, functional screens are practical when in-person VA
+testing is impractical.
+Keywords: low vision, legal blindness, visual acuity, screening, public health
+
+V
+
+isual screening is a cornerstone of public health because
+early detection of vision impairment not only enables
+timely clinical intervention but also facilitates access to critical support services such as Social Security benefits, rehabilitation programs, and community-based resources. Visual
+acuity (VA)—measured using standardized tools such as the
+Bailey–Lovie, Early Treatment Diabetic Retinopathy Study
+(ETDRS), or Snellen charts and expressed in Snellen or logarithm of the minimum angle of resolution (logMAR) units—is
+the most common method to assess a person’s vision status.
+Clinically in the United States, low vision is defined as a
+best-corrected visual acuity (BCVA) of 0.3 logMAR (20/40)
+or worse in the better-seeing eye,1 whereas legal blindness
+is defined as a BCVA of 1 logMAR (20/200) or worse in the
+better-seeing eye or a visual field of 20° or less, as codified
+by the U.S. Social Security Administration.2 In the present
+study, we operationalized legal blindness exclusively by the
+VA criterion (VA ≤ 1.0 logMAR). These definitions form the
+basis for determining eligibility for various resources and
+interventions that can significantly improve quality of life.
+In many settings, particularly in a remote study or large scale public health studies, it is often impractical to perform
+comprehensive clinical VA assessments on every participant.
+
+In such cases, researchers often rely on self-reported screening questions to estimate vision status. Some commonly
+used vision-related screening questions include the following question: “Are you blind, or do you have serious difficulty
+seeing, even when wearing glasses?,” which has been used
+in the American Community Survey (ACS) since 2008 and
+the Behavioral Risk Factor Surveillance System core module
+since 2013. Another question is “Are you blind or unable to
+see at all?,” which has been administered by the National
+Health Interview Survey since 1999. Although self-reporting
+is cost effective, its precision compared to gold-standard clinical VA measurements is frequently questioned. This challenge is underscored by several studies that have directly
+compared self-reported vision with objective VA measures
+using well-defined survey questions to probe individuals’
+perceived vision status or vision abilities.3–6
+For example, Wittenborn et al.3 conducted a validation study comparing telephone survey responses from 438
+patients who had their VA tested at University of Washington clinics. Their survey included the ACS question, “Are
+you blind or do you have serious difficulty seeing, even
+when wearing glasses?,” to screen for both low vision and
+legal blindness. The results indicated that the ACS ques-
+
+Copyright 2026 The Authors
+iovs.arvojournals.org | ISSN: 1552-5783
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+1
+
+
+[page 2]
+Low Vision and Legal Blindness Screening Questions
+tion was more effective at identifying legal blindness (VA
+≤ 1 logMAR) than low vision (VA ≤ 0.3 logMAR). For legal
+blindness, the question achieved reasonably good performance with a sensitivity (correctly identifying those who
+were legally blind) of 0.70, high specificity (correctly identifying those who were not legally blind) of 0.88, and an
+overall discriminatory ability (area under the curve [AUC]) of
+0.80. In contrast, its performance in identifying low vision
+was weaker, particularly in sensitivity (0.43), although specificity remained high (0.93), resulting in a lower overall AUC
+of 0.68.
+Further illustrating the challenge, Whillans and Nazroo4
+examined data from over 5000 participants in the Irish
+Longitudinal Study on Ageing. They analyzed responses to
+the question, “Is your eyesight (using glasses or corrective
+lenses as usual) excellent, very good, good, fair, or poor or
+blind?” They categorized “fair,” “poor,” or “blind” as self reported visual impairment. When assessing the ability of
+this question to identify individuals with visual impairment,
+defined as VA worse than 0.5 logMAR (∼20/60), they found
+it performed poorly overall (AUC = 0.58). Despite correctly
+identifying most individuals without objective impairment at
+this level (specificity = 0.92), the question missed many of
+those with impairment (sensitivity = 0.25), highlighting the
+limitation of using such general self-ratings for screening at
+the better VA threshold.
+Other studies have tested self–report visual function
+questions—focused on everyday visual tasks—to estimate
+vision status. For example, Owen et al.5 evaluated the 25–
+item National Eye Institute Visual Function Questionnaire-25
+(NEI–VFQ–25) in a sample of 1807 older adults recruited
+from 20 U.K. general practices. Visual impairment was
+defined as a BCVA worse than 0.3 logMAR. Participants
+answered the question, “At the present time, would you
+say your eyesight, using both eyes (with glasses or contact
+lenses, if you wear them), is excellent, good, fair, poor,
+very poor, or are you completely blind?” Those who
+responded “poor,” “very poor,” or “completely blind” were
+3.64 times more likely to have VA worse than 0.3 logMAR
+compared with those who responded “excellent,” “good,” or
+“fair.” Reporting problems on the social function subscale—
+specifically, difficulty interacting with people or visiting
+unfamiliar environments—was associated with 1.84–fold
+higher odds of low vision, the largest effect among the eight
+subscales.
+Potter et al.6 analyzed data from 4999 participants in the
+2022 National Health and Aging Trends Study. To detect
+low vision (VA ≤ 20/40), they used two yes/no functional
+questions targeting distance VA: “Can you recognize someone across the street when wearing glasses or contacts?”
+and “Can you watch television across the room when wearing glasses or contacts?” This two-item screen produced a
+sensitivity of 0.20, a specificity of 0.97, and an AUC of
+0.58, indicating weak performance when using proposed
+functional vision questions to determine low vision
+status.
+The reviewed studies above highlight a significant
+challenge: Commonly used self-reported vision questions,
+whether focused on general eyesight or broader functional
+categories, often demonstrate limited accuracy and variable
+performance when compared against clinical VA measurements. This discrepancy underscores the need for improved
+screening methods, particularly in settings where clinical
+assessments are impractical. Although the reviewed research
+above3–5 evaluated existing survey questions against specific
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 2
+VA thresholds, many of those questions were not initially
+constructed to target the functional performance associated
+with different acuity levels.
+To address this challenge, the current study evaluates
+items from our previously developed 100-question visual
+acuity survey.7 Unlike general self-report questions, this
+survey consists of items purposefully designed based on
+everyday tasks requiring different VA levels (e.g., “Would
+you be able to see the eye of a needle if you hold it at arm’s
+length?"). The survey development and validation employed
+item response theory (IRT) to establish a strong correlation between performance on these tasks and measured
+VA. Therefore, this study aimed to leverage this task-based,
+acuity-linked item bank to determine which specific survey
+items, individually or in combination, can effectively identify individuals with low vision (VA ≤ 0.3 logMAR) or legal
+blindness (VA ≤ 1 logMAR). We evaluated the diagnostic
+performance of each item using sensitivity, specificity, and
+receiver operating characteristic (ROC)–derived AUC metrics
+to capture classification accuracy.
+
+METHODS
+Participants
+This study utilized data from a cohort of 385 participants
+whose recruitment and detailed characteristics were previously described.7 Participants were recruited from four U.S.
+institutions between June 2019 and February 2022. Inclusion
+criteria required participants to be 18 years or older, have
+available VA data, and be able to communicate in English
+to complete the 100-item visual acuity survey. All participants were naïve to the items at enrollment. The recruitment aimed to include individuals across a broad spectrum
+of visual function; the measured binocular VA for this cohort
+ranged from −0.3 to 2.0 logMAR (mean ± SD, 0.58 ± 0.44
+logMAR). VA with habitual correction was assessed using
+standardized charts (Bailey–Lovie, ETDRS, or Snellen). When
+both monocular and binocular measurements were available, we used binocular VA; when only monocular measurements were available, VA from the better seeing eye was
+used. Ocular diagnoses were derived from physician exam
+notes and participant self-report entries, which were generally consistent with one another but may still be subject to
+recall bias.
+Full details regarding the recruitment procedures, specific
+inclusion/exclusion criteria, VA measurement protocols,
+data collection methods, and comprehensive characteristics
+(including demographics and diagnoses) can be found in
+the original publication.7 Institutional review board approval
+was obtained at all participating sites, and all participants
+provided informed consent prior to data collection. This
+study utilized the 100-item visual acuity survey, which
+assesses a person’s self-reported ability to recognize details
+of everyday objects at specific viewing distances (e.g., seeing
+the eye of a needle held at arm’s length). The full list of
+questions is available in the Supplementary Material and our
+previous publication detailing the development and validation of the survey.
+Items were generated iteratively by the research team
+to span a wide range of acuity demands and emphasize
+broadly familiar U.S. scenarios. The item pool was informally piloted with normally sighted and low-vision individuals, and wording and content were refined accordingly. A
+key objective for the current analysis is identifying individ-
+
+
+[page 3]
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 3
+
+Low Vision and Legal Blindness Screening Questions
+ual questions or sets of questions within this survey that can
+potentially screen for clinically meaningful VA levels, specifically low vision (VA ≤ 0.3 logMAR) and legal blindness (VA
+≤ 1.0 logMAR). To achieve this, we leveraged the items from
+the survey validated previously, which used IRT to establish a strong correlation between participants’ measured
+VA and their IRT-estimated visual abilities across a broad
+acuity spectrum (∼0.15–1.47 logMAR). The wide range of
+the item bank offers choices for selecting better items for
+different screening thresholds. Five items showed suboptimal IRT model fit in that analysis, but the overall survey
+displayed good reliability. We therefore applied the established linear relationship from that prior work to transform
+the IRT-derived difficulty of each survey item into a corresponding VA threshold (the 50% probability point for a “yes”
+response), enabling us to evaluate the potential of each item
+for screening at our target acuity levels.
+
+Evaluation of Item Screening Performance
+Three primary evaluation metrics were used to assess screening performance: sensitivity, specificity, and AUC. Sensitivity measures the percentage of participants classified by
+the screening questions as likely to have low vision or
+legal blindness who truly have VA worse than the corresponding threshold, indicating the ability to correctly identify these conditions. Specificity represents the percentage
+classified as likely not having low vision or legal blindness who truly have VA better than the threshold, reflecting
+the ability to correctly identify those without these conditions. For a single survey item, a “no” response classified
+the participant as likely having low vision or legal blindness, and a “yes” response classified them otherwise. For
+pairs or triplets of items, the primary classification rule
+used was that only a response pattern of “no” to all items
+in the set classified the participant as likely having low
+vision or legal blindness; any “yes” response classified them
+otherwise.
+The overall screening ability was evaluated using the
+AUC derived from the ROC curve. Because each screening
+has only one decision threshold (classifying a participant
+as either meeting or not meeting the VA criterion), the ROC
+reduces to a single point, and the AUC simplifies to the average of sensitivity and specificity. This single number represents the chance that, when one participant’s VA is worse
+than the threshold and another’s is better, the screening rule
+tags the worse VA participant as positive and the better VA
+participant as negative. An AUC of 1.0 means it always makes
+this distinction, whereas 0.5 indicates chance performance.
+
+Item Selection Steps
+To evaluate whether a person’s VA was worse than 0.3
+logMAR (low vision) or 1.0 logMAR (legal blindness), we
+assessed the performance of individual items, two-item
+pairs, and three-item triplets using sensitivity, specificity,
+and AUC metrics. The item selection process proceeded as
+follows:
+1. One-item selection—For each screening threshold
+(0.3 and 1.0 logMAR), sensitivity, specificity, and AUC
+were computed separately for each of the 100 survey
+items. The 20 items with the highest AUC at each
+threshold were retained as primary candidates for
+subsequent pairing.
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+2. Two-item pair selection—Each of the top 20 items
+was paired with each of the remaining 99 (yielding 1980 unique combinations per threshold). Screening metrics were recalculated for each pair. For
+these pairs, a response pattern of “no” to both
+items indicated low vision or legal blindness. The
+AUC metric, which combines information across all
+response patterns, was used to rank the pairs, and
+the 20 pairs with the highest AUC at each threshold
+were selected for further evaluation.
+3. Three-item triplet selection—Finally, potential three item combinations were evaluated. Each of the top 20
+two-item pairs was combined with each of the remaining 98 individual items. For these triplets, a response
+pattern of “no” to all three items was considered as
+low vision or legal blindness. The AUC was calculated
+for each triplet based on this classification approach
+relative to the participants’ true VA status, and the 20
+triplets with the highest AUC at each threshold were
+identified.
+
+RESULTS
+Participants
+This analysis included 385 participants from a cohort
+described previously.7 The prior publication summarizes the
+overall characteristics, but Table 1 provides specific breakdowns by age category and VA level for the sample. The
+participants’ ages ranged from 18 to over 85 years, with the
+largest groups being 40 to 64 years (34.3%) and 65 to 84
+years (31.7%). In terms of VA distribution, 68.6% had VA
+worse than 0.3 logMAR, 28.1% were in the 0.3 logMAR to
+<0.6 logMAR (20/80) range, 21.6% were 0.6 logMAR to <1.0
+logMAR, and 19.0% met or exceeded the threshold for legal
+blindness (≤1.0 logMAR). Table 1 also details the gender
+distribution and most common ocular diagnoses for this
+cohort.
+
+Item Characteristics
+An IRT two-parameter logistic model was used to evaluate
+the 100 items from the visual acuity survey. In this model,
+each item has a difficulty parameter (b), and each partic-
+
+TABLE 1. Sample Characteristics (N = 385)
+Characteristic
+
+Value
+
+Female gender, n (%)
+221 (57.4)
+Age (y), mean ± SD (range)
+55.71 ± 20.54 (18–98)
+18–39, n (%)
+99 (25.7)
+40–64, n (%)
+132 (34.3)
+65–84, n (%)
+122 (31.7)
+85+, n (%)
+30 (7.8)
+Binocular VA (logMAR),
+0.58 ± 0.44 (−0.3 to 2)
+mean ± SD (range)
+>20/40, n (%)
+121 (31.4)
+0.3 to <0.6, n (%)
+108 (28.1)
+0.6 to <1.0, n (%)
+83 (21.6)
+1.0 to <1.3 (20/400), n (%)
+50 (12.99)
+≤1.3 logMAR (20/400), n (%)
+23 (6)
+Primary diagnosis (not mutually exclusive), n (%)
+Macular degeneration
+74 (19.2)
+Glaucoma
+65 (16.9)
+Cataract
+25 (6.5)
+
+
+[page 4]
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 4
+
+Low Vision and Legal Blindness Screening Questions
+TABLE 2. One-Item Screening Results—Top 10 Items
+Low-Vision Screening
+
+Legal Blindness Screening
+
+Item
+
+AUC SEN SPE
+
+Q97. In a fast-food restaurant, can you usually
+read the posted menus?
+Q46. When you are sitting in the passenger
+seat of a car, are you able to read the license
+plate of the car in front of you while waiting
+at a stop light?
+Q15. When holding a newspaper at a regular
+viewing distance of about 16 inches (40
+centimeters), are you able to read the
+printed text in the articles?
+Q12. When stopped at a crosswalk in a
+residential area, are you able to read the
+street sign of the road you are about to
+cross?
+Q16. Would you be able to tell if your
+neighbor is smiling or frowning if you are
+standing directly across a residential street
+from her?
+Q21. When looking at a traditional credit card
+(the kind with raised numbers), are you able
+to read the numbers on the card when it is
+on the table in front of you?
+Q8. When looking at an aspirin pill on the
+table in front of you, are you able to see the
+groove that allows you to cut the pill in half?
+Q17. If you are wearing an average sized
+wristwatch (the kind with hands and
+numbers), would you be able to read the
+time with your wrist at arm’s length?
+Q3. Would you be able to see if the person
+sitting directly across the table from you has
+freckles on their face?
+Q27. If you are standing on the sidewalk next
+to a residential street, would you be able to
+recognize a friend by their face across the
+street?
+Average
+
+0.85
+
+0.89
+
+0.85
+
+0.79
+
+0.83
+
+Item
+
+AUC SEN SPE
+
+0.81 Q30. When seated in front of a computer, are you
+able to read the letters on the keyboard keys?
+0.91 Q38. When you are standing barefoot, are you
+able to see your toenails (if they are unpainted)?
+
+0.80
+
+0.89
+
+0.71
+
+0.78
+
+0.86
+
+0.71
+
+0.91
+
+0.74 Q32. When looking at standard playing cards on a
+table in front of you, are you able to read the
+numbers on the corners of the cards?
+
+0.78
+
+0.89
+
+0.66
+
+0.82
+
+0.74
+
+0.89 Q62. When you are standing an arm’s length away
+from a standard light switch, are you able to
+see whether the switch is flipped up or down?
+
+0.77
+
+0.71
+
+0.82
+
+0.80
+
+0.90
+
+0.7
+
+0.77
+
+0.79
+
+0.74
+
+0.80
+
+0.82
+
+Q42. When standing at a check-out counter, are
+you able to see the difference between the
+coins—dimes, nickels, and quarters—on the
+counter?
+0.78 Q71. When you are in an elevator, ready to press
+a button, are you able to read the numbers on
+the buttons for the different floors.
+
+0.77
+
+0.74
+
+0.79
+
+0.79
+
+0.75
+
+0.76
+
+0.85
+
+0.66
+
+0.79
+
+0.74
+
+0.82 Q18. If you have a bowl of rice on the table in
+front of you, would you be able to see the
+individual grains of rice?
+0.83 Q11. When looking at a ruler on the table in front
+of you, are you able to see the marks that
+indicate inches?
+
+0.75
+
+0.88
+
+0.63
+
+0.78
+
+0.76
+
+0.8
+
+0.75
+
+0.89
+
+0.61
+
+0.78
+
+0.83
+
+Q44. If you are looking at a pair of dice on a table
+in front of you, are you able to tell what
+numbers are on the dice?
+0.72 Q59. At a bowling alley, are you able to see the
+individual pins at the end of the lane when you
+are standing at the line ready to bowl?
+
+0.75
+
+0.79
+
+0.71
+
+0.81
+
+0.81
+
+0.80 Average
+
+0.77
+
+0.83
+
+0.70
+
+SEN, sensitivity; SPE, specificity.
+
+ipant has a visual ability (θ). Item difficulty (b) indexes
+the acuity demand of an item (higher b indicates harder;
+∼50% endorsement when ability θ = b), whereas visual
+ability (θ ) is the participant’s latent, acuity-linked functional ability (higher θ indicates better). The resulting item
+difficulties ranged from −2.65 to 1.69 logits. The estimated visual ability of the participants spanned a slightly
+wider range, from −2.81 to 2.03 logits. This suggests that,
+although the survey items effectively covered the abilities of the majority of participants, measurement precision may be reduced for individuals at the extremes of
+the ability spectrum in this sample. Specifically, the participants whose high visual ability estimates exceeded the
+difficulty range of the most challenging items (a ceiling
+effect impacting 14% of the sample) were predominantly
+those with normal or near-normal VA (average measured
+VA = 0.05 logMAR).
+
+Low-Vision Screening
+Single-Item Results. Table 2 summarizes the top 10
+items ranked by AUC for detecting participants with a VA
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+worse than 0.3 logMAR. Across these 10 items, the mean
+AUC was 0.81, the mean sensitivity was 0.81, and the mean
+specificity was 0.80. The item “Q97. In a fast-food restaurant, can you usually read the posted menus?” achieved the
+highest AUC (0.85; sensitivity = 0.89; specificity = 0.81).
+However, “Q15. When holding a newspaper at a regular
+viewing distance of about 16 inches (40 centimeters), are
+you able to read the printed text in the articles?” demonstrated the greatest sensitivity (0.91; AUC = 0.83; specificity
+= 0.74). The item “Q46. When you are sitting in the passenger seat of a car, are you able to read the license plate of the
+car in front of you while waiting at a stop light?” exhibited
+the highest specificity (0.91; AUC = 0.85; sensitivity = 0.79).
+Two-Item Pair Results. Each of the 20 highest–
+ranking single items was paired with each of the remaining 99 items, yielding 1980 unique two–item combinations,
+and the top 10 pairs were selected based on AUC (Table 3).
+Compared to the top 10 items, this pairing method significantly improved discrimination performance, with mean
+AUC significantly increasing from 0.81 to 0.85 (t18 = 4.02, P
+< 0.001), driven by significantly higher specificity (0.90 vs.
+0.80; t18 = 3.87; P < 0.01) and without significant change in
+
+
+[page 5]
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 5
+
+Low Vision and Legal Blindness Screening Questions
+TABLE 3. Two-Item Screening Results—Top 10 Pairs
+Low-Vision Screening
+
+Legal Blindness Screening
+
+Legal Blindness Screening
+
+Item 1 Item 2 AUC SEN SPE Item 1 Item 2 AUC SEN SPE
+Q97
+Q15
+Q97
+Q46
+Q97
+Q16
+Q15
+Q16
+Q46
+Q15
+Q46
+Q16
+Q46
+Q21
+Q97
+Q21
+Q46
+Q27
+Q16
+Q21
+Average
+
+0.87
+0.86
+0.85
+0.85
+0.85
+0.85
+0.84
+0.84
+0.83
+0.83
+0.85
+
+0.86 0.88
+0.77 0.94
+0.86 0.84
+0.87 0.83
+0.77 0.93
+0.77 0.92
+0.72 0.96
+0.78 0.89
+0.74 0.93
+0.80 0.87
+0.79 0.90
+
+Q30
+Q12
+Q30
+Q44
+Q30
+Q38
+Q30
+Q32
+Q38
+Q11
+Q38
+Q32
+Q38
+Q12
+Q30
+Q18
+Q32
+Q11
+Q30
+Q37
+Average
+
+0.82
+0.82
+0.82
+0.81
+0.81
+0.80
+0.80
+0.80
+0.80
+0.80
+0.81
+
+0.88 0.77
+0.82 0.81
+0.79 0.84
+0.82 0.80
+0.81 0.80
+0.81 0.80
+0.85 0.76
+0.79 0.81
+0.84 0.77
+0.85 0.75
+0.83 0.79
+
+sensitivity (0.79 vs. 0.82; P > 0.05). Notably, all top 10 pairs
+were composed exclusively of combinations from the top 10
+individual items.
+The combination of “Q97. In a fast–food restaurant, can
+you usually read the posted menus?” and “Q15. When holding a newspaper at a regular viewing distance …, are you
+able to read the printed text?” achieved the highest AUC
+(0.87; sensitivity = 0.86; specificity = 0.88). Q15 paired with
+“Q16. Would you be able to tell if your neighbor is smiling
+or frowning if you were standing directly across a residential street from her?” demonstrated the greatest sensitivity
+(0.87; AUC = 0.85; specificity = 0.83). The pairing of Q97
+(reading posted menus) and Q46 (reading license plates)
+attained the highest specificity (0.94; AUC = 0.86; sensitivity
+= 0.77).
+Three-Item Triplet Results. Each of the top 20 twoitem pairs was combined with each of the remaining 98
+items, resulting in 1960 unique three-item triplets per threshold, and the 10 highest ranking triplets were selected by
+AUC (Table 4). Although adding a third item significantly
+improved specificity (0.94 vs. 0.90; t18 = 2.13; P < 0.05), it
+did not significantly increase overall discrimination performance (mean AUC = 0.85 vs. 0.85; P = 0.54) and sensitivity (0.75 vs. 0.79; P > 0.05). All 10 out of the top 10
+triplets were composed exclusively of combinations from
+the top 10 single items. The triplet consisting of Q97
+(“read posted menus in a fast-food restaurant”), Q15 (“read
+newspaper text at a regular viewing distance”), and Q16
+(“identify a neighbor’s facial expression across the street”)
+achieved the highest AUC (0.86; sensitivity = 0.84; specificity
+= 0.89).
+
+Single-Item Results. Similar to the low-vision screening, the 100 items from the visual acuity survey were evaluated for their performance in screening participants who
+were legally blind (VA ≤ 1.0 logMAR). Table 2 summarizes
+the top 10 items ranked by AUC. Across these top 10 items,
+the mean AUC was 0.77, the sensitivity was 0.83, and the
+specificity was 0.70. Compared to the top 10 items for low
+vision screening, sensitivity was similar, but all other performance metrics were significantly lower for legal blindness
+screening.
+The item “Q30. When seated in front of a computer,
+are you able to read the letters on the keyboard keys?”
+achieved the highest AUC (0.80) and the highest sensitivity (0.89), with a specificity of 0.71. The item “Q62. When
+you are standing an arm’s length away from a standard light
+switch, are you able to see whether the switch is flipped
+up or down?” had the highest specificity (0.82; sensitivity =
+0.71; AUC = 0.77).
+Two-Item Pair Results. Each of the 20 highest–
+ranking single items was paired with each of the remaining 99 items, and the top 10 pairs were selected based on
+AUC (Table 3). This pairing method significantly improved
+discrimination, with mean AUC significantly increasing from
+0.77 to 0.81 (t18 = 7.17; P < 0.001), driven by significantly
+higher specificity (0.79 vs. 0.70; t18 = 4.3; P < 0.01) and without significant change in sensitivity (0.83 vs. 0.83; P > 0.05).
+In addition, when compared to the top 10 pairs selected for
+low vision screening, the top 10 pairs for legal blindness
+screening did not differ significantly in average AUC, sensitivity, or specificity (P > 0.05). Seven out of the top 10 pairs
+were composed exclusively of combinations from the top 10
+individual items.
+The combination of Q30 (keyboard letters) and “Q12.
+When stopped at a crosswalk in a residential area, are you
+able to read the street sign of the road you are about to
+cross?” achieved the highest AUC (0.82) and highest sensitivity (0.88), with specificity of 0.77. The combination of
+Q30 (keyboard letters) and “Q38. When you are standing barefoot, are you able to see your toenails (if they
+are unpainted)?” demonstrated the greatest specificity (0.84;
+AUC = 0.82; sensitivity = 0.79).
+Three-Item Triplet Results. Each of the top 20 twoitem pairs was combined with each of the remaining 98
+items, and the 10 highest ranking triplets were selected by
+AUC (Table 4). Although adding a third item significantly
+improved specificity (0.84 vs. 0.79; t18 = 4.83; P < .001) and
+
+TABLE 4. Three-Item Screening Results—Top 10 Triplets
+Low-Vision Screening
+
+Legal Blindness Screening
+
+Item 1
+
+Item 2
+
+Item 3
+
+AUC
+
+SEN
+
+SPE
+
+Item 1
+
+Item 2
+
+Item 3
+
+AUC
+
+SEN
+
+SPE
+
+Q97
+Q97
+Q46
+Q97
+Q97
+Q97
+Q15
+Q97
+Q46
+Q97
+
+Q15
+Q46
+Q15
+Q46
+Q16
+Q46
+Q16
+Q46
+Q15
+Q15
+Average
+
+Q16
+Q15
+Q16
+Q16
+Q21
+Q27
+Q21
+Q21
+Q21
+Q21
+
+0.86
+0.85
+0.85
+0.85
+0.84
+0.84
+0.84
+0.84
+0.84
+0.84
+0.85
+
+0.84
+0.75
+0.75
+0.75
+0.77
+0.71
+0.77
+0.71
+0.71
+0.76
+0.75
+
+0.89
+0.96
+0.94
+0.94
+0.91
+0.97
+0.90
+0.97
+0.97
+0.91
+0.94
+
+Q30
+Q30
+Q30
+Q30
+Q30
+Q32
+Q30
+Q38
+Q30
+Q30
+
+Q44
+Q32
+Q38
+Q44
+Q38
+Q11
+Q18
+Q11
+Q32
+Q12
+Average
+
+Q12
+Q12
+Q44
+Q37
+Q12
+Q12
+Q44
+Q12
+Q11
+Q37
+
+0.83
+0.82
+0.82
+0.82
+0.82
+0.82
+0.82
+0.82
+0.82
+0.81
+0.82
+
+0.81
+0.81
+0.75
+0.81
+0.78
+0.82
+0.77
+0.79
+0.78
+0.84
+0.80
+
+0.84
+0.83
+0.89
+0.82
+0.85
+0.81
+0.87
+0.84
+0.85
+0.79
+0.84
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+
+[page 6]
+Low Vision and Legal Blindness Screening Questions
+
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 6
+
+TABLE 5. Items Featured in Tables 2 to 4 (Top-10 Single Items, Pairs, and Triplets), With Full Wording and Associated Screening Thresholds
+Item
+
+Text
+
+Q3
+
+Would you be able to see if the person sitting directly across the table
+from you has freckles on their face?
+When looking at an aspirin pill on the table in front of you, are you able
+to see the groove that allows you to cut the pill in half?
+When looking at a ruler on the table in front of you, are you able to see
+the marks that indicate inches?
+When stopped at a crosswalk in a residential area, are you able to read
+the street sign of the road you are about to cross?
+When holding a newspaper at a regular viewing distance of about 16
+inches (40 centimeters), are you able to read the printed text in the
+articles?
+Would you be able to tell if your neighbor is smiling or frowning if you
+are standing directly across a residential street from her?
+If you are wearing an average sized wrist watch (the kind with hands and
+numbers), would you be able to read the time with your wrist at arm’s
+length?
+If you have a bowl of rice on the table in front of you, would you be able
+to see the individual grains of rice?
+When looking at a traditional credit card (the kind with raised numbers),
+are you able to read the numbers on the card when it is on the table in
+front of you?
+If you are standing on the sidewalk next to a residential street, would
+you be able to recognize a friend by their face across the street?
+When seated in front of a computer, are you able to read the letters on
+the keyboard keys?
+When looking at standard playing cards on a table in front of you, are
+you able to read the numbers on the corners of the cards?
+Are you able to read the numbers on a microwave key pad at arm’s
+length?
+When you are standing barefoot, are you able to see your toenails (if they
+are unpainted)?
+When standing at a check-out counter, are you able to see the difference
+between the coins—dimes, nickels, and quarters—on the counter?
+If you are looking at a pair of dice on a table in front of you, are you able
+to tell what numbers are on the dice?
+When you are sitting in the passenger seat of a car, are you able to read
+the license plate of the car in front of you while waiting at a stop light?
+At a bowling alley, are you able to see the individual pins at the end of
+the lane when you are standing at the line ready to bowl?
+When you are standing an arm’s length away from a standard light
+switch, are you able to see whether the switch is flipped up or down?
+When you are in an elevator, ready to press a button, are you able to read
+the numbers on the buttons for the different floors?
+In a fast-food restaurant, can you usually read the posted menus?
+
+Q8
+Q11
+Q12
+Q15
+
+Q16
+Q17
+
+Q18
+Q21
+
+Q27
+Q30
+Q32
+Q37
+Q38
+Q42
+Q44
+Q46
+Q59
+Q62
+Q71
+Q97
+
+achieved a small but significant AUC improvement (0.82 vs.
+0.81, t18 = 3.48; P < 0.01), it significantly impaired sensitivity (0.8 vs. 0.83; P < 0.01). Three out of the top 10 triplets
+were composed exclusively of combinations from the top 10
+individual items.
+The triplet consisting of Q30 (keyboard letters), “Q44. If
+you are looking at a pair of dice on a table in front of you,
+are you able to tell what numbers are on the dice?,” and
+Q12 (read street sign at crosswalks) achieved the highest
+AUC (0.83; sensitivity = 0.81, specificity = 0.84). For convenience, Table 5 lists all items that appear in Tables 2 to 4
+(i.e., the top 10 singles, pairs, and triplets).
+
+Whole Survey Screening
+Our previous study established a linear relationship between
+participants’ estimated visual abilities (logits) and their
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+Screening Threshold
+Low vision (single)
+Low vision (single)
+Legal blindness (single, pair, triplet)
+Low vision (single)Legal blindness (pair, triplet)
+Low vision (single, pair, triplet)
+
+Low vision (single, pair, triplet)
+Low vision (single)
+
+Legal blindness (single, pair, triplet)
+Low vision (single, pair, triplet)
+
+Low vision (single, pair, triplet)
+Legal blindness (single, pair, triplet)
+Legal blindness (single, pair, triplet)
+Legal blindness (pair, triplet)
+Legal blindness (single, pair, triplet)
+Legal blindness (single)
+Legal blindness (single, pair, triplet)
+Low vision (single, pair, triplet)
+Legal blindness (single)
+Legal blindness (single)
+Legal blindness (single)
+Low vision (single, pair, triplet)
+
+measured VA, as shown in Equation 1:
+Estimated VA or estimated VA threshold = 0.59 − 0.33
+× vision ability (θ ) or item difficulty (b)
+
+(1)
+
+enabling us to predict VA based on responses to the 100item survey. The average unsigned prediction error was
+0.25 logMAR. The predicted VA was then used to classify
+participants as having low vision or legal blindness. For
+low-vision screening, the full survey achieved an AUC of
+0.80, with a sensitivity of 0.94 and a specificity of 0.66. In
+contrast, legal blindness screening performed substantially
+worse, yielding an AUC of 0.53, a sensitivity of 0.06, and a
+specificity of 1.00.
+The worse performance with the legal blindness screening followed our previous findings that worse measured VA
+was associated with more significant prediction errors. Even
+
+
+[page 7]
+Low Vision and Legal Blindness Screening Questions
+for low–vision screening, the accuracy of the whole survey
+(AUC = 0.80) fell slightly below that of the single best item,
+Q97 (AUC = 0.85). These findings suggest that a screening
+tool based on a targeted selection of survey items may offer
+better accuracy in assessing an individual’s vision status.
+
+DISCUSSION
+This study evaluated selected items from the 100-item visual
+acuity survey, which was created to capture the functional
+impact of VA on daily tasks, as a potential vision-screening
+tool. Each item and item combination were assessed with
+three standard diagnostic accuracy measures (sensitivity,
+specificity, and AUC) to identify the best sets for detecting
+low vision (VA ≤ 0.3 logMAR) and legal blindness (VA ≤
+1.0 logMAR). A major strength of our approach is that the
+survey items were specifically tailored to capture real-world
+visual challenges related to VA, thereby enhancing clinical
+relevance and potential utility in public health settings.
+Our visual acuity survey offers flexible options for various
+purposes, including low vision and legal blindness screening. To determine the best strategy for item selection, a stepwise method was employed in the current study. Initially,
+we identified the top 20 individual items based on the
+AUC at each screening threshold. Subsequently, we examined all possible two-item combinations by pairing each of
+these primary items with every remaining item and then
+selected the top 20 pairs based on their improved diagnostic performance. For both low vision and legal blindness
+screening, the 10 items with the highest AUCs demonstrated
+performance better than past studies. The top 10 pairs
+further increased overall screening performance. The results
+provide a bank of items for further selection for different
+future applied scenarios. For example, if a population-based
+public health study aims for the best categorization results
+by asking just one question, then “Q97. In a fast-food restaurant, can you usually read the posted menus?” could provide
+the most effective outcome for low vision screening, and
+“Q30. When seated in front of a computer, are you able to
+read the letters on the keyboard keys?” for legal blindness
+screening. If a dedicated health-screening tool has space for
+two questions, the best-performing pair can be selected to
+enhance overall screening accuracy.
+The selection of screening items and metrics should be
+guided by the specific application context and goals. For
+example, if minimizing missed cases (false negatives) is
+paramount, such as in initial community screenings, prioritizing items or pairs with the highest sensitivity is crucial,
+even at the cost of potentially more false positives as represented by a lower specificity. Conversely, situations with
+limited follow-up resources or high costs associated with
+false positives may warrant prioritizing items with the highest specificity. Although AUC offers a summary of overall discriminatory ability, practical implementation often
+requires balancing these specific trade-offs. To examine the
+marginal effect of adding items beyond sensitivity and specificity, we also examined positive predictive value (PPV), the
+probability that a positive screen truly meets the VA threshold, and negative predictive value (NPV), the probability that
+a negative screen truly does not meet the VA threshold, for
+the top 10 items, pairs, and triplets. For low-vision screening,
+PPV was already high with one item (0.93) and increased
+only slightly with two (0.96) and three items (0.98), indicating minimal marginal gain. For legal blindness screening, the
+mean PPV increased from 0.40 (one item) to 0.48 (two items)
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 7
+to 0.54 (three items), again with smaller improvement from
+the third item than from the second. NPV remained high and
+stable for legal blindness (∼0.95 across one to three items)
+and decreased modestly for low vision as item sets lengthened (from 0.582 to 0.576 to 0.537). Overall, a two-item
+screen appears to offer the best balance between brevity and
+predictive performance, with one item often being sufficient
+for short screening and three items providing only marginal
+additional benefit.
+A notable observation from our single-item screening
+results for low vision is the prominence of reading-related
+tasks. Specifically, six out of the top 10 performing individual screening questions (Q97, Q46, Q15, Q12, Q21, Q17)
+directly involved reading in various contexts, such as reading
+menus, license plates, newspapers, street signs, credit card
+numbers, and time on watches. This finding aligns with past
+literature highlighting that reading is commonly and significantly affected by vision loss, often from an early stage,8 and
+is frequently cited as the primary functional complaint in low
+vision rehabilitation.9,10 The strong performance of these
+reading-centric questions in our study further underscores
+their relevance and potential utility in effectively screening
+for low vision.
+When compared to prior studies using general self–report
+questions or functional questions to screen for visual impairment, our targeted functional items appeared to demonstrate better diagnostic accuracy, although direct comparisons should be interpreted cautiously due to inherent differences in study samples and designs. Nonetheless, examining similar metrics provides context for our findings. Earlier
+studies reported AUC values ranging from 0.56 to 0.80 for
+screening for low vision or legal blindness. In contrast, our
+highest performing single item achieved AUC values up to
+0.85 for low vision and 0.80 for legal blindness screening,
+whereas our best–performing pairs achieved AUC values
+up to 0.87 and 0.82, respectively. Furthermore, comparing our best single item (Q97) for low-vision screening
+with findings from the NEI-VFQ-25 study further highlights
+the potential strength of targeted functional questions. Our
+calculated odds ratio of 3.28 (95% confidence interval, 2.6–
+4.17), representing 3.28 times increased odds of having low
+vision given a “no” response to Q97, indicates a substantially stronger association with low vision status than the
+1.84 odds ratio reported by Owen et al.5 for their social functioning subscale.
+Even with promising, although imperfect, improvements
+in screening accuracy from our functional items, it is also
+important to consider the comparison between self-reported
+visual function and in-person VA assessment. Although VA
+measurement with an eye chart is the gold standard for
+classification, electronic health record VA data quality and
+usability have been shown to vary across documented VA
+measures, observations, and eyecare subspecialties.11 Additionally, self-report measures provide an opportunity to
+capture an individual’s perception of their ability in daily
+life beyond the VA. One of the trade-offs when relying
+on self-report vision disability is less accurate categorization results and overestimated prevalence of visual impairment.12 However, the subjective dimension is critical, as
+past research indicates that self-perceived visual function
+often predicts vision-related impacts on different aspects
+of daily life, such as falls,13 mental health, and well-being,
+more strongly than clinical measurements alone.14,15 Thus,
+even alongside improvements in screening accuracy, self report functional data remain valuable for understanding the
+
+
+[page 8]
+Low Vision and Legal Blindness Screening Questions
+broader personal and public health consequences of vision
+impairment that extend beyond acuity numbers.
+Despite these promising results, we acknowledge several
+limitations. First, our screening questions target low vision
+(VA ≤ 0.3 logMAR) and legal blindness as defined by VA
+(VA ≤ 1.0 logMAR) and do not detect legal blindness due
+to visual-field loss alone (e.g., ≤20°). As in many studies that estimate blindness prevalence using VA thresholds,16,17 our VA-based items may misclassify individuals
+with preserved acuity but severely constricted visual fields.
+In addition, diagnosis-specific visual deficits may also influence responses to particular items (e.g., central vision loss
+in AMD vs. peripheral field loss in glaucoma), potentially
+producing item-level differences even at similar VA. Future
+work should incorporate items designed to reflect functional consequences of field loss (e.g., navigation in crowds,
+bumping into obstacles outside central vision) and validate combined VA- and field-oriented item sets against gold standard perimetry.
+Second, our study sample of 385 participants is relatively
+small compared to population studies, and its composition,
+with fewer normally sighted individuals than the general
+population, may limit the generalizability of our findings to
+broader screening applications. Further studies are needed
+to validate these items in larger, more diverse cohorts.
+Third, the performance metrics reported here are based
+on responses collected within the context of the full 100item survey. It is possible that the performance of individual items or short combinations might differ if administered
+independently, outside the context of the longer survey. The
+current study provides a list of items that can be tested for
+their performance in future studies.
+Fourth, some of the best-performing items identified for
+screening rely on familiarity with specific objects or settings.
+Examples include question Q97, which refers to reading
+fast-food menus, and question Q30, involving letters on
+computer keyboards. This reliance might limit their applicability or necessitate alternative item selection for public
+health screening in populations with widely varying environmental or technological exposure. The need for such
+culturally or environmentally specific items underscores
+the difficulty in creating universally applicable functional
+screening tools. Accordingly, external validation in other
+countries, with cultural/linguistic adaptation and empirical
+item assessment, is warranted. At the same time, several
+items from our item bank may be more context agnostic
+(e.g., recognizing a facial expression across a residential
+street, seeing one’s unpainted toenails), which can guide
+localization. Careful cross-national item selection or adaptation may be necessary when screening diverse populations.
+In conclusion, our study demonstrated that a targeted set
+of functional vision screening items can effectively identify
+low vision and acuity-defined legal blindness, outperforming
+past self-report questions. The survey provides a variety of
+items that can be employed in different research or clinical
+settings for efficient screening.
+
+Acknowledgments
+Supported by grants from the National Eye Institute, National
+Institutes of Health (R01 EY002934, R01 EY025658).
+Disclosure: Y.-H. Wu, None; D. Yu, None; J. Goldstein, None;
+M. Kwon, None; C. Wang, None; G.E. Legge, None
+
+Downloaded from iovs.​arvojournals.​org on 10/​04/​2026
+
+IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 8
+
+References
+1. Jackson ML, Virgili G, Shepherd JD, et al. Vision
+Rehabilitation Preferred Practice Pattern. Ophthalmology.
+2023;130(3):P271–P335.
+2. Social Security Administration. Meaning of blindness
+as defined in the law. Available at: https://www.
+ssa.gov/OP_Home/cfr20/404/404-1581.htm?utm_source=
+chatgpt.com. Accessed July 10, 2025.
+3. Wittenborn J, Lee A, Lundeen EA, et al. Comparing telephone survey responses to best-corrected visual acuity
+to estimate the accuracy of identifying vision loss: validation study. JMIR Public Health Surveill. 2023;9(1):
+e44552.
+4. Whillans J, Nazroo J. Assessment of visual impairment: the relationship between self-reported vision and
+‘gold-standard’ measured visual acuity. Br J Vis Impair.
+2014;32(3):236–248.
+5. Owen CG, Rudnicka AR, Smeeth L, Evans JR, Wormald RP,
+Fletcher AE. Is the NEI-VFQ-25 a useful tool in identifying
+visual impairment in an elderly population? BMC Ophthalmol. 2006;6(1):24.
+6. Potter T, Almidani L, Diaz M, Varadaraj V, Mihailovic
+A, Ramulu PY. Concordance between self-reported
+visual difficulty and objective visual impairment: the
+National Health and Aging Trends Study. Ophthalmology.
+2024;131(12):1447–1456.
+7. Wu Y-H, Yu D, Goldstein JE, et al. Estimating visual
+acuity without a visual acuity chart. Transl Vis Sci Technol.
+2024;13(9):20.
+8. West SK, Rubin GS, Broman AT, et al. How does visual
+impairment affect performance on tasks of everyday
+life? The SEE Project. Arch Ophthalmol. 2002;120(6):774–
+780.
+9. Goldstein JE, Massof RW, Deremeik JT, et al. Baseline
+traits of low vision patients served by private outpatient
+clinical centers in the United States. Arch Ophthalmol.
+2012;130(8):1028–1037.
+10. Brown JC, Goldstein JE, Chan TL, Massof R, Ramulu P. Characterizing functional complaints in patients seeking outpatient low-vision services in the United States. Ophthalmology. 2014;121(8):1655–1662.e1.
+11. Goldstein JE, Guo X, Boland MV, Smith KE. Visual acuity:
+assessment of data quality and usability in an electronic health record system. Ophthalmol Sci. 2023;3(1):
+100215.
+12. Brault MW, Wittenborn JS, Rein DB. Behavioral risk factor
+surveillance system and American Community Survey estimates of vision difficulty prevalence. JAMA Ophthalmol.
+2024;142(8):768–771.
+13. Yip JLY, Khawaja AP, Broadway D, et al. Visual acuity, self reported vision and falls in the EPIC-Norfolk Eye study. Br
+J Ophthalmol. 2014;98(3):377–382.
+14. Garin N, Olaya B, Lara E, et al. Visual impairment and multimorbidity in a representative sample of the Spanish population. BMC Public Health. 2014;14(1):815.
+15. Zhang X, Bullard KM, Cotch MF, et al. Association between
+depression and functional vision loss in persons 20 years
+of age or older in the United States, NHANES 2005–2008.
+JAMA Ophthalmol. 2013;131(5):573–581.
+16. Bourne R, Steinmetz JD, Flaxman S, et al. Trends in prevalence of blindness and distance and near vision impairment over 30 years: an analysis for the Global Burden
+of Disease Study. Lancet Glob Health. 2021;9(2):e130–
+e143.
+17. Chan T, Friedman DS, Bradley C, Massof R. Estimates of
+incidence and prevalence of visual impairment, low vision,
+and blindness in the United States. JAMA Ophthalmol.
+2018;136(1):12–19.
+

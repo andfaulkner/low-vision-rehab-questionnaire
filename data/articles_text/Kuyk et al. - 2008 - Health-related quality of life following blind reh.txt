@@ -1,0 +1,1572 @@
+[page 1]
+Qual Life Res (2008) 17:497–507
+DOI 10.1007/s11136-008-9336-3
+
+Health-related quality of life following blind rehabilitation
+Thomas Kuyk Æ Lei Liu Æ Jeffry L. Elliott Æ Hartley E. Grubbs Æ
+Cynthia Owsley Æ Gerald McGwin Jr. Æ Russell L. Griffin Æ Patti S. Fuhr
+
+Accepted: 22 March 2008 / Published online: 5 April 2008
+Ó Springer Science+Business Media B.V. 2008
+
+Abstract
+Purpose The purpose of this study was to investigate the
+effect of residential blind rehabilitation on patients’ vision targeted health-related quality of life (HRQOL) and general physical and mental function.
+Method The National Eye Institute 25-item Visual Function Questionnaire (NEI VFQ) plus appendix questions, the
+12-item Short-Form Health Survey (SF-12), Hope Scale and
+Coopersmith self-esteem inventory were administered to
+206 legally blind veterans prior to their entering a residential
+(in-patient) blind rehabilitation program and again to 185
+and 176 of the original cohort at 2 and 6 months after completion of the rehabilitation program, respectively. Data on
+visual acuity, visual field extent, contrast sensitivity and
+scanning ability were also collected. The duration of the
+in-patient rehabilitation programs ranged from 11 to
+
+T. Kuyk  J. L. Elliott  H. E. Grubbs  P. S. Fuhr
+Department of Veterans Affairs Medical Center, Birmingham,
+AL, USA
+T. Kuyk (&)
+Northrop Grumman—AFRL/HEDO, 2624 Louis Bauer Drive,
+Brooks City-Base, TX 78235, USA
+e-mail: Thomas.kuyk.ctr@us.af.mil
+L. Liu
+School of Optometry, The University of Alabama
+at Birmingham, Birmingham, AL, USA
+
+109 days. Questionnaire scores were compared pre-rehabilitation and post-rehabilitation.
+Results Following rehabilitation there was a significant
+improvement in nine of 11 NEI VFQ subscales and in a
+composite score at both the 2- and 6-month post-rehabilitation
+intervals. Mental health (SF-12) and self esteem also improved
+significantly although physical health ratings declined over the
+course of the study (approximately 10 months).
+Conclusions Residential blind rehabilitation appears to
+improve patients’ self-reported vision-targeted HRQOL,
+self-esteem and mental health aspects of generic HRQOL.
+Keywords Blind rehabilitation  Health-related quality
+of life  Hope Scale  NEI-VFQ  Profound low vision 
+SF-12  United States veterans  Vision rehabilitation
+Abbreviations
+ADL
+Activities of Daily Living
+CESD
+Center for Epidemiological Studies
+Depression Scale
+DVA
+Department of Veterans Affairs
+HRQOL
+Health-Related Quality of Life
+MCS
+Mental Component Summary
+NEI VFQ National Eye Institute Visual Function
+Questionnaire
+O&M
+Orientation and Mobility
+PCS
+Physical Component Summary
+RP
+Retinitis Pigmentosa
+SF-12
+Short Form Health Survey 12-item version
+
+C. Owsley  G. McGwin Jr.
+Department of Ophthalmology, The University of Alabama
+at Birmingham, Birmingham, AL, USA
+
+Introduction
+
+G. McGwin Jr.  R. L. Griffin
+Department of Epidemiology, The University of Alabama
+at Birmingham, Birmingham, AL, USA
+
+For many years the assessment of functional outcomes,
+such as traditional clinical or physiological measures (e.g.
+
+123
+
+
+[page 2]
+498
+
+symptoms, signs, visual acuity or intraocular pressure), has
+been important in the study of medical and surgical interventions in eye disease. However, in the past decade, the
+evaluation of health and eye care has increasingly focused
+on health-related quality of life (HRQOL) as a critical
+outcome of treatment [1–5]. The reason for this change in
+approach is that functional measurements may not provide
+adequate characterization of the burden of disability in day to-day activities from the patient’s perspective. Furthermore, improvements in function or the ability to perform
+different tasks as a result of an intervention may not be
+meaningful to the individual if they do not address one’s
+needs or improve one’s psychological state [5, 6]. Health related quality of life measures are designed to be more
+comprehensive and include assessment of physical, psychological and social function and general health. Some
+measures, such as the National Eye Institute Visual Function Questionnaire (NEI VFQ) target specific domains,
+which is in this case visual function and how it affects
+HRQOL [7].
+Vision is central to the functioning of the individual,
+and it is clear from numerous studies over the past two
+decades that impaired vision exerts dramatic effects on
+function and on quality of life [8–14]. It has also been
+shown that interventions which improve visual function,
+such as cataract surgery, also improve HRQOL [15–20].
+For persons with permanent visual impairment (i.e. not
+correctable with spectacles, contact lenses or surgical
+interventions), interventions to improve function are based
+on learning compensatory skills, training in the use of
+technological aids, or both. These vision interventions
+range from the simple prescription of low vision aids with
+minimal training to comprehensive in-patient training
+regimens, such as the blind rehabilitation program of the
+Department of Veterans Affairs (DVA) in the USA. The
+DVA program, which is the focus of this study, is intended to improve the ability of legally blind veterans to
+perform tasks in specific skill areas, including orientation
+and mobility (O&M), manual skills, activities of daily
+living (ADL), communication and low vision. Blind
+rehabilitation is generally acknowledged to improve
+functional status [21–24], and the implicit assumption is
+that it also enhances HRQOL.
+However, it has only been recently that studies have
+gone beyond anecdotal reports and directly investigated the
+effects of vision and blind rehabilitation services on
+HRQOL. Most of the studies have focused on outpatient
+low vision services and have yielded different outcomes,
+from evidence of great success of low vision care [5,
+25–28] to having little or no effect on the recipient’s
+HRQOL [29]. Only a few studies have looked at the effects
+on HRQOL of participation in comprehensive in-patient
+blind rehabilitation programs, such as the one administered
+
+123
+
+Qual Life Res (2008) 17:497–507
+
+by the DVA [25, 26, 30]. The most recent of these were
+conducted by Stelmack and colleagues [26, 30]. In one
+study, Stelmack et al. [26] administered the NEI VFQ
+(25-item version plus supplement) to veterans upon
+admission and discharge from one of the DVA blind
+rehabilitation programs. They found only seven of 34 items
+were sensitive to change after rehabilitation and that nearly
+all of these targeted activities related to near vision tasks,
+primarily reading. They found no change in vision-specific
+social functioning, role limitation, dependency or mental
+health and concluded that the lack of change in these
+dimensions occurred because they were not activities targeted during rehabilitation. However, this interpretation is
+complicated by the fact that both the pre- and post-tests
+were administered at the rehabilitation center, just after
+clients had arrived for training and just prior to discharge.
+This procedure may have introduced different types of bias,
+raising questions about the accuracy of the results.
+Respondents may have overestimated abilities in areas that
+were specifically addressed by the rehabilitation program
+as a result of a halo effect. Alternatively, dimensions such
+as social function and mental health may not have shown
+change because respondents had not had the opportunity to
+evaluate the impact of their new functional abilities in
+everyday life.
+In a second study, Stelmack et al. [30] used a visual
+function questionnaire that they developed to assess outcomes of blind rehabilitation. The questionnaire focused on
+activities that are specifically addressed in DVA blind
+rehabilitation programs. It was administered over the phone
+just before rehabilitation began and again at 3 and
+12 months after rehabilitation had been completed. This
+procedure avoided the problems associated with their initial study [26]. The outcome measure was a single metric
+of visual ability that showed a significant increase at both
+times after rehabilitation despite a significant decline
+between 3 and 12 months. The changes in visual ability as
+a result of rehabilitation were quite large and impressive.
+However, the new test instrument did not assess domains
+such as social functioning or mental health, thereby leaving
+questions about the impact of vision rehabilitation on them
+raised by their first study unanswered.
+One of the goals of the study reported here was to
+provide data on the NEI VFQ in a population of visually
+impaired veterans before and at several time intervals after
+treatment in a DVA blind rehabilitation program. Another
+goal of the study was to provide data on HRQOL before
+and after rehabilitation using a non-vision-targeted test
+instrument and on subjects’ medical and functional characteristics. In addition, we assessed two psychological
+dimensions that we thought were important to mental
+health and which might be affected by rehabilitation: hope
+and self-esteem. Collecting these data addresses a
+
+
+[page 3]
+Qual Life Res (2008) 17:497–507
+
+weakness of many studies of low vision and blind rehabilitation HRQOL outcomes—that a single vision-targeted
+measurement instrument is typically used. An assessment
+of health status and mental and psychological health, for
+example, is rarely done outside of the vision-targeted
+domain. This information could be important in interpreting the data on vision rehabilitation outcomes. A third goal
+was to compare our results with those of Stelmack et al.
+[26] to determine if the testing procedure they used might
+explain why they saw no changes in NEI VFQ subscales
+related to role difficulties, social function, dependency and
+mental health.
+To achieve these goals, we assessed vision-targeted and
+generic HRQOL prior to rehabilitation and again at 2 and
+6 months after rehabilitation was completed. The 2-month
+delay was implemented to avoid halo effects that have been
+reported to be present immediately after rehabilitation and
+which can result in higher than normal ratings of function
+and life satisfaction. It was felt that 2 months would be an
+adequate time interval for the halo effects to recede and for
+individuals to evaluate, through independent application in
+their home environment, the skills they had learned during
+rehabilitation. The 6-month duration was selected to give
+an indication of longer term effects, and it was felt to be
+sufficient time to show erosion of rehabilitation effects if
+they were present.
+
+Methods
+Subjects
+Male and female veterans scheduled to enter the blind
+rehabilitation program at the DVA Southeastern Blind
+Rehabilitation Center in Birmingham, Alabama, were
+recruited prospectively by telephone. A total of 239
+individuals were contacted, and 209 agreed to participate.
+Recruitment for the study occurred over an approximate
+2.5-year time period, from January 2000 to May 2002.
+Since no screening data were collected prior to the
+informed consent, we cannot determine if there were
+differences between those who chose not to participate
+and those who did. Three persons who had agreed to
+participate dropped out upon admission to the blind
+rehabilitation program, leaving 206 individuals who participated in the study—196 males and ten females. All
+participants met the U.S. statutory definition of legal
+blindness (visual acuity of 20/200 or worse in the better
+eye or visual field diameter of 20 degrees or less in the
+better eye).
+During the initial telephone interview informed consent
+was obtained verbally. In all cases, permission was
+obtained to record on audio tape the verbal consent.
+
+499
+
+Written consent was subsequently obtained when the subjects entered the rehabilitation program. The Birmingham
+DVA Medical Center’s Institutional Review Board
+approved this study, and it was conducted in accordance
+with the Helsinki Declaration. Each subject gave written
+informed consent after the nature and intent of the study
+had been fully explained, and they were read the informed
+consent document.
+Test instruments
+The primary quality-of-life test instrument was the NEI
+VFQ 39-item version (standard 25-item version plus
+appendix questions) [7, 31]. This is a vision-specific
+HRQOL assessment in that questions are aimed at determining how an individual’s current level of vision affects
+his/her performance of specific tasks or impacts roles,
+social function, mental health and dependency. The 39item version includes additional questions that contribute
+to the subscales and composite score associated with the
+more commonly used 25-item version. We thought the
+former might provide more stable results than the 25-item
+version. It was also the version used by Stelmack et al. [26]
+whose data we wanted to compare with ours. The interviewer version of the questionnaire was used, and the
+wording was modified slightly to address the possible use
+of low vision aids [12, 26]. Participants were told to answer
+all of the questions as if they were using whatever vision
+correction they normally used to perform that activity,
+including spectacles, contacts and any low vision aids.
+Other outcome measures included the Short Form Health
+Survey 12-item version (SF-12) [32], which is a questionnaire designed to assess generic HRQOL, providing a
+physical and a mental component summary score (PCS and
+MCS, respectively), the Coopersmith self-esteem inventory
+[33] for measuring self-esteem and the Hope Scale [34] for
+measuring hope/hopelessness. These instruments were all
+administered over the telephone prior to entering the blind
+rehabilitation program and again at 2 and 6 months after
+rehabilitation.
+Additional data on visual function, cognitive function,
+depression, health co-morbidities and basic demographics
+were also collected, but only at the beginning of the study.
+Visual function measures included distance visual acuity
+(Bailey-Lovie charts), Goldmann visual field (binocular)
+with the III/4e target at standard background luminance,
+contrast sensitivity using the Pelli-Robson chart and a brief
+test of scanning ability [35]. The Short-Portable test was
+used to assess cognitive function [36], the Center for
+Epidemiological Studies Depression Scale (CESD) [37, 38]
+was used as the depression inventory and a checklist was
+completed to determine health problems and their severity
+[39].
+
+123
+
+
+[page 4]
+500
+
+Procedures
+After obtaining consent and prior to admission to the
+program, the subjects were administered, by telephone
+interview, the NEI VFQ, SF-12, Hope Scale and Coopersmith self-esteem inventory in that order. The remainder of
+the test instruments, the CESD, Short-Portable and health
+survey and the vision tests, were administered within a few
+days of subjects being admitted to the blind rehabilitation
+program. Post-rehabilitation testing took place at 2 and
+6 months after the subjects had been discharged from the
+rehabilitation program. This testing was completed during
+telephone interviews and included re-administrations of the
+NEI VFQ, SF-12, Hope Scale and Coopersmith self-esteem
+inventory. A 3-week window after the 2- and 6-month postdischarge dates was allowed for collection of the follow-up
+data.
+Blind rehabilitation
+The DVA blind rehabilitation program is a comprehensive
+in-patient program in which clients receive training in
+different skill areas, including O&M, low vision, ADL,
+communication and manual skills. The O&M training
+focuses on techniques to remain oriented in and negotiate
+different travel environments, street crossings, use of
+public transportation and use of the long cane. Low vision
+training focuses on techniques and technologies to maximize remaining vision, including instruction in the use of
+low vision aids, such as magnifiers, closed circuit televisions and telescopes for reading and spotting targets. The
+ADL and communication training includes instruction in
+activities such as home and personal effects organization,
+cooking, grooming, shopping and financial management.
+The manual skills part of the program focuses on developing confidence in using other senses, such as touch, to
+accomplish tasks and training in the use of adaptive devices
+useful for home maintenance and hobbies. In addition,
+clients receive a complete low vision examination and
+medical evaluation and meet with a psychologist and social
+worker to determine if they have specific social and psychological needs.
+The training day is divided into seven 45-min instructional periods with 15-min breaks in-between. During a
+typical day, for example, a client might have two periods of
+O&M, two of low vision, one of manual skills, one of ADL
+and one for other appointments (e.g. social work or
+research). The average length of stay in the blind rehabilitation program is 6–7 weeks, but this varies depending on
+client vision rehabilitation needs and goals as well as
+general mental and physical health. For example, the
+average client receives 35–40 h of O&M training. However, the exact amount and how the time is spent will
+
+123
+
+Qual Life Res (2008) 17:497–507
+
+depend on needs and type of vision loss. Individuals with
+severe peripheral field restrictions from diseases, such as
+retinitis pigmentosa (RP), often have severe mobility limitations and are likely to spend more time overall in O&M
+and in the program as a whole; much of it learning and
+practicing long cane skills. In contrast, persons with central
+vision loss due to macular disease generally usually do not
+have severe mobility limitations. For example, they can get
+around without a long cane and, as a result, do not require
+extensive training in its use.
+Statistical analysis
+The NEI VFQ results were scored according to methods
+specified by the test developers [31]. The results are typically summarized into 12 subscales and a composite score.
+However, since only 11 subjects reported any driving
+activity, the driving subscale data were not analyzed nor
+were they used to calculate the composite score. Nonparametric methods, including the Friedman analysis of
+variance (ANOVA) and the Wilcoxin test, were used for
+variables that were not normally distributed. Parametric
+methods, including the repeated measures ANOVA, paired
+t-test and linear regression, were used for normally distributed variables. Comparisons were made between
+assessment times—specifically, pre-rehabilitation versus
+the 2- and 6-month post-rehabilitation and also 2- versus
+6-month post-rehabilitation. No adjustments were made for
+multiple tests. Multiple linear regression was used to
+determine the effects of age, visual acuity, contrast sensitivity, visual field extent, SF-12 mental and physical
+subscale score and eye disease diagnosis on the difference
+in pre-rehabilitation NEI VFQ composite scores from NEI
+VFQ composite scores at both the 2- and 6-month postrehabilitation. Backwards-selection procedures were used
+to determine the optimal model. Analyses were carried out
+using SPSS ver. 14 (SPSS, Chicago, IL).
+
+Results
+Of the 206 participants who completed the pre-rehabilitation
+interview, 185 completed the 2-month post-rehabilitation
+interview and 176 completed the 6-month post-rehabilitation
+interview. There were a few cases in which participants who
+completed the 6-month interview did not complete the
+2-month interview and vice versa. Of the sample, 167 participants completed all three interviews. The most common
+reason for loss to follow-up was the inability to contact
+subjects within 3 weeks after the 2- and 6-month post-rehabilitation dates despite repeated attempts (n = 18). Four
+subjects decided not to continue the study, four were
+deceased, three cited illness at the time of one of the
+
+
+[page 5]
+Qual Life Res (2008) 17:497–507
+
+501
+
+follow-up interviews and declined to be interviewed at that
+time and then could not be re-contacted in the 3-week window, two left rehabilitation early and were not interviewed
+later, four cited various reasons, including hearing impairment, one subject’s data were not used because his spouse
+was also on the line answering questions for him and no
+reason for the loss to follow-up was listed in the study notes
+for three subjects. In our study, we analyzed all data that were
+available for specific comparisons, not just that from participants who completed all three interviews.
+Table 1 contains the demographic and clinical descriptive data. Participants ranged in age from 30 to 91 years,
+with an average age of 70 years. Ninety-five percent of the
+sample were men, and 87% were white. The majority of the
+sample had vision loss due to macular disease followed by
+glaucoma, diabetic retinopathy, optic nerve disease, RP,
+and other (e.g., ocular histoplasmosis or trauma). Binocular
+distance visual acuity was measurable on 180 participants,
+and they had an average logarithm of the minimum angle
+of resolution (log MAR) of 1.04 or 20/220 Snellen equivalent. However, the acuity range for the sample ranged
+from -0.2 logMAR (20/13) to no light perception. Note
+that the high acuity of some subjects does not indicate
+
+normal vision. These individuals had diseases such as RP
+that are characterized by a loss of peripheral vision with
+sparing of central vision. In some cases, high acuity is
+maintained in the remaining central area even though it
+may only be a few degrees across. If a logMAR of 1.7
+(20/1000) is arbitrarily assigned to the 13% of individuals
+whose acuity was so poor as to not be measurable, then
+average acuity changes to a logMAR of 1.12 or 20/265,
+which better reflects the level of acuity for the sample.
+Average contrast sensitivity on the Pelli-Robson was 0.5
+log unit, which is approximately 1.0 log unit below scores
+for older adults with normal vision. Visual field extent
+averaged approximately half that of a full normal binocular
+field for a young adult [35]. Of the 13 targets in the
+scanning test, subjects were able, on average, to locate four
+in 10 s, which is about 50% of age-normal performance. As
+with the other vision variables, field extent and scanning
+ranged from un-measurable to normal.
+Other baseline population characteristics included normal cognitive function with a mean Short Portable score of
+0.67 where one to two errors are normal [36] and a
+depression score of 6 where the normal range on the CESD
+is from 0 to 16 [38]. On the health inventory, subjects
+
+Table 1 Subject demographic
+and clinical variables
+
+Mean (median)
+
+Standard deviation
+
+Minimum–maximum
+
+Age (years)
+Binocular visual acuity
+
+70.2 (73.5)
+1.04 (1.0)
+
+12.6
+0.4
+
+30–91
+-0.2 to 1.58
+
+Pelli-Robson contrast sensitivity
+
+0.53 (0.45)
+
+0.5
+
+0.0–1.65
+
+Visual field (%)
+
+49 (59)
+
+30
+
+0–97
+
+Scanning score
+
+4.1 (4)
+
+2.9
+
+0–13
+
+Short Portable score
+
+0.7 (0)
+
+0.89
+
+0–4
+
+Depression Scale score
+Comorbidity score
+
+6 (3)
+
+8.5
+
+0–39
+
+5.25 (5)
+
+2.3
+
+1–11
+
+Health score
+
+10.9 (10)
+
+5.8
+
+1–29
+
+Length of stay (days)
+
+48.23 (46)
+
+16.3
+
+11–109
+
+Number (%)
+Gender
+Male
+
+196 (95)
+
+Female
+
+10 (5)
+
+Race
+White
+
+179 (87)
+
+Black
+
+25 (12)
+
+Hispanic
+
+2 (1)
+
+Ocular condition
+Macular disease
+
+116 (56)
+
+Glaucoma
+
+29 (14)
+
+Diabetic retinopathy
+
+23 (11)
+
+Retinitis pigmentosa
+
+10 (5)
+
+Optic nerve disease
+
+11 (6)
+
+Other
+
+17 (8)
+
+123
+
+
+[page 6]
+502
+
+Qual Life Res (2008) 17:497–507
+
+reported an average of 5.25 co-morbid health conditions
+and a health score of 10.9 out of 30 maximum points, with
+higher scores indicating poorer health. These latter indicators suggest our sample has reasonably normal physical
+and mental health for their age [39]. On average, they
+stayed in the blind rehabilitation program for approximately 1.5 months. This varied as a function of diagnosis.
+As noted previously, subjects with greater mobility needs
+tend to remain in the rehabilitation program longer, and in
+our sample subjects with RP were in the program on
+average 10 days longer than those with macular disease.
+Pre-and post-rehabilitation subscale and composite
+score averages for 11 subscales (driving not included) and
+the composite scores and the results of the statistical
+analysis are summarized in Table 2. Significant differences
+were observed (P \ 0.05) in all subscale categories as a
+function of test administration time, with the exception of
+ocular pain and peripheral vision. Significant positive (or
+negative) differences between pre- and post-rehabilitation
+scores on the NEI VFQ assessment can be thought of in
+terms of rehabilitation gain or (loss), respectively. As
+illustrated in Fig. 1, for the nine subscale categories that
+showed significant differences over the assessment time,
+scores at 2 months post-rehabilitation and also at 6 months
+
+post-rehabilitation were all significantly higher than the
+pre-rehabilitation scores, with the exception of general
+health (Wilcoxin P = 0.014 to \0.001). Between 2 and
+6 months, scores in six categories declined and four
+increased, of which only the declines for distance vision,
+role difficulties and the composite score were statistically
+significant (P = 0.019, 0.041, 0.015, respectively).
+We also found significant changes in the SF-12 MCS
+and PCS scores after rehabilitation, although the changes
+were in opposite directions (Table 2). The MCS score
+increased significantly after rehabilitation, indicating
+improved mental function, and it remained elevated after
+6 months (P = 0.024). Prior to rehabilitation, the veterans’
+MCS score was approximately 3 points below that of the
+mean of persons between 65 and 74 years of age, but by
+6 months after rehabilitation it had increased by nearly 3
+points and was now within 0.2 points of the general population average. In contrast, the PCS score declined
+significantly over time (P = 0.011), although at the
+beginning of the study participants’ PCS score was comparable to those of the general U.S. population of 65- to
+74-year-olds. Neither component summary score was significantly correlated with age or cause of vision loss in our
+sample. Lastly, the SF-12 data are paralleled by similar
+
+Table 2 The NEI VFQ (VFQ) subscale scores, SF-12 MCS and PCS scores and Hope Scale and Coppersmith scores, before and at 2-and 6month post-rehabilitation
+Subscale and test scores
+
+Before rehabilitation
+n = 206
+
+2-Month post-rehabilitation
+n = 185
+
+6-Month post-rehabilitation
+n = 176
+
+VFQ general health (P)a
+
+55.1 (26.4)
+
+49.0 (28.3)b
+
+47.6 (28.1)b
+
+34.3 (17.4)
+
+b
+
+38.9 (19.3)b
+
+b
+
+58.5 (22.2)b
+43.5 (20.0)b,c
+
+a
+
+VFQ general vision
+
+39.7 (20.4)
+
+a
+
+VFQ near vision (P)
+VFQ distance visiona
+
+30.3 (14.8)
+32.3 (18.3)
+
+59.5 (21.8)
+45.9 (21.9)b
+
+VFQ peripheral vision
+
+51.3 (31.7)
+
+55.5 (32.5)
+
+57.6 (30.4)
+
+VFQ color visiona
+
+50.1 (33.4)
+
+59.1 (33.5)b
+
+58.3 (33.3)b
+
+VFQ ocular pain
+
+76.2 (23.9)
+
+77.1 (24.5)
+
+75.6 (24.0)
+
+VFQ role difficulties (P)a
+
+38.2 (22.9)
+
+48.0 (22.3)b
+
+45.9 (21.8)b,c
+
+VFQ dependencya
+
+44.5 (29.7)
+
+56.2 (27.6)b
+
+56.6 (27.9)b
+
+54.8 (24.7)
+
+62.2 (21.6)
+
+b
+
+62.0 (21.9)b
+
+55.3 (27.1)
+
+b
+
+56.6 (26.1)b
+
+55.2 (15.0)
+
+b
+
+54.6 (14.7)b,c
+
+51.2 (11.6)
+
+b
+
+51.9 (10.9)b
+
+44.1 (10.8)
+
+41.4 (12.1)
+
+b
+
+40.3 (11.9)b,c
+
+Hope Scale
+
+37.8 (9.9)
+
+36.9 (10.0)
+
+36.9 (10.0)
+
+Coppersmitha
+
+76.2 (18.3)
+
+79.5 (18.4)b
+
+80.4 (18.2)b
+
+VFQ social function (P)
+VFQ mental health
+
+a
+
+VFQ composite (P)
+a
+
+SF-12 MCS
+SF-12 PCS
+
+a
+
+a
+
+a
+
+45.1 (27.9)
+46.4 (14.7)
+49.2 (11.7)
+
+All values are given as the mean ± standard deviation
+P indicates that parametric methods were used; otherwise, non-parametric methods were used
+See Abbreviations at beginning of article for the definitions of the abbreviations used in this table
+a
+
+Significant effect of time of administration (pre- vs. post-rehabilitation)
+
+b
+
+Significantly different from pre-rehabilitation scores
+
+c
+
+Significantly different than the 2-month post-rehabilitation score
+
+123
+
+
+[page 7]
+Qual Life Res (2008) 17:497–507
+
+503
+
+Fig. 1 Differences in the NEI
+VFQ subscale scores for prerehabilitation (Pre) and 2(2Mo) and 6-month (6Mo) postrehabilitation and between 2and 6-month post-rehabilitation
+
+35
+
+30
+
+Pre-2Mo
+Pre-6Mo
+2Mo-6Mo
+
+20
+
+15
+
+10
+
+5
+
+-10
+
+S+
+SO
+C
+IA
+C
+L+
+O
+M
+PO
+SI
+TE
++
+
+O
+LE
+R
+
+R
+IP
+H
+PE
+
+A
+IN
+EY
+EP
+
+EN
+EP
+
+D
+
+C
+O
+
+-5
+
+D
++
+FA
+R
+VI
+G
+S+
+EN
+H
+EA
+LT
+H
+G
++
+EN
+VI
+SI
+O
+N
++
+M
+EN
+TA
+L+
+N
+EA
+R
+VI
+S+
+
+0
+
+LO
+R
+*
+
+Difference Score (points)
+
+25
+
+-15
+
+Subscale
+
+changes in the NEI VFQ mental health and general health
+subscale scores, which increased and declined over time,
+respectively. This is consistent with previous findings that
+related these two NEI VFQ subscales to SF-36 scores [40].
+The remaining two tests administered were the Hope
+Scale and the Coopersmith self-esteem inventory. Average
+results from these tests are also shown in Table 2. Scores
+on the Hope Scale averaged approximately 37.0 and did
+not change after rehabilitation. In contrast, scores on the
+Coppersmith inventory showed a small but highly significant positive change (P \ 0.001), despite being in the high
+self-esteem category at baseline (a score of 75 or higher is
+considered to be in the high self-esteem category).
+Table 3 presents the adjusted results from the linear
+regression analysis for both the full and best-fit regression
+models. For the final model predicting differences from prerehabilitation NEI VFQ composite scores to composite
+scores at 2 months post-rehabilitation, a 1-year increase
+in age was associated with a significant (P \ 0.0001),
+0.53-point decrease in mean composite score difference.
+Additionally, a 1-unit change in visual acuity (logMAR) in
+the direction of improvement (lower logMAR number)
+was significantly associated with a 7.69-point increase
+(P = 0.0038) in mean composite score difference. Examining how eye disease diagnosis affected mean composite
+score difference in comparison to macular disease, we found
+was a significant decreased association between the ‘‘other’’
+diagnosis (b = -10.38, P = 0.0239) and composite score
+difference. While all remaining diagnoses had decreased
+
+associations as well when compared to macular disease, none
+were significant. This suggests that for all practical purposes,
+cause of vision loss was not associated with the variation in
+composite scores differences.
+For the mean difference between the pre-rehabilitation
+and the 6-month post-rehabilitation composite scores, the
+final model only included visual acuity. In particular, a 1
+unit change in visual acuity was significantly associated
+with a 6.87-point increase in mean composite score difference (P = 0.0128).
+
+Discussion
+This study evaluated the intervention of a comprehensive
+in-patient blind rehabilitation training program delivered to
+a generally older veteran population by measuring changes
+in the perceived HRQOL of individuals who received it. It
+provides needed data on the NEI VFQ for this population.
+Two months after rehabilitation, we found significant
+increases in every category related to visual function on the
+NEI VFQ, with the exception of peripheral vision and
+ocular pain. The changes ranged from 5 percentage points
+for color vision and far vision to nearly 30 for near vision.
+We also found significant changes in all mental health and
+related subscales that ranged from 8 to 13 percentage
+points. The increases in NEI VFQ subscale scores at
+2 months persisted at 6 months after rehabilitation.
+This was true for both visual function and mental
+
+123
+
+
+[page 8]
+504
+
+Qual Life Res (2008) 17:497–507
+
+Table 3 Full and adjusted linear regression models for mean difference in NEI VFQ composite scores pre-rehabilitation and at 2 and 6 months
+post-rehabilitation
+2 Months
+
+6 Months
+
+Full model
+b
+
+Final model
+P value
+
+b
+
+Full model
+P value
+
+b
+
+Final model
+P value
+
+b
+
+P value
+–
+
+Age (years)
+
+-0.54
+
+\0.0001
+
+-0.53
+
+\0.0001
+
+-0.27
+
+0.0122
+
+–
+
+Visual acuity
+
+6.86
+
+0.0330
+
+7.69
+
+0.0038
+
+4.70
+
+0.1481
+
+6.26
+
+0.0128
+
+Contrast sensitivity
+
+-0.24
+
+0.9298
+
+–
+
+–
+
+0.16
+
+0.9525
+
+–
+
+–
+
+Visual field extent
+
+-0.08
+
+0.1020
+
+–
+
+–
+
+-0.04
+
+0.3811
+
+–
+
+–
+
+MCS
+
+0.09
+
+0.3013
+
+–
+
+–
+
+0.01
+
+0.8685
+
+–
+
+–
+
+PCS
+
+-0.07
+
+0.4388
+
+–
+
+–
+
+-0.04
+
+0.6866
+
+–
+
+–
+
+Glaucoma
+
+-6.99
+
+0.0611
+
+-5.27
+
+0.1085
+
+-2.46
+
+0.5290
+
+–
+
+–
+
+Diabetic retinopathy
+
+-3.76
+
+0.2931
+
+-2.00
+
+0.5605
+
+-4.54
+
+0.2007
+
+–
+
+–
+
+SF-12 pre-rehabilitation
+
+Diagnosis
+
+Macular disease
+
+Ref
+
+Optic nerve disease
+
+-11.822
+
+Ref
+0.0539
+
+Ref
+-9.06
+
+Ref
+
+–
+
+–
+
+0.1267
+
+Ref
+-4.80
+
+Ref
+0.4261
+
+–
+
+–
+
+Retinitis pigmentosa
+
+-9.79
+
+0.0873
+
+-6.90
+
+0.1932
+
+-1.84
+
+0.7277
+
+–
+
+–
+
+Other
+
+-12.66
+
+0.0089
+
+-10.38
+
+0.0239
+
+-4.75
+
+0.3164
+
+–
+
+–
+
+health-related aspects of HRQOL. Although some subscale
+scores appeared to decline slightly between 2 and 6 months
+after rehabilitation, only two of those, distance vision and
+the composite score, were statistically significant. Also,
+two subscale scores moved in the opposite direction. If
+subscales that showed no change (peripheral vision and
+ocular pain), physical health and the composite are excluded and the direction of change is analyzed, we find that
+out of eight subscales, six showed a decline and two
+showed an increase. This is not statistically significant
+(binomial test P = 0.145) and indicates that the effects of
+the rehabilitation are relatively persistent over a 6-month
+time span.
+Indicators of mental and physical health from the SF12 support the results from Table 1 suggesting that the
+mental and physical health of our sample was relatively
+normal for their age. The pre-rehabilitation SF-12 mental
+and physical subscale scores are similar to those of a
+sample from the general population in the age range 65–
+74 years, where most of our population fell. The general
+population sample mean mental subscale is 52.10 versus
+49.29 for our group, while the comparable physical subscales are 43.65 versus 44.08, respectively [32]. However,
+the physical health of our subjects clearly declined over
+the course of our study. As expected, because of similarities in wording, this was evidenced in both the SF-12
+and NEI VFQ general health scores where change over
+time was statistically significant. Although declining
+health over time is expected, the changes are relatively
+large considering the time elapsed from the first to the last
+interview was less than 1 year. For that we do not have a
+
+123
+
+good explanation. The other health indicators do not
+suggest that our sample was particularly unhealthy at the
+outset of the study and thus prone to experience a rapid
+decline in health. In light of the declining physical health
+of the sample, the positive changes in vision-targeted
+HRQOL and general mental health over the same time
+period seem all the more impressive.
+The other two assessments that were used in this study
+were the Hope Scale and the Coopersmith self-esteem
+inventory. Although neither is typically viewed as an
+indicator of HRQOL, they do assess specific psychological
+factors that contribute to mental health, which is a component of HRQOL. We included the Hope Scale because a
+previous study indicated that higher scores were significantly correlated with greater reported functional ability
+[34]. Since rehabilitation has been shown to improve
+functional ability, we reasoned that scores on this scale
+would increase after rehabilitation. However, they did not
+change. This is perhaps partially explained by the fact that
+scores for our subjects were relatively high to begin with
+and that we may have had a ceiling effect but also because
+the Hope Scale is regarded as a relatively stable set of
+beliefs. The high levels of the Hope scores may simply be a
+characteristic of many of the veterans who, despite
+advanced age and illness, have made a decision to enter an
+intensive rehabilitation program. This is because higher
+levels of Hope are associated with a greater sense of
+determination to meet personal goals and a greater sense of
+being able to do so successfully [34]. An interesting
+question would be: are there differences in the level of the
+Hope scores between persons who choose to participate in
+
+
+[page 9]
+Qual Life Res (2008) 17:497–507
+
+comprehensive rehabilitation programs and those who do
+not?
+In contrast to hope, self-esteem did increase after rehabilitation. However, while statistically reliable, the increase
+was small. Like hope, an important aspect of the self esteem result is that the subjects entered the rehabilitation
+program with already high levels of self-esteem. Like high
+levels of hope, this may be an important characteristic that
+distinguishes those who elect to take part in comprehensive
+rehabilitation programs from those who do not. Although
+self-esteem by itself was correlated with overall vision targeted functional abilities, it did not enter any models that
+predicted the amount of change in HRQOL after
+rehabilitation.
+The third goal of our study was to compare our findings
+for the NEI VFQ dimensions of role difficulties, dependency, social function and mental health with those of
+Stelmack et al. [26] to determine if differences in test
+procedures influenced outcomes. Our data indicate that this
+is the case. Stelmack et al. found that rehabilitation had no
+effect on these dimensions, whereas we found significant
+changes on the order of 10 points at both the 2- and
+6-month post-rehabilitation. The difference between the
+two studies is that Stelmack et al. administered the postrehabilitation assessment immediately after the subjects
+had completed rehabilitation whereas we waited for 2
+months. We believe we found a positive change because
+that wait gave respondents the necessary time to assess
+how skills acquired during rehabilitation impacted them in
+everyday life. This is important because the DVA blind
+rehabilitation program and vision rehabilitation in general
+does not specifically target areas such as social function
+and mental health. Also, the rehabilitation environment
+does not provide the individual with the milieu of daily life
+in which to experience how improved functional abilities in
+areas such as mobility or near vision affect them overall.
+The best predictors of change in the VFQ composite
+score 2 months after rehabilitation were age and baseline
+visual acuity. Younger subjects and subjects with better
+acuity tended to show larger changes in the composite
+scores, suggesting that the intervention had a greater
+impact on their HRQOL. At 6 months post-rehabilitation,
+only acuity was associated with changes in the composite
+score. These findings would not come as a surprise to
+rehabilitation specialists who work with this population on
+a day-to-day basis. Age, for example, is associated with
+poorer physical health, which in turn can place limits on
+the ability of older subjects to fully participate in a comprehensive program. Many of the older veterans entering
+the rehabilitation program have multiple health problems
+that preclude them from participating in some aspects of
+the program (e.g., mobility training) and often remove
+them for varying periods of time during the program due to
+
+505
+
+illness. Also, visual acuity was correlated with other visual
+function measures (contrast sensitivity and scanning), and
+it makes intuitive sense that subjects with relatively good
+vision may be able to participate initially at a higher level
+of functioning and thus gain more from training in various
+areas, such as mobility, activities of daily living and low
+vision (reading), than subjects with very poor visual
+function.
+Overall, our findings of improvement in HRQOL after
+blind rehabilitation are consistent with the results reported
+by most other studies involving blind rehabilitation or
+comprehensive low vision services [5, 24–28]. Our finding
+of positive changes at 2 and 6 months after rehabilitation
+are also consistent with the results reported by Stelmack
+et al. [30]. They found a significant improvement in visual
+ability 3 months after a group of veterans completed a
+comparable intensive inpatient rehabilitation program to
+that used in the study reported here. They also found that
+the improvement persisted at 1-year post-rehabilitation
+even though there was a significant decline between
+3 months and 1 year.
+An obvious question is, do these changes in vision-targeted HRQOL represent a real benefit to the patient?
+Visual function questionnaires do not directly address this
+question. They measure an individual’s perception of his
+ability to perform tasks that are considered to be important
+to HRQOL and they provide information about changes in
+limitations. However, they do not provide a measure of
+what the limitations and changes in them mean to the
+individual. This might be better addressed by preference based measures, which can also be used to compare the
+cost-effectiveness of different rehabilitation programs.
+These measures are just now starting to be considered for
+evaluating vision rehabilitation interventions [6, 41].
+Despite this weakness, some context can be provided that
+might facilitate interpretation of the results of our study.
+For example, in a recent study of uncorrected refractive
+error, it was found that individuals whose acuity was
+improved by at least two lines with correction showed
+significant changes in NEI VFQ scores for general vision,
+distance visual acuity, near acuity and mental health [42].
+By comparison, the magnitude of change in distance vision
+and near acuity scores in our study was approximately
+fourfold larger. This amount seems to be consistent with
+the change in visual ability reported by Stelmack et al. [26,
+30] which, after blind rehabilitation, equated to a gain
+of four to eight lines on the Early Treatment Diabetic
+Retinopathy Study (ETDRS) acuity chart. As an example,
+for a person with 20/200 acuity, this represents a functional
+improvement in acuity due to the use of aid and compensatory skills of between 20/80 and 20/32. In addition, our
+own regression model indicated that the amounts of rehabilitation gain measured at 2 and 6 months were associated
+
+123
+
+
+[page 10]
+506
+
+with a 1-unit improvement in LogMAR, which is roughly
+an equivalent gain.
+A limitation of this study is that it lacked a comparison
+group. Under the circumstances we did not feel it was
+ethical to ask control subjects to delay their rehabilitation
+for upwards of 1 year in order to participate in the study.
+The population was elderly, with declining health and
+vision and growing rehabilitation needs, and many had
+already been on the rehabilitation waiting list for some
+time. For these reasons, we also doubted that many would
+sign up to voluntarily delay treatment for that length of
+time. Despite this limitation, the study’s strengths are its
+prospective design, use of validated vision and non-vision targeted test instruments and reporting of subjects’ medical
+and functional characteristics. We believe that the observed
+improvements in vision- and mental health-related outcomes primarily reflect the impact of the training the
+subjects received and are not the result of drift of scores
+over time, social contact or medical interventions to
+improve vision. It is difficult to imagine how drift or social
+contact could explain the large gains in activities related to
+near and distance vision, such as reading or watching
+television. A more likely explanation is that the gains are
+due to the training they received in the use of low vision
+aids, such as magnifying images and viewing techniques,
+to perform these tasks. Furthermore, if social contact were
+a major factor, then how does one explain the lack of any
+change in NEI VFQ domains related to mental health and
+social function when assessed immediately after rehabilitation versus significant changes in these domains 2 months
+later? Lastly, changes in medications or surgical interventions are not the norm for clients in the blind rehabilitation
+program. Training in the skill areas mentioned previously
+is the primary purpose of the program. Individuals entering
+the program are not newly diagnosed patients, but are
+referred from other DVA medical centers where they have
+been receiving vision and medical care for some time.
+Acknowledgements The authors wish to acknowledge and thank
+Johnna Wesley and Susan Mitchell for their excellent work on this
+project. This research was supported by funds from the Department of
+Veterans Affairs Rehabilitation Research and Development Service
+(C2240R), National Institutes of Health grant R21-EY14071,
+Research to Prevent Blindness Inc., and the EyeSight Foundation of
+Alabama.
+
+References
+1. Patrick, D. L., & Erickson, P. (1993). Assessing health related
+quality of life for clinical decision making. In S. R. Walker &
+R. M. Rosser (Eds.), Quality of life assessment: Key issues in the
+1990’s (pp. 11–63). Norwell, MA: Kluwer Academic Publishers.
+2. Fletcher, A., Gore, S., Jones, D., et al. (1992). Quality of life
+measures in health care, II: Design, analysis, and interpretation.
+British Medical Journal, 305, 1145–1148.
+
+123
+
+Qual Life Res (2008) 17:497–507
+3. Fowler, F. L., & Cleary, P. D. (1994). Methodological issues in
+measuring patient-reported outcomes: The agenda of the work
+group on outcomes assessment. Medical Care, 32, JS65–JS76.
+4. Ellwein, L. B., Fletcher, A., Negrel, A. D., & Thulasiraj, R. D.
+(1994). Quality of life assessment in blindness prevention interventions. International Ophthalmology, 18, 263–268.
+5. Raasch, T. W., Leat, S. J., Kleinstein, R. N., Bullimore, M. A., &
+Cutter, G. R. (1997). Evaluating the value of low vision services.
+Journal of the American Optometric Association, 68, 287–295.
+6. Elliott, D. B., Pesudovs, K., & Mallinson, T. (2007). Vision related quality of life. Optometry and Vision Science, 84, 656–
+658.
+7. Mangione, C. M., Berry, S., Spritzer, K., Janz, N. K., Klein, R.,
+Owsley, C., & Lee, P. (1998). Identifying the content area for the
+51-item National Eye Institute Visual Function Questionnaire:
+Results from focus groups with visually impaired persons.
+Archives of Ophthalmology, 116, 227–233.
+8. Scott, I. U., Schein, O. D., West, S., et al. (1994). Functional
+status and quality of life measurement among ophthalmic
+patients. Archives of Ophthalmology, 112, 329–325.
+9. Haymes, S. A., Johnston, A. W., & Heyes, A. D. (2002) Relationship between vision impairment and ability to perform
+activities of daily living. Ophthalmic and Physiological Optics,
+22, 79–91.
+10. Knudston, M. D., Klein, B. E. K., Klein, R., Cruiickshanks, K. J.,
+& Lee, K. E. (2005) Age-related eye disease, quality of life, and
+functional ability. Archives of Ophthalmology, 123, 807–814.
+11. Carabellese, C., Appollonio, T., Rozzini, R., et al. (1993). Sensory impairment and quality of life in a community elderly
+population. Journal of the American Geriatric Society, 41, 401–
+407.
+12. Scilley, K., DeCarlo, D. K., Wells, J., & Owsley, C. (2004)
+Vision specific health-related quality of life in age-related maculopathy patients presenting for low vision services. Ophthalmic
+Epidemiology, 11, 131–146.
+13. Gutierrez, P., Wilson, M. R., Johnson, C., et al. (1997) Influence
+of glaucomatous visual field loss on health-related quality of life.
+Archives of Ophthalmology, 115, 777–784.
+14. Deramo, V. A., Cox, T. A., Syed, A. B., Lee, P. P., & Fekrat, S.
+(2003). Vision-related quality of life in people with central retinal
+vein occlusion using the 25-item National Eye Institute Visual
+Function Questionnaire. Archives of Ophthalmology, 121,
+1297–1302.
+15. Applegate, W. B., Miller, S. T., Elam, J. T., et al. (1987). Impact
+of cataract surgery with lens implantation on vision and physical
+function in elderly patients. Journal of the American Medical
+Association, 257, 1064–1066.
+16. Brenner, M. H., Curbow, B., Javitt, J. C., Legro, M. W., &
+Sommer, A. (1993). Vision change and quality of life in the
+elderly: Response to cataract surgery and treatment of other
+chronic ocular conditions. Archives of Ophthalmology, 111,
+680–685.
+17. Mangione, C. M., Phillips, R. S., Lawrence, M. G., et al. (1994).
+Improved visual function and attenuation of declines in health related quality of life after cataract extraction. Archives of
+Ophthalmology, 112, 1419–1425.
+18. Hyman, L. G., Komaroff, E., Heijl, A., Bengtsson, B., & Leske,
+M. C. (2005). Treatment and vision-related quality of life in
+the early manifest glaucoma trial. American Academy of Ophthalmology, 112, 1505–1513.
+19. Coleman, A. L., Yu, F., Keeler, E., & Mangione, C. M. (2006).
+Treatment of uncorrected refractive errors improves vision specific quality of life. Journal of the American Geriatrics Society,
+54, 883–890.
+20. Ghazi-Nouri, S. M. S., Tranos, P. G., Rubin, G. S., Adams, Z. C.,
+& Charteris, D. G. (2006). Visual function and quality of life
+
+
+[page 11]
+Qual Life Res (2008) 17:497–507
+following vitrectomy and epiretinal membrane peel surgery.
+British Journal of Ophthalmology, 90, 559–562.
+21. Long, R. C., & Crews, J. E. (1993). Final report: Development of
+a Functional Independence Measure for Blind Adult (FIMBA).
+Project C669-RC. Washington DC: Department of Veterans
+Affairs Rehabilitation Research and Development Service.
+22. Del’Aune, W., Welsh, R., & Williams, M. A. (2000). National
+outcomes assessment of the rehabilitation of adults with visual
+impairment. Journal of Visual Impairment and Blindness, 94,
+281–291.
+23. Head, D. N., Babcock, J. L., Goodrich, G. L., & Boyless, J .A.
+(2000). A geriatric assessment of functional status in vision
+rehabilitation. Journal of Visual Impairment and Blindness, 94,
+357–371.
+24. Elliott, J. L., & Kuyk, T. K. (1994). Self-reported functional and
+psychosocial outcomes of blind rehabilitation. Journal of Visual
+Impairment and Blindness, 88, 206–212.
+25. Appollonio, I., Carabellese, C., Frattola, L., & Trabucchi, M.
+(1996). Effects of sensory aids on the quality of life and mortality
+of elderly people: A multivariate analysis. Age and Ageing, 25,
+89–96.
+26. Stelmack, J., Stelmack, T. R., & Massof, R. W. (2002). Measuring low-vision rehabilitation outcomes with the NEI VFQ-25.
+Investigative Ophthalmology and Visual Science, 43, 2859–2868.
+27. Pankow, L., Luchin, D., Studebacke, J., & Chettleburgh, D.
+(2004). Evaluation of a vision rehabilitation program with older
+adults with visual impairment. Topics in Geriatric Rehabilitation,
+20, 223–232.
+28. Hinds, A., Sinclair, A., Park, J., Suttie, A., Paterson, H., &
+Macdonald, M. (2003). Impact of an interdisciplinary low vision
+service on the quality of life of low vision patients. British
+Journal of Ophthalmology, 87, 1391–1396.
+29. La Grow, S. J. (2004). The effectiveness of comprehensive low
+vision services for older persons with visual impairment in New
+Zealand. Journal of Visual Impairment and Blindness, 98, 679–692.
+30. Stelmack, J. A., Moran, D., Dean, D., & Massof, R. W. (2007).
+Short- and long-term effects of an intensive inpatient vision
+rehabilitation program. Archives of Physical Medicine and
+Rehabilitation, 88, 691–695.
+31. The National Eye Institute (2000) The National Eye Institute
+25-Item Visual Function Questionnaire (VFQ-25), version 2000.
+
+507
+Available at: http://www.rand.org/health/surveys_tools/vfq/vfq25_
+manual.pdf.
+32. Ware, J. E., Jr., Snow, K., Kosinski, M., & Gadnek, B. (1993).
+SF-36 Health Survey Manual and Interpretation Guide. Boston,
+MA: Nimrod Press.
+33. Coopersmith, S. (1967). The antecedents of self-esteem. San
+Francisco: Freeman.
+34. Jackson, W. T., Taylor, R. E., Palmatier, A. D., Elliott, T. R., &
+Elliott, J. L. (1998). Negotiating the reality of visual impairment:
+Hope, coping, and functional ability. Journal of Clinical
+Psychology in Medical Settings, 2, 173–185.
+35. Kuyk, T. K., Elliott, J. L., & Fuhr, P. S. (1998). Visual correlates
+of obstacle avoidance in adults with low vision. Optometry and
+Vision Science, 75, 174–182.
+36. Pfeiffer, E. (1975). A short portable mental status questionnaire
+for the assessment of organic brain deficit in elderly patients.
+Journal of the American Geriatrics Society, 23, 433–441.
+37. Radloff, L .S., & Teri, L. (1986). Use of the Center for
+Epidemiologial Studies-Depression Scale with older adults. In
+T. L. Brink (Ed.), Clinical gerontology: A guide to assessment
+and intervention (pp. 119–135). New York: Haworth Press.
+38. Radloff, L. S. (1977). The CES-D scale: A self-report depression
+scale for research in the general population. Applied Psychological Measurement, 1, 385–401.
+39. Owsley, C. (1996). Quality of life, vision impairment: Driving.
+In D. R. Anderson & S. M. Drance (Eds.), Encounters in glaucoma research 3: How to ascertain progression and outcome
+(pp. 37–44). New York: Kluger Publications.
+40. Mangione, C. M., Lee, P. P., Pitts, J., Guitierrez, P., Berry, S., &
+Hays, R. D. (1998). Psychometric properties of the National Eye
+Institute Visual Function Questionnaire. Archives of Ophthalmology, 116, 1496–1504.
+41. Kymes, S. M., & Lee, B. S. (2007). Preference-based quality of
+life measures in people with visual impairment. Optometry and
+Vision Science, 84, 809–816.
+42. Coleman, A. L., Ye, F., Keeler, E., & Mangione, C. M. (2006).
+Treatment of uncorrected refractive error improves vision specific
+quality of life. Journal of the American Geriatrics Society, 54,
+883–890.
+
+123
+

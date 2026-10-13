@@ -1,0 +1,707 @@
+[page 1]
+Seminars in Ophthalmology
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/isio20
+
+Biofeedback Low Vision Rehabilitation with
+Retimax Vision Trainer in Patients with Advanced
+Age-related Macular Degeneration: A Pilot Study
+Tommaso Verdina , Stefania Piaggi , Riccardo Peschiera , Valeria Russolillo ,
+Vanessa Ferraro , Johanna Chester , Rodolfo Mastropasqua & Gian Maria
+Cavallini
+To cite this article: Tommaso Verdina , Stefania Piaggi , Riccardo Peschiera , Valeria
+Russolillo , Vanessa Ferraro , Johanna Chester , Rodolfo Mastropasqua & Gian Maria Cavallini
+(2020): Biofeedback Low Vision Rehabilitation with Retimax Vision Trainer in Patients with
+Advanced Age-related Macular Degeneration: A Pilot Study, Seminars in Ophthalmology, DOI:
+10.1080/08820538.2020.1774624
+To link to this article: https://doi.org/10.1080/08820538.2020.1774624
+
+Published online: 01 Jun 2020.
+
+Submit your article to this journal
+
+Article views: 10
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=isio20
+
+
+[page 2]
+SEMINARS IN OPHTHALMOLOGY
+https://doi.org/10.1080/08820538.2020.1774624
+
+ORIGINAL ARTICLE
+
+Biofeedback Low Vision Rehabilitation with Retimax Vision Trainer in Patients with
+Advanced Age-related Macular Degeneration: A Pilot Study
+Tommaso Verdina a, Stefania Piaggia, Riccardo Peschieraa, Valeria Russolilloa, Vanessa Ferraroa, Johanna Chesterb,
+Rodolfo Mastropasquaa, and Gian Maria Cavallinia
+a
+
+Institute of Ophthalmology, University of Modena and Reggio Emilia, Modena, Italy; bDepartment of Dermatology, University of Modena and Reggio
+Emilia, Modena, Italy
+ABSTRACT
+
+ARTICLE HISTORY
+
+Purpose: To evaluate the effectiveness of Visual Evoked Potential (VEP) biofeedback rehabilitation in
+selected low vision patients with advanced age-related macular degeneration (AMD).
+Design: Retrospective observational cohort study.
+Methods: Patients affected by advanced AMD, central macular atrophy with unstable fixation and best
+corrected visual acuity (BCVA) between 20/100 and 20/320 were considered. Selected patients underwent
+fundus photography and microperimetry with fixation analysis for the selected eye (highest BCVA). Ten
+consecutive training sessions of 10 min each were performed twice a week in the selected eye with
+Retimax Vision Trainer (CSO, Florence). BCVA, reading acuity and reading speed, contrast sensitivity,
+fixation, retinal sensitivity and quality of life questionnaire (VFQ-25) were evaluated at baseline and
+7 days following the final session.
+Results: Significant improvements in terms of BCVA [p = .011], reading speed [p = .007], VFQ-25 score
+[p = .007], retinal sensitivity [p = .021] and fixation stability in the central 2° and 4° [p = .048; p = .037] posttreatment were observed for the 9 patients enrolled, with insignificant improvements observed in reading
+acuity and contrast sensitivity [p = .335; p = .291].
+Conclusions: Preliminary results support VEP biofeedback rehabilitation improvements for visual function
+and quality of life in advanced AMD patients with low vision.
+
+Received 31 March 2020
+Revised 26 April 2020
+Accepted 21 May 2020
+
+INTRODUCTION
+Age-related macular degeneration (AMD) is the leading cause of
+severe visual loss and legal blindness in the western population
+over the age of 65.1 It is a chronic, degenerative and progressive
+disease, generally bilateral, which often leads to an irreversible
+deterioration of the central vision due to the development of
+geographic atrophy and fibrotic macular scars.2,3
+Despite the improvements registered in recent years, mostly
+due to the introduction of new treatments for the neovascular
+form, the advanced stage of AMD is still a disabling disease
+resulting in low central vision and poor prognosis4 and there
+are no effective therapies currently available. Patients with
+central vision loss try to fixate objects using a healthy eccentric
+area of the retina, known as Preferred Retinal Locus (PRL), that
+is generally located at the border of the atrophy.5–8 These
+patients can benefit from rehabilitation programs with “biofeedback” mechanisms that instruct the patient to move fixation from the central degenerated macular area to the PRL.9–15
+This can be achieved through a biofeedback rehabilitation
+program obtained with the microperimetry or with visual
+evoked potentials (VEP) real-time analysis.
+The Retimax (CSO, Firenze, Italy) is a medical device for the
+detection, amplification and visualization of ocular electrical
+conduction. It is a versatile tool that is mainly used for diagnostic
+
+KEYWORDS
+
+Age-related macular
+degeneration (AMD); low
+vision; biofeedback
+rehabilitation; plasticity of
+fixation; microperimetry
+
+purposes for ocular electrophysiological investigations; it can
+also be used for therapeutic purposes thanks to a configuration
+designed for visual rehabilitation programs (“Vision Trainer”
+module). It combines VEP measurement to an auditory biofeedback system useful in low-vision rehabilitation: the vision trainer
+integrates ocular electrophysiology and biofeedback techniques
+generating a return signal based on VEP. The VEP recorded at
+the level of the visual cortex is detected and analyzed real-time
+by the machine, then it is sent back to the patient as feedback in
+the form of an acoustic signal. The intensity of this acoustic
+signal is related to the amplitude and latency of the VEP which
+are an expression of the quality of vision. During the training the
+patient is guided in real-time to improve his visual performances: the more the patient maintains a stable fixation with
+the healthy paracentral PRL, the greater and more stable the
+intensity of the sound will be. During the different rehabilitative
+sessions, the patient learns to voluntarily control and coordinate
+the ocular movements,16 to progressively increase visual performance by the stimulation of the visual pathway and the exploitation of the plasticity mechanism of the visual system.17–19 The
+Vision Trainer program has been used for the visual rehabilitation of patients affected by amblyopia and acquired brain injury
+with excellent results in terms of improved visual function.20,21
+To our knowledge, there are no current studies available
+
+CONTACT Tommaso Verdina,
+tommaso.verdina@gmail.com
+Struttura Complessa Di Oftalmologia, Azienda Ospedaliero-Universitaria Di Modena Policlinico, Via
+Del Pozzo 71, Modena 41100, Italy
+This work was presented in part at the Floretina 2019 Congress, 6–10 June 2019 in Florence (Italy).
+© Taylor & Francis
+
+
+[page 3]
+2
+
+T. VERDINA ET AL.
+
+investigating the utility of VEP biofeedback rehabilitation for
+AMD patients.
+The aim of this study is to assess the efficacy of VEP biofeedback rehabilitation with Retimax Vision Trainer in patients
+with low vision (best corrected visual acuity between 20/100
+and 20/320 and unstable fixation) due to advanced stage AMD.
+
+METHODS
+Retrospective review of ophthalmological charts of the initial 9
+consecutive patients treated with Retimax vision trainer rehabilitation at the Institute of Ophthalmology, University of
+Modena (Italy) was performed. Patient visits and rehabilitation
+were registered between May and November 2018. The study
+was approved by the local Ethical Committees (prot. NO. 3513/
+19) and adheres to the tenets of the Declaration of Helsinki
+with written informed consent obtained from each patient.
+The inclusion criteria were advanced atrophic AMD with best
+corrected visual acuity (BCVA) between 20/100 (0.7 logMar)
+and 20/320 (1.3 logMar) in the better eye, unstable fixation,
+<90 years old, and good patient compliance. Exclusion criteria
+included active neovascular AMD, glaucoma, optic nerve disease/abnormalities, diabetic retinopathy, previous ocular surgery
+other than cataract intervention and patients unable to collaborate during the Retimax or the microperimetric evaluation.
+All patients underwent a complete ophthalmic examination
+at baseline with the following examinations: BCVA, contrast
+sensitivity, reading abilities, vision-related quality of life test
+(VFQ-25), microperimetry with fixation analysis.
+BCVA was evaluated with the Early Treatment Diabetic
+Retinopathy Study (ETDRS) charts (Lighhouse Int., New York,
+NY) at 4 meters and the assessment was in letters.
+Contrast sensitivity was evaluated with Pelli-Robson charts
+at 2 meters and the assessment was in letters and converted to
+logMar.
+Reading abilities were evaluated with MNRead charts
+(Precision Vision La Salle Illinois, Usa,) distributed in Italian
+version by Carl Zeiss Jena GmbH, Germania. The charts were
+used at 40 cm distance. For all patients with added a + 3.00
+spheric lens. Maximum reading speed was measured in words
+per minute (wpm), reading acuity was assessed in logMAR units.
+Microperimetry was performed using the spectral domain
+OCT (OCT-SLO, Optos, Scotland, UK) following pupil dilation with 0.5% tropicamide and 2.5% phenylephrine and
+a period of adaptation of 20 minutes to dim room illumination.
+A pattern with 28 locations in the macular area was used to
+assess sensitivity; “white” test lights (stimulus size Goldmann
+III, 200 ms in duration) were presented on a dim “white”
+background (1.27 cd/m2) using a 4–2 procedure. The patient
+was asked to maintain fixation on a 2° green point (fixation
+target) during the test and the non-tested eye was occluded.
+Retinal sensitivity was obtained and recorded with the average
+sum of all test locations obtained during the test. Retinal
+sensitivity was retested during the follow up at the same points
+using the “retest mode” in the machine which recalls the landmarks used in the previous exams allowing a perfect overlapping of the new exam image with the previous one.
+To assess the impact of low vision on daily life, the patients
+were subjected to questionnaire National Eye Institute Visual
+
+Functioning Questionnaire-25 (VFQ-25) translated into
+Italian.22 All these exams were prior to and following rehabilitation. Final assessment was performed 7 days after the final
+session in all cases.
+Rehabilitation was performed on the eye with the highest
+BCVA. Each patient underwent 10 sessions of 10 min each of
+visual training with Retimax Vision Trainer (CSO, Firenze,
+Italy), two sessions per week.
+Rehabilitative Procedure
+The patient is placed in a seated position at about 60–80 cm
+from the pattern stimulator monitor. After carefully cleaning
+of the skin with “nuprep” skin gel, electrodes are applied using
+“Ten20” conductive paste configured as in the VEP test recording. The negative electrode (black) is applied according 10–20
+system of electrodes placement on the FPz position, the positive electrode (red) on the Oz position and the Earth electrode
+(green) in the Cz position.
+The patient is fitted with a corrective lens over the selected
+eye (highest BCVA) for rehabilitation. The session is performed under scotopic conditions keeping the other eye closed.
+Prior to initiating training, each subject is left to adapt to the
+ambient room light for 10 min, until a natural pupil diameter
+of approximately 5 millimeters is obtained.
+During the examination a structured stimulus appears on
+the screen in the form of a alternating chess board at the
+reversal rate of 15 reversal per second with a fixation target
+(red point) in the center of the screen. In our study, we used the
+standard chessboard used in pattern 60‘ VEP at the reversal
+rate of 15 reversal per second.
+Whilst the patient fixates the target stimulus from the
+optical pathways through to the cortical visual areas is
+created and read by surface electrodes, which then produce
+a bioelectric VEP. During the session, the patient is
+instructed to maintain the target using the retinal area
+that produces the real-time sound (highest amplitude VEP
+with lower latency; a continuous, uninterrupted sound) and
+therefore a better visual perception (Figure 1). The sound is
+more intense and continuous when the patient fixates with
+a healthy area of the retina and is intermittent when the
+fixation is interrupted. The aim of the training is to ensure
+that the patient uses a retinal area in which the biological
+activity is at its best.
+During the session, the operators (SP, VR) monitored the
+progress of the fixation and the intensity of the sound, encouraging patients’ consistent attention to the sound produced.
+The study data were collected and divided into pre- and
+post-rehabilitation values for each patient and compared. For
+statistical analysis we used the software R (A language and
+environment for statistical computing, version 3.3.3,
+R Foundation for Statistical Computing, Vienna, Austria).
+Given the non-normal distribution verified with the Shapiro Wilk test and the low sample, the pre and post rehabilitation
+values were compared with the one-sided Wilcoxon Signed
+Rank Test. Since the number of comparisons was small, the
+p-values have not been corrected by the number of comparisons made in the Wilcoxon test run. The significance is established for values of p < .05
+
+
+[page 4]
+SEMINARS IN OPHTHALMOLOGY
+
+3
+
+Figure 1. A training session with the Retimax Vision Trainer.
+
+RESULTS
+Nine eyes with the highest BCVA of nine patients (7 males and
+2 females, 7 right eyes and 2 left eyes) were included in the
+study. The average age was 79.3 years old (range 68–89). All
+demographic characteristics and results are shown in Table 1.
+Results refer to final follow-up 7 days following the 10th and
+final training session.
+BCVA, reading speed, quality of life, macular sensitivity and
+2° and 4° fixation improved significantly, whereas the improvements observed with contrast sensibility and reading acuity
+were not significant, see Figures 2 and 3 and Table 2.
+
+DISCUSSION
+VEP biofeedback rehabilitation is a relatively new training
+system that has proven to be useful for visual function
+improvement in different ophthalmological diseases.20,21 The
+current study reports improved BCVA, reading speed, quality
+of life, macular sensitivity and 2° and 4° fixation, contrast
+sensibility and reading acuity in the eye with the highest baseline BCVA in a pilot study of 9 patients. To our knowledge, this
+is the first report of VEP biofeedback rehabilitation for patients
+with low vision for advanced AMD.
+Biofeedback rehabilitation aims to induce learning for voluntary control over visual fixation and, unlike other instruments in
+
+which the biofeedback sound is generated by the proximity of
+patients’ fixation to a healthy area of the retina established by the
+operator, a feedback based on the amplitude of a recorded VEP is
+established through electrodes placed on the patients’ cortex. The
+process is therefore operator-independent. The feedback from the
+Vision Trainer guides the patient in an independent search for
+fixation on the retinal point that generates a wider VEP response
+by inducing a progressive voluntary control of eye movements,
+especially saccadics movements.19 Fixation in the retinal area that
+generates the maximum VEP results in an improvement in overall
+visual performance. Moreover, the neuroplasticity mechanism of
+the nervous system allows the nerve stimulus to bypass any
+alterations present on the visual pathways, reaching the occipital
+cortex through a remodeling of the neural network with the
+creation of new synapses.17 A limitation of this device is that it
+is not “fundus-controlled”, thus it is not possible to train the
+retinal area with best functional characteristic but the training is
+performed on the patient’s spontaneous PRL.
+VEP biofeedback rehabilitation has been reported for the
+rehabilitation of patients affected by amblyopia20 and
+acquired cerebral damage21; both studies documented significant improvements in visual acuity of post-rehabilitation
+patients without any substantial significant changes pre-/
+post-VEP electrofunctional values. Veneruso et al.20 also
+reported an improvement of the fixation in the central 2 and
+4 degrees.
+
+Table 1. Demographic data and results; Pre, baseline values; Post, values at 7 days following the final training session; BCVA expressed in ETDRS chart letters seen at 4
+meters.
+Visual Acuity (ETDRS
+letters)
+Patient Age Sex Eye
+1
+75 F
+R
+2
+72 M R
+3
+68 M R
+4
+87 M
+L
+5
+89 F
+L
+6
+84 M R
+7
+85 M R
+8
+80 M R
+9
+74 M R
+
+Pre
+30
+8
+20
+8
+15
+5
+4
+35
+32
+
+Post
+34
+10
+22
+23
+23
+9
+24
+38
+38
+
+Contrast sensibility
+(logSC)
+Pre
+1.25
+1.4
+0.95
+1.4
+0.8
+1.25
+0.8
+1.25
+1.4
+
+Post
+1.4
+1.4
+1.4
+1.4
+0.95
+1.4
+1.25
+0.95
+1.4
+
+Reading speed (W/
+m)
+Pre
+38.5
+16.9
+38.6
+51.4
+21.9
+12.3
+15.9
+26.1
+31.8
+
+Post
+57.5
+18
+54
+77.1
+21.6
+14.6
+32.7
+31.8
+41.5
+
+Reading Acuity
+(logMar)
+
+Macular sensitivity
+(dB)
+
+Fixation within 2°
+(%)
+
+Pre
+0.1
+0.5
+0.3
+0.1
+0.2
+0.4
+0.5
+0.2
+0.3
+
+Pre
+10.3
+1.2
+2.4
+3.4
+1.6
+4.2
+0.2
+8.4
+10.3
+
+Pre
+71
+64
+47
+32
+70
+53
+66
+74
+43
+
+Post
+0.1
+0.4
+0.2
+0.1
+0.4
+0.3
+0.4
+0.2
+0.3
+
+Post
+10.8
+3.9
+2.9
+4.4
+1.9
+4.8
+2.2
+9.9
+13.2
+
+Post
+83
+97
+80
+55
+62
+71
+74
+68
+65
+
+
+[page 5]
+4
+
+T. VERDINA ET AL.
+
+Figure 2. Box plot with whiskers indicating 95% confidence intervals for baseline and post-rehabilitation vision function assessments. *Assessments statistically
+significant (p < .05).
+
+Table 2. Summary of the pre-post results with mean improvement (expressed in
+%) and p-value (significance p < .05).
+BCVA (ETDRS letters)
+Contrast Sensibility (logSC)
+Reading acuity (logMAR)
+Reading Speed (WpM)
+Quality of life (VFQ-25)
+Macular Sensitivity (dB)
+Fixation 2° (%)
+Fixation 4° (%)
+
+Pre
+17.67
+1.17
+0.29
+28.09
+49.59
+4.34
+52.22
+87.33
+
+Post Mean improvement (%)
+24.11
++36.5%
+1.22
++4.3%
+0.27
++7.4%
+38.76
++38%
+53.87
++8.6%
+5.21
++20%
+64.67
++23.8%
+95.78
++9.7%
+
+P-Value
+p = .011
+p = .335
+p = .291
+p = .007
+p = .007
+p = .021
+p = .048
+p = .037
+
+AMD has previously been treated with microperimeter
+biofeedback rehabilitation systems and a meta-analysis for
+AMD patients, published in 201623 including 9 studies (885
+eyes), evaluated reading speed (n = 5) and mood and
+patients’ depression scores (n = 3). A significant improvement in reading speed (regardless of rehabilitation type)
+
+was reported, whilst mood and depression scores remained
+unchanged.
+Two recent articles24,25 compared the effectiveness of low
+vision rehabilitation in patients affected by AMD with the Nidek
+MP-1 microperimeter using two different technique: one method
+used the standard sound biofeedback and the other used
+a biofeedback associated with a projection of a visual luminous
+pattern in place of the fixation target. Vingolo et al.24 showed that
+the luminous flickering biofeedback stimulus presented
+a statistically significant improvement in training the patients to
+modify their PRL in comparison to standard acoustic biofeedback.
+The Amore et al. study,25 noted improved parameters for all visual
+function assessments performed, with the exception of contrast
+sensitivity, with more benefits obtained with the flickering pattern
+biofeedback training.
+Another recent study14 also confirmed the utility of the
+MAIA microperimeter biofeedback rehabilitation to train
+
+Figure 3. Microperimetry images with fixation points at baseline (a) and after the training sessions (b) in patients n. 3.
+
+
+[page 6]
+SEMINARS IN OPHTHALMOLOGY
+
+a healthy retinal area in seventy-seven consecutive AMD
+patients with bilateral central vision loss. Daibert Nido et al.15
+in a retrospective review of 30 cases, also confirmed the utility
+of the same tool in AMD patients, reporting improvements for
+visual acuity but a negative trend for fixation stability.
+The results obtained in the current study are in line with
+existing literature dedicated to AMD rehabilitation showing
+an improved visual function in the trained eye and improved
+quality of life. However, differently to the microperimetric
+PRL rehabilitation which is based on the training of a PRL
+established by the physician, Retimax visual rehabilitation
+presents the advantage to train the patient’s spontaneous
+PRL thus being operator-indipendent. By listening to the
+effective visual performances registered real-time at the
+level of the occipital cortex, the patient can learn to use
+the portion of the retina that generates the maximum VEP
+response inducing a progressive voluntary control over eye
+movements and increasing visual performances through the
+stimulation of the visual pathway.
+Interestingly, the majority of patients assigned a subjective
+improvement in everyday skills following training and
+requested the continuation of rehabilitative sessions at our
+center.
+This study is not without some limitations. Firstly, the
+retrospective nature of the data collection, the small sample
+size and the lack of a control group of untreated patients limit
+the reliability of the results obtained. Secondary, since the main
+outcome measure of this study was taken one week after the
+last rehabilitative session, we could not state how long the
+benefit related to the treatment may be maintained overtime.
+However, this pilot study, along with patient request for continued training, deserves further prospective series with longer
+follow up to confirm these preliminary results. Further, technical data obtained with the microperimeter (retinal sensitivity
+and fixation) could have been slightly inaccurate due to the
+unstable fixation of patients that could have affected the projection of retinal stimuli despite the eye-tracking system present in the machine.
+In conclusion, the current pilot study suggests that the noninvasive VEP biofeedback rehabilitation can be successfully
+used to improve visual function and quality of life in AMD
+patients. Further investigations are needed to confirm these
+preliminary results.
+
+Acknowledgments
+The authors would like to thank Mattia Forcato for the statistical
+analysis.
+
+Funding
+No financial support was received for this submission.
+
+ORCID
+Tommaso Verdina
+
+http://orcid.org/0000-0001-7877-4485
+
+5
+
+Declaration of Interest
+None of the authors have conflict of interest with the submission.
+
+REFERENCES
+1. Klein R, Klein BEK, Linton KLP, et al. Prevalence of age-related
+maculopathy. The Beaver Dam Eye study. Ophthalmology. June
+1992;99(6):933–943. doi:10.1016/S0161-6420(92)31871-8.
+2. The age-related eye disease study system for classifying age-related
+macular degeneration from stereoscopic color fundus photographs:
+the age-related eye disease study report n°6. Am J Ophthalmol.
+Age-Related Eye Disease Study Research Group. November
+2001;132(5):668–681. doi:10.1016/S0002-9394(01)01218-1.
+3. Zarbin MA. Current concepts in the pathogenesis of age-related
+macular degeneration. Arch Ophthalmol. April 2004;122
+(4):598–614. doi:10.1001/archopht.122.4.598.
+4. Jaffe GJ, Ying GS, Toth CA, et al. Macular morphology and visual
+acuity in year five of the comparison of age-related macular degeneration treatments trials. Ophthalmology. February 2019;126
+(2):252–260. doi:10.1016/j.ophtha.2018.08.035.
+5. Sunness JS, Applegate CA, Haselwood D, Rubin GS. Fixation patterns and reading rates in eyes with central scotoma from advanced
+atrophic age-related macular degeneration and Stargardt disease.
+Ophthalmology. 1996;103:1458–1466. doi:10.1016/S0161-6420(96)
+30483-1.
+6. Verdina T, Greenstein VC, Sodi A, et al. Multimodal analysis of the
+preferred retinal location and the transition zone in patients with
+Stargardt disease. Graefes Arch Exp Ophthalmol. July 2017;255
+(7):1307–1317. doi:10.1007/s00417-017-3637-6.
+7. Greenstein VC, Santos RAV, Tsang SH, et al. Preferred retinal
+locus in macular disease: characteristics and clinical implications.
+Retina. 2008;28:1234–1240. doi:10.1097/IAE.0b013e31817c1b47.
+8. Schuchard RA. Preferred retinal loci and macular scotoma characteristics in patients with age-related macular degeneration. Can
+J Ophthalmol. 2005;40:303–312. doi:10.1016/S0008-4182(05)80073-0.
+9. Tarita-Nistor L, González EG, Markowitz SN, Steinbach MJ.
+Plasticity of fixation in patients with central vision loss. Vis
+Neurosci. 2009;26:487–494. doi:10.1017/S0952523809990265.
+10. Verdina T, Giacomelli G, Sodi A, et al. Biofeedback rehabilitation
+of eccentric fixation in patients with Stargardt disease. Eur
+J Ophthalmol. April 2013;23(5):723-31.
+11. Vingolo EM, Cavarretta S, Domanico D, et al. Microperimetric
+biofeedback in AMD patients. Appl Psychophysiol Biofeedback.
+2007;32:185–189. doi:10.1007/s10484-007-9038-6.
+12. Vingolo EM, Salvatore S, Cavarretta S. Low-vision rehabilitation by
+means of MP-1 biofeedback examination in patients with different
+macular diseases. Appl Psychophysiol Biofeedback. 2009;34:127–133.
+doi:10.1007/s10484-009-9083-4.
+13. Nilsson UL, Frennesson C, Nilsson SE. Patients with AMD and a large
+absolute central scotoma can be trained successfully to use eccentric
+viewing, as demonstrated in a scanning laser ophthalmoscope. Vision
+Res. 2003;43:1777–1787. doi:10.1016/S0042-6989(03)00219-0.
+14. Morales MU, Saker A, Wilde C, et al. Biofeedback fixation training
+method for improving eccentric vision in patients with loss of foveal
+function secondary to different maculopathies. Int Ophthalmol.
+October 3, 2019. [Epub ahead of print]. doi:10.1007/s10792-01901180-y.
+15. Daibert-Nido M, Patino B, Markowitz M, Markowitz SN.
+Rehabilitation with biofeedback training in age-related macular
+degeneration for improving distance vision. Can J Ophthalmol.
+June 2019;54(3):328–334. doi:10.1016/j.jcjo.2018.10.016.
+16. Mezawa M, Ishikawa S, Ukai K. Changes in waveform of congenital
+nystagmus associated with biofeedback treatment. Br J Ophthalmol.
+August 1990;74(8):472–476. doi:10.1136/bjo.74.8.472.
+17. Andrade MA, Muro EM, Moran F. Simulation of plasticity in the
+adult visual cortex. Biol Cybern. June 2001;84(6):445–451. doi:10.1007/
+PL00007988.
+
+
+[page 7]
+6
+
+T. VERDINA ET AL.
+
+18. Safran AB, Landis T. Plasticity in the adult visual cortex: implications for the diagnosis of visual field defects and visual
+rehabilitation. Curr Opin Ophthalmol. December 1996;7
+(6):53–64. doi:10.1097/00055735-199612000-00009.
+19. Safran AB, Landis T. The vanishing of the sun: a manifestation of
+cortical plasticity. Surv Ophthalmol. March–April 1998;42
+(5):449–452. doi:10.1016/S0039-6257(97)00134-3.
+20. Esposito Veneruso P, Ziccardi L, Magli G, et al. Short-term
+effects of vision trainer rehabilitation in patients affected by
+anisometropic amblyopia: electrofunctional evaluation. Doc
+Ophthalmol. December 2014;129(3):177–189. doi:10.1007/
+s10633-014-9462-x.
+21. Chiari M, Savi C, Battagliola E, et al. Visual rehabilitation with
+Retimax Vision Trainer in patients with severe acquired brain
+injury: report of two cases. Neuropsychol Trends;2014.
+doi:10.7358/neur-2014-015-chia.
+
+22. Rossi GC, Milano G, Tinelli C. The Italian version of the 2sstem
+national eye institute visual function questionnaire: translation,
+validity, and reliability. J Glaucoma. June 2003;12(3):213–220.
+doi:10.1097/00061198-200306000-00006.
+23. Hamade N, Hodge WG, Rakibuz-Zaman M, Malvankar-Mehta MS.
+The effects of low-vision rehabilitation on reading speed and depression
+in age related macular degeneration: a meta-analysis. PLoS One. July 14,
+2016;11(7):e0159254. doi:10.1371/journal.pone.0159254.
+24. Vingolo EM, Salvatore S, Limoli PG. MP-1 biofeedback: luminous
+pattern stimulus versus acoustic biofeedback in age related macular
+degeneration (AMD). Appl Psychophysiol Biofeedback. March
+2013;38(1):11–16. doi:10.1007/s10484-012-9203-4.
+25. Amore FM, Paliotta S, Silvestri V, et al. Biofeedback stimulation in
+patients with age-related macular degeneration: comparison
+between 2 different methods. Can J Ophthalmol. October 2013;48
+(5):431–437. doi:10.1016/j.jcjo.2013.07.013.
+

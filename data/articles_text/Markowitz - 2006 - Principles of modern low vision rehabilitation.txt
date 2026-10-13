@@ -1,0 +1,2305 @@
+[page 1]
+Principles of modern low vision rehabilitation
+Samuel N. Markowitz, MD, FRCSC
+ABSTRACT • RÉSUMÉ
+
+Low vision rehabilitation is a new emerging subspecialty drawing from the traditional fields of ophthalmology,
+optometry, occupational therapy, and sociology, with an ever-increasing impact on our customary concepts of
+research, education, and services for the visually impaired patient. A multidisciplinary approach and
+coordinated effort are necessary to take advantage of new scientific advances and achieve optimal results for
+the patient. Accordingly, the intent of this paper is to outline the principles and details of a modern low vision
+rehabilitation service.
+All rehabilitation attempts must start with a firsthand interview (the intake) for assessing functionality and
+priority tasks for rehabilitation, as well as assessing the patient’s all-important cognitive skills. The assessment
+of residual visual functions follows the intake and offers a unique opportunity to measure, evaluate, and
+document accurately the extent of functional loss sustained by the patient from disease. An accurate
+assessment of residual visual functions includes assessment of visual acuity, contrast sensitivity, binocularity,
+refractive errors, perimetry, oculomotor functions, cortical visual integration, and light characteristics affecting
+visual functions. Functional vision assessment in low vision rehabilitation measures how well one uses residual
+visual functions to perform routine tasks, using different items under various conditions, throughout the day.
+Of the many functional vision skills known, reading skills is an obligatory item for all low vision rehabilitation
+assessments.
+Results of assessment guide rehabilitation professionals in developing rehabilitation plans for the individual and
+recommending appropriate low vision devices. The outcome from assessing residual visual functions is
+detection of visual functions that can be improved with the use of optical devices. Methods for prescribing
+devices such as image relocation with prisms to a preferred retinal locus, field displacement to primary gaze
+position, field expansion, and manipulation of light are practiced today in addition to, or instead of,
+magnification. Correction of refractive errors, occlusion therapy, enhancement of oculomotor skills, and field
+restitution are additional methods now available for prescribing devices leading to rehabilitation of visual
+functions. The outcome from assessing residual functional vision is detection of functional vision that can be
+improved with the use of vision therapy training. After restoration of optimal residual visual functions is
+achieved with optical devices, one can follow with training programs for restoration of lost vision-related skills.
+If an optical dispensary is available where prescribing of low vision devices routinely take place, this will help
+ensure familiarity and specialization of the dispensary and staff with low vision devices and their special
+dispensing requirements. The dispensing of low vision devices is an opportunity to introduce the device to the
+patient, train the patient in the correct use of the device for the task selected, and create a direct and
+continuous connection with the patient until the next encounter. Following assessment, prescribing, and
+dispensing of devices, a low vision practitioner, ophthalmologist or optometrist, is responsible for
+recommending and prescribing vision therapy training to improve residual functional vision.
+An attempt to present a template for a comprehensive modern low vision rehabilitation practice is made here
+by summarizing scientific developments in the field and stressing the multidisciplinary involvement required for
+this kind of practice. It is hoped that this paper and other initiatives from colleagues, the public, and
+government will promote and raise awareness of modern low vision rehabilitation for the benefit of all.
+La réadaptation visuelle est une nouvelle surspécialisation qui émerge des champs de l’ophtalmologie, de
+l’optométrie, de l’ergothérapie et de la sociologie, et a un impact de plus en plus grand sur notre perception
+de la recherche, de l’éducation et des services auprès des patients qui ont une déficience visuelle. S’impose
+alors le be so in d’élaborer une approche multidisciplinaire et de coordonner nos efforts pour profiter des
+progrès scientifiques et en optimiser les résultats pour le patient. Le présent article a donc pour objet de
+dresser un tableau des principes et des composantes d’un service moderne en réadaptation visuelle.
+
+From the Low Vision Service, University Health Network, Department of
+Ophthalmology and Vision Sciences, University of Toronto, Toronto,
+Ont.
+Originally received Nov. 7, 2005
+Accepted for publication Mar. 18, 2006
+
+Principles of modern low vision rehabilitation—Markowitz
+
+Correspondence to: S.N. Markowitz, MD, 1225 Davenport Rd., Toronto
+ON M6H 2H1; fax (416) 531-6728; snm1@rogers.com
+This article has been peer-reviewed.
+Can J Ophthalmol 2006;41:289–312
+
+289
+
+
+[page 2]
+Principles of modern low vision rehabilitation—Markowitz
+
+Tout procédé de réadaptation doit commencer par une entrevue préalable afin d’établir le degré de
+fonctionnalité, les premiers gestes à poser et, avant tout, les capacités cognitives du patient. Vient ensuite
+l’évaluation des fonctions visuelles résiduelles qui présente une occasion unique de mesurer, évaluer et
+documenter avec exactitude l’étendue de la perte de fonctionnalité du patient due à la maladie. Une évaluation
+précise portera sur l’acuité visuelle, la sensibilité au contraste, la binocularité, les erreurs réfractives, la
+périmétrie, les fonctions oculomotrices, l’intégration dans le cortex visuel et la luminance affectant les
+fonctions visuelles. L’évaluation de la vision fonctionnelle consistera à mesurer le degré d’utilisation des
+fonctions résiduelles pour l’exécution des tâches routinières dans diverses conditions au cours de la journée.
+Parmi les nombreuses capacités visuelles connues, la capacité de lire est un des points essentiels à évaluer en
+réadaptation visuelle.
+Le résultat de l’évaluation guide les professionnels qui doivent mettre au point un plan de réadaptation
+individualisé et recommander les appareils pertinents. On pourra améliorer à l’aide d’appareils optiques les
+fonctions résiduelles constatées à l’évaluation. De nouveaux moyens permettent aujourd’hui de prescrire des
+procédés comme la relocalisation de l’image avec des prismes dans un locus rétinien préféré, le déplacement
+du champ vers la position primaire du regard, l’expansion du champ visuel et la manipulation de la lumière, en
+ajout ou en remplacement du grossissement. La correction des erreurs réfractives, l’occlusion thérapeutique,
+l’amélioration des capacités oculomotrices et la récupération du champ sont autant de nouveaux procédés à
+prescrire pour restaurer la fonction visuelle. L’évaluation de la vision fonctionnelle résiduelle aura pour
+résultat d’établir le degré de restauration que les exercices thérapeutiques permettront d’apporter. Une fois
+les fonctions visuelles optimales rétablies grâce aux appareils optiques, une personne pourra suivre des
+programmes d’exercice pour développer les capacités pertinentes en réadaptation visuelle.
+L’accès à un dispensaire optique où l’on prescrit régulièrement des appareils pour malvoyance aidera à
+familiariser et à spécialiser le dispensaire et le personnel en ce qui a trait aux appareils pour malvoyance et à
+leurs besoins particuliers. On fera découvrir l’appareil au patient et entraînera celui-ci à l’utiliser correctement
+en fonction de la tâche retenue et l’on créera avec lui un rapport direct et continu jusqu’à la prochaine
+rencontre. Après l’évaluation, la prescription et la distribution des appareils, il incombe au praticien en
+déficience visuelle, ophtalmologiste ou optométriste, de recommander et de prescrire l’exercice thérapeutique
+pour améliorer la vision fonctionnelle résiduelle.
+L’on tente ici de présenter un modèle moderne et global de pratique en réadaptation visuelle, en dressant un
+sommaire des développements scientifiques dans le domaine et en mettant l’accent sur la participation
+multidisciplinaire requise pour ce genre de pratique. Le présent article et d’autres initiatives venant de
+collègues, du public et des gouvernements devraient encourager et susciter la sensibilisation à la réadaptation
+visuelle moderne dans l’intérêt de tous.
+
+INTRODUCTION
+
+L
+
+ow vision rehabilitation (LVR) is a new subspecialty
+emerging from the traditional fields of ophthalmology, optometry, occupational therapy, and sociology,
+with an ever-increasing impact on our usual concepts of
+research, education, and services for visually impaired
+patients. The body of knowledge on LVR available
+today was created or published primarily within the past
+three decades.1 Federal policies in the United States
+defining and regulating LVR services were enacted as
+recently as the past 15 years.2 Although care for the
+patient with low vision (LV) has deep historic roots in
+Canada and the United States, modern LVR is practiced
+today by relatively few only.
+The venerable Canadian National Institute for the
+Blind (CNIB) has become one of the best models of
+care for patients with LV in Canada and the world.
+Established in 1918 in response to a need for rehabilita-
+
+290
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+tion services to help returning veterans with LV, it
+emerged as the ubiquitous address for LV care across the
+country. The general description of its goals, “to ameliorate the condition of the blind of Canada and to
+prevent blindness,” as described in its incorporation
+charter from 1918, evolved into the provision of 7 different rehabilitation and library services: counselling
+and referral, orientation and mobility training, rehabilitation teaching, sight enhancement services, technical
+aids programs, library services, and career development
+and employment services.3
+Ophthalmologists and optometrists, either in public
+clinics or private offices, now augment these services
+and provide additional ones to the public. In Canada,
+university-affiliated teaching programs in ophthalmology and optometry, as well as a small number of practitioners in private practice, provide a variety of services
+for LV patients, including assessment, diagnosis, prescribing, dispensing, vision rehabilitation therapy (VRT),
+
+
+[page 3]
+Principles of modern low vision rehabilitation—Markowitz
+
+and training. Various private and government agencies
+and programs fund the cost of assessments and the cost
+of LV aids dispensed to patients. A similar trend has
+taken place in the United States and Europe, with additional benefits available from state programs providing
+funds for VRT and training to facilitate the recovery of
+lost vision-based skills.
+It became rather obvious in recent years that regardless of the importance of each professional service
+provided to patients, a multidisciplinary approach and
+coordinated effort are necessary to take advantage of
+new scientific advances in LVR and achieve optimal
+results for patients. Such models for delivery of LVR
+services are currently available in the US and Europe,
+where ophthalmologists, optometrists, opticians, occupational therapists, rehabilitation teachers, and instructors
+work together under one roof to provide comprehensive
+LVR care. Today, it is also generally agreed and understood that rehabilitation care for the patient with LV
+can no longer be limited to provision of a hand magnifier, a white cane, or a large-print library book. More
+should be done—and indeed more can be done today—
+with the advent of modern LVR. The knowledge is
+there, the resources are more bountiful, and the awareness of LVR is increasing. With the numbers of people
+reaching advanced age in the near future, an exponential growth in demand for LVR services will occur.4 The
+intent of this review, therefore, is to outline the principles and details of a modern LVR service.
+PRINCIPLES OF MODERN LOW VISION REHABILITATION
+1.The intake
+
+The intake is the starting point and the sine qua non
+of every low vision assessment (Table 1). It offers an
+opportunity for the practitioner to begin to know the
+patient and their significant other(s). The intake is also
+a firsthand opportunity for assessing functionality and
+priority tasks for rehabilitation, as well as the patient’s
+all-important cognitive skills. A structured approach is
+essential for this purpose. First, a review of the patient’s
+previous medical and surgical history should be made,
+followed by a brief ocular examination to confirm the
+information collected. One should proceed with scrutiny of cognitive functions, followed by identification of
+priority tasks for rehabilitation that are important to the
+patient.
+It is essential to review briefly, both with the patient
+and by physical examination, all previous ocular
+medical and surgical history before any LVR work.
+Ocular examination may reveal an overlooked opaque
+subcapsular membrane easily treated with laser capsulo-
+
+Table 1—Principles of modern low vision rehabilitation
+1. The intake
+2. Assessment of residual visual functions
+3. Assessment of residual functional vision
+4. Prescribing for low vision rehabilitation
+5. Dispensing for low vision rehabilitation
+6. Vision rehabilitation therapy for improvement of
+residual skills
+
+tomy or diabetic macular edema never before addressed.
+In such cases, LVR will need to be postponed until all
+medical and surgical treatment options are exhausted.
+Cognitive problems, when present, are not unusual in
+LV patients and may introduce major impediments to
+LVR. Many patients suffer from depression or loss of
+confidence in any process aimed at restoration of vision based skills. Critical to the entire LVR process is establishing a relationship with the patient and making them
+a willing participant in the efforts of the LVR professional to improve visual function and functional vision.
+It is at the time of the intake that such cooperation
+should be secured in order to continue with the rest of
+the LVR process. If such a determination cannot be
+made, one must work together with the people close to
+the patient and provide the most noninvasive and nonparticipating LVR solutions suitable for the patient.
+For those patients willing to take part and actively
+participate in the LVR process, one should identify priority tasks for rehabilitation that are most important to
+the patient. Confirmation of priority tasks, as well as
+identification of other residual functional vision skills
+requiring rehabilitation, is done by using questionnaires
+about activities of daily living (ADL).
+The 25-item visual function questionnaire (VFQ25),5 developed under the sponsorship of the United
+States National Eye Institute (NEI), measures the influence of visual disability and visual symptoms on emotional well-being and social integration, as well as on
+task-oriented domains dependant on visual functions.
+The VFQ-25 generates subscales on global vision rating,
+difficulties with near vision activities, difficulties with
+distance vision activities, limitation in social functions
+due to vision, role limitations due to vision, dependency
+on others due to vision, mental health symptoms due to
+vision, driving difficulties, limitation with peripheral
+vision, color vision, and ocular pain. A similar questionnaire was developed by Hart et al6 for use in cases of
+vision loss from age-related macular degeneration
+(AMD). Hart’s questionnaire generates 3 subscale groups
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+291
+
+
+[page 4]
+Principles of modern low vision rehabilitation—Markowitz
+
+reflecting difficulties with near, intermediate, and far
+vision activities. Both tests are easy to administer in a
+relatively short time using quality of life (QoL) outcome
+measures. They also both offer a modality for assessing
+residual functional vision, as well as LVR efficiency.
+One should note that LVR, although an integral part
+of the surgical and medical specialty of ophthalmology,
+is in essence and by concept a rehabilitation subspecialty,
+following all principles of rehabilitation medicine. As
+such, any prescribed therapy should be based on the
+selection of a rehabilitation task most important to the
+patient and first made evident during the intake
+process.7 To succeed, the intervention must be implemented with full and active cooperation from the
+patient. Omitting this principle in the practice of LVR
+has a detrimental effect on the outcome and the best
+interests of the patient.
+2. Assessment of residual visual functions
+
+The assessment of residual visual functions (RVF)
+offers a unique opportunity to measure, evaluate, and
+document accurately the extent of functional loss the
+patient sustained from disease. Assessment methods
+used in routine ophthalmologic clinical practice are
+usually inadequate for LVR. These methods are geared
+mainly to assess structural loss for the purpose of surgical reconstruction. Furthermore, when assessing RVF, it
+is often necessary to use a variety of tests to measure and
+document all aspects of one visual function tested
+(Table 2). Hence, practitioners should report and interpret the testing results in the context of the testing
+modality used. A recent study showed that visual
+acuities of patients with AMD measured with a resolution acuity test were at least 2 times better than those
+measured by a conventional recognition acuity test.8 For
+some RVF recently recognized as important in LVR,
+such as the oculomotor functions, clinical assessment
+methods are nonexistent or still being developed.
+Accurate assessment of RVF is critical for successful
+vision rehabilitation outcomes, and the first step in this
+process is to assess and measure ocular refractive errors.
+A. Refractive error assessment
+
+Patients with LV tend to have a high prevalence of
+uncorrected refractive errors for a variety of reasons. In
+many cases, the presence of untreatable pathology is
+overwhelming and the correction of refractive errors as
+a modality for improving visual function is overlooked
+or unnoticed. Some individuals may accept blurred
+vision as a result of their ocular pathology or as a natural
+consequence of ageing, or may be unaware that correction of refractive could improve their visual function.
+
+292
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+Table 2—Assessment of residual visual functions
+A. Refractive error assessment
+B. Visual acuity
+C. Perimetry
+D. Oculomotor functions
+E. Cortical visual integration
+F. Light characteristics affecting visual functions
+
+Perhaps the main culprit, among practitioners as well as
+patients, is a low awareness of the concept of LVR, of
+which correction of refractive errors is but one step in
+the entire process.
+Measuring the refractive error of the eye (defocus) or
+wave front aberrations is a basic part of assessing the
+visual system to determine the level of RVF. Defocus has
+a significant effect on all visual functions and the reducing result from defocus is directly proportional to its
+severity. Myopia, hyperopia, and astigmatism are the
+most common refractive errors identified in routine
+examinations; however, other wave front aberrations
+such as tilt, coma, trefoil, quadrafoil, and others can
+account for up to 25% of refractive errors.9 They are
+identified more easily with the new wave front technology available today.
+The customary, well-known routine for refraction is
+applicable in LV patients with some modifications. One
+should always review and record previous medical or
+surgical ocular history for both eyes, results from
+inspection of the anterior segment at the slit lamp, and
+keratometry measurements before refraction. In the
+presence of LV, a trial frame and loose trial lenses are
+more suitable than a phoropter. It is essential to perform
+retinoscopy before any attempt of manifest refraction,
+not only for objective identification of defocus, but also
+as a means of inspecting media clarity, pupil size, and
+pupil location.
+Manifest refraction should be attempted using the
+measurements of the refractive error as determined by
+retinoscopy. Target-type presentation for the purpose of
+manifest refraction should take into account suitability
+of the type of RVF tested for. As an example, a pre-literate
+child may not perform well when using recognition
+acuity targets, whereas measurements of visual function
+can be determined easily for the same child when using
+resolution acuity targets. Only then should one attempt
+verification of refractive error measurements using the
+concept of just noticeable difference (JND). The JND is
+the threshold amount of spherical power needed to elicit
+a change in clarity or blur noticeable by the patient. A
+
+
+[page 5]
+Principles of modern low vision rehabilitation—Markowitz
+
+practical approach of diopter calculations is using one
+hundredth of the denominator of the 20-foot Snellen
+visual acuity measurements. As an example, in a case
+with 20/200 visual acuity, a 2 diopter difference of
+defocus between presentation of target choices (choice
+between +1D and –1D) can be used. Records of measurements obtained for manifest refraction should identify the type of visual acuity measured for both eyes.
+B.Visual acuity
+
+Assessment of visual acuity is the most common test
+used in visual sciences. Visual input is analyzed as a 3stage hierarchical sequence, beginning with detection of
+spatial contrast, followed by resolution of that contrast
+into spatially separate elements, and ending with recognition of a particular arrangement of elements as one of
+several possible test objects.10 Each stage in this process
+can be viewed as a separate visual acuity function with
+its own inherent limitations (Table 3). Contrast acuity,
+the foundation for visual recognition, is limited by
+optical attenuation such as defocus and diffraction.
+Recognition acuity is limited mostly by literacy and cognitive factors. Resolution acuity is limited by both the
+contrast and recognition acuity functions, in addition to
+its own inherent limitation related to the size of receptive fields of visual neurons.
+The visual system creates visual perception, as we
+know it, by using multiplexing processes to integrate
+various visual inputs.11 We constantly scan our environment using low spatial frequency visual channels, at the
+same time as we also intermittently spot and view points
+of interest using various high spatial frequency visual
+channels. Cortical temporal multiplexing processes
+create visual perception by using the information
+obtained from scanning, spotting, and other visual
+inputs. In this respect, visual perception in patients with
+AMD is identical to the process taking place in people
+with normal vision, with the one exception that spotting is undertaken by preferred retinal loci (PRLs),
+which are eccentric retinal areas assuming macular function.12 Various PRLs can be present, either singly, in
+multiples, or task-related.13 Multiple PRLs are more
+likely to be found in patients shortly after vision has
+been affected by disease14 and may depend on viewing
+conditions.15 Similar compensatory mechanisms appear
+to develop for other LV conditions not related to AMD.
+PRLs offer the patient residual resolution acuity function that is superior to that of any other retinal area.
+This is in disagreement with the traditional view that
+retinal areas with the highest concentration of cones are
+the locations for best resolution acuity function,16 but it
+is in agreement with recent data showing a possibility
+
+Table 3—Assessment of residual visual acuity
+•
+
+Resolution acuity assessment
+
+•
+
+Recognition acuity assessment
+
+•
+
+Contrast acuity assessment
+
+•
+
+Binocular acuity assessment
+
+for exactly the opposite.17 Apparently such areas of best
+resolution are multiple and elicited into function with
+the advent of a specific task. Furthermore, residual
+retinal areas engulfed by retinal pathology, with presumably better topographic location than the PRL,
+perform concomitantly in many cases and produce
+fluctuating levels of resolution acuity function.18
+Furthermore, new oculomotor skills developing after
+foveolar loss directly affect PRL performance.19 Finally,
+binocularity and uncorrected refractive errors may have
+an impact on visual acuity measurements and need to be
+considered as well within the context of testing for
+visual acuity. Thus, it is important to select the appropriate test for assessing residual visual acuity functions
+and provide the corresponding interpretation.
+Resolution acuity assessment
+
+Resolution acuity offers patients the best visual perception ability, limited only by the size of neuronal
+receptive fields.
+After removing the additional limitations responsible
+for optical attenuation, such as defocus, diffraction, and
+poor oculomotor and cognitive skills, the resolution of
+spatially separate elements was measured to be as high as
+85 cycles/degree (cpd) (equivalent to Snellen 20/7) in
+the macular area, and as high as 30 cpd (20/20) in the
+peripheral area at 100% contrast. In cases with LV, these
+additional limitations are common, hence the need to
+detect best residual resolution acuity despite the presence of these factors. Sine wave grating and their equivalent (tumbling E single optotypes) are adequate targets
+for this kind of testing in which the patient is only
+required to confirm the spatial orientation of the target
+presented. Such testing undertaken at the start of any
+LVR assessment provides a measure of clarification of
+potential residual acuity targeted for LVR.
+When cognitive impairment is present, either due to
+immaturity or to senility, observation of preferential looking responses is accepted as confirmation for visual
+perception.20 Grating stimuli of progressively higher
+spatial frequency are presented until the patient being
+tested no longer shows a preference for looking at one
+side over another. Teller acuity cards can effectively test
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+293
+
+
+[page 6]
+Principles of modern low vision rehabilitation—Markowitz
+
+the vision in cognitively impaired individuals who are
+not testable by conventional means.21,22
+In cases where poor oculomotor functions are present,
+the best approach for measuring residual resolution
+acuity is with a test that is not dependent on oculomotor skills for refixation precision and fixation stability.
+The tumbling multiple E test23 is most adequate for this
+purpose. Multiple E tumbling optotypes cards at 100%
+black-and-white contrast are presented to the patient at
+50 cm. Each card presents a different optotype size and
+orientation. The multitude of optotypes presented concomitantly by the cards floods the vast majority of the
+retinal surface with identical information, thus assuring
+perception at the PRL regardless of its location. The
+patient, wearing the correction for the refractive error
+and working distance, must correctly identify the orientation of the optotypes on the cards. The card with
+smallest optotype size identified reflects the level of
+potential residual resolution acuity present. The adaptation of the test for use in routine clinical practice is
+relatively simple and straightforward.
+Recognition acuity assessment
+
+Identification acuity, known also as recognition acuity
+or most commonly as simply visual acuity, refers to the
+ability to resolve detail in any best available retinal area,
+either foveal or parafoveal. It is easily measured and in
+most instances serves as a screening tool for assessing
+visual function.
+In clinical research today, there is widespread use of
+the Early Treatment for Diabetic Retinopathy Study
+(ETDRS) chart.24 The ETDRS chart is also the currently accepted standard in clinical LV practice for
+assessing residual visual acuity levels. The chart, which
+uses the Sloan letters as the accepted reference standard
+for optotypes,25,26 has 5 letters per row, 1 letter-width
+separating adjacent letters, and with spacing between
+adjacent rows equal to the height of the letters in the
+smaller row. It has 14 rows covering a 20-fold range of
+letter sizes following a logarithmic (geometric) size progression with a ratio of 0.1 log unit between each row
+and the next. The chart design allows letter-by-letter
+scoring rather than scoring on a row-by-row basis,
+thereby rendering greater accuracy in the acuity measurement and less variation in test–retest scores.27
+The additional benefit intrinsic in the ETDRS chart
+is its usefulness as a near vision testing chart, in fact for
+any testing distance. Using M units that apply to both
+far and near target testing allows determination of visual
+acuity values for any combination of letter size and
+viewing distance.28 Note that testing near visual acuity
+measures threshold print size of individual optotypes,
+
+294
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+which is different from the print size required to achieve
+a fluent reading rate of continuous text.
+The well-known and widely used Snellen chart has
+limited use in modern LVR. Introduced in 1862 by
+Snellen for screening purposes and as an aid in refraction, it is still widely used today in general optometric
+and ophthalmologic clinical practice. It uses a sequence
+of letters with various letter spacing and numbers of
+letters per line. It has the ability to measure with reasonable accuracy distance visual acuity when better than
+20/80, but has no practical use for cases with poorer
+vision. Regardless of its usefulness, the practice of
+reporting visual acuity with Snellen chart notation is
+deeply ingrained in the visual sciences vocabulary and is
+still the lingua franca for visual acuity, hence its utility,
+especially in the clinical practice of LVR.
+Both ETDRS and Snellen charts measure recognition
+visual acuity and their biggest drawback, as such, is that
+they are limited mostly by literacy and cognitive factors.
+Inattention, chronic pain, degenerative brain disorders,
+and senility are prevalent conditions in the LV population, affecting cognition and limiting the ability to
+perform accurately on these chart tests. A multicultural
+environment also limits performance on such tests for
+patients not familiar with the written English language.
+In spite of the widespread administration of these tests,
+and because of that, one always needs be aware of the
+limitations described herein, especially when assessing
+low visual functions.
+Contrast acuity assessment
+
+The spatial resolution ability of the visual system,
+commonly known as visual acuity, does not predict an
+individual’s ability to detect objects of a certain size.
+Modern vision research demonstrated recently that the
+capacity to detect and identify spatial form varies as a
+function of spatial resolution ability as well as concomitant contrast detection ability.29 Contrast sensitivity
+(CS) measurements serve as an important clinical tool
+in LVR by helping to determine the amount of magnification required for rehabilitation of vision. CS refers to
+the ability of the visual system to distinguish between an
+object and its background and represents the lowest
+contrast level that can be detected by a patient for a
+given size target against a given background. In the
+process of visual perception, it precedes the resolution of
+same-direction, spatially separate elements. Unless otherwise specified, when reporting or describing CS, the
+understanding is a black target against a white background.
+Many CS tests use sine wave gratings as targets, which
+are presented to the observer at a given spatial frequency
+
+
+[page 7]
+Principles of modern low vision rehabilitation—Markowitz
+
+representing a certain level of spatial resolution (visual
+acuity). The contrast effect of the grating is then gradually reduced until the subject cannot detect any more
+difference between the black and white stripes. Testing
+charts can be designed to display one30 or many31 spatial
+frequencies at various levels of contrast. There are
+several commercially available clinical tests that measure
+CS. The two most commonly used are the vision contrast test system (VCTS)31 and the Pelli-Robson (PR)30
+contrast sensitivity charts.
+The VCTS chart contains circular photographic
+plates of sine wave gratings organized as 5 rows and 9
+columns. Each row tests at a specific spatial frequency
+(cpd) that measures the observer’s resolution ability for
+a particular object size. The 5 rows presented at a distance of 3 m correspond to spatial frequencies of 1.5, 3,
+6, 12, and 18 cpd. LV patients are usually tested with
+the chart at 1 m distance. On each row, plates presented
+start with a high level of contrast that diminishes progressively with each succeeding plate. The step sizes
+between levels of contrast are irregular, with an average
+of 0.25 log units. Poor test–retest repeatability of the
+VCTS charts can obscure subtle differences between
+normal and abnormal; however, they are very adequate
+for recording average CS differences. The second generation VCTS chart, the Functional Acuity Contrast Test
+(FACT),32 uses the same format as the VCTS but with
+smaller contrast step sizes (0.15 log units) in an attempt
+to improve repeatability. The sine wave circular plates
+are larger to include an increased number of cycles per
+plate and are presented against a grey background. The
+sine waves vary in their orientation within the row and
+may be vertical or tilted left or right. The VCTS is available in a distance and near format. Actual testing
+involves the patient reporting the lowest contrast plate
+visible in each row and its grating orientation. The
+results recorded produce the contrast sensitivity function (CSF) or curve for monocular and (or) binocular
+testing.
+The PR chart presents letters organized into groups of
+3 with 2 triplets per line. All optotypes presented at 1 m
+are 32 M units, with the equivalent for distance visual
+acuity of 20/640. Within each triplet, all letters have the
+same contrast. The contrast decreases from 1 triplet to
+the next. The PR test was shown to have good
+test–retest reliability. The chart is read from top left to
+as far down as possible and a score representing the
+number of letters seen is recorded.
+The Mars letter contrast sensitivity test33 is a new
+variation of the PR chart. The chart presents 48 equalsized letters arranged in 8 rows of 6 letters each. The
+optotypes presented at 0.5 m are 12.2 M units, with the
+
+equivalent for distance visual acuity of 20/480. The
+contrast interval decreases by a factor of 0.04 log unit
+for each letter. The chart was shown to produce similar
+results to the PR chart.34
+Measurement of the CS function enables assessment
+of the potential visual acuity at the lowest level of contrast difference. One should notice that, to be identified, same-size optotype targets require the use of several
+spatial frequencies; one size level is suitable for use only
+over a narrow range of CS. The optotype size does not
+represent a certain spatial frequency channel. Thus, CS
+measurement for a certain optotype size usually has a
+narrow range of spatial frequencies and is channel specific. In contrast to optotype target charts, charts with
+sine wave grating targets are specific to a certain spatial
+frequency and each chart is suitable for use only over a
+large range of CS.31
+The PR chart measurements use single-size optotypes
+at various contrast levels considered to be within the
+range for the recorded peak of the contrast sensitivity
+function (0.5–3.0 cpd) and arguably sufficient in clinical practice use for CS assessment.35 Whereas this
+method may be more suitable in cases where it can be
+assumed that all spatial frequency channels are present
+and functioning well, when this assumption cannot be
+made, assessment of all spatial frequency channels is
+needed, as is the case with permanent low vision.
+Therefore, the VCTS and FACT charts have the advantage over letter PR chart that they can measure CS at
+several individual spatial frequencies.
+Binocular acuity assessment
+
+Residual binocular visual functions can impact
+severely on other RVF, yet rarely are they assessed and
+documented in routine LV assessments. Any loss of
+vision in one eye or both can have a profound effect on
+binocular visual functions. Any assessment of binocularity starts with observation of fixation patterns of both
+eyes. Large, constant deviations of the eyes with poorer
+vision suggest long-standing visual disparity between
+the two eyes, with the poorer eye assuming an exotropic
+deviation. Observation of apparent orthophoria, present
+in many people with small to medium visual disparities
+between the two eyes, does not confirm optimal binocular functions in cases with LV. In most cases with LV,
+the fine balance of binocularity reached in the past is
+broken and symptoms appearing as a result of binocular
+dysfunction may disable RVFs.
+Binocular deficiencies will affect fusion of images
+from both eyes, with an impact on summation, inhibition, and rivalry functions as well as tridimensional
+perception. The residual binocular function may show
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+295
+
+
+[page 8]
+Principles of modern low vision rehabilitation—Markowitz
+
+either gain from summation of monocular functions or
+loss as a result of inhibition originating from the poorer
+eye. Summation or inhibition may affect either resolution or contrast acuity or both. Recent studies of
+patients with AMD found binocular contrast inhibition
+in almost half the study cases, mostly in the low and
+medium spatial frequencies,36,37 which suggests dominance of the poorer eye under binocular conditions.
+This is confirmed by studies describing “blankout” in
+one eye when a minimum of 0.5–0.75 log units of luminance disparity was presented to each eye with Ganzfeld
+stimuli,38,39 suggesting that reduction of contrast in the
+dominant eye created contrast acuity inhibition in the
+other eye. A recent study40 showed no binocular summation or inhibition effect on the resolution acuity
+function. Rivalry, another aspect of the binocular visual
+functions, also appears to be affected, with reduction of
+both the time dominance of the affected eye and the
+rivalry rate between the two eyes.
+On the basis of this data, and because binocular
+viewing represents the most common viewing condition
+in daily life, it is argued that impairment rating should
+be considered and reported as the best-corrected binocular visual function, rather than the best-corrected
+visual function for the better eye. This can be documented and reported for resolution acuity,41 for the CS
+function, or for residual fields.
+Visual acuity scores42 take account of this principle
+and are calculated in quite an easy way with the ETDRS
+chart. One point is given for each letter read correctly
+on an ETDRS chart, with scores calculated for each eye
+and for a binocular test. The 3 visual acuity score values
+are combined into a single personal functional acuity
+score (FAS), with 60% of the weight given to the binocular value and 20% to each of the monocular values. In
+principle, a similar method can be used for calculating
+binocular CS function scores for a selected spatial frequency with one of the CS tests available and also for
+calculating functional field scores.42 As well, documenting macular scotomata as recorded by the Amsler grid
+test can give an indication of eye dominance when comparing monocular to binocular testing.
+Anecdotal clinical evidence suggests the presence of
+stereopsis in LV patients; however, there are no study
+data supporting this observation. Patients with visual
+disparities between the two eyes will preserve peripheral
+fusion, as evidenced by the presence of reasonable
+orthophoria. As a result of this, peripheral stereopsis
+may be present, as evidenced by the excellent spatial orientation and mobility skills noticed in such patients.
+The Titmus fly test is suitable for detecting gross stereopsis in clinical practice.
+
+296
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+C. Perimetry
+
+In mainstream ophthalmology, documentation of
+field losses serves as an ancillary confirmation of structural loss following disease. The intent is entirely different in LVR where assessment of visual field losses is
+aimed primarily at discovering and documenting residual fields of vision that are still functional and which can
+be used in the LVR process. Remarkably, in patients
+with AMD, scanning ability using the residual peripheral retina is intact. Even in the macular area, damage
+from disease is not uniform, resulting in unpredictable
+scotoma maps. There is some similarity in other conditions affecting residual fields of vision. Peripheral field
+losses are not uniform or absolute in stoke patients and
+concomitant central field losses may split fixation. In a
+similar way, major losses of peripheral fields may be
+associated either with splitting of fixation, as in glaucoma, or with concomitant central scotomata, as in
+retinitis pigmentosa.
+The assessment of residual visual fields is another
+modality for documentation and topographic identification of residual spatial frequency channels responsible
+either for resolution or contrast acuity. Therefore, the
+rehabilitation approach governing field testing is equally
+divided between the need, on the one hand, to gain
+information about the size and characteristics of scotomata reducing central vision, in addition to indirect
+information on potential PRLs known to reside adjacent to central scotoma margins,18 and the need, on the
+other hand, to assess residual peripheral fields amenable
+to LVR. Hence, the assessment methodology is different
+for each approach, with the aim of restoration of better
+resolution acuity in the first instance and of contrast
+acuity in the second.
+Macular perimetry, also known as microperimetry, is
+the method used for assessment of central scotomata
+and indirectly also for PRL identification. Until
+recently, it resided solely within the domain of research
+labs using expensive scanning laser ophthalmoscopy
+instruments and without a direct reach to clinical LVR
+practice. The MP-1 microperimeter from Nidek Co.,
+Ltd. (Tokyo, Japan),43 which was introduced in 2005
+and combines fundus tracking microperimetry with
+color fundus photography in a single instrument, is fast
+becoming the new standard instrument for research and
+clinical practice. It is intended mainly as a clinical
+instrument for evaluating the progression or extent of
+eye disease and the effectiveness of various treatment
+modalities. However its ability to assess scotoma size,
+central light sensitivity, fixation behaviour, and topo-
+
+
+[page 9]
+Principles of modern low vision rehabilitation—Markowitz
+
+graphical visual acuity in patients with macular disease
+makes it an instrument of choice for LVR assessments.
+Automated perimetry methods currently being used
+in clinical practice, like the macular grid test44 and computer-based programs like the macular mapping test,45
+map macular scotomata reasonably well and provide
+indirect information on possible locations of corresponding PRLs. These methods have two major inherent
+flaws, namely, the inability to assure direct monitoring
+of fixation accuracy during testing of patients with loss
+of macular function, and the corruption of results
+related to PRL location due to the impact of faulty oculomotor skills used during testing.
+Information gathered from microperimetry is
+extremely valuable. When mapping and recording
+central scotomata, details on the shape, size, and density
+of the scotoma are obtained. Of particular interest is
+detection of ring scotomata or scotomata affecting the
+preferred location for fixation. When using methods
+that allow the patient to independently maintain target
+fixation, as in automated macular perimetry, in most
+cases scotoma maps will reflect the consequences of
+using eccentric fixation with the PRL during testing,44
+thus indirectly providing information on PRL location.
+Whereas research instruments and methods aim to
+identify accurate location and size of PRL, with clinical
+practice methods it would suffice to ascertain the quadrant in which the PRL is located (upper, lower, right,
+left) and the eccentricity, possibly suggested by scotoma
+size.
+Assessment of the spatial extent over which the visual
+system is sensitive to light is the main method for documentation of peripheral field losses. In addition to
+documentation of spatial extent, commonly used test
+procedures detect topographic sensitivity to light.
+Common clinical methods currently in use, such as
+automated perimetry, are quite adequate for assessment
+of residual visual fields in cases with loss of peripheral
+fields, with or without partial central field loss.
+Documentation of field losses can be expressed either as
+topographic sensitivity or as spatial extent losses. All
+automated perimeters will provide measurements of
+sensitivity losses expressed as the mean deviation value.
+Visual field scores42 provide an accurate modality for
+assessment of changes in spatial extent. On a testing grid
+1 point is given for each point seen, with the lower field
+receiving 60 points and the upper field 40 points. The
+central 10°, corresponding to 50% of the primary visual
+cortex, and the remaining peripheral field each receive
+50 points. This results in a visual field score for each eye
+and a functional field score for the person when the
+results from both eyes are combined.
+
+D. Oculomotor functions
+
+New oculomotor functions develop after loss of
+macular vision, with the points of reference located in
+the new PRL(s).46,47 New PRLs may become established
+by 6 months after vision loss,48 probably following the
+stabilization of recently acquired oculomotor skills
+required by the PRL for fixation. The benefits from
+using a PRL are noticed by patients immediately after
+loss of macular vision and consequently many adopt
+compensatory viewing strategies, designed to facilitate
+images entering the eye being directed to the PRL.
+When newly acquired oculomotor skills are used to
+redirect the eye in a seeing position where images can
+reach the PRL, then, as expected, we observe that some
+patients will adapt and demonstrate optimal viewing
+strategies, many other patients will require some form of
+assistance for optimal utilization of these new oculomotor functions, and some patients will never adapt to the
+new reality.
+The ability to make efficient eye movements for positioning the PRL towards a target requires oculomotor
+skills involving pursuit and saccades to produce fixation
+stability and refixation precision. In addition to poor
+fixation stability reported in cases with macular loss of
+vision,49 the presence of deficient saccades is probably
+responsible for impaired visual search ability and poor
+refixation precision.50
+Despite the fact that oculomotor skills are very
+important in LVR and eccentric viewing training is
+quite widespread, few practitioners routinely test for
+residual oculomotor functions in LVR clinical practice.
+Results from testing in such cases could identify those
+patients who require interventions, such as vision
+therapy or devices for image relocation, to facilitate deficient oculomotor functions. The King-Devick test51 is a
+readily available and useful tool for assessing residual
+oculomotor functions in a clinical setting, and its components can also be used for vision therapy training purposes as well. The King-Devick test comprises one
+demonstration card and three test cards, which contain
+several rows of random numbers that become progressively more difficult to follow with either spotting or
+tracking skills. Automated perimetry is another method
+that offers information on oculomotor skills, reported as
+fixation losses rates. Fixation losses recorded by the
+macular grid test,44 used for mapping macular scotomata, can also serve as an indicator of efficiency of
+oculomotor skills.
+Observation of the patient’s general motor skills can
+determine if restrictions in head, neck, and body movements are responsible for any limitations in oculomotor
+functions and fields of vision.
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+297
+
+
+[page 10]
+Principles of modern low vision rehabilitation—Markowitz
+
+Identification of eccentric fixation location in LV
+patients is important for any attempt of LVR and in fact
+reflects PRL coordinates on the retina. Recent research
+shows that, at any given time, multiple PRLs coexist in
+any given patient and are used one at a time, depending
+on the task performed and the environmental circumstances.47–50 Therefore identification of PRL location
+should be noted in the context of the task performed
+and the environmental circumstances present.
+Direct methods for identification of PRL include visuscopy, retinal photography with a fixation target, and
+scanning laser ophthalmoscopy. Visuscopy is readily
+performed on any patient with a dilated pupil by using
+the direct ophthalmoscope. When using the target lens
+present in every ophthalmoscope, the fixation cross is
+projected on the retina and is also visible to the patient.
+Any attempt by an LV patient to fixate will shift an
+eccentric retinal area hosting the PRL to the centre of
+the projected fixation cross. Retinal photography with a
+fixation target is another method for assessing presumed
+PRL location. Two drawbacks to this method are that
+many clinical practices do not have access to a retinal
+photography facility and the method requires pupil
+dilatation, which hinders subsequent LV interventions
+during the same visit. The Rodenstock scanning laser
+ophthalmoscope, used in almost all PRL studies, is
+essentially a research instrument that is rarely affordable
+or available in clinical practice, but the new Nidek MP1 instrument43 is specifically designed for widespread
+clinical use. It has the ability to identify and directly
+visualize the PRL, and combines fundus fixation tracking technology with color fundus photography. The
+software automatically and accurately maps the locus
+and quality of the patient’s eccentric fixation location.
+Indirect methods for identification of PRL include
+perimetry methods with either automated or computerized perimetry. The macular grid test44 and computer based programs like the macular mapping test45 are
+both easily available and adaptable to clinical practice.
+They map any macular scotomata and concomitantly
+provide indirect information on possible location of the
+corresponding PRLs. The technology is based on the
+fact that while attempting fixation during the testing,
+fixation performed mostly with the PRL, the macular
+scotoma is projected eccentrically and recorded as such
+on the perimetry records. The direction and eccentricity
+of the scotoma record is directly indicative of the direction and eccentricity locus of the PRL on the retina.
+E. Cortical visual integration
+
+In any LV assessment, one must assess and document
+visual integration deficits, which in most cases express
+
+298
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+themselves as unexplained visual symptoms. Although it
+is not the intention to perform a full neurological assessment, a more detailed anamnesis aimed at identifying
+visual integration deficits or other visual symptoms is in
+order. In some cases, detection of deficits may suggest
+specific therapy and rehabilitation training.
+Inability to identify objects by sight alone (visual
+agnosia), impaired recognition of faces (prosopagnosia),
+being able to write but not read (pure alexia), and defective color perception (cerebral achromatopsia) all suggest
+occipitotemporal pathway deficits.
+Inability to acknowledge stimuli presented in one
+hemifield (hemispatial neglect), inability to make saccades to visual targets (Balint’s syndrome), and defective
+motion perception (akinetopsia) all suggest occipitoparietal pathway deficits. Unexplained visual perception such as the presence of formed, complex, persistent
+or repetitive, stereotyped visual hallucinations, with full
+or partial retention of insight into the unreal nature of
+the hallucinations, should suggest the presence of the
+Charles Bonnet syndrome. In such cases there are no
+hallucinations in other sensory modalities and no
+primary or secondary delusions.52
+F. Light characteristics affecting visual functions
+
+Visual functions are affected in various ways by the
+physical characteristics of light stimuli entering the eye,
+such as wavelength and intensity. Therefore no LVR
+assessment is complete without testing for photostress,
+glare interference, and color contrast, three distinct and
+separate parameters affecting optimal visual function
+performance. Vision performance is usually assessed
+with an acuity test such as an identification acuity test
+(ETDRS); however, contrast sensitivity charts are more
+suitable for this purpose.
+Optical filters are used to produce selective transmission of light and identify optimal visual function performance. Optical filters are devices that selectively
+transmit light with certain properties while blocking the
+remainder. Color filter materials allow selective transmission of light either by using compounds that absorb
+or by using coatings that reflect unwanted wavelengths
+of light. Absorbing compounds can be added either to
+glass or plastic materials. Precise control of reflective
+coatings can produce monochromatic filters with selective transmission of exact bandwidths. Filter materials
+available to reduce glare by selective reduction of shortwavelength light transmission have the drawback of
+altering color perception. Neutral density filters, either
+absorptive or reflective, reduce the amount of transmitted light across all wavelengths, the reduction being
+inversely related to the optical density of the filter.
+
+
+[page 11]
+Principles of modern low vision rehabilitation—Markowitz
+
+Photostress testing
+
+First, it is essential to assess the amount of light
+required for optimal RVF performance, otherwise
+known as the photostress function. More light is not
+always the best approach in LV patients. Under normal
+circumstances, exposure to a light source will cause
+bleaching of retinal visual pigment; however, once the
+light stimulus is stopped, immediate subsequent regeneration takes place. In the presence of retinal disease,
+pathology at the photoreceptor–pigment epithelial cell
+interface will severely disrupt this process. With reduction of normal retinal surface functionality, the patient
+will note a decrease in surrounding luminance and tend
+to prefer more light for all tasks. Yet, larger amounts of
+light beyond the processing ability of the residual retina
+will create prolonged periods of bleaching, further
+aggravating visual perception in such patients.
+Photostress assessment, a quantitative test of macular
+function, measures recovery time for restoration of
+visual function after light application on the retina.53
+The task of testing for photostress in LVR is a difficult
+one, since it seeks the fine balance between the maximal
+amount of light providing optimal visual function and
+the amount of light not creating undue hardship to the
+residual retinal tissue. Photostress assessment is not
+widely used as a clinical practice, mainly because of the
+lack of standardization of techniques and variability of
+results.54 Normative values and a standard for measurements were proposed recently55 based on the use of the
+Eger macular stressometer.
+In cases where brighter lighting conditions may prove
+helpful, one can present to the eye gradually increasing
+light intensities to detect photostress. The testing protocol consists of recording best visual performance across
+a range of light intensities, preferably on a contrast sensitivity chart. Either the penlight test53 or the Brightness
+Acuity Tester (Marco Ophthalmic Inc., Jacksonville,
+Fla.) is adequate for this purpose. In those cases where
+common visible lighting conditions are stressful, reduction of light transmission with neutral filters identifies
+the optimal lighting condition accepted by the patient.
+NoIR (NoIR Medical Technologies, South Lyon,
+Mich.) has a comprehensive line of filters with a range
+of visual light transmission between 1% and 90%,
+allowing accurate detection of photostress levels. The
+testing protocol consists of gradually reducing transmission with filters until best visual performance is
+recorded, preferably on a contrast sensitivity chart.
+Testing for glare interference and color contrast
+
+Short wavelength light has the potential for creating
+glare by internal reflection inside the eyeball, usually at
+
+a greater rate when encountering nontransparent structures. Light containing waves that only fluctuate in one
+specific plane (i.e., linearly polarized) also creates significant photostress. In contrast to short wavelength and
+polarized light, which are known to detract from visual
+function performance, there is some evidence to suggest
+that transmission of monochromatic light of specific
+wavelengths may enhance visual perception in some
+individuals or in certain disease conditions.56,57
+Testing to determine the impact of wavelength characteristics of light is not routinely used in clinical practice and has no established normative values or standards;
+however, it is essential for all LVR assessment. Testing in
+a clinical setting using optical filters is a relatively simple
+and straightforward task. Filters with selective transmission specifications are available for testing visual function
+performance. The series with the Corning trademark
+(Corning S.A.S Ophthalmic, Avon Cedex, France) has
+filters that allow light transmission only above 450 nm
+wavelength with gradual increments at 511, 527, and
+550 nm. The GlareCutter filter from Corning reduces
+transmission of light in a uniform way across all wavelengths with no distortion of color perception. The
+GlareShields series of filters from NoIR offer UV and
+visible spectrum protection and match the Corning
+CPF (Corning Photochromic Filter) GlareCutter
+product line. The Claret F series from Zeiss (Carl Zeiss
+Canada, Toronto, Ont.) has filters with cutoff limits for
+light transmission at 451, 540, 560, 580, and 600 nm.
+3. Assessment of residual functional vision
+
+The functional vision assessment (FVA) complements
+information available from an ophthalmologist or
+optometrist regarding assessment of RVF, and it is an
+integral part of any LV assessment. Occupational therapists and other LV rehabilitation therapists are the
+trained professionals most suitable for RFV assessment;
+however, in their absence, ophthalmologists and
+optometrists practicing LVR must be familiar with the
+various aspect of testing.
+Functional vision assessment in LVR measures how
+well a patient uses RVF to perform routine tasks in different places, using different items, and throughout the
+day. It describes how the patient uses vision and what
+visual skills need further development. Performance of
+any task is usually affected by a variety of nonvisual
+factors. Hence the need in LVR to assess the level of sustainable and comfortable performance of the task assessed,
+rather than documenting threshold performance. Methods
+used for FVA observe actual performance of a certain
+task and measure efficiency of performance, such as
+speed while reading. Vision-related QoL questionnaires
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+299
+
+
+[page 12]
+Principles of modern low vision rehabilitation—Markowitz
+
+offer a subjective modality for FVA, and they can also be
+used before and after LVR interventions to assess
+outcome. Results will inform and guide rehabilitation
+professionals in developing rehabilitation plans for the
+individual and recommending low vision devices.
+Assessment of RFV should also make allowance for the
+impact of other sensory losses on skills tested, and identify the impact of loss of vision on the skills assessed.
+Everyday visual tasks might include reading, writing,
+moving through a space, grooming, watching television,
+cooking, cleaning, household repair, finding lost
+objects, or other educational, vocational, or recreational
+pursuits. The assessment will clarify specific needs
+requiring near and intermediate distance vision, the
+benefits of computers, and specific needs required for
+orientation and mobility and driving. The nature and
+extent of rehabilitation is guided by the results of the
+functional assessment.
+Preferably, an interdisciplinary low vision team
+should develop a rehabilitation plan stating the goals of
+rehabilitation and describing how these goals will be
+met. Because LVR requires the input and motivation of
+the patient to succeed, the patient or their family or
+partner should be included in the development and
+approval of the rehabilitation plan.
+Rehabilitation plans usually include instruction in the
+use of residual visual skills for daily tasks, instruction in
+the use of visual environmental cues, modification of
+the visual environment to enhance the use of vision, the
+use of appropriate psychosocial information to devise
+motivational strategies to assist in performing desired
+tasks, and follow-up care to assure that all goals of the
+rehabilitation plan and the concerns of the patient have
+been met.
+It is not the scope of this paper to describe and discuss
+the assessment of the many functional vision skills
+known; however, one of them, reading skills, is an obligatory item for all LVR assessments and should be
+assessed by ophthalmologists and optometrists at the
+time of assessment of RVF.
+Threshold print size of individual optotypes is smaller
+than the print size required to achieve a fluent reading
+rate of continuous text. Regardless of the level of vision,
+it is not possible to read fluently at a desirable reading
+rate if the print size is at or close to threshold. The ratio
+between the print size required for fluent reading and
+threshold print size was defined as the acuity reserve and
+found to be approximately 3:1 in cases with normal
+vision.58 Evaluation of continuous text print materials
+provides a more accurate measure of reading ability than
+single optotype reading, and therefore a prescription for
+reading glasses should be based on such performance.59
+
+300
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+Reading speed is an objective measure of reading performance. The MNRead acuity charts,60 developed at
+the Minnesota Laboratory for Low-Vision Research,
+University of Minnesota, and the Colenbrander visual
+acuity charts for low vision61 can be used to measure
+reading speed at different print sizes, and hence, can be
+used to determine the print size that supports the
+patient’s maximal reading speed. The calculation of
+reading speed, accordingly to the MNRead chart
+instructions, is based on reading sentences each having
+10 standard-length words. A more precise reading speed
+measurement can be achieved by excluding words that
+were missed or read incorrectly.
+4. Prescribing for low vision rehabilitation
+
+Prescribing devices and VRT to improve visual functions has a long and interesting history, with long-standing traditions in many cultures over many centuries.62
+More so today, the purpose of an LVR assessment is to
+provide recommendations for interventions that will
+lead to restoration of QoL (Table 4).
+The outcome from assessing RVF is detection of
+visual functions that can be improved with the use of
+optical devices, whereas the outcome from assessing
+RFV is detection of functional vision that can be
+improved with the use of VRT training. Recent research
+has led to better understanding of visual functions and
+made possible the advent of new devices and strategies
+for rehabilitation of visual functions, some of which will
+be presented here. Once optimal RVF is restored with
+optical devices, then training programs for restoration
+of lost vision-related skills can follow. It is not the scope
+of this paper to describe and discuss VRT, but some
+methods and strategies will be presented here in brief.
+Provision of recommendations for devices and VRT is
+within the scope of practice of ophthalmology and
+optometry; it is a prerequisite for public funding in
+many jurisdictions; and it is also a standard of practice
+in many professional organizations before starting any
+new LVR work.
+A. Prescribing devices to improve residual visual functions
+
+Many methods have evolved over time aimed at
+improving RVFs; however, the most adequate method
+must be considered when choosing and prescribing an
+optical device for a selected task. The methodology
+chosen for enhancing RVFs will also suggest the type of
+device most suitable for the task at hand. For example,
+the traditional and well-known method of magnification is still widely used and, in most cases, is the only
+method considered for rehabilitation. Less-known
+
+
+[page 13]
+Principles of modern low vision rehabilitation—Markowitz
+
+Table 4—Prescribing devices to improve residual
+visual functions
+A. Correction of refractive errors
+B. Occlusion therapy
+C. Enhancement of oculomotor skills
+D. Light manipulation
+E. Magnification
+F. Field restitution
+
+methods, equally effective, are available today for introduction in clinical practice with little or no effort or
+cost. Image relocation with prisms to PRL, field displacement to primary gaze position, field expansion,
+and manipulation of light are other methods practiced
+today in addition to, or instead of, magnification.
+Methods for improving RVF may affect more than one
+function, and therefore one must be familiar with the
+benefits and limitations of each method used. A sequential approach, as detailed below, is recommended.
+Prescribing devices to improve RVF should start with
+correction of refractive errors (taking notice of eye dominance), followed by stabilization of oculomotor functions with image relocation, then prescription of best
+lighting conditions to reduce glare and improve contrast, and end with prescription of adequate magnification and field restitution devices.
+Correction of refractive errors
+
+Correction of refractive errors with spectacle glasses is
+often the forgotten method, yet spectacle glasses are the
+remedy most wanted by patients and the one most
+attainable. Patients with LV who have recent or mild to
+moderate loss of vision see it as appropriate to wear
+glasses and desire such an intervention. On the other
+hand, in cases with severe and (or) long-standing loss of
+vision, prescription glasses are frequently viewed with
+scepticism, often with the fatalistic view that there is no
+longer any benefit from wearing glasses. Scepticism
+encountered in practitioners when required to prescribe
+correction for refractive errors in LV patients is likely the
+result of low awareness of the concept of LVR.
+Thus, for a variety of reasons, patients with LV tend
+to have a high prevalence of uncorrected refractive
+errors. Some are close to emmetropia or rendered almost
+emmetropic following cataract surgery and the correction required is viewed as insignificant for restoration of
+visual functions. Many have large refractive errors, and
+in their cases, updated corrections to old prescriptions
+
+are also viewed as insignificant for improvement of
+visual functions. In both scenarios, practitioners not
+aware of LVR goals see themselves attempting to restore
+normal visual function with prescription glasses, hence
+their logical perception of the refractive error correction
+as insignificant for this purpose.
+Nevertheless, refractive error correction becomes significant, desirable, and noticeable by both patient and
+practitioner when the aim is restoration of best RVF
+available. A pair of prescription glasses may improve
+visual acuity from 20/800 to only 20/400, but for the
+patient, this can translate into the ability to use public
+transportation without the assistance of another person.
+Furthermore, in cases where binocularity is possible,
+prescribing correction for refractive errors for both eyes
+may enhance peripheral fusion with a direct benefit for
+orientation and mobility skills. In addition to the
+improvement in resolution acuity by the correction of
+the refractive error, filters for manipulation of light
+transmission can be provided in conjunction with the
+optical lenses for improvement of contrast. Though single
+vision glasses are preferred by most patients, in presbyopic patients, prescribing bifocal corrections to include
+a correction for intermediate distances (40–70 cm) is
+most beneficial for orientation purposes at such distances. Flattop or executive-type bifocals are the best
+choice for LV patients because they offer a relatively
+large and identifiable window for viewing the observed
+target at a fixed focal range. The spectacle glasses frame
+can also serve as support for mounting a variety of LV
+devices that can further improve visual functions in conjunction with corrective lenses.
+Occlusion therapy
+
+One should keep in mind when prescribing devices to
+improve RVF that a dominant eye can interfere
+adversely in binocular situations and may require occlusion. Clarification of the effect of binocularity on RVFs
+is extremely important when prescribing LV devices in
+cases with AMD and when selecting the most appropriate vision therapy course following the LV assessment.
+Interesting concepts on possible rehabilitation strategies
+have evolved from recent research reflecting the need to
+determine eye dominance in clinical practice.40
+One such concept supports and recommends occlusion of the poorer eye in cases with binocular contrast
+inhibition for tasks involving orientation and mobility,
+that is, tasks requiring better CS. This is based on the
+finding that binocular contrast acuity inhibition is
+present in almost half of cases with LV, mostly in cases
+with the poorer eye using medium and low spatial frequency channels for vision.
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+301
+
+
+[page 14]
+Principles of modern low vision rehabilitation—Markowitz
+
+Another concept supports and recommends using
+both eyes at all distances for tasks involving spotting,
+that is, tasks requiring better resolution acuity. This is
+based on the finding that binocular resolution acuity
+summation or inhibition does not significantly affect
+best available resolution acuity.
+It should also be noted that, despite superior time
+dominance and reduced rivalry rate expected for the
+better eye, in some cases the poorer eye may possess
+superior time dominance, resulting in severe disruption
+of the resolution acuity of the better eye. This is often
+expressed as metamorphopsia. In such cases, the poorer
+eye should be occluded.
+Enhancement of oculomotor skills
+
+Prescribing devices to enhance oculomotor functions
+is quite a novel idea, however not a very unusual one.
+Patients with low vision require assistance with newly
+developed oculomotor skills to enhance their fixation
+stability or refixation precision towards fixation points.
+In patients with AMD and loss of macular vision, the
+oculomotor functions have their points of references
+located in the new PRL(s). There are two strategies
+available to facilitate oculomotor performance: either
+exercise the new oculomotor skills, or use prisms incorporated into spectacle glasses to redirect images entering
+the eye to the PRL. Both strategies will improve refixation precision and fixation stability, with a positive
+impact on all other visual functions.
+Stabilizing oculomotor skills using prisms incorporated in spectacle glasses, or image relocation, requires
+identifying the location of topographic PRLs on the
+retina. The coordinates of the PRL location are calculated and then translated into an amount of prism
+diopters to be incorporated into spectacle glasses. Most
+reports on image relocation with prisms agree on the
+positive impact on visual functions.63–67 A 5-year retrospective study showed a permanent significant improvement in best-corrected visual acuity for distance (from
+20/200 to 20/90) in compliant patients who wore the
+prism glasses for the follow-up period.68 It is possible
+using this method in cases where the PRL is located in
+an unfavourable location to develop a new PRL in a
+favourable location.69
+The protocol for image relocation begins with the
+identification of PRL location by one of the methods
+described previously. The patient then wears a trial
+frame while vision is tested with ETDRS or CS charts,
+with the prescription for distance adjusted for a 1 m
+testing distance. Testing is performed for the better eye
+and results are verified with binocular correction. Prisms
+are inserted in the trial frame to match direction and
+
+302
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+eccentricity of PRLs as deduced from macular scotoma
+maps, or by other methods. Prismatic scanning64 is used
+at this stage to fine-tune direction of eccentricity.
+Eccentricity is also reassessed with stronger (+2) or
+weaker (–2) prism diopters. Both tests are executed by
+using suprathreshold targets. Final threshold measurements are recorded for total correction (refractive error
+and prisms) with reference to the chart type used for
+testing (target size or CS).
+Field displacement is another method that can be
+used to stabilize oculomotor functions. In nystagmus
+cases where viewing targets at the null point seem to stabilize oculomotor functions field, displacement with
+prisms promotes normal viewing head posture.
+Therefore, in cases with nystagmus, redirection of light
+with prisms to match the direction of the eyes at null
+point facilitates visual functions by promoting less
+motor instability. Assessment of the null point is done at
+the same time as a prescription for glasses is written, and
+binocular vertical or horizontal prisms can be incorporated in the prescription glasses.
+Light modulation
+
+The type of light—its intensity, color, and direction—affects visual performance. Optimal lighting conditions are important for better visual perception in
+patients with LV because they enhance RVF such as
+visual acuity and contrast sensitivity. The best kind and
+amount of light needed to see as well as possible varies
+from person to person and should be determined during
+the assessment process. In principle, when prescribing
+devices to manipulate light, one should recommend
+both the amount of light impacting the patient and the
+specific wavelengths. Recommendations to regulate the
+amount of light could advise either for a reduction or an
+increase.
+To reduce the amount of light entering the eye one
+can prescribe neutral density filters. Such filters, either
+absorptive or reflective and with fixed or variable (photochromatic) rates of light transmission, are prescribed
+for moderate outdoor or indoor lighting conditions,
+mostly for orientation and mobility tasks. Such filters
+can be incorporated in prescription lenses to be worn as
+spectacle glasses or can be added as clip-on attachments
+to prescription glasses. One can order tinting of ophthalmic lenses to produce a desired effect of reduction of
+light or one can order ready-made brands such the
+GlareCutters (Corning). In most cases with LV, the
+requirement for reduction of total light transmission is
+minimal, and primarily for outdoor activities. In albino
+or photostress-prone cases (cone dystrophy or advanced
+AMD), dark filters with sizeable reduction of light
+
+
+[page 15]
+Principles of modern low vision rehabilitation—Markowitz
+
+transmission are recommended for wear immediately
+before exposure to bright light, with removal upon reentry to a dim light environment. Polarized lenses
+should be considered also in LV patients to reduce the
+amount of light reflected from a specific surface like
+water, snow, or a screen monitor. Most LV patients will
+prefer increased amounts of lighting for all ADL.
+The effect on vision from increased amounts of light
+is due to a change in the adaptive state of the retina
+when light reaches transitional areas of scotomata, producing increased CS.70 CS can provide valuable insight
+into the patient’s likely preferred illumination choices. It
+can be predictive of whether a patient will select a
+halogen, incandescent, or nonilluminated magnifier.
+Artificial light from a variety of sources, together with
+natural light, is used indoors to enhance visual perception, either as general-purpose overhead lighting or for
+illumination of a specific area where a task takes place.
+Incandescent bulbs produce a less intense light, more
+suitable for LV patients prone to photostress, and offer
+adequate lighting when used from two or three positions simultaneously to illuminate a specific area.
+Halogen bulbs produce intense lighting but possible
+photostress. Fluorescent lights tend to produce shorter
+wavelength light, which is responsible for producing
+glare. Full-spectrum lighting devices are touted to reproduce natural light but lack solid scientific evidence for
+the many advertised benefits. General advice for the use
+of lighting sources is to position them either behind the
+viewer or on top of the target at hand to avoid glare and
+photostress.
+Recommendations for specific wavelengths of light
+need to consider photostress. In principle, one aims
+both at reducing short-wavelength light to reduce glare
+and at identifying light with specific wavelengths
+(colors) preferred by the patient for viewing. In both
+instances, such interventions result in apparent
+improved contrast sensitivity and better visual acuity.
+There is general agreement on the need to reduce
+glare for patients with LV. Glare occurs because of the
+internal reflection of short-wavelength light entering the
+eye, and for most patients, limiting light transmission to
+wavelengths above 450 nm is sufficient to reduce it. The
+filters available for this purpose have various cutoff
+limits between 450 and 800 nm, usually with the cutoff
+number included in the trade name. The 450 filter
+series is yellow and most suitable for indoor use or outdoors under reduced light conditions. The higher-numbered filter series (e.g., 510, 527, 550, 600) are darker
+and most suitable for outdoor use. All selective transmission filters distort color perception and are not recommended for driving. Some manufacturers incorpo-
+
+rate certain amounts of neutral filter qualities in the
+selective transmission lenses, as well as photochromatic
+abilities (e.g., the CPF series from Corning). The fitting
+of selective transmission lenses must include a demonstration of visual perception with the selected filter outdoors.
+Many attempts to identify light of specific wavelength
+(i.e., color) preferred by patients for viewing have been
+described in the literature. A review of the literature
+reveals that there is little objective and conclusive evidence that tinted lenses improve visual functions, and it
+is unclear whether selective transmission lenses are any
+better than neutral density lenses. However, a number
+of studies show subjective preference of selective transmission lenses for many ADL and for most common
+pathologies.71
+Studies show similar subjective preference of colors by
+patients with LV. In one report,72order of preference was
+amber, grey–green, dark amber, and dark green, and in
+another report,73 dark amber, light grey–green, amber,
+dark green, and dark grey–green. Patients with AMD,
+retinitis pigmentosa, and chronic open-angle glaucoma
+apparently prefer amber filters.
+No scientific protocol has been developed so far to
+assist in prescribing tinted or selective transmission lenses.
+On the basis of available evidence, a logical approach for
+prescribing tinted or selective transmission lenses was
+presented in this paper. Following a primary tenet of
+rehabilitation, one should prescribe tinted or selective
+transmission lenses that improve performance when
+attempting a task selected by the patient for rehabilitation.
+Enhancement of contrast differences among parts of a
+viewed image can also improve RVF and RFV. Any
+light-colored target will be more easily viewed against a
+darker background, and vice versa. Light-yellow targets
+are best viewed against blue backgrounds, dark-red
+targets against light green, and vice versa.
+Magnification
+
+The main thrust of LVR has always been to improve
+resolution acuity for all distance, and in the past, the
+main method used for rehabilitation, and still in use
+today, is magnification.
+Magnification devices are now prescribed in many situations and in many formats. Almost any textbook,
+review, or paper on LVR has extensive coverage of LV
+devices producing magnification, which will not be
+repeated in this paper. Instead, the emphasis here is in
+reviewing the various strategies available today for prescribing magnifying devices. In essence, strategies available for producing magnification involve enlarging the
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+303
+
+
+[page 16]
+Principles of modern low vision rehabilitation—Markowitz
+
+visual angle of the target observed by either reducing the
+distance between the observer and the target, magnifying the target with optical lenses, or simply enlarging
+the physical size of the target observed.
+Magnifying optical lenses, also known as plus lenses,
+are available in a wide range of dioptric powers and are
+made from materials that correct for weight (plastic),
+thickness (high index), spherical aberrations (aspherical), and variable light intensities (photochromatic).
+Plus lenses can be used as loose lenses, mounted in
+optical frames, or used with attachments as varied as the
+imagination allows. As the dioptric power of plus lenses
+increases, the viewing distance of the target decreases,
+hence their usefulness mainly for tasks requiring near
+resolution acuity, like reading. In spite of this advantage,
+binocular vision with plus lenses is almost impossible at
+less than 10 cm viewing distance, and at less than 5 cm,
+monocular visual perception becomes tedious and cumbersome.
+Prescribing plus lenses for LV patients aims to rehabilitate near distance vision and should consider the priority task identified by the patient for rehabilitation. In
+most cases, the priority task for near distances is rehabilitation of reading skills. In the past three decades, a
+distinction was made between visual function and functional vision rehabilitation. Ability to read threshold
+print is not the same as the reading rate of continuous
+text, which is a patient-specific variable that restores
+reading skills. Therefore, the standard Kestenbaum rule,
+which calculates magnification using the inverse ratio of
+Snellen notation for distance visual acuity, was found to
+underestimate magnification in most cases. The calculation of magnification needs to make allowance for the
+impact of restricted fields of view, reduced illumination,
+and wave front aberrations inherent in the use of all
+magnifiers. Research has identified four different visual
+factors that significantly affect reading rate: acuity reserve,
+contrast reserve, reading field of view, and central
+scotoma size.58 Research has shown also that reading
+rate can be improved systematically with increased print
+size or magnification.74
+All standard textbooks on LVR offer methods for theoretical calculations of magnification required for this
+purpose. In most cases, the aim for prescribing plus
+lenses is to achieve fluent reading ability of continuous
+print for text of 1 M size. Recent research identified the
+need to compensate for acuity reserve to achieve the
+desired reading rate58 when prescribing plus lenses for
+reading tasks, with an allowance of a minimal 2:1 acuity
+reserve desirable in most cases. A logical approach proposed for prescribing magnifying lenses for reading is to
+include i) identification of rehabilitation task (e.g.,
+
+304
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+reading large print books), ii) selection of reading rate
+desired (slow, fluent, maximal), iii) determination of
+threshold size required for reading task selected (1.3 to
+3 times the acuity reserve), iv) measurement of current
+threshold print size for continuous print reading (M
+size), v) calculation of magnification to achieve threshold size required for reading task selected expressed as
+equivalent viewing distance, and vi) selection of the
+optical device providing the predicted equivalent
+viewing distance (magnification).75
+The prescription of choice is for frame-mounted
+lenses if the magnification required is achieved by plus
+lenses up to approximately 10 diopters. If the patient is
+binocular, base-in prisms should be incorporated into
+the near prescription. If the magnification required is
+achieved with lenses stronger than 10 diopters, handheld or otherwise-mounted plus lenses are most useful.
+It is easier to compensate for eye–lens distance with
+handheld magnifiers than with stand magnifiers. When
+the magnifier is held at a distance greater than the focal
+length, the patient can use the distance prescription
+glasses with the magnifier. Whereas when the eye–lens
+distance is greater than the focal length, the reading prescription for accommodation at near distance needs to
+be used.
+Stand magnifiers require less motor control than the
+handheld magnifiers and allow for a greater working
+distance than high-add reading glasses. Off-axis view of
+the object through stand magnifiers often produces a
+distorted image and results in reduced reading ability.
+Stand magnifiers rarely place the object in the focal plane
+of the stand length. Because the image is formed at a
+fixed distance behind the lens, any change in the eye–
+lens distance causes the magnification to vary. Patients
+usually need a near dioptric add to focus on the image
+formed by a stand magnifier. To compensate for the
+eye–lens distance when using stand magnifiers, one needs
+to know the specifications of the magnifier used. The key
+optical parameters of many handheld and stand magnifiers have been measured and tabulated in the past76 and
+should always be considered before magnifier selection.
+Improving resolution acuity as allowed by the dioptric
+power of a plus lens can be beneficial for orientation at
+near and intermediate distances where many tasks, like
+cooking, eating, self-care, and housekeeping, take place.
+The magnification provided by plus lenses up to 3
+diopters is most useful for such tasks and the prescription of choice is for frame-mounted lenses. Regardless of
+the reason for prescribing plus lenses, when prescribing
+frame-mounted plus lenses, the prescription should also
+include the dioptric power for achieving best-corrected
+visual acuity for distance.
+
+
+[page 17]
+Principles of modern low vision rehabilitation—Markowitz
+
+Magnification is produced by use of relative size and
+distance manipulations, either alone or in conjunction
+with contrast enhancement or tactual or auditory clues.
+Magnification can be achieved either by bringing the
+target close to the eye or using targets enlarged beyond
+normal size, like large print. A variety of devices of
+enlarged size are available to match many ADL situations and available through commercial catalogue listings. Large watches, thermostats, phones, and many
+other objects are usually recommended by occupational
+therapists following their assessment. Large-print books
+for all tastes are widely available throughout the world.
+These books may be sufficient for the reading needs of
+a patient and should always be considered when prescribing magnification devices for reading purposes.
+Magnification can be achieved also by telescopic
+devices that are built of two or more plus and (or) minus
+(minifying) optical lenses. Telescopic devices are available in a large variety of formats and shapes, all prefabricated stock items. They vary in size from minuscule to
+giant, are available as single units or as binoculars, and
+can be mounted on specialty frames, on carrier lenses of
+regular spectacle glasses (bioptic), or as an addition to
+the frame itself. Normal resolution acuity levels can be
+achieved for all viewing distances. Inherent in the physical optics of telescopic devices is a reduction in peripheral fields of vision in direct relation to the increase in
+magnification. Therefore, all telescopic devices are
+useful only for stationary patient tasks that do not
+require mobility and orientation. Most telescopic
+devices prescribed for LV patients provide between ×2
+and ×4 magnification.
+The main application of telescopes is for improvement of resolution acuity. Their prescription in LV
+patients is for rehabilitation of vision for all distances,
+taking into account the priority task identified by the
+patient for rehabilitation. They are a desirable substitute
+for high plus lenses used for near distance magnification,
+allowing the same resolution acuity at a farther distance
+from the eyes. Telescopes with lower magnification specifications also offer reasonable page navigation abilities.
+The use of telescopic devices for viewing distant
+targets is different in patients who are mobile from those
+who are mostly sedentary. Mobile patients will use telescopic devices for intermittent spotting, such as a freestanding unit kept in the pocket or attached to a cord
+around the neck, with up to ×6 magnification.
+Sedentary patients will use telescopic devices for more
+prolonged periods of time, for example, for viewing television, many using binoculars with lower magnifications up to ×3. Modern bioptic eyewear design has
+evolved from large telescopic tubes to include many
+
+small lightweight systems that have improved patient
+acceptance of such devices.
+Many patients prefer fixed-focus telescopes with no
+need for focus adjustments or automatic focus telescopes. The Vision Enhancement System–Autofocus
+(VES–AF) unit from Ocutech (Ocutech Inc., Chapel
+Hill, N.C.) is a monocular 4× bioptic telescope
+mounted above the eyeglass frame and designed to be
+worn full-time. Powered by a rechargeable battery, it
+contains two computer chips and an infrared focusing
+system that can focus automatically from 30 cm (12
+inches) to infinity in a fraction of a second.77 Adjusting
+to the use of distance telescopes is recognized as difficult
+and probably depends on patients actively recognizing
+the benefits and tolerating the limitations.78
+Attempts have been made in the past, and some still,
+to implant miniature telescopic devices in vivo. Such
+intraocular devices severely disrupt the vision perception process in patients with AMD. They provide a
+built-in high-resolution permanent spotting ability not
+required by nature, thus significantly disturbing the
+normal physiology of the cortical temporal multiplexing
+function. Furthermore, they disable binocular visual
+functions, with patients losing tridimensional perception and the inputs needed to stabilize oculomotor
+functions. The more severe impacts on patient welfare,
+however, are from permanent loss of peripheral fields of
+vision, which are critical for mobility and orientation
+tasks, and from loss of ability to use PRLs for intermittent spotting purposes. Questions related to the magnification proposed and the aniseikonia it creates, as well
+as unaddressed questions on ocular dominance, also
+weigh against the prospects of using such devices in
+vivo. Additionally, there is loss of access for diagnosis
+and treatment of posterior pole conditions that may
+develop in such eyes in the future, especially relevant
+when one advocates implanting such devices in eyes
+with visual acuity as good as 20/80.79
+Electronic magnification has the great advantage over
+plus lenses of producing an acuity reserve enabling
+reading skills for almost all levels of visual acuity. The
+additional benefit provided is preservation of binocularity, even at high levels of visual disparity between the
+two eyes. As a rule of thumb, all individuals considered
+suitable for use of such high-tech devices should first
+have an LV assessment and fitting of low-tech devices.
+In many cases, low-tech devices may provide solutions
+for tasks identified for rehabilitation, at a lower cost,
+and with the benefit of portability, a feature many high tech devices lack. In addition, partial rehabilitation with
+low-tech devices first may later enhance use of high-tech
+devices when such devices are added.
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+305
+
+
+[page 18]
+Principles of modern low vision rehabilitation—Markowitz
+
+Electronic magnification is divided between closed circuit television systems (CCTVs) and adaptive computer hardware and software. A CCTV unit uses a video
+camera to project a magnified image onto a video
+monitor, a television screen, or a computer monitor.
+CCTV systems are available either as desktop, handheld, or head-mounted devices. They permit variable
+magnification levels, manipulation of contrast and
+brightness, with color or reverse polarity, and binocular
+vision. All video magnifiers offer the option of viewing
+black letters on a white background or white letters on
+a black background. Many video magnifiers also
+provide other special on-screen features and controls,
+including underlining or overlining of text. Some
+systems work jointly with a computer, offering the
+option of sharing the computer monitor. Color video
+magnifiers are useful for reading materials in which
+color is crucial, such as maps and color photographs.
+Being able to capture and save an image is also a new
+function that has recently become available.80
+As with low-tech devices, the protocol for prescribing
+a CCTV unit is based on the priority task selected by
+the patient. This priority dictates the selection of the
+CCTV unit most useful to the patient. In cases where
+prescribed magnification requires plus lenses with a
+power higher than 12 diopters and extended reading or
+writing is a goal, a CCTV should be considered first
+because it enables the use of a more comfortable reading
+posture, longer reading duration, and faster reading
+speed than optical devices.81 Mounted video cameras on
+a fixed stand require the reading material to be placed
+under the camera and moved across and down the page.
+To make the process of viewing easier, a table that is
+movable side-to-side and from the top of the page to the
+bottom is used. Stand-mounted video cameras are
+useful also for writing tasks allowing both the hand and
+the writing material on the table under the video
+camera. Handheld video cameras bring the camera to
+the material to be viewed. They can magnify almost
+anything within reach, including labels on packages of
+food and medicine. Head-mounted displays are specialty units using video cameras and uniocular display
+for each eye. They offer portability and new ways of
+viewing.
+With the advent of cyberspace as a prime repository
+for knowledge and information, computers should be
+viewed as an integral part of any LVR plan. Adaptive
+computer hardware and software offer accessibility to
+electronic and printed text and images as never before to
+patients with severe visual loss. Hardware such as modified keyboards, large monitor screens, and attached
+scanners increase the feasibility of using the software. In
+
+306
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+principle, there are two modalities for adaptive computer hardware and software: either magnification or
+translation to auditory or tactile sensorial perception.
+Every operating system has built-in accessibility features providing moderate amounts of magnification of
+text and images. These are easily accessible from the
+control panel of the operating system, with instructions
+provided in the computer manual. For those requiring
+significant amounts of magnification, specialized software
+is necessary. MAGic (Freedom Scientific, St. Petersburg,
+Fla.), LunarPlus (www.DolphinUSA.com), and ZoomText
+(www.AISquared.com) are some examples of computer screen magnification programs currently in use. They
+offer the possibility of enlarging text and images on the
+screen, either alone or in conjunction with audio clues.
+The technology is furthered enhanced with optical character recognition software and scanners to access printed
+text. Several software programs are available for this
+purpose: TextBridge Pro (www.nuance.com), Cicero
+(www.DolphinUSA.com), OpenBook (www.Freedom
+Scientific.com), Kurzweil reader (www.Kurzweiledu.com),
+and Ovation (www.Telesensory.com).
+Translation to auditory or tactile sensorial perception
+is the other modality for accessibility to electronic or
+printed text information by using adaptive computer
+hardware and software. In fact, this is a form of RFV
+rehabilitation discussed below.
+Web sites dealing with low vision high-tech devices
+list a large number of available devices and their technical details. In Ontario, assessment for and provision of
+high-tech devices is regulated by special provincial
+assessment centres. High-tech devices are most useful in
+individuals with severe loss of vision who are either in
+the process of acquiring education or fully involved in
+the workforce. For such purposes, involving prolonged
+reading sessions at fixed locations, CCTV desktop units
+such as the Merlin (Enhanced Vision, Huntington
+Beach, Calif.) or the Aladdin (Telesensory, by InSiPhil
+(US) LLC, Sunnyvale, Calif.) are most suitable. Units
+such as the Max (Enhanced Vision) or the Primer
+(Innoventions Inc., Conifer, Colo.) offer portability to
+accommodate the needs of a more mobile patient. The
+Jordy system (Enhanced Vision) is a head-worn unit
+enabling the wearer to see targets at far distances and at
+near.
+Field restitution
+
+Restitution of the spatial extent over which the visual
+system is sensitive to light is the aim of all interventions
+contemplated for rehabilitation of field losses, for the
+efficient use of patients in ADL. Various methods are
+available in clinical practice for producing restitution of
+
+
+[page 19]
+Principles of modern low vision rehabilitation—Markowitz
+
+central or peripheral spatial extent, resulting in better
+visual acuity and spatial orientation, respectively.
+A central scotoma is affected by illumination and
+magnification, two methods previously described here.
+Increased illumination results in more light reaching
+transitional areas of scotomata and produces increased
+contrast sensitivity, which in turn results in a reduction
+of scotoma size and subsequent improvement in visual
+acuity. Magnification results in reduction of scotoma
+size relative to image size.
+Field displacement with prisms is a method allowing
+optimal use of residual peripheral fields that would otherwise be hardly accessible. Residual fields, usually
+hemifields, can be detected either vertically (up, down)
+or laterally (right, left). Residual vertical fields are found
+in cases with neuron–motor disorders affecting eye,
+head, neck, and body movements. Vertical prisms incorporated in spectacle glasses can align the residual field
+with the task at hand. Residual lateral fields are usually
+found in cases of stroke. Horizontal prisms incorporated
+in spectacle glasses can align peripheral fields with the
+central visual axis.
+One can produce total field displacement by using
+prisms in front of the eyes with the base of the prism set
+in the direction of the recorded field loss. In such scenarios, one should use prisms for both eyes set in the
+same direction to avoid diplopia and use low-grade
+prisms (up to 10 prism diopters) to avoid reducing
+central vision. Use of prism glasses stabilizes the disrupted
+spatial orientation visual process. The visual concept of
+midline is reoriented with accompanying improvement
+of posture and balance.
+One can produce partial and intermittent field displacement by using a prism segment with the prism
+apex located close to the visual axis. Intermittent preferential looking into the prism segment provides access to
+the area of field loss. One can use only transparent
+prism segments for this purpose, which specialty labs
+can manufacture and apply to a carrier lens monocularly. The set-up of the prism apex margin is between 5
+and 10 mm from the visual axis, based on a trial fitting
+with Fresnel lenses in the office before ordering permanent glasses.
+Field expansion with prisms is a useful method in
+cases with partial field losses (stroke) or in cases with
+residual tunnel vision (retinitis pigmentosa, end stage
+glaucoma). Peripheral field expansion in cases with
+hemianopia is achieved by using two prism segments of
+the same size and strength, glued on the back surface of
+a carrier lens in the upper and lower field, respectively,
+with the base of the prisms in the direction of the field
+loss. Perception of the displaced peripheral fields con-
+
+comitant with the use of central vision is apparently
+responsible for true peripheral field expansion.82
+Peripheral field expansion in cases with tunnel vision is
+achieved by using prism segments laterally, nasally, and
+below the visual axis, with intermittent preferential
+looking into the prism segment that provides access to
+the area of field loss. Transparent prism segments of
+equal size and strength are mounted binocularly on the
+back of a carrier lens, with apex margins 5–10 mm from
+the visual axis. A recent study showed that wearing of
+such glasses provided field expansion and better performance of ADL.83 Field expansion can also be created
+by minification with reverse Galilean telescopes.84
+Prescribing devices for field displacement and field
+expansion should take into consideration the diagnosis
+responsible for the field loss, as well as the tasks selected
+by the patient for rehabilitation. Although the assembled devices in most cases involve custom-made glasses,
+one must allow for an adjustment period to the new
+device and anticipate possibly redesigning or changing it
+altogether. In cases with stroke, a logical and prudent
+approach will start with prescribing distance correction,
+with prisms incorporated for total field displacement to
+redress midline shift tendencies. A short period of
+adjustment of 1 to 2 weeks will clarify the need for
+incorporating a bifocal segment in the lens, and this
+should be followed by another trial period of 3 to 4
+weeks with Fresnel prisms for creating partial field displacement or field expansion. Only after this process
+should one proceed with manufacturing clear segment
+prism segments. The prism segments can be attached to
+the back surface of the carrier lens or to a carrier lens of
+a back surface clip-on. A front surface clip-on can
+provide lenses with selective transmission filters to
+control glare and photostress. In cases with tunnel
+vision, a similar approach is needed, with the addition
+of prisms in the carrier lens for image relocation in cases
+with macular scotomata. Specialty labs are required for
+manufacturing such devices.
+B. Prescribing devices to supplement or substitute for functional vision
+
+Prescribing devices to supplement or substitute for
+functional vision is another form of RVF rehabilitation.
+This can be achieved either by translation of visual
+stimuli to auditory or tactile sensorial perception or, in
+reverse, by translation of sound to written text. Using
+this modality, electronic devices offer additional access
+to printed text information by means of adaptive computer hardware and software.
+Text-to-speech software is routinely used today to
+convert computer documents or Web pages into audible
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+307
+
+
+[page 20]
+Principles of modern low vision rehabilitation—Markowitz
+
+speech heard through the computer speaker. This helps
+people who need or want auditory verification of their
+visual perception. Such software as JAWS (from
+Freedom Scientific, St. Petersburg, Fla) and ZoomText
+(www.AISquared.com) are useful in this category.
+Voice recognition software allows the patient to use
+their voice as an input device. Voice recognition may be
+used to dictate text into the computer or to give commands to the computer such as opening application
+programs, pulling down menus, or saving work. Such
+software programs as Dragon NaturallySpeaking
+(http://www.nuance.com/naturallyspeaking) are useful
+in this category.
+The Assistive Devices Program of the Ontario
+Ministry of Health and Long-Term Care funds hightechnology vision aids for Ontario residents with low
+vision or blindness for up to 75% of the cost.
+Equipment that is funded includes CCTVs, computer
+systems with screen reading and magnification software,
+scanners with optical character recognition software,
+and personal information manager. Braille translation
+software and embossers are also available for those with
+Braille skills. In Ontario, additional funds can be
+obtained for individuals on social assistance programs
+through the Ministry of Community and Social
+Services. Services in this province are provided through
+ADP Regional Assessment Centres for both sight
+enhancement aids for low vision and sight substitution
+aids for full vision loss.85
+5. Dispensing for low vision rehabilitation
+
+The preparation, ordering, and dispensing of prescribed LV devices preferably take place within the same
+clinical practice. If an allied optical dispensary is available where prescribing of LV devices routinely takes
+place, this helps ensure familiarity and specialization of
+the dispensary and the staff with LV devices and their
+special dispensing requirements. Ideally, the dispensary
+should carry ready-made devices in stock for immediate
+dispensing, as well as specialized frames and lenses
+required by the lab for manufacturing special prescriptions. Most important of all is the need to have on hand
+staff who are familiar with LVR and LV devices. The
+skills of the dispensing clinician are invaluable in
+helping a patient select the right device. The prescriber
+should be aware of technical limitations in the manufacture of LV devices and take this into account when
+considering prescriptions.
+Dispensing LV devices provides the opportunity to
+introduce the device to the patient, train the patient in
+the correct use of the device for the task selected, and
+create a direct and continuous connection with the
+
+308
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+patient until the next encounter. One study86 reported
+that the failure rate for patients using low vision devices
+decreased from 22% to 3% when careful training was
+provided in the correct usage of the device. Large-print
+instruction sheets should be available for the patient to
+take home with the instruction details.
+6. Vision rehabilitation therapy for improvement of
+residual skills
+
+Training and enhancement of RVF and of newly
+acquired visual skills are essential and integral to any
+contemplated vision rehabilitation plan and should
+always constitute the second stage of the vision rehabilitation process. An LV practitioner, ophthalmologist or
+optometrist, is responsible for recommending and prescribing VRT training to improve residual functional
+vision. The provision of rehabilitation training, plans
+with or without devices, falls within the domain of the
+multidisciplinary rehabilitation team, of which occupational therapy is a member. The administration of VRT
+is in the scope of practice of occupational therapy and
+other professionals such as optometrists and low vision
+teachers and instructors who have the experience and
+(or) training to provide this service to patients. In the
+true spirit of a multidisciplinary approach, the prescriber must work in close cooperation with the
+providers of VRT to achieve optimal rehabilitation of
+functional vision.
+Occupational therapists (OT) can administer various
+training programs designed to train such skills as
+reading and writing, while others provide help with orientation and mobility and driving to improve function
+and enhance performance for specific ADL. VRT in the
+form of specific instruction methods, courses, and training exercises are available with proven success for certain
+tasks in certain age groups.87,88
+In cases with macular pathology, prescribed courses
+for retraining of fundamental visual skills are available
+that include training to improve fixation stability, saccades, and tracking eye movements,89 as well as training
+for scotoma awareness.90 There is no consensus about
+the criteria for selecting the best eccentric viewing area
+and there is an inconsistent standard of practice among
+practitioners when it comes to efficacy, effectiveness,
+and cost–effectiveness of eccentric viewing training.91
+After training for fundamental skills, training to
+improve specific skills is possible, such as reading,90
+writing,92 orientation and mobility, and others. The two
+principal training methods available for improving neurological field deficits are stimulation directed into the
+area of the field loss without eye movement and saccadic
+exploration towards the blind hemifield.
+
+
+[page 21]
+Principles of modern low vision rehabilitation—Markowitz
+
+OTs also have the expertise to conduct environmental
+assessments in the patient’s home and workplace or
+school to improve orientation and mobility and implement various adaptation strategies. The patient is
+usually introduced by the OT to independent-living
+aids and to the concepts of adapting their home and
+workplace. Large-print versions of books, cheques,
+playing cards, calendars, and writing paper may be recommended by the OT, for example, and other changes
+can be made, such as from a ballpoint pen to a bold
+fibre-tipped pen to improve legibility of writing. Older
+patients often have both visual and physical limitations
+and the OT can address this. Lighting, contrast, and
+safety issues may need to be assessed in the patient’s own
+home by an OT or a rehabilitation teacher.
+Involving social services
+
+No LVR plan is complete without the involvement of
+social workers. The social worker can address and deal
+with problems related to financial duress, or community
+and work issues, and can provide counsel for psychological problems. It is the responsibility of the ophthalmologist or optometrist providing LVR to order the inclusion of social services in the LVR plan.
+CONCLUSION
+
+Modern LVR has arrived at centre stage of mainstream practice without fanfare but with an evergrowing impact on how we practice ophthalmology,
+optometry, opticianry, and occupational therapy. It
+carries the full weight of recent advances in basic and
+clinical sciences and technology, and it is here in time to
+meet the growing requests for service of an ageing population. At a time when funding agencies require
+outcome measures showing improvement in functionality and QoL to justify financial support of clinical care
+and research, LVR provides to ophthalmology the rehabilitation dimension for the surgical restoration of visual
+functions. Accordingly, the goal for any ophthalmologist finishing a surgical procedure should be restoration
+of QoL and not be limited to restoration of visual function. Modern LVR enables us today to achieve this goal.
+A comprehensive LV assessment should document all
+facets of the individual RVFs, such as resolution, recognition, contrast, and binocularity for the visual acuity
+function; macular and peripheral residual visual fields;
+residual oculomotor functions; and the impact from
+photostress, glare, and color contrast. Prescribing of
+devices should aim to improve all RVFs and must keep
+in mind tasks initially selected by the patient for rehabilitation. When prescribing low vision devices, the
+methods for improving visual functions that should be
+
+taken into account include, in a sequential order, correcting refractive errors, documenting eye dominance,
+enhancingresidual oculomotor functions, reducing
+effects from glare and photostress, and prescribing magnification and for field restitution, as required by the
+individual case.
+With the adoption of LVR by academic institutions as
+a distinct clinical specialty, modern LVR is set to supplant and streamline the myriad of services from community agencies providing care for people with visual
+impairment. Challenges include low awareness of the
+existence of LVR by the public and practitioners, small
+numbers of people actively practicing LVR, and nonexistent practice guidelines for eye care practitioners.
+Efforts are being made to redress the situation. A recent
+initiative from the American Academy of Ophthalmology
+called SmartSight93 is an attempt to define a standard of
+practice in this area for all ophthalmologists. Initiatives
+by Canadian ophthalmologists are set to introduce
+SmartSight and its principles to Canadian ophthalmology practice. The American Occupational Therapy
+Association launched a certification program in LVR in
+2006 for all OT practitioners in the United States. The
+certification outlines the standards for professional competency that OT practitioners seeking to practice in the
+field of LVR will need to demonstrate.
+An attempt to present current thoughts and a possible
+template for a comprehensive modern LVR practice is
+made with this review by summarizing recent scientific
+developments in this field, recent changes in educational programs and professional standards, and the
+author’s clinical and research experience in this field. It
+is hoped that this summary and other initiatives from
+colleagues, the public, institutions, and government will
+promote and raise awareness of modern LVR to all, for
+the benefit of all.
+REFERENCES
+1. Goodrich GL. A trend analysis of the low-vision literature. Br
+J Vis Impair 2004;22:105–6.
+2. Stelmack J. Emergence of a rehabilitation medicine model for
+low vision service delivery, policy, and funding. Optometry
+2005;76:399–404.
+3. CNIB–History of the CNIB Available: http://www.cnib.ca/eng/
+about/organization/history.htm#history (accessed2006 Apr 14).
+4. Canadian National Institute for the Blind. CNIB Submission
+to the Commission on the Future of Health Care in Canada;
+December 21, 2001; Toronto, Ont.
+5. Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S,
+Hays RD, and the National Eye Institute Visual Function
+Questionnaire Field Test Investigators. Development of the
+25-item National Eye Institute Visual Function Questionnaire.
+Arch Ophthalmol 2001;119:1050–8.
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+309
+
+
+[page 22]
+Principles of modern low vision rehabilitation—Markowitz
+
+6. Hart PM, Chakravarthy U, Stevenson MR, Jamison JQ.. A
+vision specific functional index for use in patients with age
+related macular degeneration. Br J Ophthalmol 1999;83:
+1115–20.
+7. Massof RW. A systems model for low vision rehabilitation. I.
+Basic concepts. Optom Vis Sci 1995;72:725–36.
+8. Markowitz SN, Steinbach M, Gonzales E. Vision loss from
+macular degeneration: an optimal way to measure what
+remains. Paper presented at: Vision 2005, 8th International
+Conference on Low Vision Rehabilitation; April 2–5, 2005;
+London, UK.
+9. Thibos LN, Hong X, Bradley A, Cheng X. Statistical variation of aberration structure and image quality in a normal
+population of healthy eyes. J Opt Soc Am A Opt Image Sci Vis
+2002;19:2329–48.
+10. Thibos LN, Bradley A. New methodologies for discriminating neural and optical losses of vision. The Hirsch Memorial
+Lecture, presented at: Annual Meeting of the American
+Academy of Optometry; 1990; Nashville, Tenn.
+11. Peli E. Vision multiplexing: an engineering approach to vision
+rehabilitation device development. Optom Vis Sci 2001;78:
+304–15.
+12. Schuchard RA, Fletcher DC. Preferred retinal locus: a review
+with applications in low vision rehabilitation. Ophthalmol
+Clin North Am 1994;7:243–55.
+13. Deruaz A, Whatham AR, Mermoud C, Safran AB. Reading
+with multiple preferred retinal loci: implications fro training
+a more efficient reading strategy. Vision Res 2002;42:2947–57.
+14. Crossland MD, Sims M, Galbraith RF, Rubin GS. Evaluation
+of a new quantitative technique to assess the number and
+extent of preferred retinal loci in macular disease. Vision Res
+2004;44:1537–46.
+15. Altpeter E, Mackeben M, Trauzettel-Klosinski S. The importance of sustained attention for patients with maculopathies.
+Vision Res 2000;40:1539–47.
+16. Cohen AI. The retina and optic nerve. In: Moses RA, Hart
+WM, eds. Adler’s Physiology of the Eye. St. Louis, Mo: CV
+Mosby Company; 1975:380–2.
+17. Putnam NM, Hofer HJ, Doble N, Chen L, Carroll J,
+Williams DR. The locus of fixation and the foveal cone
+mosaic. J Vis 2005;5:632–9.
+18. Fletcher DC, Schuchard RA. Preferred retinal loci relationship to macular scotomas in a low-vision population.
+Ophthalmology 1997;104:632–8.
+19. White JM, Bedell HE. The oculomotor reference in humans
+with bilateral macular disease. Invest Ophthalmol Vis Sci
+1990;31:1149–61.
+20. Friedman DS, Munoz B, Massof RW, Bandeen-Roche K,
+West SK. Grating visual acuity using the preferential-looking
+method in elderly nursing home residents. Invest Ophthalmol
+Vis Sci 2002;43:2572–8.
+21. Teller DY, Morse R, Borton R, Regal D. Visual acuity for vertical and diagonal gratings in human infants. Vision Res 1974;
+14:1433–9.
+22. Kushner BJ, Lucchese NJ, Morton GV. Grating visual acuity
+with Teller cards compared with Snellen visual acuity in literate patients. Arch Ophthalmol 1995;113:485–93.
+
+310
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+23. Harris MJ, Robins D, Dieter JM, Fine SL, Guyton DL.
+Eccentric acuity in patients with macular disease.
+Ophthalmology 1985;92:1550–3.
+24. Ferris FL, Kassoff A, Bresnick GH, Bailey IL. New visual
+acuity charts for clinical research. Am J Ophthalmol
+1982;94:91–6.
+25. Sloan LL. New test charts for the measurement of visual
+acuity at far and near distances. Am J Ophthalmol 1959;48:
+807–13.
+26. National Research Council, National Academy of Sciences.
+Recommended standard procedures for the clinical measurement and specification of visual acuity. Adv Ophthalmol
+1980;41:103–48.
+27. Arditi A, Cagenello R. On the statistical reliability of letter chart visual acuity measurements. Invest Ophthalmol Vis Sci
+1993;34:120–9.
+28. Colenbrander A. Guide for the evaluation of visual impairment. Paper presented at: Vision ’99, 6th International
+Conference on Low Vision; July 12–16, 1999; New York, NY.
+29. Ginsburg AP, Evans D, Sekuler R, Harp S. Contrast sensitivity predicts pilot’s performance in aircraft simulators. Am J
+Optom Physiol Opt 1982;59:105–9.
+30. Pelli DG, Robson JG, Wilkins AJ. The design of a new letter
+chart for measuring contrast sensitivity. Clin Vis Sci 1988;2:
+187–99.
+31. Ginsburg AP. A new contrast sensitivity vision test chart. Am
+J Optom Physiol Opt 1984;61:403–7.
+32. Ginsburg AP. Next generation contrast sensitivity testing. In:
+Rosenthal B, Cole R, eds. Functional Assessment of Low
+Vision. St Louis, Mo: Mosby Year Book Inc, 1996:77–88.
+33. Arditi A. Improving the design of the letter contrast sensitivity test. Invest Ophthalmol Vis Sci 2005;46:2225–9.
+34. Bullimore M. Validity and repeatability of the Lighthouse
+letter contrast sensitivity chart. Paper presented at: Vision
+2005, 8th International Conference on Low Vision
+Rehabilitation; April 2–5, 2005; London, UK.
+35. Pelli DG, Robson JG. Are letters better than gratings? Clin
+Vis Sci 1991;6:409–11.
+36. Valberg A, Fosse P. Binocular contrast inhibition in subjects
+with age-related macular degeneration. J Opt Soc Am 2002;
+19:223–8.
+37. Faubert J, Overbury O. Binocular vision in older people with
+adventitious visual impairment: sometimes one eye is better
+than two. J Am Geriatr Soc 2000;48:375–80.
+38. Bolanowski SJ Jr, Doty RW. Perceptual “blankout” of monocular homogeneous fields (Ganzfelder) is prevented with
+binocular viewing. Vision Res 1987;27:967–82.
+39. Spry PGD, Furber J, Harrad RA. The effect of ocular dominance on visual field testing. Optom Vis Sci 2002;79:93–7.
+40. Tarita-Nistor L, Gonzales EG, Markowitz SN, Steinbach MJ.
+Binocular interactions in patients with age-related macular
+degeneration: acuity summation and rivalry. Vis Res 2006;
+46:2487–98.
+41. American Medical Association. Guides to the Evaluation of
+Permanent Impairment. 5th ed. Chicago, Ill: American
+Medical Association; 2001:282.
+
+
+[page 23]
+Principles of modern low vision rehabilitation—Markowitz
+
+42. Colenbrander A. The functional vision score, a coordinated
+scoring system for visual impairments, disabilities and handicaps. In: Kooijman AC, Looijestijn PL, Welling JA, van der
+Wildt GJ, eds. Low Vision: Research and New Developments
+in Rehabilitation. Studies in Health Technology and
+Informatics. Amsterdam, the Netherlands: IOS Press; 1994:
+552–61.
+43. Sabates NR. The MP-1 Microperimeter: clinical applications
+in retinal pathologies. Highl Ophthalmol 2005;33:12–7.
+44. Markowitz SN, Muller C. Macular perimetry in low vision.
+Can J Ophthalmol 2004;39:56–60.
+45. MacKeben M, Colenbrander A. Quick assessment of the
+topography of macular vision loss using a new PC-based field
+analyzer. In: Vision ’96, Proceedings of the 5th International
+Conference on Low Vision; July 8–12, 1996; Madrid, Spain.
+Organización Nacional de Ciegos Españoles; 1998:119.
+46. White JM, Bedell HE. The oculomotor reference in humans
+with bilateral macular disease. Invest Ophthalmol Vis Sci
+1990;31:1149–61.
+47. Schuchard RA, Raasch TW. Retinal locus for fixation: pericentral fixation targets. Clin Vis Sci 1992;7:511–20.
+48. Crossland MD, Culham LE, Kabanarou SA, Rubin GS.
+Preferred retinal locus development in patients with macular
+disease. Ophthalmology 2005;112:1579–85.
+49. Bellmann C, Feely M, Crossland MD, Kabanarou SA, Rubin
+GS. Fixation stability using central and pericentral fixation
+targets in patients with age-related macular degeneration.
+Ophthalmology 1994;111:2265–70.
+50. Schuchard RA. Preferred retinal loci and macular scotoma
+characteristics in patients with age-related macular degeneration. Can J Ophthalmol 2005;40:303–12.
+51. King AT, Devick S. The proposed King-Devick test and its
+relation to the Pierce saccade test and reading levels. [senior
+research project]. Chicago, Ill: Illinois College of Optometry;
+1976.
+52. Eperjesi F, Akbarali N. Rehabilitation in Charles Bonnet syndrome: a review of treatment options. Clin Exp Optom 2004;
+87:149–52.
+53. Glaser JS, Savino PJ, Sumers KD, McDonald SA, Knighton
+RW. The photostress recovery test in the clinical assessment of
+visual function. Am J Ophthalmol 1977;83:255–60.
+54. Collins M, Brown B. Glare recovery and age related maculopathy. Clin Vis Sci 1989;4:145–53.
+55. Bartlett H, Davies LN, Eperjesi F. Reliability, normative data,
+and the effect of age-related macular disease on the Eger
+Macular Stressometer photostress recovery time. Ophthalmic
+Physiol Opt 2004;24:594–9.
+56. Langagergaard U, Ganer HJ, Baggesen K. Age-related
+macular degeneration: filter lenses help in certain situations.
+Acta Ophthalmol Scand 2003;81:455–8.
+57. American Optometric Association. The use of tinted lenses
+and colored overlays for the treatment of dyslexia and other
+related reading and learning disorders (position paper). St.
+Louis, Mo: AOA; 2002.
+58. Whittaker SG, Lovie-Kitchin JE. Visual requirements for
+reading. Optom Vis Sci 1993;70:54–65.
+59. Faye E. Evaluating near vision: the Amsler grid and field
+
+defects. In: Faye E, ed. Clinical Low Vision. 2nd ed. Boston,
+Mass: Little, Brown & Co, 1984:45–60.
+60. Legge GE, Ross JA, Luebker A, LaMay JM. Psychophysics of
+reading. VIII. The Minnesota Low-Vision Reading Test.
+Optom Vis Sci 1989;66:843–53.
+61. Colenbrander A. Basic low vision exam. Ophthalmol Clin
+North Am 1994;7:151–62.
+62. Drewry RD. What man devised that he may see. History of
+Medicine, Department of Ophthalmology, University of
+Tennessee–Memphis. Available: http://web.archive.org/web/
+19980523102628/www.eye.utmem.edu/history/history.html
+(accessed 2005 Oct 5).
+63. Eubank TF, Ooi TL. Improving visually guided action and
+perception through use of prisms. Optometry 2001;72:
+217–27.
+64. Romayananda N, Wong SW, Elzeneiny IH, Chan GH.
+Prismatic scanning method for improving visual acuity in
+patients with low vision. Ophthalmology 1982;89:937–45.
+65. Rosenberg R, Faye E, Fischer M, Budick D. Role of prism
+relocation in improving visual performance of patients with
+macular dysfunction. Optom Vis Sci 1989;66:747–50.
+66. Verezen CA, Volker-Dieben HJ, Hoyng CB. Eccentric
+viewing spectacles in everyday life, for the optimum use of
+residual functional retinal areas, in patients with age-related
+macular degeneration. Optom Vis Sci 1996;73:413–7.
+67. Bertrand T, Junginger H, Romanet JP, Mouillon M.
+Description of the prismation method in the rehabilitation of
+low visions of macular origin. J Fr Ophthalmol 1997;20:
+271–6.
+68. Markowitz SN, Al-Karmi R. Rehabilitation with image relocation for age related macular degeneration. Paper presented
+at: Vision 2005, 8th International Conference on Low Vision
+Rehabilitation; April 2–5, 2005; London, UK.
+69. Nilsson UL, Frennesson C, Nilsson SE. Patients with AMD
+and a large absolute central scotoma can be trained successfully to use eccentric viewing, as demonstrated in a scanning
+laser ophthalmoscope. Vision Res 2003;43:1777–87.
+70. Brown B, Garner LF. Effects of luminance on contrast sensitivity in senile macular degeneration. Am J Optom Physiol
+Opt 1983;60:788–93.
+71. Eperjesi F, Fowler CW, Evans BJW. Do tinted lenses or filters
+improve visual performance in low vision? A review of the literature. Ophthalmic Physiol Opt 2002;22:68–77.
+72. Hoeft WW, Hughes MK. A comparative study of low vision
+patients: their ocular disease and preference for one specific
+series of light transmissions filters. Am J Optom Physiol Opt
+1981;58:841–5.
+73. Maino JH, McMahon TT. NoIRs and low vision. J Am
+Optom Assoc 1986;57:532–5.
+74. Legge GE, Rubin GS, Pelli DG, Schleske MM. Psychophysics
+of reading. II. Low vision. Vision Res 1985;25:253–66.
+75. Lovie-Kitchin JE, Whittaker SG. Prescribing near magnification for low vision patients. Clin Exp Optom 1999;82:
+214–24.
+76. Bailey IL, Bullimore MA, Greer RX. Low vision magnifiers:
+their optical parameters and methods for prescribing. Optom
+Vis Sci 1994;71:689–98.
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+311
+
+
+[page 24]
+Principles of modern low vision rehabilitation—Markowitz
+
+77. Greene HA, Beadles R, Pekar J. Challenges in applying autofocus technology to low vision telescopes. Optom Vis Sci
+1992;69:25–31.
+78. Lowe JB, Rubinstein MP. Distance telescopes: a survey of user
+success. Optom Vis Sci 2000;77:260–9.
+79. Markowitz SN. The implantable intraocular telescope: a technology missing its purpose? [editorial]. Can J Ophthalmol
+2005;40:541–2.
+80. American Foundation for the Blind. Technology. Available:
+http://www.afb.org/Section.asp?SectionID=4 (accessed 2006
+Apr 14).
+81. Stelmack J, Reda D, Ahlers S, et al. Reading performance of
+geriatric patients’ post-exudative maculopathy. J Am Optom
+Assoc 1991;62:53–7.
+82. Peli E. Field expansion for homonymous hemianopia by optically induced peripheral exotropia. Optom Vis Sci 2000;77:
+453–64.
+83. Somani S, Brent MH, Markowitz SN. Visual field expansion
+in patients with retinitis pigmentosa. Can J Ophthalmol
+2006;41:27–33.
+84. Mehr EB, Quillman RD. Field “expansion” by use of binocular full-field reversed 1.3× telescopic spectacles: a case report.
+Am J Optom Physiol Opt 1979;56:446–50.
+85. University of Toronto. Adaptive Technology Resource Centre.
+Available: http://www.utoronto.ca/atrc/index.html (accessed
+2006 Apr 14).
+86. Langmann A, Linder S, Kollegger E. Low vision training for
+better usage of magnifying visual aids. Ophthalmologica 1944;
+208:92–4.
+
+312
+
+CAN J OPHTHALMOL—VOL. 41, NO. 3, 2006
+
+87. Waiss B, Cohen JM. Visual impairment and visual efficiency
+training. In: Cole RG, Rosenthal BP, eds. Remediation and
+Management of Low Vision. St. Louis, Mo: Mosby; 1996:
+59–70.
+88. Hellerstein LF. Visual rehabilitation for patients with brain
+injury. In: Scheiman M, ed. 2nd ed. Understanding and
+Managing Vision Deficits: a Guide for Occupational
+Therapists. New Jersey: Slack Inc; 2002:187–208.
+89. Seiple W, Szlyk JP, McMahon T, Pulido JS, Fishman GA. Eye
+movement training for reading in patients with age-related
+macular degeneration. Invest Ophthalmol Vis Sci 2005;46:
+2886–96.
+90. Wright V, Watson GR. Learning to Use Your Vision for
+Reading: Workbook. Lilburn, Ga: Bear Consultants; 1995.
+91. Stelmack JA, Massof RW; Stelmack TS. Is there a standard of
+care for eccentric viewing training? J Rehab Res Devel 2004;
+41:729–38.
+92. Weisser-Pike OM. The importance of writing in low vision
+rehabilitation of the older adult. Paper presented at: Vision
+2005, 8th International Conference on Low Vision
+Rehabilitation; April 2–5, 2005; London, UK.
+93. Morgan RK, Mogk LG, Markowitz SN. Low vision rehabilitation in Canada and the US: a sine qua non for all ophthalmology practices. Paper presented at: Vision 2005, 8th
+International Conference on Low Vision Rehabilitation; April
+2–5, 2005; London, UK.
+Key words: low vision rehabilitation, visual functions, functional
+vision
+

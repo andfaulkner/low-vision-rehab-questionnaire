@@ -1,0 +1,1572 @@
+[page 1]
+Clinical and Epidemiologic Research
+
+Prevalence, Risk Factors, and Impact of Myopic Macular
+Degeneration on Visual Impairment and Functioning
+Among Adults in Singapore
+Yee-Ling Wong,1–3 Charumathi Sabanayagam,1,4,5 Yang Ding,1,6 Chee-Wai Wong,1,4 Anna
+Chwee-Hong Yeo,3 Yin-Bun Cheung,4 Gemmy Cheung,1,4,5 Audrey Chia,1 Kyoko Ohno-Matsui,7
+Tien-Yin Wong,1,2,4,5 Jie Jin Wang,4 Ching-Yu Cheng,1,4,5 Quan V. Hoang,1,4 Ecosse Lamoureux,1,4
+and Seang-Mei Saw1,2,4,5
+1
+
+Singapore Eye Research Institute, Singapore National Eye Centre, Singapore
+Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+3
+R&D Vision Sciences AMERA, Essilor International, Singapore
+4
+Office of Research, Duke-NUS Medical School, Singapore
+5
+Yong Loo Lin School of Medicine, National University of Singapore and National University Health System, Singapore
+6
+School of Optometry and Ophthalmology, Wenzhou Medical College, Wenzhou, China
+7
+Department of Ophthalmology and Visual Science, Tokyo Medical and Dental University, Tokyo, Japan
+2
+
+Correspondence: Seang-Mei Saw,
+Singapore Eye Research Institute,
+The Academia, 20 College Road,
+Discovery Tower Level 6, Singapore
+169856, Singapore;
+ephssm@nus.edu.sg.
+Submitted: February 5, 2018
+Accepted: July 25, 2018
+Citation: Wong Y-L, Sabanayagam C,
+Ding Y, et al. Prevalence, risk factors,
+and impact of myopic macular degeneration on visual impairment and
+functioning among adults in Singapore. Invest Ophthalmol Vis Sci.
+2018;59:4603–4613. https://doi.org/
+10.1167/iovs.18-24032
+
+PURPOSE. To determine the prevalence, risk factors, and impact of myopic macular
+degeneration (MMD) on visual impairment and functioning among adults in Singapore.
+METHODS. A comprehensive eye examination, including subjective refraction, axial length, and
+visual acuity (VA) measurements, was performed in adults aged ‡40 years in the Singapore
+Epidemiology of Eye Diseases (SEED) study. From fundus photographs, MMD was graded
+using the International META-PM classification. Vision-specific functioning (VSF) was assessed
+with a validated visual-functioning questionnaire (VF-11) using Rasch analysis.
+RESULTS. A total of 8716 phakic subjects were included in this analysis. The mean age (6 SD)
+was 57.2 6 9.5 years (33.5% Malays, 33.2% Indians, and 33.3% Chinese). The prevalence of
+myopia (spherical equivalent [SE]  0.5 diopters [D]) and high myopia (SE  5.0 D) was
+35.7% and 6.0%, respectively. The age-standardized prevalence of MMD was 3.8% (95%
+confidence interval [CI], 3.4–4.3%). The prevalence of MMD was 7.7% among low to
+moderate myopes, and 28.7% among high myopes. The prevalence of MMD increased
+nonlinearly with SE and age. MMD was associated with older age, more myopic SE, and lower
+education. Subjects with Meta-PM categories 3 or 4 in the better-seeing eye had worse best corrected VA (b, 0.19; 95%CI, 0.16–0.23) and poorer VSF (b, 9.7; 95%CI, 17.6 to 1.8)
+than those without MMD after multivariate adjustments.
+CONCLUSIONS. Approximately 1 in 26 phakic adults in Singapore has MMD. Older age and
+myopic SE are major risk factors of MMD. Severe MMD has a substantial impact on visual
+impairment and functioning.
+Keywords: epidemiology, quality of life, vision-specific functioning, pathologic myopia
+
+yopia is a major public health problem worldwide.1–3 It
+has been estimated that nearly 23% (1406 million) and 3%
+(163 million) of the world population had myopia (spherical
+equivalent [SE]  0.5 diopters [D]) and high myopia (SE 
+5.0 D) in 2000.1 Individuals with high myopia are at increased
+risk of developing myopia-related blinding complications, such
+as myopic macular degeneration (MMD), posterior staphyloma,
+and retinal detachment, all of which can cause irreversible
+vision loss.1,2,4,5
+Several population studies worldwide, including in Australia,6 China and Taiwan,7–9 Japan,10 and India,11 have assessed
+the prevalence of MMD in adult populations, reporting
+estimates ranging from 0.2% in rural India to 3.1% in China.
+However, there were varying definitions of MMD in these
+previous studies.4,12 The same definition of MMD by Curtin13
+
+M
+
+that included posterior staphyloma was used by the Blue
+Mountains Eye Study (N ¼ 3583),6 the Beijing Eye Study (N ¼
+4319),7 and the Handan Eye Study (N ¼ 6603).8 In contrast, a
+slightly different definition of MMD that did not account for
+posterior staphyloma was adopted by the Shihpai Eye Study (N
+¼ 1058)9 and the Hisayama Study (N ¼ 1892).10 Recently, the
+International Photographic Classification and Grading System
+for Myopic Maculopathy (META-PM) classification was proposed. Among these population-based studies, only the Central
+India Eye and Medical Study conducted in rural India (N ¼
+4561)11 employed the International META-PM classification.14
+Therefore, the use of inconsistent definitions of MMD has led to
+limited comparability of findings, highlighting the need to use a
+standardized international definition of MMD.4,12 Most studies
+
+Copyright 2018 The Authors
+iovs.arvojournals.org j ISSN: 1552-5783
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+4603
+
+
+[page 2]
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+were also conducted in ethnically homogenous populations,
+and interethnic comparisons of MMD were limited.
+MMD can result in irreversible loss of central vision and is
+one of the leading causes of blindness in countries worldwide.15–18 Ranked as a more important cause of visual
+impairment (VI) in Asian populations (second to third) than
+in Western populations (third to ninth), the burden of VI due
+to MMD appears to be greater in Asian countries.4 However,
+studies on the impact of MMD on VI in Asia have been limited
+to Chinese18 and Japanese16 populations. MMD was also
+associated with poorer vision-specific functioning (VSF)19,20 in
+clinic-based studies,19–21 but the association may be overestimated in selective clinic samples with more severe MMD cases.
+Furthermore, the impact of MMD on VSF has yet to be assessed
+in detail in population-based studies.
+Using the International META-PM classification, we aimed to
+examine the prevalence of MMD among population-based
+samples of Chinese, Indians, and Malays living in Singapore and
+its impact on vision and VSF.
+
+METHODS
+Study Population
+The Singapore Epidemiology of Eye Diseases (SEED) study is a
+population-based study conducted in Singapore from 2004 to
+2011, comprising three major ethnic groups: Malays (recruitment conducted in 2004–2006), Indians (2007–2009), and
+Chinese (2009–2011). The study methodologies have been
+described elsewhere.22,23 In brief, an age-stratified random
+sampling frame selected 5600 Malays, 6350 Indians, and 6752
+Chinese aged 40 to 80 years from the Ministry of Home Affairs.
+Of these, 4168 Malays, 4497 Indians, and 4605 Chinese were
+eligible to participate. Persons who had moved from the
+residential address, not lived there in the past 6 months,
+deceased, or terminally ill were ineligible. A total of 3280
+Malays, 3400 Indians, and 3353 Chinese participated (response
+rates of 78.7%, 75.6%, and 72.8%, respectively; mean total
+response rate of 75.6%). Participants were slightly older than
+nonparticipants (P < 0.001), but there was no sex difference
+(P ¼ 0.68). Written informed consent was obtained from all
+participants. The study adhered to the Declaration of Helsinki,
+and ethics approval was obtained from the Singapore Eye
+Research Institute Institutional Review Board.
+
+Inclusion/Exclusion Criteria
+Subjects with the following conditions were excluded from
+this study: (1) history of cataract surgery, aphakic or
+pseudophakic, and/or self-reported refractive surgery in both
+eyes (n ¼ 765); (2) missing refraction data in both eyes (n ¼
+90); and (3) combination of cataract surgery in one eye and
+missing refraction data in the other eye (n ¼ 110). Of the 9068
+eligible participants, 352 participants had missing or ungradable fundus photographs in both eyes. A total of 8716 phakic
+subjects comprising 2926 Malays, 2890 Indians, and 2900
+Chinese were included in this study.
+
+Visual Acuity Assessment
+The monocular presenting visual acuity (PVA) was measured
+using the logarithm of the minimal angle of resolution (logMAR)
+chart (Lighthouse International, New York, NY, USA) at 4 m,
+with the participants wearing their habitual correction. If the
+largest number could not be read at 4 m, the chart was moved
+closer to the participant; then counting fingers, hand motion, or
+light perception was assessed. Subjective refraction and best corrected visual acuity (BCVA) measurements were conducted
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+IOVS j September 2018 j Vol. 59 j No. 11 j 4604
+on the same day by a trained optometrist. Blindness and VI were
+defined based on BCVA (to account for only unavoidable vision
+loss) of the better-seeing eye. In the US definition, the presence
+and severity of VI was categorized as no VI (BCVA 20/40 or
+better, logMAR  0.30), VI (BCVA worse than 20/40 but better
+than 20/200, 0.30 < logMAR < 1.00), and blindness (BCVA of
+20/200 or worse, logMAR ‡ 1.00).
+
+Refraction, Biometry Measurements, and Ocular
+Examination
+Noncycloplegic autorefraction was performed using an autorefractometer (model RK5; Canon, Inc., Ltd., Tochigiken,
+Japan). Refraction was then subjectively refined by the study
+optometrists until the BCVA was obtained. The results from
+subjective refraction were used in the analysis. SE of refractive
+error was defined as sphere plus half cylinder. Myopia was
+defined as SE  0.5 D in at least one eye. Low, moderate, and
+high myopia were defined as 3.0 D < SE  0.5 D, 5.0 D <
+SE  3.0 D, and SE  5.0 D, respectively. Axial length (AL)
+was measured using noncontact partial coherence interferometry (IOL Master V3.01; Carl Zeiss Meditec AG, Jena, Germany).
+Intraocular pressure was measured in mm Hg with a Goldmann
+applanation tonometer (Haag-Streit, Konig, Switzerland).
+
+Fundus Photography and Grading
+After cycloplegia, color fundus photographs of Early Treatment
+Diabetic Retinopathy Study (ETDRS) standard field 1 (centered
+on the optic disc) and ETDRS standard field 2 (centered on the
+fovea) were captured for each eye using standardized settings
+with a nonmydriatic retinal camera (Canon CR-DGi with 10D
+SLR back; Canon, Inc., Tokyo, Japan). Detailed fundus
+photograph grading was performed for all phakic subjects.
+The subjects were graded by one of three trained graders (YLW, YD, C-WT). The fundus photographs of both eyes were
+graded using a standardized protocol, and the graders were
+masked to the subjects’ characteristics. Adjudication was
+performed by a retinal specialist (C-WW). Gradings of
+pathologic lesions by the retinal specialist (C-WW) and three
+trained graders were compared; the j statistics showed high
+intergrader agreement (diagnosis of Meta-PM categories were
+0.94 [C-WW, Y-LW] and 0.94 [C-WW, YD], and 0.88 [C-WW, CWT]). Intergrader reliability was also high (j coefficient of 0.88
+[Y-LW, YD], 0.94 [Y-LW, C-WT], and 0.94 [YD, C-WT]).
+
+Definition of MMD
+Based on the International META-PM classification,14 the
+presence of MMD was defined and classified into the following
+categories: no macular lesions (category 0); tessellated fundus
+only (category 1); diffuse chorioretinal atrophy (category 2);
+patchy chorioretinal atrophy (category 3); and macular atrophy
+(category 4). ‘‘Plus’’ lesions, which supplemented the Meta-PM
+categories, comprised lacquer cracks, choroidal neovascularization (CNV), and Fuchs spot. Based on fundus photograph
+grading, an eye was considered to have MMD if Meta-PM
+category 2, 3, 4, or any ‘‘plus’’ lesion, was observed.24 The
+presence of optic disc abnormalities (optic disc tilt, peripapillary atrophy [PPA], and peripapillary intrachoroidal cavitation
+[ICC]) was also graded, although they are not part of the METAPM classification. Optic disc tilt was defined by an oval optic
+disc with a tilt ratio (minimum diameter to maximum
+diameter) of less than 0.75. PPA was defined using the
+classification by Curtin and Karlin.25 Peripapillary ICC was
+observed as an elevated, well-circumscribed, dome-shaped,
+yellow-orange lesion inferior to the optic disc along the inferior
+margin of the PPA.26
+
+
+[page 3]
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+
+Risk Factor Assessment
+Detailed questionnaires, administered by trained research staff
+through face-to-face interviews, were used to collect demographic information (age, sex, and race), socioeconomic
+characteristics (education level), general medical history, and
+lifestyle-related factors (smoker or nonsmoker) from participants in their preferred language (English or mother tongue).
+Education level was classified as primary/below education and
+secondary/above education. Body mass index was calculated as
+body weight (in kilograms) divided by body height (in meters)
+squared. Hypertension was defined as systolic blood pressure
+‡ 140 mm Hg, diastolic blood pressure ‡ 90 mm Hg,
+physician-diagnosed hypertension, or self-reported history of
+hypertension. Diabetes mellitus was defined as random glucose
+of ‡ 11.1 mM, diabetic medication use, or a physician diagnosed history of diabetes. Hyperlipidemia was defined as
+total cholesterol ‡ 6.2 mM or self-reported use of lipidlowering drugs. Cardiovascular disease was defined as history
+of previous myocardial infarction, angina, or stroke.
+
+Assessment of Vision-Specific Functioning
+The VSF scale27,28 consists of 11 questions (VF-11) about
+different aspects of vision-dependent activities to assess the
+level of difficulty in performing daily tasks involving near and
+distance vision.
+
+Statistical Analysis
+MMD grade and myopic refractive error in the worse eye were
+used in the analysis. The age-standardized prevalence rates of
+MMD were calculated by direct standardization of the study
+samples to the Singapore population, using the 2010 Singapore
+census. Associations of demographic and socioeconomic
+factors with MMD were assessed using multivariable-adjusted
+logistic regression models including covariables of age,
+ethnicity, sex, SE, and education, selected using stepwise
+backward methods. To determine optimal SE and age
+thresholds to detect individuals at risk of MMD, the sensitivity
+and specificity values were calculated for each predetermined
+cutoff. Simple practical thresholds were used.
+Rasch analysis was performed for VSF using the Andrich
+rating scale model29 with Winsteps software version 3.68
+(Chicago, IL, USA)30 to transform the raw ordinal VF-11 scores
+into interval-level measurements (in logits).31 To examine the
+impact of MMD on vision and VSF, participants with ocular
+comorbidities, including cataract, glaucoma, age-related macular degeneration, and diabetic retinopathy, were excluded from
+the following analyses. The association between MMD and
+each endpoint (BCVA and VSF score) was assessed by two
+multivariable-adjusted linear regression models. Model 1
+adjusted for age, race, sex, education, and SE. Model 2 adjusted
+further for PVA to account for uncorrected refractive errors
+and determine if the impact of MMD on each endpoint
+extended beyond the changes in refractive error in eyes with
+MMD. Additionally, MMD severity (no MMD, Meta-PM category
+2, and Meta-PM category 3 or 4) was also analyzed as an ordinal
+variable against each endpoint. Statistical software (Stata,
+version 13.1; Stata Corp LP, College Station, TX, USA) was used.
+
+RESULTS
+Of the 9068 eligible participants, 352 (3.9%) participants were
+excluded due to missing or ungradable fundus photographs in
+both eyes. A total of 8716 (96.1%) phakic subjects comprising
+2926 Malays, 2890 Indians, and 2900 Chinese were included in
+this study. The mean age (6 standard deviation [SD]) of the
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+IOVS j September 2018 j Vol. 59 j No. 11 j 4605
+participants was 57.2 6 9.5 years, and comprised 49.6% males
+and 50.4% females. Myopia was present in 3108 (35.7%)
+participants, and high myopia was present in 523 (6.0%)
+participants. Participants excluded due to missing or ungradable fundus photographs were older, more likely to be Malays,
+and to have lower education (P < 0.001), compared to the
+participants included in this study.
+The crude and age-standardized prevalence of MMD among
+phakic adults was 4.0% (95% confidence interval [CI], 3.6%–
+4.4%) and 3.8% (95%CI, 3.4%–4.3%), respectively (Table 1).
+Chinese participants had the highest age-standardized prevalence of MMD (4.6%), followed by Malays (3.7%) and Indians
+(2.3%; P < 0.001). The prevalence of MMD among persons
+with low, moderate, and high myopia was 7.0% (n ¼ 144),
+10.4% (n ¼ 56), and 28.7% (n ¼ 150), respectively. The
+prevalence of MMD increased significantly with greater myopic
+SE (P < 0.001), longer AL (P < 0.001), and older age (P <
+0.001). Meta-PM category 2 (diffuse chorioretinal atrophy),
+Meta-PM category 3 (patchy chorioretinal atrophy), and MetaPM category 4 (macular atrophy) were present in 3.8%, 0.1%,
+and 0.05% participants, respectively. Among 350 participants
+with MMD, the occurrence of ‘‘plus’’ lesions was rare, present
+in only 23 (6.6%) participants. Lacquer cracks, Fuchs spot, and
+CNV were found in 22 (6.3%), 1 (0.3%), and 0 (0.0%)
+participants, respectively. Of the 23 participants with ‘‘plus’’
+lesions, 18 (78.2%) had high myopia (SE  –5.0 D) and 15
+(65.2%) had severe myopia (SE  –8.0 D).
+
+Risk Factors of MMD
+The prevalence of MMD increased in a nonlinear pattern with
+increasing age, SE, and AL (Fig. 1). Each curve was obtained
+using the logistic function, and there were no evident natural
+thresholds seen. Specifically, a gradual nonlinear increase in
+prevalence of MMD with older age was observed (Fig. 1A), and
+the prevalence of MMD increased gradually at lower myopic SE
+and shorter AL levels and plateaued at higher myopic SE and
+longer AL levels (S-shaped trend; Figs. 1B, 1C). Among the 350
+participants with MMD, 41.1% had low myopia (3.0 D < SE 
+0.5 D), 16.0% had moderate myopia (5.0 D < SE  3.0 D),
+and 42.9% had high myopia (SE  5.0 D). Within each age
+group, there was an increasing trend in prevalence of MMD
+with higher myopia severity (Fig. 2). Similarly, the prevalence
+of MMD increased with age within each myopia category. In
+participants with no, low, moderate, and high myopia, the
+prevalence of MMD was higher among those aged ‡ 70 years
+(0.0%, 31.1%, 47.7%, and 65.0%, respectively) than in those
+aged <70 years (0.0%, 3.5%, 7.1%, and 25.7%, respectively).
+To determine optimal SE and age cutoff points for detection
+of MMD in the population, different predetermined cutoff
+points of SE (1.0, 3.0, and 5.0) and of age (‡50, ‡60,
+and ‡70 years) were compared. For various SE cutoff points,
+the corresponding sensitivity and specificity values were 87.7%
+and 26.6% at 1.0 D, 58.7% and 68.9% at 3.0 D, and 42.7% and
+86.5% at 5.0 D. As the SE cutoffs became more myopic,
+sensitivity dropped and specificity increased. There was no
+optimal cutoff for SE. For various age cutoff points, the
+corresponding sensitivity and specificity values were 94.9%
+and 17.8% at 50 years, 73.4% and 56.6% at 60 years, and 43.7%
+and 84.3% at 70 years. With increasingly older age cutoffs,
+sensitivity decreased and specificity increased, but with no
+optimal age cutoff.
+After adjusting for age, ethnicity, sex, SE, and education
+(Table 2), the odds of MMD increased significantly with older
+age, more myopic SE, and primary/below education. After
+adjusting for age, ethnicity, sex, and education but not SE, the
+odds of MMD increased with longer AL (odds ratio [OR] of 3.6/
+mm; 95%CI, 3.2–4.0, P < 0.001). Intraocular pressure, body
+
+
+[page 4]
+IOVS j September 2018 j Vol. 59 j No. 11 j 4606
+
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+
+TABLE 1. Prevalence of Any Myopic Macular Degeneration (MMD), Meta-PM Categories, Bilateral MMD, and Unilateral MMD in Adults Aged 40 to 80
+Years in the Singapore Epidemiology of Eye Diseases (SEED) Study Stratified by Age, Racial Groups, Sex, Myopia, and Axial Length Levels (N ¼ 8716)
+Any MMD
+Meta-PM
+Category
+2, n ¼ 334
+
+Any MMD,
+n ¼ 350
+Factor
+Crude rate
+Age-standardized rate (95%CI)*
+Age group, y
+40–49
+50–59
+60–69
+70þ
+P value for trend
+Race
+Chinese
+Crude rate
+Standardized rate (95%CI)*
+Malay
+Crude rate
+Standardized rate (95%CI)*
+Indian
+Crude rate
+Standardized rate (95%CI)*
+P value for between-race
+comparison
+Sex
+Male
+Crude rate
+Standardized rate (95%CI)*
+Female
+Crude rate
+Standardized rate (95%CI)*
+P value for between-sex
+comparison
+Myopia levels
+No myopia, SE > 0.5 D
+Low myopia,
+3.0 D < SE  0.5 D
+Moderate myopia,
+5.0 D < SE  3.0 D
+High myopia,
+8.0 D < SE  5.0 D
+Severe myopia,
+SE  8.0 D
+P value for trend
+Axial length, mm
+<26.5 mm
+‡26.50 mm
+P value
+
+Any MMD
+Meta-PM
+Category
+3 or 4, n ¼ 16
+
+Bilateral
+MMD,
+n ¼ 237
+
+Unilateral
+MMD,
+n ¼ 113
+
+n
+
+% (95%CI)
+
+N
+
+% (95%CI)
+
+n
+
+% (95%CI)
+
+n
+
+% (95%CI)
+
+n
+
+% (95%CI)
+
+8716 350
+
+4.0 (3.6–4.4)
+3.8 (3.4–4.3)
+
+334
+
+3.8 (3.4–4.2)
+3.6 (3.3–4.1)
+
+16
+
+0.2 (0.1–0.3) 237
+0.2 (0.1–0.3)
+
+2.7 (2.4–3.1)
+2.6 (2.3–3.0)
+
+113
+
+1.3 (1.1–1.5)
+1.2 (1.0–1.5)
+
+2437 35
+1.4 (0.9–1.9)
+29
+3016 80
+2.7 (2.1–3.2)
+77
+2195 106
+4.8 (3.9–5.7)
+103
+1068 129 12.1 (10.1–14.0) 125
+<0.001
+
+1.2 (0.8–1.6)
+2.6 (2.0–3.1)
+4.7 (3.8–5.6)
+11.7 (9.8–13.6)
+<0.001
+
+6
+3
+3
+4
+
+0.2 (0.0–0.4) 16
+0.1 (0.0–0.2) 41
+0.1 (0.0–0.3) 74
+0.4 (0.0–0.7) 106
+0.70
+
+0.7 (0.3–1.0)
+1.4 (0.9–1.8)
+3.4 (2.6–4.1)
+9.9 (8.1–11.7)
+<0.001
+
+19
+39
+32
+23
+
+0.8 (0.4–1.1)
+1.3 (0.9–1.7)
+1.5 (1.0–2.0)
+2.2 (1.3–3.0)
+0.001
+
+2900 140
+
+4.8 (4.0–5.6)
+4.6 (3.9–5.5)
+
+134
+
+4.6 (3.9–5.4)
+4.4 (3.7–5.3)
+
+6
+
+0.2 (0.0–0.4)
+0.2 (0.0–0.5)
+
+89
+
+3.1 (2.4–3.7)
+3.0 (2.4–3.7)
+
+51
+
+1.8 (1.3–2.2)
+1.7 (1.2–2.2)
+
+2926 143
+
+4.9 (4.1–5.7)
+3.7 (3.1–4.5)
+
+135
+
+4.6 (3.9–5.4)
+3.4 (2.9–4.1)
+
+8
+
+0.3 (0.1–0.5) 102
+0.3 (0.1–0.6)
+
+3.5 (2.8–4.2)
+2.5 (2.0–3.1)
+
+41
+
+1.4 (1.0–1.8)
+1.2 (0.9–1.7)
+
+2890
+
+67
+
+2.3 (1.8–2.9)
+2.3 (1.7–3.0)
+<0.001
+
+65
+
+2.2 (1.7–2.8)
+2.2 (1.7–2.9)
+<0.001
+
+2
+
+0.1 (0.0–0.2)
+0.0 (0.0–0.0)
+0.16
+
+46
+
+1.6 (1.1–2.0)
+1.5 (1.1–2.1)
+<0.001
+
+21
+
+0.7 (0.4–1.0)
+0.8 (0.4–1.2)
+0.002
+
+4323 177
+
+4.1 (3.5–4.7)
+3.5 (3.0–4.1)
+
+171
+
+4.0 (3.4–4.5)
+3.4 (2.9–3.9)
+
+6
+
+0.1 (0.0–0.2) 120
+0.1 (0.1–0.3)
+
+2.8 (2.3–3.3)
+2.3 (1.9–2.8)
+
+57
+
+1.3 (1.0–1.7)
+1.2 (0.9–1.6)
+
+4393 173
+
+3.9 (3.3–4.5)
+4.1 (3.5–4.8)
+0.71
+
+163
+
+3.7 (3.2–4.3)
+3.9 (3.3–4.6)
+0.55
+
+10
+
+0.2 (0.1–0.4) 117
+0.2 (0.1–0.5)
+0.45
+
+2.7 (2.2–3.1)
+2.9 (2.4–3.5)
+0.68
+
+56
+
+1.3 (0.9–1.6)
+1.2 (0.9–1.6)
+0.86
+
+5608
+0
+2045 144
+
+0.0 (0.0–0.0)
+7.0 (5.9–8.2)
+
+0
+144
+
+0.0 (0.0–0.0)
+7.0 (5.9–8.2)
+
+0
+0
+
+0.0 (0.0–0.0)
+0
+0.0 (0.0–0.0) 106
+
+0.0 (0.0–0.0)
+5.2 (4.2–6.1)
+
+0
+38
+
+0.0 (0.0–0.0)
+1.9 (1.3–2.4)
+
+540
+
+56
+
+10.4 (7.8–12.9)
+
+54
+
+10.0 (7.5–12.5)
+
+2
+
+0.4 (0.0–0.9)
+
+41
+
+7.6 (5.3–9.8)
+
+15
+
+2.8 (1.4–4.2)
+
+356
+
+61 17.1 (13.2–21.1)
+
+57 16.0 (12.2–19.8)
+
+4
+
+1.1 (0.0–2.2)
+
+41
+
+11.5 (8.2–14.9)
+
+20
+
+5.6 (3.2–8.0)
+
+167
+
+89 53.3 (45.6–60.9)
+
+79 47.3 (39.7–55.0) 10
+
+6.0 (2.4–9.6)
+
+49 29.3 (22.4–36.3)
+
+<0.001
+
+<0.001
+
+N
+
+<0.001
+
+8217 219
+2.7 (2.3–3.0)
+217
+2.6 (2.3–3.0)
+280 110 39.3 (33.5–45.0) 101 36.1 (30.4–41.7)
+<0.001
+<0.001
+
+2
+9
+
+<0.001
+
+0.0 (0.0–0.5) 159
+1.9 (1.6–2.2)
+3.2 (1.1–5.3) 65 23.2 (18.2–28.1)
+<0.001
+<0.001
+
+40 24.0 (17.4–30.5)
+<0.001
+60
+0.7 (0.5–0.9)
+45 16.1 (11.7–20.4)
+<0.001
+
+* Age-standardized rate (95%CI) compared with the 2010 Singapore population by direct standardization.
+
+mass index, smoking, hypertension, diabetes, hyperlipidemia,
+and cardiovascular disease were not associated with MMD.
+
+Disc Lesions Associated With MMD
+Figure 3 shows the fundus photographs of eyes with various
+Meta-PM categories and associated disc lesions. The prevalence
+of optic disc tilt, PPA, and peripapillary ICC was 12.5%, 79.6%,
+and 0.1%, respectively, and the corresponding prevalence rates
+were 19.3%, 88.2%, and 0.4% among participants with myopia
+(N ¼ 3108) and 61.5%, 96.2%, and 1.7% among participants
+with high myopia (N ¼ 523). The prevalence of MMD was
+significantly higher among eyes with optic disc lesions than
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+eyes without these lesions (all P values < 0.001; Fig. 4), and
+this association remained statistically significant in subgroups
+with low and moderate myopia (N ¼ 2582) and with high
+myopia (N ¼ 523). Among participants with MMD (N ¼ 405),
+the prevalence of optic disc tilt, PPA, and peripapillary ICC was
+43.1%, 100.0%, and 2.6%, respectively.
+
+Impact of MMD
+In the whole study population (N ¼ 8716), there were 16
+subjects with both MMD and bilateral VI or blindness. After
+excluding 3624 participants with ocular comorbidities, 5092
+participants without ocular comorbidities were included for
+
+
+[page 5]
+IOVS j September 2018 j Vol. 59 j No. 11 j 4607
+
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+
+FIGURE 2. Prevalence of any myopic macular degeneration (MMD) in
+adults aged 40 to 80 years in the Singapore Epidemiology of Eye
+Diseases (SEED) study stratified by age group and myopia level (N ¼
+8716).
+
+FIGURE 1. Prevalence of any myopic macular degeneration (MMD) in
+adults aged 40 to 80 years in the Singapore Epidemiology of Eye
+Diseases (SEED) study with age, spherical equivalent, and axial length
+(N ¼ 8716). For each graph (A–C), the size of the data points
+(represented by circles) is proportional to the sample size of the
+particular group.
+
+the following analyses. Of the 5092 participants, 119 (2.3%)
+were identified as having MMD, of whom 26 (21.8%) had
+blindness or VI in at least one eye, and 93 (78.2%) had normal
+vision in both eyes, based on the US definition (Fig. 5). Among
+the 26 participants with blindness or VI in at least one eye, 23
+had high myopia and the remaining 3 participants had low or
+moderate myopia.
+The presence of any MMD was associated with poorer
+BCVA, but the presence of MMD in general was not
+significantly associated with poorer VSF, compared to persons
+without MMD (Table 3). The mean BCVA of the better-seeing
+eye of participants with MMD was significantly worse (0.11;
+95%CI, 0.1–0.12) than that of participants without MMD
+(0.016; 95%CI, 0.015–0.016; P < 0.001), after multivariate
+adjustments with PVA in model 2. Additionally, the mean BCVA
+of the better-seeing eye of participants with Meta-PM
+categories 3 or 4 was significantly worse (0.33; 95%CI, 0.30–
+0.36) than that of participants with Meta-PM category 2 (0.10;
+95%CI, 0.09–0.11; P < 0.001). The presence of Meta-PM
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+categories 3 or 4 in the better-seeing eye was found to be
+significantly associated with worse BCVA (P < 0.001) and
+poorer VSF (P ¼ 0.02) compared to individuals with no MMD in
+the better-seeing eye. An independent association with MetaPM categories 3 or 4 in the better-seeing eye was observed for
+3 of 11 items in the VF-11, after multivariable adjustments in
+both models 1 and 2. In model 2, the presence of Meta-PM
+categories 3 or 4 had the largest effect on difficulty in playing
+games (b coefficient of 20.2; 95%CI, 39.6 to 0.8, P ¼ 0.04),
+followed by difficulty in recognizing friends (b coefficient of
+14.6; 95%CI, 22.2 to 7.0, P < 0.001), and difficulty in
+seeing stairs (b coefficient of 7.6; 95%CI, 14.7 to 0.4, P ¼
+0.03).
+
+DISCUSSION
+The age-standardized prevalence of MMD was 3.8% in a phakic
+adult population in Singapore, and was higher in those of older
+age, higher myopic SE, and lower education level. There was a
+dose–response relationship between MMD and SE, and MMD
+was present even in low and moderate myopes. The
+detrimental impact of advanced grades of MMD on VI and
+VSF presents a potential public health issue.
+
+Prevalence of MMD
+The prevalence of MMD among adults in Singapore (3.8%) is
+one of the highest to be reported in recent studies, that is, the
+Beijing Eye Study (3.1%, N ¼ 4319; aged ‡ 40 years), Handan
+Eye Study (0.9%, N ¼ 6603; aged ‡ 30 years), Hisayama Eye
+Study in Japan (1.7%, N ¼ 1892; aged ‡ 40 years), Central India
+Eye and Medical study in Rural India (0.2%, N ¼ 4561; aged ‡
+30 years), Blue Mountains Eye Study in Australia (1.2%, N ¼
+3583; aged ‡ 49 years), and Shihpai Eye Study in Taiwan (3.0%,
+N ¼ 1058, aged ‡ 65 years).6–8,10,11 Our high prevalence of
+MMD could be related to the higher prevalence rates of myopia
+
+
+[page 6]
+IOVS j September 2018 j Vol. 59 j No. 11 j 4608
+
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+
+TABLE 2. Univariate and Multivariate Analyses of Risk factors for Any Myopic Macular Degeneration (MMD) Among Adults Aged 40 to 80 Years in
+the Singapore Epidemiology of Eye Diseases (SEED) Study (N ¼ 8716)
+Any MMD
+
+Risk Factor
+Age group, y
+40–49
+50–59
+60–69
+70þ
+P value for trend
+Race
+Indian
+Non-Indian
+Sex
+Male
+Female
+Spherical equivalent, D
+Education level
+Secondary/above education
+Primary/below education
+
+Multivariate-Adjusted
+OR† (95%CI)
+
+N
+
+n
+
+Unadjusted OR* (95%CI)
+
+P Value
+
+P Value
+
+2437
+3016
+2195
+1068
+
+35
+80
+106
+129
+
+1.0 (reference)
+1.9 (1.3–2.8)
+3.5 (2.4–5.1)
+9.4 (6.4–13.8)
+<0.001
+
+–
+0.002
+<0.001
+<0.001
+
+1.0 (reference)
+4.9 (2.9–8.3)
+16.4 (9.5–28.4)
+58.2 (32.8–103.4)
+<0.001
+
+–
+<0.001
+<0.001
+<0.001
+
+2890
+5826
+
+67
+283
+
+1.0 (reference)
+2.2 (1.6–2.8)
+
+–
+<0.001
+
+1.0 (reference)
+1.3 (1.0–1.8)
+
+–
+0.10
+
+4323
+4393
+8716
+
+177
+173
+350
+
+1.0 (reference)
+1.0 (0.8–1.2)
+1.5 (1.5–1.6)
+
+–
+0.71
+<0.001
+
+1.0 (reference)
+1.0 (0.8–1.3)
+1.8 (1.7–1.9)
+
+–
+0.96
+<0.001
+
+3689
+5027
+
+130
+220
+
+1.0 (reference)
+1.3 (1.0–1.6)
+
+–
+0.04
+
+1.0 (reference)
+1.7 (1.3–2.4)
+
+–
+<0.001
+
+* Univariate analysis.
+† Multivariate analysis, adjusted for age, race, sex, spherical equivalent, and education level.
+
+and high myopia (35.7% and 6.0%, respectively), compared to
+that in the Blue Mountains Eye Study (16.8% and 2.7%,
+respectively) and Handan Eye Study (26.6% and 2.1%,
+respectively).6,8 However, the differences between prevalence
+rates among populations may also be due to varying definitions
+of MMD adopted, and different age compositions in each study
+population.32
+
+Risk Factors of MMD
+The age-related trend with MMD is well established in previous
+studies and is consistent with our findings, which places MMD
+as another important age-related eye disease.7,8,10 The MMD
+lesions are primarily degenerative and worsen with age.12,33
+The age-related association with MMD may denote an
+
+FIGURE 3. Fundus photographs of eyes with myopic macular degeneration (MMD) Meta-PM categories and associated disc lesions. Top row (A1–
+A3) shows the photographs of eyes with Meta-PM category 2 (diffuse chorioretinal atrophy). Middle row (B1–B3) shows the photographs of eyes
+with Meta-PM category 3 (patchy chorioretinal atrophy). Bottom row (C1–C3) shows the photographs of eyes with Meta-PM Category 4 (myopic
+macular atrophy). Peripapillary atrophy was present in all eyes. (A2, C1, C2) show eyes with optic disc tilt. (A3) shows an eye with peripapillary
+intrachoroidal cavitation and lacquer crack.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+
+[page 7]
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+
+IOVS j September 2018 j Vol. 59 j No. 11 j 4609
+
+FIGURE 4. Prevalence of any myopic macular degeneration (MMD) among participants with and without disc lesions in adults aged 40 to 80 years in
+the Singapore Epidemiology of Eye Diseases (SEED) study (N ¼ 8716).
+
+association between the duration of myopia and MMD. The
+relatively high prevalence of MMD in subjects with low myopia
+suggests that age may be a surrogate for duration of myopia in
+an individual.
+A higher risk of MMD was associated with greater myopic
+SE among adults in other studies.6–10 Similarly, our findings
+indicate that individuals with severe myopia levels have a high
+risk of MMD development, but MMD can develop in individuals
+with low and moderate myopia as well. The prevalence of
+MMD increased with severity of myopia in a dose–response
+pattern, which is similar to the results from the Handan Eye
+Study.8
+
+The prevalence of MMD was highest in Chinese compared
+to Malays and Indians in Singapore, which may be due to the
+higher prevalence of high myopia in Chinese (9.7%) compared
+to Malays (4.1%), and Indians (4.3%). Given a certain SE
+distribution after adjustments in the multivariate regression
+model, the risk of MMD was not significantly different in
+Indians compared to Chinese and Malays. Further investigations on the ethnic differences in prevalence of MMD are
+warranted.
+Previous studies found no association between MMD and
+education,7–9,11 but we found one with lower education level.
+Low socioeconomic status and education levels were related to
+other age-related eye diseases, such as cataract and age-related
+
+FIGURE 5. Proportion of participants with visual impairment and blindness in adults with both myopic macular degeneration (MMD) and absence
+of ocular comorbidities (N ¼ 119) using best-corrected visual acuity following US definition. In the US definition, the presence and severity of visual
+impairment was categorized into normal vision (BCVA 20/40 or better, logMAR  0.30), visual impairment (BCVA worse than 20/40 but better than
+20/200, 0.30 < logMAR < 1.00), and blindness (BCVA of 20/200 or worse, logMAR ‡ 1.00).
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+
+[page 8]
+N
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+–
+<0.001
+–
+<0.001
+–
+<0.001
+<0.001
+–
+<0.001
+<0.001
+
+Reference
+0.14 (0.10–0.17)
+Reference
+0.04 (0.03–0.05)
+0.23 (0.19–0.27)
+Reference
+0.12 (0.08–0.16)
+0.40 (0.27–0.52)
+
+P
+Value
+
+Reference
+0.06 (0.04–0.07)
+
+b Coefficient
+(95%CI)
+
+Reference
+0.02 (0.05 to 0.01)
+0.13 (0.03 to 0.22)
+
+Reference
+0.03 (0.02 to 0.04)
+0.19 (0.16 to 0.23)
+
+Reference
+0.01 (0.04 to 0.02)
+
+Reference
+0.04 (0.03 to 0.06)
+
+b Coefficient
+(95%CI)
+
+Model 2
+
+–
+0.17
+0.008
+
+–
+<0.001
+<0.001
+
+–
+0.43
+
+–
+<0.001
+
+P
+Value
+
+Reference
+2.28 (4.73 to 0.17)
+1.67 (9.49 to 6.16)
+
+Reference
+1.34 (4.08 to 1.40)
+13.64 (21.68 to 5.61)
+
+Reference
+2.24 (4.63 to 0.15)
+
+Reference
+1.80 (4.39 to 0.80)
+
+b Coefficient
+(95%CI)
+
+Model 1
+
+–
+0.07
+0.68
+
+–
+0.34
+0.001
+
+–
+0.07
+
+–
+0.18
+
+P
+Value
+
+Reference
+0.49 (2.94 to 1.97)
+2.36 (5.43 to 10.16)
+
+Reference
+0.56 (3.26 to 2.14)
+9.71 (17.64 to 1.79)
+
+Reference
+0.30 (2.70 to 2.10)
+
+Reference
+0.96 (3.52 to 1.61)
+
+b Coefficient
+(95%CI)
+
+Model 2
+
+Vision-Specific Functioning Score
+
+–
+0.70
+0.55
+
+–
+0.69
+0.02
+
+–
+0.81
+
+–
+0.46
+
+P
+Value
+
+Ocular comorbidities include cataract, glaucoma, age-related macular degeneration, and diabetic retinopathy. Model 1 adjusted for age, race, sex, education, and spherical equivalent (SE). Model 2
+adjusted for age, race, sex, education, SE, and presenting visual acuity in the better or worse eye accordingly. A high BCVA (logMAR) indicates poorer visual acuity, and a low BCVA better acuity. A high
+vision-specific functioning score indicates a high level of visual functioning, and a low score a low level of functioning.
+
+MMD in the better-seeing eye
+No MMD
+5008
+MMD
+84
+MMD in the worse-seeing eye
+No MMD
+4986
+MMD
+106
+Severity of MMD in the better-seeing eye
+No MMD
+5008
+Meta-PM category 2
+76
+Meta-PM category 3 and 4
+8
+Severity of MMD in the worse-seeing eye
+No MMD
+4986
+Meta-PM category 2
+98
+Meta-PM category 3 and 4
+8
+
+Variable
+
+Model 1
+
+BCVA, logMAR
+
+TABLE 3. Differences in Best-Corrected Visual Acuity and Vision-Specific Functioning Scores From the Modified VF-11 Questionnaire With Myopic Macular Degeneration (MMD) and Corresponding
+Meta-PM Categories in Adults Without Ocular Comorbidities Aged 40 to 80 Years in the Singapore Epidemiology of Eye Diseases (SEED) Study (N ¼ 5092) Using Linear Regression Models
+
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+IOVS j September 2018 j Vol. 59 j No. 11 j 4610
+
+
+[page 9]
+IOVS j September 2018 j Vol. 59 j No. 11 j 4611
+
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+macular degeneration34,35; thus low education level may act as
+a proxy for low socioeconomic status, rather than an indicator
+of the amount of near work. This is in contrast to the link
+between myopia and higher education level (a surrogate of
+cumulative near work), implying that MMD may not be linked
+to near work.24 The mechanism underlying the association
+between socioeconomic status and MMD remains unknown, as
+it may reflect a wide variety of lifestyle differences or general
+health status. There may be a possibility of an interaction
+among socioeconomic status, general health status, and MMD.
+Although the stratified analyses showed that the association of
+education level (proxy for socioeconomic status) with MMD
+was unlikely to be affected by general health outcomes or
+lifestyle habits, for instance, smoking, there may be other
+unknown factors, and further studies are needed.
+We found no clear optimal age and SE thresholds for
+detecting MMD. Although there are currently no effective
+treatments available for the atrophic component of MMD,
+efficient and safe algorithms to detect and refer suspected
+cases of MMD to a tertiary eye care center may facilitate early
+detection of other myopia-related complications, such as
+myopic CNV and myopic traction maculopathy (such as
+macular hole and foveoschisis), for monitoring, treatment,
+surgical management, and visual rehabilitation to improve
+visual functioning.36,37 Currently, an optimal cutoff point for
+detection of MMD has not been established, and further studies
+are recommended.
+
+Disc Lesions Associated With MMD
+The prevalence of PPA was only slightly lower in myopic
+adolescents aged 12 to 16 years in Singapore (76.1%; N ¼ 850)
+compared to our findings (88.2%).38 This suggests that disc
+lesions occur early during childhood or adolescence, compared to MMD atrophic lesions that tend to develop later in
+adulthood. Similar to our findings, PPA was detected in
+majority of the eyes with MMD in the Blue Mountains Eye
+Study, Beijing Eye Study, and Central India Eye and Medical
+Study.6,7,11 Approximately two in five participants with MMD
+in our study had disc tilt, which is a less common disc lesion
+compared to PPA. In our population-based study, the prevalence of peripapillary ICC was low among eyes with MMD.
+Peripapillary ICC was present in 4.9% of patients with high
+myopia in a case series from a Japanese High Myopia Clinic (N
+¼ 324, 632 eyes), but the prevalence of peripapillary ICC
+among eyes with MMD was not reported.26
+
+Impact of MMD
+The detrimental impact of MMD on vision was also observed
+in previous population-based studies, as the proportion of
+those with VI or blindness due to MMD ranged from 18% to
+39%.6–8 Morphologic changes in the posterior region of the
+eye, such as diffuse and localized chorioretinal atrophic
+lesions that are often associated with choroidal thinning, may
+have resulted in loss of central vision.39 In our findings, a
+higher magnitude of vision deterioration was detected in eyes
+with severe MMD (Meta-PM categories 3 or 4), which may
+have implications for an individual’s VSF that is influenced by
+the function of the better-seeing eye. Visual rehabilitation
+becomes a priority for those with advanced MMD stages
+experiencing poorer VSF, but of the study population, this
+group of individuals formed a very small proportion only.40,41
+In addition, the impact of advanced MMD grades on VSF may
+not be due to changes in VA alone, as VSF may be influenced
+by other factors, such as peripheral vision, contrast sensitivity, depth perception, and glare.42
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+Strengths
+The strengths of this study include the large population-based
+sample with racial diversity (Malay, Indian, and Chinese ethnic
+origins), reasonable response rates (75%), and standardized
+methodology for data collection, refraction, ocular biometry
+assessment, fundus photography, and MMD grading. Lastly,
+Rasch analysis was used to validate the VF-11 questionnaire in
+the SEED population and to provide interval-level scoring for
+VSF.
+
+Limitations
+Our study has several limitations. Respondents could differ
+from nonrespondents, resulting in potential selection bias. The
+exclusion of subjects with previous cataract and cataract
+surgery may result in an underestimation of the prevalence of
+MMD in our population, as we may have excluded a greater
+proportion of myopic participants with past cataract surgery
+who have MMD. This is because individuals with myopia have
+increased risks of cataract (OR of 2.8, 95%CI, 1.9–4.1)43 and
+cataract surgery (OR of 2.1, 95%CI, 1.1–4.2).44 Furthermore,
+the risks of cataract and cataract surgery increase with more
+severe myopia levels.44,45 However, previous prevalence
+studies on MMD also excluded subjects with history of cataract
+surgery7,10 to reflect the true relationship between MMD and
+SE among phakic participants without cataract surgery.
+Posterior staphyloma is included in the definition of pathologic
+myopia, but such anatomic abnormalities were not investigated
+as optical coherence tomography images were not available in
+7002 (80.3%) participants in this study. Therefore, the
+detection of other myopia-related complications, for instance,
+macular hole and macular schisis, was not possible. Subtle
+lacquer cracks might be missed in fundus photographs without
+the use of fluorescein angiography or indocyanine green
+angiography. Lens-induced myopia shifts due to cataracts may
+result in overestimation of negative SE values. The stratified
+analyses showed that the risk of MMD increased with SE in
+participants with cataract (OR of 1.6 per 1 D; 95%CI, 1.5–1.7),
+and this association was also present in participants without
+cataract (OR of 1.9 per 1 D; 95%CI, 1.8–2.1). As AL is not
+affected by cataract, the high correlation between SE and AL (r
+¼ 0.73) suggests that the effect of cataract-induced myopia
+shifts on the association between SE and MMD is not large, if
+present. Other risk factors of MMD, such as choroidal thickness
+and family history of myopia, were not available in all adults.
+Also, visual field data were not collected for all participants. In
+addition, due to the cross-sectional design of our study, the
+temporality of associations cannot be established and thus
+inference of causal relationships of MMD is limited.
+
+CONCLUSIONS
+In conclusion, the age-standardized prevalence of MMD among
+phakic adults in Singapore was one of the highest worldwide at
+3.8%, and ranged between 2.3% and 4.6% across Chinese,
+Malays, and Indians. Contrary to the association between
+myopia and higher education level, MMD was associated with
+lower education level, which may act as a proxy for low
+socioeconomic status rather than an indicator of near work.
+The risk of MMD is present not only in high myopes, but in low
+and moderate myopes as well, especially in older age. These
+findings suggest that closer monitoring of those with advanced
+grades of MMD is crucial for appropriate management and for
+instituting timely visual rehabilitation.46 Finally, the higher
+prevalence of MMD among individuals with more severe
+myopia levels highlights an urgent need for preventive myopia
+control strategies in early life to delay the onset and
+
+
+[page 10]
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+progression of myopia,47,48 which in turn lowers the risk of
+myopia-related vision-threatening complications in adulthood.49,50
+
+Acknowledgments
+The authors thank Tan Chun Wei, Alfred Gan, and Eva Fenwick
+from the Singapore Eye Research Institute for their contributions
+to the manuscript.
+Supported by the National Medical Research Council (Grants
+0796/2003, IRG07nov013, IRG09nov014, STaR/0003/2008, CG/
+SERI/2010), Biomedical Research Council Grants 08/1/35/19/550,
+09/1/35/19/616, Economic Development Board-Essilor Post-Graduate Programme (S14-1103-IPP), Singapore.
+Disclosure: Y.-L. Wong, Essilor International (E); C. Sabanayagam, None; Y. Ding, None; C.-W. Wong, None; A.C.-H. Yeo,
+Essilor International (E); Y.-B. Cheung, None; G. Cheung, None;
+A. Chia, None; K. Ohno-Matsui, None; T.-Y. Wong, None; J.J.
+Wang, None; C.-Y. Cheng, None; Q.V. Hoang, None; E.
+Lamoureux, None; S.-M. Saw, None
+
+References
+1. Holden BA, Fricke TR, Wilson DA, et al. Global prevalence of
+myopia and high myopia and temporal trends from 2000
+through 2050. Ophthalmology. 2016;123:1036–1042.
+2. Holden BA, Jong M, Davis S, Wilson D, Fricke T, Resnikoff S.
+Nearly 1 billion myopes at risk of myopia-related sight threatening conditions by 2050 - time to act now. Clin Exp
+Optom. 2015;98:491–493.
+3. Holden BA, Wilson DA, Jong M, et al. Myopia: a growing
+global problem with sight-threatening complications. Community Eye Health. 2015;28:35.
+4. Wong TY, Ferreira A, Hughes R, Carter G, Mitchell P.
+Epidemiology and disease burden of pathologic myopia and
+myopic choroidal neovascularization: an evidence-based
+systematic review. Am J Ophthalmol. 2014;157:9–25.e12.
+5. Verkicharla PK, Ohno-Matsui K, Saw SM. Current and
+predicted demographics of high myopia and an update of
+its associated pathological changes. Ophthalmic Physiol Opt.
+2015;35:465–475.
+6. Vongphanit J, Mitchell P, Wang JJ. Prevalence and progression
+of myopic retinopathy in an older population. Ophthalmology. 2002;109:704–711.
+7. Liu HH, Xu L, Wang YX, Wang S, You QS, Jonas JB. Prevalence
+and progression of myopic retinopathy in Chinese adults: the
+Beijing Eye Study. Ophthalmology. 2010;117:1763–1768.
+8. Gao LQ, Liu W, Liang YB, et al. Prevalence and characteristics
+of myopic retinopathy in a rural Chinese adult population: the
+Handan Eye Study. Arch Ophthalmol. 2011;129:1199–1204.
+9. Chen SJ, Cheng CY, Li AF, et al. Prevalence and associated risk
+factors of myopic maculopathy in elderly Chinese: the Shihpai
+eye study. Invest Ophthalmol Vis Sci. 2012;53:4868–4873.
+10. Asakuma T, Yasuda M, Ninomiya T, et al. Prevalence and risk
+factors for myopic retinopathy in a Japanese population: the
+Hisayama Study. Ophthalmology. 2012;119:1760–1765.
+11. Jonas JB, Nangia V, Gupta R, Bhojwani K, Nangia P, Panda Jonas S. Prevalence of myopic retinopathy in rural Central
+India. Acta Ophthalmol. 2017;95:399–404.
+12. Ohno-Matsui K, Lai TY, Lai CC, Cheung CM. Updates of
+pathologic myopia. Prog Retin Eye Res. 2016;52:156–187.
+13. Curtin BJ. The posterior staphyloma of pathologic myopia.
+Trans Am Ophthalmol Soc. 1977;75:67–86.
+14. Ohno-Matsui K, Kawasaki R, Jonas JB, et al. International
+photographic classification and grading system for myopic
+maculopathy. Am J Ophthalmol. 2015;159:877–883.e7.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+IOVS j September 2018 j Vol. 59 j No. 11 j 4612
+15. Iwase A, Araie M, Tomidokoro A, et al. Prevalence and causes
+of low vision and blindness in a Japanese adult population:
+the Tajimi Study. Ophthalmology. 2006;113:1354–1362.
+16. Hsu W-M, Cheng C-Y, Liu J-H, Tsai S-Y, Chou P. Prevalence and
+causes of visual impairment in an elderly Chinese population
+in Taiwan: the Shihpai Eye Study. Ophthalmology. 2004;111:
+62–69.
+17. Xu L, Wang Y, Li Y, et al. Causes of blindness and visual
+impairment in urban and rural areas in Beijing: the Beijing Eye
+Study. Ophthalmology. 2006;113:1134.
+18. Xu L, Cui T, Yang H, et al. Prevalence of visual impairment
+among adults in China: the Beijing Eye Study. Am J
+Ophthalmol. 2006;141:591–593.
+19. Takashima T, Yokoyama T, Futagami S, et al. The quality of life
+in patients with pathologic myopia. Jpn J Ophthalmol. 2001;
+45:84–92.
+20. Rose K, Harper R, Tromans C, et al. Quality of life in myopia.
+Br J Ophthalmol. 2000;84:1031–1034.
+21. Yokoi T, Moriyama M, Hayashi K, et al. Predictive factors for
+comorbid psychiatric disorders and their impact on vision related quality of life in patients with high myopia. Int
+Ophthalmol. 2014;34:171–183.
+22. Foong AW, Saw S-M, Loo J-L, et al. Rationale and methodology
+for a population-based study of eye diseases in Malay people:
+the Singapore Malay eye study (SiMES). Ophthalmic Epidemiol. 2007;14:25–35.
+23. Lavanya R, Jeganathan VSE, Zheng Y, et al. Methodology of the
+Singapore Indian Chinese Cohort (SICC) eye study: quantifying ethnic variations in the epidemiology of eye diseases in
+Asians. Ophthalmic Epidemiol. 2009;16:325–336.
+24. Ohno-Matsui K. What is the fundamental nature of pathologic
+myopia? Retina. 2017;37:1043–1048.
+25. Curtin B, Karlin D. Axial length measurements and fundus
+changes of the myopic eye. I. The posterior fundus. Trans Am
+Ophthalmol Soc. 1970;68:312.
+26. Shimada N, Ohno-Matsui K, Yoshida T, et al. Characteristics of
+peripapillary detachment in pathologic myopia. Arch Ophthalmol. 2006;124:46–52.
+27. Lamoureux EL, Pesudovs K, Thumboo J, Saw S-M, Wong TY.
+An evaluation of the reliability and validity of the visual
+functioning questionnaire (VF-11) using Rasch analysis in an
+Asian population. Invest Ophthalmol Vis Sci. 2009;50:2607–
+2613.
+28. Steinberg EP, Tielsch JM, Schein OD, et al. The VF-14: an index
+of functional impairment in patients with cataract. Arch
+Ophthalmol. 1994;112:630–638.
+29. Andrich D. A rating formulation for ordered response
+categories. Psychometrika. 1978;43:561–573.
+30. Linacre JM. WINSTEPS Rasch Measurement Computer
+Program. Chicago: WINSTEPS; 2006.
+31. Lamoureux E, Pesudovs K. Vision-specific quality-of-life
+research: a need to improve the quality. Am J Ophthalmol.
+2011;151:195–197.e2.
+32. Wong YL, Saw SM. Epidemiology of pathologic myopia in Asia
+and worldwide. Asia Pac J Ophthalmol (Phila). 2016;5:394–
+402.
+33. Pan CW, Saw SM, Wong TY. Epidemiology of myopia. In:
+Spaide RF, Ohno-Matsui K, Yannuzzi LA, eds. Pathologic
+Myopia. New York: Springer-Verlag New York; 2014:25–38.
+34. Cackett P, Tay WT, Aung T, et al. Education, socio-economic
+status and age-related macular degeneration in Asians: the
+Singapore Malay Eye Study. Br J Ophthalmol. 2008;92:1312–
+1315.
+35. Chua J, Koh JY, Tan AG, et al. Ancestry, socioeconomic status,
+and age-related cataract in Asians: the Singapore Epidemiology of Eye Diseases Study. Ophthalmology. 2015;122:2169–
+2178.
+
+
+[page 11]
+Prevalence, Risk Factors, and Impact of MMD in Singapore
+36. Wong TY, Ohno-Matsui K, Leveziel N, et al. Myopic choroidal
+neovascularisation: current concepts and update on clinical
+management. Br J Ophthalmol. 2015;99:289–296.
+37. Soubrane G. Choroidal neovascularization in pathologic
+myopia: recent developments in diagnosis and treatment.
+Surv Ophthalmol. 2008;53:121–138.
+38. Samarawickrama C, Mitchell P, Tong L, et al. Myopia-related
+optic disc and retinal changes in adolescent children from
+Singapore. Ophthalmology. 2011;118:2050–2057.
+39. Hayashi K, Ohno-Matsui K, Shimada N, et al. Long-term
+pattern of progression of myopic maculopathy: a natural
+history study. Ophthalmology. 2010;117:1595–1611.
+40. Stelmack J. Quality of life of low-vision patients and outcomes
+of low-vision rehabilitation. Optom Vis Sci. 2001;78:335–342.
+41. Chiang PP, O’Connor PM, Keeffe JE. Low vision service
+provision: a global perspective. Expert Rev Ophthalmol.
+2007;2:861–874.
+42. Sloane M, Ball K, Owsley C, Bruni J, Roenker D. The Visual
+Activities Questionnaire: developing an instrument for
+assessing problems in everyday visual tasks. Tech Dig
+Noninvas Assess Vis Sys. 1992;1:26–29.
+43. Pan C-W, Cheng C-Y, Saw S-M, Wang JJ, Wong TY. Myopia and
+age-related cataract: a systematic review and meta-analysis.
+Am J Ophthalmol. 2013;156:1021–1033.e1.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/23/2018
+
+IOVS j September 2018 j Vol. 59 j No. 11 j 4613
+44. Kanthan GL, Mitchell P, Rochtchina E, Cumming RG, Wang JJ.
+Myopia and the long-term incidence of cataract and cataract
+surgery: the Blue Mountains Eye Study. Clin Exp Ophthalmol.
+2014;42:347–353.
+45. Flitcroft D. The complex interactions of retinal, optical and
+environmental factors in myopia aetiology. Prog Retin Eye
+Res. 2012;31:622–660.
+46. Chiang PP-C, Fenwick E, Cheung CMG, Lamoureux EL. Public
+health impact of pathologic myopia. In: Spaide RF, OhnoMatsui K, Yannuzzi LA, eds. Pathologic Myopia. New York:
+Springer-Verlag New York; 2014:75–81.
+47. Sherwin JC, Reacher MH, Keogh RH, Khawaja AP, Mackey DA,
+Foster PJ. The association between time spent outdoors and
+myopia in children and adolescents: a systematic review and
+meta-analysis. Ophthalmology. 2012;119:2141–2151.
+48. Huang J, Wen D, Wang Q, et al. Efficacy comparison of 16
+interventions for myopia control in children: a network meta analysis. Ophthalmology. 2016;123:697–708.
+49. Saw SM, Gazzard G, Shih-Yen EC, Chua WH. Myopia and
+associated pathological complications. Ophthalmic Physiol
+Opt. 2005;25:381–391.
+50. Morgan IG, Ohno-Matsui K, Saw S-M. Myopia. Lancet. 2012;
+379:1739–1748.
+

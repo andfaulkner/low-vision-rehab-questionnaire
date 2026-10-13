@@ -1,0 +1,1033 @@
+[page 1]
+Low Vision Rehabilitation
+
+The Role of Season, Sunlight, and Light Sensitivity in
+Self-Reported Depressive Symptoms by Adults With Visual
+Impairment
+Rob T. M. van der Linden1,2 , Hilde P. A. van der Aa1,2 , and Ruth M. A. van Nispen1,2
+1
+2
+
+Amsterdam UMC Location Vrije Universiteit Amsterdam, Ophthalmology, Amsterdam, the Netherlands
+Amsterdam Public Health, Quality of Care, Aging and Later Life, Amsterdam, the Netherlands
+
+Correspondence: Rob T.M. van der
+Linden, Amsterdam UMC, Location
+VUmc, De Boelelaan 1117,
+Amsterdam, HV 1081,
+The Netherlands. e-mail:
+r.vanderlinden1@amsterdamumc.nl
+Received: April 25, 2023
+Accepted: August 7, 2024
+Published: October 1, 2024
+Keywords: depression; low vision;
+seasonal variation; light exposure;
+quality of life
+Citation: van der Linden RTM, van
+der Aa HPA, van Nispen RMA. The
+role of season, sunlight, and light
+sensitivity in self-reported
+depressive symptoms by adults with
+visual impairment. Transl Vis Sci
+Technol. 2024;13(10):2,
+https://doi.org/10.1167/tvst.13.10.2
+
+Purpose: Depression is common in people with visual impairment, and the onset may
+be influenced by aspects related to light. The aim was to explore the associations of
+season, sunlight, and light sensitivity with depressive symptoms in this population.
+Methods: Data regarding self-reported depressive symptoms from seven
+cross-sectional studies conducted between 2009 and 2018 were combined with
+information concerning sensitivity to light, season on the date of self-report, and
+potential sunlight exposure in the 2 weeks prior to self-report. The latter was calculated
+by summing up the daily sunlight hours detected by the weather station nearest to
+the residence of each participant. Logistic regression analyses were performed to
+investigate the associations.
+Results: Participants (N = 1925) experienced clinically significant depressive symptoms
+most often in winter (32.8%), followed by summer (27.4%), spring (26.2%), and fall
+(24.2%). The odds of experiencing depression in fall were significantly lower compared
+with winter (odds ratio [OR] = 0.67, P = 0.007). An increase in the hours of sunlight in
+the participant’s environment was associated with lower odds to experience depressive
+symptoms (OR = 0.995, P = 0.011). People who were sensitive to bright light had higher
+odds of experiencing depressive symptoms (OR = 1.80, P < 0.001). Other differences
+found between subgroups were not consistent.
+Conclusions: It seems likely that season, sunlight, and light sensitivity play a role
+in depression among people with visual impairment. Further research is needed,
+exploring the experiences in this population, the actual sunlight exposure using
+objective measures, and treatment options.
+Translational Relevance: Clinicians should consider these factors when treating
+visually impaired patients with depressive symptoms.
+
+Introduction
+Depression is a common mental health problem in
+people with visual impairment. The incidence of clinically significant depressive symptoms is 21%, which
+is twice as high compared to the general population.1,2 The prevalence of major depressive disorder
+(5.4%) and subthreshold depression (32.2%) is also
+significantly higher in older adults with visual impairment compared to normally sighted older adults.3 The
+high prevalence of depression is present in people
+
+with different eye diseases, such as age-related macular
+degeneration, untreated cataract, and glaucoma,4–6
+and in people who have low vision or blindness.7,8
+A multitude of factors influence the onset of depression in people with visual impairment.9 Two of these
+factors may be season and sunlight exposure, which
+are factors known to influence mood in the general
+population and cause the well-known winter depression.10 These factors may play an even greater role
+in people with visual impairment since vision loss
+may cause a reduction in light information that is
+signaled to the brain and the neural circuitry that
+
+Copyright 2024 The Authors
+tvst.arvojournals.org | ISSN: 2164-2591
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+1
+
+
+[page 2]
+Light Impacts Mood in People With Vision Loss
+
+sustains normal mood.11,12 This reduction is caused by
+damaged melanopsin-containing ganglion cells that are
+responsible for the transduction of light from the eyes
+to the brain.13–16 In people with visual impairment,
+the amount of light information that reaches the brain
+may more easily fall below the threshold for maintaining normal mood, especially in the winter season in
+northern countries when the amount of environmental
+light is scarce.17,18 When an inadequate amount of light
+information is transferred to the brain, it may cause
+mood disorders such as depression.
+The impact of season and sunlight exposure may be
+different for people who have low vision compared to
+people who are blind. Light transduction to the brain
+may be deregulated to a greater extent in people who
+are blind compared to those who have low vision,19,20
+which may leave blind individuals more susceptible
+to seasonal malaise. On the other hand, light transduction may be reduced to an extent that the signal
+of seasonal change is blunted, leaving blind individuals less vulnerable to seasonal malaise. Available
+studies regarding this difference have shown mixed
+results.21,22
+People with different eye diseases may also experience the effect of season and sunlight exposure differently. Certain eye conditions may increase the risk
+of seasonal malaise. This is the case for diseases that
+are known to cause an extensive loss of melanopsin containing ganglion cells, such as macular degeneration, glaucoma, diabetic retinopathy, and retinitis
+pigmentosa.23–28 Extensive loss of these cells causes a
+reduction in light information that is signaled to the
+brain, which could lead to people being more likely
+to experience seasonal depression. In one study, it was
+shown that people with macular degeneration have a
+higher risk for seasonal depression than those with
+other eye diseases.27
+Moreover, some visually impaired people experience
+light sensitivity or “photophobia,” which can cause
+discomfort and reduced functioning when exposed to
+light levels that are too bright.29,30 Therefore, these
+people may be more susceptible to experiencing depressive symptoms, especially in summer or when exposed
+to larger amounts of sunlight, compared to persons
+who are less sensitive to bright light.
+So far, few studies have investigated the association between season and depressive symptoms among
+people with visual impairment. Since season incorporates changes in a variety of different factors, such as
+different light levels, changes in the weather, environmental changes (e.g., slippery sidewalks), and variation
+in free time and holiday periods, we will also investigate the more specific association between the hours of
+sunlight and experienced depressive symptoms. Since
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 2
+
+people with visual impairment are often sensitive to
+bright light, we will also look into the role of light
+sensitivity for depression in this population. The aim
+of this study is to provide additional evidence on
+the hypotheses that season, the hours of sunlight,
+and light sensitivity are associated with experienced
+depressive symptoms in adults with visual impairment.
+Subsequently, we will explore if effects differ between
+subgroups of adults with blindness versus low vision
+and different eye diseases.
+
+Methods
+Design
+A retrospective quantitative study was performed
+with preexisting baseline data from seven different
+studies, conducted between 2009 and 2018 (Supplementary Table S1).31–37 Cross-sectional data from
+baseline measurements of these studies were combined
+with data on sensitivity to bright light, season, and the
+hours of sunlight. Apart from approval for every single
+study in the past, the study reported here was approved
+by the Medical Ethics Committee of the VU University
+Medical Centre Amsterdam. All participants provided
+written informed consent, including the future use of
+their anonymized data.
+
+Population
+Participants (N = 1,925) all had low vision or blindness, were aged 18 and older, and were recruited from
+low vision service organizations in the Netherlands
+(“Bartiméus” and “Royal Dutch Visio”). For these
+organizations, patients should have a decimal visual
+acuity of ≤0.3 and/or a visual field of ≤30° around the
+central point of fixation and/or an evident request for
+help for which options in regular ophthalmic practice
+are not adequate.38
+
+Depressive Symptoms
+Depressive symptoms were measured with either the
+Center for Epidemiological Studies–Depression scale
+(CES-D) or the Patient Health Questionnaire-9 (PHQ9). The CES-D is a 20-item questionnaire with scores
+ranging from 0 to 60. The CES-D is often used in
+people with visual impairment, and having clinically
+significant depressive symptoms is defined as a score
+of ≥16.39–43 The PHQ-9 is a nine-item questionnaire
+with scores ranging from 0 to 27. The PHQ-9 is
+specifically validated to measure depression in people
+with visual impairment, and the cutoff score for clini-
+
+
+[page 3]
+Light Impacts Mood in People With Vision Loss
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 3
+
+cally significant depressive symptoms is ≥10.44,45 Both
+questionnaires have a recall period of 2 weeks, and the
+cutoff scores of both questionnaires show comparable
+results.46,47
+
+Baseline Characteristics
+Information on sex, age, level of education, household situation, and comorbidities (i.e., asthma, heart
+disease, diabetes mellitus, stroke, arthrosis, rheumatoid
+arthritis, and cancer) was self-reported. Education level
+was categorized into low (0 to 9 years), medium (10
+to 12 years), and high (≥13 years) based on education
+years. Having paid work was measured with a question
+from the Short Form Health and Labour Questionnaire (SFHLQ).48 Information about eye disease and
+visual acuity was either self-reported or retrieved from
+patient files from the low vision service organizations. Dichotomous variables were created for the five
+most common eye conditions. Individuals could exhibit
+multiple eye conditions, but distinguishing primary or
+secondary ones remained undetermined. Visual acuity
+of the better eye was transformed onto a logarithm of
+minimum angle of resolution (logMAR) scale. Participants were categorized in four categories according to
+World Health Organization guidelines.49
+
+Figure. Geographic distribution of weather stations used for
+sunlight data.50
+
+Season
+The Netherlands is located in western Europe. The
+latitude and longitude of the Netherlands are 52°23 N
+and 4°55 E, respectively. Season was determined based
+on the 2 weeks prior to the measurement date, in accordance with the recall period of the CES-D and PHQ-9
+questionnaires. An individual was assigned to a certain
+season when the majority (at least 8 days) of those 2
+weeks belonged to that season. Each year was divided
+into four seasons using the meteorological definition
+for the Northern Hemisphere. According to this definition, spring runs from March 1 to May 31, summer
+runs from June 1 to August 31, fall runs from September 1 to November, and winter runs from December 1
+to February 28 (February 29 in a leap year).
+
+Potential Sunlight Exposure
+The summed hours of sunlight in the 2 weeks
+prior to self-report was retrieved from 31 different
+weather stations of the Royal Dutch Meteorological
+Institute (Fig.). They measure sunlight hours using
+pyranometers, which record global radiation (the sum
+of direct and diffuse solar radiation) in Joules per
+square meter. The total time that radiation remains
+
+above a certain threshold, equivalent to a cloud-free
+sky, is accumulated throughout the day and displayed
+as the number of sunlight hours. Weather conditions
+influence this measurement because clouds reduce the
+radiation below the threshold, and thus cloudy periods
+are not counted as sunlight hours. Data regarding
+sunlight were collected from the weather station closest
+to the residence (postal code) of each participant.
+When the residence was unknown, the participants
+were allocated to weather station De Bilt (N = 418),
+which is located most centrally in the Netherlands.
+Some of the participants with an unknown residence
+were known to receive counseling from the former low
+vision service organization “Sensis,” which is located in
+the south of the Netherlands. These participants were
+allocated to weather station Gilze-Rijen (N = 208),
+which is located in the south of the Netherlands.
+
+Sensitivity to Light
+Participants were classified as either sensitive or
+nonsensitive to bright light, using a specific question
+from the Low Vision Quality of Life Questionnaire
+(LVQOL).51 This question was, “Do you experience
+
+
+[page 4]
+Light Impacts Mood in People With Vision Loss
+
+any difficulties with bright light?” and employed a 5point Likert scale, with 1 indicating no issues and
+5 indicating significant problems. Individuals who
+responded with a rating of 3 or above were placed into
+the sensitive to bright light category.
+
+Statistical Analyses
+Statistical analyses were performed in IBM SPSS
+Statistics 26 (SPSS, Chicago, IL, USA). The primary
+outcome measure was the dichotomous variable
+for having clinically significant depressive symptoms.
+Descriptive statistics were used to provide general
+characteristics of all participants and were used to look
+for differences in the experienced depressive symptoms
+between subgroups. After descriptive statistics were
+performed, missing data were handled using a multiple imputation technique in 10 different data sets.52
+This was done by using the Markov chain Monte
+Carlo method,53 providing pooled estimates for all
+analyses. After assumptions were checked,54 multivariable logistic regression models were used to investigate the associations of interest. The independent
+variable in the first analysis was season, which was
+divided into four categories (spring, summer, fall, and
+winter). Dummy variables were added to the model.
+The independent variable in the second analysis was
+the hours of sunlight, which was a continuous variable.
+The independent variable in the third analysis was
+sensitivity to bright light, which was dichotomous. All
+three analyses were performed unadjusted and adjusted
+for age, sex, level of education, having paid work, visual
+acuity, comorbidity, and household situation. These
+potential confounders were selected based on availability in the various data sets and the possibility that
+these variables could be unevenly distributed among
+the investigated independent variables and may possibly have an effect on depression in this population.
+All three analyses were expanded by exploring the role
+of the possible effect modifiers (i.e., severity of vision
+loss and eye condition). In all three analyses, interactions of people who were blind versus people who
+had low vision and people with different eye diseases
+were added to the adjusted models. Additionally, effect
+modification of sensitivity to bright light was explored
+in the first and second analyses (season and sunlight) by
+adding interactions to the adjusted models. During all
+analyses, a P value of 0.05 (two-sided) was considered
+statistically significant.
+
+Sensitivity Analyses
+Sensitivity analyses were performed to investigate the robustness of the results. First, the results
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 4
+
+of analyses with imputed values were compared to
+results with the original data. Second, results were
+compared when participants who were classified as
+having normal vision (logMAR < 0.30) were excluded.
+Third, it was checked whether the results were still
+comparable when the participants without information
+about their residence were excluded. This last sensitivity analysis was solely performed for the association of environmental sunlight, as residence data were
+exclusively employed for this purpose, not in other
+analyses.
+
+Results
+A total of 1925 participants were included in the
+analyses. Their mean (SD) age was 70.8 (14.6) years,
+and the majority was female (57.3%). The participants
+had a mean (SD) logMAR visual acuity of 0.73 (0.71).
+The majority was classified in the low vision category
+(40.6%). The most common eye diseases were macular
+degeneration, cataract, and glaucoma. The majority
+(65.5%) reported being sensitive to bright light due to
+their eye disease. A total of 512 participants (27.5%)
+were categorized as having clinically significant depressive symptoms (Table 1). Participant characteristics
+were not significantly different across the four different
+seasons.
+
+Season
+Clinically significant depressive symptoms appeared
+to be highest in winter (32.8%), followed by summer
+(27.4%), spring (26.2%), and fall (24.2%). A significant
+difference was found between the odds of having clinically significant depressive symptoms in fall compared
+to winter (odds ratio [OR] = 0.67, P = 0.007), with
+lower odds in fall (Table 2). There were no significant
+differences in the odds for clinically significant depressive symptoms between summer and winter (OR =
+0.80, P = 0.129) and spring and winter (OR = 0.74, P
+= 0.056). The association between season and clinically
+significant depressive symptoms appeared to be different for people who had cataract compared to those who
+did not have cataract (Supplementary Table S2). This
+difference was present when summer was compared
+to winter (OR = 2.41, P = 0.028). There were no
+significant differences found when the subgroups of
+people with the other eye conditions were compared.
+Moreover, the association between season and clinically significant depressive symptoms was not significantly modified by the severity of vision loss and sensitivity to bright light.
+
+
+[page 5]
+Light Impacts Mood in People With Vision Loss
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 5
+
+Table 1. Participant Characteristics (N = 1925)
+Characteristic
+Participated in season, n (%)
+- Spring
+- Summer
+- Fall
+- Winter
+Age, mean (SD), y
+Sex, female, n (%)
+Education, n (%)
+- Higher
+- Medium
+- Lower
+Household situation, living alone, n (%)
+Having paid work, n (%)
+Having at least one comorbidity, n (%)
+LogMAR visual acuity of the better eye, mean (SD)
+Vision loss category, n (%)
+- Normal vision (<logMAR 0.30)
+- Moderate vision (logMAR 0.30–0.51)
+- Low vision (logMAR 0.52–1.29)
+- Blind (> logMAR 1.29)
+Eye condition, n (%)
+- Macular degeneration
+- Glaucoma
+- Diabetic retinopathy
+- Retinitis pigmentosa
+- Cataract
+- Other eye condition
+Sensitive to bright light, n (%)
+Clinically significant depressive symptoms, n (%)
+
+Value
+
+Missing
+0
+
+465 (24.2)
+447 (23.2)
+551 (28.6)
+462 (24.0)
+70.8 (14.6)
+1103 (57.3)
+567 (31.6)
+560 (31.3)
+666 (37.1)
+825 (43.0)
+235 (12.5)
+1263 (65.6)
+0.73 (0.71)
+
+0
+0
+132
+
+7
+39
+0
+165
+165
+
+465 (26.4)
+302 (17.2)
+715 (40.6)
+278 (15.8)
+6
+864 (45.0)
+246 (12.8)
+107 (5.6)
+94 (4.9)
+257 (13.4)
+590 (30.7)
+1042 (65.5)
+512 (27.5)
+
+334
+60
+
+Sunlight
+
+Sensitivity to Bright Light
+
+The mean (SD) total number of sunlight hours
+in the 2 weeks prior to self-report was the highest
+in summer (91.02 [24.7] hours), followed by spring
+(71.92 [30.7] hours), fall (56.30 [28.1] hours), and winter
+(34.69 [13.9] hours). There was a significant association between the hours of sunlight and clinically
+significant depressive symptoms (P = 0.011, Table 2).
+When the hours of sunlight increased by 1 hour,
+the odds of having clinically significant depressive
+symptoms were 0.995 times lower. The association was
+not significantly different for people who were classified as blind compared to people with low vision. This
+was also the case for people who were sensitive to
+bright light compared to people who were not and for
+people with different eye conditions (Supplementary
+Table S3).
+
+The majority of participants (65%) appeared to be
+sensitive to bright light. Clinically significant depressive symptoms were more common in people who
+were sensitive to bright light (31.4%) compared to
+those who were not (19.1%). As displayed in Table 2,
+there appeared to be a significant association between
+sensitivity to bright light and clinically significant
+depressive symptoms (OR = 1.80, P < 0.001). This
+association was not significantly modified by either the
+severity of vision loss or any eye condition (Supplementary Table S4).
+
+Sensitivity Analyses
+As displayed in Supplementary Tables S5, S6,
+and S7, the odds of having depressive symptoms in
+
+
+[page 6]
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 6
+
+Light Impacts Mood in People With Vision Loss
+
+Table 2. Logistic Regression Analyses for the Associations Between Season, the Hours of Sunlight, Light
+Sensitivity, and Clinically Significant Depressive Symptoms (N = 1925)
+Characteristic
+Model 1a
+Winter (reference)
+Spring
+Summer
+Fall
+Model 2b
+Winter (reference)
+Spring
+Summer
+Fall
+Model 3a
+Sunlight in hours
+Model 4b
+Sunlight in hours
+Model 5a
+Sensitivity to bright light
+Model 6b
+Sensitivity to bright light
+
+OR
+
+95% Confidence Interval
+
+P Value
+
+—
+0.75
+0.78
+0.66
+
+—
+0.56–1.02
+0.59–1.05
+0.49–0.88
+
+—
+0.063
+0.098
+0.004
+
+—
+0.74
+0.80
+0.67
+
+—
+0.55–1.01
+0.59–1.07
+0.50–0.89
+
+—
+0.056
+0.129
+0.007
+
+0.995
+
+0.992–0.998
+
+0.004
+
+0.995
+
+0.992–0.999
+
+0.011
+
+1.97
+
+1.52–2.55
+
+<0.001
+
+1.80
+
+1.38–2.35
+
+<0.001
+
+Bold is a statistically significant association, P < 0.05.
+a
+Unadjusted.
+b
+Adjusted for age, sex, level of education, having paid work, visual acuity, comorbidity, and household situation.
+
+spring compared to winter were significant in the
+preimputation data set (P = 0.022) but not in the
+post imputation data set (P = 0.056). Moreover,
+the odds for clinically significant depressive symptoms
+were significantly different for spring, summer, and fall
+compared to winter in the data set with the exclusion
+of people with relatively normal vision, while this was
+only the case for fall compared to winter in the original data set. Additionally, cataract appeared to be no
+significant effect modifier of season in the preimputation data set and in the data set with exclusion of
+people with relatively normal vision, while cataract was
+reported as a modifier of this association in the original
+data set. No significant differences were found when the
+analyses were performed with the exclusion of people
+without information regarding their residence.
+
+Discussion
+Only very few studies have focused on the association between season and experienced depressive
+symptoms in people with visual impairment. The
+current study added to the evidence on this subject
+by also investigating the impact of sunlight hours
+that participants potentially could have been exposed
+
+to. Additionally, this study explored the effect of
+being sensitive to bright light in relation to depressive
+symptoms.
+Whereas the results showed relatively high levels of
+depressive symptoms in all seasons, which is in line
+with other research in this population,3 the prevalence of depressive symptoms appeared to differ significantly between seasons. This is comparable to previous research, in which it was also concluded that
+season plays a significant role in the onset of depressive
+symptoms in this population.21,22 Similar to previous
+studies in the general population, we also found that
+depressive symptoms were highest in winter,55,56 which
+can possibly be explained by the scarcity of light in this
+season. In addition, it is conceivable that other factors
+prevalent during winter, such as cold temperatures,
+challenging street conditions like icy surfaces, and
+reduced social interactions due to inclement weather,
+may contribute to decreased mood in this period.
+The notion that light plays an important role in
+this phenomenon can be underlined by the finding that
+the hours of sunlight in the environment of participants appeared to be associated with clinically significant depressive symptoms. We found that for each
+additional hour of sunlight in the 2-week period, the
+odds of experiencing depressive symptoms decrease by
+
+
+[page 7]
+Light Impacts Mood in People With Vision Loss
+
+a factor of 0.995. Therefore, with significant increases
+in sunlight hours, such as the difference between winter
+and summer (56.5 hours), the cumulative effect can
+be substantial. Similar to these results, it has been
+concluded by studies in the general population that
+people who live in areas with sunnier climates experience less depressive symptoms.57–60
+One would expect that a greater number of sunlight
+hours, such as those in summer, would correlate with
+lower odds of depressive symptoms. However, our
+findings indicate that the fall season shows lower
+odds of depressive symptoms, while summer does not
+exhibit the same trend. This inconsistency may be
+attributed to a range of factors beyond the sheer
+number of sunlight hours. Previous studies reported
+seasonal peaks of depressive symptoms in summer for
+the general population of Norway and the Netherlands,61,62 which may be caused by discomfort due to
+heat. One may hypothesize that this might even be
+worse for people with visual impairment since they
+are often sensitive to light, which causes discomfort in
+periods of extensive sunshine. As a result, these people
+may wear protective sunglasses, close their curtains, or
+stay inside when the sun is shining. The eyes of these
+people may, therefore, be exposed to fewer sunlight in
+summer, which may cause depressive symptoms during
+this period. It is also possible that during summer, the
+abundance of social gatherings and activities due to
+vacation periods can exacerbate feelings of isolation
+and loneliness for individuals with visual impairment,
+who may find themselves unable to fully participate.
+This heightened sense of exclusion can contribute to
+their experience of depression during this season.63
+More research is needed to explore possible reasons
+for the variation in experienced depressive symptoms
+in this population.
+The results indicated that light sensitivity did not
+serve as an effect modifier in the relationships between
+either season and depression or environmental sunlight
+and depression. Nevertheless, individuals with heightened sensitivity to bright light exhibited a significant association with clinically significant depressive symptoms in general. This corresponds with the
+findings of a study in migraine patients who also scored
+higher on a depression questionnaire when experiencing symptoms of light sensitivity.64 This connection
+could be explained by the concept that people who are
+sensitive to bright light might employ precautions to
+limit light exposure, potentially impacting their mood.
+Additionally, it is worth considering that individuals
+with heightened sensitivity to bright light may also
+experience more severe consequences of their visual
+impairment compared to their nonsensitive counterparts. Consequently, they may face additional daily
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 7
+
+challenges due to their visual impairment, which could
+contribute to depressive symptoms in this particular group. It is also plausible that the directionality of this association is reversed, wherein depression may precede light sensitivity. One could postulate that depression exerts influence on pupillary
+function, consequently leading to light sensitivity.65,66
+The findings imply a connection between psychological
+factors and light sensitivity, warranting further exploration.
+The results showed that there were no significant
+differences between people who were blind compared
+to people who had low vision. This result is in conflict
+with the results of one study from Denmark, a country
+with a slightly higher latitude compared to the Netherlands, in which it was concluded that people who are
+blind are more vulnerable to seasonal depression than
+people who have low vision.22 However, our results
+match the outcome of a comparable study in Croatia
+(at a lower latitude and a Mediterranean climate), in
+which authors concluded that there is no difference
+in seasonal depression between people who are blind
+compared to people who have low vision.21 It seems
+likely that there is a difference between these groups,
+since circadian rhythm disorders are significantly more
+common in people who are blind compared to those
+who have low vision.67 More in-depth research is
+needed to explore this hypothesis.
+Moreover, it appeared that having cataract served as
+an effect modifier for the association between season
+and depression. Nevertheless, the results of the sensitivity analyses showed that this result was not robust,
+which makes it likely that it was caused by chance.
+There were no differences in the associations of interest between the other eye diseases. This is not in agreement with research from Denmark, in which it was
+concluded that people who have macular degeneration
+are more vulnerable to seasonal depression than people
+with other eye diseases.27 Their hypothesis was that
+macular degeneration may cause a reduced photoreceptor function, which may predispose persons to
+develop seasonal depression through reduced transmission of light signals, possibly even more so in combination with the frequent use of sunglasses. Further
+research into the different effects of sunlight and season
+for different eye diseases is warranted, and the effect of
+wearing sunglasses needs to be explored.
+There were several strengths to this study. A large
+sample size of 1925 participants was available, increasing the generalizability of the results. Also, the information about the hours of sunlight was retrieved from
+31 different weather stations located throughout all
+provinces of the Netherlands. As a result, most individuals could be allocated to a weather station <20 km
+
+
+[page 8]
+Light Impacts Mood in People With Vision Loss
+
+from their living environment. Therefore, the estimation of the hours of sunlight can be seen as relatively
+accurate in this study. In addition, missing data were
+handled by using a multiple imputation technique,
+which provided unbiased estimates of associations.68
+Furthermore, sensitivity analyses were performed and
+confirmed that the main results were robust.
+There were also some limitations to this study. A
+one-group cross-sectional design was used, which has
+several limitations such as the absence of a normally
+sighted control group and the inability to draw conclusions about the exact onset and possible offset period
+of the depressive symptoms. Moreover, in the literature, the association between season and depression has been studied in various ways, such as self reported seasonal variation in depressive symptoms or
+monthly variations.22,61 We chose to use the meteorological definition of seasons, following among others
+the work of Huibers et al.62 In addition, depression
+was measured with two different questionnaires (PHQ9 and CES-D), where it would probably have been more
+reliable to measure depressive symptoms with the same
+questionnaire for all participants. Also, it is essential
+to acknowledge that the measurement of sensitivity
+to bright light was conducted using a single question
+extracted from the LVQOL questionnaire. A more
+comprehensive and nuanced assessment of this variable
+could have provided a more comprehensive insight
+into the consequences of heightened light sensitivity.
+Moreover, it was not always possible to select a weather
+station that was located close to the living environment of the participants because information about
+the residence was not available for some participants.
+This may have impacted the accuracy of the weather
+data. However, the sensitivity analyses suggested that
+this was not a large pitfall. Furthermore, the information about the hours of sunlight in the environment
+of each participant may not have been related to the
+actual sunlight exposure of the participants because
+some people may have stayed indoors. It may be interesting to measure light exposure using a wrist-worn
+device in future studies.69,70
+In turn, based on these results, it seems likely that
+season plays an important role in the development of
+depressive symptoms in people with visual impairment.
+Among other factors, sunlight seems a key contributor
+to this phenomenon. Clinicians should anticipate this
+by being aware of the possible role of season, sunlight
+exposure, and light sensitivity when aiming to deal with
+disorders like depression, sleep disturbances, and circadian misalignment. There is limited knowledge about
+the efficacy of treatment for seasonal depression in
+people with visual impairment. Recently, a pilot study
+has been performed to investigate the effectiveness of
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 8
+
+bright light therapy in people with visual impairment.
+In a small group of 12 participants with visual impairment, bright light therapy appeared to be effective
+to reduce symptoms of depression and increase well being and sleep quality.71 Further research is needed
+on tailored treatment options for seasonal depressive
+symptoms in this inherently vulnerable population.
+
+Acknowledgments
+Data Availability: To foster transparency and
+uphold scientific integrity, research data will be
+provided upon reasonable request.
+Disclosure: R.T.M. van der Linden, None;
+H.P.A. van der Aa, None; R.M.A. van Nispen, None
+
+References
+1. Heesterbeek TJ, van der Aa HPA, van Rens
+GHMB, Twisk JWR, van Nispen RMA. The
+incidence and predictors of depressive and anxiety symptoms in older adults with vision impairment: a longitudinal prospective cohort study.
+Ophthalmic Physiol Opt. 2017;37(4):385–398.
+2. Zheng Y, Wu X, Lin X, Lin H. The prevalence
+of depression and depressive symptoms among eye
+disease patients: a systematic review and meta analysis. Sci Rep. 2017;7(1):46453.
+3. Van Der Aa HPA, Comijs HC, Penninx BWJH,
+Van Rens GHMB, Van Nispen RMA. Major
+depressive and anxiety disorders in visually
+impaired older adults. Invest Ophthalmol Vis Sci.
+2015;56(2):849–854.
+4. Augustin A, Sahel JA, Bandello F, et al. Anxiety and depression prevalence rates in age-related
+macular degeneration. Invest Ophthalmol Vis Sci.
+2007;48(4):1498–1503.
+5. Ayaki M, Kawashima M, Negishi K, Tsubota K.
+High prevalence of sleep and mood disorders in
+dry eye patients: survey of 1,000 eye clinic visitors.
+Neuropsychiatr Dis Treat. 2015;11:889–889.
+6. Kong X, Yan M, Sun X, Xiao Z. Anxiety and
+depression are more prevalent in primary angle closure glaucoma than in primary open-angle glaucoma. J Glaucoma. 2015;24(5):e57–e63.
+7. Hayman KJ, Kerse NM, La Grow SJ, Wouldes
+T, Robertson MC, Campbell AJ. Depression in
+older people: visual impairment and subjective ratings of health. Optom Vis Sci. 2007;84(11):1024–
+1030.
+
+
+[page 9]
+Light Impacts Mood in People With Vision Loss
+
+8. Brody BL, Gamst AC, Williams RA, et al. Depression, visual acuity, comorbidity, and disability
+associated with age-related macular degeneration.
+Ophthalmology. 2001;108(10):1893–1900.
+9. Van Der Aa HPA, Xie J, Rees G, et al. Validated prediction model of depression in visually impaired older adults. Ophthalmology.
+2016;123(5):1164–1166.
+10. Rosenthal NE, Sack DA, Gillin JC, et al. Seasonal
+affective disorder: a description of the syndrome
+and preliminary findings with light therapy. Arch
+Gen Psychiatry. 1984;41(1):72–80.
+11. Lockley SW, Arendt J, Skene DJ. Visual impairment and circadian rhythm disorders. Dialogues
+Clin Neurosci. 2007;9(3):301–314.
+12. Rosenthal NE, DellaBella P, Hahn L, Skwerer RG. Seasonal affective disorder and visual
+impairment: two case studies. J Clin Psychiatry.
+1989;50(12):469–472.
+13. Berson DM, Dunn FA, Takao M. Phototransduction by retinal ganglion cells that set the circadian
+clock. Science. 2002;295(5557):1070–1073.
+14. Panda S, Sato TK, Castrucci AM, et al.
+Melanopsin (Opn4) requirement for normal
+light-induced circadian phase shifting. Science.
+2002;298(5601):2213–2216.
+15. Lax P, Ortuño-Lizarán I, Maneu V, Vidal-Sanz M,
+Cuenca N. Photosensitive melanopsin-containing
+retinal ganglion cells in health and disease: implications for circadian rhythms. Int J Mol Sci.
+2019;20(13):3164.
+16. Peirson S, Foster RG. Melanopsin: another way of
+signaling light. Neuron. 2006;49(3):331–339.
+17. Legates TA, Fernandez DC, Hattar S. Light as a
+central modulator of circadian rhythms, sleep and
+affect. Nat Rev Neurosci. 2014;15:443–454.
+18. Saper CB, Scammell TE, Lu J. Hypothalamic regulation of sleep and circadian rhythms. Nature.
+2005;437:1257–1263.
+19. Hartley S, Dauvilliers Y, Quera-Salva MA. Circadian rhythm disturbances in the blind. Curr Neurol
+Neurosci Rep. 2018;18(10):65.
+20. Salva MAQ, Hartley S, Léger D, Dauvilliers YA.
+Non-24-hour sleep-wake rhythm disorder in the
+totally blind: diagnosis and management. Sec Sleep
+Disorders. 2017;8:686.
+21. Kurczab B, Ćwiek A, Kramarczyk K, Witkowska
+A, Drzyzga K, Kucia K. The prevalence of seasonal affective disorder among the blind and
+patients with serious visual impairment. Psychiatr
+Danub. 2019;31(3):579–584.
+22. Madsen HS, Dam H, Hageman I. High prevalence of seasonal affective disorder among persons
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 9
+
+with severe visual impairment. Br J Psychiatry.
+2016;208(1):56–61.
+23. Jean-Louis G, Zizi F, Lazzaro DR, Wolintz AH.
+Circadian rhythm dysfunction in glaucoma: a
+hypothesis. J Circadian Rhythms. 2008;6:1–8.
+24. Munch M, Leon L, Collomb S, Kawasaki A. Comparison of acute non-visual bright light responses
+in patients with optic nerve disease, glaucoma and
+healthy controls. Scientific Reports. 2015;5(1):1–12.
+25. Fernandez DC, Sande PH, De Zavalía N, et al.
+Effect of experimental diabetic retinopathy on the
+non-image-forming visual system. Chronobiol Int.
+2013;30(4):583–597.
+26. Gordo MA, Recio J, Sanchez-Barcelo EJ.
+Decreased sleep quality in patients suffering from
+retinitis pigmentosa. J Sleep Res. 2001;10(2):159–
+164.
+27. Madsen H, Dam H, Hageman I. Eye disorder differentiates seasonality outcomes in persons
+with severe visual impairment. J Affective Disord.
+2017;217:233–236.
+28. Madsen HØ, Ba-Ali S, Lund-Andersen H,
+Martiny K, Hageman I. Mood and behavior
+seasonality in glaucoma; assessing correlations
+between seasonality and structure and function of the retinal ganglion cells. PLoS ONE.
+2020;15(3):e0229991.
+29. Digre KB, Brennan KC. Shedding light on photophobia. J Neuroophthalmol. 2012;32(1):68–81.
+30. Albilali A, Dilli E. Photophobia: when light hurts,
+a review. Curr Neurol Neurosci Rep. 2018;18(62):
+1–6.
+31. Van Nispen RMA, van Rens GHMB. Improving
+referral of depressed elderly in low vision. 2011,
+Unpublished data.
+32. Burggraaff MC, Van Nispen RMA, Knol DL,
+Ringens PJ, Van Rens GHMB. Randomized controlled trial on the effects of CCTV training on
+quality of life, depression, and adaptation to vision
+loss. Invest Ophthalmol Vis Sci. 2012;53(7):3645–
+3652.
+33. van der Aa HPA, van Rens GHMB, Comijs HC,
+Bosmans JE, Margrain TH, van Nispen RMA.
+Stepped-care to prevent depression and anxiety in visually impaired older adults—design of
+a randomised controlled trial. BMC Psychiatry.
+2013;13(1):1–10.
+34. Bruijning JE, van Rens GHMB, Fick M, Knol
+DL, van Nispen RMA. Longitudinal observation,
+evaluation and interpretation of coping with mental (emotional) health in low vision rehabilitation
+using the Dutch ICF Activity Inventory. Health
+Qual Life Outcomes. 2014;12(1):182.
+
+
+[page 10]
+Light Impacts Mood in People With Vision Loss
+
+35. van Nispen RMA, van Rens GHMB. Effectiveness
+of intensive rehabilitation at Royal Dutch Visio—
+Het Loo Erf. Amsterdam: Amsterdam UMC;
+2016.
+36. Van Der Aa HPA, Van Rens GHMB, Verbraak FD, et al. Economic evaluation of an emental health intervention for patients with retinal exudative diseases who receive intraocular antiVEGF injections (E-PsEYE): Protocol for a randomised controlled trial. BMJ Open. 2017;7(11):
+e018149.
+37. Schakel W, Van Der Aa HPA, Bode C, Hulshof CTJ, Van Rens GHMB, Van Nispen RMA.
+The economic burden of visual impairment and
+comorbid fatigue: a cost-of-illness study (from a
+societal perspective). Invest Ophthalmol Vis Sci.
+2018;59(5):1916–1923.
+38. Vreeken H, Van Rens GHMB, Limburg H,
+Van Nispen RMA. Definitions, epidemiology and
+organisation of care for the blind and visually
+impaired in the Netherlands. In: van Rens GHMB,
+Vreeken HL, van Nispen RMA, eds. Guideline Vision Disorders: Rehabilitation and Referral.
+Utrecht: Dutch Society of Ophthalmology; 2011.
+39. Rovner BW, Casten RJ, Tasman WS. Effect
+of depression on vision function in age related macular degeneration. Arch Ophthalmol.
+2002;120(8):1041–1044.
+40. Horowitz A, Reinhardt JP, Boerner K. The
+effect of rehabilitation on depression among visually disabled older adults. Aging Mental Health.
+2005;9(6):563–570.
+41. Beekman ATF, Deeg DJH, Van Limbeek J, Braam
+AW, De Vries MZ, Van Tilburg W. Criterion
+validity of the Center for Epidemiologic Studies Depression scale (CES-D): results from a
+community-based sample of older subjects in the
+Netherlands. Psychol Med. 1997;27(1):231–235.
+42. Radloff LS. The CES-D scale: a self-report depression scale for research in the general population.
+Appl Psychol Meas. 1977;1(3):385–401.
+43. Vilagut G, Forero CG, Barbaglia G, Alonso
+J. Screening for depression in the general population with the Center for Epidemiologic
+Studies Depression (CES-D): a systematic review
+with meta-analysis. PLoS ONE. 2016;11(5):
+e0155431.
+44. Kroenke K, Spitzer RL. The PHQ-9: a new depression diagnostic and severity measure. Psychiatr
+Ann. 2013;32(9):509–515.
+45. Lamoureux EL, Tee HW, Pesudovs K, Pallant JF,
+Keeffe JE, Rees G. Can clinicians use the PHQ-9 to
+assess depression in people with vision loss? Optom
+Vis Sci. 2009;86(2):139–145.
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 10
+
+46. Khamseh ME, Baradaran HR, Javanbakht A,
+Mirghorbani M, Yadollahi Z, Malek M. Comparison of the CES-D and PHQ-9 depression scales in
+people with type 2 diabetes in Tehran, Iran. BMC
+Psychiatry. 2011;11(1):1–6.
+47. Milette K, Hudson M, Baron M, Thombs BD;
+Canadian Scleroderma Research Group. Comparison of the PHQ-9 and CES-D depression scales
+in systemic sclerosis: internal consistency reliability, convergent validity and clinical correlates.
+Rheumatology (Oxford, England). 2010;49(4):789–
+796.
+48. Hakkaart-van Roijen L, Essink-Bot M-L. Manual
+the Health and Labour Questionnaire. 2000:1–
+41. Available from: http://hdl.handle.net/1765/
+1313.
+49. WHO. Blindness and Vision Impairment. Geneva,
+Switzerland: World Health Organization; 2023.
+Available from: https://www.who.int/news-room/
+fact-sheets/detail/blindneand-visual-impairment.
+50. The Royal Netherlands Meteorological Institute.
+Weather stations in the Netherlands, https://
+dataplatform.knmi.nl/. Accessed October 10, 2023.
+51. Wolffsohn JS, Cochrane AL. Design of the
+low vision quality-of-life questionnaire (LVQOL)
+and measuring the outcome of low-vision rehabilitation. Am J Ophthalmol. 2000;130(6):793–
+802.
+52. Bennett DA. How can I deal with missing
+data in my study? Aust N Z J Public Health.
+2001;25(5):464–469.
+53. Brooks S. Markov chain Monte Carlo method
+and its application. J R Stat Soc Ser D Stat.
+1998;47(1):69–100.
+54. Stoltzfus JC. Logistic regression: a brief primer.
+Acad Emerg Med. 2011;18(10):1099–1104.
+55. Magnusson A. An overview of epidemiological
+studies on seasonal affective disorder. Acta Psychiatrica Scand. 2000;101(3):176–184.
+56. Oyane NMF, Bjelland I, Pallesen S, Holsten F,
+Bjorvatn B. Seasonality is associated with anxiety and depression: the Hordaland health study.
+J Affect Disord. 2008;105(1–3):147–155.
+57. Denissen JJA, Butalid L, Penke L, van Aken
+MAG. The effects of weather on daily mood:
+a multilevel approach. Emotion. 2008;8(5):662–
+667.
+58. Molin J, Mellerup E, Bolwig T, Scheike T, Dam H.
+The influence of climate on development of winter depression. J Affect Disord. 1996;37(2–3):151–
+155.
+59. Son J, Shin J. Bimodal effects of sunlight on
+major depressive disorder. Comprehensive Psychiatry. 2021;108:152232.
+
+
+[page 11]
+Light Impacts Mood in People With Vision Loss
+
+60. O’Hare C, O’Sullivan V, Flood S, Kenny
+RA. Seasonal and meteorological associations with depressive symptoms in older adults:
+a geo-epidemiological study. J Affect Disord.
+2016;191:172–179.
+61. Stordal E, Morken G, Mykletun A, Neckelmann
+D, Dahl AA. Monthly variation in prevalence rates
+of comorbid depression and anxiety in the general population at 63-65° North: the HUNT study.
+J Affect Disord. 2008;106(3):273–278.
+62. Huibers MJH, de Graaf LE, Peeters FPML, Arntz
+A. Does the weather make us sad? Meteorological determinants of mood and depression in
+the general population. Psychiatry Res. 2010;180
+(2–3):143–146.
+63. Verstraten PFJ, Brinkmann WLJH, Stevens
+NL, Schouten JSAG. Loneliness, adaptation to
+vision impairment, social support and depression
+among visually impaired elderly. Int Congress Ser.
+2005;1282:317–321.
+64. Llop SM, Frandsen JE, Digre KB, et al. Increased
+prevalence of depression and anxiety in patients
+with migraine and interictal photophobia.
+J Headache Pain. 2016;17:1–7.
+65. Seidel S, Beisteiner R, Manecke M, Aslan TS,
+Wöber C. Psychiatric comorbidities and photophobia in patients with migraine. J Headache Pain.
+2017;18:1–4.
+
+TVST | October 2024 | Vol. 13 | No. 10 | Article 2 | 11
+
+66. Mestanikova A, Ondrejka I, Mestanik M, et al.
+Pupillary light reflex is altered in adolescent depression. Physiol Res. 2017;66(2):S277–S284.
+67. Flynn-Evans EE, Tabandeh H, Skene DJ, Lockley SW. Circadian rhythm disorders and melatonin
+production in 127 blind women with and without
+light perception. J Biol Rhythms. 2014;29(3):215–
+224.
+68. Pedersen AB, Mikkelsen EM, Cronin-Fenton D,
+et al. Missing data and multiple imputation in
+clinical epidemiological research. Clin Epidemiol.
+2017;9:157–166.
+69. Obayashi K, Saeki K, Kurumatani N. Association between light exposure at night and insomnia in the general elderly population: the HEIJOKYO cohort. Chronobiol Int. 2014;31(9):976–
+982.
+70. Stone JE, McGlashan EM, Facer-Childs ER, Cain
+SW, Phillips AJK. Accuracy of the GENEActiv
+device for measuring light exposure in sleep and
+circadian research. Clocks Sleep. 2020;2(2):143–
+152.
+71. Madsen HS, Ba-Ali S, Hageman I, Lund Andersen H, Martiny K. Light therapy for
+seasonal affective disorder in visual impairment
+and blindness: a pilot study. Acta Neuropsychiatrica. 2021;33(4):191–199.
+

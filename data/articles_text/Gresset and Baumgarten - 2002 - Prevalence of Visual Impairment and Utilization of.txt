@@ -1,0 +1,954 @@
+[page 1]
+1040-5488/02/7907-0416/0 VOL. 79, NO. 7, PP. 416–423
+OPTOMETRY AND VISION SCIENCE
+Copyright © 2002 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Prevalence of Visual Impairment and Utilization
+of Rehabilitation Services in the Visually
+Impaired Elderly Population of Quebec
+JACQUES GRESSET, OD, PhD and MONA BAUMGARTEN, PhD
+University of Montreal, School of Optometry, Montreal, Quebec, Canada (JG), Department of Epidemiology and Preventive Medicine,
+Division of Gerontology, University of Maryland, Baltimore, Maryland (MB)
+
+ABSTRACT: Data on the prevalence of reported visual impairment and on the utilization of rehabilitation services were
+collected on a sample consisting of 1777 community-residing people aged at least 65 years. A visual disability was
+considered to be present if the answer to at least one of the following two questions was positive: Do you have trouble
+reading ordinary newsprint with glasses (if normally worn)? Do you have trouble clearly seeing the face of someone 12
+feet away with glasses (if normally worn)? Prevalence of a reported near disability was 7.6%, prevalence of a reported
+distance disability was 4.4%, and 3.5% of subjects reported both types of disability. In a subsample of the surveyed
+population, the positive predictive value was 21% and the negative predictive value was 100%, using moderate or
+worse visual impairment as the gold standard. Among those answering yes to both questions, 11.4% received services
+from a rehabilitation center and 10.0% from a nonprofit agency. The utilization rates (adjusted to apply only to those
+whose visual impairment was confirmed by visual examination) reached 20% for rehabilitation centers and 17.5% for
+nonprofit agencies. Low utilization of rehabilitation services raises questions concerning the role of general eye care
+practitioners, community-based health centers, and rehabilitation centers in the rehabilitative process of the visually
+impaired elderly. (Optom Vis Sci 2002;79:416–423)
+Key Words: prevalence, visual impairment, rehabilitation services, elderly population
+
+I
+
+nformation on the prevalence of blindness and visual impairment is critical for quantifying the need for care and rehabilitation services for the visually disabled. Population-based studies of visual impairment and ocular disorders are the most valid
+method for determining prevalence. Unfortunately, oculo-visual
+assessments of large general populations are very costly and time
+consuming. As an alternative to examination studies, national
+agencies such as the National Center for Health Statistics in the
+United States and Statistics Canada regularly use questionnairebased surveys of large samples to gather statistics on health and
+disability status.1–3 Recent data on reported visual impairment
+published by the National Center for Health Statistics and Statistics Canada, together with those from examination studies on clinically assessed visual impairment, indicate that most individuals
+identified as visually disabled are elderly.1–5 The elderly subgroup
+of the visually impaired population has been identified as being
+underserved.6
+Visually impaired elderly may receive rehabilitation services
+from different and sometimes multiple sources. In Canada, these
+
+sources include rehabilitation centers, private and hospital-based
+low-vision clinics, and nonprofit agencies.7 In the province of
+Quebec, rehabilitation centers provide a full complement of services funded by the provincial Ministry of Health and Social Services. These centers were established to serve visually impaired
+individuals and are geographically located to meet the needs of the
+population. Rehabilitation services are provided free of charge for
+all individuals who meet the International Classification of Diseases (9th revision) definition of visual handicap,8 whereas rehabilitative aids may be loaned or purchased at low cost.9 In Quebec,
+nonprofit agencies, such as the Canadian Institute for the Blind,
+are mainly involved in advocacy activities, job placement, and
+cultural and leisure activities and, in contrast to most of the other
+provinces of Canada, not at all in low-vision and rehabilitation
+services. The private or hospital-based low-vision clinics offer clinical assessment but not the full scope of rehabilitative services.
+Prescription of low-vision devices is offered, but patients must pay
+for the required visual aids. The International Classification of
+Diseases (9th revision) criteria are also used by the nonprofit agen-
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 2]
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+
+cies, but other low-vision clinics may have less stringent access
+criteria. Even though utilization by the elderly of rehabilitation
+services for the visually impaired has risen during the last decade in
+Canada, the proportion of users is still very low compared with the
+prevalence of individuals reporting visual disability estimated from
+Statistics Canada surveys.10, 11 Furthermore, the proportion of visually impaired elderly who use rehabilitation services is not well
+documented.6, 12, 13 To determine what proportion of visually impaired elderly use rehabilitation services, a two-stage research
+project was implemented. The purpose of the first stage was to
+collect data on the prevalence of reported visual disability and on
+the utilization of rehabilitation services in a large sample of community-residing people aged at least 65 years. The purpose of the
+second stage was to estimate the sensitivity, specificity, and predictive values of two survey questions using the results of a visual
+examination as the gold standard.
+
+METHODS
+The first stage of the study was part of a large survey on health
+and aging in Canada, the Canadian Study of Health and Aging
+(CSHA), which took place from 1991 to 1992. Study methods for
+the CSHA have been described elsewhere.14 Briefly, sampling areas
+were identified in the vicinity of each of the 18 research centers
+participating in the CSHA. A random sample of individuals aged
+at least 65 years was drawn for each selected area, with predetermined sampling fractions for age and sex categories. Individuals
+aged 75 to 84 years and aged 85 years or older were oversampled.
+There were four research centers in Quebec. The community
+sample in Quebec was made up of 1800 persons aged at least 65
+years. Data on visual impairment were collected during a home
+interview carried out as part of the CSHA study. As defined in
+previous Statistics Canada surveys such as the Health and Activity
+Limitations Survey (HALS),2 a visual disability was considered to
+be present if the answer to at least one of the following two questions was positive:
+• Do you have trouble reading ordinary newsprint with glasses or
+contact lenses if normally worn?
+• Do you have trouble seeing clearly the face of someone 12 feet
+away with glasses or contact lenses if normally worn?
+If the answer was positive to at least one of these two questions,
+subjects were asked whether they received services for visual impairment from either a rehabilitation center, a low-vision clinic
+other than in a rehabilitation center (e.g., in a hospital or in the
+private office of an eye care practitioner), or a nonprofit agency that
+serves the visually impaired (e.g., Canadian National Institute for
+the Blind). Prevalence and 95% confidence intervals were computed for each sex and age category and for the whole study population, taking into account the sampling design.15 Whenever the
+conditions for computation of the usual confidence interval for a
+proportion were not respected, a binomial 95% confidence interval for small samples was used.16 Weighted prevalences were calculated to correct for the discrepancy between the proportion of
+subjects included in the study sample in the different sex and age
+categories and the corresponding proportion of people in the population of Quebec.
+
+417
+
+In the second stage of the study, we assessed the validity of the
+questionnaire in a subsample of our study group. Among subjects
+in the Montreal area not eligible for other components of the
+CSHA, all positive subjects, along with a random sample of negative subjects, were selected to undergo a visual examination at
+home. Subjects were considered positive if they answered “yes” to
+at least one of the two screening questions. The examination included measurement of visual acuity (VA), visual fields, retinoscopy, subjective refraction, aplanation tonometry, and funduscopy. Distance VA was measured at 4 m using the Early Treatment
+Diabetic Retinopathy Survey charts17 in a back-lighted box.18
+Near VA was measured at 0.4 m with a modified near Early Treatment Diabetic Retinopathy Survey chart. Visual fields were assessed with a 0.333-m radius portable arc-perimeter and a 3-mm
+white index. VA was measured twice: first with the usual correction, if any, worn by the subject (presenting VA)5 and again with
+the best correction as determined by refraction (best-corrected
+VA). The first author (JG), an optometrist who was not aware of
+the subjects’ questionnaire responses at the time of the examination, carried out the visual assessment.
+Subjects were classified according to the VA and visual field in
+their best eye into the International Classification of Diseases (9th
+revision) categories of visual impairment.8 Individuals with a best
+VA between 6/12 and 6/18 were considered to have a mild visual
+impairment,5 individuals with a best VA between 6/21 and 6/54
+were considered to have a moderate visual impairment, and subjects having a VA ⱕ 6/60 or a visual field ⬍ 20° were considered to
+have a severe visual impairment.8 The classification was done
+twice: the definition using the presenting VA is referred to as the
+“functional visual impairment,”19 and the other, with the best corrected VA, is referred to as the “visual impairment.” Using the
+resulting classification as the diagnostic standard and the results of
+the questionnaire as the test to be validated, the subjects were
+reclassified as true positives (a), false positives (b), false negatives
+(c), and true negatives (d). Crude sensitivity, Sn ⫽ a/(a ⫹ c), and
+crude specificity, Sp ⫽ d/(b ⫹ d), of the questionnaire were computed, and their 95% confidence intervals (95% CI) were determined from the binomial 95% CI tables for small samples.20
+Because the sampling fraction for subjects with a positive questionnaire result was different from the sampling fraction for subjects
+with a negative questionnaire result, the sensitivity and specificity
+estimated in this study cannot be applied to an unselected population. The positive predictive value, PPV ⫽ a/(a ⫹ b), and the
+negative predictive value, NPV ⫽ d/(c ⫹ d), were also computed.
+The adjusted prevalence (Pr) of visual impairment was computed
+according to the formula proposed by Choi21: Pr ⫽ [(m1)PPV] ⫹
+[(m0)(1 ⫺ NPV)]/(m1 ⫹ m0), where m1 is the number with positive tests and m0 the number with negative tests in the unselected
+population. Results were computed using four different diagnostic
+criteria and two different test criteria.
+
+Diagnostic Criteria
+• Mild functional impairment or worse (presenting near or distance VA ⱕ 6/12) versus no functional impairment (presenting
+near or distance VA ⬎ 6/12).
+• Moderate functional impairment or worse (presenting near or
+distance VA ⱕ 6/21) versus no functional impairment or mild
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 3]
+418
+
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+
+functional impairment (presenting near or distance VA ⬎
+6/21).
+• Mild impairment or worse (best-corrected near or distance VA
+ⱕ 6/12) versus no impairment (best-corrected near or distance
+VA ⬎ 6/12).
+• Moderate impairment or worse (best-corrected near or distance
+VA ⱕ 6/21) versus no impairment or mild impairment (best corrected near or distance VA ⬎ 6/21).
+
+Test Criteria
+• A positive response to the near-vision task question versus a
+negative response.
+• A positive response to the far distance-vision question versus a
+negative response.
+• At least one positive response versus two negative responses.
+• Two positive responses versus at least one negative response.
+The ethics committee of the Center Hospitalier Côte-desNeiges approved this research protocol.
+
+RESULTS
+In the first stage, 1777 individuals (98.7% of the eligible subjects), including 1106 women and 671 men, completed the questionnaire on reported visual disability. The prevalence of disability,
+according to the HALS Statistics Canada survey questions,2 is
+shown in Table 1. For both near- and distance-vision complaints,
+the prevalence rose with age. The prevalence was higher in women
+relative to men in the younger age groups and higher in men than
+in women for the older age groups for both near and distance visual
+impairment, although this difference was not statistically significant based on an examination of the respective confidence intervals. The prevalence in the whole population of at least 65 years of
+age, when weighted to remove the effect of the differing sampling
+
+fractions, was 7.6% for near-vision impairment and 4.4% for impairment in distance vision. The prevalence of reported near-vision
+impairment was significantly higher than the prevalence of reported impairment for distance vision. When considering the
+prevalence of reported visual impairment according to the number
+of positive responses (Table 2), similar trends were observed in
+prevalence according to age and sex categories. After adjustment to
+remove the effect of the differing sampling fractions, the prevalence in the whole population of at least 65 years of age was 8.5%
+according to the Statistics Canada criteria and 3.5% for both nearand distance-vision impairment. These two proportions represent,
+respectively, about 60,100 and 24,800 individuals in the Quebec
+population. Table 3 shows the use of services by elderly persons
+aged at least 65 years who reported visual impairment. The services
+of private and hospital-based low-vision clinics were the most frequently used.
+Among the 144 subjects eligible for the second stage of the
+study, 31 were lost to follow-up and 42 refused to participate. We
+were unable to schedule an eye examination before the end of the
+study for six of the remaining 71 subjects. Among the 65 subjects
+who received the visual examination, 19 had at least one positive
+response to the questionnaire, and 46 had two negative responses.
+The final participation rate was 45.1%, 40.4% among those with a
+positive questionnaire and 47.4% among those with a negative
+questionnaire. Participating and nonparticipating subjects did not
+differ with respect to age or visual disability status. However, the
+proportion of nonparticipants was larger among women than men
+(62% versus 41%, respectively). After refraction, only two subjects
+changed from mild visual impairment to no visual impairment.
+Hence, the results presented in the following tables are restricted to
+only functional impairment. The prevalence of mild functional
+near visual impairment or worse was 30.8%, whereas the prevalence of moderate functional near visual impairment or worse was
+6.2%. The prevalence of mild functional distance visual impair-
+
+TABLE 1.
+Prevalence (%) of reported near- and far-vision impairment by sex and age.
+Type of Reported Disability
+Near-vision task impairment
+
+Age (yr)
+
+N
+
+65 to 74
+
+849
+
+75 to 84
+
+736
+
+85 and over
+
+192
+
+All 65 and overa
+Distance-vision task impairment
+
+65 to 74
+
+849
+
+75 to 84
+
+736
+
+85 and over
+
+192
+
+All 65 and overa
+a
+
+Female
+(N ⫽ 1106)
+(95% CI)
+
+Male
+(N ⫽ 671)
+(95% CI)
+
+Both Sexesa
+(N ⫽ 1777)
+(95% CI)
+
+5.3
+[3.3–7.3]
+14.1
+[11.0–17.2]
+20.1
+[13.4–26.8]
+8.8
+[7.2–10.4]
+3.7
+[2.0–5.4]
+6.7
+[4.5–8.9]
+13.7
+[8.0–19.4]
+5.2
+[3.9–6.5]
+
+2.8
+[1.1–4.5]
+10.4
+[6.7–14.1]
+28.3
+[16.2–40.4]
+5.8
+[4.2–7.4]
+1.7
+[0.4–3.0]
+5.0
+[2.4–7.6]
+18.9
+[8.4–29.4]
+3.2
+[2.0–4.4]
+
+4.2
+[2.8–5.6]
+12.7
+[10.3–15.1]
+22.6
+[16.7–28.5]
+7.6
+[6.4–8.8]
+2.9
+[1.8–4.0]
+6.1
+[4.4–7.8]
+15.3
+[10.2–20.4]
+4.4
+[3.5–5.3]
+
+Weighted to remove the effect of the different sampling fractions.
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 4]
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+
+419
+
+TABLE 2.
+Prevalence (%) of reported visual impairment according to number of positive questionnaire responses, by sex and age.
+Female
+Age (yr)
+
+At Least One Positive
+Response (N ⫽ 133)
+(95% CI)
+
+65 to 74
+75 to 84
+85 and over
+All 65 and overa
+a
+b
+
+5.9
+[3.8–8.0]
+15.3
+[12.1–18.5]
+22.3
+[15.4–29.2]
+9.7
+[8.0–11.4]
+
+Both Sexesa
+
+Male
+
+Two Positive
+Two Positive
+Two Positive
+At Least One Positive
+At Least One Positive
+Responses
+Responses
+Responses
+Response (N ⫽ 58)
+Response (N ⫽ 191)
+(N ⫽ 57)
+(N ⫽ 23)
+(N ⫽ 80)
+(95% CI)
+(95% CI)
+(95% CI)
+(95% CI)
+(95% CI)
+3.1
+[1.6–4.6]
+5.5
+[3.5–7.5]
+11.5
+[6.2–16.8]
+4.3
+[3.1–5.5]
+
+3.4
+[1.5–5.3]
+11.9
+[8.0–15.8]
+28.3
+[16.2–20.4]
+6.6
+[4.9–8.3]
+
+1.1
+[0.2–4.3]b
+3.5
+[1.3–5.7]
+18.9
+[8.4–29.4]
+2.4
+[1.4–3.4]
+
+4.8
+[3.4–6.2]
+14.0
+[11.5–16.5]
+24.1
+[18.0–30.2]
+8.5
+[7.3–9.7]
+
+2.2
+[1.2–3.2]
+4.7
+[3.2–6.2]
+13.7
+[8.8–18.6]
+3.5
+[2.7–4.3]
+
+Weighted to remove the effect of the different sampling fractions.
+This 95% confidence interval was taken from the binomial 95% confidence intervals tables for small samples.20
+
+TABLE 3.
+Utilization (%) of rehabilitation services among elderly persons aged at least 65 years who report visual disability
+(weighted to remove the effect of the different sampling fractions in the various age and sex categories).
+
+Source of Services
+
+Rehabilitation centers
+Low-vision clinics in hospitals
+and private offices
+Nonprofit agencies
+Any service
+a
+
+Visually Impaired Visually Impaired
+Visually Impaired
+Visually Impaired
+According to
+According to at
+Visually Impaired
+According to
+According to the
+Only One
+Least One
+According to the
+Both Positive
+Question on
+Positive
+Positive
+Question on Near-Vision
+Responses
+Far-Vision Task
+Response
+Response
+Task (95% CI)
+(95% CI)
+(95% CI)
+(95% CI)
+(95% CI)
+5.4
+[1.8–9.0]
+22.9
+
+8.5
+[2.7–14.3]
+22.0
+
+5.2
+[1.7–8.7]
+24.0
+
+0.8
+[0.0–5.4]a
+24.6
+
+11.4
+[3.7–19.1]
+23.3
+
+[16.3–29.5]
+4.8
+[1.3–8.3]
+24.9
+[18.1–31.7]
+
+[13.2–30.8]
+8.2
+[2.3–14.1]
+25.5
+[16.5–34.5]
+
+[17.3–30.7]
+4.2
+[0.9–7.5]
+26.0
+[19.2–32.8]
+
+[15.9–33.3]
+0
+[0.0–3.6]a
+24.6
+[15.9–33.3]
+
+[13.0–33.6]
+10.0
+[2.5–17.5]
+28.1
+[17.4–38.8]
+
+These 95% confidence intervals were taken from the binomial 95% confidence intervals tables for small samples.20
+
+ment or worse was 18.5%, whereas the prevalence of moderate
+functional distance visual impairment or worse was 6.2% (data not
+tabulated).
+Estimates of crude sensitivity and specificity and as predictive
+values of the questionnaire using different criteria are presented in
+Table 4. Due to the small number of true positives, the precision of
+the crude sensitivity and of the PPV was very low. Nevertheless,
+when these figures were used to adjust the prevalence among persons aged at least 65 years in the Quebec population, the prevalence of mild functional impairment or worse was 9.5%, whereas
+the prevalence of moderate functional impairment or worse was
+2.6%.21
+To be eligible for the services offered at rehabilitation centers in
+Quebec, individuals must have a distance VA ⱕ 6/21 (moderate
+impairment or worse). The PPV of the questionnaire indicates that
+only 57.0% of those claiming disabilities at both near and far
+distance had moderate visual impairment or worse and were eligible for rehabilitation services. After adjusting the number of po-
+
+tential users by a factor of 0.57,21 the estimated utilization rate of
+rehabilitation services reached 20.0% for the rehabilitation centers,
+17.5% for the nonprofit agencies, and 49.3% for the other low vision clinics.
+
+DISCUSSION
+In this study, the prevalence of reported visual impairment
+based on a criterion of at least one positive questionnaire response
+and the pattern of increase with age were similar to those reported
+in the HALS for 19863, 4 and 199122 and, more particularly, to the
+prevalence specific for the province of Quebec23 but not with those
+of the 1998 Quebec survey.24 Our results are also very similar to
+those derived from the National Center for Health Statistics by
+Nelson.1 Fig. 1 shows the age-specific prevalences of this and three
+other questionnaire-based surveys (reported visual disability)1, 23, 24 and of four population-based studies (clinically assessed
+visual impairment).5, 19, 25, 26 The study by Salive et al.19 used a
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 5]
+420
+
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+
+TABLE 4.
+Crude sensitivity, crude specificity, and positive and negative predictive values (%) of the questionnaire.a
+Functional Impairment
+(Presenting Visual Acuity)
+Mild or Worse
+(VA ⱕ 6/12)
+
+Moderate or Worse
+(VA ⱕ 6/21)
+
+Positive response to the reading disability question vs. negative response to the reading
+disability question
+Crude sensitivity
+(95% CI)
+Crude specificity
+(95% CI)
+PPV
+(95% CI)
+NPV
+(95% CI)
+
+75
+(43–95)
+81
+(69–91)
+47
+(24–71)
+93
+(83–99)
+
+100
+(40–100)
+75
+(62–85)
+21
+(6–46)
+100
+(92–100)
+
+Positive response to the distance-vision disability question vs. negative response to the
+distance-vision disability question
+Crude sensitivity
+(95% CI)
+Crude specificity
+(95% CI)
+PPV
+(95% CI)
+NPV
+(95% CI)
+
+50
+(21–79)
+98
+(90–100)
+86
+(42–100)
+90
+(81–97)
+
+100
+(40–100)
+95
+(88–99)
+57
+(18–90)
+100
+(94–100)
+
+At least one positive response versus two negative responses
+Crude sensitivity
+(95% CI)
+Crude specificity
+(95% CI)
+PPV
+(95% CI)
+NPV
+(95% CI)
+
+83
+(52–98)
+83
+(71–92)
+53
+(29–76)
+96
+(85–99)
+
+100
+(40–100)
+75
+(62–85)
+21
+(6–46)
+100
+(92–100)
+
+Two positive responses versus at least one negative response
+Crude sensitivity
+(95% CI)
+Crude specificity
+(95% CI)
+PPV
+(95% CI)
+NPV
+(95% CI)
+
+50
+(21–79)
+98
+(87–99)
+86
+(42–96)
+90
+(80–96)
+
+100
+(40–100)
+95
+(88–99)
+57
+(18–90)
+100
+(94–100)
+
+a
+
+All these 95% confidence intervals were taken from the binomial 95% confidence intervals tables for small samples.20
+
+case definition of moderate functional visual impairment and
+worse (presenting VA ⱕ 6/21), whereas that by Tielsch et al.5 and
+Klein et al.25 used a definition of moderate visual impairment and
+worse (best-corrected VA ⱕ 6/21) The more recent population based study by Munoz et al.26 used a less stringent definition of
+mild and worse visual impairment (best-corrected VA ⱕ 6/12).
+For the studies conducted before 1992,1, 5, 19, 23, 25 questionnairebased survey results1, 23 are in fairly close agreement with each
+other and with the present study; prevalence of reported visual
+disability is lower than the prevalence of visual impairment derived
+
+from population-based studies when visual impairment is defined
+by best-corrected VA21, 25and similar when defined by presenting
+acuity.19 The two more recent studies suggest a reduction in the
+prevalence of both visual impairment and disability in the late
+1990s,24, 26 for all age categories for visual impairment26, and at
+least in the younger ones for visual disability.24 It may be that
+people answering visual disability questionnaires are reporting
+problems in regard to their presenting VA. Consequently, misclassification of visually impaired individuals by survey techniques is
+generally attributed to the large percentage of individuals who
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 6]
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+
+FIGURE 1.
+Age-specific prevalence of visual impairment in elderly subjects from
+seven recent studies, using midpoints of the age ranges. The results of the
+present study are presented with a 95% confidence interval.
+
+report visual disability because of inadequate optical correction,
+uncorrected presbyopia, or medically or surgically remediable conditions.27–31 Large discrepancies between prevalence of visual impairment based on presenting and best-corrected VA were also
+observed in several population-based studies.5, 19 Other investigators have shown that when visual impairment is defined on the
+basis of at least one questionnaire response, the prevalence of moderate visual impairment may be overestimated by a factor of
+two.27, 28
+There was a higher prevalence of problems in reading ordinary
+newsprint than of problems in seeing the face of someone 12 feet
+away. This finding is consistent with other studies3 and suggests a
+hierarchy in task difficulty levels: to be able to read ordinary newsprint, an individual has to present a VA of at least 6/15. On the
+other hand, both reading and face recognition are contrast dependent.31 However, because faces subtend a rather larger visual angle
+than ordinary newsprint, face recognition might be considered a
+more robust task.31 Consequently, individuals reporting both visual disabilities are probably more seriously affected than those
+reporting only one. This assertion is also corroborated by the fact
+that individuals with two positive responses use rehabilitation or
+nonprofit agencies services more frequently than those with only
+one positive response (Table 3). Overall, the proportion of subjects
+who used rehabilitation services in this study was low. Yet, we
+found that among individuals who use at least one service, many
+use more than one. The utilization of rehabilitation centers and
+nonprofit agencies that offer visual aids at no cost or low cost was
+particularly low. Although the proportion of individuals reporting
+the use of low-vision clinics in hospitals or private offices was
+higher, this may simply reflect the respondent’s confusion of low vision services with other ophthalmologic subspecialties because
+the utilization rate was identical among those with one and those
+with two positives responses.
+When visual impairment was considered to be present if one
+response was positive (as proposed by Statistics Canada), we obtained a high NPV, indicating that a large proportion of individuals with a negative test are truly unimpaired. On the other hand,
+the PPV was low: only 21% of those with a positive test had
+
+421
+
+moderate functional impairment or worse. In this sample, there
+was little difference in the prevalence of functional visual impairment between individuals with disability at distance and those with
+both near- and far-distance disability. The use of either the distance
+or the distance and near visual disability criteria resulted in an
+increase in the PPV of the questionnaire without markedly decreasing the NPV. However, in the case of moderate visual impairment, the estimated PPV was still quite low (57%).
+If we assume that the estimates of positive and negative predictive value apply equally to those who refused the visual examination as to those who received it, we may use them to estimate the
+prevalence of true visual impairment in the population of Quebec
+aged at least 65 years in 1992. The adjusted prevalence of mild
+functional impairment and worse was not very different from the
+prevalence of reported visual impairment based on a criterion of at
+least one positive response on the questionnaire (9.5% versus
+8.5%, respectively). Similarly, the adjusted prevalence of moderate
+visual impairment and worse did not differ much from the value
+obtained using a criterion of two positive responses (2.6% versus
+3.5%).
+The study had several limitations. First, the participation rate in
+the validation component was low. This may have been due to the
+long interval (approximately 6 months) before recontacting the
+subjects. Nonresponse bias (e.g., differential participation according to gender), therefore, may be an issue in this study. Other
+selection biases might be responsible for the unusual absence of
+differences in the levels of presenting acuity and best-corrected
+acuity among the examined subjects. Here, the low level of participation in the second stage of the study may have introduced a bias
+toward the enrollment of individuals with appropriate ophthalmic
+correction. Also, the relatively small number of subjects resulted in
+very wide confidence intervals for some of the estimates.
+The question regarding the utilization of rehabilitation services
+was only asked of individuals with at least one visual disability
+complaint. It is highly unlikely that individuals who answered
+negatively to both questions on the visual screening questionnaire
+would use visual rehabilitation services. From the corrected utilization rate of rehabilitation services, the number of individuals
+using rehabilitation centers or nonprofit agencies in Quebec can be
+estimated to be around 5000 persons for 1992. This finding is
+consistent with registration numbers in the rehabilitation centers
+and the nonprofit agencies throughout Quebec at the time of this
+study.10, 32
+In this study, we estimated the predictive values and misclassification rates of the HALS survey questions to be able to derive the
+prevalence of visually impairment and blindness. Our results may
+seem to be in contradiction with the results of other investigators.29, 30 For Elliott et al.29 the prevalence of low vision and blindness could not be inferred from the results of the HALS survey
+because they did not find a direct relationship between the HALS
+results and the number of registrants at Ontario low-vision clinics
+and the Canadian Institute for the Blind. We agree with these
+authors29, 30 that questionnaire-based results overestimate the true
+prevalence of visual impairment. Nevertheless, our results suggest
+that with knowledge about the properties of the survey questions,
+the results of the questionnaire survey might be used to estimate
+the prevalence of visual impairment.
+Another important finding of the present study is related to the
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 7]
+422
+
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+
+utilization rate of services. Other studies corroborate the low utilization rates found in our study. In Great Britain, fewer than 25%
+of the fully eligible individuals among the general population are
+registered with the Royal National Institute for the Blind.33 Low
+participation rates may be attributed to a variety of factors. First,
+there may be a lack of awareness in the population concerning the
+difference between pathologic visual decline and visual decline
+related to aging.34 Seniors (as well as health care professionals) may
+have low expectations regarding the vision of elders,35, 36 referrals
+may involve long waiting times,36 both elders and professionals
+may have little knowledge about available services,37, 38 and elderly
+persons may not adhere to the recommendations of their
+ophthalmologist.39
+Rehabilitation centers were originally established to preserve the
+full independence of visually impaired individuals by helping them
+to cope with visual loss and by reducing their disability and handicap situations. In the elderly population, rehabilitation services
+may preserve independence and prevent the need for institutionalization. This may imply a better quality of life for these individuals and a reduced cost for society as a whole.40 An unknown
+percentage of individuals who report visual disability who undergo
+surgical or medical treatment of their visual problem can be expected to no longer require rehabilitation services.30 However, the
+low utilization of rehabilitation services observed in this study
+raises the need to address the respective role of general eye care
+practitioners, community-based health centers, and rehabilitation
+centers in the rehabilitative process of visually impaired elderly
+individuals.
+
+ACKNOWLEDGMENTS
+We thank Andrew F. Smith and Olga Overbury for their help in the preparation of this article.
+Received December 27, 2001; revision received March 20, 2002.
+
+REFERENCES
+1. Nelson KA. Visual impairment among elderly Americans: statistics in
+transition. J Visual Impair Blind 1987;81:331–4.
+2. Statistics Canada. Census of Population: Disability Question Guide
+for Respondents. Ottawa, ON, Canada: Ministry of Supply and Services, 1986.
+3. Statistics Canada. Blindness and Visual Impairment in Canada, No.
+82-615. Ottawa, ON, Canada: Ministry of Supply and Services,
+1990.
+4. Naeyaert KM, Grace G. Prevalence and cause of blindness and visual
+impairment in Canada. J Visual Impair Blind 1990;84:361–3.
+5. Tielsch JM, Sommer A, Witt K, Katz J, Royall RM. Blindness and
+visual impairment in an American urban population. The Baltimore
+Eye Survey. Arch Ophthalmol 1990;108:286–90.
+6. Branch LG, Horowitz A, Carr C. The implications for everyday life of
+incident self-reported visual decline among people over age 65 living
+in the community. Gerontologist 1989;29:359–65.
+7. Overbury O, Collin C. Vision rehabilitation services in the Americas.
+In: Silverstone B, Lang MA, Rosenthal BP, Faye EE, eds. Vision
+Impairment and Vision Rehabilitation, Vol 2. New York: Oxford
+University Press, 2000:717–32.
+8. World Health Organization. Manual of the International Statistical
+Classification of Diseases, Injuries and Causes of Death: Based on the
+Recommendations of the Ninth Revision Conference, 1975, and
+
+Adopted by the Twenty-Ninth World Health Assembly. Geneva:
+World Health Organization, 1977:242.
+9. Magarrell G. Services for visually impaired adults in Canada. J Visual
+Impair Blind 1990;84:283–6.
+10. Gresset J. Bilan sur l’utilisation des aides techniques pour les personnes ayant une déficience visuelle: État des connaissances et avenues de recherche. In: Office des Personnes Handicapées du Québec,
+Élargir les Horizons. Perspectives Scientifiques sur l’Intégration Sociale. Québec: Éditions Multi-Mondes, 1994:385–9.
+11. Elliott DB, Trukolo-Ilic M, Strong JG, Pace R, Plotkin A, Bevers P.
+Demographic characteristics of the vision-disabled elderly. Invest
+Ophthalmol Vis Sci 1997;38:2566–75.
+12. Smith D. Obstacles: Report of the Special Committee on the Disabled and Handicapped. Ottawa, ON, Canada: Ministry of Supply
+and Services, 1981.
+13. Select Committee on Aging. House of Representatives, 99th Congress, First Session. Hearing on Blindness and the Elderly, No. 99519. Washington, DC: US Government Printing Office, 1985.
+14. Canadian Study of Health and Aging Working Group. Canadian
+study of health and aging: study methods and prevalence of dementia.
+CMAJ 1994;150:899–913.
+15. Cochran WG. Sampling Techniques, 3rd ed. New York: Wiley,
+1977:89–111.
+16. Colton T. Statistics in Medicine. Boston: Little, Brown, 1974:
+151–88.
+17. Ferris FL III, Kassoff A, Bresnick GH, Bailey I. New visual acuity
+charts for clinical research. Am J Ophthalmol 1982;94:91–6.
+18. Ferris FL III, Sperduto RD. Standardized illumination for visual acuity testing in clinical research. Am J Ophthalmol 1982;94:97–8.
+19. Salive ME, Guralnik J, Christen W, Glynn RJ, Colsher P, Ostfeld
+AM. Functional blindness and visual impairment in older adults from
+three communities. Ophthalmology 1992;99:1840–7.
+20. Beyer WH. CRC Handbook of Tables for Probability and Statistics.
+Cleveland: Chemical Rubber, 1976:219–37.
+21. Choi BC. Sensitivity and specificity of a single diagnostic test in the
+presence of work-up bias. J Clin Epidemiol 1992;45:581–6.
+22. Statistique Canada. Caractéristiques Choisies des Personnes Ayant
+une Incapacité et Vivant dans un Ménage, Enquête sur la Santé et les
+Limitations d’Activités de 1991, No. 82-555. Ottawa, ON, Canada:
+Statistique Canada, 1994.
+23. Saucier A, Lafontaine P. Nature et Gravité des Incapacités au Québec
+en 1986: Un Portrait Statistique des Adultes à Domicile et en Établissement Suivant l’Enquête sur la Santé et les Limitations d’Activités.
+Québec, QC, Canada: Ministère de la Santé et des Services Sociaux,
+Direction générale de la planification et de l’évaluation, 1991.
+24. Gosselin C, Patry P, Allie R. Nature et Autres Caractéristiques des
+Incapacités in Enquête Québécoise sur les Limitations d’Activités
+1998. Quebec, QC, Canada: Institut de la statistique du Québec,
+2001:89–142.
+25. Klein R, Klein BE, Linton KL, De Mets DL. The Beaver Dam Eye
+Study: visual acuity. Ophthalmology 1991;98:1310–5.
+26. Munoz B, West SK, Rubin GS, Schein OD, Quigley HA, Bressler
+SB, Bandeen-Roche K, and the SEE Study Team. Causes of blindness
+and visual impairment in a population of older Americans. Arch
+Ophthalmol 2000;118:819–25.
+27. Cullinan TR. Epidemiology of visual disability. Trans Ophthalmol
+Soc UK 1978;98:267–9.
+28. Hiller R, Krueger DE. Validity of a survey question as a measure of
+visual acuity impairment. Am J Public Health 1983;73:93–6.
+29. Elliott DB, Strong G, Trukolo-Ilic M, Pace RJ, Plotkin A, Bevers P.
+A comparison of low vision clinic data with low vision survey and
+blindness registration information. Optom Vis Sci 1998;75:272–8.
+30. Massof RW. A model of the prevalence and incidence of low vision
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+
+[page 8]
+Visual Impairment and Utilization of Rehabilitation Services—Gresset & Baumgarten
+and blindness among adults in the U.S. Optom Vis Sci 2002;79:
+31–8.
+31. Ginsburg AP. Spatial filtering and vision: implication for normal and
+abnormal vision. In: Proenza LM, Enoch JM, Jampolsky A, eds.
+Clinical Applications of Visual Psychophysics: Proceedings of a Symposium Sponsored by the Committee on Vision of the National
+Research Council in Conjunction with the Second Study Group on
+Human Vision. Cambridge, NY: Cambridge University Press, 1981:
+70–106.
+32. The Canadian National Institute for the Blind. Statistical Information on the Client Population of the CNIB 1993. Toronto: Canadian
+National Institute for the Blind, 1993.
+33. Robinson JR. A survey of blind and partially sighted adults in Britain.
+J Visual Impair Blind 1993;87:78–9.
+34. Horowitz A. Vision impairment and functional disability among
+nursing home residents. Gerontologist 1994;34:316–23.
+35. Harries U, Landes R, Popay J. Visual disability among older people: a
+case study in assessing needs and examining services. J Public Health
+Med 1994;16:211–8.
+36. Keeffe JE, Lovie-Kitchin JE, Taylor HR. Referral to low vision services by ophthalmologists. Aust NZ J Ophthalmol 1996;24:207–14.
+
+423
+
+37. Cullinan TR, Silver J. Visual Disability in the Elderly. London:
+Croom Helm, 1986.
+38. Greenblatt SL. Physicians and chronic impairment: a study of ophthalmologists’ interactions with visually impaired and blind patients.
+Soc Sci Med 1988;26:393–9.
+39. Koenekoop RK, Gomolin JE. The management of age-related macular degeneration: patterns of referral and compliance in seeking low vision aids. Can J Ophthalmol 1995;30:208–10.
+40. Herie EJ, Grace G. Sight enhancement services: a safety net or a
+spider’s web? In: Woo GC, ed. Low Vision: Principles and
+Applications: Proceedings of the International Symposium on Low
+Vision, University of Waterloo, June 25–27, 1986. New York:
+Springer-Verlag, 1986:543–52.
+
+Optometry and Vision Science, Vol. 79, No. 7, July 2002
+
+Jacques A. Gresset
+Ecole d’Optometrie
+Universite de Montreal
+C.P. 6128, succursale Centre-ville
+Montreal, Quebec H3C 3J7
+Canada
+e-mail: gresset@ere.umontreal.ca
+

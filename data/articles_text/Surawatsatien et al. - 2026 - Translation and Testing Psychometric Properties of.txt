@@ -1,0 +1,1695 @@
+[page 1]
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+Article
+
+Recommended articles
+
+Value in Health Regional Issues
+
+View PDF
+
+Download full issue
+
+Metrics
+
+Date: January 2026
+Show more
+Research article
+
+Open access
+
+Under a Creative Commons license
+
+Get rights and content
+
+Patient-Reported Outcomes
+
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On
+EQ-5D in Patients With Visual Impairment
+Nuntachai Surawatsatien MD, MSc 1 2, Pear Ferreira Pongsachareonnont MD, MPH, PhD 1 3, Sarinyaporn Waoraweewon PharmD 4,
+Gorawit Homkong PharmD 4, Anchisa Keereekeaw PharmD 4, Phantipa Sakthong PhD 4
+Show more
+View PDF
+
+Download full issue
+
+Cite
+
+Add to Mendeley
+
+Share
+
+Highlights
+•
+
+We addressed the lack of validated Thai versions of the vision bolton EQ-5D by translating, culturally adapting, and psychometrically
+testing these instruments in a sample with varying degrees of
+visual impairment.
+
+•
+
+Our findings revealed moderate to good reliability, strong known group validity, and moderate responsiveness for both the 3L and 5L
+versions, with the 5L demonstrating higher sensitivity and reduced
+ceiling effects.
+
+•
+
+Incorporating a vision bolt-on dimension in Thai version of the EQ5D can guide evidence-based clinical decisions and economic
+evaluations, potentially improving outcomes for individuals with
+visual impairments.
+
+Abstract
+Objectives
+This study aimed to translate, culturally adapt, and evaluate the psychometric
+properties of the Thai versions of the vision bolt-on EQ-5D-3L and EQ-5D-5L,
+comparing them with the standard EQ-5D-3L, EQ-5D-5L, and EQ-VAS in individuals
+with varying degrees of visual impairment.
+
+Methods
+Following EuroQol Translation Guidelines, the vision bolt-on items were translated
+through forward-backward processes and underwent cognitive debriefing. A total of
+301 participants were interviewed at baseline, with 275 completing a 2-week follow up. Known-groups validity was assessed based on visual acuity classifications and
+
+10.1016/j.vhri.2025.101498
+
+
+[page 2]
+comorbidity status; convergent validity was tested by using Spearman’s correlations.
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+Test-retest reliability was evaluated with intraclass correlation coefficients (ICCs) and
+weighted
+Responsiveness
+was analyzed
+using a standardized effect size in
+Article kappa. Recommended
+articles
+Metrics
+participants who reported better or worse vision.
+
+Results
+Both versions of the vision bolt-on had no missing data and demonstrated moderate
+to good test-retest reliability (ICC range 0.62-0.64). They effectively differentiated
+quality-of-life scores across varying degrees of vision impairment, showing reduced
+ceiling effects (5%-9%) compared with the standard EQ-5D. Correlations with EQ-VAS
+were moderate (rho 0.40-0.45). When participants reported improved vision, the
+vision bolt-on EQ-5D-5L exhibited the highest responsiveness, whereas all
+instruments were generally less responsive for worsening vision.
+
+Conclusions
+The Thai versions of the vision bolt-on EQ-5D-3L and EQ-5D-5L demonstrated
+acceptable reliability, validity, and moderate responsiveness for capturing vision related health changes, with the 5L version showing slightly greater sensitivity. These
+findings support the usefulness of adding a vision dimension to EQ-5D for Thai speaking populations, facilitating more precise evaluations of interventions targeting
+visual health.
+
+Keywords
+EQ-5D; EuroQoL; ophthalmology; quality of life; visual impairment
+
+Previous article in this issue
+
+Next article in this issue
+
+Introduction
+Health-related quality of life (HRQoL) measurement is pivotal in evaluating
+healthcare interventions, informing policy decisions, and understanding patient
+outcomes in chronic and disabling conditions. The EQ-5D, developed by the EuroQol
+Group, is a widely used generic instrument for assessing HRQoL because of its
+brevity, cross-cultural applicability, and utility in economic evaluations.1 The original
+EQ-5D-3L and its expanded counterpart, the EQ-5D-5L, which offers improved
+sensitivity with 5 response levels per dimension, have been validated across diverse
+populations.2,3 However, the standard EQ-5D’s 5 core dimensions—mobility, self-care,
+usual activities, pain/discomfort, and anxiety/depression—may inadequately capture
+the burden of specific health issues, such as visual impairment, which profoundly
+impacts daily functioning and psychosocial well-being.4 This limitation is highlighted
+in a recent multicenter Thai study on patients with eye diseases, which found that
+the standard EQ-5D-5L showed a significant response only when visual impairment
+became severe, failing to detect the impact of mild or moderate impairment.
+Furthermore, the same study found that the Health Utility Index 3, an instrument
+that includes a vision domain, demonstrated a stronger correlation with a vision specific quality of life tool than the standard EQ-5D-5L did.5
+
+View PDF
+
+
+[page 3]
+To address this limitation, researchers have explored “bolt-on” dimensions—
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+supplementary items added to the EQ-5D framework—to enhance relevance in
+specific
+populations.
+A systematic
+review found
+that this approach could enhance the
+Article
+Recommended
+articles
+Metrics
+discriminative power and utility measurement of the EQ-5D in various contexts.6
+Vision-related bolt-ons, for instance, aim to quantify the unique challenges faced by
+individuals with visual impairment.7 This additional item asks respondents to rate
+their vision-related difficulties using the same 3- or 5-level response structure as the
+core EQ-5D dimensions and has been proven to increase responsiveness and
+discriminatory power of the questionnaire.8,9
+In Thailand, visual impairment continues to pose a significant public health
+challenge, affecting >2% of the population. Conditions such as cataracts, diabetic
+retinopathy, and glaucoma notably reduce individuals’ quality of life (QoL).10 Despite
+the availability of the Thai EQ-5D-3L and EQ-5D-5L,11 no validated vision-specific
+bolt-on exists for these tools. Cross-cultural adaptation requires meticulous
+translation, cognitive debriefing, and psychometric validation to ensure linguistic and
+conceptual equivalence.12,13 Furthermore, comparing the performance of the 3L and
+5L versions with a vision bolt-on could clarify whether the enhanced granularity of
+the 5L improves sensitivity in detecting vision-related QoL changes. To our
+knowledge, no psychometric evaluation has been conducted on non-English versions
+of vision-related QoL questionnaires.
+This study aims to translate and evaluate the psychometric properties of Thai
+versions of the vision bolt-on EQ-5D-3L and EQ-5D-5L questionnaires and to compare
+the properties with the original translated EQ-5D questionnaires. Specifically, we
+assessed their reliability (test-retest stability), constructed validity (convergent and
+known-groups), and responsiveness in a cohort of Thai adults with varying degrees of
+visual impairment. By addressing this gap, our findings will inform the use of these
+adapted tools in clinical practice, health economic evaluations, and population
+studies targeting vision-related QoL in Thailand.
+
+Methods
+This prospective observational study was approved by the Institutional Review Board
+of the Faculty of Medicine, Chulalongkorn University (COA No. 1023/2023). The study
+was conducted in accordance with the Declaration of Helsinki. All participants
+received a comprehensive explanation of the study, and informed consent was
+obtained before enrollment.
+
+Translation of the Vision Bolt-On EQ-5D-3L and the Vision Bolt-On EQ-5D5L
+Permission for use and translation of the vision bolt-on EQ-5D-3L and the vision bolton EQ-5D-5L was granted without charge by the EuroQol Research Foundation. The
+translation process followed the required EuroQol Translation Guidelines.14 The
+process consists of forward translation, backward translation, cognitive debriefing,
+and submission for approval from the EuroQol. Two independent bilingual experts
+carried out the forward translation of the vision bolt-on component, referencing the
+legacy Thai EQ-5D-3L and EQ-5D-5L versions. Subsequently, the translators and
+investigators conferred to produce a consensus version. The backward translation
+was done by 2 independent translators, and the reconciled version was compared to
+the original English version of the questionnaires to produce the second consensus
+
+View PDF
+
+
+[page 4]
+version. Then, a cognitive debriefing process was conducted with 8 participants,
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+encompassing both healthy individuals and those with visual impairments. The final
+consensus
+was developed
+by integrating
+feedback from respondents in the
+Article version
+Recommended
+articles
+Metrics
+cognitive debriefing process, and it was then proofread by another native linguist.
+The consensus versions of every process were approved by the EuroQol.
+
+Patients and Procedures
+A sample size was determined using G∗Power version 3.1.9.7 (Heinrich-HeineUniversität Düsseldorf, Germany),15 assuming a moderate effect size for test-retest
+reliability, known-groups validity, convergent validity, and responsiveness, with 90%
+power and a 0.05 significance level. The largest calculated sample size based on
+known-groups validity and a projected 30% attrition rate was 300. The participant
+was conveniently sampled from the Ophthalmology Clinic at the King Chulalongkorn
+Memorial Hospital from February 1 to March 31, 2024. Participants were categorized
+into 5 groups on the basis of the WHO International Classification of Diseases 11
+(ICD-11) criteria for vision impairment.16 Those with no vision impairment had a
+best-corrected visual acuity (BCVA) of at least 20/40 in the better eye. Mild vision
+impairment was defined as a BCVA worse than 20/40 but equal to or better than
+20/70, while moderate vision impairment included individuals with a BCVA worse
+than 20/70 but equal to or better than 20/200. Severe vision impairment was
+classified as a BCVA worse than 20/200 but equal to or better than 20/400. Finally,
+blindness was defined as a BCVA worse than 20/400 in the better eye.
+Participants were asked to complete the translated questionnaires in the following
+sequence: (1) EQ-5D-5L; (2) vision bolt-on EQ-5D-5L; (3) participants' demographic
+data, including age, sex, educational level, and past ophthalmic and systemic
+diseases; (4) EQ–visual analog scale (VAS); (5) EQ-5D-3L; and (6) vision bolt-on EQ5D-3L. If participants were unable to read the questionnaires, interviewers would
+read them to the participants without any interpretation. Two weeks after the first
+interview, participants would be contacted by the same interviewer by means of a
+video call. Participants were asked to compare their current eye health perception
+with their initial assessment using the following options: (1) much better than the
+first assessment, (2) somewhat better than the first assessment, (3) about the same
+as the first assessment, (4) somewhat worse than the first assessment, and (5) much
+worse than the first assessment. Patients who reported no change in eye health3 were
+included in the test-retest analysis. Those who indicated an improvement1,2 or a
+decline in eye health4,5 were categorized into the improvement and worsening
+groups, respectively, for the responsiveness assessment.
+The utility scores of the EQ-5D-3L and EQ-5D-5L were calculated using Thai value
+sets,17,18 whereas the utility scores of the vision bolt-on EQ-5D-3L and vision bolt-on
+EQ-5D-5L were calculated using available value sets from other countries.7,19
+
+Data Analyses
+Practicality was assessed based on the time required to complete the questionnaire,
+recorded by the interviewers. The ceiling effect was analyzed on the basis of the
+percentage of participants who achieved the highest score on the questionnaire. If
+this percentage was <15%, the questionnaire was considered capable of distinguishing
+between individuals with different health conditions.20 Test-retest reliability was
+evaluated using intraclass correlation coefficients (ICCs), calculated with the two-way
+mixed and single-measure method. ICC values were interpreted as follows: <0.40
+
+View PDF
+
+
+[page 5]
+indicated poor agreement, 0.40 to <0.75 indicated fair to good agreement, and 0.75 or
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+higher indicated excellent agreement.21 Cohen’s weighted kappa correlation was also
+used
+in the test-retest
+reliability
+evaluation. Metrics
+The interpretation of weighted kappa
+Article
+Recommended
+articles
+correlation coefficients was as follows: values below 0.40 indicated poor agreement,
+those between 0.40 and 0.75 represented fair to good agreement, and values above
+0.75 reflected excellent agreement.22
+Known-groups validity was assessed by evaluating differences in QoL between
+groups with and without the characteristic of interest. Statistical analysis was
+performed using the Mann-Whitney U or Kruskal-Wallis test. For the Mann-Whitney
+U test, effect sizes were categorized as small (<0.3), medium (0.3-0.5), and large
+(>0.5).23 For the Kruskal-Wallis test, effect sizes were classified as small (0.01-0.059),
+medium (0.06-0.13), and large (>0.13).23 Convergent validity was evaluated by
+comparing the relationship between instruments measuring similar health concepts
+using Spearman’s rank correlation coefficients. The strength of the correlation was
+determined using established criteria as follows: weak or no correlation (r < 0.25),
+moderate (0.25 ≤ r < 0.50), moderate to strong (0.50 ≤ r < 0.75), and strong (r ≥
+0.75).24 Responsiveness refers to the ability of the questionnaires to detect changes in
+eye health status over time. This was assessed using scores from patients who
+perceived their eye health status as improved or worsened at follow-up.
+Responsiveness was evaluated by calculating the standardized effect size to compare
+QoL scores between the 2 time points. A value of 0.2 indicated low sensitivity to eye
+health change, 0.5 represented moderate sensitivity, and 0.8 suggested high
+sensitivity to eye health change.24 All statistical analyses were done using IBM SPSS
+version 29. P < .050 were considered statistically significant.
+
+Results
+The study initially recruited 421 participants, but 120 individuals declined to
+participate, resulting in a refusal rate of 28.5%. This reduced the number of
+participants to 301 for the first interview. Approximately 46% of participants selfcompleted the questionnaires, whereas the remaining responses were read aloud by
+researchers without any interpretation. Following the first interview, 26 participants
+were unable to complete the second interview, with 3 declining to be interviewed
+and 23 being unreachable. Ultimately, 275 participants completed the second
+interview. Baseline characteristics of the participants and participant flow chart are
+presented in Appendix 1 in Supplemental Materials found at
+https://doi.org/10.1016/j.vhri.2025.101498 . Most of the participants were women
+and were between 61 and 70 years old. Around 53% of participants had a bachelor’s
+degree or higher. Retinal diseases were the most common concurrent ocular disease
+among participants, and >80% of participants had no vision impairment with the
+better-seeing eye. Most participants (78.1%) had at least 1 systemic comorbidity. EQ5D-5L and its vision bolt-on variant showed higher mean scores than their EQ-5D-3L
+counterparts (Table 1).
+Table 1. Questionnaire scores, response time, and ceiling effects.
+Questionnaires
+
+Mean score (SD) Median score (IQR) Score range Response time (m
+mean (SD)
+
+EQ-5D-3L
+
+0.75 (0.21)
+
+0.71 (0.61-1.00)
+
+−0.15 to 1.00 1:06 (0:36)
+
+EQ-5D-5L
+
+0.87 (0.13)
+
+0.89 (0.82-0.94)
+
+0.17-1.00
+
+1:33 (0:50)
+
+View PDF
+
+
+[page 6]
+Questionnaires
+score (SD)
+Median
+score
+(IQR)
+Score
+Response
+timein
+(mPatie…
+Translation
+and Testing Mean
+Psychometric
+Properties
+of the
+Thai
+Version
+ofrange
+Vision Bolt-On
+EQ-5D
+mean (SD)
+
+Article
+
+EQ-VAS
+
+Recommended articles
+
+Metrics
+
+0.74 (0.15)
+
+0.80 (0.70-0.80)
+
+0.10-1.00
+
+0:36 (0:19)
+
+Vision bolt-on EQ-5D-3L 0.91 (0.10)
+
+0.93 (0.86-0.99)
+
+0.16-1.00
+
+0:18 (0:12)
+
+Vision bolt-on EQ-5D-5L 0.81 (0.17)
+
+0.84 (0.76-0.92)
+
+−0.24 to 1.00 0:24 (0:16)
+
+IQR indicates interquartile range; VAS, visual analogue scale.
+
+The practicality assessment revealed that all questionnaires were fully completed,
+with no missing data or refusals after participants agreed to participate,
+demonstrating full compliance and engagement. The results indicate that the EQ-5D5L is slightly more time-consuming but reduces ceiling effects compared to the EQ5D-3L. The original EQ-5D questionnaires had higher ceiling effects. The vision bolton components add minimal time burden while maintaining low ceiling effects
+below 15% (9.3% and 5.32% for vision bolt-on EQ-5D-3L and EQ-5D-5L, respectively)
+(Table 1). The test-retest reliability, measured using ICC, indicated equally moderate
+to good agreement in all instruments (Table 2). Weighted kappa showed that the
+vision bolt-on dimension had good agreement in both versions, with a slightly higher
+kappa value in EQ-5D-5L (0.66) compared to EQ-5D-3L (0.59) (Table 3). The vision
+bolt-on had the highest kappa value among all domains in the EQ-5D-5L, whereas it
+ranked third in the EQ-5D-3L.
+Table 2. Intraclass correlation of the questionnaires.
+Questionnaires
+
+Single measures ICC (95% CI)
+
+P value
+
+EQ-5D-3L
+
+0.63 (0.51-0.72)
+
+<.001
+
+EQ-5D-5L
+
+0.65 (0.53-0.75)
+
+<.001
+
+EQ-VAS
+
+0.58 (0.45-0.69)
+
+<.001
+
+Vision bolt-on EQ-5D-3L∗
+
+0.62 (0.48-0.73)
+
+<.001
+
+Vision bolt-on EQ-5D-5L∗
+
+0.64 (0.49-0.75)
+
+<.001
+
+Note. ICC of <0.40 indicates poor agreement; 0.40-0.74 indicates fair to good agreement; and
+≥0.75 indicates excellent agreement.
+ICC indicates intraclass correlation.
+∗
+
+The ICC was calculated on the overall utility score that combines the standard EQ-5D with
+the new vision bolt-on.
+
+Table 3. Weighted kappa of each domain of the questionnaires.
+Domains
+
+Weighted kappa (95% CI)∗
+EQ-5D-3L
+
+EQ-5D-5L
+
+Mobility
+
+0.62 (0.47-0.76)
+
+0.52 (0.38-0.65)
+
+Self-care
+
+0.70 (0.42-0.98)
+
+0.62 (0.33-0.91)
+
+View PDF
+
+
+[page 7]
+Domains
+Weighted
+kappa
+(95%
+CI)∗
+Translation and Testing Psychometric
+Properties
+of the
+Thai
+Version of Vision Bolt-On EQ-5D in Patie…
+
+Article
+
+EQ-5D-3L
+
+Recommended articles
+
+EQ-5D-5L
+
+Metrics
+
+Usual activities
+
+0.44 (0.26-0.61)
+
+0.42 (0.25-0.59)
+
+Pain/discomfort
+
+0.39 (0.23-0.54)
+
+0.42 (0.29-0.56)
+
+Anxiety/depression
+
+0.57 (0.42-0.72)
+
+0.47 (0.34-0.60)
+
+Vision bolt-on
+
+0.59 (0.46-0.73)
+
+0.66 (0.55-0.76)
+
+Note. Weighted kappa <0.40 indicates poor agreement; 0.40-0.75 indicates fair to good
+agreement; and >0.75 indicates excellent agreement.
+∗
+
+All P values are < .001.
+
+In the known-group validity assessment, no statistically significant differences in
+mean scores were observed across different sex and age groups in any of the
+questionnaires. Although significant differences were observed in education levels for
+EQ-5D-3L, EQ-5D-5L, and vision bolt-on EQ-5D-3L, the effect sizes were small. All
+questionnaires were sensitive to different numbers of comorbidities and the level of
+vision impairment in the better-seeing eye. The vision bolt-on domains demonstrated
+stronger effect sizes among the vision impairment categories, particularly when
+distinguishing on the basis of the visual acuity of the worse-seeing eye (Table 4). In
+terms of convergent validity, both EQ-5D-5L and vision bolt-on EQ-5D-5L exhibited
+similar correlations with EQ-VAS (Spearman’s rho = 0.404 and 0.402, respectively),
+whereas the vision bolt-on EQ-5D-3L demonstrated a slightly stronger correlation
+with EQ-VAS compared to the EQ-5D-3L (Spearman’s rho = 0.442 vs 0.405) (Table 5).
+All questionnaires showed moderate responsiveness to eye health status in the
+improvement group (Table 6). The instruments were generally less responsive to
+worsening health. The vision bolt-on EQ-5D-5L demonstrated the strongest
+responsiveness to both eye health improvements and deteriorations (standardized
+effect size = 0.486 and 0.659, respectively).
+Table 4. Known-groups validity assessment of the questionnaires.
+Patient characteristics
+
+EQ-5D-3L
+
+EQ-5D-5L
+
+EQ-VAS
+
+Vision bolt-on EQ-5D-
+
+Sex
+Male (N = 123)
+
+0.77 (0.22) 0.88 (0.12) 0.75 (0.14) 0.91 (0.12)
+
+Female (N = 178)
+
+0.74 (0.20) 0.87 (0.13) 0.74 (0.15) 0.91 (0.09)
+
+Effect size
+
+0.08
+
+0.05
+
+P value
+
+.190
+
+.390
+
+∗
+
+0.04
+∗
+
+.500
+
+0.04
+∗
+
+.460
+
+∗
+
+Age group
+18-40 years (N = 34)
+
+0.77 (0.22) 0.87 (0.12) 0.77 (0.15) 0.90 (0.12)
+
+41-50 years (N = 39)
+
+0.75 (0.20) 0.88 (0.15) 0.78 (0.17) 0.90 (0.11)
+
+51-60 years (N = 66)
+
+0.76 (0.18) 0.90 (0.09) 0.71 (0.14) 0.91 (0.08)
+
+61-70 years (N = 97)
+
+0.76 (0.21) 0.88 (0.12) 0.74 (0.15) 0.91 (0.08)
+
+>70 years (N = 65)
+
+0.72 (0.24) 0.84 (0.16) 0.75 (0.15) 0.90 (0.17)
+
+View PDF
+
+
+[page 8]
+Patient
+characteristics
+EQ-5D-5L
+EQ-VAS of Vision
+Vision
+bolt-on
+EQ-5DTranslation and
+Testing Psychometric EQ-5D-3L
+Properties of the
+Thai Version
+Bolt-On
+EQ-5D
+in Patie…
+Effect size
+
+Article
+
+0.01
+
+Recommended articles
+
+P value
+
+.76†
+
+0.01
+
+0.03
+
+0.00
+
+.39†
+
+.06†
+
+.98†
+
+Metrics
+
+Educational level
+Lower than bachelor’s degree (N =
+
+0.73 (0.21) 0.86 (0.14) 0.73 (0.16) 0.90 (0.11)
+
+141)
+Bachelor’s degree or higher (N =
+
+0.77 (0.20) 0.89 (0.12) 0.76 (0.14) 0.92 (0.10)
+
+160)
+Effect size
+
+0.13
+
+0.14
+
+0.10
+
+0.09
+
+P value
+
+.02
+
+.02
+
+.07
+
+.12
+
+∗
+
+∗
+
+∗
+
+∗
+
+Comorbidities
+None (N = 66)
+
+0.86 (0.18) 0.93 (0.08) 0.81 (0.15) 0.94 (0.08)
+
+1 (N = 95)
+
+0.78 (0.19) 0.89 (0.10) 0.78 (0.12) 0.92 (0.08)
+
+2 (N = 59)
+
+0.73 (0.19) 0.88 (0.10) 0.73 (0.13) 0.90 (0.09)
+
+≥3 (N = 81)
+
+0.65 (0.22) 0.80 (0.17) 0.66 (0.16) 0.87 (0.13)
+
+Effect size
+
+0.11
+
+0.11
+
+0.14
+
+0.09
+
+P value
+
+<.001†
+
+<.001†
+
+<.001†
+
+<.001†
+
+Vision impairment (better eye)
+No (N = 245)
+
+0.78 (0.20) 0.89 (0.12) 0.76 (0.14) 0.92 (0.09)
+
+Mild (N = 15)
+
+0.65 (0.13) 0.84 (0.11) 0.71 (0.17) 0.91 (0.05)
+
+Moderate (N = 28)
+
+0.64 (0.24) 0.79 (0.18) 0.67 (0.18) 0.84 (0.17)
+
+Severe (N = 1)
+
+1.00 (NA)
+
+Blindness (N = 12)
+
+0.59 (0.21) 0.80 (0.13) 0.66 (0.17) 0.78 (0.13)
+
+Effect size
+
+0.08
+
+0.08
+
+0.04
+
+0.08
+
+P value
+
+<.001†
+
+<.001†
+
+.01†
+
+<.001†
+
+1.00 (NA)
+
+0.80 (NA)
+
+0.99 (NA)
+
+Vision impairment (worse eye)
+No (N = 139)
+
+0.78 (0.19) 0.90 (0.11) 0.76 (0.13) 0.93 (0.07)
+
+Mild (N = 12)
+
+0.70 (0.14) 0.87 (0.08) 0.71 (0.16) 0.91 (0.06)
+
+Moderate (N = 77)
+
+0.77 (0.20) 0.87 (0.13) 0.74 (0.16) 0.91 (0.09)
+
+Severe (N = 4)
+
+0.53 (0.25) 0.68 (0.34) 0.64 (0.39) 0.77 (0.24)
+
+Blindness (N = 69)
+
+0.69 (0.24) 0.84 (0.14) 0.72 (0.16) 0.86 (0.14)
+
+Effect size
+
+0.04
+
+0.04
+
+0.02
+
+0.07
+
+P value
+
+.01†
+
+.01†
+
+.33†
+
+<.001†
+
+Note. All data are presented as mean (SD); bold values indicate P < .050.
+VAS indicates visual analogue scale.
+∗
+
+View PDF
+
+
+[page 9]
+Mann-Whitney U tests: effect size of <0.3 indicates small; 0.3-0.5 indicates medium; and
+
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+>0.5 indicates large.
+
+Article
+†
+
+Recommended articles
+
+Metrics
+
+Kruskal-Wallis tests: effect size of 0.01-0.059 indicates small; 0.06-0.13 indicates medium;
+and >0.13 indicates large.
+
+Table 5. Spearman’s rank correlation between questionnaires.
+Spearman’s rho (r)∗
+
+EQ-5D-5L Vision bolt-on EQ-5D-5L EQ-VAS EQ-5D-3L Vision bolt-
+
+EQ-5D-5L
+
+1.000
+
+Vision bolt-on EQ-5D-5L
+
+0.872
+
+0.404
+
+0.828
+
+0.721
+
+1.000
+
+0.402
+
+0.728
+
+0.793
+
+1.000
+
+0.405
+
+0.442
+
+1.000
+
+0.843
+
+EQ-VAS
+EQ-5D-3L
+Vision bolt-on EQ-5D-3L
+
+1.000
+
+Note. An r < 0.25 indicates weak or no correlation; ≥0.25 to <0.50 indicates moderate
+correlation; ≥0.50 to <0.75 indicates moderate to strong correlation; and ≥0.75 indicates
+strong correlation.
+∗
+
+All P = .010.
+
+Table 6. Responsiveness of the questionnaires.
+Eye health status
+
+Mean change
+
+SD
+
+P value∗
+
+SES
+
+EQ-5D-3L
+
+0.076
+
+0.186
+
+<.001
+
+0.406
+
+EQ-5D-5L
+
+0.038
+
+0.090
+
+<.001
+
+0.351
+
+EQ-VAS
+
+0.065
+
+0.132
+
+<.001
+
+0.457
+
+Vision bolt-on EQ-5D-3L
+
+0.031
+
+0.064
+
+<.001
+
+0.405
+
+Vision bolt-on EQ-5D-5L
+
+0.063
+
+0.112
+
+<.001
+
+0.486
+
+EQ-5D-3L
+
+−0.070
+
+0.170
+
+.06
+
+0.267
+
+EQ-5D-5L
+
+−0.003
+
+0.098
+
+.82
+
+0.014
+
+EQ-VAS
+
+−0.011
+
+0.120
+
+.67
+
+0.052
+
+Vision bolt-on EQ-5D-3L
+
+−0.032
+
+0.098
+
+.15
+
+0.158
+
+Vision bolt-on EQ-5D-5L
+
+−0.022
+
+0.136
+
+.91
+
+0.659
+
+Better (N = 121)
+
+Worse (N = 24)
+
+Note. SES of 0.2 indicates low sensitivity; 0.5 indicates moderate sensitivity; and 0.8 indicates
+high sensitivity.
+SES indicates standardized effect size.
+∗
+
+View PDF
+
+
+[page 10]
+Wilcoxon signed rank test.
+
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+Article
+
+Recommended articles
+
+Metrics
+
+Discussion
+This study investigated the psychometric properties of the Thai versions of the vision
+bolt-on EQ-5D-3L and vision bolt-on EQ-5D-5L, comparing them with the standard
+EQ-5D-3L, EQ-5D-5L, and EQ-VAS. Overall, our findings suggest that adding the vision
+dimension offers enhanced sensitivity to vision-related health states. This is
+consistent with previous work on vision bolt-ons in other settings8,9 and aligns with
+a broader research strategy of using task-specific bolt-ons for particular populations,
+such as adding a "respiratory" dimension for patients with chronic obstructive
+pulmonary disease25 or "interpersonal relationships" for the Thai population.26
+Below, we discuss our key results in the context of previous research on EQ-5D
+instruments and their adaptations.
+In terms of practicality, our study demonstrated no missing data and a 0% refusal rate
+among participants who agreed to take part, indicating that the questionnaires were
+acceptable and feasible in this Thai population. The short completion times for the
+bolt-on items (a mean of 18-24 seconds) also support their practicality. These
+findings align with the general usability of the EQ-5D, which has been widely
+reported as brief and user-friendly.2 Both instruments showed moderate to good test retest reliability, with ICC values ranging from 0.62 to 0.64 and weighted kappa
+values from 0.59 to 0.66, which were similar to their original counterparts. The ICC
+values in this study aligned with the results from other psychometric studies of the
+EQ-5D conducted in similar Thai populations.11,27 When placed in this context, these
+values are shown to be consistent and acceptable; for instance, a study by
+Pattanaphesaj et al27 in Thai diabetes patients found a nearly identical ICC of 0.64 for
+the EQ-5D-3L index. Although some guidelines recommend ICC values above 0.70 for
+excellent reliability,28 questionnaires capturing broad aspects of health with less
+number of items might yield lower ICC values.29 Our results are also consistent with
+similar validation studies of the EQ-5D-5L, which also reported ICCs in the moderate to-good range.30 Notably, the vision bolt-on EQ-5D-5L showed slightly higher ICC
+values than the 3L version, suggesting that the additional scales may improve test retest stability in capturing changes or consistency in vision-related health.
+In line with our expectations regarding known-groups validity, participants with
+comorbidities and more severe vision impairment reported significantly lower QoL
+scores, indicating that both standard EQ-5D and vision bolt-on versions can
+differentiate between health states. These findings align with previous research
+indicating that generic instruments effectively capture major health decrements,7
+whereas the bolt-on additions can further distinguish the severity of visual
+impairment, as previously demonstrated in the original English version.9 However,
+there were no significant differences by sex or age, possibly reflecting the cross sectional nature of our data and the relatively narrow age distribution of participants.
+A notable finding was the significant differences by educational level (albeit with
+small effect sizes), suggesting that social determinants of health can influence self reported QoL.31 Correlations between EQ-5D versions and their vision bolt-ons were
+high (Spearman’s rho 0.84-0.87), indicating that the bolt-on dimension is well
+integrated into the overall health construct with good convergent validity.
+Correlations with EQ-VAS were moderate (0.40-0.45), which aligns with previous
+studies noting that a single, overall self-rating (the VAS) may not fully capture the
+
+View PDF
+
+
+[page 11]
+multidimensional nature of health,32 reinforcing the need for condition-specific
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+measures such as the vision bolt-ons. The relatively stronger correlation of the vision
+bolt-on
+EQ-5D-3L
+with the VAS
+compared to
+the standard 3L suggests that vision Article
+Recommended
+articles
+Metrics
+specific issues contribute substantially to individuals’ overall health perception.
+Concerning responsiveness, when participants reported feeling “better,” the vision
+bolt-on EQ-5D-5L showed the largest standardized effect size, indicating moderate
+sensitivity to improvements in health. This aligns with previous research
+demonstrating that the vision bolt-on dimensions can enhance the sensitivity of the
+EQ-5D to the benefit of cataract surgery.8 However, for those who felt “worse,”
+changes were generally not significant, which might reflect the relatively small
+number of participants in the “worsening” group or the possibility that subtle
+declines in eye health may be harder to detect in a short follow-up period. This
+asymmetrical responsiveness, in which health outcome instruments in
+ophthalmology can often detect improvement more robustly than they can detect
+decline, aligns with findings in other research.33,34 Future longitudinal studies with
+larger samples experiencing deterioration could provide additional evidence on
+downward responsiveness. Our study also revealed that EQ-5D-3L exhibited higher
+ceiling effects (35%) than the EQ-5D-5L (23%)—a pattern consistently reported in the
+literature.2,35 The vision bolt-on versions further reduced ceiling effects (5%-9%),
+which suggests that adding a vision dimension can help discriminate mild or
+moderate health problems that might otherwise go unnoticed on the standard
+instrument. This finding highlights the benefit of a bolt-on domain where specific
+aspects of functioning, such as vision, are critically relevant.
+Our work correlates with the previous research by Gandhi et al8 and Luo et al,9 which
+demonstrated that including a vision dimension could enhance both the
+discriminative ability and responsiveness of EQ-5D in populations with eye
+conditions. Similarly, Herdman et al2 and Janssen et al35 reported that the EQ-5D-5L
+version generally improves measurement precision and reduces ceiling effects
+compared to the 3L. We extend these findings to a Thai-speaking population,
+confirming that the vision bolt-on is feasible and reliable in a non-English setting—a
+gap previously identified in the literature. The bolt-ons also enhance sensitivity
+without significantly increasing the response time of the questionnaires. Our results
+suggest that the Thai vision bolt-on can capture meaningful differences in vision related QoL while retaining the advantages of a generic, preference-based measure.
+This study has several notable strengths. First, it employed robust translation and
+validation procedures, including forward-backward translation, and a cognitive
+debriefing process, ensuring linguistic and conceptual equivalence of the Thai vision
+bolt-on versions. Second, the large sample size and full data completion rate
+underscore the feasibility and acceptability of these instruments for Thai
+participants. Third, including both 3L and 5L versions alongside the vision bolt-on
+items offers comprehensive insights into how each variant performs in terms of
+reliability, validity, responsiveness, and practicality. However, this study has several
+notable limitations. First, the sample was recruited via convenience sampling from a
+single tertiary hospital, resulting in a highly educated cohort that was also
+predominantly composed of individuals with no vision impairment in their better seeing eye (over 80%). Consequently, the very small subgroups for severe impairment
+(N = 1) and blindness (N = 12) limit the generalizability of our findings to more
+severely impaired populations and warrant further validation in such cohorts.
+Second, the relatively small number of participants reporting worsening health
+
+View PDF
+
+
+[page 12]
+constrained the analysis of responsiveness to decline, and further research with a
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+larger "worsening" subgroup is needed. In addition, the study population may not be
+fully
+representative
+of all Thai articles
+individuals with
+visual impairments, limiting the
+Article
+Recommended
+Metrics
+generalizability of these findings. Another important limitation is the absence of a
+Thai value set for the vision bolt-on utility score, which restricts the ability to derive
+preference-based utility estimates tailored to Thai cultural and societal contexts.
+Finally, the cross-sectional nature of most comparisons restricts conclusions about
+long-term changes in health status. Future longitudinal studies could help confirm
+the long-term responsiveness, predictive validity, and utility valuation of these
+instruments.
+
+Conclusions
+In conclusion, the Thai versions of the vision bolt-on EQ-5D-3L and EQ-5D-5L
+demonstrated acceptable reliability, strong known-group validity, and moderate
+responsiveness, particularly for detecting improvements in vision-related health. The
+instrument's responsiveness to worsening vision could not be confirmed, likely
+because of the small sample size of this subgroup. However, the 5L version seemed
+more sensitive overall, reducing ceiling effects to a greater extent and showing a
+higher effect size when participants reported feeling better, suggesting it may be
+more suitable for capturing subtler differences in vision-related QoL. These findings
+underscore the practical and clinical value of adding a vision dimension to EQ-5D
+instruments in Thai-speaking populations, enabling more precise evaluations of
+interventions aimed at visual health. Future longitudinal research is recommended to
+further confirm its performance in detecting health declines and to broaden its use.
+
+Article and Author Information
+Authorship Confirmation: All authors certify that they meet the ICMJE criteria for
+authorship.
+Funding/Support: This work was supported by grants number RA 67/018 from the
+Ratchadapiseksompoch Fund, Faculty of Medicine, Chulalongkorn University.
+Role of the Funder/Sponsor: The funder had no role in the design and conduct of the
+study; collection, management, analysis, and interpretation of the data; preparation,
+review, or approval of the manuscript; and decision to submit the manuscript for
+publication.
+
+Author Disclosures
+Author disclosure forms can be accessed below in the Supplemental Material
+section.
+
+Supplemental Material
+Download all supplementary files included with this article
+
+What’s this?
+
+View PDF
+
+
+[page 13]
+Translation
+and Download
+Testing Psychometric
+of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+Download:
+Acrobat PDFProperties
+file (973KB)
+
+Author Disclosure.
+Article
+Recommended articles
+
+Metrics
+
+Download: Download Acrobat PDF file (46KB)
+
+Supplemental Material.
+
+References
+1
+
+EuroQol Group
+
+EuroQol--a new facility for the measurement of health-related quality
+of life
+Health Policy, 16 (3) (1990), pp. 199-208
+Google Scholar
+2
+
+M. Herdman, C. Gudex, A. Lloyd, et al.
+
+Development and preliminary testing of the new five-level version of
+EQ-5D (EQ-5D-5L)
+Qual Life Res, 20 (10) (2011), pp. 1727-1736
+Crossref
+3
+
+View in Scopus
+
+Google Scholar
+
+Y.S. Feng, T. Kohlmann, M.F. Janssen, I. Buchholz
+
+Psychometric properties of the EQ-5D-5L: a systematic review of the
+literature
+Qual Life Res, 30 (3) (2021), pp. 647-673
+Crossref
+4
+
+View in Scopus
+
+Google Scholar
+
+E.K. Fenwick, K. Pesudovs, J. Khadka, et al.
+
+The impact of diabetic retinopathy on quality of life: qualitative
+findings from an item bank development project
+Qual Life Res, 21 (10) (2012), pp. 1771-1782
+Crossref
+5
+
+View in Scopus
+
+Google Scholar
+
+P.F. Pongsachareonnont, P. Sakthong, V. Chaikitmongkol, et al.
+
+Health utility values among patients with diabetic retinopathy, wet
+age-related macular degeneration, and cataract in Thailand: a
+multicenter survey using time trade-off, EQ-5D-5L, and Health Utility
+Index 3
+Value Health Reg Issues, 44 (2024), Article 101030
+View PDF
+6
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+K. Kangwanrattanakul, W. Phimarn
+
+A systematic review of the development and testing of additional
+dimensions for the EQ-5D descriptive system
+Expert Rev Pharmacoecon Outcomes Res, 19 (4) (2019), pp. 431-443
+Crossref
+7
+
+View in Scopus
+
+Google Scholar
+
+L. Longworth, Y. Yang, T. Young, et al.
+
+Use of generic and condition-specific measures of health-related
+quality of life in NICE decision-making: a systematic review, statistical
+modelling and survey
+Health Technol Assess, 18 (9) (2014), pp. 1-224
+View in Scopus
+
+Google Scholar
+
+View PDF
+
+
+[page 14]
+8
+M. Gandhi, M. Ang, K. Teo, et al.
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+
+A vision ‘bolt-on’ increases the responsiveness of EQ-5D: preliminary
+
+evidence Recommended
+from a study
+of cataract Metrics
+surgery
+Article
+articles
+Eur J Health Econ, 21 (4) (2020), pp. 501-511
+Crossref
+9
+
+View in Scopus
+
+Google Scholar
+
+N. Luo, X. Wang, M. Ang, et al.
+
+A vision “Bolt-On” item could increase the discriminatory power of
+the EQ-5D index score
+Value Health, 18 (8) (2015), pp. 1037-1042
+View PDF
+10
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+S. Isipradit, M. Sirimaharaj, P. Charukamnoetkanok, et al.
+
+The first rapid assessment of avoidable blindness (RAAB) in Thailand
+PLoS One, 9 (12) (2014), Article e114245
+Crossref
+11
+
+View in Scopus
+
+Google Scholar
+
+P. Sakthong, N. Sonsa-Ardjit, P. Sukarnjanaset, W. Munpan
+
+Psychometric properties of the EQ-5D-5L in Thai patients with chronic
+diseases
+Qual Life Res, 24 (12) (2015), pp. 3015-3022
+Crossref
+12
+
+View in Scopus
+
+Google Scholar
+
+D. Wild, A. Grove, M. Martin, et al.
+
+Principles of Good Practice for the Translation and Cultural Adaptation
+Process for Patient-Reported Outcomes (PRO) Measures: report of the
+ISPOR Task Force for Translation and Cultural Adaptation
+Value Health, 8 (2) (2005), pp. 94-104
+View PDF
+
+View article
+
+Crossref
+
+View in Scopus
+
+Google Scholar
+13
+
+S. Eremenco, S. Pease, S. Mann, P. Berry, PRO Consortium’s Process Subcommittee.
+Subcommittee PROCsP
+
+Patient-Reported Outcome (PRO) Consortium translation process:
+consensus development of updated best practices
+J Patient Rep Outcomes, 2 (1) (2017), p. 12
+Google Scholar
+14
+
+E.Q. EuroQol
+
+5D Translation Guildelines: EuroQol
+(2021)
+Google Scholar
+15
+
+F. Faul, E. Erdfelder, A. Buchner, A.G. Lang
+
+Statistical power analyses using G∗Power 3.1: tests for correlation and
+regression analyses
+Behav Res Methods, 41 (4) (2009), pp. 1149-1160
+View in Scopus
+16
+
+Google Scholar
+
+International Classification of Diseases. 11th revision, World Health Organization
+(WHO), Geneva (2019)
+
+(ICD-11)
+https://icd.who.int/en/ , Accessed 3rd Mar 2025
+
+View PDF
+
+
+[page 15]
+Google Scholar
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+17
+
+S. Tongsiri, J. Cairns
+Article
+Recommended articles
+
+Metrics
+
+Estimating population-based values for EQ-5D health states in
+Thailand
+Value Health, 14 (8) (2011), pp. 1142-1145
+View PDF
+
+18
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+J. Pattanaphesaj, M. Thavorncharoensap, J.M. Ramos-Goni, S. Tongsiri, L.
+Ingsrisawang, Y. Teer awat tanan on
+
+The EQ-5D-5L Valuation study in Thailand
+Expert Rev Pharmacoecon Outcomes Res, 18 (5) (2018), pp. 551-558
+Crossref
+19
+
+View in Scopus
+
+Google Scholar
+
+Z. Yang, K. Rand, J. Busschbach, N. Luo
+
+Cross-attribute level effects models for modeling modified 5-level
+version of EQ-5D health state values: is less still more?
+Value Health, 26 (6) (2023), pp. 865-872
+View PDF
+
+View article
+
+Crossref
+
+View in Scopus
+
+Google Scholar
+20
+
+H.T. Maindal, I. Sokolowski, P. Vedsted
+
+Translation, adaptation and validation of the American short form
+Patient Activation Measure (PAM13) in a Danish version
+BMC Public Health, 9 (2009), p. 209
+View in Scopus
+21
+
+Google Scholar
+
+B.A. Rosner
+
+Fundamentals of biostatistics
+Duxbury (2000)
+Google Scholar
+22
+
+J.L. Fleiss, B. Levin, M.C. Paik
+
+Statistical Methods for Rates and Proportions
+Wiley, Hoboken, NJ (2013)
+Google Scholar
+23
+
+J. Cohen
+
+Statistical Power Analysis for the Behavioral Science
+(2nd ed.), Routledge, New York, NY (2013)
+Google Scholar
+24
+
+J. Cohen, P. Cohen
+
+Applied Multiple Regression/Correlation Analysis for the Behavioral
+Science
+Taylor & Francis Group, Abingdon, United Kingdom (1983)
+Google Scholar
+25
+
+M. Hoogendoorn, S. Jowett, A.P. Dickens, et al.
+
+Performance of the EQ-5D-5L plus respiratory Bolt-On in the
+Birmingham chronic obstructive pulmonary disease cohort study
+Value Health, 24 (11) (2021), pp. 1667-1675
+View PDF
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+View PDF
+
+
+[page 16]
+26
+K. Kangwanrattanakul, C.R. Gross, M. Sunantiwat, M. Thavorncharoensap
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+
+Exploration of a cultural-adaptation of the EQ-5D for Thai population:
+
+a “bolt-on”
+experiment
+Article
+Recommended
+articles
+
+Metrics
+
+Qual Life Res, 28 (5) (2018), pp. 1207-1215
+Google Scholar
+27
+
+J. Pattanaphesaj, M. Thavorncharoensap
+
+Measurement properties of the EQ-5D-5L compared to EQ-5D-3L in
+the Thai diabetes patients
+Health Qual Life Outcomes, 13 (2015), p. 14
+Crossref
+28
+
+View in Scopus
+
+Google Scholar
+
+C.B. Terwee, S.D. Bot, M.R. de Boer, et al.
+
+Quality criteria were proposed for measurement properties of health
+status questionnaires
+J Clin Epidemiol, 60 (1) (2007), pp. 34-42
+View PDF
+29
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+M.H. Frost, B.B. Reeve, A.M. Liepa, J.W. Stauffer, R.D. Hays, M. FDAP-ROCMG
+
+What is sufficient evidence for the reliability and validity of patient reported outcome measures?
+Value Health, 10 (suppl 2) (2007), pp. S94-S105
+View PDF
+30
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+M.F. Janssen, E. Birnie, J.A. Haagsma, G.J. Bonsel
+
+Comparing the standard EQ-5D three-level system with a five-level
+version
+Value Health, 11 (2) (2008), pp. 275-284
+View PDF
+
+View article
+
+Crossref
+
+View in Scopus
+
+Google Scholar
+31
+
+J. Kivits, M.L. Erpelding, F. Guillemin
+
+Social determinants of health-related quality of life
+Rev Epidemiol S Publ, 61 (suppl 3) (2013), pp. S189-S194
+View PDF
+32
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+Devlin N, Parkin D, Janssen B. Analysis of EQ VAS data. In: Methods for
+Analysing and Reporting EQ-5D Data2020.:51-59.
+Google Scholar
+
+33
+
+I.J. Suner, N.M. Bressler, R. Varma, C.M. Dolan, J. Ward, A. Turpcu
+
+Responsiveness of the National Eye Institute visual function
+questionnaire-25 to visual acuity gains in patients with diabetic
+macular edema: evidence from the RIDE and RISE trials
+Retina, 37 (6) (2017), pp. 1126-1133
+View in Scopus
+34
+
+Google Scholar
+
+S.R. Hatt, D.A. Leske, J.M. Holmes
+
+Responsiveness of health-related quality-of-life questionnaires in
+adults undergoing strabismus surgery
+Ophthalmology, 117 (12) (2010), pp. 2322-2328.e1
+View PDF
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+View PDF
+
+
+[page 17]
+35
+M.F. Janssen, A.S. Pickard, D. Golicki, et al.
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+
+Measurement properties of the EQ-5D-5L compared to the EQ-5D-3L
+
+View PDF
+
+across eight
+patient groups:
+study
+Article
+Recommended
+articles a multi-country
+Metrics
+Qual Life Res, 22 (7) (2013), pp. 1717-1727
+Crossref
+
+View in Scopus
+
+Google Scholar
+
+Recommended articles
+Based on reading popularity
+Review article
+
+Follicular Unit Excision: Current Practice and Future Developments
+Gorana Kuka Epstein, …, Jelena Nikolic
+Facial Plastic Surgery Clinics of North America • Volume 28, Issue 2 • 2020 • Pages 169-176
+Research article
+
+Autologous cell–based therapy for male and female pattern hair loss using dermal sheath cup cells: A randomized placebocontrolled double-blinded dose-finding clinical study
+Ryoji Tsuboi, …, Jiro Kishimoto
+Journal of the American Academy of Dermatology • Volume 83, Issue 1 • 2020 • Pages 109-116
+Research article
+
+Contexts Matter: Robot-Aware 3D human motion prediction for Agentic AI-empowered Human-Robot collaboration
+Xiaoyun Liang, …, Jiannan Cai
+Advanced Engineering Informatics • Volume 68, Part A • 2025 • Article 103591
+Research article
+
+Integration of dynamic knowledge and LLM for adaptive human-robot collaborative assembly solution generation
+Yiwei Hua, …, Yan Yan
+Advanced Engineering Informatics • Volume 68, Part A • 2025 • Article 103613
+Review article
+
+Open access
+
+Evaluating engine durability and operational effects of biodiesel blends in heavy equipment applications
+Uhanto Uhanto, …, Ratna Ariati
+Next Energy • Volume 9 • 2025 • Article 100392
+
+View PDF
+Research article
+
+Knowledge vortex network for continuous bearing remaining useful life prediction
+Jianghong Zhou, …, Yi Qin
+Advanced Engineering Informatics • Volume 68, Part A • 2025 • Article 103577
+
+Metrics
+Captures
+Mendeley Readers
+
+2
+View details
+
+
+[page 18]
+© 2025 The Authors. Published by Elsevier Inc. on behalf of International Society for Pharmacoeconomics and Outcomes Research, Inc.
+Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patie…
+View PDF
+
+Article
+
+Recommended articles
+
+Metrics
+
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content,
+the relevant licensing terms apply.
+

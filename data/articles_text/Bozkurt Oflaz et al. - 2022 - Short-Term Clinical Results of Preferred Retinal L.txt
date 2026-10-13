@@ -1,0 +1,986 @@
+[page 1]
+Bozkurt Oflaz et al. Results of Preferred Retinal Locus Training
+
+DOI: 10.4274/tjo.galenos.2021.73368
+Turk J Ophthalmol 2022;52:14-22
+
+Ori­gi­nal Ar­tic­le
+
+Short-Term Clinical Results of Preferred Retinal Locus
+Training
+Ayşe Bozkurt Oflaz*,
+Süleyman Okudan**
+
+Banu Turgut Öztürk**,
+
+Şaban Gönül**,
+
+Berker Bakbak**,
+
+Şansal Gedik**,
+
+*University of Health Sciences Turkey, Adana City Training and Research Hospital, Clinic of Ophthalmology, Adana, Turkey
+**Selçuk University Faculty of Medicine, Department of Ophthalmology, Konya, Turkey
+
+Abstract
+Objectives: This study evaluated acoustic biofeedback training using microperimetry in patients with foveal scars and an eligible
+retinal locus for better fixation.
+Materials and Methods: A total of 29 eligible patients were enrolled in the study. The acoustic biofeedback training module in the
+MAIA (Macular Integrity Assessment, CenterVue®, Italy) microperimeter was used for training. To determine the treatment efficacy, the
+following variables were compared before and after testing: best corrected visual acuity (BCVA); MAIA microperimeter full threshold 4-2
+test parameters of average threshold value, fixation parameters P1 and P2, and bivariate contour ellipse area (BCEA) for 63% and 95%
+of fixation points; contrast sensitivity (CSV 1000E Contrast Sensitivity Test); reading speed using the Minnesota Low-Vision Reading
+Test (MNREAD reading chart); and quality of life (NEI-VFQ-25). In addition, fixation stability parameters were recorded during each
+session.
+Results: The study group consisted of 29 patients with a mean age of 68.72±8.34 years. Median BCVA was initially 0.8 (0.2-1.6)
+logMAR and was 0.8 (0.1-1.6) logMAR after 8 weeks of preferred retinal locus training (p=0.003). The fixation stability parameter P1
+improved from a mean of 21.28±3.08% to 32.69±3.69% (p=0.001) while mean P2 improved from 52.79±4.53% to 68.31±3.89%
+(p=0.001). Mean BCEA 63% decreased from 16.11±2.27°2 to 13.34±2.26°2 (p=0.127) and mean BCEA 95% decreased from
+45.87±6.72°2 to 40.01±6.78°2 (p=0.247) after training. Binocular reading speed was 38.28±6.25 words per minute (wpm) before
+training and 45.34±7.35 wpm after training (p<0.001). Statistically significant improvement was observed in contrast sensitivity and
+quality of life questionnaire scores after training.
+Conclusion: Beginning with the fifth session, biofeedback training for a new trained retinal locus improved average sensitivity, fixation
+stability, reading speed, contrast sensitivity, and quality of life in patients with macular scarring.
+Keywords: Low vision rehabilitation, microperimetry, preferred retinal locus training
+
+Address for Correspondence: Ayşe Bozkurt Oflaz, University of Health Sciences Turkey, Adana City Training and Research Hospital, Clinic of Ophthalmology,
+Adana, Turkey
+E-mail: draysebozkurtoflaz@yahoo.com ORCID-ID: orcid.org/0000-0001-5894-0220
+Received: 25.12.2020 Accepted: 11.08.2021
+
+Cite this article as: Bozkurt Oflaz A, Turgut Öztürk B, Gönül Ş, Bakbak B, Gedik Ş, Okudan S. Short-Term Clinical Results of Preferred Retinal Locus Training.
+Turk J Ophthalmol 2022;52:14-22
+©Copyright 2022 by Turkish Ophthalmological Association
+Turkish Journal of Ophthalmology, published by Galenos Publishing House.
+
+14
+
+
+[page 2]
+Bozkurt Oflaz et al. Results of Preferred Retinal Locus Training
+
+Introduction
+Macular diseases affect a significant number of people
+worldwide. Most are over 60 years old and suffer from age related macular degeneration (AMD). With increasing life
+expectancy, quality of life has become an important concern, and
+investigations aiming to improve or maintain visual performance
+are increasing.1
+The human brain contains maps of the retina on the
+surface of the occipital lobes, called retinotopic maps. In
+patients with macular degeneration, the loss of foveal input
+leads to deprivation in the cortical regions responsive to foveal
+stimuli. Consequently, cortical neurons located in the retinotopic
+position corresponding to the scotoma receive some degree of
+activity from the unimpaired neurons in the area surrounding
+the lesion. Over time, these weak connections are gradually
+reinforced. The system eventually evolves into a new stable
+state in which every neuron again receives the same amount
+of activity from the source layer. The brain’s ability to adapt
+its function and structure to recover visual function is called
+neuroplastic capacity.2,3 This reorganization of visual cortex has
+been shown by functional magnetic resonance imaging studies
+in early childhood foveal vision loss.4 However, Baseler et al.5
+demonstrated that large-scale remapping does occur in the adult
+brain. This raises concerns about peripheral reorganization in the
+retina, especially the macula.
+As is known, some patients with foveal scar start to use
+extrafoveal areas of the retina to compensate within 6 months.
+This is called eccentric fixation, and the eccentric region of the
+peripheral macula selected for fixation is called the preferred
+retinal locus (PRL).6 As demonstrated in a study by Shima et al.6,
+the PRL is not always the area with the highest retinal sensitivity
+or ability to provide the best visual function and fixation
+stability. This finding led to the new concept of a trained retinal
+locus (TRL) selected from among the PRL used for fixation. To
+determine the TRL, the locus that is closest to the fovea and
+has the highest retinal sensitivity is preferred to offer the best
+potential visual acuity (VA).6,7,8 However, eyes with foveal scars
+were not able to achieve stable fixation at these selected points,
+which decreased their quality of vision. To solve this problem,
+several rehabilitation strategies have been developed to increase
+fixation stability.7,8 The biofeedback training technique (BFT)
+proposed by Nilsson et al.8 and Fujii et al.9, which uses a software
+module incorporated in a microperimeter, appears to be the most
+promising of these rehabilitation methods.
+The BFT system uses audible and visible feedback signals
+to help patients identify and train the optimal retinal area and
+improve fixation and related tasks. Patients are asked to perform
+specific ocular movements to align a selected retinal locus with
+a visual target. This locus is either the PRL determined by the
+device software or a new locus determined from among patients’
+fixation points using special criteria. The latter is called a TRL.
+Biofeedback audio signals (beeping sounds) aid patients during
+the oculomotor task by increasing the auditory frequency as
+the target approaches the desired alignment.10 This biological
+
+feedback causes the intercellular neurotransmitters to increase
+and establish cerebral links faster than the normal process.7,11
+Additionally, acoustic stimulation increases the patient’s
+conscious attention and prolongs the time that the fixed image of
+the object is on the retina. It configures the relationship between
+neurons in the retina and brain. The theory of the remapping
+phenomenon is based on this explanation.10,12,13,14
+In the literature, a few studies and case reports have described
+promising outcomes with BFT. Even oculomotor exercises
+performed in BFT have been shown to improve fixation stability
+using either PRL or TRL. However, there is no consensus on
+the optimal duration, number of training sessions, or effect on
+patient quality of life.2,10,15,16,17,18
+Our study aimed to assess the short-term efficacy of BFT on
+fixation stability. To better understand this effect, we analyzed
+intersessional changes in fixation parameters. Furthermore, we
+evaluated the effect of BFT on contrast sensitivity and quality of
+life in addition to reading speed.
+
+Materials and Methods
+This study is based on a non-comparative case series of
+patients with bilateral macular scarring treated in the retina
+unit of Selçuk University Faculty of Medicine, Department of
+Ophthalmology. The study protocol was designed according
+to the ethical principles of the Declaration of Helsinki and was
+approved by the Ethics Committee for Non-invasive Clinical
+Research of the Selçuk University Faculty of Medicine. Among
+the patients with macular disease, those whose disease was
+inactive for at least 1 year were included. Patients with any other
+ocular disease that might affect retinal sensitivity or hearing
+loss were excluded because it could hinder compliance with the
+training while receiving audio signals from the device. After
+explaining the purpose and possible consequences of the study,
+informed written consent was obtained from all subjects.
+All patients underwent a complete ophthalmological
+evaluation, including best-corrected VA measurement with
+Snellen chart, biomicroscopic examination of the anterior
+segment and dilated fundus examination. VA values obtained
+by Snellen chart (in decimal) were converted to logMAR for
+statistical analysis using the following established formula:
+logMAR = log10 (1/VA).
+Eligible patients underwent a full-threshold 4-2 test using
+the MAIA (CenterVue®, Padova, Italy) microperimeter to
+evaluate localization and fixation stability in a 10-degree area
+consisting of 37 measurement points. Fixation stability was
+measured in two ways:
+1. Calculating the percentage of fixation points located
+within a distance of one degree and two degrees, respectively (P1
+and P2).11 If more than 75% of the fixation points were located
+within P1, the fixation was classified as stable. If less than 75%
+of the fixation points were located within P1 but more than 75%
+of the fixation points were located within P2, the fixation was
+classified as relatively unstable. If less than 75% were located
+within P2, the fixation was classified as unstable.
+
+15
+
+
+[page 3]
+Turk J Ophthalmol 52; 1: 2022
+
+2. Calculating the bivariate contour ellipse area (BCEA),
+which is believed to be the most representative fixation stability
+parameter. It represents the area of an ellipse that encompasses a
+given proportion of fixation points based on standard deviations
+of the horizontal and vertical eye positions during the fixation
+procedure. BCEA 95% describes the area that includes 95% of
+retinal loci and BCEA 63% represents the area containing 63%
+of retinal loci used for fixation.
+With improvements in fixation stability, P1 and P2 values
+are expected to increase while BCEA 95% and 63% decrease.19,20
+Patients showing eccentric and unstable fixation according
+to the software were recruited for the study. If both eyes fulfilled
+the criteria, the eye with lower VA was preferred. The decision
+to proceed with TRL was based on the locations of the initial
+and final PRL, which were determined automatically by the
+microperimeter software, and the location of the scotoma.
+The initial PRL was determined after the first 10 seconds of
+the examination, the point when patients make their strongest
+effort to hold a steady fixation (labeled with a pink dot in
+the data). This point determines the center of the MAIA
+(CenterVue®, Padova, Italy) stimuli grid. The final PRL,
+labeled with a blue dot in the printout, is found at the end
+of the MAIA examination and serves as the reference point
+for calculating fixation stability. Patients with stable fixation
+will present both PRLs in the same anatomical location, while
+longer distances between PRLs show more unstable fixation and
+lower VA. To estimate the TRL, the initial and final PRLs, the
+BCEA including all fixation points, the size and extent of the
+scotoma, and location of the fovea are evaluated. Among the
+
+fixation points, the one closest to the estimated fovea but the
+farthest possible distance from the scar in the superior quadrant
+is preferred. Additionally, to facilitate reading tasks, a fixation
+locus with horizontal neighbor points and high sensitivity in the
+superior quadrant is chosen as the TRL.21
+For eligible patients who had a suitable TRL and were
+willing to participate regularly in the training program, the
+average threshold of retinal sensitivity and the values for P1, P2,
+and BCEA in the full threshold 4-2 test were recorded (Figure
+1a, b).
+To better determine the effects of the rehabilitation program,
+contrast sensitivity was tested using the CSV 1000E Contrast
+Sensitivity Test (Vector Vision® Dayton, OH) at 8 feet and
+reading speed was assessed using the Turkish version of the
+MNREAD reading chart, with reading glasses under adequate
+lighting conditions. Reading acuity, critical print size, and
+maximum reading speed were calculated according to the
+instructions for the reading cards.22 Reading speed and contrast
+sensitivity tests before and after treatment were performed in
+the same room, in the same ambient lighting, and at the same
+time of day.
+Additionally, the impact of treatment on quality of life was
+evaluated with the Turkish version of the 25-item National Eye
+Institute Visual Function Questionnaire (NEI-VFQ-25).23 This
+questionnaire is composed of 12 groups of questions regarding
+general health (1 item), general vision (1 item), ocular pain (2
+items), near vision (3 items), distance vision (3 items), social
+functioning (2 items), mental health (4 items), role limitations
+(2 items), dependency (3 items), driving (2 items), color vision
+
+Figure 1. The change in the fixation area used by the patient after training sessions. According to the MAIA (CenterVue®, Padova, Italy) normative studies, the decibel
+scale is color-coded where green represents normal values, yellow suspect, red abnormal, and black absolute scotomas. (a) The sensitivity map before training demonstrates
+difficulty in fixation. (b) In the new sensitivity map (after treatment), assessment of the same area demonstrates convergence of the blue fixation points, indicating more
+stable fixation behavior
+
+16
+
+
+[page 4]
+Bozkurt Oflaz et al. Results of Preferred Retinal Locus Training
+
+(1 item), and peripheral vision (1 item). The points received
+from these sections and the overall average score was calculated
+and analyzed. The questions were read to the patients and their
+scores were recorded by a nurse (S.O.). The total point calculation
+and data analysis were performed by the first researcher (A.B.O.).
+Outcome parameters included best corrected VA; fixation
+stability parameters P1, P2, and BCEA 63% and 95%; contrast
+sensitivity; reading speed; and quality of life. P1, P2, BCEA
+63%, and BCEA 95% values were recorded at the end of each
+session for analysis of changes in fixation parameters during
+training. To analyze changes after training, the parameters were
+reassessed 1 week after the training program and compared with
+pretreatment values.
+Exercise Techniques
+Patients were invited to TRL treatment preferably on the same
+day and time each week during the 8-week testing period. There is
+no consensus in the literature about the optimum duration of the
+training program. Based on experiences in similar studies and to
+increase the likelihood of adherence to the program, we scheduled
+8 sessions once per week for 10 minutes.18 Patients were allowed to
+rest for 15 minutes before training. During the 10-minute exercise,
+patients tried to fix their eyes on the previously determined TRL
+point. As the patient got closer to the targeted fixation locus, they
+heard a sound increasing in volume as well as positive comments
+from the clinician, who was reading from the screen. The patients
+were also asked to remember the gaze movement performed during
+the training sessions and try to reproduce the same movement in
+their daily lives when attempting to focus on a target.
+Statistical Analysis
+All obtained data were uploaded to the software after proper
+encoding. The Statistical Package for the Social Sciences version
+18.0 (SPSS, Inc., Chicago, IL, USA) Windows software package
+was used for the statistical analysis. The data were analyzed
+for normal distribution. Best corrected VA was analyzed with
+Mann-Whitney U-test; other parameters were analyzed using
+the parametric paired t-test. Data obtained during follow-up
+were evaluated using a repeated measures test. If any significant
+change was detected, the data were analyzed in paired groups
+using the paired t-test. For all analyses, p<0.05 was considered
+statistically significant.
+
+(p=0.003). Median best-corrected VA in the fellow eye was
+0.5 (0.0-1.0) logMAR. The mean average threshold value was
+12.96±1.16 dB before training and showed a slight increase
+to 13.24±1.33 dB, but it was not significant in the statistical
+analysis (p=0.900).
+Before training, fixation stability parameters P1 and P2 were
+21.28±3.08% and 52.79±4.53%, respectively. After training,
+the values increased to 32.69±3.69% for P1 (p=0.001) and
+68.31±3.89% for P2 (p=0.001). BCEA 63% was 16.11±2.27
+deg2 before training and decreased to 13.34±2.26 deg2 after
+training. Similarly, BCEA 95% decreased from 45.87±6.72 deg2
+before training to 40.01±6.78 deg2 after training. However, these
+changes were not statistically significant (p=0.127 and p=0.247,
+respectively) (Figure 2). Further subgroup analysis of initial
+and final VA and fixation parameters P1, P2, BCEA 63%, and
+BCEA 95%, according to scar etiology (geographical atrophy,
+disciform scar, or trauma) revealed no statistically significant
+difference before and after treatment (p=0.77, p=0.67, p=0.33,
+p=0.98, p=0.46, p=0.96, p=0.98, p=0.87, p=0.91, and p=0.85,
+respectively).
+
+Figure 2. P1 and P2 values were significantly increased in full-threshold 4-2 tests
+conducted after preferred retinal locus training compared to before training. Despite
+favorable changes in BCEA 63%, BCEA 95%, and average threshold, they were
+not statistically significant
+BCEA: Bivariate contour ellipse area
+
+Results
+A total of 29 patients with a mean age of 68.72±8.34 years
+at enrollment met the selection criteria and agreed to participate
+in the study. Eighteen (62.1%) of the patients were men and
+11 (37.9%) were women. There was no significant difference
+between male and female patients in terms of age (p>0.05). In
+27 of the patients, AMD was the etiology of the central scotoma,
+and trauma was the cause in the remaining 2 patients. Of the
+AMD patients, 13 had geographic atrophy and 14 had disciform
+scars. Patients who completed all training sessions are analyzed.
+The median value for best-corrected VA was initially 0.8
+(0.2-1.6) logMAR and increased to 0.8 (0.1-1.6) logMAR after 8
+weeks of PRL treatment. This change was statistically significant
+
+Figure 3. P1 and P2 values recorded over 8 sessions show a significant increase
+after session 5, while no significant changes were observed in BCEA 63% and
+BCEA 95% values
+BCEA: Bivariate contour ellipse area
+
+17
+
+
+[page 5]
+Turk J Ophthalmol 52; 1: 2022
+
+The intersession variation of fixation parameters P1 and
+P2 values showed a consistent rise in each session. Statistical
+analysis of intersessional change showed statistically significant
+increases after the fifth session compared to the pre-training
+value (p<0.001). BCEA 63% and BCEA 95% demonstrated
+fluctuations in each session with no statistically significant
+difference (p>0.05) (Figure 3).
+Contrast sensitivity was evaluated at four different spatial
+frequencies: 3, 6, 12, and 18 cycles/degree. The pre- and post training values at each frequency demonstrated a statistically
+significant increase (p<0.001, p<0.001, p=0.01, and p=0.001,
+respectively). For reading speed, the mean values for reading
+acuity, critical print size, and maximum reading speed (words
+per minute) changed significantly at the final visit compared to
+before training (p<0.001 for all parameters) (Table 1).
+The quality of life questionnaire results showed statistically
+significant improvement in overall composite scores and all
+
+sections except general health and ocular pain. The scores are
+shown in Table 2.
+
+Discussion
+According to data from the World Health Organization
+(WHO), there are 285 million people with low vision
+worldwide.24 Over the years, several rehabilitation methods
+have been developed for this group of patients. Equipment such
+as magnifiers, text shifting, or prisms is focused on improving
+reading skills.6,25,26 To improve perceptual skills, rehabilitation
+methods such as training based on eccentric imaging, oculomotor
+control, and perceptual learning were introduced.26,27 They
+enable effective sensitivity improvement through technical
+training and can be easily implemented during clinical practice
+because they do not require expensive equipment.28 Research
+on integrating perceptual and oculomotor training to induce a
+new fovea was further developed with the addition of auditory
+
+Table 1. Contrast sensitivity and reading speed before and after treatment
+Pre-treatment
+(mean ± SD)
+
+Post-treatment
+(mean ± SD)
+
+p value
+
+3 cycles/degree (A)
+
+1.07±0.056
+
+1.19±0.061
+
+p<0.001
+
+6 cycles/degree (B)
+
+1.23±0.051
+
+1.36±0.061
+
+p<0.001
+
+12 cycles/degree (C)
+
+0.91±0.05
+
+1±0.056
+
+p=0.01
+
+18 cycles/degree (D)
+
+0.37±0.04
+
+0.48±0.05
+
+p=0.001
+
+Reading acuity
+
+1.05±0.05
+
+0.96±0.06
+
+p<0.001
+
+The critical print size
+
+1.12±0.04
+
+1.07±0.05
+
+p<0.001
+
+Maximum reading speed (wpm)
+
+38.28±6.25
+
+45.34±7.35
+
+p<0.001
+
+Contrast sensitivity
+
+MNREAD reading chart
+
+SD: Standard deviation, wpm: Words per minute
+
+Table 2. Quality of life questionnaire scores before and after treatment
+Pre-treatment
+(mean ± SD)
+
+Post-treatment
+(mean ± SD)
+
+p value
+
+General health
+
+46.552±25.63
+
+48.276±24.93
+
+p:0.480
+
+General vision
+
+30.172±29.41
+
+43.965±28.07
+
+p<0.001
+
+Ocular pain
+
+72.413±19.30
+
+75±20.04
+
+p=0.083
+
+Near activities
+
+30.169±21.29
+
+42.239±21.47
+
+p<0.001
+
+Distance activities
+
+24.699±20.35
+
+31.319±20.97
+
+p<0.001
+
+Social functioning
+
+34.052±24.52
+
+44.396±23.76
+
+p<0.001
+
+Mental health
+
+27.802±18.26
+
+34.482±19.23
+
+p<0.001
+
+Role difficulties
+
+18.534±19.93
+
+23.706±20.41
+
+p=0.001
+
+Dependency
+
+30.170±28.90
+
+34.480±27.52
+
+p=0.001
+
+Driving (n=3)*
+
+58.33±8.33
+
+66.663±8.33
+
+p=0.102
+
+Color vision
+
+34.483±27.88
+
+43.965±26.43
+
+p=0.001
+
+Peripheral vision
+
+28.448±27.32
+
+35.345±24.56
+
+p=0.005
+
+Overall composite score
+
+32.945±17.81
+
+40.795±16.97
+
+p<0.001
+
+SD: Standard deviation, *Only 3 of the patients were driving
+
+18
+
+
+[page 6]
+Bozkurt Oflaz et al. Results of Preferred Retinal Locus Training
+
+feedback.8 In some studies, additional oculomotor exercises at
+home following training were shown to increase reading speed
+and decrease smallest readable font size.29,30
+This rehabilitation method uses eccentric imaging to look
+directly at the relatively healthy retina locus to improve
+visual function. The retinal locus, called a TRL, is in an area
+advantageous to reading.31 Nilsson et al.8 reported initial
+outcomes for TRL training and found improved reading rates in
+scotomatous eyes following 5.4 hours of training with scanning
+laser ophthalmoscope. Watson et al.32 trained the better-seeing
+eye and reported that the development of a TRL was easy and
+fast. In contrast, Baker et al.4 observed that eyes with more severe
+foveal scarring were more prone to reorganization. In our study,
+we also preferred the weaker eye for training, and the patients’
+improvement after training supported this hypothesis.
+Initial trials were performed with basic systems like the
+Accommotrac Vision Trainer, Visual Training System (VTS),
+or the Improved Biofeedback Integrated System (IBIS).10,33
+Significant advancements in rehabilitation methods have been
+made by developing a software package uploaded to the
+microperimeter. There are a few studies in the literature
+reporting the therapeutic outcomes of visual rehabilitation
+programs containing an auditory feedback mechanism in several
+disorders, including nystagmus, AMD, glaucoma, anisometropia,
+amblyopia, retinitis pigmentosa, oculocutaneous albinism,
+myopic maculopathy, vitelliform dystrophy, posttraumatic
+macula scarring, and cone dystrophy.14 These studies differ in
+several aspects. Some evaluated training the PRL to increase
+fixation stability, while some identified a TRL and trained
+to force fixation on that point. In addition, the intensity,
+frequency, and duration of training were different. Establishing
+the optimum training program required to transport the central
+fixation locus to the nearby healthy retinal locus permanently is
+already a challenge.34,35
+Two devices currently use this available software training,
+the MP-1 (Nidek Instruments, Italy) and MAIA (CenterVue®,
+Padova, Italy). Although the purpose is similar, there are small
+differences that hinder a head-to-head comparison. The MP-1
+does not present objective fixation stability parameters like P1,
+P2, or BCEA. Typically, reading speed and VA are assumed to be
+primary outcomes in studies. Vingolo et al.10 reported improved
+results in 15 AMD patients who underwent bilateral BFT
+with the MP-1 device in 10 weekly 10-minute sessions. They
+claimed that 5 follow-up training sessions every 3 months would
+maintain visual performance. In 2009, Tarita-Nistor et al.2
+applied BFT using the MP-1 device for 5 sessions lasting 1 hour
+to relocate the PRL and reported improved fixation stability and
+better reading performance. In another study, Raman et al.36
+applied BFT to both eyes with myopic maculopathy using the
+MP-1 device and demonstrated that VA did not change after
+exercise; only retinal sensitivity and fixation stability improved.
+The most extensive study with the longest follow-up using
+MP-1 was conducted by Pacella et al.33, who reported results for
+171 eyes of 99 patients. They applied 16 TRL training sessions
+
+and showed improved VA in 76% of the patients. Of those,
+19.2% lost the benefits of training after 12 months.
+Our study conducted with the MAIA microperimeter
+resulted in significant improvement in best-corrected VA,
+average retinal sensitivity, and fixation stability parameters
+P1 and P2 after 8 sessions of BFT. The initial values were
+16.11±2.27 deg2 for BCEA 63% and 45.87±6.72 deg2 for
+BCEA 95%. Normal values for BCEA 95% and 63% in the
+MAIA microperimeter are 2.40±2.04 deg2 and 0.80±0.68
+deg2, respectively. BCEA 63% and BCEA 95% have been
+reported to serve as an accurate, independent parameter with
+which to evaluate fixation stability.19 Although not statistically
+significant, a decline in BCEA 63% and BCEA 95% values were
+observed at the end of this study. The lack of significance could
+be explained by the low number of subjects included and fewer
+training sessions than recent studies, which typically scheduled
+10 sessions.11,12,36-38
+We preferred to train the optimum locus with higher
+sensitivity, which we believe would enhance plasticity more
+efficiently. Recent studies support our hypothesis. Morales et
+al.7 compared training for the PRL and TRL and suggested
+that a selected TRL would improve fixation stability more
+after training. They postulated that spontaneously developed
+plasticity reflects a compensatory motor pattern rather than
+true recovery and that selected locus training may enhance
+plasticity more efficiently. Raman et al.36 also showed improved
+fixation stability and retinal sensitivity after TRL training that
+was maintained at 1-year follow-up. In a study reporting the
+outcomes of PRL therapy in AMD patients, Vingolo et al.10
+found no statistically significant change in best corrected VA but
+reported significant improvements in font size and reading rates.
+Vingolo et al.37 reported that the P100 latency of visual-evoked
+potentials (VEP) changed significantly between pre- and posttreatment examinations. However, the effect of this finding on
+daily life is unknown.
+In another study evaluating BFT with the MAIA
+microperimeter, 9 patients underwent macular hole surgery
+and 3 BFT sessions lasting 10 minutes each. Within 3 months,
+the patients showed a statistically significant increase in best
+corrected VA. Their fixation stability, BCEA 63%, and reading
+speed also improved but nonsignificantly, like the BCEA 63%
+values in our study. The investigators attributed the results to
+the small number of subjects in their study.39 In our opinion,
+the low number of sessions may also have influenced the study
+outcome. Pacella et al.33 conducted a study with a larger sample
+size and demonstrated a statistically significant improvement
+in best corrected VA, reading rate, and fixation behaviors. The
+etiology of macular scar might be another confounding factor
+contributing to the different results obtained in various studies.
+We enrolled patients with disciform scar, geographic atrophy,
+and traumatic macular scar in this study. However, subgroup
+analysis demonstrated no statistically significant difference in the
+short-term evaluation. As macular degeneration is progressive,
+unlike macular hole or traumatic scar, different long-term
+
+19
+
+
+[page 7]
+Turk J Ophthalmol 52; 1: 2022
+
+outcomes might be expected with different durations of training.
+As the training process is static, assessing function during
+dynamic situations is essential because they occur in everyday
+life with moving objects or when performing tasks involving
+eye movement such as reading. According to our data, the new
+TRL appeared to improve reading speed, contrast sensitivity,
+and quality of life. Our study findings should be considered
+preliminary, as this is the first study on this training method
+to address contrast sensitivity and quality of life. The data
+demonstrated statistically significant improvements in contrast
+sensitivity at all spatial frequencies, a finding consistent with
+substantial improvement in other parameters (VA, reading
+speed, and fixation stability). Our results indicated that TRL
+treatment made positive contributions to visual quality. This
+promising effect was also observed in two patients with a VA
+higher than 0.4 logMAR who were enrolled due to unstable
+fixation parameters and complaints about reading. As their
+number was limited, a subgroup analysis according to VA level
+could not be performed. However, these patients showed a 1-line
+increase in VA and slight improvement in fixation parameters
+after training, which in turn improved their reading speed and
+quality of life according to questionnaire scores.
+The Turkish version of the NEI-VFQ was used to compare
+quality of life before and after treatment. Except for general
+health and ocular pain, the overall scores changed significantly
+with treatment. Few studies have utilized this questionnaire
+after PRL treatment. A re-evaluation of the NEI-VFQ-25
+questionnaire after exercises revealed statistically significant
+changes consistent with our study findings.40 Scuderi et al.14
+implemented BFT for TRL in a patient with Stargardt disease
+who experienced reduced VA over the previous 3 years. Based on
+the NEI-VFQ-25 quality of life questionnaire, they observed an
+increase in VA, reading speed, and overall satisfaction. A meta analysis conducted by Hamade et al.41 showed that eccentric
+viewing training caused the most improvement in reading speed
+among the low-vision rehabilitation strategies. However, there
+was no significant effect on the scores for depression.
+The total number of BFT sessions required for permanent,
+stable fixation is unclear. In most studies, the BFT program
+was designed as 10 sessions of 10 minutes each, although
+session numbers ranging from 3 to 16 have been reported in
+the literature.7,33,39,42 For our study, we preferred a program
+consisting of 8 sessions of 10 minutes each. This schedule was
+in response to the difficulty in adhering to hospital visiting
+rules for AMD patients due to age and poor vision. Based on our
+follow-up sessions, the changes in the P1, P2, and BCEA showed
+that fixation stability increased in each session. Changes in the
+P1 and P2 percentages became significant after the fifth session
+(p=0.001). This finding should be considered when planning a
+training schedule.
+In their study, Estudillo et al.43 showed improvement in
+VA, fixation parameters P1 and BCEA 95%, and reading speed
+after 1 week. They claimed that the short duration of treatment
+enabled them to attribute the changes directly to the treatment.
+
+20
+
+In our study, we also repeated the assessments 1 week after the
+last session to determine the real effects of BFT.
+Despite promising results, the effect of training duration
+is unknown. Ratra et al.38 reported continued effects up to 6
+months with a slight reduction in fixation stability. Raman
+et al.36 observed that these changes continued during the
+1-year follow-up period and suggested that treatment provided
+permanent results through the mechanism of remapping between
+retinal neurons and the brain. Morales et al.7 also showed a slight
+reduction in fixation parameters after 3 months and scheduled
+two sets of 12 weeks with 3-month intervals between sets. They
+suggested that training for more extended periods was needed to
+achieve permanent results.
+We do not plan any long-term follow-up visits because the
+underlying disease is progressively fibrotic. Any deterioration
+might be associated with fibrosis instead of the dwindling effects
+of training. However, repeated training might be useful.
+Laterality is another source of bias related to this visual
+rehabilitation method among studies. Bilateral training was
+done in some studies. We preferred the worse eye to avoid
+adverse effects like diplopia. Estudillo et al.43 preferred the same
+approach.
+Another confounding factor in our study was the selection
+criteria for the training eye. However, as our subjects were old
+and had central scotoma, the dominant eye was difficult to
+determine. We preferred the worse eye with more severe foveal
+scarring for treatment because it was shown to present better
+reorganization capacity.44 The TRL was one of the existing
+fixation points and the effect of eye dominance was already
+reflected in the reference microperimetry, which we used to
+schedule the training. Additionally, treatment outcomes were
+also assessed monocularly except for the measurement of reading
+speed and the NEI-VFQ-25 questionnaire. The outcome of
+both outcome parameters should be evaluated regarding this
+confounding factor.
+With prolonged life expectancy in the modern world,
+the number of AMD patients is increasing significantly. This
+increase, in turn, has added to the number of AMD patients
+with macular scars. Because the disease gives rise to central
+scotoma, serious problems may arise in patients’ daily activities,
+particularly their reading activity, as reflected in the quality
+of life questionnaire. A locus with higher sensitivity in the
+peripheral retina outside of the fovea may provide higher visual
+quality as a means of adaptation. The goal of BFT is to enable the
+patient to use that selected area for visual tasks.
+
+Conclusion
+Our results demonstrated that patients with macular scar
+might improve during an 8-session BFT program on the selected
+TRL and that this adaptation positively affects reading speed,
+contrast sensitivity, and quality of life in patients with impaired
+fixation stability. Patients should have good comprehension skills
+for effective training. To our knowledge, age-related hearing loss
+is frequent among AMD patients.45 This fact should be kept in
+
+
+[page 8]
+Bozkurt Oflaz et al. Results of Preferred Retinal Locus Training
+
+mind when selecting eligible patients. Our short-term follow-up
+revealed significant improvement in fixation parameters after the
+fifth BFT session. The optimum duration and session interval
+for maintenance of training effects is already a matter of debate
+that should be addressed in further studies. Etiology of macular
+scar seems to be insignificant in the short term, but its effects in
+the long term should be evaluated with regard to the duration
+of improvement in fixation stability. The need for repeat sessions
+and frequency of control visits are major issues that should be
+addressed in the future. However, the effect of TRL training on
+reading and daily life is promising for low vision rehabilitation.
+Ethics
+Ethics Committee Approval: Approval was obtained
+from Selcuk University Faculty of Medicine Non-Invasive
+Clinical Research Ethics Committee. (14.02.2017 date, 2017/06
+number).
+Informed Consent: Obtained.
+Peer-review: Externally and internally peer reviewed.
+Authorship Contributions
+Surgical and Medical Practices: A.B.O., B.T.Ö., Concept:
+A.B.O., B.T.Ö., B.B., Ş.Gö., Ş.Ge., S.O., Design: A.B.O., B.T.Ö.,
+B.B., Ş.Gö., Ş.Ge., S.O., Data Collection or Processing: A.B.O.,
+B.T.Ö., B.B., Ş.Gö., Ş.Ge., S.O., Analysis or Interpretation:
+A.B.O., B.T.Ö., Literature Search: A.B.O., B.T.Ö., Writing:
+A.B.O., B.T.Ö.
+Conflict of Interest: No conflict of interest was declared by
+the authors.
+Financial Disclosure: The authors declared that this study
+received no financial support.
+Acknowledgment: We would like to thank Sefay Aysun
+İdil for her support in the use of MNRead cards.
+
+References
+1.
+
+2.
+3.
+4.
+5.
+
+6.
+7.
+
+8.
+
+Congdon N, O’Colmain B, Klaver C, Klein R, Muñoz B, Friedman DS,
+Kempen J, Taylor HR, Mitchell P, Eye Diseases Prevalence Research Group.
+Causes and prevalence of visual impairment among adults in the United
+States. Arc Ophthalmol. 2004;122:477-485.
+Tarita-Nistor L, González EG, Markowitz SN, Steinbach MJ. Plasticity of
+fixation in patients with central vision loss. Vis Neurosci. 2009;26:487-494.
+Chung ST. Improving reading speed for people with central vision loss
+through perceptual learning. Invest Ophthalmol Vis Sci. 2011;52:1164-1170.
+Baker CI, Peli E, Knouf N, Kanwisher NG. Reorganization of visual
+processing in macular degeneration. J Neurosci. 2005;25:614-618.
+Baseler HA, Gouws A, Haak KV, Racey C, Crossland MD, Tufail A, Rubin
+GS, Cornelissen FW, Morland AB. Large-scale remapping of visual cortex
+is absent in adult humans with macular degeneration. Nat Neurosci.
+2011;14:649-655.
+Shima N, Markowitz SN, Reyes SV. Concept of a functional retinal locus in
+age-related macular degeneration. Can J Ophthalmol. 2010;45:62-66.
+Morales MU, Saker S, Wilde C, Rubinstein M, Limoli P, Amoaku WM.
+Biofeedback fixation training method for improving eccentric vision in
+patients with loss of foveal function secondary to different maculopathies. Int
+Ophthalmol. 2020;40:305-312.
+Nilsson UL, Frennesson C, Nilsson SEG. Patients with AMD and a
+large absolute central scotoma can be trained successfully to use eccentric
+viewing, as demonstrated in a scanning laser ophthalmoscope. Vision Res.
+2003;43:1777-1787.
+
+9.
+
+Fujii GY, de Juan Jr E, Sunness J, Humayun MS, Pieramici DJ, Chang TS.
+Patient selection for macular translocation surgery using the scanning laser
+ophthalmoscope. Ophthalmology. 2002;109:1737-1744.
+10. Vingolo EM, Cavarretta S, Domanico D, Parisi F, Malagola R. Microperimetric
+biofeedback in AMD patients. Appl Psychophysiol Biofeedback. 2007;32:185189.
+11. Vingolo EM, Fragiotta S, Domanico D, Limoli PG, Nebbioso M, Spadea L.
+Visual Recovery after Primary Retinal Detachment Surgery: Biofeedback
+Rehabilitative Strategy. J Ophthalmol. 2016;2016:8092396.
+12. Vingolo EM, Salvatore S, Cavarretta S. Low-vision rehabilitation by means of
+MP-1 biofeedback examination in patients with different macular diseases: a
+pilot study. Appl Psychophysiol Biofeedback. 2009;34:127-133.
+13. Buia C, Tiesinga P. Attentional modulation of firing rate and synchrony in a
+model cortical network. J Comput Neurosci. 2006;20:247-264.
+14. Scuderi G, Verboschi F, Domanico D, Spadea L. Fixation improvement
+through biofeedback rehabilitation in Stargardt disease. Case Rep Med.
+2016;2016:4264829.
+15. Morales MU, Saker S, Mehta RL, Rubinstein M, Amoaku WM. Preferred
+retinal locus profile during prolonged fixation attempts. Can J Ophthalmol.
+2013;48:368-374.
+16. Markowitz SN. Principles of modern low vision rehabilitation. Can J
+Ophthalmol. 2006;41:289-312.
+17. Amore FM, Paliotta S, Silvestri V, Piscopo P, Turco S, Reibaldi A. Biofeedback
+stimulation in patients with age-related macular degeneration: comparison
+between 2 different methods. Can J Ophthalmol. 2013;48:431-437.
+18. Morales MU, Saker S, Amoaku WM. Bilateral eccentric vision training on
+pseudovitelliform dystrophy with microperimetry biofeedback. BMJ Case
+Rep. 2015;2015:bcr2014207969.
+19. Morales MU, Saker S, Wilde C, Pellizzari C, Pallikaris A, Notaroberto N,
+Rubinstein M, Rui C, Limoli P, Smolek MK, Amoaku WM. Reference
+Clinical Database for Fixation Stability Metrics in Normal Subjects Measured
+with the MAIA Microperimeter. Transl Vis Sci Technol. 2016;5:6.
+20. Altınbay D, İdil SA. Current Approaches to Low Vision (Re)Habilitation.
+Turk J Ophthalmol. 2019;49:154-163.
+21. Ozdemir H, Şentürk F, Arf S, Karaçorlu M. Mikroperimetri. Turk J
+Ophthalmol. 2011;41:401-406.
+22. İdil AS, Çalışkan D, İdil BN. Development and validation of the Turkish
+version of the MNREAD visual acuity charts. Turk J Med Sci. 2011;41:565570.
+23. Toprak AB, Eser E, Guler C, Baser FE, Mayali H. Cross-validation of the
+Turkish version of the 25-item national eye institute visual functioning
+questionnaire (NEI-VFQ 25). Ophthalmic Epidemiol. 2005;12:259-269.
+24. Bourne RR, Flaxman SR, Braithwaite T, Cicinelli MV, Das A, Jonas JB, Keeffe
+J, Kempen JH, Leasher J, Limburg H, Naidoo K, Pesudovs K, Resnikoff S,
+Silvester A, Stevens GA, Tahhan N, Wong TY, Taylor HR, Vision Loss Expert
+Group. Magnitude, temporal trends, and projections of the global prevalence
+of blindness and distance and near vision impairment: a systematic review and
+meta-analysis. Lancet Glob Health. 2017;5:e888-e897.
+25. İdil A. Yaşa Bağlı Makula Dejenerasyonunda Az Görme Rehabilitasyonu.
+Turkiye Klinikleri J Ophthalmol. 2015;8:143-146.
+26. Maniglia M, Cottereau BR, Soler V, Trotter Y. Rehabilitation approaches in
+macular degeneration patients. Front Syst Neurosci. 2016;10:107.
+27. Pijnacker J, Verstraten P, van Damme W, Vandermeulen J, Steenbergen B.
+Rehabilitation of reading in older individuals with macular degeneration:
+A review of effective training programs. Neuropsychol Dev Cogn B Aging
+Neuropsychol Cogn. 2011;18:708-732.
+28. Sagi D. Perceptual learning in vision research. Vision Res. 2011;51:15521566.
+29. Seiple W, Szlyk JP, McMahon T, Pulido J, Fishman GA. Eye-movement
+training for reading in patients with age-related macular degeneration. Invest
+Ophthalmol Vis Sci. 2005;46:2886-2896.
+30. Palmer S, Logan D, Nabili S, Dutton GN. Effective rehabilitation of reading
+by training in the technique of eccentric viewing: evaluation of a 4-year
+programme of service delivery. Br J Ophthalmol. 2010;94:494-497.
+
+21
+
+
+[page 9]
+Turk J Ophthalmol 52; 1: 2022
+
+31. Crossland MD, Engel SA, Legge GE. The preferred retinal locus in macular
+disease: toward a consensus definition. Retina. 2011;31:2109-2114.
+32. Watson GR, Schuchard RA, De l’Aune WR, Watkins E. Effects of preferred
+retinal locus placement on text navigation and development of advantageous
+trained retinal locus. J Rehabil Res Dev. 2006;43:761-770.
+33. Pacella E, Pacella F, Mazzeo F, Turchetti P, Carlesimo S, Cerutti F, Lenzi T, De
+Paolis G, Giorgi D. Effectiveness of vision rehabilitation treatment through
+MP-1 microperimeter in patients with visual loss due to macular disease. Clin
+Ter. 2012;163:e423-428.
+34. Lang CE, Lohse KR, Birkenmeier RL. Dose and timing in neurorehabilitation:
+prescribing motor therapy after stroke. Curr Opin Neurol. 2015;28:549-555.
+35. Gee BM, Gerber LD, Butikofer R, Covington N, Lloyd K. Exploring
+the parameters of intensity, frequency, and duration within the constraint
+induced movement therapy published research: A content analysis.
+NeuroRehabilitation. 2018;42:167-172.
+36. Raman R, Damkondwar D, Neriyanuri S, Sharma T. Microperimetry
+biofeedback training in a patient with bilateral myopic macular degeneration
+with central scotoma. Indian J Ophthalmol. 2015;63:534-546.
+37. Vingolo EM, Salvatore S, Domanico D, Spadea L, Nebbioso M. Visual
+rehabilitation in patients with myopic maculopathy: our experience. Can J
+Ophthalmol. 2013;48:438-442.
+38. Ratra D, Gopalakrishnan S, Dalan D, Ratra V, Damkondwar D, Laxmi G.
+Visual rehabilitation using microperimetric acoustic biofeedback training
+in individuals with central scotoma. Clin Exp Optom. 2019;102:172-179.
+
+22
+
+39. Ueda-Consolvo T, Otsuka M, Hayashi Y, Ishida M, Hayashi A. Microperimetric
+biofeedback training improved visual acuity after successful macular hole
+surgery. J Ophthalmol. 2015;2015:572942.
+40. Verboschi F, Domanico D, Nebbioso M, Corradetti G, Scalinci SZ, Vingolo
+EM. New trends in visual rehabilitation with MP-1 microperimeter
+biofeedback: optic neural dysfunction. Funct Neurol. 2013;28:285-291.
+41. Hamade N, Hodge WG, Rakibuz-Zaman M, Malvankar-Mehta MS. The
+effects of low-vision rehabilitation on reading speed and depression in age
+related macular degeneration: a meta-analysis. PloS One. 2016;11:e0159254.
+42. Salvatore S, Librando A, Esposito M, Vingolo EM. The Mozart effect
+in biofeedback visual rehabilitation: a case report. Clin Ophthalmol.
+2011;5:1269-1272.
+43. Estudillo JAR, Higuera MIL, Juárez SR, de Lourdes Oraz Vera M, Santana
+YP, Suazo BC. Visual rehabilitation via microperimetry in patients with
+geographic atrophy: a pilot study. Int J Retina Vitreous. 2017;3:21.
+44. Dilks DD, Baker CI, Peli E, Kanwisher N. Reorganization of visual processing
+in macular degeneration is not specific to the “preferred retinal locus”. J
+Neurosci. 2009;29:2768-2773.
+45. Bozkurt M, Ozturk B, Kerimoglu H, Ersan I, Arbag H, Bozkurt B.
+Association of age-related macular degeneration with age-related hearing loss.
+J Laryngol Otol. 2011;125:231-235.
+

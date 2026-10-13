@@ -1,0 +1,2095 @@
+[page 1]
+Ophthalmol Ther (2023) 12:307–323
+https://doi.org/10.1007/s40123-022-00600-0
+
+ORIGINAL RESEARCH
+
+The Basic VRS-Effect Study: Clinical Trial Outcomes
+and Cost-Effectiveness of Low Vision Rehabilitation
+in Portugal
+Laura Hernández-Moreno . Hugo Senra . Ana Patricia Marques
+
+.
+
+Natacha Moreno Perdomo . Antonio Filipe Macedo
+
+Received: August 27, 2022 / Accepted: October 14, 2022 / Published online: November 11, 2022
+Ó The Author(s) 2022
+
+ABSTRACT
+Introduction: The aim of this study was twofold: (1) to investigate the clinical impact of
+vision rehabilitation in patients with vision
+impairment and (2) to investigate the cost-effectiveness of a basic vision rehabilitation service in Portugal.
+Methods: The trial recruited patients diagnosed
+with age-related macular degeneration or diabetic retinopathy (DR) and visual acuity in the
+range 0.4–1.0logMAR in the better-seeing eye.
+Participants were randomised to one of the
+study arms consisting of immediate intervention and delayed intervention. The intervention
+included: new refractive correction, optical
+reading aids, in-office training and advice about
+L. Hernández-Moreno  A. F. Macedo (&)
+Department and Center of Physics-Optometry and
+Vision Science, University of Minho, Braga, Portugal
+e-mail: a.macedo@ulc.ac.uk;
+antonio.macedo@lnu.se
+H. Senra
+Centre for Research in Neuropsychology and
+Cognitive and Behavioural Intervention (CINEICC),
+University of Coimbra, Coimbra, Portugal
+H. Senra
+School of Health and Social Care, University of
+Essex, Colchester, UK
+A. P. Marques
+International Centre for Eye Health, London School
+of Hygiene and Tropical Medicine, London, UK
+
+modifications at home. Visual ability, health related quality of life and costs were measured.
+Economic analysis was performed to evaluate
+whether the intervention was cost-effective.
+The trial compared the outcomes 12 weeks after
+the start in both arms.
+Results: Of the 46 participants, 34 (74%) were
+diagnosed with DR, 25 (54%) were female, and
+mean age was 70.08 years (SD = 8.74). In the
+immediate intervention arm visual ability
+increased a mean of 0.523 logits (SE = 0.11)
+(p \ 0.001). Changes in the delayed intervention arm were not statistically significant
+(p = 0.95). Acuity in the better-seeing eye, near
+acuity and critical print size also improved
+during the study. The mean cost of the intervention was €118.79 (SD = 24.37). The incremental cost-effectiveness ratio using the EQ-5DA. P. Marques
+Comprehensive Health Research Centre, National
+School of Public Health Nova University of Lisbon,
+Lisbon, Portugal
+N. M. Perdomo
+Hospital Santa Maria Maior E.P.E., Barcelos, Portugal
+A. F. Macedo
+Department of Medicine and Optometry, Linnaeus
+University, Norra Kajplan 6, Hus Vita, 39182
+Kalmar, Sweden
+
+
+[page 2]
+308
+
+5L was 30,421€/QALY and 1186€/QALY when
+using near acuity.
+Conclusion: The current study gives evidence
+of positive clinical impact of a basic vision
+rehabilitation intervention and shows that a
+basic vision rehabilitation service is cost-effective. These findings are important to clinical
+and rehabilitation practices and for planning
+vision rehabilitation services.
+Trial Registration: Retrospectively registered,
+21/01/2019. ISRCTN10894889, https://www.
+isrctn.com/ISRCTN10894889
+
+PLAIN LANGUAGE SUMMARY
+There is limited research addressing the actual
+impact of vision rehabilitation. The current trial
+compares the effect of a basic vision rehabilitation intervention with usual care on patients’
+functioning. The intervention was clinically
+impactful and cost-effective.
+
+Keywords: Randomised controlled trial; Vision
+impairment; Low vision; Vision rehabilitation;
+Visual ability; Magnification; Health-related
+quality of life; Cost-effectiveness
+Key Summary Points
+People with sight loss can have vision
+impairment that leads to disabilities and
+handicaps.
+There is currently a lack of evidence about
+the cost-effectiveness of basic low vision
+rehabilitation to tackle low vision-related
+disabilities.
+The current study confirmed that a basic
+low vision rehabilitation intervention
+reduces disabilities and improves quality
+of life in people with impaired vision.
+Findings revealed that such interventions
+are cost-effective.
+
+Ophthalmol Ther (2023) 12:307–323
+
+The current study provides the evidence
+needed to include low vision
+rehabilitation as part of the clinical
+referral pathway where services exist.
+The study raises the need to further
+research and develop vision rehabilitation
+services and education for optometrists,
+ophthalmologists and related
+professionals.
+
+INTRODUCTION
+Globally, millions of people live with some level
+of vision impairment (VI) [1–3]. VI is a common
+cause of disability affecting patients’ well-being,
+mental health, activities of daily living and
+social functioning (e.g. independence or difficulties in finding a job) [4–10]. VI leads to significant economic burdens due to direct costs
+(inpatient and outpatient care) and indirect
+costs (informal care or productivity losses)
+[7, 8, 11–14]. For example, reduced independence to perform activities of daily living can
+lead to fewer job opportunities due to reduced
+ability to work [15–17]. Vision rehabilitation
+can be effective in tackling these limitations
+and promoting independent living and autonomy in people with VI [18].
+Vision rehabilitation (VR) can be defined as a
+mixture of health, educational and social
+interventions whose ultimate goal is to reduce
+the negative impact of VI. The aim of these
+services is to improve visual ability (the ability
+to perform tasks that rely on vision) [19, 20] and
+other aspects associated with VI such as the
+psychosocial burden [18, 21]. VR works by
+enhancing visual function, which includes, for
+example, the use of assistive devices or changes
+in the visual environment such as improved
+lighting. VR often requires the acquisition of
+new skills such as handling assistive devices or
+accessibility features in ordinary electronic
+devices [22, 23]. With rehabilitation, activities
+that rely on vision are expected to become
+
+
+[page 3]
+Ophthalmol Ther (2023) 12:307–323
+
+easier to perform even without improvement in
+visual acuity [6, 21, 24, 25].
+The Portuguese visual impairment study
+group (PORVIS group) [26] has carried out some
+studies showing that VI is common in Portugal
+and that many people are still struggling to cope
+with the condition [7–9, 26–29]. The prevalence
+of age-related macular degeneration (AMD) in
+Portugal is close to 13% [30] and the prevalence
+of diabetic retinopathy (DR) amongst people
+diagnosed with diabetes is close to 16% [31]. A
+recent study has revealed that DR and AMD are
+the two most common causes of irreversible VI
+in Portugal [29]. In general, there is a lack of
+studies examining the benefits of VR for people
+with VI, which hinders the development of
+vision rehabilitation systems (VRS) [32–35].
+Magnifiers, for example, have been regularly
+dispensed in many hospitals since at least 1970
+[36]. However, a systematic review showed that
+better evidence on the benefits of using magnifiers is necessary [37]. In short, more research
+addressing the actual impact of VR on patients’
+functioning is needed to inform clinicians and
+rehabilitation professionals on the best practice
+for visually impaired patients.
+The aim of this trial was twofold: (1) to assess
+the effect of a basic vision rehabilitation intervention on visual ability in people with
+impaired vision and (2) to report the cost-effectiveness of a basic vision rehabilitation service provided in a Portuguese setting.
+
+METHODS
+This study was part of a clinical trial addressing
+the cost-effectiveness of a basic vision rehabilitation service in Portugal (registration number:
+ISRCTN10894889). The study was approved by
+the Ethics Committee for Life Sciences and
+Health of the University of Minho (SECVS
+147/2016) and the Hospital Santa Maria Maior’s
+ethics committee, Portuguese data protection
+authority
+approval
+number:
+7012/2017.
+Patients gave written informed consent for
+participation in this study. The study conformed to the tenets of the Declaration of
+Helsinki.
+
+309
+
+Patients attending outpatient appointments
+at the department of ophthalmology at a public
+hospital in Portugal were invited to participate
+in this study. The inclusion criteria were: (1)
+visual acuity between 0.4 and 1.0 logMAR in the
+better-seeing eye; (2) primary diagnosis and
+main cause of vision loss should be diabetic
+retinopathy or age-related macular degeneration; (3) 18 years or older; (4) living in the
+community (not living in any type of institution). The exclusion criteria were: (1) cognitive
+impairment based on scores on mini-mental
+state examination; (2) communication problems due to, for example, hearing impairment
+or inability to speak Portuguese; (3) inability to
+read because of a low level of education; (4)
+inability to attend the requested appointments
+at the study setting.
+The study design was a parallel group, 1:1
+allocation ratio randomised controlled trial.
+Participants were allocated to an immediate
+intervention arm (IMI) or a delayed intervention arm (DEI). The IMI arm received the
+intervention at the first visit (baseline); the DEI
+arm was used as control for a possible effect of
+‘attention to the problem’ and participants were
+put on a waiting list—participants in this arm
+only received the intervention in the second
+visit—12 weeks after the start of the study.
+The basic vision rehabilitation intervention
+(VRI) consisted of three main components: (1)
+prescription, when necessary, of the best refractive correction for distance vision; (2) prescription of magnification for reading (near glasses or
+handheld magnifiers); (3) instructions and
+training. The detailed procedure for each step of
+the intervention has been published as part of the
+study protocol [38]. The intervention was
+defined by the research team and based on the
+local circumstances and their knowledge about
+the needs of visually impaired people in Portugal.
+The intervention was also in line with the recommendations of the WHO Package of Eye Care
+Interventions-Annex 6 released in 2022 [39].
+
+
+[page 4]
+310
+
+Main Outcome Measure and Vision
+Measures
+Main Outcome
+Visual ability was measured with the Portuguese
+version of Massof Activity Inventory (AI)
+[7, 8, 40, 41]. The AI consists of a hierarchal
+structure in which specific cognitive and motor
+visual tasks (e.g., pouring or mixing without
+spilling) underlie more global goals (e.g.,
+preparing meals) [42, 43]. Disabilities occur
+when an individual reports difficulty in
+achieving important goals. Goals are split
+among three objectives—social functioning,
+recreation and daily living—associated with
+four classes of function: reading, visual motor
+(also called manipulation), visual information
+(also called seeing) and mobility [42, 43]. Goals
+rated ‘‘not important’’ are skipped and as such
+are not considered in the final visual ability
+score as these are not relevant to the person’s
+daily life. For goals rated ‘‘slightly important’’ or
+beyond, participants are asked to rate difficulty
+on a five-point scale ranging from ‘‘not difficult’’
+to ‘‘impossible to do’’ [42, 43].
+Vision Outcomes
+Distance visual acuity (VA) was measured with
+Early Treatment Diabetic Retinopathy Study
+(ETDRS) charts in a dimly lit room using an
+internally illuminated cabinet (model 2425E).
+Near VA was assessed with near version of the
+ETDRS charts (https://www.precision-vision.
+com/). VA was measured monocularly at distance and binocularly at near. At both distances
+a letter-by-letter scoring was used [41, 44].
+Testing distance was adjusted according to the
+severity of vision loss; final acuity scores reported were adjusted to standard distances (4 m at
+distance and 40 cm at near).
+Reading was tested to determine vision-related reading difficulties. Specifically, we measured: (1) reading acuity (RA), (2) maximum
+reading speed (MRS) and (3) critical print size
+(CPS) using the Portuguese version of Minnesota low vision Reading Test (MNread test)
+[45–47]. Reading was measured binocularly at
+40 cm or 20 cm according to the needs. After
+
+Ophthalmol Ther (2023) 12:307–323
+
+the intervention, reading was assessed with the
+prescribed aid.
+Contrast sensitivity was assessed binocularly
+at 40 cm with near correction using the MARS
+test (https://www.marsperceptrix.com/), which
+has a gradual letter-by-letter contrast. In line
+with the test settings, illuminance on the surface of the test was approximately 330 lux.
+Participants were encouraged to respond until
+two consecutive letters were read incorrectly;
+scoring was performed according to the test
+instructions.
+Economic Evaluation
+Measures of Costs
+Rehabilitation costs included: hospital costs,
+distance glasses (when necessary), near glasses
+and handheld magnifiers. The hospital costs
+included overheads for facilities and equipment
+and optometrist’s time. Costs for optical devices
+prescribed were inputed using the price recommended for the public [38]. Costs were estimated using the health care system perspective.
+We estimated a cost of €4.84 for each appointment for the material and equipment (e.g.,
+visual tests and visual aids trial set) needed to
+provide a basic rehabilitation in a hospital. The
+time spent by the rehabilitation optometrist
+with each patient was 1 h 45 min at 8.35 €/hour
+(15 min preparation, 1 h examination and
+30 min dispensing and training). Overhead
+hospital costs included administrative and
+clerical support and were estimated using hospital annual reporting costs for the ophthalmology department (€11.81 per patient).
+Magnifiers and/or lenses for glasses were also
+included in the cost’s estimation.
+Measures of Effectiveness
+Health-related quality of life (HRQOL) was
+accessed with the EuroQol five-dimension,
+5-point response scale questionnaire (EQ-5D5L). This questionnaire comprises five dimensions which have five possible levels of
+response. Three dimensions are related to
+function (Mobility, Self-Care and Usual Activities) and the other two describe feelings (Pain/
+Discomfort and Anxiety/Depression) [48, 49].
+
+
+[page 5]
+Ophthalmol Ther (2023) 12:307–323
+
+Utility index values were obtained using ‘‘index
+value set calculators’’ obtained from https://
+euroqol.org/ that use valuations of health states
+in England. We used values from England
+because some of the health states in our sample
+were unavailable in the standard EQ-5D-5L
+value set for Portugal [50].
+Near VA values were converted to quality adjusted life years (QALYs), as suggested by
+others [51, 52]. The reference for near vision
+ophthalmic utility value was the value of time
+trade-off utility values for patients with ocular
+diseases [53].
+Economic and Sensitivity Analysis
+Economic analysis was conducted from the
+healthcare perspective. All costs are reported in
+euros for year 2020. EQ-5D-5L index and near
+vision were measured before the intervention
+and 12 weeks after to capture the effect of the
+intervention. To determine whether the intervention was cost-effective the incremental cost effectiveness ratio (ICER) was computed using
+the expression:
+ICER ¼ ðCost interventionCost alternativeÞ=
+ðEffect interventionEffect alternativeÞ
+From the IMI arm we obtained the ‘‘cost
+intervention’’, which is the rehabilitation costs
+and the ‘‘effect intervention’’, which is the
+utility values from EQ-5D-5L and from the
+near vision ophthalmic utility value at
+12 weeks. From the DEI arm we obtained the
+‘‘cost alternative’’, which was zero (because the
+group was in a waiting list) and the ‘‘effect
+alternative’’ or ‘‘placebo’’.
+To assess whether the intervention was cost effective, the threshold used was based on the
+Portuguese per capita Gross Domestic Product
+(GDP) of €19,431 for 2020 [54]. To determine
+confidence intervals we used a procedure
+implemented in previous studies [55, 56]. In
+short, we used bootstrapping with 5000 replications for the costs and for the effects in both
+groups to generate 95% confidence intervals
+around the ICER estimates. Cost-effectiveness
+planes were plotted to show the distribution of
+costs
+and
+effects.
+Cost-effectiveness
+
+311
+
+acceptability curves to show the probability of
+cost-effectiveness at a range of thresholds were
+also plotted. Adjusted intervention cost sensitivity analyses were performed to evaluate
+uncertainty. For that, we computed the ICER for
+empirical costs values and then computed ICER
+for extreme cost values.
+Statistical Analysis
+Descriptive statistics and hypothesis testing
+were performed according to the type of variable (continuous or discrete) and its distribution
+(normal or skewed). Kolmogorov-Smirnov test
+was performed to assess normality. Rasch analysis was carried out to analyse results of the AI
+using the Andrich rate scale model [57] for
+polytomous data with Winsteps software (v.
+4.4.0) to compute person measures of visual
+ability [58]. The effect of time and group on trial
+outcomes was tested using linear mixed models
+(LMM) using PROCMIX in SAS software (R: 3.8,
+SAS Institute Inc., Cary, NC, USA). For the main
+outcome measure, visual ability was normalized
+by subtracting the AI person measure at week 1
+from all measures, corresponding to a baseline
+visual ability of 0 for all participants. For this
+model visual ability was defined as ‘‘dependent
+variable’’; participants were defined as ‘‘random
+factors’’ or ‘‘group specific effects’’. Explanatory
+factors or ‘‘fixed factors’’ were: ‘‘arm’’ and time
+(1, 12 and 36 for the IMI arm and 1, 12 and 24
+for the DEI arm). Similar models were performed for other trial outcomes; only the
+dependent variable was changed. Statistical
+significance was set at p \ 0.05.
+
+RESULTS
+According to the initial protocol, the estimated
+sample size to detect a significant difference in
+visual ability measured with the activity inventory at 12 weeks was 22 per arm [38]. A total of
+59 patients were invited to participate; of these,
+46 agreed to take part in the study. Socio-demographic and clinical characteristics of the 46
+participants who accepted to take part in the
+study are summarized in Table 1.
+
+
+[page 6]
+Ophthalmol Ther (2023) 12:307–323
+
+312
+
+Table 1 Socio-demographic characteristics of the participants at baseline, dropouts included
+Variable
+
+Arm
+IMI
+
+DEI
+
+N
+
+23
+
+23
+
+Age, mean (SD), in years
+
+72.61 (13.00)
+
+70.08 (8.74)
+
+Comorbidities, mode (range)
+
+2 (5)
+
+4 (6)
+
+Years with VI, mean (SD), in years
+
+2.72 (1.85)
+
+3.64 (3.79)
+
+Presenting VA better eye, mean (SD), in logMAR
+
+0.71 (0.20)
+
+0.66(0.30)
+
+Sex: Female, n (%)
+
+10 (43%)
+
+15 (63%)
+
+Sex: Male, n (%)
+
+13 (57%)
+
+9 (37%)
+
+Main diagnosis DR, n (%)
+
+16 (70%)
+
+18 (78%)
+
+Main diagnosis AMD, n (%)
+
+7 (30%)
+
+5 (22%)
+
+Living: with others, n (%)
+
+19 (82.6%)
+
+21 (91%)
+
+Living: alone, n (%)
+
+4 (17.4%)
+
+2 (9%)
+
+Education: B 4 years, n (%)
+
+9 (39%)
+
+9 (39%)
+
+Education: 6 to 9 years, n (%)
+
+8 (35%)
+
+11 (48%)
+
+Education: 12 years n (%)
+
+4 (17%)
+
+1 (4%)
+
+Education: University or more, n (%)
+
+2 (9%)
+
+2 (9%)
+
+Sex:
+
+Main diagnosis:
+
+Living:
+
+Education:
+
+IMI immediate intervention arm, DEI delayed intervention arm, VA visual acuity, VI visual impairment, SD standard
+deviation
+
+For the duration of the study, which was
+mostly conducted during the COVID-19 pandemic, there were ten dropouts (21%) related to
+non-adaptation to the low vision aids, vision
+improved because of medical treatments or
+participants failed to show at follow-up assessments. Dropouts were participants that failed to
+complete the first follow-up after they received
+the intervention.
+The time with the optometrist during the
+vision rehabilitation intervention was approximately 90 min (questionnaire administration
+excluded). The reading aids prescribed comprised a total of 17 new pairs of glasses (3 for
+
+distance and 14 for near) and 23 LED-illuminated handheld magnifiers. The mean power of
+the reading aids was 10.0D (SD = 5.0), the
+median for near glasses was 6D and 12D for the
+handheld magnifiers.
+Main Outcome Measure of the Trial—
+Visual Ability
+The mean visual ability in the IMI (n = 23)
+before the intervention at baseline or week 1
+was 0.28 logits (SD = 1.14), and it increased
+(n = 21 at 12 weeks) to 0.91 logits (SD = 1.24)
+
+
+[page 7]
+Ophthalmol Ther (2023) 12:307–323
+
+313
+
+after the intervention. In the DEI group
+(n = 23), the mean visual ability at baseline
+(week 1) was 0.71 logits (SD = 1.30), and it
+changed (n = 16 at 12 weeks) to 0.45 logits
+(SD = 8.88) after the waiting period. A LMM
+with visual ability as dependent variable
+revealed a main effect of time, given in weeks
+(F(3, 69) = 41.16, p \ 0.001), and an interaction
+time 9 arm (F(1,69) = 6.54, p = 0.012). The
+effect of arm was not statistically significant
+(p = 0.059). Comparisons within and between
+arms are summarized in Table 2; bold p-values correspond to the main results of the trial
+after 12 weeks, whose values are shown in Fig. 1.
+
+Clinical Changes with Rehabilitation
+Descriptive statistics for visual outcomes are
+given in Table 3. A LMM with VA in the better seeing eye as dependent variable revealed a
+statistically significant effect for factor time
+(F(3,69) = 3.63, p \ 0.017); the effects of interaction time 9 arm (p \ 0.54) and factor arm
+(p = 0.07) were not statistically significant.
+These results show that distance acuity in the
+better-seeing eye improved with time for both
+arms.
+LMM for near VA as dependent variable
+revealed statistically significant effect of main
+factor time (F(3,69) = 49.77, p \ 0.001) and for
+interaction
+time 9 arm
+(F(1,69) = 82.61,
+p \ 0.001), the effect of arm was not statistically
+
+Table 2 Summary of the pairwise comparisons for the interaction time 9 arm and the AI changes within arm over time
+Arm
+
+Week
+
+Arm
+
+Week
+
+MD
+
+SE
+
+DF
+
+t Value
+
+Pr >|t|
+
+Adj
+
+Adj P
+
+DEI
+
+1
+
+DEI
+
+12
+
+- 0.1024
+
+0.1199
+
+69
+
+- 0.85
+
+0.3963A
+
+T-K
+
+0.9560
+
+DEI
+
+1
+
+DEI
+
+24
+
+- 0.6480
+
+0.07298
+
+69
+
+- 8.88
+
+\ 0.0001
+
+T-K
+
+\ 0.0001
+
+DEI
+
+1
+
+IMI
+
+1
+
+0
+
+0.1130
+
+69
+
+- 0.00
+
+1.0000
+
+T-K
+
+1.0000
+
+DEI
+
+1
+
+IMI
+
+12
+
+- 0.5233
+
+0.1157
+
+69
+
+- 4.52
+
+\ 0.0001
+
+T-K
+
+0.0003
+
+DEI
+
+1
+
+IMI
+
+36
+
+- 0.6872
+
+0.1170
+
+69
+
+- 5.88
+
+\ 0.0001
+
+T-K
+
+\ 0.0001
+
+DEI
+
+12
+
+DEI
+
+24
+
+- 0.5457
+
+0.1255
+
+69
+
+- 4.35
+
+\ 0.0001
+
+T-K
+
+0.0006
+
+DEI
+
+12
+
+IMI
+
+1
+
+0.1024
+
+0.1225
+
+69
+
+0.84
+
+0.4065
+
+T-K
+
+0.9599
+
+T-K
+
+0.0151
+
+C
+
+DEI
+
+12
+
+IMI
+
+12
+
+- 0.4210
+
+0.1250
+
+69
+
+- 3.37
+
+0.0012
+
+DEI
+
+12
+
+IMI
+
+36
+
+- 0.5848
+
+0.1262
+
+69
+
+- 4.63
+
+\ 0.0001
+
+T-K
+
+0.0002
+
+DEI
+
+24
+
+IMI
+
+1
+
+0.6480
+
+0.1192
+
+69
+
+5.44
+
+\ 0.0001
+
+T-K
+
+\ 0.0001
+
+DEI
+
+24
+
+IMI
+
+12
+
+0.1247
+
+0.1217
+
+69
+
+1.02
+
+0.3092
+
+T-K
+
+0.9082
+
+DEI
+
+24
+
+IMI
+
+36
+
+- 0.03915
+
+0.1230
+
+69
+
+- 0.32
+
+0.7512
+
+T-K
+
+0.9995
+
+T-K
+
+0.0002
+
+B
+
+IMI
+
+1
+
+IMI
+
+12
+
+- 0.5233
+
+0.1128
+
+69
+
+- 4.64
+
+\ 0.0001
+
+IMI
+
+1
+
+IMI
+
+36
+
+- 0.6872
+
+0.1020
+
+69
+
+- 6.74
+
+\ 0.0001
+
+T-K
+
+\ 0.0001
+
+IMI
+
+12
+
+IMI
+
+36
+
+- 0.1638
+
+0.06762
+
+69
+
+- 2.42
+
+0.0180
+
+T-K
+
+0.1628
+
+The comparisons indicate that the differences between week 1 and week 12 for DEI (comparison A) were not statistically
+signiﬁcant whilst the differences were statistically signiﬁcant for the IMI after the intervention (comparison B) and the
+groups showed statistically signiﬁcant differences (comparison C)
+MD mean difference for the AI between the pair group-week in the ﬁrst two columns and the pair arm-week in column 3
+and 4. SE standard error for the MD, T-K Tukey-Kramer procedure, IMI immediate intervention group, DEI delayed
+intervention group
+
+
+[page 8]
+314
+
+Fig. 1 Estimated mean AI change and standard errors for
+the change for both groups over time. IMI = immediate
+intervention group, DEI = delayed intervention group.
+This cross-over design uses the DEI group as control
+group—between weeks 1 and 12; DEI group was on a
+waiting list for a low vision intervention but did not
+receive it. The IMI group received a low vision rehabilitation intervention at week 1 and AI changes were
+assessed at 12 weeks—that assessment corresponds to the
+main outcome of the trial. Between weeks 12 and 36 weeks
+the IMI group did not receive any attention and this
+assessment at 36 weeks was performed to investigate
+whether the beneﬁts of the rehabilitation persisted
+significant (p = 0.45). These results show that
+near acuity improved with time for both arms
+but the interaction indicates that the changes
+were due to the intervention that was delivered
+at different time points to each arm.
+For contrast sensitivity as dependent variable, none of the effects tested with LMM was
+statistically significant. For critical print size as
+dependent variable, the main effect time in
+weeks
+was
+statistically
+significant
+(F(3,53) = 77.82, p \ 0.001). These findings
+reveal that the intervention failed to improve
+contrast sensitivity but succeeded at improving
+critical print size.
+Results of the Economic Evaluation
+Effectiveness and Costs of the Intervention
+The intervention was effective at providing
+additional QALYs. Using the EQ-5D-5L index
+value, for the IMI group the median QALY gain
+
+Ophthalmol Ther (2023) 12:307–323
+
+of 0.102 (IQR = 0.169) after 12 weeks was statistically
+significant
+(Wilcoxon
+test,
+Z = - 2.670, p = 0.008). The median QALY
+change of 0.00 (IQR = 0.287) for the DEI group
+during the 12 weeks waiting was not statistically
+significant (p = 0.477). The difference in effect
+between groups (effect = (EQ-5D-5L index value
+at 12 weeks) minus (EQ-5D-5L index value at
+week 1) for each participant) at 12 weeks was
+statistically significant (Mann-Whitney U test,
+Z = - 2.007, p = 0.045).
+Using near acuity ophthalmic utility values,
+for the IMI group the mean improvement in
+QALY of 0.077 (SD = 0.072) after 12 weeks was
+statistically
+significant
+(paired
+t-test
+t(20) = - 5.217, p \ 0.001.) The mean reduction
+in QALY of - 0.008 (SD = 0.041) after 12 weeks
+for the DEI was not statistically significant
+(p = 0.490). The difference in effect between
+groups at 12 weeks was statistically significant
+(independent t-test, t(36) = 4.611, p \ 0.001).
+The mean cost of the intervention was
+€118.79 (SD = 24.37), range = €103.12–€199.27.
+The costs of the intervention included €31.23
+for hospital costs for each participant, the mean
+cost for distances glasses was €84 and the mean
+cost for near aids (near glasses or LED-illuminate
+handheld magnifiers) was €80.71 (SD = 7.87).
+Cost-Effectiveness Results
+Table 4 summarizes the effect and ICER results
+for the 5000 bootstrap replications. The mean
+ICER obtained through the EQ-5D-5L index
+value was 30,421€/QALY and the median was
+23,054€/QALY. These values show that the
+intervention is cost-effective assuming a
+threshold equal to 2 9 the Portuguese per capita GDP, that is, €38,862. The mean ICER
+obtained through near acuity ophthalmic utility value was 1186€/QALY and the median was
+1184€/QALY, which shows that the intervention can be considered cost-effective assuming a
+threshold equal to one time the Portuguese per
+capita GDP of €19,431.
+Figure 2 shows the cost-effectiveness planes
+and the cost-effectiveness acceptability curves.
+In Fig. 2A the points are spread between an
+incremental effect on the x-axis of - 0.20
+and ? 0.20, while on Fig. 2B all the points show
+an incremental effect on the x-axis above 0. The
+
+
+[page 9]
+Ophthalmol Ther (2023) 12:307–323
+
+315
+
+Table 3 Vision outcomes for IMI and DEI at different time points
+Time point
+and arm
+
+Vision outcome
+Distance VA better
+eye (logMAR)
+
+Distance VA worst
+eye (logMAR)
+
+Near VA
+(logMAR)
+
+Contrast
+sensitivity
+(logCS)
+
+Critical print size
+(logMAR)
+
+Mean (SD) 0.70 (0.20)
+
+1.04 (0.43)
+
+0.77 (0.20)
+
+1.32 (0.19)
+
+1.00 (0.16)
+
+Median
+(IQR)
+
+0.66 (0.30)
+
+0.92 (0.56)
+
+0.70 (0.30)
+
+1.28 (0.24)
+
+1.00 (0.20)
+
+Mean (SD) 0.61 (0.17)
+
+1.02 (0.59)
+
+0.62 (0.19)
+
+1.36 (0.21)
+
+nm
+
+Median
+(IQR)
+
+0.56 (0.26)
+
+0.85 (0.72)
+
+0.60 (0.26)
+
+1.40 (0.32)
+
+nm
+
+Mean (SD) 0.66 (0.20)
+
+1.02 (0.43)
+
+0.32 (0.10)
+
+1.43 (0.16)
+
+0.54 (0.15)
+
+Median
+(IQR)
+
+0.62 (0.32)
+
+0.94 (0.62)
+
+0.36 (0.16)
+
+1.44 (0.20)
+
+0.50 (0.10)
+
+Mean (SD) 0.63 (0.21)
+
+1.04 (0.61)
+
+0.66 (0.20)
+
+1.36 (0.25)
+
+0.97 (0.16)
+
+Median
+(IQR)
+
+0.58 (0.24)
+
+0.85 (0.61)
+
+0.64 (0.22)
+
+1.40 (0.36)
+
+0.90 (0.20)
+
+Mean (SD) 0.58 (0.19)
+
+1.03 (0.61)
+
+0.25 (0.11)
+
+1.45 (0.19)
+
+0.51 (0.15)
+
+Median
+(IQR)
+
+0.50 (0.17)
+
+0.89 (0.93)
+
+0.24 (0.18)
+
+1.50 (0.21)
+
+0.50 (0.20)
+
+Median
+(IQR)
+
+0.68 (0.19)
+
+1.05 (0.42)
+
+0.36 (0.09)
+
+1.33 (0.28)
+
+0.61 (0.10)
+
+Median
+(IQR)
+
+0.66 (0.32)
+
+1.04 (0.46)
+
+0.38 (0.12)
+
+1.40 (0.24)
+
+0.60 (0.10)
+
+Week 1
+IMI**
+
+DEI**
+
+Week 12
+IMI
+
+DEI**
+
+Week 24
+DEI
+
+Week 36
+IMI
+
+nm note measured, IMI immediate intervention arm, DEI delayed intervention arm, VA visual acuity, SD standard
+deviation, IQR interquartile range
+**Measurements performed with the habitual correction (‘ presenting vision outcomes’ )
+
+
+[page 10]
+Ophthalmol Ther (2023) 12:307–323
+
+316
+
+Table 4 Economic analysis: incremental effect and cost and ICER estimation from bootstrapping
+Utility computation
+
+Incremental effect
+Mean difference (95%CI)
+
+Incremental cost in €
+Mean difference (95%CI)
+
+ICER in €/QALY
+Estimate ICER (95%CI)
+
+EQ-5D-5L index
+
+0.0039 (- 0.0927, 0.0931)
+
+118.72* (110.75, 128.27)
+
+30,421.70 (21,737.41–50,744.77)
+
+Near VA value
+
+0.1001 (0.0679, 0.1346)
+
+1186.20 (1181.12–1191.34)
+
+CI conﬁdence interval, ICER incremental cost-effectiveness ratio, VA visual acuity, QALY quality-adjusted life years
+*This value for incremental costs is the result of bootstrapping and because of that can be different from the obtained during
+the trial and given in the text
+
+northeast quadrant is where the intervention is
+more costly but more effective and the northwest quadrant is where the intervention is more
+costly but less effective. Figure 2C shows that
+the probability of the intervention to be cost effective is 49% for a threshold of * €20,000
+(Portugal per capita GDP) and Fig. 2D shows
+that the probability of the intervention to be
+cost-effective is 100% from a threshold of
+€2400. Table 5 summarizes the sensitivity analysis based on different cost scenarios; the
+intervention remains cost-effective in all cost
+scenarios.
+
+DISCUSSION
+In the current study we investigated the effect
+of a basic vision rehabilitation intervention and
+its cost-effectiveness. The study took place in a
+public hospital and was focused on a single
+interaction with an optometrist providing
+updated refractive correction, reading aids,
+basic training with the aid and instructions to
+reduce the effect of low vision in activities of
+daily living. The ability to perform activities
+that rely on vision—visual ability—was the
+main outcome measure and was assessed with
+the AI. As hypothesized, a basic vision rehabilitation intervention resulted in a significant
+improvement in visual ability. These results are
+in line with previous studies conducted in other
+countries [4, 18, 21, 55, 59–61]. In addition,
+there was an improvement in health-related
+quality of life as measured by the EQ-5D-5L,
+which is also in line with other studies
+[37, 60, 61]. The current basic vision rehabilitation intervention was cost-effective, which is
+
+in line with studies investigating the cost-effectiveness of other types of rehabilitation
+interventions for people with VI [55, 56, 62–64].
+Clinical Impact of Rehabilitation
+The improvement observed in our participants’
+visual ability suggests that they experienced
+fewer difficulties performing activities of daily
+living, which provides evidence of the benefits
+of vision rehabilitation for people with vision
+impairment [4, 5, 59]. The difference between
+the current study and previous studies is that
+others tended to included comprehensive
+rehabilitation with different professionals (e.g.,
+occupational therapist, social worker) and
+multiple interactions with the patients to
+improve aspects such as mobility or at home
+training [4, 5, 59, 65, 66]. Therefore, the current
+study gives fresh evidence that a simple but
+structured intervention produces measurable
+improvements in everyday functioning for
+people with VI.
+Improvements in visual ability can be
+explained by an overall improvement in vision
+function and, eventually, an optimization of
+the remaining vision. The improvement in
+acuity at distance (overall approximately 2 letters) can be considered modest but reasonable if
+we consider that with some treatments such as
+anti-VEGF injections the improvement in distance VA is in the range 1–5 letters [67, 68].
+Most of our participants were unable to read
+common print sizes, such as personal mail,
+before rehabilitation. In line with the initial
+expectations, the intervention caused significant improvements in near VA and critical print
+
+
+[page 11]
+Ophthalmol Ther (2023) 12:307–323
+
+317
+
+B
+
+A
+160
+
+170
+
+150
+
+160
+
+140
+
+150
+
+Incremental cost ( )
+
+Incremental cost ( )
+
+170
+
+130
+120
+110
+100
+90
+
+140
+130
+120
+110
+100
+90
+
+80
+
+80
+-0.3
+
+-0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+-0.3
+
+Incremental effect (change EQ-5D-5L index)
+
+-0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+Incremental effect (change utility from VA)
+
+C
+
+D
+1.0
+
+Probability cost-effective
+
+Probability cost-effective
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+0.0
+0
+
+20000
+
+40000
+
+60000
+
+80000
+
+Willingness to pay threshold ( )
+
+0
+
+2000
+
+4000
+
+6000
+
+Willingness to pay threshold ( )
+
+Fig. 2 Top row: cost-effectiveness planes: A based on EQ-5D-5L and B based on near VA. Bottom row, cost-effectiveness
+acceptability curves, C based on EQ-5D-5L and D based on near VA, generated from cost and effectiveness data
+size, which reduced the reading difficulties
+reported in the AI [18, 21, 37, 69–71]. In short,
+changes in visual ability detected after the basic
+vision rehabilitation intervention can be
+explained by improvements in near vision tasks
+
+achieved with the correct use of the prescribed
+magnification.
+
+
+[page 12]
+Ophthalmol Ther (2023) 12:307–323
+
+318
+
+Table 5 Sensitivity analysis adjusted by cost
+Basis for utility computation
+
+Real cost ICER in €/
+QALY
+
+Lowest cost ICER in €/
+QALY
+
+Highest cost ICER in €/
+QALY
+
+Median
+
+1118.82
+
+1015.96
+
+2174.38
+
+Mean
+
+9977.54
+
+8501.24
+
+18,194.56
+
+Median
+
+1336.00
+
+1213.18
+
+2596.47
+
+Mean
+
+1434.32
+
+1222.09
+
+2615.55
+
+EQ-5D-5L index value
+
+Near vision ophthalmic utility
+value
+
+QALY quality-adjusted life years, ICER incremental cost-effectiveness ratio, VA visual acuity
+
+Cost-Effectiveness—Discussion
+of the Economical Evaluation
+The cost of the basic vision rehabilitation
+intervention was lower than the costs reported
+by other studies [33]. These results can be
+explained by the normal differences in costs of
+the healthcare workforce and products in different countries. Bray et al. found that interventions for near vision activities tend to be
+cost-effective independently of the type of
+magnifiers [55]. Our findings are in line with
+these results.
+ICER calculations for different utilities in
+Table 4 and cost scenarios in Table 5 revealed
+that our intervention was always cost-effective
+assuming a threshold equal to two times the
+Portuguese per capita GDP. The World Health
+Organisation’s Commission on Macroeconomics in Health suggested that cost-effectiveness thresholds should be three times the per
+capita GDP [72], which gives a cost–effectiveness threshold of €58,293. However, when
+using the EQ-5D-5L index we found that the
+probability of the intervention to be cost-effective was roughly 49% (for a threshold equal to
+the Portuguese per capita GDP) and 52% (for a
+threshold equal to two times the Portuguese per
+capita GDP)—which indicates uncertainty
+around these estimates (Fig. 2A). Based on the
+near vision ophthalmic utility value, the intervention was more cost-effective than with the
+EQ-5D-5L index value and there was less
+
+uncertainty around the estimates (Fig. 2B). This
+may be related to the fact that the near acuity based ophthalmic utility value captures the
+actual near vision improvements. The EQ-5D-5L
+index has been considered to have low responsiveness to the effects of vision rehabilitation;
+therefore, our results for the cost-effectiveness
+have limitations [38, 73]. The fact that we used
+the EQ-5D-5L, an instrument with limited
+responsiveness to vision rehabilitation, is a
+limitation to the results of the current trial [74].
+A literature review concluded that most
+ophthalmologic interventions are cost-effective
+and the median cost-utility value is 5 219$/
+QALY (* 4571€/QALY) [75]. Recent findings in
+vision rehabilitation services in England found
+that for values between £13,000 (* €15,423)
+and £30,000 (* €35,591) per QALY, in-house
+VR had a high probability of being cost-effective
+from a social care perspective. However, the
+probability of being cost-effective was lower
+when a healthcare perspective was used [62].
+Assuming a healthcare perspective, which is
+expected to capture only part of the benefits of
+vision rehabilitation, the basic intervention
+performed as part of the current study can be
+considered cost-effective as shown by the different costs and utility scenarios investigated.
+We consider that the COVID-19 pandemic
+was a significant barrier for recruiting and
+retaining participants in this study, which led to
+its first limitation—the n was less than expected
+and can be considered small. The small sample
+
+
+[page 13]
+Ophthalmol Ther (2023) 12:307–323
+
+affected particularly the cost-effectiveness
+analysis where results for QALY gains and losses
+for the groups were very ‘‘noisy’’—this limits the
+strength of the findings. Another limitation was
+the fact that the research person collecting the
+data (author LHM) was not ‘‘blinded’’ for the
+allocation of the participants. That might have
+caused bias during data collection; however, the
+researcher was always aware of this fact and did
+everything possible to control any bias. These
+limitations should be addressed in future studies. A further issue that can be hard to address in
+studies like the current one is the fact that
+patients at need of VR also need medical care
+during rehabilitation. We discussed with the
+ophthalmologists responsible for the patients’
+treatments what they expected in terms of
+visual prognosis during the temporal frame of
+the study for each of the participants. None was
+expected to improve visual function. However,
+treatments to prevent vision loss such as
+intravitreal injections were given, if necessary,
+during patients’ participation in the current
+study. For example, one of the dropouts was
+submitted to a vitrectomy that improved visual
+acuity significantly. Acuity of most participants
+remained stable during the time that they were
+in the study, as shown by the vision outcomes
+given in Table 3.
+
+CONCLUSION
+Results of the current study show that a basic
+vision rehabilitation intervention was clinically
+impactful and cost-effective. A single patient optometrist interaction led to immediate
+meaningful improvements for the patient that
+were retained over time. These findings are
+important to clinical and rehabilitation practices and for planning vision rehabilitation services. We hope that results of the current study
+provide the necessary basis for the development
+of VR services in Portugal that follow at least the
+minimum standards established by WHO Package of Eye Care Interventions.
+
+319
+
+ACKNOWLEDGEMENTS
+We thank the participants of the study. The
+current study is part of a clinical trial with registration number: ISRCTN10894889, https://
+www.isrctn.com/ISRCTN10894889. We thank
+the hospital where the study took place for
+making space available. We also acknowledge
+staff from the Department of Ophthalmology,
+including all ophthalmologists, for their collaboration in the recruitment process. We also
+acknowledge Dr. João Linhares, Prof. Rui Santana and Dr. Pedro Lima Ramos for their support during this project.
+Funding. Purchase of ophthalmic lenses and
+some of the magnifiers was supported by Essilor
+Portugal and Fundação para a Ciência e a Tecnologia grants: PTDC/DPT-EPI/0412/2012, UID/
+FIS/04650/2013/ and SFRH/BD/119420/2016.
+AFM and the journal’s Rapid Service Fee were
+funded by the Faculty of Health and Life Sciences at Linnaeus University. These funding
+sources had no role in the design, execution,
+analyses, interpretation of the data or decision
+to submit results.
+Author Contributions. Conception of the
+work: AFM, LHM, HS, APM, NMP. Design of the
+work: AFM, LHM, HS, APM. Acquisition, analysis of data: AFM, LHM, HS, APM. Interpretation of data: AFM, LHM, HS, APM. Creation of
+software: AFM. Drafted the work: AFM, LHM.
+Revised the work: AFM, LHM, HS, APM, NMP.
+Approved the submitted version (and any substantially modified version that involves the
+author’s contribution to the study): All authors.
+Disclosures. Laura
+Hernández-Moreno,
+Hugo Senra, Ana Patricia Marques, Natacha
+Moreno Perdomo and Antonio Filipe Macedo
+have nothing to disclose.
+Compliance with Ethics Guidelines. The
+study was approved by the Ethics Committee
+for Life Sciences and Health of the University of
+Minho (SECVS 147/2016) and by the Hospital
+Santa Maria Maior’s ethics committee. Portuguese data protection authority approval
+number: 7012/2017. Patients gave written
+
+
+[page 14]
+Ophthalmol Ther (2023) 12:307–323
+
+320
+
+informed consent for participation in this
+study. The study conformed to the tenets of the
+Declaration of Helsinki.
+Data Availability. The datasets generated
+during and/or analysed during the current
+study are available from the corresponding
+author on reasonable request.
+Open Access. This article is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License, which permits
+any non-commercial use, sharing, adaptation,
+distribution and reproduction in any medium
+or format, as long as you give appropriate credit
+to the original author(s) and the source, provide
+a link to the Creative Commons licence, and
+indicate if changes were made. The images or
+other third party material in this article are
+included in the article’s Creative Commons
+licence, unless indicated otherwise in a credit
+line to the material. If material is not included
+in the article’s Creative Commons licence and
+your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you
+will need to obtain permission directly from the
+copyright holder. To view a copy of this licence,
+visit http://creativecommons.org/licenses/bync/4.0/.
+
+REFERENCES
+1.
+
+WHO. World Report on Vision. World Health
+Organization. 2019.
+
+2.
+
+Burton MJ, Ramke J, Marques AP, Bourne RRA,
+Congdon N, Jones I, et al. The Lancet Global Health
+Commission on Global Eye Health: vision beyond
+2020. Lancet Glob Health. 2021;9(4):e489–551
+(Epub 20210216).
+
+3.
+
+Devlin NJ, Shah KK, Feng Y, Mulhern B, van Hout B.
+Valuing health-related quality of life: an EQ-5D-5L
+value set for England. Health Econ. 2018;27(1):7–22
+(Epub 20170822).
+
+4.
+
+Pearce E, Crossland MD, Rubin GS. The efficacy of
+low vision device training in a hospital-based low
+vision clinic. Br J Ophthalmol. 2011;95(1):105–8
+(Epub 2010/09/15).
+
+5.
+
+Stelmack JA, Tang XC, Wei Y, Wilcox DT, Morand
+T, Brahm K, et al. Outcomes of the Veterans Affairs
+Low Vision Intervention Trial II (LOVIT II): A Randomized Clinical Trial. JAMA Ophthalmol.
+2017;135(2):96–104 (Epub 2016/12/16).
+
+6.
+
+Rees G, Xie J, Chiang PP, Larizza MF, Marella M,
+Hassell JB, et al. A randomised controlled trial of a
+self-management programme for low vision implemented in low vision rehabilitation services.
+Patient Educ Couns. 2015;98(2):174–81 (Epub
+2014/12/08).
+
+7.
+
+Marques AP, Macedo AF, Hernandez-Moreno L,
+Ramos PL, Butt T, Rubin GS, et al. The use of
+informal care by people with vision impairment.
+PLoS ONE. 2018;13(6): e0198631.
+
+8.
+
+Marques AP, Macedo AF, Lima Ramos P, Moreno
+LH, Butt T, Rubin G, et al. Productivity losses and
+their explanatory factors amongst people with
+impaired vision. Ophthalmic Epidemiol. 2019.
+https://doi.org/10.1080/09286586.2019.1632904.
+
+9.
+
+Hernandez-Moreno L, Senra H, Moreno N, Macedo
+AF. Is perceived social support more important than
+visual acuity for clinical depression and anxiety in
+patients with age-related macular degeneration and
+diabetic retinopathy? Clin Rehabil. 2021. https://
+doi.org/10.1177/0269215521997991
+(Epub
+2021/03/05).
+
+10. Rabiee P, Bernard S, Baxter K, Parker G. Community-based vision rehabilitation provision in England. Br J Vis Impair. 2016;34(3):248–61.
+11. Taylor HR, Pezzullo ML, Keeffe JE. The economic
+impact and cost of visual impairment in Australia.
+Br J Ophthalmol. 2006;90(3):272–5 (Epub
+2006/02/21).
+12. Cruess AF, Gordon KD, Bellan L, Mitchell S, Pezzullo ML. The cost of vision loss in Canada. 2.
+Results. Can J Ophthalmol. 2011;46(4):315–8
+(Epub 2011/08/06).
+13. Wittenborn JS, Zhang XZ, Feagan CW, Crouse WL,
+Shrestha S, Kemper AR, et al. The economic burden
+of vision loss and eye disorders among the United
+States population younger than 40 years. Ophthalmology. 2013;120(9):1728–35.
+14. Marques AP, Ramke J, Cairns J, Butt T, Zhang JH,
+Muirhead D, et al. Global economic productivity
+losses from vision impairment and blindness.
+EClinicalMedicine.
+2021;35:
+100852
+(Epub
+20210426).
+15. Coyne KS, Margolis MK, Kennedy-Martin T, Baker
+TM, Klein R, Paul MD, et al. The impact of diabetic
+retinopathy: perspectives from patient focus
+groups. Fam Pract. 2004;21(4):447–53.
+
+
+[page 15]
+Ophthalmol Ther (2023) 12:307–323
+
+321
+
+16. Langelaan M, de Boer MR, van Nispen RMA, Wouters B, Moll AC, van Rens GHMB. Impact of visual
+impairment on quality of life: a comparison with
+quality of life in the general population and with
+other chronic conditions. Ophthalmic Epidemiol.
+2007;14(3):119–26.
+
+27. Hernández-Moreno L, Moreno Perdomo N, Lima
+Ramos P, Lewis P, Linhares J, Senra H, et al. Visual
+and psychological outcomes in patients with and
+without low vision diagnosed with similar eye diseases—initial results. Invest Ophth Vis Sci.
+2018;59(9):3411.
+
+17. Brown JC, Goldstein JE, Chan TL, Massof R, Ramulu
+P, Grp LVRNS. Characterizing functional complaints in patients seeking outpatient low vision
+services in the United States. Ophthalmology. 2014.
+https://doi.org/10.1016/j.ophtha.2014.02.030.
+
+28. Senra H, Macedo A, Nunes N, Balaskas K, Aslam T,
+Costa E. Psychological and psychosocial interventions for depression and anxiety in patients with
+age-related macular degeneration–a systematic
+review. Am J Geriatr Psychiatry. 2019;27(8):755–73.
+
+18. Stelmack JA, Tang XC, Reda DJ, Rinne S, Mancil
+RM, Massof RW, et al. Outcomes of the Veterans
+Affairs Low Vision Intervention Trial (LOVIT). Arch
+Ophthalmol. 2008;126(5):608–17 (Epub 2008/05/
+14).
+
+29. Ramos PL, Santana R, Marques AP, Sousa I, Rocha Sousa A, Macedo AF. Cross-sectional study investigating the prevalence and causes of vision impairment
+in
+Northwest
+Portugal
+using
+capture–recapture. BMJ Open. 2022;12(9): e056995.
+
+19. WHO. International Classification of Functioning,
+Disability and Health, 2001. Geneva. World Health
+Organization. 2001.
+
+30. Cachulo Mda L, Laı́ns I, Lobo C, Figueira J, Ribeiro
+L, Marques JP, et al. Age-related macular degeneration in Portugal: prevalence and risk factors in a
+coastal and an inland town. The Coimbra Eye
+Study—Report 2. Acta Ophthalmol. 2016;94(6):
+e442–53 (Epub 20160125).
+
+20. Massof RW, Ahmadian L, Grover LL, Deremeik JT,
+Goldstein JE, Rainey C, et al. The activity inventory:
+an adaptive visual function questionnaire. Optometry Vision Sci. 2007;84(8):763–74.
+21. Stelmack JA, Tang XC, Wei Y, Massof RW, low
+vision Intervention Trial Study G. The effectiveness
+of low vision rehabilitation in 2 cohorts derived
+from the veterans affairs low vision Intervention
+Trial. Arch Ophthalmol. 2012;130(9):1162–8 (Epub
+2012/09/12).
+22. Stronks HC, Mitchell EB, Nau AC, Barnes N. Visual
+task performance in the blind with the BrainPort
+V100 Vision Aid. Expert Rev Med Devices.
+2016;13(10):919–31 (Epub 2016/09/17).
+23. Crossland MD, Silva RS, Macedo AF. Smartphone,
+tablet computer and e-reader use by people with
+vision impairment. Ophthalmic Physiol Opt.
+2014;34(5):552–7 (Epub 2014/07/30).
+24. Smith TM, Hong I, Reistetter TA. Responsiveness of
+the revised low vision independence measure
+(LVIM-R). Am J Occup Ther. 2020;74(5):
+7405205040p1-p11 (Epub 2020/08/18).
+25. Malkin AG, Goldstein JE, Massof RW. Multivariable
+Regression Model of the EuroQol 5-Dimension
+Questionnaire in Patients Seeking Outpatient Low
+Vision Rehabilitation. Ophthalmic Epidemiol.
+2017;24(3):174–80 (Epub 2017/01/04).
+26. Ramos PL, Santana R, Moreno LH, Marques AP,
+Freitas C, Rocha-Sousa A, et al. Predicting participation of people with impaired vision in epidemiological studies. BMC Ophthalmol. 2018;18(1):236.
+
+31. Dutra Medeiros M, Mesquita E, Papoila AL, Genro
+V, Raposo JF. First diabetic retinopathy prevalence
+study in Portugal: RETINODIAB Study–evaluation
+of the screening programme for Lisbon and Tagus
+Valley region. Br J Ophthalmol. 2015;99(10):
+1328–33 (Epub 20150402).
+32. Stelmack JA, Tang XYC, Reda DJ, Stroupe KT, Rinne
+S, Massof RW, et al. VA LOVIT II: a protocol to
+compare low vision rehabilitation and basic low
+vision. Ophthalmic Physiol Opt. 2012;32(6):
+461–71.
+33. Stroupe KT, Stelmack JA, Tang XC, Wei YL, Sayers S,
+Reda DJ, et al. Economic evaluation of low vision
+rehabilitation for veterans with macular diseases in
+the US department of veterans affairs. Jama Ophthalmol. 2018;136(5):524–31.
+34. Lam N, Leat SJ. Barriers to accessing low vision care:
+the patient’s perspective. Can J Ophthalm.
+2013;48(6):458–62.
+35. O’Connor PM, Mu LC, Keeffe JE. Access and utilization of a new low vision rehabilitation service.
+Clin Exp Ophthalmol. 2008;36(6):547–52.
+36. Crossland MD, Silver JH. Thirty years in an urban
+low vision clinic: changes in prescribing habits of
+low vision practitioners. Optometry Vision Sci.
+2005;82(7):617–22.
+37. Binns AM, Bunce C, Dickinson C, Harper R, Tudor Edwards R, Woodhouse M, Linck P, et al. How
+effective is low vision service provision? A
+
+
+[page 16]
+Ophthalmol Ther (2023) 12:307–323
+
+322
+
+systematic review. Surv Ophthalmol. 2012;57(1):
+34–65 (Epub 2011/10/25).
+38. Hernandez-Moreno L, Senra H, Lewis P, Moreno N,
+Linhares J, Santana R, et al. Cost-effectiveness of
+basic vision rehabilitation (The basic VRS-effect
+study): study protocol for a randomised controlled
+trial. Ophthalmic Physiol Opt. 2020. https://doi.
+org/10.1111/opo.12665 (Epub 2020/01/29).
+39. WHO TEAM for Sensory Functions Disability and
+Rehabilitation. The package of eye care interventions Organization WH, editor2022.
+40. Hernandez-Moreno L, Massof RW, Sousa S, Cima J,
+Costa JPM, Monteiro J, et al. The Portuguese version
+of the activity inventory. Invest Ophth Vis Sci.
+2015;56(7):1368.
+41. Macedo AF, Ramos PL, Hernandez-Moreno L, Cima
+J, Baptista AMG, Marques AP, et al. Visual and
+health outcomes, measured with the activity
+inventory and the EQ-5D, in visual impairment.
+Acta Ophthalmol. 2017;95(8):e783–91 (Epub
+2017/04/04).
+42. Massof RW, Hsu CT, Baker FH, Barnett GD, Park
+WL, Deremeik JT, et al. Visual disability variables. I:
+the importance and difficulty of activity goals for a
+sample of low vision patients. Arch Phys Med
+Rehabil. 2005;86(5):946–53.
+43. Massof RW, Hsu CT, Baker FH, Barnett GD, Park
+WL, Deremeik JT, et al. Visual disability variables.
+II: The difficulty of tasks for a sample of low vision
+patients. Arch Phys Med Rehabil. 2005;86(5):
+954–67.
+
+49. Oppe M, Devlin NJ, van Hout B, Krabbe PFM, de
+Charro F. A Program of methodological research to
+arrive at the new international EQ-5D-5L valuation
+protocol. Value Health. 2014;17(4):445–53.
+50. Ferreira PL, Antunes P, Ferreira LN, Pereira LN,
+Ramos-Goñi JM. A hybrid modelling approach for
+eliciting health state preferences: the Portuguese
+EQ-5D-5L value set. Qual Life Res. 2019;28(12):
+3163–75 (Epub 20190614).
+51. Ross EL, Hutton DW, Stein JD, Bressler NM, Jampol
+LM, Glassman AR, et al. Cost-effectiveness of
+Aflibercept, Bevacizumab, and Ranibizumab for
+Diabetic Macular Edema Treatment: Analysis From
+the Diabetic Retinopathy Clinical Research Network Comparative Effectiveness Trial. JAMA Ophthalmol. 2016;134(8):888–96 (Epub 2016/06/10).
+52. Brown GC. Vision and quality-of-life. Trans Am
+Ophthalmol Soc. 1999;97:473.
+53. Brown MM, Brown GC, Sharma S, Landy J. Health
+care economic analyses and value-based medicine.
+Surv Ophthalmol. 2003;48(2):204–23 (Epub
+2003/04/11).
+54. INE. Produto interno bruto por habitante a preços
+correntes por localização geográfica. Instituto
+Nacional de Estatı́stica 2020 [updated 14 December
+202117 February 2022]; Available from: https://
+www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_
+indicadores&contecto=pi&indOcorrCod=
+0009975&selTab=tab0.
+
+44. Ferris FL, Kassoff A, Bresnick GH, Bailey I. New
+Visual-acuity charts for clinical research. Am J
+Ophthalmol. 1982;94(1):91–6.
+
+55. Bray N, Brand A, Taylor J, Hoare Z, Dickinson C,
+Edwards RT. Portable electronic vision enhancement systems in comparison with optical magnifiers for near vision activities: an economic
+evaluation alongside a randomized crossover trial.
+Acta Ophthalmol. 2017;95(5):e415–23.
+
+45. Legge GE, Ross JA, Luebker A, Lamay JM. Psychophysics of reading. VIII. The Minnesota low
+vision Reading Test. Optometry Vision Sci.
+1989;66(12):843–53.
+
+56. Patty NJS, Koopmanschap M, Holtzer-Goor K. A
+cost-effectiveness study of ICT training among the
+visually impaired in the Netherlands. BMC Ophthalmol. 2018;18(1):98 (Epub 2018/04/19).
+
+46. Castro CT, Kallie CS, Salomao SR. Development and
+validation of the MNREAD reading acuity chart in
+Portuguese. Arq Bras Oftalmol. 2005;68(6):777–83
+(Epub 2007/03/09. Elaboracao e validacao de
+tabela MNREAD para o idioma portugues).
+
+57. David A. A rating formulation for ordered response
+categories. Psychometrika. 1978;43(4):561–73.
+
+47. Baskaran K, Macedo AF, He Y, Hernandez-Moreno
+L, Queirós T, Mansfield JS, et al. Scoring reading
+parameters: an inter-rater reliability study using the
+MNREAD chart. PLoS ONE. 2019;14(6):e0216775-e.
+48. Herdman M, Gudex C, Lloyd A, Janssen M, Kind P,
+Parkin D, et al. Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D5L). Qual Life Res. 2011;20(10):1727–36.
+
+58. Wright BD, Linacre JM. Observations are always
+ordinal—measurements, however, must be interval.
+Arch Phys Med Rehabil. 1989;70(12):857–60.
+59. Goldstein JE, Jackson ML, Fox SM, Deremeik JT,
+Massof RW, Low Vision Research Network Study G.
+Clinically meaningful rehabilitation outcomes of
+low vision patients served by outpatient clinical
+centers. JAMA Ophthalmol. 2015;133(7):762–9
+(Epub 2015/04/10).
+
+
+[page 17]
+Ophthalmol Ther (2023) 12:307–323
+
+60. Do AT, Ilango K, Ramasamy D, Kalidasan S,
+Balakrishnan V, Chang RT. Effectiveness of low
+vision services in improving patient quality of life
+at Aravind Eye Hospital. Indian J Ophthalmol.
+2014;62(12):1125–31.
+61. Kaltenegger K, Kuester S, Altpeter-Ott E, Eschweiler
+GW, Cordey A, Ivanov IV, et al. Effects of home
+reading training on reading and quality of life in
+AMD-a randomized and controlled study. Graefes
+Arch Clin Exp Ophthalmol. 2019;257(7):1499–512
+(Epub 2019/05/22).
+62. Longo F, Saramago P, Weatherly H, Rabiee P, Birks
+Y, Keding A, et al. Cost-effectiveness of in-house
+versus contracted-out vision rehabilitation services
+in England. Journal of Long-term Care. 2020.
+https://doi.org/10.31389/jltc.26.
+63. Taylor J, Bambrick R, Dutton M, Harper R, Ryan B,
+Tudor-Edwards R, et al. The p-EVES study design
+and methodology: a randomised controlled trial to
+compare portable electronic vision enhancement
+systems (p-EVES) to optical magnifiers for near
+vision activities in visual impairment. Ophthalmic
+Physiol Opt. 2014;34(5):558–72 (Epub 2014/08/
+15).
+64. van der Aa HPA, van Rens G, Bosmans JE, Comijs
+HC, van Nispen RMA. Economic evaluation of
+stepped-care versus usual care for depression and
+anxiety in older adults with vision impairment:
+randomized controlled trial. BMC Psychiatry.
+2017;17(1):280 (Epub 2017/08/03).
+65. Lamoureux EL, Pallant JF, Pesudovs K, Rees G,
+Hassell JB, Keeffe JE. The effectiveness of low vision
+rehabilitation on participation in daily living and
+quality of life. Invest Ophthalmol Vis Sci.
+2007;48(4):1476–82 (Epub 2007/03/29).
+66. Silva MBR, Cavalieri GC, Cota LS, Frare EZ, Hoyama
+E, Matsuo T, et al. Quality of life of patients
+attending a low vision rehabilitation service in
+Brazil. Invest Ophth Vis Sci. 2018;59(9):1066.
+67. Wykoff CC, Brown DM, Chen E, Major JC, Croft
+DE, Mariani A, et al. SAVE (Super-dose anti-VEGF)
+
+323
+
+trial: 2.0 mg ranibizumab for recalcitrant neovascular age-related macular degeneration: 1-year
+results. Ophthalmic Surg Lasers Imaging Retina.
+2013;44(2):121–6 (Epub 2013/03/21).
+68. Wallsh JO, Gallemore RP. Anti-VEGF-resistant retinal diseases: a review of the latest treatment
+options. Cells. 2021;10(5):1049.
+69. van Nispen RM, Knol DL, Langelaan M, de Boer MR,
+Terwee CB, van Rens GH. Applying multilevel item
+response theory to vision-related quality of life in
+Dutch visually impaired elderly. Optometry Vision
+Sci. 2007;84(8):710–20 (Epub 2007/08/19).
+70. Margrain TH. Helping blind and partially sighted
+people to read: the effectiveness of low vision aids.
+Br J Ophthalmol. 2000;84(8):919–21 (Epub
+2000/07/25).
+71. Hinds A, Sinclair A, Park J, Suttie A, Paterson H,
+Macdonald M. Impact of an interdisciplinary low
+vision service on the quality of life of low vision
+patients. Br J Ophthalmol. 2003;87(11):1391–6
+(Epub 2003/11/12).
+72. Garber AM, Phelps CE. Economic foundations of
+cost-effectiveness analysis. J Health Econ.
+1997;16(1):1–31.
+73. Malkin AG, Goldstein JE, Perlmutter MS, Massof
+RW. Responsiveness of the EQ-5D to the effects of
+low vision rehabilitation. Optometry Vision Sci.
+2013;90(8):799–805.
+74. Macedo AF, Hellström A, Massof R, Tuvesson H,
+Rask M, Ramos PL, et al. Predictors of problems
+reported on the EQ-5D-3L dimensions among people with impaired vision in northern Portugal.
+Health Qual Life Outcomes. 2022;20(1):132 (Epub
+20220906).
+75. Brown GC, Brown MM, Sharma S, Brown H, Smithen L, Leeser DB, et al. Value-based medicine and
+ophthalmology: an appraisal of cost-utility analyses. Trans Am Ophthalmol Soc. 2004;102:177–85
+(discussion 85-8. Epub 2005/03/08).
+

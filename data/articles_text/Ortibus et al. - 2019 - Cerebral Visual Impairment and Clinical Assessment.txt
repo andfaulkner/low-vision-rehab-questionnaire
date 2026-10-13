@@ -1,0 +1,2112 @@
+[page 1]
+Accepted Manuscript
+
+Cerebral Visual Impairment and Clinical Assessment: The European
+Perspective
+Els Ortibus MD, PhD , Elisa Fazzi MD, PhD ,
+Naomi Dale BA, MA, PhD
+PII:
+DOI:
+Reference:
+
+S1071-9091(19)30040-3
+https://doi.org/10.1016/j.spen.2019.05.004
+YSPEN 759
+
+To appear in:
+
+Seminars in Pediatric Neurology
+
+Please cite this article as: Els Ortibus MD, PhD , Elisa Fazzi MD, PhD , Naomi Dale BA, MA, PhD ,
+Cerebral Visual Impairment and Clinical Assessment: The European Perspective, Seminars in Pediatric
+Neurology (2019), doi: https://doi.org/10.1016/j.spen.2019.05.004
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service
+to our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and
+all legal disclaimers that apply to the journal pertain.
+
+
+[page 2]
+ACCEPTED MANUSCRIPT
+Cerebral Visual Impairment and Clinical Assessment: The European Perspective
+
+Els
+
+Ortibus,
+
+MD,
+
+PhD,
+
+Department
+
+of
+
+Development
+
+and
+
+Regeneration,
+
+KU
+
+Leuven,
+
+Belgium.
+
+Els.ortibus@uzleuven.be
+
+CR
+IP
+T
+
+Elisa Fazzi, MD, PhD, Clinical and Experimental Sciences Department, University of Brescia, Italy; Child
+Neurology and Psychiatry Unit, ASST Civil Hospital -Brescia, Italy. elisa.fazzi@unibs.it.
+
+Naomi Dale, BA, MA, PhD, Developmental Neurosciences, UCL Great Ormond Street Institute of Child Health,
+and Neurodisability Service, Great Ormond Street Hospital for Children NHS Foundation Trust, London, UK.
+
+AN
+US
+
+n.dale@ucl.ac.uk
+
+Work reported from the Developmental Vision Clinic of Great Ormond Street Hospital, London (UK), the CVI clinic
+in Leuven (Belgium) and the Center of Child Neurophthalmology at the Unit of Child Neurology and Psychiatry,
+
+M
+
+ASST Spedali Civili of Brescia (Italy)
+
+Prof. Dr. Els Ortibus
+
+ED
+
+Corresponding Author:
+
+PT
+
+Pediatric Neurology Department
+University Hospitals Leuven
+
+CE
+
+Herestraat 33
+B-3000 Leuven
+
+AC
+
+Belgium
+
+Disclosure of interests: The authors have no commercial, proprietary, or financial interest in any
+products or companies described in the article.
+
+1
+
+
+[page 3]
+ACCEPTED MANUSCRIPT
+Abstract
+
+This paper summarizes the multidisciplinary pediatric assessment methods of three
+European centers for identifying and assessing CVI in childhood. It describes a
+comprehensive neurodevelopmental assessment evaluation in which visual aspects play an
+
+CR
+IP
+T
+
+important part is crucial. Developmental trajectories and the heterogeneity of the clinical
+picture are emphasized. Multidisciplinary ophthalmology and neurodisability/neurology
+teamwork together with the parent and teachers to reach an integrated and individualized
+perspective for the individual child. This comprehensive assessment or evaluation is the
+
+AN
+US
+
+starting point for habilitation programs and intervention that can support and meet the child’s
+needs and help them reach their optimal potential. Future developments in classification of
+the CVI conditions, building on the child’s individual assessment profile, will further enhance
+
+AC
+
+CE
+
+PT
+
+ED
+
+M
+
+the direction of clinical, educational and research progress.
+
+2
+
+
+[page 4]
+ACCEPTED MANUSCRIPT
+Introduction
+Over the last decades, Cerebral Visual Impairment (CVI) has become a major issue in
+children with neurodisabilities.1 Since its description in the 1980’s, the substantive definition
+of CVI has not undergone many changes but there remain many controversies.2, 3 Ongoing
+issues have been raised and are yet to be resolved. First of all, the definitions available are
+
+CR
+IP
+T
+
+variable and broad and may encompass many subtypes of basic and higher vision including
+differing degrees of acuity loss and visual perception deficits. On the other hand, the
+definitions available are not always clear enough so that conditions affecting the eye itself
+might or might not be included. Lastly, there is a difference in terminology between the US
+
+AN
+US
+
+and the European countries with a favor in the latter for the term “Cerebral”. As a significant
+proportion of children presenting with CVI have periventricular white matter disease,
+European Centers prefer the term ”cerebral” to take into account cortical, sub-cortical, and
+white matter structures.4, 5 A recent systematic review investigating the different definitions of
+CVI found fifty one papers that met inclusion criteria. The most commonly appearing themes
+
+M
+
+were ‘visual impairment’, ‘retro-chiasmatic pathway damage’ and ‘normal/near normal eye
+
+ED
+
+health’. The most consensual definitions identified in this review may not be the most
+empirically useful definition for describing childhood CVI and the authors proposed that a
+
+PT
+
+way forward was to use the definition of CVI as ‘a verifiable visual dysfunction which cannot
+be attributed to disorders of the anterior visual pathways or any potentially co-occurring
+
+CE
+
+ocular impairment’.’ This would be sufficiently broad and inclusive of primary cerebral or
+posterior visual pathway origins of visual dysfunction, whilst also requiring a systematic and
+
+AC
+
+explicit means of ‘verifying’ the disorder through appropriate clinical assessment methods.2
+
+Whereas the definition of CVI is broad, the clinical spectrum is even broader and so is the
+array of underlying conditions causing CVI, which can be acquired or congenital, occurring in
+the pre-, peri-, or postnatal period.6–8 Many conditions have been associated with CVI, such
+as cerebral malformations, hydrocephalus, central nervous system infections, epilepsy, head
+trauma, metabolic and neurodegenerative diseases, or intoxication with drugs or poisons.9
+
+3
+
+
+[page 5]
+ACCEPTED MANUSCRIPT
+However, cryptogenic cases have also been described.10 Still, the most frequent conditions
+linked with CVI are periventricular white matter disease, typically occurring in preterm infants,
+and hypoxic-ischemic encephalopathy around birth, both of which can lead to cerebral palsy
+(CP). In children with CP, up to 70 % have basic and higher visual dysfunction including
+visual perceptual problems.11,12 The first publications on visual dysfunction in CP described
+
+CR
+IP
+T
+
+the children as having object recognition difficulties.13,14 However, recent studies have shown
+that children with CP also suffer from visuospatial deficits impacting on their locomotion.15
+
+As severe visual impairment of any etiology has an important impact on other developmental
+domains including cognition, early diagnosis is of utmost importance to prevent cumulative
+
+AN
+US
+
+cognitive, motor, socio-emotional, and educational deficits.16 The greatest delays are found in
+infants and young children with profound vision loss and therefore early infancy vision
+
+M
+
+promotion is recommended for those with early severe vision reduction.17
+
+An ophthalmological, neuropediatric, developmental, vision and visuomotor assessment is
+
+ED
+
+required, in addition to interviewing the parent and other professionals involved in the child’s
+medical and educational care. This assessment will underpin the identification and diagnosis
+
+PT
+
+of whether the child has CVI or not, identify the child’s strengths and needs and provide
+important information for the child’s care, habilitation and education plan. As CVI has so
+
+CE
+
+many aspects, habilitation will have to be multidimensional and individually tailored.
+
+AC
+
+An optimal habilitation plan thus needs a thorough systematic, multidimensional, and
+multidisciplinary assessment. The importance of a systematic means of screening for and
+assessing CVI has been emphasized in the recent systematic review.2 A number of different
+European pediatric centers, including London (UK), Brescia (Italy), and Leuven (Belgium),
+have been developing multidisciplinary methods of assessment in the clinic and research
+context drawing on ophthalmology, neurology and neurodisability models of care. In the
+following sections of the paper we consider our assessment models in the context of clinical
+
+4
+
+
+[page 6]
+ACCEPTED MANUSCRIPT
+and research knowledge of the developmental trajectories of CVI, the heterogeneity of the
+clinical picture, assessment methods, co-morbidities and classification of CVI and in the light
+of defining an optimal habilitation plan.
+
+Thoughts to consider in the approach of CVI
+
+CR
+IP
+T
+
+Need for early identification
+Early identification of CVI is critical because it can lead firstly to early detection of infants at
+risk of brain damage and, secondly, to implement intervention in order to gauge plasticity and
+
+AN
+US
+
+recovery from perinatal brain damage early in life through measured changes over time.18
+
+Developmental trajectories and outcomes of CVI
+
+An important issue to consider in the screening and/or assessment of CVI in children is the
+developing brain and related developmental trajectories in typically developing children.
+
+M
+
+Along with the maturation of lower visual functions (with visual acuity reaching an adult level
+between three and five years of age), various higher level visual functions complete their
+
+ED
+
+development at differing and specific ages. For example, already from the age of six weeks,
+recognition of faces is based solely on the internal configuration of the face.19 At 3 months of
+
+PT
+
+age, infants show preferential attention for upright human movement, which is crucial for the
+ability to recognize people and to make social contacts.20 Meanwhile, within the first 16
+
+CE
+
+months, form- and motion-processing abilities start to develop but will not be completed
+before the age of 4 years.21 Many higher vision abilities continue to develop throughout
+
+AC
+
+childhood, such as
+
+complex form-ground discrimination and visual attention, which
+
+continues to mature until school age.22 These higher vision abilities develop alongside other
+cognitive abilities, with higher visual perceptual abilities developing in accordance with brain
+maturation and developmental age.23
+
+So, in contrast to adults where a lesion in the brain almost certainly leads to permanent
+deficits, in children there is hope for improving outcomes and even recovery in some cases
+
+5
+
+
+[page 7]
+ACCEPTED MANUSCRIPT
+as injured or compensatory neural networks develop over time.24, 25 For example, whereas in
+the acute phase following a traumatic event, children often seem to be cortically blind,
+functional improvement/recovery has been reported after variable time periods.26
+
+However, in most patients with CVI normal visual function will not be regained, as the vast
+
+CR
+IP
+T
+
+majority of them have associated neurological and ophthalmological deficits. including
+intellectual disabilities, CP, seizures, microcephaly, hydrocephalus or progressive central
+nervous system (CNS) degeneration.3,10 In addition, CVI is often associated with
+ophthalmologic abnormalities like strabismus, refraction disorders, nystagmus, and the
+
+AN
+US
+
+presence of large optic disc cupping often associated with generalized optic disc pallor.27
+Improvement of vision nevertheless can be seen and in some cases of CVI the degree of
+reduction in visual acuity is quite mild.10, 28 However, many clinicians and researchers state
+that children with CVI and additional neurologic damage have the least favorable prognosis
+
+M
+
+for normal development of basic (and higher) vision abilities.9
+Value of neuroimaging
+
+ED
+
+Areas of brain damage may be focal or widespread and variable and the MRI brain scan is
+not of diagnostic value in itself. A correlation between neurovisual and neuroradiological
+
+PT
+
+findings is not always present. In fact, a normal MRI does not exclude the presence of CVI. 5
+
+CE
+
+Many studies have reported an association between visuo-spatial dysfunction and occipitoparietal periventricular white matter lesions but no significant association between visuo-
+
+AC
+
+perceptual dysfunction and occipito-temporal white matter damage was found.12, 29, 30 There
+is some agreement among investigators that the lack of correlation between higher visual
+skills and observed morphological brain anomalies may be explained by the fact that
+conventional MRI techniques do not reveal macro-structural injuries within the visual
+pathways.5, 30 In this direction, the development of new neuroimaging advanced techniques
+such as diffusion tensor imaging (DTI) has proven to be highly useful not only as a method to
+
+6
+
+
+[page 8]
+ACCEPTED MANUSCRIPT
+characterize white matter macro-structural damage, but also to identify potential biomarkers
+for visual processing impairment.31–33
+
+Heterogeneity of the clinical picture
+Children with CVI present a variable symptom complex. For example, children can exhibit
+
+CR
+IP
+T
+
+severe CVI impairment with complete loss of visual awareness, whereas children with milder
+CVI may only exhibit visual perceptual problems like the inability to recognize faces or to
+visually identify objects.22 This depends on the timing, location and extent of the causative
+lesion itself. Ortibus et al. have shown that more extensive white matter damage is
+
+AN
+US
+
+associated with more important object recognition difficulties, coined by Dutton as ‘dorsal stream dysfunction plus’.5, 34 In more recent work, several groups have shown that global
+lesion extent and specific thalamus involvement, measured by a semi-quantitative scale,
+
+M
+
+define the clinical picture. 35, 36
+
+ED
+
+Traditionally, clinical symptoms of CVI are categorized according to the proposed underlying
+neuroanatomical distribution of the visual functions as first described in adults. 37 As such,
+
+PT
+
+some symptoms could be related to primary visual pathways, some symptoms have been
+more related to putative ventral stream deficits and other to dysfunctions of the dorsal
+
+CE
+
+stream. For an overview of clinical symptoms, we refer to excellent overviews such as those
+of Dutton et al. and Fazzi.30, 38 Typically not all symptoms occur at the same time and they
+
+AC
+
+can evolve over time.9,39 This could be due to recovery and plasticity mechanisms. In
+addition, clinical experience teaches that the child may also acquire compensation strategies
+for the visual deficits. A classic example is the dependence on color for recognizing objects
+or finding pictures on communication charts by remembering their location. Lastly, as
+described in congenitally blind people, the other senses may become more superior and
+non-visual perceptual processing may actively recruit the occipital areas.40
+
+7
+
+
+[page 9]
+ACCEPTED MANUSCRIPT
+Multidisciplinary approach for CVI: the European model
+A first crucial step in early identification of CVI is consideration of the child’s pediatric medical
+history, including prenatal, neonatal and early post-natal history, and later traumatic
+episodes, which will alert one to the risk of congenital or later CVI. The majority of tools used
+to identify CVI were not originally developed to diagnose this condition. Both clinically and in
+
+CR
+IP
+T
+
+research, groups of assessments are often used together to address different parts of the
+diagnostic process, which will draw on different disciplines including pediatric ophthalmology,
+optometry and orthoptics, developmental pediatrics, neuroimaging, visual electrophysiology,
+clinical neuropsychology, and occupational therapy. These may also be supplemented by
+
+AN
+US
+
+education. Individually, such assessments are unlikely to reach sufficient specificity or
+sensitivity to accurately differentiate between CVI and other conditions. However, when
+taken together and combined into a final integrated formulation, the multidisciplinary team
+and disciplines using a combination of assessment methods may successfully identify CVI in
+
+M
+
+the childhood population at different ages and levels of vision and cognitive ability.41 This
+combined approach is however only found in a few pediatric centers, such as the
+
+ED
+
+Developmental Vision Clinic of Great Ormond Street Hospital, London (UK), the CVI clinic in
+Leuven (Belgium) and the Center of Child Neurophthalmology at the Unit of Child Neurology
+
+PT
+
+and Psychiatry, ASST Spedali Civili of Brescia (Italy), where a multidisciplinary pediatric
+
+CE
+
+neurodisability/developmental vision clinic team works alongside pediatric ophthalmology.
+
+AC
+
+Screening questionnaires
+Several questionnaires have been developed for screening purposes, to obtain an initial idea
+of whether children are at risk for CVI, depending on their clinical characteristics.42–46 Some
+of them have been developed for specific age ranges, others for specific risk groups such as
+children with CP or for a specific geographical population. Although their clinical screening
+value is recognized, not many of these questionnaires have been studied for reliability or
+validity. Studies of the Preverbal Visual Assessment (PreVias) for example show the capacity
+of the questionnaire to differentiate typically developing children from those with slower
+
+8
+
+
+[page 10]
+ACCEPTED MANUSCRIPT
+developing visual abilities.47 However, it is not possible to specifically identify the children
+with CVI from other conditions associated with slower maturing of vision abilities, for example
+as in prematurity. Ortibus et al. have validated their questionnaire in a sample of children
+seen at a CVI clinic and tested with an object recognition battery. Although relatively good
+sensitivity and specificity of object recognition could be found based on 7 specific items, this
+
+CR
+IP
+T
+
+set of questions could not reliably give information on whether a child is also at risk for visuomotor or visuo-spatial difficulties.42 Moreover, some of the items are not suitable for children
+with a motor disability, which is why Salavati and colleagues developed a questionnaire
+tailored to this population. Validity studies were performed, however, the criteria for CVI
+
+AN
+US
+
+diagnosis in their population were not so clear.43 Philip et al. meanwhile rephrased some of
+the questions of an inventory developed by the group of Dutton, so as to fit the specific
+conditions of India.46 Taken together, no one questionnaire seems reliable and valid enough
+at the moment to initially detect or screen children at risk for CVI and a combination of
+
+M
+
+questionnaires and/or addition of information from parents and other caregivers and pediatric
+clinicians involved with the child is likely to be necessary. Further research and development
+
+ED
+
+of validated and worldwide useful questionnaires is urgently needed. Screening identification
+
+PT
+
+will then need to be followed by the comprehensive multidisciplinary assessment.
+
+Cognitive/developmental assessment
+
+CE
+
+Before progressing to assess higher visual perceptual abilities, it is necessary to evaluate the
+child’s general cognitive and adaptive behavioral levels using standard assessment tools. If
+
+AC
+
+the child has very low visual acuity then it is advisable to use the only available semistandardized scales for children with visual impairment (the Reynell Zinkin Scales for young
+children with visual handicap) for under 5s or the verbal subscales of cognitive schedules for
+school aged children so that the cognitive assessment is not compromised by vision
+reduction.48 Children with better vision can be assessed on infancy and childhood
+developmental assessment scales that include verbal and non-verbal scales. This will
+
+9
+
+
+[page 11]
+ACCEPTED MANUSCRIPT
+establish whether the child has significant developmental delay or intellectual disability by the
+time the child is at preschool or school age.
+
+Children with complex disability who are functioning in the severe-profound intellectual
+disability range are unlikely to be able to participate in standardized visual perceptual
+
+CR
+IP
+T
+
+assessments, which require a developmental age of at least two to five years, depending on
+the test. If the child has the cognitive ability to undertake a visual perceptual assessment, it is
+anticipated that the visual perceptual abilities are in line with their level of cognitive
+development, so any significant discrepancy and reduction in vision perception can be
+
+AN
+US
+
+assumed to be a selective visual perceptual deficit.
+
+Assessment of vision deficits
+
+Children with CVI present with specific difficulties in visual behavior or function. Although
+
+M
+
+they have a normal or quite normal eye examination, they show poor visual reactions and
+poor visual attention. The presence of visual latency, a limited visual attention span and
+
+ED
+
+extremely shortened gaze behavior often result in misjudgment of these children as
+inattentive, incapable or poorly motivated.49, 50 Other important features of CVI are
+
+PT
+
+oculomotor disorders such as nystagmus, unstable fixation, discontinuous smooth pursuit,
+and/or abnormal saccades. Also, they may show reduced visual acuity, poor depth
+
+CE
+
+perception and visual field restriction.51 This could explain their characteristic head turn when
+looking at or reaching for an object. In addition, they tend to use peripheral vision to look at
+
+AC
+
+an object and appear not to use their central vision.38 Also, children with CVI often lean
+forward to bring their eyes close to an object to reduce the ‘crowding’ effect or to improve
+resolution. This way, the amount of ‘noise’ in the background is reduced. However, this
+phenomenon is often misinterpreted as task rejection or as rebellious misbehavior. 52
+Paradoxically, in nearly one-third of the children photophobia (intolerance of light) is present,
+however gazing at lights is very characteristic, particularly in those with additional complex
+disability.6 Although perception of movement and color are frequently preserved in children
+
+10
+
+
+[page 12]
+ACCEPTED MANUSCRIPT
+with CVI, they show a preference for brightly colored objects (specifically red and yellow). 28
+Typically, they are better off with higher contrasts and they do have problems with perception
+of motion coherence as shown in many studies in preterm infants.21, 53 Vision for figure ground discrimination and crowding or simultanagnosia appears to be particularly
+
+CR
+IP
+T
+
+compromised, whatever the child’s level of visual acuity.
+
+Basic functional vision
+
+The newborn infant has a measurable visual acuity and contrast sensitivity just hours after
+birth and uses vision to explore and learn about the environment.54 Measurements of visual
+competences, becoming more efficient during the first weeks of life, can help to identify
+
+AN
+US
+
+infants at risk of CVI. In those at risk, such as very preterm infants, early signs of CVI that
+can be identified are abnormal visual behavior, low visual acuity and visual field, and
+malfunctioning of basic visual functions, particularly oculomotor functions.9
+
+feasibility
+
+of
+
+testing
+
+early
+
+visual
+
+M
+
+The
+
+function
+
+has
+
+increased
+
+considerably.
+
+ED
+
+Ophthalmologists/optometrists or neurodisability pediatricians can now use several tools to
+assess basic functional vision in newborns and infancy and those with or without early signs
+
+PT
+
+of other disabilities, particularly CP and cognitive disability.55–58 Most recently, the group from
+Fazzi at Brescia, showed that early detection of visual function deficits could be a means of
+
+CE
+
+rapidly assessing visual and neurological status in infants born preterm.58
+
+AC
+
+From the early years and through the childhood years, standard measures of visual detection
+and acuity, contrast sensitivity, color vision and stereopsis should be undertaken in the clinic
+environment as well as direct assessment of oculomotor behavior, saccades and visual field
+perimetry. These assessments will establish the child’s level of vision and the degree of
+visual impairment that may be hindering interaction with the environment or impact on depth
+perception and movement in space. In addition, the results are important in order to reliably
+use neuropsychological measures. For example, a good acuity is necessary to be able to
+
+11
+
+
+[page 13]
+ACCEPTED MANUSCRIPT
+recognize objects on a PC screen or to undertake a puzzle or visual-perceptual test. When
+contrast sensitivity is reduced, materials should be presented in an optimal way.
+
+The vision work-up thus includes measurement of resolution visual acuity such as
+preferential looking grating acuity (e.g. Teller acuity cards) or logMAR acuity (e.g. Sonksen
+
+CR
+IP
+T
+
+logMAR tests).59, 60 For very young children from birth or those with very low levels of vision
+or complex multidisability, the Near Detection Scale is a useful standard measure of basic
+detection from no vision to detection vision of ‘lures’ of diminishing size at standard
+distance.61 Visual field perimetry can be a challenge to test in children with a complex
+neurodisability. Behavioral field testing is more likely to be reliable than standard perimetry
+
+AN
+US
+
+testing in those children.62 Oculomotor assessment should include the detection of
+strabismus and further evaluate fixation (absent, sporadic, unstable, stable), smooth pursuit
+(absent, discontinuous, normal) and saccadic movements (abnormal, normal).50 Refraction
+
+M
+
+errors should be sought for as early as possible. Meanwhile, the development of playful
+stereopsis testing in young children has been launched: the Accurate STEReoacuity
+
+ED
+
+measurement On a mobIle Device (Asteroid) allows for stereoacuity testing through a game
+for health.63 For school aged children, the Frisby stereo test is suitable.64 As visual attention
+
+PT
+
+is a fundamental primordial requisite for and association of good overall visual function, its
+assessment is very important. In children under the age of 4 years, observational methods
+
+CE
+
+are used, due to the lack of standardized instruments which have been developed for older
+
+AC
+
+children.65, 66
+
+Neuropsychological assessment of visual perception
+
+The value of a standardized neuropsychological assessment of visual perception abilities is
+that it permits comparison with the test population norms (in the test manual), or reported
+typically developing community populations. This leads to identifying whether the child is in
+line with or behind normative (developmental) age expectations. Also, longitudinal follow up
+
+12
+
+
+[page 14]
+ACCEPTED MANUSCRIPT
+can demonstrate changes in the individual child’s trajectories. Based on available tests,
+evaluation can be successfully performed in children from ages of 2-5 years to adulthood.
+
+Specific instruments have been developed for specific visual functions, such as the line
+bisection task to detect hemi-neglect or the embedded figure test to specifically test figure-
+
+CR
+IP
+T
+
+ground detection. These tests however primarily target recognition of abstract materials.
+Instruments such as the Test of Visual Perception (TVPS-3), the Developmental Test of
+Visual Perception third edition (DTVP-III), the NEPSY (Developmental NEuroPSYchological
+Assessment) and the L-Post (the Leuven Perceptual Organization Test) consist of several
+
+AN
+US
+
+subtests and scales that tap into a range of different visual functions.67–70 The latter is an
+online test, in which 15 subtests cover a range of processes, such as figure-ground
+segmentation, local and global processing, and shape perception. To reduce cognitive load,
+
+M
+
+a matching-to-sample task was designed.71
+
+ED
+
+Many tests however are not reliable in children under the age of 5 years or in children with
+complex disability. This can be explained by limitations of the test (inappropriate for age) or
+
+PT
+
+because the child presents with limitations such as reduction in visual acuity, speech or
+cognitive delay or motor impairment. The lack of adequate testing tools in children with
+
+CE
+
+complex neurodisability makes the diagnosis of visual and intellectual disability in these
+
+AC
+
+children much more reliant on skilled clinical judgment.
+
+If existing, assessment batteries of visual perception for the child under 5 years have not
+been widely distributed. One example is the L94, an object recognition battery that is used
+throughout Flanders in Belgium.72 Because of the lack of instruments tailored to even
+younger children, the group of Ortibus et al. started developing assessment batteries for
+children aged 24 and 30 months.73 The test focuses on object recognition in black and white
+
+13
+
+
+[page 15]
+ACCEPTED MANUSCRIPT
+and colored forms, in 2D as well as in 3D and in crowded and uncrowded situations.
+Similarly, because of the L94 becoming outdated and the fact that it is purely based on
+recognition of black and white line drawings, the same group embarked on the development
+of a screening instrument for CVI in children between 3 and 6 years old, following a matching
+to sample paradigm along the lines of the L-Post. In the same line, this instrument also taps
+
+CR
+IP
+T
+
+into different visual perceptual processes. Important in the development of these new
+instruments is to carefully study their reliability, including test-retest reliability, and their
+discriminative validity. The question pursued in the authors’ research is whether they are
+able to discriminate children with CVI from those with deficits on the tests due to other
+
+AN
+US
+
+conditions such as a pure ocular condition or intellectual disability.74
+
+Certain subtests are found to be particularly discerning of visual perceptual dysfunction in
+children who are preterm, such as figure-ground, spatial relations, closure and tests of
+
+M
+
+discrimination.75 There is high interest in figure ground discrimination which is considered a
+dorsal stream deficit and object recognition and stereopsis which is considered a ventral
+
+ED
+
+stream deficit.76, 77 However, clinical and research experience shows that children with
+potential CVI and pediatric neurodevelopmental risks may have very uneven profiles on
+
+PT
+
+assessment batteries including visual perceptual ones.5, 50, 78 It is therefore important to
+remember that no single subtest or reduced scale is likely to be sufficient to cover the range
+
+CE
+
+of strengths and deficits that may be part of the individual child’s profile.
+
+AC
+
+Visuomotor examination
+As vision has a profound impact on motor development, assessment of visuomotor abilities
+or deficits must not be overlooked.79, 80 Young children for example could be evaluated by
+means of the Peabody Developmental Motor Scales (PDMS-2), which are available from
+birth through 5 years of age and cover reflexes, stationary motor abilities, locomotion, object
+manipulation, grasping and visual motor integration and measuring interrelated motor
+abilities.81 The Movement Assessment Battery for Children (Movement ABC-2) is now
+
+14
+
+
+[page 16]
+ACCEPTED MANUSCRIPT
+available for 3 year olds upwards and has had decades of clinical and research use and has
+reliable norms. It covers areas such as manual dexterity and aiming and catching.82 Other
+tests like the Beery-Buktenica Developmental Test of Visual-Motor Integration Sixth Edition
+(Beery-VMI) are available from 2 years upwards and this is supplemented by a visual
+perception and motor coordination test which are designed to compare the child’s test results
+
+CR
+IP
+T
+
+with relatively pure visual and motor performances.83 Important aspects such as reaching for
+objects to rule out optic ataxia or limb apraxia can be evaluated for example by the letter box
+test of L Hyvarinen or the posting coins subtest of the Movement ABC-2.82, 84, 85 Braddick and
+colleagues have also reported on the factors that play a role in the development of reaching.
+For example, as children grow older, but also depending on their reaching experience, they
+
+AN
+US
+
+use smoother trajectories to reach and develop a preference for smaller over larger objects.79
+In children with CP and other children with CVI, spatial navigation can be a real problem,
+prohibiting normal navigation despite relatively good motor abilities.86 Real world experience,
+
+M
+
+such as walking along a corridor in the hospital center or along the street, may be important
+
+The role of environment
+
+ED
+
+for getting an idea of the orientation and mobility abilities of the child.
+
+PT
+
+Critical for a good appraisal of the visual stimuli for children with CVI is a controlled, clutter
+free environment, good lighting and optimal contrast.87 However it might be revealing to also
+
+CE
+
+assess or observe the child’s visual function in less optimal conditions such as a busy
+classroom or a noisy playground. When tired, the child’s performance might be compromised
+
+AC
+
+and for those with a motor disability, optimal seating positions are required, as to insure trunk
+stability and consequently, better hand performance. It has to be verified first that the child’s
+peripheral visual abilities are satisfactory or need to be compensated for, e.g. when having a
+hemianopia.
+
+Visual function and functional vision
+
+15
+
+
+[page 17]
+ACCEPTED MANUSCRIPT
+Assessing visual function describes how the child’s eyes and his or her basic and higher
+visual systems function. It sheds light on the ability to process visual stimuli of a particular
+dimension, e.g. form, colour or motion.1 Functional vision on the other hand describes how a
+person functions with his or her visual abilities and, more importantly, looks at how vision
+determines function in everyday life.88 As such, it is important to consider the impact of the
+
+CR
+IP
+T
+
+child’s vision on communication and social relations, orientation and mobility, daily life
+activities and for sustained near vision tasks. Communication in daily life not only happens
+between person to person but also in busy environments or from a greater distance. For
+instance, difficulties with crowding will particularly impact the child’s ability to find their parent
+
+AN
+US
+
+or caregiver or friends in a busy environment, affecting their social relating at school. The
+final consideration is how to assess the needs of a child with a multiple disability, in whom
+standardized assessment may not be feasible. In this group, we rely considerably on history taking and information gathering from parents and educational and health professionals who
+have had a sustained relationship with the child. In these cases, a detailed observation of the
+
+M
+
+child’s vision, general play and social interactions in the clinic or everyday environment, is
+
+ED
+
+crucial, using standardised observational frameworks where possible. Observation in optimal
+and less optimal conditions and videotaping, will enable giving detailed feedback to parents,
+
+PT
+
+focussing on the family’s and educator’s concerns.
+
+CE
+
+Comorbidities in children with CVI
+As most of the children with CVI have a brain lesion, comorbidities are markedly present. In
+
+AC
+
+addition to the well-known association between CP and CVI, many children present with
+uneven cognitive or learning profiles, intellectual disability, attentional difficulties/ ADHD and
+also autistic spectrum disorder (ASD) and characteristics of developmental coordination
+disorder (DCD).87 There is ongoing research interest in whether this raised tendency is a
+reflection of common pathways at risk such as
+
+‘dorsal stream deficits’.89 For example,
+
+coherence problems and difficulties in local/global processing (in ASD) and clumsiness (in
+DCD) are also apparent in children with CVI.89, 90 Children with DCD have motor imagery
+
+16
+
+
+[page 18]
+ACCEPTED MANUSCRIPT
+problems and problems with estimating distances, leading to clumsy reaching and wrong
+pre-position of the hand, which is also observed in children with CVI.91 As such, while
+assessing a child with suspicion of CVI, a multidisciplinary, multidimensional and integrated
+assessment approach is necessary to identify, differentiate and consider the impact of other
+potential comorbidities. On the other hand, there is also a need for understanding of the
+
+CR
+IP
+T
+
+impact of CVI on the global functioning of the child and certain features, for instance
+associated with DCD or ASD, may in some cases arise from this. For example, clumsiness
+could also be related to impaired visual function and children who show anxiousness or lack
+of eye contact are not necessarily children with ASD.92, 93 In summary, in children suspected
+
+AN
+US
+
+of CVI, all potential developmental problems and needs should be considered as part of the
+differential assessment of the total profile of the child for the most beneficial and realistic
+support and intervention. This requires an evolutionary assessment process at times as
+developmental features may change as the child matures and it becomes more clear
+
+M
+
+whether there is an additional comorbidity or not. This will also assist the parent in
+understanding more how CVI impacts on the child and the effects of other comorbidities such
+
+PT
+
+Classification of CVI
+
+ED
+
+as intellectual disability or ADHD.
+
+Increasing attention is now being paid towards classification and sub-typing of CVI. This is in
+
+CE
+
+response to the growing realization that the heterogeneity of CVI requires more individual
+sub-classification in order to identify needs better, establish greater consensus in the field,
+
+AC
+
+and reach more informed knowledge through clinical assessment and research.2 As shown in
+a study by Ortibus et al, depending on the extent of the lesion, particularly when
+periventricular white matter is present, children present with either dorsal stream symptoms
+only or a combination of ventral and dorsal stream deficits.5 Dutton even coined this ‘dorsal
+stream dysfunction plus’.34 Indeed, Atkinson et al. have shown that the maturation of the
+dorsal stream runs a protracted course compared to the ventral one, making it more
+vulnerable to damage.94 Several authors have proposed different classification systems for
+
+17
+
+
+[page 19]
+ACCEPTED MANUSCRIPT
+CVI, including for instance the basis of variable academic and cognitive abilities of the
+children.87 However, even within these groups, separate subgroups can be distinguished. In
+a study by Sakki et al. from Dales’ group in London, classification analyses including cluster
+analysis was undertaken of the multidisciplinary standard clinical assessment measures of
+basic and higher vision abilities in children with diagnosed or suspected CVI (aged 5-16
+
+CR
+IP
+T
+
+years). The data driven groups highlighted a gradient of severity of CVI, with some similarity
+to Philip and Dutton’s proposed classification.95 Ophthalmological, basic and higher vision,
+and cognition were all in a gradient of severity and breadth of disorders, with more selective
+deficits conventionally associated with dorsal stream vulnerability in the highest functioning
+
+AN
+US
+
+group (Sakki et al. 2018, personal communication).
+
+Advances in classification should thus drive both clinical developments and research
+knowledge and understanding of CVI in the field. It may also show the best multidisciplinary
+
+M
+
+assessment tools and battery for identifying CVI and the different groups in the clinic
+environment. However, for the individual child, the continuing need will be for the
+
+ED
+
+comprehensive assessment approach described in this paper to ensure that the individual
+child’s profile of strengths and needs is identified. Good communication and partnership
+
+PT
+
+approaches with the parent, teachers and therapists will lead to ensuring that the child’s
+identification of needs draws on the knowledge and expertise of all involved with the child
+
+CE
+
+and can also be implemented in the school environment.
+
+AC
+
+Visual assessment: perspective towards visual and habilitative intervention
+The earlier identification is likely to be in those infants and young children with greater vision
+reduction and this is more commonly associated with more pervasive brain injury and
+complex multi-disability. This has implications for early intervention as the milder end of the
+CVI spectrum is often not identified until the child is late preschool or school age. Each child
+will need their assessment to be combined with individual guidance and habilitation
+approaches and strategies to support the child’s development, function, and adaptation in
+
+18
+
+
+[page 20]
+ACCEPTED MANUSCRIPT
+their everyday life situations, including home and school. Further assessments can be
+undertaken in the future to update the record of the child’s needs and to establish the
+success of support and interventions and also to provide guidance on further requirements
+for the child.
+
+CR
+IP
+T
+
+As the picture of CVI is so heterogeneous, no single type of treatment is applicable to all
+children with CVI, nor is any individual treatment successful with all. In addition, there are few
+scientifically robust contemporary theories or scientific knowledge to guide visual intervention
+with this population. After the first publications of Nathalie Barraga in the 1960s, vision
+
+AN
+US
+
+rehabilitation became common practice in teaching and in early intervention programs for
+children with visual impairments. These rehabilitation programs replaced the prevailing
+philosophy of ‘‘sight saving,’’ because it became apparent that vision would not be further
+impaired by use.96 The only randomized controlled trial in the field of early intervention and
+visual impairment is that of Sonksen et al. from the Developmental Vision Service, Great
+
+M
+
+Ormond Street Hospital, using a developmental approach to early vision promotion.17
+
+ED
+
+Although the majority of infants had peripheral or anterior visual disorders, the subsample
+with CVI showed similar faster progress in all vision functions if they were in the intervention
+
+PT
+
+arm. Meanwhile, there is growing evidence that early experience is most effective during the
+critical periods of brain development, where it can mould neural circuits and that repair from
+
+CE
+
+maldevelopment is much harder at a later stage of maturation. 25, 97 To date, there have been
+few systematic trials of early intervention with infants or young children with CVI and early
+
+AC
+
+identification and research in this area is urgently required.98
+
+Currently, however, it is well-accepted that more information is needed on the efficacy of
+visual interventions to draw recommendation guidelines on visual deficit treatment.96, 98
+Studies looking at the effect of visual perceptual training have shown that therapy needs to
+be specific, focused, repetitive, and intense to have a superior effect.99, 100 Also, new
+neuroscience research is beginning to focus on training of specific areas of vision
+
+19
+
+
+[page 21]
+ACCEPTED MANUSCRIPT
+dysfunction like figure-ground discrimination, with promising results.101 Lastly, motivation
+plays a crucial role in achieving optimal results. Therefore, customized, adaptive
+rehabilitation may be needed for optimal treatment outcomes, taking into account the child’s
+overall developmental status and changing needs and this may be enhanced by using
+
+CR
+IP
+T
+
+serious games.102, 103
+
+The central aim of habilitative programs addressed to young patients with CVI should be the
+promotion of those functions which can guarantee the acquisition of better levels of
+autonomy in domestic and extra-domestic environment. Training regarding the acquisition of
+
+AN
+US
+
+autonomy in routines such as dressing, grooming, bedtime, and bathing can promote a better
+self- mastery and lead to a better level of autonomy in domestic and extra domestic daily
+living routines. Further assistance is needed for better integration into schoolmates’ groups,
+which may include the speech and language therapist, occupational therapist, psychologist
+
+M
+
+and teacher.
+
+ED
+
+Philip & Dutton proposed a list of visuo-cognitive symptoms and related approaches to
+promote the organization of a suitable environment for these patients.95 For school-aged
+
+PT
+
+children, environmental aspects, such as the context of school surroundings and lessons,
+should also be considered. With regards to academic skills, reading is a common and
+
+CE
+
+demanding visual task at school. Since it requires fixation of gaze and saccades, often
+
+AC
+
+abnormal in children with CVI, the access to the written word and to numbers in columns or
+from printed pages can be compromised. Limiting the amount of words per page or
+minimizing crowding with well-spaced text layouts is necessary to guarantee best
+performances. Copying and drawing single and composite geometric forms is another
+common task which is required at school and which can be difficult to manage for children
+with CVI. A suitable way to improve the children’s performance is to show how to draw the
+forms and shapes, which have to be copied while the child is watching or to guide the child
+during the task, providing him/her with some hints, which can also facilitate partial
+
+20
+
+
+[page 22]
+ACCEPTED MANUSCRIPT
+successes. If the patient tends to lose spaces among words, a suitable solution is to teach
+children to draw a line at the end of each word along the baseline to “represent” the space
+needed before writing the next word.95
+
+The parents’ attempts to solve the child’s problems aren’t usually enough to guarantee a
+
+CR
+IP
+T
+
+positive outcome. In the majority of children with CVI, the specialist therapists’ help, including
+the specialist teacher (visual impairment) or occupational therapist, will promote the impaired
+skills, changing the child’s exposition to those tasks which are difficult to deal with. In
+subjects with motor planning deficits, task-oriented programs and motor-training-based
+
+AN
+US
+
+interventions have shown stronger treatment effects than process-oriented therapy.104 Task
+oriented treatments permit the patient to concentrate his/her resources to the learning of
+specific abilities. As regards visual perceptual and visual motor problems the management is
+twofold. First, an organization of a children’s suitable environment, which can promote a
+
+M
+
+better adaptation of the patients to daily living skills is fundamental. In addition, the
+organization of a personalized habilitative training is also of particular importance because it
+
+ED
+
+can promote the emerging visual-perceptual and cognitive functions.
+
+PT
+
+The child’s mental health will also need to be considered as she or he may be at greater risk,
+though little is yet known of this in children with CVI. Elevated mental health difficulties have
+
+CE
+
+been shown in recent systematic reviews of children with CP and prematurity, with or without
+neurosensory impairments.105, 106 Other pediatric risks for CVI, such as traumatic brain injury,
+
+AC
+
+also have long term risks for behavior problems and disorders.107
+
+Conclusion
+
+This paper summarizes the multidisciplinary pediatric assessment methods of three
+European centers for identifying and assessing CVI in childhood. It highlights that a
+comprehensive neurodevelopmental assessment evaluation in which visual aspects play an
+important part is crucial. Multidisciplinary ophthalmology and neurodisability/neurology teams
+
+21
+
+
+[page 23]
+ACCEPTED MANUSCRIPT
+work together with the parent and teachers to reach an integrated and individualized
+perspective for the individual child. This comprehensive assessment or evaluation is the
+starting point for habilitation programs and intervention that can support and meet the child’s
+needs and help them reach their optimal potential. Future developments in classification of
+the CVI conditions, building on the child’s individual assessment profile, will further enhance
+direction
+
+of
+
+clinical,
+
+educational
+
+and
+
+research
+
+progress.
+
+AC
+
+CE
+
+PT
+
+ED
+
+M
+
+AN
+US
+
+CR
+IP
+T
+
+the
+
+22
+
+
+[page 24]
+ACCEPTED MANUSCRIPT
+References
+
+1.
+
+Salt A, Sargent J: Common visual problems in children with disability. Arch Dis Child
+99:1163–1168, 2014.
+
+2.
+
+Sakki HEA, Dale NJ, Sargent J, et al.: Is there consensus in defining childhood
+
+Ophthalmol 102:424–432, 2018.
+3.
+
+Whiting S, Jan JE, Wong PK, et al.: Permanent cortical visual impairment in children.
+Dev Med Child Neurol 27:730–739, 1985.
+
+Jacobson L, Ek U, Fernell E, et al.: Visual impairment in preterm children with
+
+AN
+US
+
+4.
+
+CR
+IP
+T
+
+cerebral visual impairment? A systematic review of terminology and definitions. Br J
+
+periventricular leukomalacia--visual, cognitive and neuropaediatric characteristics
+related to cerebral imaging. Dev Med Child Neurol 38:724–735, 1996.
+5.
+
+Ortibus E, Lagae L, Castees I, et al.: Assessment of cerebral visual impairment with
+
+Med Child Neurol 51, 2009.
+
+Dutton GN, McKillop EC, Saidkasimova S: Visual problems as a result of brain
+
+ED
+
+6.
+
+M
+
+the L94 visual perceptual battery: Clinical value and correlation with MRI findings. Dev
+
+damage in children. In: Br J Ophthalmol. England; 2006. p. 932–933. .
+Khetpal V, Donahue SP: Cortical visual impairment: etiology, associated findings, and
+
+PT
+
+7.
+
+prognosis in a tertiary care setting. J aapos 11:235–239, 2007.
+Kozeis N: Brain visual impairment in childhood: mini review. Hippokratia 14:249–251,
+
+CE
+
+8.
+
+2010.
+
+Good W V, Jan JE, Burden SK, et al.: Recent advances in cortical visual impairment.
+
+AC
+
+9.
+
+Dev Med Child Neurol 43:56–60, 2001.
+
+10.
+
+Huo R, Burden SK, Hoyt CS, et al.: Chronic cortical visual impairment in children:
+aetiology, prognosis, and associated neurological deficits. Br J Ophthalmol 83:670–
+675, 1999. Available at:
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=med
+4&AN=10340973%5Cnhttp://sfx.ucl.ac.uk/sfx_local?sid=OVID:medline&id=pmid:1034
+
+23
+
+
+[page 25]
+ACCEPTED MANUSCRIPT
+0973&id=doi:&issn=0007-1161&isbn=&volume=83&issue=6&spage=670&pages=6705&date=1999&title=British+Journal+.
+11.
+
+Ego A, Lidzba K, Brovedani P, et al.: Visual-perceptual impairment in children with
+cerebral palsy: a systematic review. Dev Med Child Neurol 57 Suppl 2:46–51, 2015.
+
+12.
+
+Fazzi E, Bova SM, Uggetti C, et al.: Visual-perceptual impairment in children with
+
+13.
+
+CR
+IP
+T
+
+periventricular leukomalacia. Brain Dev 26:506–512, 2004.
+Cioni G, Fazzi B, Ipata AE, et al.: Correlation between cerebral visual impairment and
+magnetic resonance imaging in children with neonatal encephalopathy. Dev Med Child
+Neurol 38:120–132, 1996.
+
+Stiers P, De Cock P, Vandenbussche E: Impaired visual perceptual performance on
+
+AN
+US
+
+14.
+
+an object recognition task in children with cerebral visual impairment. Neuropediatrics
+29:80–88, 1998.
+15.
+
+Belmonti V, Cioni G, Berthoz A: Anticipatory control and spatial cognition in locomotion
+
+M
+
+and navigation through typical development and in cerebral palsy. Dev Med Child
+Neurol 58 Suppl 4:22–27, 2016.
+
+Dale N, Sakkalou E, O’Reilly M, et al.: Functional vision and cognition in infants with
+
+ED
+
+16.
+
+congenital disorders of the peripheral visual system. Dev Med Child Neurol 59:725–
+
+17.
+
+PT
+
+731, 2017.
+
+Sonksen PM, Petrie A, Drew KJ: Promotion of visual development of severely visually
+
+CE
+
+impaired babies: evaluation of a developmentally based programme. Dev Med Child
+Neurol 33:320–335, 1991.
+Atkinson J, Braddick O: Visual and visuocognitive development in children born very
+
+AC
+
+18.
+
+prematurely. Prog Brain Res 164:123–149, 2007.
+
+19.
+
+Bushneil J, Sai F, Mullin J: Neonatal recognition of the mother’s face. Br J Dev
+Psychol 7:3–15, 1989.
+
+20.
+
+Yoon JM, Johnson SC: Biological motion displays elicit social behavior in 12-montholds. Child Dev 80:1069–1075, 2009.
+
+21.
+
+Braddick O, Atkinson J, Wattam-Bell J: Normal and anomalous development of visual
+
+24
+
+
+[page 26]
+ACCEPTED MANUSCRIPT
+motion processing: Motion coherence and “dorsal-stream vulnerability.”
+Neuropsychologia 41:1769–1784, 2003.
+22.
+
+Dutton GN: Cognitive vision, its disorders and differential diagnosis in adults and
+children: knowing where and what things are. Eye (Lond) 17:289–304, 2003.
+Aslin RN, Smith LB: Perceptual development. Annu Rev Psychol 39:435–473, 1988.
+
+24.
+
+De Renzi E: Disorders of visual recognition. Semin Neurol 20:479–485, 2000.
+
+25.
+
+Cioni G, Inguaggiato E, Sgandurra G: Early intervention in neurodevelopmental
+
+CR
+IP
+T
+
+23.
+
+disorders: underlying neural mechanisms. Dev Med Child Neurol 58 Suppl 4:61–66,
+2016.
+
+Bova SM, Giovenzana A, Signorini S, et al.: Recovery of visual functions after early
+
+AN
+US
+
+26.
+
+acquired occipital damage. Dev Med Child Neurol 50:311–315, 2008.
+27.
+
+Ruberto G, Salati R, Milano G, et al.: Changes in the optic disc excavation of children
+affected by cerebral visual impairment: a tomographic analysis. Invest Ophthalmol Vis
+
+28.
+
+M
+
+Sci 47:484–488, 2006.
+
+Good W V, Jan JE, DeSa L, et al.: Cortical visual impairment in children. Surv
+
+29.
+
+ED
+
+Ophthalmol 38:351–364, 1994.
+
+Saidkasimova S, Bennett DM, Butler S, et al.: Cognitive visual impairment with good
+
+PT
+
+visual acuity in children with posterior periventricular white matter injury: a series of 7
+cases. J aapos 11:426–430, 2007.
+Fazzi E, Bova S, Giovenzana A, et al.: Cognitive visual dysfunctions in preterm
+
+CE
+
+30.
+
+children with periventricular leukomalacia. Dev Med Child Neurol 51:974–981, 2009.
+Ortibus E, Verhoeven J, Sunaert S, et al.: Integrity of the inferior longitudinal fasciculus
+
+AC
+
+31.
+
+and impaired object recognition in children: A diffusion tensor imaging study. Dev Med
+Child Neurol 54, 2012.
+
+32.
+
+Bauer CM, Heidary G, Koo BB, et al.: Abnormal white matter tractography of visual
+pathways detected by high-angular-resolution diffusion imaging (HARDI) corresponds
+to visual dysfunction in cortical/cerebral visual impairment. J aapos 18:398–401, 2014.
+
+33.
+
+Galli J, Ambrosi C, Micheletti S, et al.: White matter changes associated with cognitive
+
+25
+
+
+[page 27]
+ACCEPTED MANUSCRIPT
+visual dysfunctions in children with cerebral palsy: A diffusion tensor imaging study. J
+Neurosci Res, 2018.
+34.
+
+Dutton GN: “Dorsal stream dysfunction” and “dorsal stream dysfunction plus”: a
+potential classification for perceptual visual impairment in the context of cerebral visual
+impairment? Dev Med Child Neurol 51:170–172, 2009.
+Laporta-Hoyos O, Fiori S, Pannek K, et al.: Brain lesion scores obtained using a
+
+CR
+IP
+T
+
+35.
+
+simple semi-quantitative scale from MR imaging are associated with motor function,
+communication and cognition in dyskinetic cerebral palsy. NeuroImage Clin 19:892–
+900, 2018.
+
+Franki I, Fehrenbach A, Peedima M-L, et al.: Quantitative brain lesion scoring on
+
+AN
+US
+
+36.
+
+neuroimaging in children with and without a diagnosis of cerebral visual impairment.
+Dev Med Child Neurol 59:20, 2017.
+37.
+
+Goodale MA, Milner AD: Separate visual pathways for perception and action. Trends
+
+38.
+
+M
+
+Neurosci 15:20–25, 1992.
+
+Dutton GN, Jacobson LK: Cerebral visual impairment in children. Semin Neonatol
+
+39.
+
+ED
+
+6:477–485, 2001.
+
+Jakobson LS, Taylor NM: Differential vulnerability of cerebral visual functions in
+
+40.
+
+PT
+
+children born very prematurely. Acta Paediatr 98:239–241, 2009.
+Gougoux F, Belin P, Voss P, et al.: Voice perception in blind persons: a functional
+
+41.
+
+CE
+
+magnetic resonance imaging study. Neuropsychologia 47:2967–2974, 2009.
+Sargent J, Salt A, Dale N: Children with severe brain damage: Functional assessment
+
+AC
+
+for diagnosis and intervention. In: Visual Impairment in Children due to Damage to the
+Brain. 2010. .
+
+42.
+
+Ortibus E, Laenen A, Verhoeven J, et al.: Screening for cerebral visual impairment:
+Value of a CVI questionnaire. Neuropediatrics 42, 2011.
+
+43.
+
+Salavati M, Waninge A, Rameckers EA, et al.: Development and face validity of a
+cerebral visual impairment motor questionnaire for children with cerebral palsy. Child
+Care Heal Dev 43:37–47, 2017.
+
+26
+
+
+[page 28]
+ACCEPTED MANUSCRIPT
+44.
+
+Ferziger NB, Nemet P, Brezner A, et al.: Visual assessment in children with cerebral
+palsy: implementation of a functional questionnaire. Dev Med Child Neurol 53:422–
+428, 2011.
+
+45.
+
+Macintyre-Beon C, Young D, Calvert J, et al.: Reliability of a question inventory for
+structured history taking in children with cerebral visual impairment. In: Eye (Lond).
+
+46.
+
+CR
+IP
+T
+
+England; 2012. p. 1393. .
+Philip SS, Tsherlinga S, Thomas MM, et al.: A Validation of an Examination Protocol
+for Cerebral Visual Impairment Among Children in a Clinical Population in India. J Clin
+Diagn Res 10:Nc01-4, 2016.
+
+Garcia-Ormaechea I, Gonzalez I, Dupla M, et al.: Validation of the Preverbal Visual
+
+AN
+US
+
+47.
+
+Assessment (PreViAs) questionnaire. Early Hum Dev 90:635–638, 2014.
+48.
+
+Reynell J, Zinkin PM: New procedures for developmental assessment of young
+children with� severe visual handicaps. Child Care Health Dev 1:61–69, 1975.
+Good W V: Development of a quantitative method to measure vision in children with
+
+M
+
+49.
+
+chronic cortical visual impairment. Trans Am Ophthalmol Soc 99:253–269, 2001.
+Fazzi E, Signorini SG, Bova SM, et al.: Spectrum of visual disorders in children with
+
+ED
+
+50.
+
+cerebral visual impairment. J Child Neurol 22:294–301, 2007.
+Fazzi E, Signorini SG, R LAP, et al.: Neuro-ophthalmological disorders in cerebral
+
+PT
+
+51.
+
+palsy: ophthalmological, oculomotor, and visual aspects. Dev Med Child Neurol
+
+Baker-Nobles L, Rutherford A: Understanding cortical visual impairment in children.
+
+AC
+
+52.
+
+CE
+
+54:730–736, 2012.
+
+Am J Occup Ther 49:899–903, 1995.
+
+53.
+
+Jakobson LS, Frisk V, Downie AL: Motion-defined form processing in extremely
+premature children. Neuropsychologia 44:1777–1786, 2006.
+
+54.
+
+Ricci D, Cesarini L, Groppo M, et al.: Early assessment of visual function in full term
+newborns. Early Hum Dev 84:107–113, 2008.
+
+55.
+
+Ricci D, Cesarini L, Romeo DM, et al.: Visual function at 35 and 40 weeks’
+postmenstrual age in low-risk preterm infants. Pediatrics 122:e1193-8, 2008.
+
+27
+
+
+[page 29]
+ACCEPTED MANUSCRIPT
+56.
+
+Leonhardt M, Forns M, Calderon C, et al.: Visual performance in preterm infants with
+brain injuries compared with low-risk preterm infants. Early Hum Dev 88:669–675,
+2012.
+
+57.
+
+Romeo DM, Ricci D, Serrao F, et al.: Visual function assessment in late-preterm
+newborns. Early Hum Dev 88:301–305, 2012.
+Rossi A, Gnesi M, Montomoli C, et al.: Neonatal Assessment Visual European Grid
+
+CR
+IP
+T
+
+58.
+
+(NAVEG): Unveiling neurological risk. Infant Behav Dev 49:21–30, 2017.
+59.
+
+Teller DY, McDonald MA, Preston K, et al.: Assessment of visual acuity in infants and
+children: the acuity card procedure. Dev Med Child Neurol 28:779–789, 1986.
+
+Salt AT, Wade AM, Proffitt R, et al.: The Sonksen logMAR Test of Visual Acuity: I.
+
+AN
+US
+
+60.
+
+Testability and reliability. J aapos 11:589–596, 2007.
+61.
+
+Sonksen PM: The assessment of vision in the preschool child. Arch Dis Child 68:513–
+516, 1993.
+
+Koenraads Y, Braun KP, van der Linden DC, et al.: Perimetry in young and
+
+M
+
+62.
+
+neurologically impaired children: the Behavioral Visual Field (BEFIE) Screening Test
+
+63.
+
+ED
+
+revisited. JAMA Ophthalmol 133:319–325, 2015.
+Ushaw G, C S, J H, et al.: Analysis of Soft Data for Mass Provision of Stereoacuity
+
+2017.
+
+Frisby J: The Frisby Stereotest: An introduction and a review. J Chem Inf Model
+
+CE
+
+64.
+
+PT
+
+Testing Through a Serious Game for Health. Int Conf Digit Heal (DH ’17) 6:216–220,
+
+53:1689–1699, 2013.
+Cavezian C, Vilayphonh M, de Agostini M, et al.: Assessment of visuo-attentional
+
+AC
+
+65.
+
+abilities in young children with or without visual disorder: toward a systematic
+screening in the general population. Res Dev Disabil 31:1102–1108, 2010.
+
+66.
+
+Manly T, Anderson V, Nimmo-Smith I, et al.: The differential assessment of children’s
+attention: the Test of Everyday Attention for Children (TEA-Ch), normative sample and
+ADHD performance. J Child Psychol Psychiatry 42:1065–1081, 2001.
+
+67.
+
+Korkman M, Kirk U, Kemp SL: NEPSY II, 2nd ed. , 2007.
+
+28
+
+
+[page 30]
+ACCEPTED MANUSCRIPT
+68.
+
+Martin N.: Test of visual perceptual skills. In: Novato C, editor. Academic Therapy
+Publications. 2006. .
+
+69.
+
+Brown T: Validity and Reliability of the Developmental Test of Visual Perception - Third
+Edition (DTVP-3). Occup Ther Heal Care 30:272–288, 2016.
+
+70.
+
+Vancleef K, Acke E, Torfs K, et al.: Reliability and validity of the Leuven Perceptual
+
+CR
+IP
+T
+
+Organization Screening Test (L-POST) The Leuven Perceptual Organization
+Screening Test (L-POST), an online test to assess mid-level visual perception. J
+Neuropsychol 9:271–298, 2015.
+71.
+
+Torfs K, Vancleef K, Lafosse C, et al.: The Leuven Perceptual Organization Screening
+
+AN
+US
+
+Test (L-POST), an online test to assess mid-level visual perception. Behav Res
+Methods 46:472–487, 2014.
+72.
+
+Stiers P, Vanderkelen R, Vanneste G, et al.: Visual-perceptual impairment in a random
+sample of children with cerebral palsy. Dev Med Child Neurol 44:370–382, 2002.
+Ortibus E, Peirens G, Schoolmeesters B, et al.: G(anspoel).CVI.Tod(dler)s: a novel
+
+M
+
+73.
+
+diagnostic tool in the assessment of cerebral visual impairment in the young child. In:
+
+2016. p. 49. .
+
+Ortibus E, Vancleef K, Baümer S, et al.: CVIT 3-6, a screening test for cerebral visual
+
+PT
+
+74.
+
+ED
+
+European Academy for Childhood Disability. Stockholm, Sweden: Mac Keith Press;
+
+impairment in young children. In: European Society for Low Vision Research and
+
+75.
+
+CE
+
+Rehabilitation. Oxford, UK; 2015. .
+Hard AL, Niklasson A, Svensson E, et al.: Visual function in school-aged children born
+
+AC
+
+before 29 weeks of gestation: a population-based study. Dev Med Child Neurol
+42:100–105, 2000.
+
+76.
+
+Braddick O, Atkinson J: Development of brain mechanisms for visual global
+processing and object segmentation. Prog Brain Res 164:151–168, 2007.
+
+77.
+
+Verhoef BE, Vogels R, Janssen P: Binocular depth processing in the ventral visual
+pathway. Philos Trans R Soc L B Biol Sci 371, 2016.
+
+78.
+
+Atkinson J, Braddick O: From genes to brain development to phenotypic behavior:
+
+29
+
+
+[page 31]
+ACCEPTED MANUSCRIPT
+“dorsal-stream vulnerability” in relation to spatial cognition, attention, and planning of
+actions in Williams syndrome (WS) and other developmental disorders. Prog Brain
+Res 189:261–283, 2011.
+79.
+
+Braddick O, Atkinson J: Visual control of manual actions: Brain mechanisms in typical
+development and developmental disorders. Dev Med Child Neurol 55:13–18, 2013.
+Belmonti V, Berthoz A, Cioni G, et al.: Navigation strategies as revealed by error
+
+CR
+IP
+T
+
+80.
+
+patterns on the Magic Carpet test in children with cerebral palsy. Front Psychol 6:880,
+2015.
+81.
+
+van Hartingsveldt MJ, Cup EH, Oostendorp RA: Reliability and validity of the fine
+
+AN
+US
+
+motor scale of the Peabody Developmental Motor Scales-2. Occup Ther Int 12:1–13,
+2005.
+82.
+
+Croce R V, Horvat M, McCarthy E: Reliability and concurrent validity of the movement
+assessment battery for children. Percept Mot Ski 93:275–280, 2001.
+Beery K: The Beery-Buktenica Developmental Test of Visual-Motor Integration: VMI
+
+M
+
+83.
+
+with Supplemental Developmental Tests of Visual Perception and Motor Coordination:
+
+84.
+
+ED
+
+Administration, Scoring and Teaching Manual. , 1997.
+Borchers S, Muller L, Synofzik M, et al.: Guidelines and quality measures for the
+
+85.
+
+PT
+
+diagnosis of optic ataxia. Front Hum Neurosci 7:324, 2013.
+Williams C, Gilchrist ID, Fraser S, et al.: Normative data for three tests of
+
+CE
+
+visuocognitive function in primary school children: cross-sectional study. Br J
+Ophthalmol 99:752–756, 2015.
+Belmonti V, Fiori S, Guzzetta A, et al.: Cognitive strategies for locomotor navigation in
+
+AC
+
+86.
+
+normal development and cerebral palsy. Dev Med Child Neurol 57 Suppl 2:31–36,
+2015.
+
+87.
+
+Dutton GN: Vision and the brain. Understanding Cerebral Visual Impairment in
+Children. AFB Press; 2015.
+
+88.
+
+Colenbrander A: Assessment of functional vision and its rehabilitation. Acta
+Ophthalmol 88:163–173, 2010.
+
+30
+
+
+[page 32]
+ACCEPTED MANUSCRIPT
+89.
+
+Grinter EJ, Maybery MT, Badcock DR: Vision in developmental disorders: is there a
+dorsal stream deficit? Brain Res Bull 82:147–160, 2010.
+
+90.
+
+Van der Hallen R, Evers K, Brewaeys K, et al.: Global processing takes time: A meta analysis on local-global visual processing in ASD. Psychol Bull 141:549–573, 2015.
+
+91.
+
+Noten M, Wilson P, Ruddock S, et al.: Mild impairments of motor imagery skills in
+
+92.
+
+CR
+IP
+T
+
+children with DCD. Res Dev Disabil 35:1152–1159, 2014.
+Chokron S, Dutton GN: Impact of cerebral visual impairments on motor skills:
+
+Implications for developmental coordination disorders. Front Psychol 7:1–15, 2016.
+93.
+
+Pawletko T, Chokron S, Dutton G: Considerations in the Behavioral Diagnosis of CVI:
+
+AN
+US
+
+Issues, Cautions and Potential Outcomes. In: Lueck AH, Dutton GN, editors. Vision
+and the Brain. NY, USA: AFB Press; . .
+94.
+
+Atkinson J: The Davida Teller Award Lecture, 2016: Visual Brain Development: A
+review of “Dorsal Stream Vulnerability”-motion, mathematics, amblyopia, actions, and
+
+95.
+
+M
+
+attention. J Vis 17:26, 2017.
+
+Philip SS, Dutton GN: Identifying and characterising cerebral visual impairment in
+
+96.
+
+ED
+
+children: A review. Clin Exp Optom 97:196–208, 2014.
+Vervloed MP, Janssen N, Knoors H: Visual rehabilitation of children with visual
+
+97.
+
+PT
+
+impairments. J Dev Behav Pediatr 27:493–506, 2006.
+Berardi N, Sale A, Maffei L: Brain structural and functional development: genetics and
+
+98.
+
+CE
+
+experience. Dev Med Child Neurol 57 Suppl 2:4–9, 2015.
+Chorna OD, Guzzetta A, Maitre NL: Vision Assessments and Interventions for Infants
+
+AC
+
+0-2 Years at High Risk for Cerebral Palsy: A Systematic Review. Pediatr Neurol 76:3–
+13, 2017.
+
+99.
+
+Chen YN, Lin CK, Wei TS, et al.: The effectiveness of multimedia visual perceptual
+training groups for the preschool children with developmental delay. Res Dev Disabil
+34:4447–4454, 2013.
+
+100. Sagi D: Perceptual learning in Vision Research. Vis Res 51:1552–1566, 2011.
+101. Lawton T, Shelley-Tremblay J: Training on Movement Figure-Ground Discrimination
+
+31
+
+
+[page 33]
+ACCEPTED MANUSCRIPT
+Remediates Low-Level Visual Timing Deficits in the Dorsal Stream, Improving High Level Cognitive Functioning, Including Attention, Reading Fluency, and Working
+Memory. Front Hum Neurosci 11:236, 2017.
+102. Green CS, Bavelier D: Effect of action video games on the spatial distribution of
+visuospatial attention. J Exp Psychol Hum Percept Perform 32:1465–1478, 2006.
+
+Cogn Sci 2:202–216, 2010.
+
+CR
+IP
+T
+
+103. Green CS, Li R, Bavelier D: Perceptual learning during action video game playing. Top
+
+104. Smits-Engelsman B, Vincon S, Blank R, et al.: Evaluating the evidence for motorbased interventions in developmental coordination disorder: A systematic review and
+
+AN
+US
+
+meta-analysis. Res Dev Disabil 74:72–102, 2018.
+
+105. Downs J, Blackmore AM, Epstein A, et al.: The prevalence of mental health disorders
+and symptoms in children and adolescents with cerebral palsy: a systematic review
+and meta-analysis. Dev Med Child Neurol 60:30–38, 2018.
+
+M
+
+106. Mathewson KJ, Chow CH, Dobson KG, et al.: Mental health of extremely low birth
+weight survivors: A systematic review and meta-analysis. Psychol Bull 143:347–383,
+
+ED
+
+2017.
+
+107. Li L, Liu J: The effect of pediatric traumatic brain injury on behavioral outcomes: a
+
+AC
+
+CE
+
+PT
+
+systematic review. Dev Med Child Neurol 55:37–45, 2013.
+
+32
+

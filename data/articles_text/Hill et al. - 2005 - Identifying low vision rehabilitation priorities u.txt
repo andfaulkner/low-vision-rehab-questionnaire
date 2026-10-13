@@ -1,0 +1,249 @@
+[page 1]
+International Congress Series 1282 (2005) 573 – 577
+
+www.ics-elsevier.com
+
+Identifying low vision rehabilitation priorities
+using a conjoint analysis approach
+A.R. Hilla,*, P.A. Aspinalla, A. Armbrecht a, B. Dhillona, P. Buchholzb
+a
+
+Visual Impairment Research Group, School of the Built Environment, Heriot-Watt University,
+Edinburgh and Princess Alexandra Eye Pavilion, Edinburgh EH14 4AS, United Kingdom
+b
+Allergan Europe, United Kingdom
+
+Abstract. To identify the relative importance of a range of activities amongst patients with age related macular degeneration (AMD) and to explore the visual function and clinical characteristics
+associated with the different priorities for low vision rehabilitation. A prospective sample of 122
+patients with AMD attending the low vision clinics at Edinburgh Eye Hospital were given several
+tests including: binocular visual acuity (logMAR), binocular contrast sensitivity (Pelli–Robson),
+quality of life (QoL) NEI-VF 25 questionnaire and utilities were determined using a time trade-off
+task (TTO) and a conjoint analysis task. Clinical grading of AMD severity was according to the
+international classification system. The relative importance of five different activities, identified by
+factor analysis in a previous study, was assessed in a paired comparison paradigm using discretechoice conjoint analysis. The activities were: reading, recognising faces, getting about outside,
+problems associated with glare, and difficulties associated with performing household tasks. Each
+activity was represented at three levels of difficulty (none, a few, and a lot). Utilities derived from
+conjoint analysis were compared with TTO utilities. A factor analysis showed that AMD severity and
+basic measures of visual function were only moderately related to TTO utilities but independent of
+conjoint utilities. Analyses of individual patient utilities showed two distinct patient clusters; those
+for whom reading was of greatest importance and those for whom getting about outside was of
+greatest importance. Conjoint analysis offers the potential of identifying individual patient priorities
+for low vision rehabilitation. D 2005 Published by Elsevier B.V.
+Keywords: Low vision; Rehabilitation priority; Time trade-off utility; Conjoint analysis utility; Quality of life;
+Age-related macular degeneration
+
+* Corresponding author. Tel.: +44 131 451 8160.
+E-mail address: ar.hill@lineone.net (A.R. Hill).
+0531-5131/ D 2005 Published by Elsevier B.V.
+doi:10.1016/j.ics.2005.05.155
+
+
+[page 2]
+574
+
+A.R. Hill et al. / International Congress Series 1282 (2005) 573–577
+
+1. Introduction
+Establishing priorities for rehabilitation is essential for two reasons, firstly to help
+determine what is important to the individual patient in terms of their rehabilitation needs
+and secondly, to provide an estimate of the value of the service as a whole to inform health
+care managers’ decisions about its utility and cost effectiveness of the service in the context
+of other health care services competing for limited resources. There are many approaches to
+measuring importance or utility and most can be grouped into one of two categories; these
+are (a) direct magnitude estimation or rating scales and (b) choice-based methods, the latter
+of which include procedures such as standard gamble, time trade-off (TTO) and conjoint
+analysis. In the UK, the National Institute for Clinical Excellence (NICE) has been
+established to appraise the cost-effectiveness of health care interventions, including
+medicines, medical devices, and medical procedures [1] and eventually, no doubt, this
+will include an evaluation of the impact of low vision services. The recommendations of
+NICE are that the value or utility of health effects be assessed using choice-based methods
+and they specifically exclude the use of rating scales. Presumably, this recommendation of
+NICE assumes that the different choice-based methods will provide equivalence of utilities.
+2. Purpose
+One of the purposes of the present study was to compare and assess the equivalence of
+TTO and conjoint analysis for deriving utilities associated with vision-related quality of
+life (QoL) on the same cohort of patients with age-related macular degeneration (AMD).
+Comparisons of these utilities were also made with clinical grade of AMD, basic measures
+of visual function and standardised vision-related QoL questionnaire data.
+3. Methods
+A more detailed description of the study is given elsewhere [2]. The study comprised a
+prospective sample of 122 patients attending the low vision clinics at Edinburgh Eye
+Hospital. AMD was graded using the international classification system [3]. The four
+monocular grades were: mild dry, moderate dry, late dry (geographic atrophy affecting the
+inner macular) and wet (including disciform scar). Three binocular categories of AMD
+severity were derived from the monocular grades: bmildQ = mild in both eyes OR mild in
+one eye and moderate in the other eye, bmoderateQ = moderate in both eyes OR mild in one
+eye and severe in the other eye, bsevereQ = late dry or wet AMD in both eyes. The visual
+function tests included: monocular and binocular best corrected distance and near visual
+acuity (logMAR) and contrast sensitivity (Pelli–Robson). QoL questionnaires included the
+NEI VF-25, a life-style questionnaire and the two choice-based methods for determining
+utility were TTO and conjoint analysis.
+4. Choice-based methods for measuring importance
+4.1. Time trade-off
+Patients were asked to estimate the proportion of their expected remaining life years
+they would trade for a theoretical new technology or treatment that would restore perfect
+
+
+[page 3]
+A.R. Hill et al. / International Congress Series 1282 (2005) 573–577
+
+575
+
+Table 1
+An example of a paired-comparison of profiles of five daily-living difficulties for two hypothetical people as used
+in the conjoint analysis task
+Person 1
+
+Person 2
+
+A lot of difficulties reading and seeing fine detail
+No difficulties recognising faces across a room
+No difficulties getting about outside alone
+A few difficulties with glare from bright lights
+A lot of difficulties with pouring liquids and
+household chores
+
+A few difficulties reading and seeing fine detail
+No difficulty recognising faces across a room
+A lot of difficulties getting about outside alone
+No difficulty with glare from bright lights
+A few difficulties with pouring liquids and
+household chores
+
+Patients were asked to state, bWhich person, in your opinion, is worse off?Q
+
+vision. To make the task easier, patients were asked which of three values best represented
+their remaining life expectancy, 30 years, 20 years or 10 years. They were then asked how
+many of these years they were prepared to trade to obtain perfect vision. Utility was
+calculated as a function of the percentage ( P) of years traded and defined as:
+Utility ¼ fð100  PÞ=100g
+here a utility of 1 is equivalent to perfect health (i.e. will not trade any remaining life) and
+a utility of 0 is equivalent to death (i.e. would trade all expected remaining life).
+4.2. Conjoint analysis
+This method of assessing the relative importance of different attributes (e.g. daily
+activities) has a widely established use for evaluating health state preferences [4]. Patients
+were asked to consider themselves in one of two different states as a consequence of their
+AMD. These two states were described by paired profiles of five independent attributes of
+daily living identified from a previous study [5]. The profiles comprised different
+combinations of the five attributes described in terms of one of three levels of perceived
+difficulty (bno difficultyQ, ba few difficultiesQ, and ba lot of difficultiesQ). An example
+paired-comparison is shown in Table 1. A fractional factorial replicate of this 35 design
+involved each patient responding to 15 paired-comparisons in which they were required to
+state which person, in their opinion, was worse off.
+Two questionnaires were used depending on whether a patient could, or could not, read
+N36 comfortably. For those who could read 36-point print a 5-attribute questionnaire was
+used, whereas for those who were unable to read 36-point print, the questionnaire was
+reduced to only 3 attributes (i.e. recognising faces, getting about outside, pouring liquids
+and household chores) and relied on temporal rather than spatial comparisons.
+5. Patients
+The mean age of the patients was 77.6 years (S.D. = 6.8) and, using the binocular grade
+of AMD severity, 16.4% were classified as bmildQ, 33.3% as bmoderateQ and 50.3% as
+bsevereQ. The mean binocular distance logMAR visual acuity was 0.50 (S.D. = 0.43), mean
+binocular near logMAR visual acuity 0.72 (S.D. = 0.47) and mean binocular Pelli–Robson
+contrast sensitivity was 1.15 (S.D. = 0.43).
+
+
+[page 4]
+576
+
+A.R. Hill et al. / International Congress Series 1282 (2005) 573–577
+
+6. Results
+6.1. Time trade-off (TTO) utilities
+The mean age of respondents’ choice for one of the three life-expectancy groups of 30, 20 or 10
+years was 68.5 years, 76.8 years and 81.5 years, respectively. While this is an indication of the
+validity of their choice, the frequency distribution of the percentage years a person would trade
+showed a definite quantisation for proportions of 0%, 25%, 50% and 75%. About half were not
+prepared to trade any of their estimated remaining life while 1 in 4 were prepared to trade 50% of
+their expected remaining years.
+An ANOVA showed no significant difference across the three life expectance groups in terms of
+binocular distance and near visual acuity, although the group expecting to live the longest had
+significantly better contrast sensitivity than the other two groups ( F = 3.7, df = 2, p = 0.2). Using all
+respondents, binocular classification of AMD severity significantly affected TTO utilities ( F = 19.8,
+df = 2, p b 0.001) with a mean utility of 0.96 for mild AMD, 0.92 for moderate AMD and 0.69 for
+severe AMD. In other words, people with severe AMD were prepared to trade more of their
+remaining expected life for perfect vision than were those patients with mild or moderate AMD. Post
+hoc analyses showed no significant difference between mean utilities for mild and moderate AMD
+but a significant difference between moderate and severe AMD ( p b 0.001).
+The proportion of patients who refused to trade any of their estimated remaining life (non-traders)
+was highest amongst those with mild binocular AMD severity (88%) and least amongst those with
+severe binocular AMD severity (30%). Correlations between TTO utilities, binocular visual function
+(distance VA, near VA, contrast sensitivity), AMD severity in the better eye, worse eye and binocular
+AMD severity classification were low, ranging from r = 0.27 to r = 0.40 (all p b 0.01) when all
+patients were included in the analyses. When the non-traders were removed from the analyses, none
+of these correlations remained significant at p = 0.01, suggesting that TTO utilities, amongst those
+prepared to trade, were unrelated to visual function and clinical status.
+6.2. Conjoint analysis utilities
+In these analyses, utilities for each attribute are determined by the differences in importance
+between the assigned values of bno difficultiesQ, ba few difficultiesQ and ba lot of difficultiesQ.
+From the 5-attribute conjoint task, outdoor mobility and reading were the most important. Using
+logit analysis, utilities were computed for each attribute in terms of the preference difference
+between the levels of bno difficultiesQ and ba lot of difficulties.Q Setting the utility for the most
+important attribute of bgetting about outside aloneQ as unity, the relative utilities of the other
+attributes were: reading = 0.72, pouring liquids = 0.66, recognising faces = 0.52 and problems with
+glare = 0.28. Thus, for the sample, reading was 72% as important as getting about outside alone,
+while recognising faces was only about half as important. There was a similar relative importance
+for the common variables in the 3-attribute task completed by patients with poorer visual acuity.
+Using Bonferroni correction for p b 0.01, none of the utilities generated from conjoint analysis
+were significantly related to measures of visual function (i.e. binocular distance or near visual
+acuity, or binocular contrast sensitivity) or the degree of AMD severity, and neither was there any
+relationship between age or gender and conjoint utilities.
+Binary logistic regression analyses identified no predictors of stated priorities from clinical status,
+visual function or QoL difficulties. However, a factor analysis of the visual function data, AMD
+grading, TTO utilities, conjoint utilities and a self-rating of general health demonstrated four
+principal components which accounted for 71% of the variance. The first component was
+characterised by aspects of visual function and AMD grade, which were only moderately related to
+TTO utilities. The next three components characterised separate independent dimensions of the
+
+
+[page 5]
+A.R. Hill et al. / International Congress Series 1282 (2005) 573–577
+
+577
+
+conjoint utilities; one related to priorities for reading and seeing detail, another related to priorities
+for mobility and a third related to priorities for recognising faces. Further factor analyses of the
+associations between conjoint utilities and the NEI VF-25 QoL item scores, and also between
+conjoint utilities and item scores for life-style difficulties, showed a similar factor structure with the
+same three components of conjoint utilities that were independent of the QoL instruments and TTO
+utilities.
+It is possible, by means of a Hierarchical Bayesian analysis, to derive individual patient utility
+profiles across the five stated conjoint attributes. Factor analysis of these individual utilities shows
+that there were two principal groups of patients’ priorities and similar findings have recently been
+found in a sample of patients with vision loss from glaucoma. About one-third of the AMD sample
+had reading as their principal priority and about one-third had outdoor mobility as their principal
+priority.
+
+7. Conclusion
+There are limitations to the use of TTO, with many patients (i.e. mostly those with mild
+AMD and better visual acuity) refusing to trade. Utilities derived from TTO are only
+moderately related to aspects of visual function and the severity of AMD, and are also
+independent of conjoint analysis utilities. TTO and conjoint analysis tasks are clearly
+measuring different properties of importance. Conjoint analysis, by its contextual framing
+of options, more closely approximates an individual’s practical decision making.
+Factor analysis of conjoint utilities reveals two principal clusters of patients in terms of
+utilities and these require radically different rehabilitation approaches. Patients whose
+priority is for getting about outdoors alone will initially require mobility training, and
+patients whose priority is for reading are more likely to benefit initially from optical low
+vision devices. The findings emphasise the need for an integrated approach to low vision
+rehabilitation; to address the wrong priority for an individual is not only wasteful of
+resources but is likely to have a negative impact on the patient’s psychological state.
+The findings also demonstrate that priorities for rehabilitation cannot be predicted from
+clinical state, visual function or rated QoL difficulties. While rehabilitation preferences are
+not synonymous with need, preferences need no inferences. Conjoint analysis offers the
+opportunity of deriving individual preferences, although there is a need for more work to
+identify the best method of assessing importance in rehabilitation. Only by this means will
+it be possible to determine the appropriate priorities to address for an individual patient
+and derive the cost-effectiveness of low vision services as a whole.
+References
+[1] National Institute for Clinical Excellence, Guide to the Methods of Technology Appraisal, Department of
+Health, London, 2004 (April) (Section 5.5: Valuing health effects).
+[2] P.A. Aspinall, et al. Quality of life and relative importance: a comparison of time trade-off and conjoint
+analysis methods in patients with age related macular degeneration (AMD). Br. J. Ophthalmol. 89 (in press).
+[3] A.C. Bird, et al., International classification and grading system for age related maculopathy and age related
+macular degeneration, Surv. Ophthalmol. 39 (5) (1995) 367 – 374.
+[4] S.L. Szeinbach, et al., Using conjoint analysis to evaluate health state preferences, Drug Inf. J. 33 (1999)
+849 – 858.
+[5] P. Nelson, P. Aspinall, C. O’Brien, Patients’ perceptions of visual impairment in glaucoma, Br. J. Ophthalmol.
+83 (1999) 546 – 552.
+

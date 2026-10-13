@@ -1,0 +1,1953 @@
+[page 1]
+Ophthalmic and Physiological Optics ISSN 0275-5408
+
+Rehabilitation needs and activity limitations of adults with a
+visual impairment entering a low vision rehabilitation
+service in England
+Jane Macnaughton
+
+, Keziah Latham and Marta Vianya-Estopa
+
+Department of Vision & Hearing Sciences, Anglia Ruskin University, Cambridge, UK
+
+Citation information: Macnaughton J, Latham K & Vianya-Estopa M. Rehabilitation needs and activity limitations of adults with a visual impairment
+entering a low vision rehabilitation service in England. Ophthalmic Physiol Opt 2019; 39: 113–126. https://doi.org/10.1111/opo.12606
+
+Keywords: activities of daily living, low
+vision, Rasch analysis, rehabilitation, visual
+impairment
+Correspondence: Jane Macnaughton
+E-mail address:
+Jane.macnaughton@pgr.anglia.ac.uk
+Received: 26 September 2018; Accepted: 4
+January 2019
+
+Abstract
+Purpose: To evaluate outcome measures of the Participation and Activity Inventory (PAI) in a sample of adults with acquired visual impairment entering vision
+rehabilitation. Both Priority Scores, indicating level of rehabilitative need, and
+Person Measures, indicating goal difficulty, were considered.
+Methods: Participants were newly registered adults with visual impairment
+within Leicestershire, United Kingdom. The importance and difficulty of 48 goals
+of the PAI were assessed, as were demographic factors, clinical visual function
+(visual acuity, contrast sensitivity, reading function) and psychosocial function
+(adjustment to visual loss, depression, anxiety and fear of falling). Priority scores
+were calculated as the product of importance and difficulty of each goal. All
+questionnaires were Rasch analysed, and person and item measures of perceived
+difficulty with goals were derived.
+Results: Sixty people (mean age  S.D. = 75.8  13.8 years) took part. PAI
+goals with greatest rehabilitative need were reading (6.82  2.91), mobility outdoors (6.55  3.92), mobility indoors within an unfamiliar environment
+(5.52  3.93) and writing (5.27  3.02). Greater rehabilitative need was associated with younger age (b = 0.46, p < 0.001), and with higher depressive symptomatology (b = 0.35, p < 0.01; model R2 34%). Goals with greatest difficulty
+were mending clothing ( 1.95  0.35 logits) and hobbies and crafts
+( 1.32  0.23 logits). Greater difficulty was associated with higher depressive
+symptomatology (b = 0.39, p < 0.001), lower visual acuity (b = 0.42, p < 0.001)
+and lower adjustment of visual loss (b = 0.31, p < 0.01; model R2 53%).
+Conclusions: Key rehabilitation needs for adults at entry to services require both
+optical and non-optical interventions. As rehabilitative need was not associated
+with the level of visual impairment, eyecare professionals should not wait until
+the end of medical treatment before referral for support. Similarly, rehabilitative
+need was associated with younger age, indicating the importance to refer younger
+people with sight loss at an early stage. The use of structured assessment, such as
+the PAI, ensures goals that have an impact upon quality of life are specifically
+identified. Depression screening on entry to rehabilitation is relevant as it predicts
+both perceived difficulty and rehabilitative need.
+
+Introduction
+The practical implications that acquired vision loss have
+upon the performance of daily activities will vary between
+
+individuals. Furthermore, the disabling effect resulting
+from the inability to read, or the loss of independent
+mobility following the withdrawal of a driving licence, may
+lead to additional emotional consequences. Therefore,
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+113
+
+
+[page 2]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+being able to assess the impact of vision loss and understand the key factors that may influence rehabilitation
+needs for each individual are fundamental at entry to vision
+rehabilitation services.1–4
+It is well understood that the number of individuals with
+visual impartment will rise as a consequence of demographic ageing,5,6 increasing the pressure upon service providers to deliver timely and effective rehabilitation services.
+The Care Act 2014 requires that all UK local authorities
+(LAs) support the emotional well-being and personal independence of people in need of assistance and support, in
+order to reduce the long-term burden on health and social
+care.7 Historically, the delivery of rehabilitation services to
+adults with sight loss in the UK has been described as fragmented,8 which subsequently led to a call for a multidisciplinary approach to service delivery.9–11 The response to
+change has been slow, and although there has been a shift
+towards multidisciplinary service provision, there is no
+standard model of delivery.12 A national survey of LAs and
+voluntary (not-for-profit) organisations providing vision
+rehabilitation services, commissioned by the Thomas Pocklington Trust, reviewed 87 providers across England (57%
+response rate).13 Over a 2-year period between 2012 and
+2014, the survey found that 61% of services were delivered
+by the LAs and a further 28% from the voluntary sector.
+Although the importance of rehabilitation interventions
+has been highlighted, there is little evidence on the priority
+needs of people with a visual impairment entering rehabilitation services in England that could assist in the planning
+of an effective, patient-centred approach to service delivery.
+Empowering patients to be actively involved in the management of their own health and care is a move towards a
+person-centred National Health Service (NHS).14 In the
+context of visual impairment services, rehabilitation aims
+to minimise the disabling effects of sight loss and improve
+quality of life. Arguably, these are aspects that only people
+with a visual impairment themselves can assess. In recent
+years the development and use of patient-reported outcome
+measures (PROMs) has expanded to include the assessment
+of vision-related activity limitations.15 Despite this, PROMs
+are not routinely used by service providers in the UK
+despite evidence to suggest that more personalised commissioning of support could potentially enhance clinical care
+and reduce costs.16
+In comparison, multidisciplinary service providers in the
+Netherlands are using PROMs routinely as a means of
+identifying personalised rehabilitation needs at service
+intake. The Participation and Activity Inventory (PAI),17
+formerly known as the Dutch ICF Activity Inventory,18,19 is
+a validated instrument used to investigate the priority rehabilitation needs of adults with a visual impairment in a systematic way. The PAI builds upon the hierarchal goals and
+task structure of the Activity Inventory (AI)20 and
+114
+
+combines it within the nine Activity and Participation
+domains of the World Health Organisation’s (WHO) International Classification of Functioning, Disability and
+Health (ICF),21 together with an additional domain, of
+‘Emotional Health.’ By using a systematic approach, the
+PAI has been shown to more comprehensively identify the
+needs of people with visual impairment by preventing personal goals from being overlooked.22 This study compared
+two methods of assessment of priority needs, semi-structured and structured, and found that only 22% of the rehabilitation needs identified by the PAI were present in the
+‘usual’ semi-structured intake records. Consequently, the
+PAI is now used by many Multidisciplinary Rehabilitation
+Centres across the Netherlands to set individual rehabilitation needs and to evaluate rehabilitation outcomes.
+The PAI was developed and validated using Classical Test
+Theory.23 To determine self-reported priority rehabilitation
+needs, Likert scales are used to create ordinal priority scores
+for individual goals of activities of daily living and social participation as a product of importance and difficulty of goals.
+The original conceptual framework of the PAI is based upon
+the assumption that goals with both high importance and
+high difficulty together indicate a higher rehabilitative
+need.20 However, the use of Likert scale categories assumes
+that all goals are of equal difficulty and contribute the same
+amount to the measurement of the underlying construct.24,25
+The PAI has subsequently been further validated using Rasch
+analysis.26,27 The Rasch model converts raw ordinal scores
+into an interval scale and creates person measure and item
+measure estimates for the underlying construct.28 A person
+measure expresses the individual’s perceived difficulty across
+all of the goals of the PAI, whereas an item measure is a
+measure of the overall difficulty of each item or goal.
+The purpose of this study was to evaluate the use of the
+PAI in a sample of adults with an acquired visual impairment entering vision rehabilitation in England: to compare
+both the Priority Scores (PAI-PS) calculated from the raw
+ordinal score data indicating participants’ priority rehabilitation needs and the Rasch Person Measures (PAI-PM)
+measuring participants’ difficulty level with goals or activities of daily living and social participation. This enables
+comment on both the priority rehabilitation needs, and
+those activities found to be the most difficult facing people
+with a visual impairment in order to guide service commissioning decisions.
+
+Methods
+Recruitment of study population
+Participants with acquired visual impairment were
+recruited at the point of referral to Vista (www.vistablind.
+org.uk), which is the leading provider of low vision and
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+
+[page 3]
+J Macnaughton et al.
+
+rehabilitation services in the counties of Leicestershire and
+Rutland and one of the largest voluntary agencies for people with visual impairment in the UK. An automatic referral to Vista follows formal registration for inclusion on the
+UK’s visual impairment register using the Certificate of
+Vision Impairment (CVI).29 There was no restriction to
+participation due to the underlying cause of visual impairment and no restriction due to level of vision. All participants were over 18 years of age; however, those who were
+unable to complete the assessments in English or who were
+found to be cognitively impaired using the Six-item Brief
+Cognitive Screener30 were excluded from the study. Only
+those participants who were new to visual impairment
+rehabilitation services were approached to participate in
+this study. Those who had previous CVI registration or
+who had received rehabilitation services interventions while
+residing within a different NHS Trust were excluded.
+Participants were seen either at Vista’s low vision clinic
+based in Leicester or within the participant’s own home. All
+study interviews and clinical assessments were performed
+face to face on the same day by the one examiner (JM), an
+experienced optometrist. The study received ethical
+approval from the Anglia Ruskin University Faculty of
+Science and Technology Research Ethics Committee and
+was conducted in compliance with the General Optical
+Council’s Standards of Practice for Optometrists and Dispensing Opticians31 and the Declaration of Helsinki.32 All
+participants gave informed consent after the details and
+implications of the study were fully discussed.
+Procedures
+Demographic characteristics were determined as outlined
+in Table 1. Participants’ cause of sight loss was self reported, and categorised according to the WHO’s International Classification of Disease groupings as found on the
+CVI document.29,33 To assess general health, participants
+were asked whether or not they were being currently treated
+for any other co-morbidities from a pre-structured list of
+13 medical conditions.34 An additional option of ‘other’
+gave an opportunity to self-report any condition not represented on the list.
+High contrast distance visual acuity was recorded binocularly with a letter by letter scoring protocol using an externally illuminated Bailey-Lovie distance acuity chart with
+the participant wearing any current habitual correction.
+Participants were encouraged to guess and measurements
+terminated when four or more mistakes were made on a
+line.35 Participants who were unable to record a measurable
+acuity (minimum 1.60 logMAR) and who still had either
+hand motion or light perception were assigned an acuity of
+3.00 logMAR.27,36 There were no participants with no light
+perception. Additional lighting was provided to ensure that
+
+Rehabilitation needs and activity limitations
+
+Table 1. Descriptive statistics for socioeconomic and clinical variables
+(n = 60 unless otherwise stated)
+Location of study assessment
+Own home
+52 (87%)
+Vista Low Vision Clinic
+8 (13%)
+Age (years)
+Mean (S.D.)
+75.8 (13.8)
+Range
+(30–97)
+Gender n (%)
+Male
+22 (37%)
+Female
+38 (63%)
+Ethnicity n (%)
+White British
+58 (97%)
+Indian
+1 (2%)
+Caribbean
+1 (2%)
+Living arrangements n (%)
+Alone
+28 (47%)
+Living with spouse/partner/family/friend
+32 (53%)
+Current employment status n (%)
+Still working
+5 (8%)
+Not working due to visual impairment
+3 (5%)
+Seeking work
+1 (2%)
+Retired
+48 (80%)
+Not working due to general health
+3 (5%)
+Number of co-morbidities
+Mean (S.D.)
+2.6 (1.5)
+Range
+(0–8)
+History of anxiety/depression n (%)
+Yes
+19 (32%)
+No
+41 (68%)
+Current treatment/observation for anxiety/depression n (%)
+Yes
+8 (13%)
+No
+52 (87%)
+Duration vision loss affected daily living (months)
+Mean (S.D.)
+38.3 (67.3)
+Range
+(2–360)
+Visual impairment registration (CVI) status n (%)
+Sight impaired (SI)
+50 (83%)
+Severely sight impaired (SSI)
+9 (15%)
+Not Registered
+1 (2%)
+Time since registration (weeks) (n = 59)
+Mean (S.D.)
+8.1 (4.6)
+Range
+(2–20)
+Primary self-reported cause of vision loss n (%)
+Age related macular degeneration (Dry 10.17%;
+30 (50%)
+Wet 20.33%)
+Diabetic Retinopathy/Maculopathy
+3 (5%)
+Hereditary retinal disorder (Retinitis Pigmentosa)
+3 (5%)
+Retinal vascular occlusions
+4 (7%)
+Glaucoma
+7 (12%)
+Other
+13 (21%)
+Binocular distance visual acuity logMAR
+Mean (S.D.)
+0.77 (0.48)
+Range
+(0.00–3.00)
+Contrast sensitivity logCS (n = 59)
+Mean (S.D.)
+1.24 (0.35)
+Range
+(0.50–2.10)
+Reading accessibility index (ACC) (n = 55)
+Mean (S.D.)
+0.39 (0.24)
+Range
+(0.00–0.88)
+PAI priority scores
+Mean (S.D.)
+2.61 (1.28)
+Range
+(0.40–5.29)
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+115
+
+
+[page 4]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+chart illumination was even and within the recommended
+range of 80–320 cd m 2.37
+Contrast sensitivity was recorded binocularly using a
+Pelli-Robson Contrast Sensitivity Chart38 presented at 1 m.
+No compensation for the 1 m working distance was used,
+as this has been shown to have no significant influence on
+results.39 Contrast sensitivity was scored by-letter giving
+credit of 0.05 log CS for each individual letter read
+correctly.40
+Near visual function was assessed with MNREAD Acuity
+Charts41 used at 40 cm (or 20 cm if necessary) with appropriate correction, and an audio recording was created while
+the participant read down the chart and then used for later
+analysis. The Reading Accessibility Index (ACC)42,43 was
+subsequently determined to represent overall reading function. The ACC is calculated as the ratio of the mean reading
+speed of the largest 10 print sizes on the MNREAD chart
+(1.3–0.4 logMAR), to the average reading speed in young
+adults with normal vision (200 wpm).44
+A number of PROMs were administered to assess participants’ psychosocial function. Adjustment to vision loss
+was assessed with the Acceptance and Self-Worth Adjustment Scale (AS-WAS)45 which evaluates aspects of adjustment to visual impairment associated with self-esteem,
+locus of control, self-efficacy and acceptance. Nineteen
+items are assessed on a 4-category Likert scale. Anxiety and
+depressive symptoms were evaluated using the Hospital
+Anxiety and Depression Scale (HADS).46 The instrument
+presents two 7-item alternating subscales of anxiety and
+depression (HADS-A and HADS-D) assessed on a 4-category Likert scale. Ordinal scores across each subscale range
+from 0 to 21 with categorical grouping by score
+(0–7 = normal; 8–10 = borderline abnormal; and 11–
+21 = abnormal).47 Fear of falling was assessed with the
+Short Falls Efficacy Scale-International (Short FES-I).48
+The instrument presents seven items assessed on a 4-category Likert scale.
+The outcome measure for the study was the PAI. Participants were asked to rate the importance of the PAI’s 48
+goals on a 4-category Likert scale from 0 to 3 (not important or not applicable, slightly, moderately, or very important).23 If a goal was considered important (score ≥ 1) then
+participants were asked to consider the difficulty of that
+goal on a 5-category Likert scale from 0 to 4 (not, slightly,
+moderately, very difficult or impossible) with any aids used
+where relevant (such as a low vision device for reading),
+but without assistance from anyone else.
+Analysis
+Participation and Activity Inventory priority scores were
+calculated as the product of the importance and difficulty
+for each goal (minimum 0, maximum 12). Priority scores
+116
+
+for both individual participants (PAI-PS) and individual
+goals were computed.
+Rasch analysis was undertaken using a single Andrich
+rating scale model49 using Winsteps software version 4.0.1
+(www.winsteps.com) to create person and item measures
+from the difficulty scores of PAI goals, and also for the
+responses to the other Likert-scale instruments (AS-WAS,
+HADS, Short FES-I). Person and item measures are
+described in terms of logits (or log odds units), which represent the likelihood of a person having the ability to
+achieve an item (or an item being achievable for a person).
+The average logit value for both persons and items was set
+to 0 for each set of analyses on each instrument. For each
+instrument, a higher person measure indicates that the
+individual perceives that they have greater difficulty with
+the items. A higher item measure indicates that an individual perceives the item as easier to achieve.
+Where categories were underutilised or disordered, they
+were repaired by collapsing adjacent response categories
+until rescaling produced utilisation of all categories in an
+ordered structure.50 Infit and Outfit mean-square (MNSQ)
+values lower than 2.0 were considered acceptable,51 given
+that the purpose of this study was to create person and item
+measures reflecting difficulty levels across a wide range of
+rehabilitation needs and levels of difficulty,52 and only
+items with MNSQ > 2.0 have the potential to damage the
+integrity of the scale. MNSQ values >2 were removed iteratively, with the most misfitting removed first and the analysis repeated until all item fits fell below 2.0.
+Principal components analysis (PCA) assesses the extent
+to which an instrument measures a single latent trait or
+ability, or its unidimensionality. Reasonable overall unidimensionality is indicated where at least 60% of the variance
+is explained by the primary measure.53 Also, if the unexplained variance within the first contrast found within the
+residuals is less than two items (an eigenvalue of <2.0) or is
+significantly lower than the raw variance explained by the
+items in the principal Rasch measure, then unidimensionality is also indicated.
+A person separation value of >2.0 and reliability of >0.8
+was considered to indicate an ability to reliably discriminate between participants, and an item separation of >3.0
+and reliability of >0.9 to indicate that items are reliably
+ordered in terms of difficulty28,50 Ideal targeting was considered to exist when the mean of person measures is
+within 1.0 logits of the mean of item measures.25
+Non-parametric tests were used to establish the existence
+of any significant relationships between each predictor variable and the two outcome measures of the PAI (PAI-PS,
+PAI-PM). Mann–Whitney U tests were used in the analysis
+of dichotomous predictor variables and Kruskal–Wallis
+tests in the analysis of categorical data. Two-tailed Spearman’s rho bivariate analysis was used in comparison with
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+
+[page 5]
+J Macnaughton et al.
+
+continuous predictor variables, including the PROMs person measures, with a p-value of <0.05 considered significant. Despite the multiple comparisons made, a Bonferroni
+correction was not used since the purpose was to identify
+parameters of potential interest for inclusion in multiple
+regression analysis.
+To investigate the significant unique variance in perceived difficulty of activities of daily living and social participation (PAI-PM) and priority rehabilitation needs
+(PAI-PS) explained by significant predictor variables,
+regression models using a forward stepwise method were
+used. To determine if any individual cases were influencing
+the model, a maximum Mahalanobis distance was determined to be 11.07 (p < 0.05) and a maximum leverage
+value as 0.167, with a Cook’s distance of >1 suggesting a
+case was exerting influence on the regression model. Both
+multiple regressions presented had one potential outlier on
+this basis. However, in both cases standardised DFBetas of
+<2 confirmed that deleting the possible outlier would have
+no significant influence on the analysis. Intercorrelations
+among the independent variables were considered acceptable (r < 0.8), and variation inflation factor values of <1.5
+suggest an absence of bias from multicollinearity within the
+model. A Durbin-Watson statistic was close to 2, supporting independence of the residuals. Homoscedasticity with
+normal distribution was confirmed by inspecting normal
+probability P-P plots of the standardised residuals.
+Results
+Sixty participants (22 male, 38 female) took part in the
+study, with a mean age of 75.8 years (range 30–97;
+Table 1). Ninety-seven per cent were White British, 80%
+were retired, 53% lived with someone, and 47% lived alone.
+Thirty-two per cent had a previous history of anxiety or
+depression, and there was a mean of 2.6 comorbidities
+(range 0–8). The primary self-reported cause of vision loss
+was macular degeneration (50%) followed by glaucoma
+(12%), diabetic retinopathy (5%), and hereditary retinal
+disorder (5%).
+The Reading Accessibility Index (ACC) was established
+for 55 participants; two participants were unable to read
+aloud following brain injury associated with their visual
+impairment, and a further three were found to have corrupt audio files. Contrast sensitivity measure was established for 59 participants. It was not possible to record one
+participant; due to ultra-low visual acuity, the participant
+was unable view the chart.
+Rasch analysis
+The principal psychometric properties of the PAI are
+shown in Table 2. Category functions of the PAI were not
+
+Rehabilitation needs and activity limitations
+
+initially ordered, so categories 1 (slightly difficult) and 2
+(moderately difficult) were collapsed together. One item
+was removed (Goal 610 – Caring for a Grandchild; applicable to 11 participants (18%)), with infit 2.36 and outfit
+5.14. Final Rasch analysis produced ordered category
+thresholds with acceptable person separation (3.16), person
+reliability (0.91) and targeting (0.79). Item separation
+(2.47) and item reliability (0.86) were less than ideal. PCA
+of the residuals demonstrated that the instrument showed
+moderate unidimensionality with 46% variance explained
+by the primary measure. However, the raw variance
+explained by the items in the principal Rasch analysis
+(22%) was four to five times greater than the unexplained
+variance in the first contrast (5%; 3.9 eigenunits).
+Table 2 also shows the psychometric properties of all
+other instruments following Rasch analysis. No further category amendments were made, and two poorly-fitting
+items were removed from the HADS-D (D2, ‘I can laugh
+and see the funny side of things,’ and D3, ‘I feel cheerful’).
+Sub-optimal parameters are indicated in italics. Although
+person separation and reliability indices were less than ideal
+for the HADS-D and Short FES-I, item separation and reliability were good. Person measures were computed for each
+instrument and examined in further bivariate analysis with
+the outcome measures of the PAI. However, for the HADSA, both person and item statistics were poor, suggesting
+that it may not be appropriate to use Rasch parameters
+derived from this PROM. Bivariate analyses were therefore
+conducted both using Rasch person measures, and also
+using categorical HADS-A responses (normal, borderline
+or abnormal). No differences in outcome were found
+between either measures of the HADS-A; therefore, person
+measure results are presented below for consistency with
+other PROMs.
+Priority rehabilitation needs
+Priority scores for each of the 48 goals of the PAI are presented in Table 3. The goals with the highest priority need
+for rehabilitation were reading (item 101, 6.82  2.91);
+mobility out of doors (item 403, 6.55  3.92); mobility
+indoors within an unfamiliar environment (item 402,
+5.52  3.93); and writing (item 102, 5.27  3.02). Priority
+scores were also computed for each participant to establish
+individual self-reported rehabilitation need over all 48 goals
+of the PAI, with a mean priority score of 2.61  1.28
+(Table 1).
+Bivariate analyses showed that higher priority scores
+(indicating greater levels of rehabilitative need), were significantly related to younger age (r = 0.48, p < 0.001),
+higher levels of depressive symptoms (r = 0.31, p = 0.02),
+poorer adjustment to visual loss (r = 0.31, p = 0.02), and
+higher levels of anxiety (r = 0.28, p = 0.03). No other
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+117
+
+
+[page 6]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+Table 2. Psychometric properties of the Participation and Activity Inventory (PAI), Acceptance and Self-Worth Adjustment Scale (AS-WAS), Hospital
+Anxiety and Depression Scale HADS (Anxiety, A and Depression, D) Subscales and Short Falls Efficacy Scale-International (Short FES-I) following Rasch
+analysis (values in logits)
+
+Participants (n)
+Category amendments
+Items removed
+(instrument item number)
+Item MNSQ Infit Mean  S.D.
+Item MNSQ infit range
+Item MNSQ outfit Mean  S.D.
+Item MNSQ outfit range
+Targeting
+Person separation
+Person reliability
+Item separation
+Item reliability
+1st contrast eigenvalue
+Variance explained by measures
+Person measure average
+Person measure range
+
+PAI
+
+AS-WAS
+
+HADS-A
+
+HADS-D
+
+Short FES-I
+
+60
+1&2 combined
+601
+
+59
+–
+–
+
+60
+–
+–
+
+60
+–
+D2, D3
+
+60
+–
+–
+
++1.01  0.32
++1.86 to +0.19
++1.00  0.33
++1.65 to +0.58
+0.79
+3.16
+0.91
+2.47
+0.86
+3.90
+46%
+0.79  1.02
+3.47 to +1.25
+
++0.99  0.22
++1.45 to +0.46
++1.00  0.23
++1.46 to +0.49
+0.78
+2.10
+0.82
+4.28
+0.95
+2.62
+42%
+0.78  0.86
+2.69 to +1.23
+
++1.00  0.20
++1.36 to +0.73
++0.96  0.20
++1.38 to +0.77
+1.43
+1.44
+0.67
+2.08
+0.81
+1.82
+44%
+1.43  1.42
+4.52 to +1.68
+
++1.06  0.29
++1.34 to +0.72
++1.09  0.30
++1.54 to +0.74
+1.29
+1.36
+0.65
+5.49
+0.97
+1.43
+62%
+1.29  1.56
+5.17 to +1.54
+
++1.02  0.32
++1.73 to +0.62
++1.00  0.26
++1.54 to +0.63
+1.00
+1.72
+0.75
+3.66
+0.93
+1.62
+55%
+1.00  1.81
+4.10 to +4.16
+
+Sub-optimal parameter values are indicated in bold italics. Acceptable values: Infit & Outfit MNSQ (0.0–1.99); person separation >2.0, person reliability >0.8; Item Separation >3.0, item reliability >0.9; targeting 1.0.
+
+predictor variables (demographic, visual function or psychosocial) were significantly related to rehabilitation need.
+The significant predictor variables outlined above were
+entered into a stepwise multiple regression analysis to
+determine which independently explained significant
+amounts of variance in priority scores (Table 4a). Priority
+rehabilitation needs as described by the overall priority
+scores were most influenced by age, accounting for 22% of
+the variance (R2) in the data with younger age, reflecting
+greater need for rehabilitation; increasing severity of
+depressive symptoms was an additional significant factor
+associated with greater need for rehabilitation (R2 change
+12%), which together accounted for 34% of the variance.
+Perceived difficulties with activities of daily living and
+social participation
+Table 5 summarises the item measure characteristics of the
+PAI. Item difficulties for individual PAI goals ranged from
+1.95 logits (item 604, mend clothing; most difficult) to
+2.12 logits (item 501, getting dressed; least difficult). Other
+goals considered amongst the most difficult at entry into
+rehabilitation included undertaking hobbies ( 1.32 logits),
+driving ( 1.31 logits), and home maintenance (DIY; 1.25
+logits). The relevance or applicability of each PAI goal is
+indicated by the percentage of non-zero responses for each
+item measure. A graphical representation of item relevance
+and difficulty is shown in Figure 1. The item found to be
+most difficult (604, mend clothing; 1.95 logits) was
+118
+
+relevant to only 23% of the sample; however, the item
+found to be easiest (501, being able to get dressed without
+assistance; 2.12 logits) was relevant to 93% of the sample.
+As with priority scores, the goals found to be both difficult
+and highly relevant to the sample were 101 (reading, 0.96
+logits, 100% relevance) and 403 (mobility out of doors;
+0.97 logits, 98% relevance).
+Person measures across the 47 retained PAI difficulty
+scores were computed for each participant to establish self reported measures of difficulties of daily living (PAI-PM).
+Bivariate analyses showed that higher levels of difficulty
+with activities of daily living and social participation, as
+indicated by higher PAI person measures, were associated
+with younger age (r = 0.27, p = 0.04), a lower level of
+distance acuity (r = 0.33, p = 0.01), a lower level of reading
+accessibility (r = 0.42, p < 0.001), higher levels of depressive symptoms (r = 0.50, p < 0.001), poorer adjustment to
+visual loss (r = 0.44, p < 0.001), and a higher level of fear
+of falling (r = 0.35, p = 0.007).
+Significant predictor variables were entered into a stepwise multiple regression analysis to determine which independently explained significant amounts of variance in
+person measures (Table 4b). Difficulty with goals as
+described by the overall person measures was most influenced by symptoms of depression, accounting for 29% of
+the variance (R2) in the data with increasing severity of
+depressive symptoms reflecting higher goal difficulty. Additional significant factors associated with greater goal difficulty were lower level of distance VA (R2 change 16%), and
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+
+[page 7]
+J Macnaughton et al.
+
+Rehabilitation needs and activity limitations
+
+Table 3. Priority Scores for Participation and Activity Inventory (PAI)
+goals in order of rehabilitative need (greatest first)
+
+PAI Goal and Item Code
+
+Max*
+
+Mean
+
+S.D.
+
+101 Reading
+403 Mobility out of doors
+402 Mobility indoors (unfamiliar environment)
+102 Writing
+302 Dealing with personal correspondence
+605 Cash withdrawal, paying by cash and card
+606 Grocery Shopping
+201 Personal admin
+607 General Shopping
+202 Following a schedule
+904 Dining out
+103 Watching TV
+907 Hobbies and crafts
+303 Using the telephone or smartphone
+905 Day trips and holidays
+701 Communicating with people face to face
+802 Researching information
+002 Coping with fatigue and
+balancing energy levels
+601 Cleaning and tidying up
+406 Using public transport
+608 Meal Preparation
+903 Attending social events
+001 Emotional Life
+801 Managing finances
+301 Using a computer or tablet
+603 General and home maintenance (DIY)
+502 Personal hygiene
+704 Interaction with strangers
+504 Eating and drinking
+901 Following the news
+401 Mobility within the home
+602 Managing the laundry
+604 Mend Clothing
+702 Relationship with loved ones
+503 Personal healthcare and medication
+906 Physical activity and sport
+611 Caring for a pet
+501 Getting dressed
+902 Having visitors in the home
+610 Caring for a (grand)child
+404 Riding a bicycle
+405 Driving a car
+805 Activities at work
+609 Healthcare for another adult
+804 Looking for work
+806 Mobility within the workplace
+703 Interaction with colleagues
+803 Participating in education
+
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+9
+12
+12
+12
+12
+12
+12
+
+6.82
+6.55
+5.52
+5.27
+4.53
+4.37
+4.30
+4.20
+4.20
+4.13
+4.03
+3.95
+3.88
+3.73
+3.60
+3.58
+3.52
+3.45
+
+2.91
+3.92
+3.93
+3.02
+3.88
+4.07
+4.15
+4.04
+4.29
+4.04
+3.62
+2.75
+4.71
+3.33
+4.13
+3.49
+4.07
+3.89
+
+12
+12
+12
+12
+9
+12
+12
+12
+12
+9
+9
+9
+9
+12
+12
+12
+9
+12
+9
+6
+9
+12
+12
+12
+9
+12
+12
+9
+9
+9
+
+3.20
+3.15
+3.12
+3.10
+3.02
+3.00
+2.52
+1.95
+1.85
+1.85
+1.75
+1.61
+1.55
+1.55
+1.50
+1.38
+1.30
+1.05
+0.98
+0.83
+0.80
+0.70
+0.60
+0.60
+0.60
+0.50
+0.50
+0.42
+0.37
+0.25
+
+3.51
+3.82
+3.42
+3.60
+3.50
+3.56
+3.33
+3.65
+2.93
+3.11
+2.72
+2.59
+2.50
+2.90
+3.41
+2.56
+2.23
+2.64
+2.56
+1.65
+1.79
+2.17
+1.98
+2.64
+1.82
+2.22
+2.00
+1.54
+1.51
+1.39
+
+The highlighted area indicates the ‘top 15’ goals of greatest rehabilitative need. The first digit of the item number indicates the PAI Domain
+(1) Learning & Applying Knowledge, (2) General Tasks & Demands, (3)
+Communication, (4) Mobility, (5) Self-care, (6) Domestic life, (7) Interpersonal interactions & relationships, (8) Major life areas, (9) Community, social & civic life, (0) Emotional health.
+*All minimum values were recorded as zero.
+
+Table 4. Results of stepwise regression analyses to determine which
+demographic, clinical or psychosocial variables best represent (a) need
+for rehabilitation Participation and Activity Inventory Priority Scores (PAIPS) and (b) difficulties with goals Participation and Activity Inventory
+Person Measures (PAI-PM) (n = 60)
+
+B
+
+S.E. B
+
+b
+
+R2
+change
+
+p
+
+(a) Self-reported priority rehabilitation needs (PAI-PS)
+Age
+0.04
+0.01
+0.46
+0.22
+<0.001
+HADS-D person
+0.29
+0.09
+0.35
+0.12
+0.002
+measures
+(b) Self-reported difficulties with activities of daily living (PAI-PM)
+HAD-D person
+0.26
+0.07
+0.39
+0.29
+<0.001
+measures
+Distance VA
+0.89
+0.20
+0.42
+0.16
+<0.001
+AS-WAS person
+0.37
+0.13
+0.31
+0.07
+0.006
+measures
+Hospital Anxiety and Depression Scale (HADS), Depression Subscale, D
+B, unstandardized regression coefficients; S.E. B, standard errors; b
+standardised regression coefficients; R2 change, amount of additional
+variance by including predictors from sample.
+
+higher level of difficulty with self-reported adjustment to
+visual loss (R2 change 7%). Together these factors
+accounted for 52% of the variance.
+Comparison of priority scores and person measures
+The Rasch person and item measures focus purely on the
+level of difficulty expressed by people who found each goal
+of at least some importance, and does not take the relevance of each goal into account as the priority scores do. A
+comparison of priority scores and person measures is
+shown in Figure 2. In general, those with higher priority
+scores (greater rehabilitative need) have higher person measures (expressing greater difficulty; r = 0.80, p < 0.001).
+There were two participants that contradicted this general
+relationship, where perceived goal difficulty is high but
+expressed rehabilitative need is low. Both participants died
+within 1 year of data collection, suggesting that poor health
+could have overridden the importance of visual rehabilitative interventions for these individuals. Whilst the relationship between priority scores and item difficulty is not
+perfect (r < 1), indicating that the inclusion of importance
+in priority scores has some influence beyond simple difficulty, no significant relationship was found between the
+PAI importance scores and the PAI person measures
+(r = 0.05, p = 0.72).
+Discussion
+This study evaluates two parameters related to low vision
+rehabilitation in a sample of people with a visual
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+119
+
+
+[page 8]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+Table 5. Item characteristics of Participation and Activity Inventory (PAI) goals in order of perceived difficulty (greatest first)
+
+PAI Goal and Item code
+604
+907
+405
+603
+403
+101
+402
+404
+607
+102
+904
+906
+406
+802
+201
+301
+606
+803
+905
+302
+605
+002
+903
+804
+202
+103
+601
+704
+611
+609
+801
+001
+303
+608
+701
+805
+703
+602
+806
+502
+702
+901
+401
+504
+503
+902
+501
+
+Mend Clothing
+Hobbies and crafts
+Driving a car
+General and home maintenance (DIY)
+Mobility out of doors
+Reading
+Mobility indoors (unfamiliar environment)
+Riding a bicycle
+General Shopping
+Writing
+Dining out
+Physical activity and sport
+Using public transport
+Researching information
+Personal admin
+Using a computer or tablet
+Grocery Shopping
+Participating in education
+Day trips and holidays
+Dealing with personal correspondence
+Cash withdrawal, paying by cash and card
+Coping with fatigue and balancing energy levels
+Attending social events
+Looking for work
+Following a schedule
+Watching TV
+Cleaning and tidying up
+Interaction with strangers
+Caring for a pet
+Healthcare for another adult
+Managing finances
+Emotional Life and acceptance of visual loss
+Using the telephone or smartphone
+Meal Preparation
+Communicating with people face to face
+Activities at work
+Interaction with colleagues
+Managing the laundry
+Mobility within the workplace
+Personal hygiene
+Relationship with loved ones
+Following the news
+Mob within the home
+Eating and drinking
+Personal healthcare and medication
+Having visitors in the home
+Getting dressed
+
+Item measure
+(logits)
+1.95
+1.32
+1.31
+1.25
+0.97
+0.96
+0.83
+0.80
+0.75
+0.73
+0.70
+0.66
+0.65
+0.65
+0.63
+0.53
+0.46
+0.46
+0.42
+0.37
+0.36
+0.33
+0.33
+0.30
+0.17
+0.14
+0.01
+0.01
+0.06
+0.09
+0.14
+0.20
+0.22
+0.29
+0.29
+0.34
+0.75
+1.01
+1.18
+1.34
+1.50
+1.50
+1.52
+1.61
+1.75
+2.12
+2.12
+
+Model SE
+
+Infit MNSQ
+(logits)
+
+Outfit
+MNSQ (logits)
+
+Applicability
+(non-zero responses)
+
+0.35
+0.23
+0.74
+0.28
+0.17
+0.17
+0.18
+0.46
+0.19
+0.18
+0.19
+0.37
+0.22
+0.21
+0.19
+0.24
+0.19
+0.87
+0.21
+0.18
+0.19
+0.20
+0.20
+0.61
+0.19
+0.18
+0.19
+0.26
+0.36
+0.53
+0.20
+0.20
+0.19
+0.20
+0.19
+0.48
+0.57
+0.24
+0.55
+0.24
+0.27
+0.26
+0.25
+0.25
+0.26
+0.32
+0.30
+
+1.06
+1.34
+1.86
+0.90
+0.87
+0.77
+0.85
+1.45
+1.25
+0.64
+1.09
+0.54
+0.84
+1.34
+0.94
+0.83
+0.74
+0.19
+0.82
+0.71
+1.36
+1.11
+1.54
+0.69
+1.12
+0.55
+0.91
+1.45
+1.22
+1.20
+0.83
+1.04
+0.72
+0.78
+1.09
+0.20
+1.26
+1.23
+1.02
+1.18
+1.22
+1.18
+1.13
+1.05
+1.19
+1.14
+1.02
+
+1.18
+1.35
+1.78
+0.86
+0.86
+0.83
+0.88
+1.47
+1.26
+0.70
+1.20
+0.52
+0.87
+1.33
+0.91
+0.85
+0.71
+0.09
+0.92
+0.69
+1.45
+1.23
+1.65
+0.59
+1.05
+0.58
+0.90
+1.51
+1.36
+0.98
+0.77
+1.20
+0.72
+0.69
+1.07
+0.22
+1.26
+1.00
+0.87
+1.09
+1.00
+0.92
+1.41
+1.05
+0.98
+0.90
+1.26
+
+14
+32
+3
+21
+59
+60
+56
+8
+48
+56
+49
+12
+39
+41
+51
+31
+51
+2
+41
+55
+53
+43
+48
+5
+55
+56
+55
+29
+15
+8
+50
+47
+58
+55
+58
+9
+8
+48
+10
+58
+47
+50
+58
+60
+59
+50
+56
+
+23%
+53%
+5%
+35%
+98%
+100%
+93%
+13%
+80%
+93%
+82%
+20%
+65%
+68%
+85%
+52%
+85%
+3%
+68%
+92%
+88%
+72%
+80%
+8%
+92%
+93%
+92%
+48%
+25%
+13%
+83%
+78%
+97%
+92%
+97%
+15%
+13%
+80%
+17%
+97%
+78%
+83%
+97%
+100%
+98%
+83%
+93%
+
+The highlighted area indicates the ‘top 15’ goals of greatest difficulty. Item difficulty (item measure) and Standard Error (S.E.) of goals in logits are
+shown in difficulty order from most difficult to least difficult. PAI Domains (1) Learning & Applying Knowledge, (2) General Tasks & Demands, (3)
+Communication, (4) Mobility, (5) Self-care, (6) Domestic life, (7) Interaction, (8) Major life areas, (9) Community, social & civic life, (0) Emotional
+health. The number of non-zero responses (maximum 60) indicates the general relevance of the question to the sample.
+
+impairment entering low vision rehabilitation services in
+England. These are the perceived rehabilitative need in
+terms of priority scores (PAI-PS), and the perceived
+
+120
+
+difficulty with goals of activities of daily living and social
+participation in terms of Rasch parameters (PAI-PM and
+item difficulties). While these measures are related
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+
+[page 9]
+J Macnaughton et al.
+
+Rehabilitation needs and activity limitations
+
+Figure 1. Self-reported difficulties with activities of daily living: 47 individual items are represented graphically. A higher item measure (logits)
+indicates that an individual perceives the goal as easier to achieve.
+
+(Figure 2), different patient needs are highlighted by consideration of each parameter, as outlined below.
+The demographic of the sample was considered representative of those living within the counties of Leicestershire
+and Rutland. Across the region of Leicester (city), Leicestershire and Rutland, approximately 550 new registrations
+occur per year. This study’s sample of 97% White British is
+representative of Leicestershire County54 where the majority of our participants resided. The range of conditions
+causing primary loss of vision within the sample was also
+considered representative of adults registered in the UK
+with sight loss, comparing well with most current published
+statistics of visual impairment in the UK.6
+Priority scores for PAI goals (Table 3) found key areas
+for rehabilitation intervention are reading, mobility, and
+writing, suggesting that early assessment for both the provision of low vision devices and training in orientation and
+mobility techniques are indicated at the point of referral for
+rehabilitation interventions following acquired vision loss.
+
+That reading, writing and mobility are key rehabilitation
+needs is supported by studies with older participants in the
+UK and Netherlands.18,23,55,56 However, where Dutch rehabilitation services are delivered on these three specific
+goals,57 writing skills as a specific rehabilitation need has
+perhaps been less well recognised as a priority need in the
+UK, with no specific reference to interventions concentrating on writing as an individual goal mentioned in recent
+reviews of UK service provision.3,13,58,59 The goal of writing
+is frequently coupled together with reading in the literature
+however while handwriting is a near vision task, the ability
+of a person with visual impairment to use a pen includes
+the need for additional strategies including the use of alternative devices or technology to accomplish this task successfully. Therefore, separate attention to this goal is
+implied.
+A review of rehabilitation provision in the UK also found
+that only a small minority of people actually receive a comprehensive programme of orientation and mobility
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+121
+
+
+[page 10]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+6.00
+
+PAI Priority Scores
+
+5.00
+4.00
+3.00
+2.00
+1.00
+0.00
+–4.00
+
+–3.00
+
+–2.00
+
+–1.00
+
+0.00
+
+1.00
+
+2.00
+
+PAI Person Measures (logits)
+Figure 2. Scatterplot comparing participant’s mean Participation and
+Activity Inventory (PAI) priority scores with participant’s PAI Rasch person measures. Priority scores represent the product of importance and
+difficulty of PAI items whereas the person measures represent the level
+of difficulty of items (n = 60).
+
+training, with less emphasis on providing assistance to
+older people and higher priority given to younger people of
+working age.13 Results of this study support more focus
+upon mobility and orientation training with adults and
+older people with visual impairment entering low vision
+rehabilitation services.
+Regression analysis of the study sample demonstrated
+that the most significant predictor in the need for rehabilitation interventions was age, with younger age reflecting
+greater need. In this sample, goals relating to employment
+or education scored low in priority, reflecting the fact that
+most of this study’s population were retired. In comparison, a study using the PAI to determine priority rehabilitation needs in a younger age group (age 18–25; n = 392)
+demonstrated priority rehabilitation needs in areas relating
+to independent domestic life, education, employment and
+independent travel, supporting previous evidence that these
+are major themes in the transition to adult life.17 Furthermore, younger people have been shown to demonstrate a
+higher number of needs, including more intensive rehabilitation programmes relating to study, and employment, that
+are not as relevant to older people. One limitation of the
+present study therefore, is that it can only be considered as
+generalisable to an older population.
+Following regression analysis, the number of participant
+co-morbidities was not found to be a significant factor
+influencing rehabilitation need; in addition, there was also
+no significant relationship found in our sample between
+participant age and number of co-morbidities (p = 0.17).
+Therefore, poor overall health did not appear to contribute
+to the decline in rehabilitation need with age in this sample.
+The inevitable lifestyle changes and a gradual reduction in
+122
+
+daily activity patterns with older people60,61 may better
+explain lower rehabilitation needs with advancing age.
+In the Netherlands, the two goals of the PAI that address
+the emotional health domain were also identified as high
+priority needs. However, these goals (001, 002) were not
+included in the ‘Top 15’ priority goals in the present sample
+(Table 3), despite one-third of the UK sample self-reporting previous history of either anxiety or depression. While
+there is a growing body of evidence to support a high
+prevalence of depression in individuals with a visual
+impairment,62,63 there appears little evidence on how
+patients report symptoms of depression or anxiety to
+healthcare professionals. In a London-based study, older
+people were found to regard depression as a ‘sign of weakness’; cultural variations were also thought to influence the
+help-seeking behaviour of elders from minority ethnic
+groups.64 While such evidence suggests an overall underreporting of emotional health, there is no current evidence to
+offer a reason as to why there was a difference in attitude
+towards reporting depression and anxiety between the British and the Dutch samples. Our UK sample may not be as
+comfortable with reporting depressive symptoms with eyecare professionals or may not recognise that they are suffering from depressive symptoms compared to the Dutch
+sample. That a higher level of depressive symptoms is a key
+factor in regression models for both greater rehabilitations
+needs and higher levels of difficulty with PAI goals, suggests
+that addressing depression early in rehabilitation assessment may reduce both the need and level of input of service
+delivery for that individual. This supports well-established
+evidence that depression is a significant factor associated
+with self-reported activity limitations.65–69 And although
+levels of anxiety were not found to be a significant factor in
+our regression models, we conclude that this may be a
+reflection on the poor psychometric performance of the
+HADS-A subscale. The HADS-A was initially chosen as it is
+one of the most widely used screening instruments in psychosocial research and practice. However, the HADS was
+developed as a screening measure for psychological distress
+with the aim of identifying clinically significant severe
+depression or anxiety. The poor targeting value (1.43) indicates that this group had lower levels of anxiety than the
+test was designed for. Therefore, the HADS may be less useful for the identification of patients with moderate to mild
+levels of distress that existed within our study population.
+Further investigation with a more robust measure is indicated to determine whether anxiety is a significant contributory factor.
+The need for rehabilitation was not found to be associated with the level of vision loss, suggesting that those with
+even mild or early vision loss may benefit from referral for
+support and intervention. This supports conclusions from
+a previous qualitative study investigating the time delay in
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+
+[page 11]
+J Macnaughton et al.
+
+referring people with a visual impairment for UK visual
+rehabilitation services. The study found that ophthalmologists did not consider referring their patients for social care
+needs until all possible clinical interventions had been
+exhausted.70 The same study also reported that 43% of the
+participants (n = 20) interviewed, stated that they would
+have liked to have been offered support sooner, suggesting
+that individuals felt they would benefit from earlier interventions. One of the limitations of the present study’s sample was that 59 of the 60 participants were newly registered
+as either sight impaired (SI) or severely sight impaired
+(SSI). A wider study of rehabilitation needs to include those
+individuals living with early or lower levels of sight loss
+may give a more accurate representation of rehabilitation
+needs across all groups of individuals living with sight loss.
+When specifically considering the difficulty of PAI goals
+at entry into rehabilitation through the use of person measures, the goals of highest difficulty included mending
+clothing, undertaking hobbies, driving and DIY (Table 5).
+While these goals were considered most difficult, they were
+not relevant to all individuals within the study sample. For
+example, the goal of mending clothes was relevant to only
+23% (n = 14) of participants whereas the goal of reading
+was relevant to 100% (n = 60) of the sample. Goals with
+low relevance may reflect either that they are not common
+activities, or, as they are the most difficult to perform, that
+they have already been relinquished. However, they may be
+of key importance for those to whom they are relevant. The
+goal of driving also showed low relevance (5%, n = 3), with
+most subjects scoring the goal as ‘not applicable.’ The low
+relevance figure is likely to reflect that in the UK, vision
+that is impaired to the point of visual impairment registration is incompatible with the visual requirements for driving, as per the UK Driving Eyesight Rules (https://
+www.gov.uk/driving-eyesight-rules). However, the subsequent loss of independence from losing a driving licence
+has been reported as being overwhelming, with implications on the individual’s quality of life and emotional
+health.71 Loss of other high-valued activities such as sewing,
+hobbies or DIY (do-it-yourself home improvements), may
+also cause initial frustration or distress and be associated
+with difficulty adjusting to vision loss, and subthreshold or
+major depression.65,69,72
+Therefore, establishing the impact vision loss has had
+upon an individual’s high-valued activities at an early stage
+in vision loss, with the purpose of managing expectations
+or assisting with compensatory strategies, may assist in the
+adjustment process. Previous studies have associated lower
+levels of depression with better levels of adjustment to
+vision loss.2,4,66,73–75 Thus the benefit of using a structured
+approach not only determines priority rehabilitation needs
+but may be used to specifically identify goals with high
+levels of difficulty. Although the assumption from the
+
+Rehabilitation needs and activity limitations
+
+conceptual framework of the original AI, that higher need
+for rehabilitation is a product of higher importance and
+levels of higher difficulty, it is possible that even when a
+goal is important, an individual may not wish to seek rehabilitation for that goal. Therefore, it is still important that
+individuals are still asked whether or not they wish to proceed with interventions. However, addressing such activities may have a significant impact upon quality of life, but
+would otherwise be missed in a case history or semi-structured approach.
+Finally, goals relating to activities of reading, writing or
+mobility were both high rehabilitation needs and perceived
+as most difficult to achieve. Comparing the regression
+models of each outcome measure suggests that it is not possible to predict rehabilitation needs as well as goal difficulties (34% vs 52% variance explained by predictor variables,
+respectively). Understandably, what is ‘important’ to an
+individual is very individual, whereas what is difficult may
+be realistically predicted by visual function.
+The associations outlined above are only true for one
+time point. For example, as the data is cross-sectional, it is
+not possible to conclude whether the depressive symptoms
+are the result of highly valued goal being very difficult or
+impossible to achieve, or whether greater difficulty is
+expressed as a result of the individual suffering from
+depressive symptoms. Similarly, it is not possible to conclude whether higher levels of depressive symptoms are the
+result of increased rehabilitation needs or that depressive
+symptoms result in an increased need for rehabilitation. To
+be able to determine whether the relationship between variables are either a cause or a consequence of the outcome
+measures of the PAI, analysis would require repeating at
+different time points.
+Conclusions
+Low vision rehabilitation services should offer early interventions on reading, mobility and writing to all newly registered adult service users. Providing such services may
+involve more than one service provider. As the need for
+rehabilitation is not associated with the level of vision loss,
+prompt referral for support is indicated as those with early
+or mild vision loss may already have rehabilitation needs.
+Eyecare professionals should not wait until the end of medical treatment programs before considering a referral for
+support and intervention. Higher rehabilitation need is also
+associated with younger age, indicating it is particularly
+important to refer younger people with sight loss for rehabilitation at an early stage.
+Service users with higher levels of depression or depressive symptoms have greater rehabilitative needs and perceive greater difficulty with visual tasks, therefore an
+evaluation of their level of depressive symptoms at an early
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+123
+
+
+[page 12]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+stage in rehabilitation may be indicated which may have an
+impact upon either the number of rehabilitation needs or
+the level of intervention needed to address them.
+Rehabilitation needs identified in areas more straightforward or cost effective to provide may currently overshadow
+needs in other domains which some service users may consider of higher difficulty, such as being able to continue
+with hobbies or crafts. Addressing these goals may have
+important impact upon quality of life and levels of depressive symptoms and the use of a structured assessment such
+as the PAI would ensure that these goals are identified. Service delivery and spending may then be directed in this
+area. Consequently, further investigation to understand the
+barriers that currently prevent the uptake and use of a
+structured assessment of needs in UK rehabilitation practice would merit further investigation.
+Acknowledgements
+This study was funded by a College of Optometrists Postgraduate Scholarship (JM). We would also like to thank the
+staff of Vista, Leicester, Leicestershire, and Rutland’s charity
+for people with sight loss, for recruiting the service users
+for this study, and to the service users themselves who participated.
+Disclosure
+The authors report no conflicts of interest and have no proprietary interest in any of the materials mentioned in this
+article.
+References
+1. Heyl V & Wahl H. Psychosocial adaptation to age-related
+vision loss: a six-year perspective. J Vis Impair Blind 2001;
+95: 739–748.
+2. Senra H, Barbosa F, Ferreira P et al. Psychologic adjustment
+to irreversible vision loss in adults: a systematic review. Ophthalmology 2015; 122: 851–861.
+3. Binns AM, Bunce CV, Dickinson CM et al. How effective is
+low vision service provision? A systematic review Surv Ophthalmol 2012; 57: 34–65.
+4. Tabrett DR & Latham K. Adjustment to vision loss in a
+mixed sample of adults with established visual impairment.
+Invest Ophthalmol Vis Sci 2012; 53: 7227–7234.
+5. Wong WL, Su X, Li X et al. Global prevalence of age-related
+macular degeneration and disease burden projection for
+2020 and 2040: a systematic review and meta-analysis. Lancet Glob Health 2014; 2: e106–e116.
+6. Quartilho A, Simkiss P, Zekite A, Xing W, Wormald R &
+Bunce C. Leading causes of certifiable visual loss in England
+and Wales during the year ending 31 March 2013. Eye 2016;
+44: 1–6.
+
+124
+
+7. Legislation.gov.uk. Care Act 2014 [Internet]. 2014. http://
+www.legislation.gov.uk/ukpga/2014/23/contents/enacted
+(Accessed 10/08/2017).
+8. Ryan B & Culham LE. Fragmented Vision: Survey of low
+vision services in the UK [Internet]. Royal National Institute
+of Blind People, 1999. www.lowvision.org.uk/Publications/
+Fragmented Vision.doc (Accessed 13/11/2015).
+9. Reeves B, Harper RA & Russell WB. Enhanced low vision
+rehabilitation for people with age related macular degeneration: a randomised controlled trial. Br J Ophthalmol 2004;
+88: 1443–1449.
+10. Hinds A, Sinclair A, Park J, Suttie A, Paterson H & Macdonald M. Impact of an interdisciplinary low vision service on
+the quality of life of low vision patients. Br J Ophthalmol
+2003; 87: 1391–1396.
+11. Court H, Ryan B, Bunce C & Margrain TH. How effective is
+the new community-based Welsh low vision service? Br J
+Ophthalmol 2010; 95: 178–184.
+12. Dickinson C, Linck P, Tudor-Edwards R et al. A profile of
+low vision services in England: the Low Vision Service Model
+Evaluation (LOVSME) project. Eye 2011; 25: 829–831.
+13. Rabiee P, Parker G, Bernard S & Baxter K. Vision Rehabilitation Services: What is the Evidence?, University of York: York,
+2015; pp. 1–301.
+14. NHS England. Next Steps on the NHS Five Year Forward
+View [Internet]. 2017. https://www.england.nhs.uk/publi
+cation/next-steps-on-the-nhs-five-year-forward-view/
+(Accessed 10/08/2017).
+15. Khadka J, McAlinden C & Pesudovs K. Quality assessment
+of ophthalmic questionnaires: review and recommendations.
+Optom Vis Sci 2013; 90: 720–744.
+16. Black N. Patient reported outcome measures could help
+transform healthcare. Br Med J 2013; 346: f167.
+17. Van Leeuwen LM, Rainey L, Kef S, Van Rens GHMB & Van
+Nispen RMA. Investigating rehabilitation needs of visually
+impaired young adults according to the International Classification of Functioning, Disability and Health. Acta Ophthalmol 2015; 93: 642–650.
+18. Bruijning JE, Van Nispen RM & Van Rens GH. Feasibility of
+the Dutch ICF activity inventory: a pilot study. BMC Health
+Serv Res 2010; 10: 318.
+19. Bruijning J, Van Nispen R, Verstraten P & Van Rens G. A
+Dutch ICF version of the activity inventory: results from
+focus groups with visually impaired persons and experts.
+Ophthalmic Epidemiol 2010; 17: 366–377.
+20. Massof RW, Ahmadian L, Grover LL et al. The activity
+inventory: an adaptive visual function questionnaire. Optom
+Vis Sci 2007; 84: 763–774.
+21. World Health Organisation. The International Classification
+of Functioning, Disability and Health [Internet]. Vol. 18.
+World Health Organisation: Geneva, 2013. http://www.who.
+int/classifications/icf/en/ (Accessed 11/09/2018).
+22. Bruijning J, Van Nispen R, Knol D & Van Rens G. Low
+vision rehabilitation plans comparing two intake methods.
+Optom Vis Sci 2012; 89: 203–214.
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+
+[page 13]
+J Macnaughton et al.
+
+23. Bruijning JE, Van Rens G, Knol D & Van Nispen R. Psychometric analyses to improve the Dutch ICF activity inventory.
+Optom Vis Sci 2013; 90: 806–819.
+24. DeVellis RF. Classical test theory. Med Care 2006; 44: S50–
+S599.
+25. Gothwal VK, Wright TA, Lamoureux EL & Pesudovs K.
+Rasch analysis of visual function and quality of life questionnaires. Optom Vis Sci 2009; 86: 1160–1168.
+26. Latham K, Baranian M, Timmis M & Pardhan S. Difficulties
+with goals of the Dutch ICF Activity Inventory: perceptions
+of those with retinitis pigmentosa and of those who support
+them. Invest Opthalmol Vis Sci 2015; 56: 2381–2391.
+27. Subhi H, Latham K, Myint J & Crossland MD. Functional
+visual fields: relationship of visual field areas to self-reported
+function. Ophthalmic Physiol Opt 2017; 37: 399–408.
+28. Bond T & Fox C. Applying the Rasch Model: Fundamental
+Measurement in the Human Sciences. Lawrence Erlbaum
+Associates: Mahwah, NJ, 2001.
+29. Royal College of Ophthalmologists. Certificate of a Person as
+Sight Impaired or as Severely Sight Impaired [Internet]. 2007.
+https://www.rcophth.ac.uk/professional-resources/certifica
+te-of-vision-impairment/ (Accessed 10/08/2017).
+30. Callahan CMC, Unverzagt FFWFFW, Hui SLSSL, Perkins AJ
+& Hendrie HC. Six-item screener to identify cognitive
+impairment among potential subjects for clinical research.
+Med Care 2002; 40: 771–781.
+31. General Optical Council. Standards of Practice for Optometrists and Dispensing Opticians [Internet]. London, 2016; pp.
+1–29. https://www.optical.org/en/Standards/ (Accessed 25/
+09/2018).
+32. Human D. Declaration of Helsinki. Lancet 1974; 353: 1418–
+1419.
+33. World Health Organisation. International Classification of
+Diseases (ICD) 10. [Internet]. 2016. http://www.who.int/clas
+sifications/icd/icdonlineversions/en/ (Accessed 26/09/2018).
+34. Van Nispen RMA, Hoeijmakers JGJ, De Boer MR, Ringens
+PJ & Van Rens GHMB. Agreement between self-reported
+co-morbidity of visually impaired older patients and reports
+from their general practitioners. Vis Impair Res 2008; 10:
+49–56.
+35. Carkeet A. Modeling logMAR visual acuity scores: effects of
+termination rules and alternative forced-choice options.
+Optom Vis Sci 2001; 78: 529–538.
+36. Myint J, Latham K, Mann D, Gomersall P, Wilkins AJ &
+Allen PM. The relationship between visual function and performance in rifle shooting for athletes with vision impairment. BMJ Open Sport Exerc Med 2016; 2: e000080.
+37. Sheedy JE, Bailey I & Raasch T. Visual acuity and chart
+luminance. Am J Optom Physiol Opt 1984; 61: 595–600.
+38. Pelli DG & Robson J. The design of a new letter chart for
+measuring contrast sensitivity. Clin Vis Sci 1988; 2: 187–199.
+39. Latham K & Hughes JA. Is a reading addition necessary for
+clinical contrast sensitivity measurements? Poster presentation
+European Academy of Optometry and Optics, Malaga, April
+2013.
+
+Rehabilitation needs and activity limitations
+
+40. Elliott DDB, Bullimore MA & Bailey I. Improving the reliability of the Pelli-Robson contrast sensitivity test. Clin Vis
+Sci 1991; 6: 471–475.
+41. Ahn SJ, Legge G & Luebker A. Printed cards for measuring
+low-vision reading speed. Vision Res 1995; 35: 1939–1944.
+42. Calabrese A, Owsley C, McGwin G & Legge GE. Development of a reading accessibility index using the MNREAD
+acuity chart. JAMA Ophthalmol 2016; 134: 398–405.
+43. Tarita-Nistor L, Gonzalez EG, Mandelcorn MS, Brent MH,
+Markowitz SN & Steinbach MJ. The reading accessibility
+index and quality of reading grid of patients with central
+vision loss. Ophthalmic Physiol Opt 2018; 38: 88–97.
+44. Calabrese A, Cheong AMY, Cheung SH et al. Baseline
+MNREAD measures for normally sighted subjects from
+childhood to old age. Invest Ophthalmol Vis Sci 2016; 57:
+3836–3843.
+45. Tabrett DR & Latham K. Derivation of the acceptance and
+self-worth adjustment scale. Optom Vis Sci 2010; 87:
+899–907.
+46. Zigmond A & Snaith R. The hospital anxiety and depression
+scale. Acta Psychiatr Scand 1983; 67: 361–370.
+47. Herrmann C. International experiences with the Hospital
+Anxiety and Depression Scale-A review of validation data
+and clinical results. J Psychosom Res 1997; 42: 17–41.
+48. Kempen GIJM, Yardley L, Van Haastregt JCM et al. The
+short FES-I: a shortened version of the falls efficacy scale international to assess fear of falling. Age Ageing 2008; 37:
+45–50.
+49. Andrich D. A rating scale formulation for ordered response
+categories. Psychometrika 1978 Dec; 43: 561–573.
+50. Linacre J. Reliability and separation measures: Winsteps Help
+[Internet]. 2014. http://www.winsteps.com/winman/reliabil
+ity.htm (Accessed 24/10/2017).
+51. Wright BD & Linacre JM. Reasonable mean-square fit values. Rasch Meas Trans 1994; 8: 370. [Internet]. http://www.
+rasch.org/rmt/rmt83b.htm (Accessed 24/10/2017).
+52. Latham K, Baranian M, Timmis M & Pardhan S. Emotional
+health of people with visual impairment caused by retinitis
+pigmentosa. PLoS One 2015; 10: 1–17.
+53. Linacre J. Table 23.0 Variance components for items [Internet]. 2018. https://www.winsteps.com/winman/table23_0.
+htm (Accessed 28/03/2018).
+54. Institute of Public Care. Projecting Older People Population
+Information [Internet]. 2017. http://www.poppi.org.uk
+(Accessed 23/08/2017).
+55. Kempen GIJM, Ballemans J, Ranchor AV, van Rens GHMB
+& Zijlstra GAR. The impact of low vision on activities of
+daily living, symptoms of depression, feelings of anxiety and
+social support in community-living older adults seeking
+vision rehabilitation services. Qual Life Res 2012; 21: 1405–
+1411.
+56. Wolffsohn JS & Cochrane AL. Design of the low vision quality-of-life questionnaire (LVQOL) and measuring the outcome of low-vision rehabilitation. Am J Ophthalmol 2000;
+130: 793–802.
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+
+125
+
+
+[page 14]
+Rehabilitation needs and activity limitations
+
+J Macnaughton et al.
+
+57. Bruijning JE, Van Rens GHMB, Knol DL & Van Nispen
+RMA. Evaluation of reading, writing, and watching TV
+using the Dutch ICF activity inventory. Optom Vis Sci 2014;
+91: 1360–1371.
+58. Binns A, Bunce C, Dickinson C et al. Low vision service outcomes: a systematic review. In: Low visions service model evaluation project. London: RNIB; 2009
+59. Thetford C, Robinson J & Knox P. The changing needs of
+people with sight loss This publication presents findings
+from a research study. Qual Res 2009; 17: 1–20.
+60. Lord S, Despres C & Ramadier T. When mobility makes
+sense: a qualitative and longitudinal study of the daily
+mobility of the elderly. J Environ Psychol 2011; 31: 52–61.
+61. Martin KR, Koster A, Murphy RA et al. Changes in daily
+activity patterns with age in U.S. men and women: National
+health and nutrition examination survey 2003-04 and 200506. J Am Geriatr Soc 2014; 62: 1263–1271.
+62. Nollett CL, Bray N, Bunce C et al. High prevalence of
+untreated depression in patients accessing low-vision services. Ophthalmology 2016; 123: 440–441.
+63. Nollett CL, Bray N, Bunce CC et al. Depression in visual
+impairment trial (DEPVIT): a randomized clinical trial of
+depression treatments in people with low vision. Invest Ophthalmol Vis Sci 2016; 57: 4247–4254.
+64. Murray J, Banerjee S, Byng R, Tylee A, Bhugra D & Macdonald A. Primary care professionals’ perceptions of depression
+in older people: a qualitative study. Soc Sci Med 2006; 63:
+1363–1373.
+65. Casten RJ & Rovner BW. Depression in age-related macular
+degeneration. J Vis Impair Blind 2008; 102: 591–599.
+66. Stanford P, Waterman H, Russell WB & Harper RA. Psychosocial adjustment in age related macular degeneration.
+Br J Vis Impair 2009; 27: 129–146.
+
+126
+
+67. Brody B, Gamst A, Williams R et al. Depression, visual
+acuity, comorbidity, and disability associated with age related macular degeneration. Ophthalmology 2001; 108:
+1893–1900.
+68. Shmuely-Dulitzki Y, Rovner BW & Zisselman P. The impact
+of depression on functioning in elderly patients with low
+vision. Am J Geriatr Psychiatry 1995; 3: 325–329.
+69. Tabrett DR & Latham K. Factors influencing self-reported
+vision-related activity limitation in the visually impaired.
+Invest Ophthalmol Vis Sci 2011; 52: 5293–5302.
+70. Boyce T, Leamon S, Slade J, Simkiss P, Rughani S & Ghanchi
+F. Certification for vision impairment: researching perceptions, processes and practicalities in health and social care
+professionals and patients. BMJ Open 2014; 4: 1–8.
+71. Adler G & Rottunda S. Older adults’ perspectives on driving
+cessation. J Aging Stud 2006; 20: 227–235.
+72. Cimarolli VR, Casten RJ, Rovner BW, Heyl V, S€
+orensen S &
+Horowitz A. Anxiety and depression in patients with
+advanced macular degeneration: current perspectives. Clin
+Ophthalmol 2016; 10: 55–63.
+73. Evans JR, Fletcher AE & Wormald RPL. Depression and
+anxiety in visually impaired older people. Ophthalmology
+2007; 114: 283–288.
+74. O’Donnell C. The greatest generation meets its greatest challenge: vision loss and depression in older adults. J Vis Impair
+Blind 2005; 99: 197–208.
+75. Tolman J, Hill RD, Kleinschmidt JJ & Gregg CH. Psychosocial adaptation to visual impairment and its relationship to
+depressive affect in older adults with age-related macular
+degeneration. Gerontologist 2005; 45: 747–753.
+
+© 2019 The Authors Ophthalmic & Physiological Optics © 2019 The College of Optometrists
+Ophthalmic & Physiological Optics 39 (2019) 113–126
+

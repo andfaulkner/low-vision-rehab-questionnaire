@@ -1,0 +1,1455 @@
+[page 1]
+Ophthalmic and Physiological Optics ISSN 0275-5408
+
+Cost-effectiveness of basic vision rehabilitation (The basic
+VRS-effect study): study protocol for a randomised
+controlled trial
+~o Linhares1,
+ndez-Moreno1, Hugo Senra2,3 , Peter Lewis4 , Natacha Moreno5, Joa
+Laura Herna
+6
+1,4
+6
+Rui Santana , Pedro Lima Ramos , Ana Patrıcia Marques and Antonio Filipe Macedo1,4
+1
+
+Department and Center of Physics—Optometry and Vision Science, University of Minho, Braga, Portugal, 2School of Health and Social Care,
+University of Essex, Colchester, UK, 3Centre for Research in Neuropsychology and Cognitive Behavioural Intervention (CINEICC), Faculty of Psychology
+and Educational Sciences, University of Coimbra, Coimbra, Portugal, 4Department of Medicine and Optometry, Linnaeus University, Kalmar, Sweden,
+5
+Hospital Santa Maria Maior E.P.E, Barcelos, Portugal, and 6Public Health Research Centre, National School of Public Health, University NOVA, Lisbon,
+Portugal
+
+Citation information: Hern
+andez-Moreno L, Senra H, Lewis P, Moreno N, Linhares J, Santana R, Ramos PL, Marques AP, & Macedo AF. Cost effectiveness of basic vision rehabilitation (The basic VRS-effect study): study protocol for a randomised controlled trial. Ophthalmic Physiol Opt 2020.
+https://doi.org/10.1111/opo.12665
+
+Keywords: cost-effectiveness, magnification,
+quality-of-life, vision impairment, vision
+rehabilitation, visual ability
+Correspondence: Antonio Filipe Macedo
+E-mail address: antonio.macedo@lnu.se;
+a.macedo@ucl.ac.uk
+Received: 22 June 2019; In Revised form: 13
+December 2019; Accepted: 20 December
+2019
+Author contributions: AFM & LHM: involved
+in all aspects of study conception and design;
+data acquisition, analysis and interpretation;
+drafting and critically revising the manuscript.
+HS & PL: study design; drafting and critically
+revising the manuscript. APM: study design;
+data analysis and interpretation; drafting and
+critically revising the manuscript. NM, RS & JL:
+study design; critically revising the manuscript.
+PLR: data analysis and interpretation; critically
+revising the manuscript.
+
+Abstract
+Purpose: To investigate the cost-effectiveness of a basic vision rehabilitation service (basic-VRS) in Portugal. We designed a parallel group, randomised controlled trial whose aim is to compare the effects and costs of ‘usual low vision
+care’ with a ‘basic-VRS intervention’ on self-reported visual ability and other psychosocial and health-related quality-of-life outcomes.
+Methods: The trial will recruit participants that meet the following inclusion criteria: (1) visual acuity between 0.4–1.0 logMAR in the better-seeing eye, (2) cause
+of vision loss is diabetic retinopathy or age-related macular degeneration, (3)
+18 years or older and iv) live in the community (not in nursing homes or other
+type of institution). Participants will be randomised to one of the study arms consisting of immediate intervention and delayed intervention. The delayed intervention group will receive ‘usual care’ or no intervention in the first 12 weeks. Visual
+acuity, contrast sensitivity and retinal structure will be assessed during the study.
+Results: The primary outcome measure is visual ability, which will be evaluated
+with the Massof Activity Inventory, we expect that the intervention will raise the
+overall person measure or visual ability. Reading, health-related quality-of-life,
+anxiety and depression and social support will be also assessed. The analysis will
+be undertaken on an intention-to-treat basis. A cost-effectiveness analysis will be
+performed to provide information about the cost per unit of utility. To evaluate
+the cost-effectiveness of the intervention we will adopt the perspective of the
+healthcare system.
+Conclusion: This study will provide additional evidence about the effects of basic VRS on self-reported visual ability. Findings from this study should also contribute to better planning of low vision provision and, consequently, may contribute to reduce barriers to basic-VRS.
+
+Introduction
+Vision loss is an important cause of disability due to
+direct implications on physical, psychological and social
+
+aspects.1 The World Health Organization International
+Statistical Classification of Diseases and Related Health
+Problems, 10th Revision (ICD-10) designates visual (or
+vision) impairment (VI), which includes blindness and
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+1
+
+
+[page 2]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+low vision, based on presenting distance visual acuity. In
+the ICD-10, Chapter VII, H54, low vision is defined as
+visual acuity of less than 0.3 decimal Snellen (6/18, 0.5
+logMAR) but equal to or better than 0.05 decimal Snellen
+(3/60, 1.3 logMAR), or a corresponding visual field loss
+to less than 20 degrees. Blindness is defined as visual acuity of less than 0.05 decimal Snellen (3/60, 1.3 logMAR),
+or a corresponding visual field loss to less than 10
+degrees in the better eye.2 Vision impairment can lead to
+reduction of mobility,3 well-being and an increased risk
+of depression and anxiety.4–6 It can also lead to increased
+risk of family distress, social isolation, and reduced social
+participation.4,7,8
+Vision rehabilitation (VR) can be defined as a mixture of
+health, educational and social interventions whose ultimate
+goal is to reduce the negative impact of VI. Visual ability,
+defined as the overall ability to perform activities that
+depends on vision, is normally reduced in people with
+VI.9,10 The main goal of VR is to maximise an individual’s
+visual function. Enhancing visual function in people with
+low vision includes, for example, the use of assistive devices
+or improving lighting. VR often requires also the acquisition of new skills such as handling assistive devices (e.g.
+haptic devices such as BrainPort11), adaptive mobility
+strategies, modifying the environment, or some other activity-specific intervention.12–14 For instance, reading is a
+highly-valued activity in society and individuals who are
+unable to read face barriers in their daily activities.15,16 In
+many cases the ability to read can be restored through the
+use of magnifiers and little training with the devices prescribed.15,17 There is evidence that VR can improve the
+quality-of-life and independence to perform activities of
+daily living in people with VI.5,18–20
+It is known that VI can increase expenditure at personal
+and societal levels, but information about the ‘value for
+money’ (benefits vs costs) of VR is still limited. VI leads to
+a significant economic burden due to direct costs such as
+inpatient and outpatient care and indirect costs such as
+informal care or productivity losses.21–25 Informal care and
+productivity losses are likely to be consequences of vision
+disability (barriers faced by people with VI to live and
+develop skills) caused by reduced independence to perform
+activities of daily living and less job opportunities due to
+reduced ability to work.26–28 These are the type of problems
+that can be tackled with effective VR. However, there is still
+a lack of knowledge regarding what impact VR can have on
+those economic issues.14,19,29–31 Cost-effectiveness analysis
+(CEA) and health economic analysis will reveal the impact
+of VR.
+Cost-effectiveness analysis consist of an economic analysis that compares the cost and effects of health interventions in order to evaluate which alternative presents the
+most favourable cost/benefit ratio. The results can be
+2
+
+expressed in terms of incremental cost per unit of effect or
+in terms of the effect per unit cost.32,33 The current lack of
+CEA addressing the economic impact of VR services is contributing to the poor development of integrated vision care
+that people with VI receive in several countries.34,35 Additionally, the lack of CEA in this field is also contributing to
+the limited knowledge on the benefits of VR amongst
+patients, families and professionals, as well as to sub-standards of the services provided.36–38 Eventually, CEA will
+also characterise the value for money of VR in terms of an
+optimisation of resources and reduction of the burden
+entailed by VI.
+In this manuscript we present the study protocol for a
+parallel group, randomised controlled trial (RCT)
+addressing the cost-effectiveness of a basic vision rehabilitation service (basic-VRS) in Portugal (‘The basic VRS effect Study’). We define basic-VRS as: dispensing new
+glasses and magnifiers with little training and instructions to use the devices and help with activities of daily
+living. All provided in clinical settings with emphasis on
+reading tasks.
+Methods/Design
+Study design
+To investigate the CEA of basic-VRS we designed a parallel group RCT whose aim is to compare the effects
+and costs of ‘usual low vision care’, which is currently
+‘no intervention’ in Portugal, with a ‘basic-VRS intervention’ on self-reported visual ability. Participants’ flow
+during the study is shown in Figure 1, the information
+included in this protocol is summarised in Appendix S2,
+Consolidated Standards of Reporting Trials (CONSORT)
+Checklist. Participants will be allocated to an immediate
+intervention group (IMI), or to a delayed intervention
+group (DEI). The schedule for the intervention as well
+as the procedures and instruments for this trial are summarised in Table 1. The delayed intervention group was
+included despite previous evidence that the intervention
+is likely to be superior to ‘usual care’ (or no intervention), to control for a possible effect of ‘attention to the
+problem’. In other words, we suspected that people with
+low vision may feel more optimistic and give more positive responses during interviews only because they start a
+process of ‘solving their vision problems’. Therefore, the
+delayed intervention group is tested and receives attention from the research optometrist also at baseline, but
+only a real intervention at week 12. If attention is to
+have an effect on the main outcome measure without a
+real intervention, the effects are captured during the first
+12 weeks in the delayed intervention group and can then
+be taken into consideration when assessing and discussing the impact of the intervention.
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 3]
+L Hern
+andez-Moreno et al.
+
+The basic VRS-effect study
+
+Figure 1. Diagram showing planned participant flow. Note: DEI, delayed intervention group; IMI, immediate intervention group; MMSE, mini-mental
+state examination. EQ5D and AI are defined in section ‘Measures’.
+
+Inclusion and exclusion criteria
+Participants (IMI and DEI) need to meet the following
+inclusion criteria: (1) visual acuity between 0.4–1.0 logMAR in the better-seeing eye; (2) primary diagnosis and
+cause of vision loss diabetic retinopathy or age-related macular degeneration; (3) 18 years or older and (4) live in the
+community (not in nursing homes or any type of institution). Recruited people that meet one or more of the following criteria will be excluded: (1) cognitive impairment
+based on scores on mini-mental state examination, (2)
+communication problems due to, for example, hearing
+impairment, or inability to speak Portuguese; (3) unable to
+
+read due to low level of education; (4) unable to attend the
+requested appointments at the study setting.
+The spectrum of acuities for the inclusion criteria corresponds to moderate vision impairment and they have been
+chosen because reading ability is expected to improve with
+strong reading glasses and moderate power magnifiers.2,39
+The rationale to include patients diagnosed with diabetic
+retinopathy and age-related macular degeneration is that
+these diagnoses represent the leading causes of low vision
+in the adult population in developed countries. These diseases typically affect people within different age groups
+which might be challenging when computing, for example,
+productivity losses or gains due to the intervention.
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+3
+
+
+[page 4]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+Table 1. Summary of the measurements and schedule of the measurements that will be performed during the study
+Study phase
+Procedures
+
+Instruments
+
+Base
+
+12 weeks
+
+24 weeks
+
+36 weeks
+
+48 weeks
+
+Demographic information
+Visual acuity at far and near
+Contrast sensitivity
+Refraction
+
+Electronic form
+ETDRS charts
+MARS test
+Objective and subjective refraction
+at distance and near
+Magnifier or spectacles that will
+enable reading font N8 (0.4 logMAR)
+See Table 2 for a complete list
+MNread test
+Mini Mental State Examination (MMSE)
+EQ-5D
+Massof Activity Inventory (MAI)
+Hospital Anxiety and Depression Scale (HADS)
+Multidimensional Scale of Perceived
+Social Support (MSPSS)
+Optical coherence tomography (OCT)
+
+IMI, DEI
+IMI, DEI
+IMI, DEI
+IMI
+
+–
+IMI, DEI
+IMI, DEI
+DEI
+
+–
+DEI
+DEI
+–
+
+–
+IMI
+IMI
+–
+
+–
+DEI
+DEI
+–
+
+IMI
+
+DEI
+
+–
+
+–
+
+–
+
+IMI
+IMI
+IMI, DEI
+IMI, DEI
+IMI, DEI
+IMI
+IMI
+
+DEI
+IMI, DEI
+–
+IMI, DEI
+IMI, DEI
+IMI, DEI
+DEI
+
+–
+DEI
+–
+DEI
+DEI
+DEI
+–
+
+–
+IMI
+–
+IMI
+IMI
+
+–
+DEI
+
+IMI
+
+DEI
+
+IMI
+
+IMI, DEI
+
+DEI
+
+IMI
+
+DEI
+
+See Appendix S4 Table with Instructions
+
+IMI
+
+DEI
+
+–
+
+–
+
+Best magnifier for reading
+and near tasks
+Training with the magnifier
+Reading assessment
+Cognitive status
+Health utilities
+Visual ability
+Depression and anxiety
+Social support
+Analysis of structural
+stability of the macula
+General instructions
+
+DEI
+DEI
+
+‘Study phase’ define the measurements that will be performed in each group at the given timepoint. Base, baseline visit; DEI, delayed intervention
+group; IMI, immediate intervention group; W, weeks.
+
+Nevertheless, productivity will be excluded from our CEA
+because we will adopt the perspective of the healthcare system, productivity needs to be considered when adopting
+the societal perspective.
+Cognitive status will be assessed using the Portuguese
+version of The Mini-Mental State Examination
+(MMSE).40,41 MMSE scores 25–30 suggest a questionably
+significant degree of cognitive impairment, scores 21–24
+mild cognitive impairment, 10–20 moderate cognitive
+impairment; and below 10 severe impairment.42 We
+adjusted some vision-related tasks to make them suitable
+for people with VI: (1) for the task ‘reading a sentence’ we
+provide large print, and for (2) ‘identifying a pen and a
+watch’ we allow adjustment of the seeing distance to compensate for poor acuity. We exclude the last tasks, one consisting in ‘writing a sentence’ and the other asking to copy
+a pair of intersecting pentagons. Final scores will, therefore,
+be adjusted from 0 (minimum) to 28 (maximum).43,44
+These measures should be enough to use the instrument as
+a screening tool because previous studies have shown that a
+6-item subset derived from the MMSE can be used to
+screen for cognitive impairment. 45
+Recruitment and randomisation
+Potential participants will be identified on a consecutive
+basis from the outpatient bookings at the department of
+4
+
+ophthalmology, Hospital Santa Maria Maior E.P.E, Barcelos, Portugal. After selection, the first author will invite candidates by telephone to participate in this study.
+Candidates willing to participate will receive, by post or at
+the hospital, a ‘participant information booklet’ with complete information about the study. After agreeing with the
+terms of participation, participants are screened and, if they
+pass the screening, they will sign the consent form.
+Recruited participants will be included in the trial if they
+fulfil conditions imposed by the inclusion/ exclusion criteria. Participants will be allocated to the IMI or DEI to create the best possible match between the groups according
+to age and visual acuity. A blocked randomisation list with
+four participants per block was generated online using the
+platform Sealed Envelope Ltd. (https://www.sealeden
+velope.com/simple-randomiser/v1/lists) by the last author
+(AFM). Blocks were stratified by age (64-or-less vs 65-ormore) and acuity (0.4–0.68 vs 0.70–1.00) categories leading
+to a total of 4 strata. The platform also generated a unique
+randomisation code. For each block, randomisation codes
+were placed in envelopes and divided according to strata,
+each participant takes the randomisation code from a
+sealed envelope. The randomisation code is sent by the
+accessor to the last author (AFM) that decodifies de code
+using the block randomisation list and gives information
+about the participant’s group. In the clinical setting the first
+(LHM, Optometrist) and the fourth author (NM,
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 5]
+L Hern
+andez-Moreno et al.
+
+Ophthalmologist) have training in low vision assessment
+and rehabilitation at clinical and research levels.
+Experimental intervention and usual care
+Usual care
+Patients with low vision who receive medical eye care at the
+hospital where this study will be conducted do not receive
+any low vision magnifiers or special attention regarding
+strategies to deal with low vision. There are general guidelines from the Portuguese government to help people with
+impairments, but none specifies interventions to be delivered to people with low vision.46,47 Therefore, ‘usual care’
+in Portugal is commonly defined as treatment of eye diseases and standard refraction.
+Intervention: 3 components
+Best refractive correction for far and near. New glasses will
+be prescribed when the difference between refractions (the
+current glasses and the new refraction) is 2D or more, or if
+visual acuity improves at least five letters with the new
+refraction.48 These are reference values and the patient will
+be involved in the decision, all prescribed glasses and the
+changes in acuity will be recorded. All further visual tests
+will be performed based on the ‘normal’ near addition with
+a starting add of 2.5 D. After that and according to the participant’s preference, the near add for reading glasses will
+be adjusted to its maximum possible value (shortest working distance defined subjectively). For more details see
+Appendix S3, Detailed Procedures.
+Prescription of magnification for reading. To find the
+required magnification we will use a method based on
+equivalent viewing distance (EVD).49 The formula that will
+be used to determine the EVD and the power of the magnifier has been suggested by others49 and is given by the
+expression below in which TPS stands for ‘threshold print
+size’:
+Required EVD ¼ ðRequired TPS=Current TPSÞ
+ ðCurrent viewing distanceÞ:
+We want our participants to be able to read N8 (0.4 logMAR). We will assume that an acuity reserve of 2:1 (0.3 log
+units) is necessary for fluent reading (approximately 80
+words-per-minute);49 therefore, the required TPS is set at
+N4. The final power of the magnifier will be discussed with
+each participant to take into consideration individual preferences. For example, some people will choose to have
+lower magnification if it provides a wider field of view,
+while others might like the higher magnification. In some
+cases, only spectacles with high addition lenses including
+
+The basic VRS-effect study
+
+prisms to support convergence may be sufficient, lenses are
+supplied by Essilor (https://www.essilor.pt/). Other magnifiers are selected from a Schweizer catalogue (https://www.
+schweizer-optik.de/unternehmensbereich/improvision/).
+LED illuminated hand magnifiers are the first choice of prescribing devices and are available in powers ranging from
+6 D to 56 D. LED illuminated stand magnifiers and special
+magnifiers (reading bars or bright field magnifiers) are also
+available. These will be prescribed if participants show difficulties using LED Illuminated magnifiers (for example if
+they have a hand tremor) or when this type of device is
+considered inadequate for the participant’s preferred near
+or reading task(s).
+Instructions and training. We will provide a list of instructions on how to minimise the effect of reduced vision during activities of daily living, see Appendix S4, Table with
+instructions.50–54 During the in-office training, participants
+will receive a supervised training session with their devices
+as given in Table 2, a large print version of the list is provided to take home.48,55,56
+The intervention will be followed by a telephone call to
+ensure that participants are using their devices. If participants stop using the devices, the reasons for abandonment
+will be documented and the use will be encouraged. The
+phone call should take place within 2–3 weeks after participants have received their devices.
+Measures
+We included different types of measures because VR is
+likely to influence and be influenced by many factors. The
+key measurement is given by the Massof Activity Inventory
+(AI). AI gives a comprehensive summary of the ability to
+perform vision related activities and is expected to capture
+improvements in self-efficacy given by or developed during
+rehabilitation. The EQ-5D will be used to compute QALYs
+(defined in section Health-Related Quality of Life) and
+forms the basis of the CEA. Emotional status and social
+support are variables that can influence the effects of rehabilitation, or the attitude towards it.57,58 Therefore, the
+inclusion of such metrics will provide key information to
+understand whether our intervention has been influenced
+by changes in these aspects.
+Visual measures such as reading speed provide information
+about a very demanding visual task. Improvements in reading
+speed are also expected to reflect improvements in other
+vision related tasks. This information can therefore be interpreted in combination with patient-reported measures to
+characterise the impact of the intervention. Because we rely
+on patient-reported measures, it is important to ensure that
+participants have good judgement of their abilities/difficulties.
+We included the MMSE as a screening test for cognitive
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+5
+
+
+[page 6]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+Table 2. Instructions about using and practice with low vision aids
+Aid
+
+Description
+
+Spectacles
+
+• To find the correct working distance slowly bring the print closer to your eyes until the print comes into focus; using
+strong lenses may require a closer than usual working distance;
+
+• Move the print from right to left in front of your eye or move your head, be aware that moving your head may result
+in losing the focus;
+
+• Use good illumination during reading or other visually demanding tasks;
+• Use a reading stand if you find it difficult to maintain the correct distance or you feel fatigue due to postural demands
+imposed by your glasses;
+
+Magnifiers
+
+• Place the magnifier flat on the page and raise slowly away from the page until you get the clearest image. This procedure requires practice but after a while finding the lens-to-object distance should be almost automatic;
+
+• Be aware of the lens-to-eye distance, that changes the amount of information that you can see (field-of-view), shorter
+distances give a wider view;
+
+• To read move the page or move the magnifier and eye, depending on the task and the type of material;
+• Use the aid every day starting with short training periods of 5–10 min each;
+• Be aware that initially reading may be slow because concentration is on the use of the device rather than the reading but that will get
+better with practice;
+
+• You may experience of headache and eyestrain, but this is harmless to your eyes and vision, take a break if you feel this way;
+
+impairment to perform self-reported measures and, consequently, to participate in the study.
+Baseline and control measures
+Clinical and demographic information. Demographic information will include date of birth, marital status, occupation and years of education. Clinical information will
+include the disease that is the primary cause of VI,
+associated eye diseases, number of years with VI and
+comorbidities.
+Visual acuity. Visual acuity (VA) is going to be used as reference for prescribing new glasses. Distance VA will be
+assessed in a dim light room using an internally illuminated
+high contrast ETDRS chart, model 2425E, luminance
+180 cd 9 square-meter1 (https://www.precision-vision.c
+om/) at 4 m or 2 m or 1 m, according with the severity of
+vision loss. The chart distance will be reduced to ensure
+that the participant can read at least 10 letters. A reduction
+of the distance to half of the calibrated chart size requires
+the addition of 0.3 logMAR units to the final acuity score.59
+Near VA will also be assessed with Early Treatment Diabetic Retinopathy Study (ETDRS) charts (https://www.prec
+ision-vision.com/) at 40 cm or at 20 cm or 10 cm. In both
+procedures, a letter by letter scoring will be employed.60 VA
+will be measured monocularly at distance and binocularly
+at near.
+Monitoring retinal changes. Retinal thickness in the macula
+will be monitored with Topcon 3D OCT-2000 optical
+6
+
+coherence tomography (OCT) (https://www.topcon.co.jp/
+en/eyecare/products/product/diagnostic/oct/3DOCT-2000_
+E.html) during the duration of study (48 weeks). The programme selected for the capture is the ‘Macula Radial’
+which measures a diameter of 6 mm centred at the fovea.
+This will allow us to determine if changes in VA are associated with changes in retinal structure and ultimately will be
+used to exclude participants, whose retinal structure deteriorates, from the study or from analysis.
+Main outcome measures
+Visual ability. Visual ability, as previously defined, will be
+measured before and after the intervention to quantify the
+effect of rehabilitation. We will use the Massof Activity
+Inventory (AI)61,62 which is an adaptive instrument
+designed to provide an individualised assessment of difficulties caused by vision impairment. The AI consists of a
+hierarchal structure in which specific cognitive and motor
+visual tasks (e.g., pouring or mixing without spilling)
+underlie more global goals (e.g., preparing meals). Disabilities occur when an individual reports difficulty in achieving
+important goals. Difficulties achieving a goal are said to
+depend on the difficulty experienced in the tasks that
+underlie each goal. Goals are split between three objectives:
+social functioning, recreation and daily living. Respondents
+first rate the importance of each goal with four possible
+responses ranging from ‘not important’ to ‘very important’. Goals rated ‘not important’ are skipped, and as such
+are not considered in the final visual ability score as these
+are not relevant to the person’s daily life. For goals rated
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 7]
+L Hern
+andez-Moreno et al.
+
+‘slightly important’ or above, participants are asked to rate
+difficulty on a five-point scale ranging from ‘not difficult’
+to ‘impossible to do’.61,62 As in previous studies we establish visual ability as the main outcome measure, to compute the sample size, we are assuming a change of 0.7 logit
+on visual ability measured 12 weeks after the intervention
+(details in section sample size).
+Reading. Reading will be tested to determine vision related
+reading difficulties before and after the intervention. Reading parameters will also be used to estimate the magnification required for reading. Specifically, we will determine:
+(1) reading acuity (RA)—which is the smallest size of the
+font that the patient can read without making significant
+errors; (2) maximum reading speed (MRS)—which is the
+patient’s reading speed when it is not limited by the font
+size; and (3) critical print size (CPS)—which is the smallest
+size that the patient can read with the maximum read
+speed. After the intervention, reading will be assessed with
+the prescribed magnification. For measuring reading
+parameters we will use the Portuguese version of the Minnesota Low-Vision Reading Test (MNread test)63–65
+(https://www.precision-vision.com/). This instrument uses
+28 sentences, each sentence fits into 3-line paragraphs
+without use of hyphenation or extra blank spaces. No
+punctuation is shown and uppercase letters are used only
+for initial capitalisation of sentences and proper names.
+Reading speed will be measured binocularly at a distance of
+40 cm or adjusted, according with the needs, to 20 or
+10 cm.
+
+Secondary outcome measures
+Contrast sensitivity. Contrast sensitivity is a good predictor
+of print size for reading and helps to predict reading fluency.43 For example, a patient with near VA between 0.85
+and 1.00 logMAR is likely to achieve fluent reading only if
+contrast sensitivity is better than 1.05 logCS.43 Contrast
+sensitivity will be assessed binocularly at 40 cm with near
+correction of 2.5 D using the Mars Contrast Sensitivity Test
+(https://www.marsperceptrix.com/), which has a gradual
+letter-by-letter contrast, illuminance on the surface of the
+test is approximately 330 lux. The patient will be encouraged to respond until two consecutive letters are read
+incorrectly. The log contrast sensitivity is given by the final
+correctly read letter, which is the letter prior to the two
+consecutive errors, minus the number of errors prior to the
+final correct letter.
+Anxiety and depression. Anxiety and depression will be
+assessed with the Portuguese version of the Hospital Anxiety and Depression Scale (HADS).66 HADS is a 14-item
+
+The basic VRS-effect study
+
+self-report scale, comprising 2 subscales evaluating levels of
+depression (HADS-Depression) and levels of anxiety
+(HADS-Anxiety). The HADS has been used extensively in
+the hospital setting as a standardised psychological screening tool for emotional disorders,67 and has also been used
+in studies addressing vision loss.44,68 Each subscale includes
+seven items, generating scores between 0 and 21, for anxiety
+(Cronbach’s alpha of 0.89) and depression (Cronbach’s
+alpha of 0.91). A score of 8 and above is widely used to
+indicate the presence of clinical levels of anxiety or depression that may warrant further psychological investigation.44,67,69,70
+Social support. Previous research has suggested that people
+with vision impairment have increased risk of suffering
+from social isolation and reduced social support.6,71 In our
+study we will measure patients’ perceived social support
+using the Portuguese version of Multidimensional Scale of
+Perceived Social Support (MSPSS).72 This scale has 12
+questions that are divided into 3 subcategories (family,
+friends and significant others) of 4 questions each. The
+score for each question ranges 1–7, where 1 is ‘strongly disagrees’ and 7 is ‘completely agree’. To assess individual
+sub-categories, the score for the questions of the category
+need to be summed and then divided by 4. To assess to the
+whole scale the sum of rating for all questions is added up
+and then the total score is divided by 12. The lower the
+score the lower the perceived social support.
+
+Sample size
+To compute the minimum number of participants required
+to detect a significant difference in the activity inventory
+score (main outcome measure) at 12 weeks, we used information from previous studies and some preliminary data
+from our study.73–75 From our pilot data we set a change in
+AI scores from 0.13 logits in week 1 to 0.93 logits in week
+12 in the IMI. With type I error rate (alpha) set at 0.05
+(two-tailed) and aiming to a power of 0.90, a minimum of
+22 participants per arm is required. Sample size calculations were performed with SAS analytics software, Studio
+Release: 3.7 (www.sas.com), the code and the results of the
+simulation are given in Appendix S1, Sample Size. Based on
+the number of dropouts in the first 20 participants
+recruited, we expect a dropout ratio of 15% and because of
+that a total of 52 patients will be recruited.
+Health economic evaluation
+Economic evaluation is important to help decision makers
+with resource allocation issues and setting priorities.33 It
+requires a comparative analysis in terms of cost and
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+7
+
+
+[page 8]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+consequences. Consequences in economic evaluation can
+be measure through changes in physical, social or functioning (effects) or through changes in quality of life of patients
+(utility).76 To evaluate the cost-effectiveness of the intervention in our RCT we will adopt the perspective of the
+healthcare system.
+Health-related quality of life
+Health-Related Quality of Life (QoL) and well-being are
+two separate concepts; although, QoL is often used as a
+proxy for well-being in health-related interventions. The
+Centre for Disease Control and Prevention states in its
+website that ‘there is general agreement that, at minimum, well-being includes the presence of positive emotions and moods (e.g., contentment, happiness), the
+absence of negative emotions (e.g., depression, anxiety),
+satisfaction with life, fulfilment and positive functioning.
+In simple terms, well-being can be described as judging
+life positively and feeling good. For public health purposes, physical well-being (e.g., feeling very healthy and
+full of energy) is also viewed as critical to overall well-being. QoL is more linked to patient outcomes and has
+generally focused on deficits in functioning (e.g., pain,
+negative affect). In contrast, well-being focuses on assets
+in functioning, including positive emotions and psychological resources (e.g., positive affect, autonomy, mastery)
+as key components’.77A possible interpretation of these
+definitions is that the boundaries between well-being and
+QoL are often fuzzy, and some patient outcomes may be
+capturing both. In this trial we use a generic instrument
+to assess QoL but it is possible that we also capture
+aspects of well-being. Measuring QoL before and after
+the intervention will allow us to determine the impact of
+vision rehabilitation on this variable and the results will
+be expressed in quality-adjusted life-year. The quality-adjusted life year or quality-adjusted life-year (QALY) is a
+generic measure of disease burden, including both the
+quality and the quantity of life lived. One QALY equates
+to one year lived in perfect health and it assumes that
+health is a function of length of life and quality of life
+and combines these values into a single index number.78
+To determine QALYs, one multiplies the utility value
+associated with a given state of health by the years lived
+in that state. A year of life lived in perfect health is worth
+1 QALY (1 year of life 9 1 utility value). The gains (or
+losses) are determined by the differences between
+QALYs,79,80 in our case, the difference between the
+QALYs obtained before and after the intervention.
+We selected the EQ-5D-5L, which is a standardised
+instrument developed by the EuroQol Group (www.euro
+qol.org), to measure of health-related quality of life. The
+descriptive questionnaire compromises five dimensions,
+where three are related to function (Mobility, Self-Care and
+8
+
+Usual Activities) and the other two describe feelings (Pain/
+Discomfort and Anxiety/Depression). All dimensions have
+five possible levels of response, these define a total of 55
+possible combinations of items that correspond to 3125
+unique health states.81,82
+Costs of the intervention—estimates
+A provisional and theoretical estimate of the costs of the
+intervention based on the healthcare perspective is given in
+Table 3. Costs are estimated considering the material and
+equipment (e.g., visual tests and visual aids set) needed to
+provide a basic rehabilitation service in a hospital. Allowing
+for an initial investment for the material and equipment of
+3870€ and an equipment lifetime of 8 years, the value of
+annual depreciation is 483.75€, which means that per year,
+the material and equipment have a cost of 483.75€ for the
+hospital. Furthermore, we estimate the total time spent by
+the rehabilitation professional with each patient is one and
+a half hours. Overhead hospital costs include administrative and clerical support and were estimated using hospital
+annual reporting costs for the ophthalmology department.
+We calculated overhead costs per medical appointment
+dividing overhead annuals costs for the ophthalmology
+department by the number of appointments in that year.
+Magnifiers and/or lenses for glasses will be also considered for the estimation. The actual costs will be calculated
+with the data collected from each participant in the trial.
+For cost-effectiveness analyses the incremental cost effectiveness ratio (ICER) needs to be computed using the
+expression:
+ICER ¼ ðCost intervention
+ Cost alternativeÞ=ðEffect intervention
+ Effect alternativeÞ
+In our case the Cost-alternative will be zero, the Effect intervention will be measured in both groups (IMI and
+DEI). Costs will be expressed in euro and effects in QALY.
+The effects (benefits) of a basic-VRS are expected to have
+limited duration as a result of factors such as changes in
+visual acuity or refraction. Therefore, in our analysis we will
+estimate the number of years during which participants are
+expected to benefit from the intervention, using recommendations from the literature.83 A 3% discount rate will
+be applied for each year passed since the intervention.84–86
+For example, if the benefit in the first year is 1 QALY we
+assume that will be 0.97 in the second year after intervention. In CEA some decisions are based on limited number
+of patients and for that reason various assumptions are
+made. However, these assumptions may be inaccurate,
+which introduces uncertainty.87 In order to measure and
+evaluate uncertainty a sensitivity analysis will be also performed.
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 9]
+L Hern
+andez-Moreno et al.
+
+The basic VRS-effect study
+
+Table 3. Estimates of costs (healthcare system perspective) for a basic
+vision rehabilitation service (basic-VRS) per patient
+
+Material and equipment
+Optometrist’s preparation
+Optometrist’s examination
+Device dispensing and training
+Overhead hospital costs
+Magnifiers and lenses for the
+glasses
+Total
+
+Resource use
+(units = hours)
+
+Costs
+(units = euro)
+
+NA
+0.25
+1
+0.5
+NA
+NA
+
+4.84
+2.09
+8.35
+4.175
+11.81
+100
+
+1.75
+
+131.26
+
+Ethics approval and trial registration
+The trial started in 02/09/2016 with ethics application, the
+first participant has been assessed in March 2017. The study
+has been reviewed by the Ethics Committee for Life
+Sciences and Health of the University of Minho received
+approval number SECVS 147/2016 and also by the ethics
+committee at the hospital. The study was registered with
+the Portuguese data protection authority with the approval
+number 7012/ 2017. The basic VRS-effect study is registered in the ISRCTN at http://www.isrctn.com (Identifier:
+ISRCTN10894889), adheres to the CONSORT guidelines
+(http://www.consort-statement.org), and conforms to the
+tenets of the Declaration of Helsinki. The provisional date
+to stop the trial is 30/09/2020.
+
+Plan for data analysis
+Data analysis will be performed with SPSS statistics software (https://www.ibm.com/SPSS/Modeler) and R (lme4
+package) (https://cran.r-project.org/). For descriptive
+statistics means, median, standard deviation, interquartile
+range and frequency distribution will be calculated according to the type of variable (continuous/ discrete) and its
+distribution (normal or skewed). Kolmogorov-Smirnov
+tests or equivalent will be performed to assess normality.
+To detect changes in repeated (longitudinal) measurements
+we will consider the effect of group (IMI vs DEI) and time.
+Linear mixed models will be used to analyse repeated measurements. Longitudinal data analysis will be performed by
+fitting random coefficient models which will allow the
+regression coefficients (intercepts and slopes) to be unique
+to each subject, i.e., the individual time trajectories can vary
+randomly.88–92 For this analysis, individual outcome measures will be defined as ‘dependent variable’ or ‘response
+variable of interest’ (e.g., ‘visual ability’). Participants will
+be defined as ‘random factors’ or ‘group specific effects’.
+Explanatory factors or ‘fixed factors’ are ‘group’ and ‘timepoint’.
+Rasch analysis will be used to analyse results of the AI.
+The analysis will be conducted using the Andrich rate scale
+model93 for polytomous data with Winsteps software, version 4.4.0, (https://www.winsteps.com/winsteps.htm) to
+estimate person measures, item difficulties and threshold
+for each response category.94 The unit of measure used by
+Rasch for calibrating items and measuring persons is logits
+(log-odd units). Items with positive scores are harder to
+perform than the mean of the items; the higher the score
+the higher level of vision required. The opposite is expected
+for item with negative scores. Positive person measures
+indicate visual ability above the mean ability required for
+the items, while a negative person measure score indicates
+the opposite.95
+
+Data input, storage and quality control
+Data from each of the study visits will be recorded manually by the researcher and stored on a secure server for subsequent data analysis. Members of the research team not
+involved in data collection will perform random checks to
+assess the quality of the recorded data. This step will require
+manually cross checking the entries in the spreadsheets
+with the original data collection forms.
+Discussion
+This study has been motivated by the lack of evidence
+about the ‘value for money’ of basic vision rehabilitation
+services (basic-VRS) in Portugal. Previous research has
+shown that vision impairment in Portugal is a common
+condition that leads to significant costs at personal and
+societal levels.24,25,96 The general lack of cost-effectiveness
+analysis (CEA)97 may delay decisions to implement more
+and better basic-VRS and creates barriers to the development of vision rehabilitation.31,98–100 But, why do we need
+to perform a CEA now if magnifiers have been dispensed in
+many hospitals regularly since, at least, 1970?101 Recent systematic reviews showed that better evidence on the cost-effectiveness of using magnifiers is necessary.14 In addition,
+despite the widespread prescription of magnifiers, there still
+is insufficient evidence on the effect of different types of
+low-vision aids on reading performance.17,102 In summary,
+there is sufficient evidence that more studies, in particular
+trials, are necessary to increase the knowledge about the
+‘value for money’ of basic-VRS.
+The expected impact of this study
+Previous studies have shown that vision rehabilitation
+increases quality of life.5,19,20 These studies presented a few
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+9
+
+
+[page 10]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+limitations such as participants receiving more than one type
+of intervention simultaneously and the absence of control
+group.12,19 The charcaterisation of cost-effectiveness of a
+basic-VRS will provide information about resource utilisation
+and their effects, such information can be used to improve
+service delivery and access. Research has identified three types
+of barriers when developing and referring patients to low
+vision services: (1) ophthalmologists often forget to refer their
+patients; (2) patients are not familiar with the concept of
+rehabilitation; and (3) patients think that rehabilitation is
+only for blind individuals.36,99,103 We hope that our trial will
+help to reduce these barriers at a local level (Portugal) and at
+global level where the mentioned issues exist.
+In the current manuscript we refer, at least, three published
+study protocols that, at first glance, seem to be similar to our
+work. Therefore, we briefly discuss what is different in the
+current design and motivation. The Low Vision Intervention
+Trial (LOVIT II) and the Portable Electronic Vision Enhancement System (p-EVES) are different from our study because
+they were designed to answer a different question, that is,
+these studies compared two different types of low vision
+interventions. The LOVIT II compared impact of basic low
+vision intervention with low vision rehabilitation,73,98
+whereas the p-EVES compared the impact of electronic vision
+enhancement system devices with conventional optical low
+vision aids.104 Both protocols include an economic evaluation
+comparing the two types of interventions, the LOVIT II uses
+a parallel arms design and the p-EVES uses a cross-over
+design. These two studies have also adopted different primary
+and secondary outcome measures. Cross-over designs have
+some advantages when compared with parallel arms (LOVIT
+II), for instance, a smaller sample is typically required when
+using cross-over.105 All participants in our study will have
+access to the benefits of the intervention which increases the
+benefits of participating. A study conducted by Dunbar et al.
+(2012) was designed to find benefits of vision rehabilitation
+according to the level of visual acuity (participants’ interquartile range for acuity was 0.06–0.30 logMAR).73 Dunbar’s
+study was expected to answer a different research question
+and also differs from ours in several of the secondary outcome measures. Although we learned some lessons from
+Dunbar’s study, according to the author, Chapter 6 of the
+thesis,58 it is important to address outcomes of emotional status and social support in order to explain the variability of
+the rehabilitation effects. Therefore, we decided to include
+some of these measures in our protocol.
+Strengths of this trial
+According to the available literature, our clinical trial is the
+first designed to perform a CEA of a basic-VRS despite
+other trials have been conducted in recent years to assess
+the effects of vision rehabilitation.73,104,106 We are using
+10
+
+state-of-the-art instruments to perform a comprehensive
+characterisation of the outcomes of the intervention and
+the factors that can interfere with it, including instruments
+for characterisation of well-being (anxiety and depression
+scale and perception of social support) and QoL (EQ5D).
+The AI is an adaptive visual function questionnaire
+designed to provide an individualised assessment of difficulties of a visually impaired respondent when performing
+valued activities. Because our intervention is likely to affect
+only ‘near vision’ or ‘reading’ tasks one can ask if it is sensitive enough to detect changes in visual ability after our
+intervention. To deal with this we plan to perform an analysis of the AI scores using all items (46 in the Portuguese
+version) and also using those only related to reading and/or
+near vision. However, we consider that the intervention is
+likely to bring extra levels of confidence to our participants
+to attend social events and to participate in activities in
+which reading is important but note the only requirement.
+In other words, the intervention is likely to affect several
+aspects beyond reading and the overall person measure
+obtained from the AI is likely to capture that. The preliminary results used to compute the sample size are already
+indicative of that (see Appendix S1, Sample Size). Previous
+studies have shown that there is a crosstalk between
+improving visual performance, being able to perform visual
+tasks, emotional and social factors.107 Because of that we
+believe that assessing depression, anxiety and perceived
+social support before and after the intervention will help to
+understand if these aspects also influenced our intervention.
+Other studies provided information about costs and
+effects of rehabilitation interventions in people with
+impaired vision. However, most studies involved other
+domains such as preventing depression.108,109 Our study
+investigates the effect of a basic-VRS delivered in a public
+hospital focused on a single interaction with an optometrist that will provide a reading aid, basic training with the
+aid and instructions to reduce the effect of low vision in
+activities of daily living. This study is expected to provide
+for the first time the costs and consequences of a basic VRS. In addition, our study design can be easily replicated
+in other countries to assess basic-VRS.
+Challenges and limitations of the current study protocol
+We have a few threats to our protocol and the first is the risk
+of being unable to capture the effects of basic-VRS with the
+EQ5D-5L. That is, it may be impossible to observe a significant change in QALY. Others have shown that this is a
+possibility, but meanwhile the instrument has been
+updated.110 According to recent literature, condition-specific
+questionnaire scores (NEI VFQ-25) can be converted to
+EQ5D-based utility scores but the results are often
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 11]
+L Hern
+andez-Moreno et al.
+
+inadequate.111 An alternative to the EQ5D in future studies
+can be The Health Utilities Index.112 The main difference
+between the current and the previous version of the EQ5D is
+that it incorporates a 5-point scale, in contrast with a previous
+3-point scale, which may produce 3125 unique health states.
+This allows better measurement properties in terms of distribution, ceiling, informativity, discriminatory power and
+patient preferences.113,114 We have conducted a pilot analysis
+with 17 participants and the results were encouraging. The 5point scales reduced significantly the ceiling effects when compared with the previous 3-points scale.59,115
+A second limitation of our protocol is the follow-up period that cannot be more than 36 weeks due to funding constraints. We consider that this is not a major
+limitation because most of the previous studies have shown
+that the effects of rehabilitation should be perceived within
+12 weeks (~3 months); although, that may depend on nature of the intervention (e.g. psychosocial vs provision of
+training with devices).48,73,75,83
+Another possible problem for the final conclusions lies in
+the recruitment process. The number of patients attending
+the hospital where the study is conducted is limited; thus,
+preventing us from recruiting all participants at a single
+time point. Our researcher will not be blinded for the
+group allocation and we recognise that increases the risk of
+bias. We specifically discuss this in work meetings and the
+researcher is alerted to this fact.
+Trial status
+At the time of submission of this protocol this trial is
+recruiting.
+Acknowledgments
+We would like to acknowledge the hospital where the study
+takes place for the availability of the space and information.
+We also would like to acknowledge staff from the department of ophthalmology for their collaboration in the
+recruitment process. The ophthalmic lenses and part of the
+magnifiers are supported by Essilor Portugal.
+Conflict of interest
+The authors report no conflicts of interest and have no proprietary interest in any of the materials mentioned in this
+article.
+References
+1. Brody BL, Roch-Levecq AC, Fau-Gamst AC, Maclean K,
+Kaplan RM & Brown SI. Self-management of age-related
+
+The basic VRS-effect study
+
+macular degeneration and quality of life: a randomized
+controlled trial. Arch Ophthalmol 2005; 123: 46–53.
+2. International Statistical Classification of Diseases and
+Related Health Problems 10th Revision. H54: Visual
+impairment including blindness (binocular or monocular).
+(ICD-10)-WHO Version for 2016, 2016.
+3. Black A & Wood J. Vision and falls. Clin Exp Optom 2005;
+88: 212–222.
+4. Mojon-Azzi SM, Sousa-Poza A & Mojon DS. Impact of low
+vision on well-being in 10 European countries. Ophthalmologica 2008; 222: 205–212.
+5. Stelmack J. Quality of life of low-vision patients and outcomes of low-vision rehabilitation. Optom Vis Sci 2001; 78:
+335–342.
+6. Kempen GI, Ballemans J, Ranchor AV, van Rens GH & Zijlstra GA. The impact of low vision on activities of daily living, symptoms of depression, feelings of anxiety and social
+support in community-living older adults seeking
+vision rehabilitation services. Qual Life Res 2012; 21: 1405–
+1411.
+7. Hong T, Mitchell P, Burlutsky G et al. Visual impairment
+and subsequent use of support services among older people: longitudinal findings from the Blue Mountains Eye
+Study. Am J Ophthalmol 2013; 156: 393–399.e1.
+8. Sharts-Hopko NC, Smeltzer S, Ott BB, Zimmerman V &
+Duffin J. Healthcare experiences of women with visual
+impairment. Clin Nurse Spec 2010; 24: 149–153.
+9. World Health Organization (WHO). International Classification of Functioning, Disability and Health, 2001. World
+Health Organization: Geneva, 2001.
+10. Massof RW, Ahmadian L, Grover LL et al. The Activity
+Inventory: an adaptive visual function questionnaire.
+Optom Vis Sci 2007; 84: 763–774.
+11. Stronks HC, Mitchell EB, Nau AC & Barnes N. Visual task
+performance in the blind with the BrainPort V100 Vision
+Aid. Expert Rev Med Devices 2016; 13: 919–931.
+12. Goldstein JE, Jackson ML, Fox SM et al. Clinically meaningful rehabilitation outcomes of low vision patients served
+by outpatient clinical centers. JAMA Ophthalmol 2015; 133:
+762–769.
+13. Massof RW & Stelmack JA. Interpretation of low-vision
+rehabilitation outcome measures. Optom Vis Sci 2013; 90:
+788–798.
+14. Binns AM, Bunce C, Dickinson C et al. How effective is
+low vision service provision? A systematic review. Surv
+Ophthalmol 2012; 57: 34–65.
+15. Cheong AC, Lovie-Kitchin JE & Bowers AR. Determining
+magnification for reading with low vision. Clin Exp Optom
+2002; 85: 229–237.
+16. Rubin GS. Measuring reading performance. Vision Res
+2013; 90: 43–51.
+17. Virgili G, Acosta R, Bentley SA, Giacomelli G, Allcock C &
+Evans JR. Reading aids for adults with low vision. Cochrane
+Database Syst Rev 2018; 4: CD003303.
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+11
+
+
+[page 12]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+18. Wolffsohn JS & Cochrane AL. Design of the low vision
+quality-of-life questionnaire (LVQOL) and measuring the
+outcome of low-vision rehabilitation. Am J Ophthalmol
+2000; 130: 793–802.
+19. Lamoureux EL, Pallant JF, Pesudovs K, Rees G, Hassell JB
+& Keefe JE. The effectiveness of low-vision rehabilitation
+on participation in daily living and quality of life. Invest
+Ophthalmol Vis Sci 2007; 48: 1476–1482.
+20. Silva MBR, Cavalieri GC, Cota LS et al. Quality of life of
+patients attending a low-vision rehabilitation service in
+Brazil. Invest Ophth Vis Sci 2018; 59: 1066. (ARVO poster)
+21. Taylor HR, Pezzullo ML & Keeffe JE. The economic impact
+and cost of visual impairment in Australia. Br J Ophthalmol
+2006; 90: 272–275.
+22. Cruess AF, Gordon KD, Bellan L, Mitchell S & Pezzullo
+ML. The cost of vision loss in Canada. 2. Results. Can J
+Ophthalmol 2011; 46: 315–318.
+23. Wittenborn JS, Zhang XZ, Feagan CW et al. The economic
+burden of vision loss and eye disorders among the United
+States population younger than 40 years. Ophthalmology
+2013; 120: 1728–1735.
+24. Marques AP, Macedo AF, Hernandez-Moreno L et al. The
+use of informal care by people with vision impairment.
+PLoS ONE 2018; 13: e0198631.
+25. Marques AP, Macedo AF, Lima Ramos P et al. Productivity
+losses and their explanatory factors amongst people with
+impaired vision. Ophthalmic Epidemiol 2019; 26: 378–
+392.
+26. Coyne KS, Margolis MK, Kennedy-Martin T et al. The
+impact of diabetic retinopathy: perspectives from patient
+focus groups. Fam Pract 2004; 21: 447–453.
+27. Langelaan M, de Boer MR, van Nispen RMA, Woulters B,
+Moll AC & van Rens GH. Impact of visual impairment on
+quality of life: A comparison with quality of life in the general population and with other chronic conditions. Ophthalmic Epidemiol 2007; 14: 119–126.
+28. Brown JC, Goldstein JE, Chan TL, Massof R, Ramulu P &
+The Low Vision Research Network Study Group. Characterizing functional complaints in patients seeking outpatient low-vision services in the United States.
+Ophthalmology 2014; 121: 1655–1662.
+29. Bray N, Brand A, Taylor J, Hoare Z, Dickinson C &
+Edwards RT. Portable electronic vision enhancement systems in comparison with optical magnifiers for near vision
+activities: an economic evaluation alongside a randomized
+crossover trial. Acta Ophthalmol 2017; 95: e415–e423.
+30. Rabiee P, Parker G, Bernard S & Baxter K. Vision rehabilitation services: what is the evidence? Thomas Pocklington
+Trust report 2015; https://pocklington-trust.org.uk/wpcontent/uploads/2016/02/Vision-rehabilitation-services.pdf
+(Accessed: 31/12/2019).
+31. Stroupe KT, Stelmack JA, Tang XC et al. Economic evaluation of low-vision rehabilitation for veterans with macular
+diseases in the US department of veterans affairs. JAMA
+Ophthalmol 2018; 136: 524–531.
+
+12
+
+32. Eklund K, Sonn U, Nystedt P & Dahlin-Ivanoff S. A cost effectiveness analysis of a health education programme for
+elderly persons with age-related macular degeneration: a
+longitudinal study. Disabil Rehabil 2005; 27: 1203–1212.
+33. Drummond MF, Sculpher MJ, Claxton K, Stoddart GL &
+Torrance GW. Introduction to economic evaluation methods
+for the economic evaluation of health care programmes, 4th
+edn. Oxford University Press: Oxford, 2015.
+34. Ryan B. Models of low vision care: past, present and future.
+Clin Exp Optom 2014; 97: 209–213.
+35. Chiang PP, O’Connor PM, Le Mesurier RT & Keeffe JE. A
+global survey of low vision service provision. Ophthalmic
+Epidemiol 2011; 18: 109–121.
+36. Matti AI, Pesudovs K, Daly A, Brown M & Chen CS. Access
+to low-vision rehabilitation services: barriers and enablers.
+Clin Exp Optom 2011; 94: 181–186.
+37. Spafford MM, Rudman DL, Leipert BD et al. When selfpresentation trumps access: why older adults with low
+vision go without low-vision services. J Appl Gerontol 2010;
+29: 579–602.
+38. Southall K & Wittich W. Barriers to low vision rehabilitation: a qualitative approach. J Visual Impair Blin 2012; 106:
+261–274.
+39. Meyniel C, Bodaghi B & Robert P-Y. Revisiting vision
+rehabilitation. Front Syst Neurosci 2017; 11: 82.
+40. Guerreiro M, Silva AP, Botelho MA et al. Adaptacß~ao a populacß~ao portuguesa da traducßa~o do Mini Mental State
+Examination (MMSE). Rev Port Neurol 1994; 1: 9–10.
+41. Crum RM, Anthony JC, Bassett SS & Folstein MF. Population-based norms for the Mini-Mental State Examination
+by age and educational level. JAMA 1993; 269:
+2386–2391.
+42. Folstein MF, Folstein SE & McHugh PR. "Mini-mental
+state". A practical method for grading the cognitive state of
+patients for the clinician. J Psychiatr Res 1975; 12: 189–198.
+43. Latham K & Tabrett DR. Guidelines for predicting performance with low vision aids. Optom Vis Sci 2012; 89: 1316–
+1326.
+44. Senra H, Balaskas K, Mahmoodi N & Aslam T. Experience
+of anti-VEGF treatment and clinical levels of depression
+and anxiety in patients with wet age-related macular degeneration. Am J Ophthalmol 2017; 177: 213–224.
+45. Callahan CM, Unverzagt FW, Hui SL, Perkins AJ & Hendrie HC. Six-item screener to identify cognitive impairment among potential subjects for clinical research. Med
+Care 2002; 40: 771–781.
+ublica n.° 186/2014,
+46. Portaria no 192/2014. Diario da Rep
+Serie I de 2014-09-26. https://dre.pt/web/guest/analisejurid
+ica/-/aj/57541675/dadosGeraisDetails/maximized (Accessed
+5/10/2019).
+47. Decreto-Lei n.° 129/2017. Diario da Rep
+ublica n.° 194/2017,
+Serie I de 2017-10-0. https://dre.pt/home/-/dre/108265124/
+details/maximized (Accessed 5/10/2019).
+48. Freeman KF, Cole RG, Faye EE, Freeman PB, Goodrich GL
+& Stelmack JA. Care of the Patient with Visual Impairment
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 13]
+L Hern
+andez-Moreno et al.
+
+(Low Vision Rehabilitation): Optometric Clinical Practice
+Guideline. American Optometric Association: St. Louis,
+2007.
+49. Lovie-Kitchin JE & Whittaker SG. Prescribing near magnification for low vision patients. Clin Exp Optom 1999; 82:
+214–224.
+50. Voss EH. Maculopatıa: Otra Forma de Ver: Como Llevar
+una Vida Normal con Baja Vision, Letemendia: Buenos
+Aires, 2003.
+51. Markowitz SN. Principles of modern low vision rehabilitation. Can J Ophthalmol 2006; 41: 289–312.
+52. Acton JH, Molik B, Binns A, Court H & Margrain TH.
+Effect of rehabilitation worker input on visual function
+outcomes in individuals with low vision: study protocol for
+a randomised controlled trial. Trials 2016; 17: 105.
+53. Eilertsen G, Horgen G, Kvikstad TM & Falkenberg HK.
+Happy living in darkness! Indoor lighting in relation to
+activities of daily living, visual and general health in 75year-olds living at home. J Hous Elder 2016; 30: 199–
+213.
+54. Sticken J & Kapperman G. Integration of visual skills for
+independent living. In: Foundations of Low Vision: Clinical
+and Functional Perspectives, 2nd edn, (Corn AL & Erin JE,
+editors). American Foundation for the Blind, AFB Press:
+New York, 2010.
+55. American Optometric Association. Introduction to Vision
+Rehabilitation - A Resource Guide for Practitioners American
+Optometric. Association (Vision Rehabilitation Section) Online Resource Manual. American Optometric Association: St. Louis, 2009.
+56. Johnston AW. Understanding how simple magnifiers provide image enlargement. Clin Exp Optom 2003; 86: 403–
+408.
+57. Senra H, Macedo A, Nunes N, Balaskas K, Aslam T & Costa
+E. Psychological and psychosocial interventions for depression and anxiety in patients with age-related macular
+degeneration–A systematic review. Am J Geriatr Psychiatry
+2019; 27: 755–773.
+58. Dunbar HM. Visual disability in diabetic eye disease and its
+rehabilitation, PhD thesis. Department of Visual Neuroscience, University College London: London, 2013; v.
+59. Macedo AF, Ramos PL, Hernandez-Moreno L et al. Visual
+and health outcomes, measured with the activity inventory
+and the EQ-5D, in visual impairment. Acta Ophthalmol
+2017; 95: e783–e791.
+60. Ferris FL, Kassoff A, Bresnick GH & Bailey I. New Visual acuity charts for clinical research. Am J Ophthalmol 1982;
+94: 91–96.
+61. Massof RW, Hsu CT, Baker FH et al. Visual disability variables. I: the importance and difficulty of activity goals for a
+sample of low-vision patients. Arch Phys Med Rehabil 2005;
+86: 946–953.
+62. Massof RW, Hsu CT, Baker FH et al. Visual disability variables. II: The difficulty of tasks for a sample of low-vision
+patients. Arch Phys Med Rehabil 2005; 86: 954–967.
+
+The basic VRS-effect study
+
+63. Legge GE, Ross JA, Luebker A & Lamay JM. Psychophysics
+of reading. VIII. The Minnesota low-vision reading test.
+Optom Vis Sci 1989; 66: 843–853.
+64. Castro CT, Kallie CS & Salomao SR. Development and validation of the MNREAD reading acuity chart in Portuguese. Arq Bras Oftalmol 2005; 68: 777–783.
+65. Baskaran K, Macedo AF, He Y et al. Scoring reading
+parameters: An inter-rater reliability study using the
+MNREAD chart. PLoS ONE 2019; 14: e0216775.
+66. Pais-Ribeiro J, Silva I, Ferreira T, Martina A, Menses R &
+Baltar M. Validation study of a Portuguese version of the
+Hospital Anxiety and Depression Scale. Psychol Health Med
+2007; 12: 225–235.
+67. Pettersson A, Bostrom KB, Gustavsson P & Ekselius L
+Which instruments to support diagnosis of depression have
+sufficient accuracy? A systematic review. Nord J Psychiatry
+2015; 69: 497–508.
+68. Zheng Y, Wu X, Lin X & Lin H. The prevalence of depression and depressive symptoms among eye disease patients:
+a systematic review and meta-analysis. Sci Rep 2017; 7:
+46453.
+69. Poole NA & Morgan JF. Validity and reliability of the
+Hospital Anxiety and Depression Scale in a hypertrophic
+cardiomyopathy clinic: the HADS in a cardiomyopathy
+population. Gen Hosp Psychiatry 2006; 28: 55–58.
+70. Zigmond AS & Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand 1983; 67: 361–370.
+71. Bookwala J & Lawson B. Poor vision, functioning, and
+depressive symptoms: a test of the activity restriction
+model. Gerontologist 2011; 51: 798–808.
+72. Carvalho S, Pinto-Gouveia J, Pimentel P, Maia D & MotaPereira J. Caracterısticas psicometricas da vers~ao portuguesa da Escala Multidimensional de Suporte Social
+Percebido (Multidimensional Scale of Perceived Social
+Support - MSPSS). Psychologica 2011; 54: 331–357.
+73. Dunbar HM, Crossland MD, Bunce C, Egan C & Rubin
+GS. The effect of low vision rehabilitation in diabetic eye
+disease: a randomised controlled trial protocol. Ophthalmic
+Physiol Opt 2012; 32: 282–293.
+74. Dupont WD & Plummer WD. Power and sample-size calculations - a review and computer-program. Control Clin
+Trials 1990; 11: 116–128.
+75. Pearce E, Crossland MD & Rubin GS. The efficacy of low
+vision device training in a hospital-based low vision clinic.
+Br J Ophthalmol 2011; 95: 105–108.
+76. Drumond MF & Stoddart GL. Principles of economic evaluation of health programmes. World Health Stat Q 1985;
+38: 355–367.
+77. National Center for Chronic Disease Prevention and
+Health Promotion. Health-Related Quality of Life
+(HRQOL) - Well-Being Concepts. 2016. https://
+www.cdc.gov/hrqol/wellbeing.htm (Accessed 5/10/2019).
+78. The National Institute for Health and Care Excellence.
+Quality-Adjusted Life Year (QALYS). NICE, 2019. https://
+www.nice.org.uk/glossary?letter=q (Accessed 5/10/2019).
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+13
+
+
+[page 14]
+L Hernandez-Moreno et al.
+
+The basic VRS-effect study
+
+79. Torrance GW. Measurement of health state utilities for
+economic appraisal. J Health Econ 1986; 5: 1–30.
+80. Nord E. An alternative to QALYs: the saved young life
+equivalent (SAVE). Brit Med J 1992; 305: 875–877.
+81. Herdman M, Gudex C & Lloyd A. Development and preliminary testing of the new five-level version of EQ-5D
+(EQ-5D-5L). Qual Life Res 2011; 20: 1727–1736.
+82. Oppe M, Devlin NJ, van Hout B, Krabbe PF & de Charro
+F. A program of methodological research to arrive at the
+new international EQ-5D-5L valuation protocol. Value
+Health 2014; 17: 445–453.
+83. Patty NJS, Koopmanschap M & Holtzer-Goor K. A cost-effectiveness study of ICT training among the visually
+impaired in the Netherlands. BMC Ophthalmol 2018; 18:
+98.
+84. Ross EL, Hutton DW, Stein JD et al. Cost-effectiveness of
+Aflibercept, Bevacizumab, and Ranibizumab for diabetic
+macular edema treatment: analysis from the Diabetic
+Retinopathy Clinical Research Network Comparative Effectiveness Trial. JAMA Ophthalmol 2016; 134: 888–896.
+85. Frick KD, Kymes SM, Lee PP et al. The cost of visual
+impairment: purposes, perspectives, and guidance. Invest
+Ophthalmol Vis Sci 2010; 51: 1801–1805.
+86. Frick KD, Massof RW, Goldstein JE & Study LVRO. Estimating potential QALYs gained from low vision rehabilitation: An input into a cost-effectiveness analysis. Invest
+Ophth Vis Sci 2010;51:3244 (ARVO abstract).
+87. Jain R, Grabner M & Onukwugha E. Sensitivity analysis in
+cost-effectiveness studies: from guidelines to practice.
+Pharmacoeconomics 2011; 29: 297–314.
+88. Macedo AF, Crossland MD & Rubin GS. The effect of retinal image slip on peripheral visual acuity. J Vis 2008; 8: 16.
+89. Macedo AF, Crossland MD & Rubin GS. Investigating
+unstable fixation in patients with macular disease. Invest
+Ophthalmol Vis Sci 2011; 52: 1275–1280.
+90. Ferreira M, Pereira PA, Parreira M et al. Using endogenous
+saccades to characterize fatigue in multiple sclerosis. Mult
+Scler Relat Disord 2017; 14: 16–22.
+91. Ferreira MB, Pereira PA, Parreira M et al. Relationships
+between neuropsychological and antisaccade measures in
+multiple sclerosis patients. PeerJ 2018; 6: e5737.
+92. West BT, Welch KB & Galecki AT. Linear Mixed Models: A
+Practical Guide using Statistical Software, CRC Press: Boca
+Raton, 2015.
+93. David A. A rating formulation for ordered response categories. Psychometrika 1978; 43: 561–573.
+94. Wright BD & Linacre JM. Observations are always ordinal
+- measurements, however, must be interval. Arch Phys Med
+Rehabil 1989; 70: 857–860.
+95. Tennant A, McKenna SP & Hagell P. Application of Rasch
+analysis in the development and application of quality of
+life instruments. Value Health 2004; 7(Suppl 1): S22–S26.
+96. Hernandez-Moreno L, Moreno Perdomo N, Lima Ramos
+P et al. Visual and psychological outcomes in patients with
+
+14
+
+and without low vision diagnosed with similar eye diseases
+- initial results. Invest Ophth Vis Sci 2018; 59: 3411.
+97. Barker L, Thomas R, Rubin G & Dahlmann-Noor A. Optical reading aids for children and young people with low
+vision. Cochrane Database Syst Rev 2015; CD010987.
+98. Stelmack JA, Tang XYC, Reda DJ et al. VA LOVIT II: a
+protocol to compare low vision rehabilitation and basic
+low vision. Ophthalmic Physiol Opt 2012; 32: 461–471.
+99. Lam N & Leat SJ. Barriers to accessing low-vision care: the
+patient’s perspective. Can J Ophthalmol 2013; 48: 458–462.
+100. O’Connor PM, Mu LC & Keeffe JE. Access and utilization
+of a new low-vision rehabilitation service. Clin Exp Ophthalmol 2008; 36: 547–552.
+101. Crossland MD & Silver JH. Thirty years in an urban low
+vision clinic: changes in prescribing habits of low vision
+practitioners. Optom Vis Sci 2005; 82: 617–622.
+102. Virgili G, Acosta R, Grover LL, Bentley SA & Giacomelli G.
+Reading aids for adults with low vision. Cochrane Database
+Syst Rev 2013; CD003303.
+103. Overbury O & Wittich W. Barriers to low vision rehabilitation: the Montreal Barriers Study. Invest Ophthalmol Vis
+Sci 2011; 52: 8933–8938.
+104. Taylor J, Bambrick R, Dutton M et al. The p-EVES study
+design and methodology: a randomised controlled trial to
+compare portable electronic vision enhancement systems
+(p-EVES) to optical magnifiers for near vision activities in
+visual impairment. Ophthalmic Physiol Opt 2014; 34: 558–
+572.
+105. Senn S. Chapter 9: Various design issues. Cross-Over Trials
+In Clinical Research, 2nd edn. John Wiley & Sons Ltd: West
+Sussex, 2002.
+106. Crossland MD, Thomas R, Unwin H et al. Tablet computers versus optical aids to support education and learning in
+children and young people with low vision: protocol for a
+pilot randomised controlled trial, CREATE (Children
+Reading with Electronic Assistance To Educate). BMJ Open
+2017; 7: e015939.
+107. Burggraaff MC, van Nispen RM, Knol DL et al. Randomized controlled trial on the effects of CCTV training on
+quality of life, depression, and adaptation to vision loss.
+Invest Ophthalmol Vis Sci 2012; 53: 3645–3652.
+108. van der Aa HPA, van Rens GHMB, Bosmans JE, Comijs
+HC & van Nispen RMA. Economic evaluation of stepped care versus usual care for depression and anxiety in older
+adults with vision impairment: randomized controlled
+trial. BMC Psychiatry 2017; 17: 280.
+109. van Nispen RMA, van der Aah HPA & van Rens G. Cost effectiveness of stepped-care implemented in low vision
+rehabilitation to reduce depression and anxiety in vision
+impaired older adults. Invest Ophth Vis Sci 2016; 57: 5185.
+110. Malkin AG, Goldstein JE, Perlmutter MS, Massof RW &
+Low Vision Research Network Study Group. Responsiveness of the EQ-5D to the effects of low vision rehabilitation. Optom Vis Sci 2013; 90: 799–805.
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+
+[page 15]
+L Hern
+andez-Moreno et al.
+
+111. Kay S & Ferreira A. Mapping the 25-item National Eye
+Institute Visual Functioning Questionnaire (NEI VFQ-25)
+to EQ-5D utility scores. Ophthalmic Epidemiol 2014; 21:
+66–78.
+112. Horsman J, Furlong W, Feeny D & Torrance G. The Health
+Utilities Index (HUI): concepts, measurement properties
+and applications. Health Qual Life Outcomes 2003; 1: 54.
+113. Janssen MF, Pickard AS, Golicki D et al. Measurement
+properties of the EQ-5D-5L compared to the EQ-5D-3L
+across eight patient groups: a multi-country study. Qual
+Life Res 2013; 22: 1717–1727.
+114. Ferreira LN, Ferreira PL, Ribeiro FP & Pereira LN. Comparing the performance of the EQ-5D-3L and the EQ-5D5L in young Portuguese adults. Health Qual Life Outcomes
+2016; 14: 89.
+115. Moreno L, Marques AP, Santana R & Macedo AF. Comparing health-states of people with visual impairment using two
+versions of the Euroqol-EQ-5D. 12th International Congress
+
+The basic VRS-effect study
+
+of the International Society for Low Vision Research and
+Rehabilitation, VISION2017. The Hague, Netherlands,
+2017. https://www.islrr.org/vision2017 (Accessed 5/10/
+2018).
+
+Supporting Information
+Additional Supporting Information may be found in the
+online version of this article:
+Appendix S1. Sample size.
+Appendix S2. CONSORT checklist.
+Appendix S3. Detailed procedures.
+Appendix S4. Table with instructions.
+
+© 2020 The Authors Ophthalmic & Physiological Optics © 2020 The College of Optometrists
+
+15
+

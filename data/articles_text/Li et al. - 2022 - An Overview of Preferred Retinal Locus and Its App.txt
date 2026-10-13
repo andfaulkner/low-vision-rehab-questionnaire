@@ -1,0 +1,1270 @@
+[page 1]
+Seminars in Ophthalmology
+
+ISSN: 0882-0538 (Print) 1744-5205 (Online) Journal homepage: www.tandfonline.com/journals/isio20
+
+An Overview of Preferred Retinal Locus and Its
+Application in Biofeedback Training for Low-Vision
+Rehabilitation
+Shengnan Li, Xuan Deng & Jinglin Zhang
+To cite this article: Shengnan Li, Xuan Deng & Jinglin Zhang (2022) An Overview of Preferred
+Retinal Locus and Its Application in Biofeedback Training for Low-Vision Rehabilitation,
+Seminars in Ophthalmology, 37:2, 142-152, DOI: 10.1080/08820538.2021.1931355
+To link to this article: https://doi.org/10.1080/08820538.2021.1931355
+
+© 2021 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 26 Aug 2021.
+
+Submit your article to this journal
+
+Article views: 4194
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=isio20
+
+
+[page 2]
+SEMINARS IN OPHTHALMOLOGY
+2022, VOL. 37, NO. 2, 142–152
+https://doi.org/10.1080/08820538.2021.1931355
+
+REVIEW
+
+An Overview of Preferred Retinal Locus and Its Application in Biofeedback Training
+for Low-Vision Rehabilitation
+Shengnan Lia, Xuan Denga, and Jinglin Zhanga,b
+a
+
+Aier School of Ophthalmology, Central South University, Changsha, Hunan, China; bGuangzhou Aier Eye Hospital, Guangzhou, Guangdong China
+ABSTRACT
+
+ARTICLE HISTORY
+
+Central vision loss (CVL) caused by macular damage generally disables common daily tasks, which cannot
+be reversed by present treatments. Fortunately, it has been found that biofeedback training by inducing
+or reinforcing preferred retinal locus (PRL) as an eccentric fixation reference contributes to the improvement of visual performance in patients with CVL. However, the clinical application is still under controversy due to poor knowledge of its fundamental and inconsistent practical standards. This article aims
+to summarize the possible rationale for the development, location, re-location and evaluating indicators
+of PRL, and the general apparatus, protocol, and outcome of biofeedback PRL training.
+
+Received 27 October 2020
+Revised 12 May 2021
+Accepted 12 May 2021
+
+PREFERRED RETINAL LOCUS (PRL)
+The Development of Multiple PRL
+Normal human adults habitually use a highly efficient, fovealcentered visual routine. When the macular area becomes dysfunctional, people with central vision loss (CVL) often adopt a
+region outside the central macular area as the surrogate fovea
+for visual tasks, termed the preferred retinal locus.1,2 CVL has
+been reported to impair visual functions, such as visual acuity,
+contrast sensitivity, contrast discrimination, stereoscopic depth
+perception, color vision, light sensitivity and fixation stability.3
+In cases of central retinal damage, how can we perform visual
+tasks? White and Bedell70 provided evidence that saccades
+placed the fixational object close to PRL instead of fovea, and
+this kind of shift was based on the oculomotor re-reference.
+Cohen and Legargasson5 proved that multiple (more than one)
+areas of the perifoveal retina might become the new oculomotor reference after the anatomic destruction of the central
+foveal retina. In other words, several PRL developed that differed depending on the fixated target. Furthermore, Lei and
+Schuchard’s68 research indicated that in the visual system, the
+high-illuminance PRL (PRLhi) and low-illuminance PRL
+(PRLlo) developed simultaneously when visual function was
+adapting to maculopathy, with the use of each depending on
+the brightness of objects used in visual tasks, clearly in consistent with the existence of multiple PRL. However, a handful of
+researchers suggested that multiple PRLs were likely an expression for an unstable transitional stage of disease, especially for
+Stargardt disease. They considered that several PRLs seemed to
+be an unfavorable strategy to solve one task.7,26,13
+If asingle PRL is more beneficial for a definite training task,
+why are multiple PRLs observed for along period of time?
+Some studies have suggested a possible reason. Timberlake
+etal.25 designed a test and aimed to investigate the causes of
+CONTACT ,Jinglin Zhang Email
+Guangdong, China
+
+zhjinglin@126.com
+
+KEYWORDS
+
+Preferred retinal locus; Low vision rehabilitation;
+Biofeedback training;
+microperimeter; Central
+vision loss
+
+writing inability among patients with age-related macular
+degeneration (AMD) and age-matched controls with normal
+vision by documenting the location of the retinal image of the
+pen used for writing in relation to scotoma and PRL. They
+found that PRL could monitor the pen tip and its location on
+the page, which was the normal function of the fovea; meanwhile, these scotoma subjects exhibited ahighly dispersed location of PRL to support all kinds of visual procedures in life.
+Costela etal.10 supported patients with CVL who commonly
+used eccentric viewing to direct the eye movement such that
+the image fell onto PRL. They further confirmed whether PRL
+used in a fixation test was also used when performing daily
+tasks, and the results indicated that PRL used to view videos
+differs from the one in a fixation test among many CVL
+participants, and that was not caused by poor resolution
+alone. This phenomenon indicated that PRL used in a fixation
+task (defined as fixational PRL) might not be used in the
+performance of tasks in everyday life (defined as functional
+PRL), thus supporting the development of several PRLs in the
+majority of CVL patients. Sullivan and Walker9 compared the
+fixational and functional PRL in a pointing task. Interestingly,
+the results showed that the functional and fixational PRL
+spatially overlapped, but the functional PRL covered a much
+larger extent of peripheral vision and was not centered in the
+same location, and the fixational PRL was not sufficient to
+describe the region of retina participants used during this
+pointing task. Therefore, the development of a single PRL is
+prone to precise targets, which often exist in computer training
+tasks. Nevertheless, in daily life, this ideal visual target is rare to
+find. Patients with CVL need more PRL to adapt to various
+everyday life tasks, such as reading, walking, and searching
+tasks. In addition, progressive macular diseases such as AMD
+often asymmetrically destroy bilateral central vision. Thus,
+disease progression affects monocular PRL location differently,
+
+Retinal Department, Guangzhou Aier Eye Hospital, Huanshi Middle Road No.191, Yuexiu, Guangzhou,
+
+© 2021 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/),
+which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+
+[page 3]
+SEMINARS IN OPHTHALMOLOGY
+
+Tarita-Nistor etal.2 reported that for the better eye, the PRL
+distance from the former fovea increases with disease progression, while maintaining a relatively stable polar angle from the
+former fovea; however, in the worse eye the change of PRL
+depends modestly on the status of the better eye, rather than on
+changes in the worse eye’s own measures. That is to say, for
+patients with bilateral CVL, the better eye should be more
+objective to be selected for PRL location study.
+All of these studies support the development of PRL in
+patients with CVL; moreover, multiple PRL may be developed
+in different retinal regions, in order to perform daily tasks
+more efficiently. Therefore, PRL has been defined by researchers active in this field: (1) it is a retinal area used for fixation, (2)
+it is task specific, (3) more than one PRL can be used, (4) it is
+awell-defined region of the retina, and (5) the same PRL is used
+in repeated testing.12
+The Functionalization of PRL Based on Visual Cortical
+Reorganization
+How do single PRL or multiple PRLs develop in patients with
+central scotoma? The underlying mechanism is ongoing investigation. We acknowledge that vision loss due to retinal and
+central neuronal damage has previously been considered irreversible. However, considerable potential for vision restoration
+and recovery even in adulthood has been observed in recent
+studies. Sabel etal.73 proposed the “residual vision activation
+theory” on how visual functions could be reactivated and
+restored. They suggested that cerebral visual injury is usually
+partial and that there are some residual fields, including partial
+damage areas at the visual field border, “islands” of surviving
+tissue inside the blind field, extrastriate pathways unaffected by
+the damage, and downstream, higher-level neuronal networks.
+These residual structures could be reactivated by engaging
+them in repetitive stimulation by different means: (1) visual
+experience, (2) visual training, or (3) noninvasive electrical
+brain current stimulation. Baker etal.14 reported the large scale reorganization of visual processing in two individuals
+with aloss of foveal input from macular degeneration, and
+their subsequent research replicated this result in three new
+individuals, while in two other individuals with extensive retinal lesions but some foveal sparing, they found no evidence for
+reorganization. Therefore, they concluded that the large-scale
+reorganization of visual processing occurred only in the complete absence of functional foveal vision.15 Consistently, Dilks
+etal.16 reported six individuals with complete bilateral central
+vision loss showed visual cortical reorganization, whereas two
+with bilateral central vision loss but with foveal sparing did not;
+subsequently, in their further research, they also confirmed
+that the complete loss of foveal function was anecessary prerequisite for the large-scale reorganization of visual processing
+in individuals.17
+Additionally, Schumacher etal.1811 used fMRI to measure
+brain activity in the calcarine sulcus while visually stimulating
+peripheral retinal regions in patients with macular disease.
+Their results showed that visual stimulation (a fixation cross)
+of PRL in the retina increased brain activity in the cortex,
+normally representing central vision relative to the visual stimulation of the perifovea and relative to stimulation in the
+
+143
+
+periphery of age-matched control participants. In brief, the
+activation of the “fovea” cortex by peripheral stimuli was
+observed. These data directly combined cortical reorganization
+with behavioral adaptations adopted by macular damaged
+patients. fMRI, also used in Baker’s study,15 showed a similar
+significant activation of peripheral stimuli relative to the fixation baseline at the occipital pole of all participants with complete loss of foveal visual input. All the above-mentioned
+evidence clearly indicates that cortical plasticity in the visual
+system remains in patients suffered CVL in life and that the
+functionalization of PRL is based on visual cortical reorganization which lies on complete foveal visual input loss.
+The Location of PRL
+As is well known, the location of one PRL can be described
+either in terms of its position in the retina or in relation to its
+visual field relative to the scotoma, for example, the “superior
+visual field” or, in retinal coordinates, the “inferior retina”. In
+addition, PRL is usually situated in a relatively healthy area of
+the retina close to the edge of the dysfunctional macular
+region.1,19 Denniss etal.20 demonstrated that the location of
+PRL was typically only foveal to, but not within, aregion of
+relatively normal sensitivity for the individual located approximately 15 degrees horizontally and vertically. Verdina etal.26
+investigated the morphofunctional features of PRL and the
+transition zone (TZ) in a series of patients with recessive
+Stargardt disease, and they observed that the eccentric PRL
+often distances slightly from the superior edge or border of
+the atrophic area, where the TZ is defined. Recently, Erbezci
+and Ozturk21 included 72 patients (144 eyes) with macular
+degeneration and found the most frequent location of PRL
+appeared in the nasal retina (29.2%) and PRL was located in
+the left visual field of 34.0% of the patients. In Fletcher’s initial
+evaluation for 99 subjects with macular scotoma, they investigated the relative location of scotoma to fovea or PRL in retina:
+22% only to the right, 15% only to the left, 26% both to the right
+and left, 19% above or below, and 17% no dense scotomas.3
+Furthermore, Michael and Gary22 drew conclusions on data
+from several research papers featuring the characteristics of
+PRL to macular scotomas in retina for alarger low-vision
+population (1,500 eyes): 37% use aPRL placed above their
+scotoma, 33% to the right, 19% to the left, and 6% below the
+scotoma. Less than 2% used a central position (fixating within
+their scotoma), and 3% had amixed strategy of multiple PRL.
+In summary, PRL occurs in three different locations: first,
+within the scotoma with incomplete damage to the fovea; second, on the edge of the lesion; third, far away from lesion,
+especially for Stargardt disease. Yet, the specific location relative to scotoma is generally undefined, that is, superior (from
+45°-135°), inferior (225°-315°), nasal (315°-45°), and temporal
+(135°-225°) scotoma are all possible.26
+Superficially, the distribution of PRL seems somewhat confusing and arbitrary; for example, what is the determinator of
+PRL location? How can one confirm the position of PRL?
+There appears to be no simple rule by which patients “select”
+a particular PRL. The underlying mechanism of the selection of
+the PRL location is not fully understood. Cheung and Legge23
+proposed three selection categories: function-driven selection,
+
+
+[page 4]
+144
+
+S. LI ET AL.
+
+performance-driven selection, and retinotopy-driven selection.
+The function-driven selection suggests that PRL location may
+be determined by the nature of the visual task. It has been
+reported that PRL located in the superior retina (inferior visual
+field) is better for reading than the inferior retina (superior
+visual field), and PRL location to the left of scotoma will disturb
+patients to read the subsequent text.24,18,63 Consistent with the
+function-driven selection theory, patterns of PRL locations in
+some diseases have been reported. Walsh and Liu35 observed
+that in normal subjects with simulated scotoma, there was a
+theoretical advantage in using a vertically shifted PRL for reading, as this reduced the effect of the scotoma when making eye
+movements along a line of text. Likewise, Greenstein etal.19
+demonstrated that patients with Stargardt disease are more
+likely to develop a PRL in the superior retina because a PRL
+in the superior retina might be more advantageous for performing tasks in the inferior visual field (i.e., writing).
+However, if a horizontally shifted PRL was used in patients
+with AMD, there was an advantage to place PRL in the right
+visual field rather than the left, as this would interfere less with
+the perceptual span for reading than would a PRL to the left of
+the fixation. Performance-driven selection suggests that PRL
+will either be located at the undamaged retinal location with
+the highest visual acuity or, on the basis of visual attention, in
+regions with high attentional performance due to the enhancement of visual performance in those regions.42 Barraza-Bernal
+etal.28 investigated the relationship between the placement of
+sustained attention and the location of a developed PRL using
+simulations of central scotoma in 13 normally sighted subjects.
+Seventy percent of the subjects had a PRL location in the
+hemifield where high attentional performance was achieved.
+They suggested that attentional capabilities could be used as a
+predictor for the development of the PRL and were of significance for low-vision rehabilitation and for the development of
+new PRL training procedures. Finally, the retinotopy-driven
+selection suggests that PRL selection might be a consequence of
+retinotopic reorganizations.23 In conclusion, there may not
+only be one governing mechanism involved in the process of
+PRL development, which explains various PRLs during prolonged fixation adaptation.60 In addition, to some extent, the
+location in which PRL develops may not always be the most
+efficient one, because various daily tasks require distinguishing
+visual performances and different PRL locations. For instance,
+facial recognition or watching television is usually the primary
+task for many low-vision patients in daily life instead of reading
+or writing; thus, some PRL may not be optimal for one specific
+task.6,44,30
+The Relocation of PRL
+Likewise, Barraza-Bernal etal.31 agree on the hypothesis above
+that patients do not always choose the most efficient PRL
+position, and consequently, visual performance is not always
+fully exploited; therefore, they further induce the relocation of
+PRL by applying systematic stimulus. With repeated usage, a
+new PRL will be established from a special oculomotor and
+visual performance at the retinal location in the normal
+periphery will produce anew PRL beyond the natural PRL.
+Recently, the training of PRL has been highlighted in low
+
+vision rehabilitation, and researchers have demonstrated that
+PRL relocation clearly improves the functional vision and
+quality of life of patients with CVL [6, 45, 62, 65]. Deruaz etal.32
+designed some procedures to train a new examiner’s selected
+PRL and to develop a new oculomotor behavior in patients
+with central field loss and eventually confirmed the feasibility
+of PRL relocation through visual training. Moreover, in
+Hassan’s study, the location of the retinal area used for fixation can be changed after eccentric viewing training.33
+Conversely, Guez etal.34 reported that a repeatable retinal
+area for fixation developed within 6 months in all patients,
+half of them using their final PRL location at the first assessment, which developed within 1 month of scotoma development. For this reason, they believed that there is a slim chance
+that PRL locations would change after the initial development. While multiple factors are certainly behind PRL development, in some cases, the natural PRL developed
+spontaneously maintains for along period of time without
+other training schemes. Additionally, other researchers have
+reported that many factors contribute to the PRL development, say, the duration of scotoma formation, the location of
+scotomas, pursuit ability, attentional capabilities, and saccadic
+ability.7,27,42,26,72 All of these factors might be significant for
+the design of training strategies to relocate PRL for visually
+impaired patients. Thus, we must take more perspectives into
+account in the training scheme to achieve optimal PRL
+training.
+Chung etal.1 have concluded two challenges in adapting to
+a central scotoma and in developing a PRL. The first is scotoma
+awareness. Contrary to most of the central scotoma illustrations, most CVL patients do not see a gray or black patch
+blocking their direct vision. The other is PRL selection. When
+all retinal locations around the simulated scotoma are functionally equivalent, the opportunistic use of retinal locations
+that were near or in the direct paths of the search target would
+be the most efficient way to perform the task. This view is also
+supported by Walsh35 and Treleaven.42
+
+MEASURABLE PARAMETERS OF THE PRL’S QUALITY
+FOR VISUAL PERFORMANCE
+Fixation Location and Stability
+Evaluation criterion of fixation location: the fixation is qualified as a“predominantly central fixation” if >50% of fixation
+points are within the central circle; eyes with >25% but <50%
+are labeled as “poor central fixation”; eyes with <25% fixation
+points in the central circle are classified as “predominantly
+eccentric fixation”.36
+For the first time, the classification of fixation stability
+has been suggested by Fujii and colleagues.37 Fixation stability can be characterized both by the percentage of fixation points (PFP) and the bivariate contour ellipse area
+(BCEA). PEP is calculated from the scatter of acloud of
+fixation points over a retinal image reference map. The PFP
+fall inside acircle of 1°and 2°radii is defined, respectively, as
+P1 and P2. When P1 is greater than 75%, eyes are classified
+as having stable fixation. When P1 is less than 75% and P2
+is more than 75%, it is classified as relatively unstable.
+
+
+[page 5]
+SEMINARS IN OPHTHALMOLOGY
+
+When both P1 and P2 are less than 75%, the pattern is
+described as unstable fixation.38
+Additionally, fixation stability can also be mathematically
+measured by BCEA, which calculates the area of an ellipse that
+encloses agiven percentage of fixation points according to the
+values of the standard deviations of the horizontal and vertical
+eye movements during fixation. The lower BCEA values define
+better fixation stability. Several advantages remain in this measurement: firstly, more information can be contained than the
+initial grading scale reported by Fujii; second, its variability is
+independent of the magnitude; finally, its quantitative expression dramatically contributes to the statistical analysis.8,39–42
+We can even acquire the x and y coordinates of the centroid of
+the ellipse, which represents the average location of PRL, and
+the orientation angle (relative to the horizontal meridian) of
+the bivariate ellipse, which represents the angular direction of
+the fixation ellipse. However, it was impossible to determine
+whether the eye visited the same fixation location multiple
+times while measuring fixation stability and the computed
+bivariate ellipse area may be an overestimation of subjects’
+fixation stability if it is defined by the relative time spent at
+each point rather than the area covered during a time
+interval.33
+
+Pursuit Ability
+Pursuit is the tracking of moving objects through space.
+The subject is asked to follow amoving cross and to rate on
+the basis of whether the moving objects can be maintained
+within the discrete-specific PRL. The pursuit movement
+score is used to evaluate the pursuit ability, and it is
+divided into the following five levels: (1) moving target
+speed >5 degrees persecond maintains fast-moving target
+within PRL for pursuit; (2) moving target speed <5 degrees
+persecond indicates slow-moving target within PRL for
+pursuit; (3) movement of eye in same direction as movement of target but cannot maintain target within PRL; (4)
+able to appreciate the moving target but cannot move eyes
+toward the direction of it indicates no established PRL; and
+(5) no appreciation of moving targets.4,43,44
+
+Saccadic Ability
+Saccadic is to move rapidly to objects in the visual field away
+from PRL. Subjects are asked to look at two targets presented in
+the posterior pole 10° apart horizontally and vertically. Then,
+individuals rate whether the PRL location is moved from target
+to target in awell-defined saccadic motion when the eye is
+moving. The saccadic ability score can be used to evaluate the
+saccadic ability, and it is divided into the following three levels:
+(1) consistently moves PRL to the presented appreciated target
+and fixates on targets that are jumping once persecond, normal
+eye pattern; (2) inconsistent ability to move PRL to presented
+appreciated target and fixate on targets that are jumping once
+persecond, may make more than one saccadic eye movement
+to targets; and (3) no ability to move PRL to the jumping
+target.43,44
+
+145
+
+Re-referencing of PRL
+To quantify the degree of completeness of the re-referencing
+process of PRL, Chung etal.11 derived are-referencing index
+that ranged from 0 to 1, where 0 implies no re-referencing and
+1 represents a complete one. They defined saccade error with
+respect to PRL as saccade error PRL or the fovea as saccade
+errorfovea. If the fixational saccade lands perfectly on the
+fovea, then saccade errorfovea = 0 and saccade error PRL = eccentricity of PRL. Conversely, if the fixational saccade
+is located perfectly on PRL, then saccade error PRL = 0 and
+saccade errorfovea = eccentricity of PRL.
+re
+
+referencingindexing ¼
+
+�
+�
+1 saccade errorfovea saccade error PRL
+þ1
+d
+2
+
+(d: The distance between fovea and PRL)
+PRL Value
+PRL value is introduced to track and quantify the PRL development in detail using the stimulus distribution map (SDM). It
+shows components from horizontal and vertical positions of
+the eye on the display; thus, the spatial location of PRL can be
+described, in which the position is translated to the origin of a
+Cartesian coordinate system located on the two-dimensional
+image space.21,22,31 This value is acombined indicator of the
+three most important PRL features: PRL concentration, sphericity, and location. Its value ranges from 0 to 1, where values
+close to 1 represent very narrow and rounded distributions
+situated outside of the scotoma.31
+PRLvalue ¼ R�ðSI þ CIÞ=2
+(R is the ratio quantifying the fraction of fixations placing
+the target out of the scotoma relative to the total fixations; SI is
+obtained by dividing the shortest dimension over the longest
+dimension, which is designated as an index of symmetry of the
+distribution; CI is used to quantify the concentration of the
+data around its horizontal and vertical positional mean; and
+each of the three criteria values between 0 and 1.)
+CI ¼ 1
+
+ðC=βÞ
+
+(C is the 60th percentile of the distance between every point
+of SDM and their mean in xand y.β is selected to be the highest
+value that Ctakes among all subjects and sessions developed.)
+�
+�
+nout
+R ¼ 2�
+0:5
+ntotal
+(nout: The number of times that the stimulus is located outside
+of the scotoma; ntotal: the total number of times that the
+stimulus is fixated.)
+Crowding Zone at the PRL
+Improved acuity is not guaranteed through repeated usage of
+PRL. Occasionally, improvements are limited at the retinal
+level, so we need to determine whether there is plasticity in
+the sensory system. Yashar etal.71demonstrated that cortical
+
+
+[page 6]
+146
+
+S. LI ET AL.
+
+level crowding could be rapidly reduced and the ignorance of
+irrelevant flankers could be remarkably improved. Crowding
+refers to the “increased difficulty in identifying targets that are
+closely adjacent to other targets.45” It is characterized by measuring critical spacing, the minimum distance needed between
+atarget object and a similar flanker object to allow recognition.
+An important property of crowding is that both the magnitude
+and the extent are smaller in the fovea than in the periphery,
+and the two-dimensional shape of the crowding zone is circular
+at the fovea and elliptical in the periphery. Based on this theory,
+the similarity analysis between PRL and the fovea can be
+assessed precisely by outlining PRL’s crowding zone.31
+Attentional Capabilities
+Attentional performance is unequal for all eccentric positions,
+leading to variations in perception. Barraza-Bernal etal.28
+investigated the relationship between the place of sustained
+attention and the location of adeveloped PRL, and the results
+suggested that the training PRL is prone to be located in the
+retinal region with high attentional capabilities. Altpeter etal.46
+designed the following program to evaluate the measurement for sustained attention: step 1, presenting a fixation cross
+in the center of the screen for 1 s; step 2, displaying ared cue
+at an eccentricity of 8 degrees for 1 s, in which the target
+would be presented afterwards (the locations tested were
+placed at 8 degrees of eccentricity along changed meridians
+in 45° increments from 0° to 315°, and the red cue was used to
+achieve the attentional sustainment); and step 3, a Snellen
+Eappeared in the cued location and other meridians, and
+subjects were asked to report the orientation of the Snellen E.
+Sustained attention can be calculated by the following formula: Rg = per (90)/pre (270); per (90) and per (270) are
+defined as the percentage of correct responses at 90° and
+270°, respectively. When Rg <0.8, the performance in the
+upper location is reduced; when Rg >1.2, the performance in
+the lower location is reduced; and when 1.2≥ Rg ≥0.8, the
+performance is similar in the upper and lower locations.
+
+BIOFEEDBACK TRAINING FOR LOW-VISION
+REHABILITATION USING MICROPERIMETER
+Low-vision Rehabilitation for CVL Patients Based on PRL
+Training
+CVL is accompanied by psychosocial quality of life in difficulty
+including reading, driving, watching videos, identifying faces,
+and performing countless daily tasks.47–49 The aim of low vision rehabilitation for CVL patients is to use the residual
+vision as effectively and efficiently as possible to enable patients
+to live independently and to make lives easier, and then
+enhance their quality of life.50 However, it is necessary to
+individualize the training program for different macular
+lesions. For small and sharp scotoma, the natural PRL may be
+optimal for patients; thus, there is no need to perform PRL
+training. While for large and rough scotoma, fixation may not
+be stable enough or PRL may be far away with fovea, in this
+case, the appropriate PRL training should be employed to
+improve visual function for CVL patients.6 Microperimeter
+
+has become the most popular equipment for macular function
+detection.38,51 The microperimetry TRL (trained retinal locus)
+mode, based on acoustic or luminous biofeedback training,
+enhances fixation stability if PRL is in a suitable location but
+is not stable enough or if PRL is not in a suitable location, to
+identify and relocate PRL to a locus with higher retinal sensitivity through TRL training sessions.22,50
+In addition to microperimetric eccentric viewing training,
+some visual search training can also be used in helping PRL
+development. David35 used a gaze-contingent display to simulate an isotropic central scotoma in normal subjects while they
+were practicing adifficult visual search task, at the end of a
+1782-trial training, participants showed fewer fixations, fewer
+repeated fixations in the same area of the search stimulus and
+aclear tendency of using one area near the border of the
+scotoma to identify the search target, but the fixation and
+saccade duration have no improvement. Ratra etal.45 explored
+the possibility of visual improvement using video game stimulation for visual rehabilitation in Stargardt disease. Recruited
+eight patients showed statistical improvement in visual acuity,
+contrast sensitivity, fixation stability, stereopsis and pattern
+visual evoked potentials after being given 40 hof training with
+video game play, but the increase in retinal sensitivity had no
+statistical significance.
+
+PRL Training Apparatus and Pattern
+The most commonly used apparatus to train PRL are MP-1
+and MAIA. In the early 2000s, MP-1 was developed to overcome the SLO limitations. It has ahalogen lamp that generates
+an infrared (IR) light conveyed to the retina. The fundus image
+is 45° visual field with aresolution of 768 × 576 pixels. An
+independent non-mydriatic color fundus camera with an
+image resolution of 1,392 × 1,040 pixels is also supplied. The
+eye tracker monitors the eye position with afrequency of 25
+times persecond (25 Hz). MP-1 automatically calculates fixation stability under the grading of stable, relatively unstable,
+and unstable from Fujii. Meanwhile, BCEA can be measured
+showing the area (square degrees) and the angle (degrees) of
+68.2%, 95.4%, and 99.6% ellipse areas.22,51,53
+The optical source of MAIA is an infrared superluminescent
+diode at 850 nm. It has a digital camera with aresolution of
+1,024 × 1,024 pixels and avisual field of 36°× 36°, and the
+optical resolution on the retina is 25 microns that allows
+black and white high-quality retinal imaging. The tracking
+speed is also 25 Hz.22,38 Compared to MP-1, MAIA provides
+an easier interaction between the operator and the device by
+automatic eye focusing and very intuitive software. Its 2013
+Edition provides apushbutton for presence detection to ensure
+the reliability of text and multiple-fixation targets for patients
+with light to very severe macular damage. MAIA also has
+aquantization of fixation stability by plotting the position of
+each fixation on Cartesian axes and calculating the area of an
+ellipse that encompasses agiven percentage of fixations (63%
+BCEA and 95% BCEA).22,38
+Both MP-1 and MAIA can be used to perform visual rehabilitation based on acoustic and luminous biofeedback training. In acoustic training, patients are required to move their
+
+
+[page 7]
+SEMINARS IN OPHTHALMOLOGY
+
+eyes and maintain the fixation on TRL as long as possible
+according to an audio feedback which tells them whether
+they are getting closer to TRL. The tone becomes more continuous as the patient’s gaze is closer to TRL, otherwise it
+becomes discontinuous. A black and white checkerboard pattern is superimposed onto the fixation target during luminous
+training, and the size is selected according to the visual acuity
+of patients. Patients are invited to fixate on the target while the
+stimulus is flickering.50,54,55 It has been demonstrated that
+acoustic and luminous training are both useful methods to
+improve functional parameters in rehabilitated eyes, but luminous training is more likely to induce cortical reorganization
+after intensive training compared with acoustic one, because
+there may be more information transmitted to the brain to
+accelerate the process that TRL transformed to a new PRL and
+the visual cortex reorganization.39,54,55
+
+The Training Scheme and Outcome
+Although eccentric fixation training (PRL training) for patients
+with CVL has been carried out for many years, the biofeedback
+fixation training with microperimeter has still been in the early
+stage. The appropriate start, training interval, training frequency,
+outcome of training and the sustained effect are all divided in
+various studies (see table 1). Current studies demonstrated that
+independent acoustic biofeedback training commonly performs
+a total of 10–12 sessions with training cycle including once
+aweek,44,56–58 twice a week,59 three times a week,64 alternative
+days,61,62,8 and others.37 While in a very few studies, more sessions were conducted, including a total of 16 sessions by training
+once or twice a week,64,65,52 and fewer sessions were implemented in Verdina’s research that patients were trained once aweek
+for 8 weeks in total. Combined with audio, luminous biofeedback training has seen more benefits than acoustic methods
+alone, with a training scheme similar to mono-training, that is,
+perform about 10–12 sessions, once or twice a week.42,54,55
+Not only is the training scheme diverged, but the outcome of
+training is also varied. Although a majority of patients have
+reported a positive outcome from the training and subjective
+improvement in doing their near or distance vision-related daily
+activities, such as reading, face recognition, walking, identifying
+bus numbers, whether the objective measurements will be
+improved remains controversial, including the visual acuity, retinal sensitivity, fixation behaviour, reading speed, contrast sensitivity, retinal potential change, and so on. Amyriad of researchers
+reported that patients with CVL obtained a statistical improvement
+of vision acuity, retinal sensitivity, fixation behaviour, and retinal
+potential changes after biofeedback eccentric fixation training (see
+in table), while there have still been aminority of studies that
+indicated otherwise. Verboschi58 evaluated the efficacy of visual
+rehabilitation with MP-1 microperimeter biofeedback in advanced
+optic neural dysfunction due to glaucoma, and the results showed
+that the mean best corrected visual acuity at the end of the visual
+rehabilitation was statistically insignificant, although the mean
+retinal sensitivity and reading speed were improved statistically.
+Vingolo69 further compared the efficacy of visual rehabilitation by
+means of acoustic biofeedback and luminous biofeedback. Thirty
+
+147
+
+patients bilaterally affected by AMD were randomly divided into
+two groups and, respectively, received acoustic or luminous training which was simultaneously performed 12 sessions by once
+aweek. Both groups showed self-reported better visual performance, while only retinal sensitivity was improved in the acoustic
+training group. By contrast, the best corrected visual acuity, reading speed and fixation stability were all improved after luminous
+flickering biofeedback training.4 Amore etal.54 designed the same
+research, and the results showed that mean reading speed and
+fixation stability significantly increased for both training strategies.
+However, only patients trained with the flickering pattern biofeedback stimulation enjoyed an improvement in retinal sensitivity.
+Therefore, they concluded that both acoustic biofeedback and
+luminous biofeedback training improved visual functions and
+that more benefits come with luminous biofeedback training.
+These various results may be stemmed from the different types
+and durations of diseases that patients who are enrolled have
+suffered, because these generally lead to different extents of
+damage to the function of peripheral retina, let alone scotomas
+and PRL locations that may change as disease progresses. Reading,
+acomplicated perceptual learning process, is impacted by multiple
+factors, say, the basis of visual acuity, the fixation stability, visual span size, crowding and attentional capability, so as the reading
+speed. Visual span is viewed as the number of neighboring characters that can be reliably recognized without moving the eyes,
+which imposes a sensory limit on reading speed, and the crowding
+is a determinant of the scale of visual span.42 Thereby, it is another
+contributing factor of reading speed. As we previously mentioned,
+attentional capability contributes to PRL development, so extraattentional capacity may be required when using peripheral vision
+to read. Alternatively, we need to further consider that visual
+performance likely includes multiple cortical levels in both retinotopic and nonretinotopic areas and the connection between various processing stages. Thus, extensive indeterminations are the
+basis for the discrepancy among different biofeedback training
+studies.
+
+CONCLUSION
+Patients with long-standing scotomas usually develop one or
+multiple PRLs for eccentric fixation. Helped by biofeedback
+training, individuals are able to obtain a better or perfect
+anatomical correspondence of the PRL location, which is probably based on cortical plasticity in the visual system.
+Furthermore, the training strategies can be summarized as
+independent acoustic biofeedback, independent luminous biofeedback, combined training protocol using various microperimeters and other equipment and other visual search training.
+Hitherto, functional outcome improvements in training are
+still controversial. In addition, the training efficacy can be
+evaluated by the following indicators: subjective visual quality,
+visual acuity, fixation location, fixation stability, retinal sensitivity, contrast sensitivity, eye movement speed, reading capability, retinal potential change, and so on. After training, an
+overwhelming majority of patients can accomplish some daily
+tasks that are impossible prior to training, which directly and
+clearly improve their quality of daily life.
+
+
+[page 8]
+2017/18 (CVL)
+
+2019/11 (AMD:AB-6control-5)
+
+2019/20 (AMD-10, STGD-4, TMS-3,
+SMCNV-2, MMD-1)
+2019/67 (GA-30, AMD-19, BD-9,
+MMD-6 and CSR-3)Group A:
+spontaneous PRL; Group B:
+selective PRL
+
+2019/26 (MH: AB+LB-13, control-13) MAIA
+
+2014/12 (normally-sighted subjects
+with simulated central scotoma:
+S-CS-6, G-CS-6)
+
+Amore etal8
+
+Morales
+etal29case
+report
+
+UedaConsolvo
+etal7
+Ramírez etal52
+
+Barboni etal59
+
+Ratra etal8
+
+Morales etal
+
+Sborgia etal56
+
+Walsh etal35
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+2015/9 (MH)
+
+2014/adult pseudovitelliform
+dystrophy/74-year-old woman
+
+AB+LB
+
+AB
+
+AB+LB
+
+AB
+
+Psychophysics Toolbox and Eyelink
+toolbox/scotoma search training
+
+2013/30 (CVL: AB-15 AB+LB-15)
+
+Vingolo etal4
+
+7
+
+64
+
+2013/30 (neovascular AMD: AB-15
+LB-15)
+
+Scuderi
+etal49case
+report
+
+6
+
+2015/MMD-59-year-woman
+
+2013/34 (pathologic myopia)
+
+MAIA
+
+2016/STGD-26-year-old female
+
+Raman
+etal62case
+report
+
+5
+
+4
+
+2013/18 (CVL)
+
+Verboschi
+etal58
+Vingolo etal69
+
+3
+
+2013/18 (BT-12 control-6)
+
+MP-1
+
+Verdina etal55
+
+2012/171 (AMD-122 MMD-49)
+
+Apparatus/Training pattern
+
+2
+
+NO.
+Author
+1
+Pacella etal65
+
+Year/number of eyes(retinopathy or
+groups-number)
+
+Table 1. Summary of low-vision biofeedback training studies.
+
+visual acuity, reading speed, retinal
+sensitivity, P1 (%), PRL relocated
+slightly inferiorly from the fovea
+
+SRQV (both), BCVA(LB), mean retinal
+sensitivity(AB), reading speed(LB),
+fixation behavior(LB)
+mean reading speed(both), fixation
+stability(both), retinal sensitivity(AB
++LB)BCVA(AB+LB)
+
+retinal sensitivities, BCEA, reading speed
+
+Group A: visual acuity, P1, BCEA,
+reading speed, light
+sensitivity; Group B:light
+sensitivity
+
+saccadic velocity
+
+reading speed, color
+discrimination,
+
+-
+
+-
+
+-
+
+BCVA(AB), mean retinal
+sensitivity(LB), reading speed
+(AB), fixation behavior(AB)
+retinal sensitivity(AB)BCVA(AB),
+contrast sensitivity (both)
+
+BCVA(maintained)
+
+BCVA(maintained), retinal
+sensitivity
+
+-
+
+BCVA, BCEA
+
+retinal sensitivity
+
+Negative outcomes
+scotoma size and density
+
+12 training sessions/10 min three times aweek, retinal sensitivity, BCEA
+visual acuity,
+after 6 months underwentsecond cycle,
+consisting of 4 training sessions, once aweek
+162 search trials/11 blocks of scotoma search/ search RT, number of fixations, repeated fixation and saccade duration
+each search block consisted of 3 search
+fixations
+sessions for the 1, 8 and 32 set sizes/1hour
+aday
+(Continued)
+
+fixation stability, reading speed, visual
+acuity,
+12 sessions/each 10 min twice aweek/3 months high contrast near visual acuity, spatial
+luminance contrast sensitivity, SRQV,
+retinal sensitivity, HSF-LCS, CDT, S-LCS
+10 sessions/10 min on alternate days
+visual acuity, retinal sensitivity, BCEA,
+SRQV
+12 sessions/10 min three times aweek/3 months Group B: visual acuity, P1, BCEA, reading
+speed
+
+16 sessions/10 min twice per week/8 weeks
+
+10 min each session and repeated at least three BCVA, reading speed, fixation stability,
+times within three months
+BCEA
+
+12 sessions/10 min once aweek/3 months
+
+10 sessions/10 min twice aweek/5 weeks
+
+12 sessions/10 min once aweek/12 weeks
+
+10 sessions/10 min once aweek and repeated
+after 3 and 6 months and oneyear/1year
+
+Positive outcomes
+distant visual acuity (76.02%), retinal
+sensitivity, fixation behavior (56.14%),
+mean reading speed (34.71%)
+8 sessions/10 min once aweek
+fixation behavior, BCVA, mean reading
+speed, contrast sensitivity
+10 sessions/10 min once aweek and repeated at fixation location, mean retinal sensitivity,
+4 months, 8 months and 1year/1year
+reading speed, SRQV
+10 sessions/10 min once aweek (MP-1: 7 min
+BCVA, visual-evoked potential P100
+and VPF: 3 min)/10 weeks
+amplitude, retinal sensitivity, fixation
+behavior, BCEA, reading speed
+10 sessions/10 min on alternate days for both
+fixation stability, eye movement speed
+eyes/1year
+16 sessions/9 min with a3-minute rest once
+aweek/12 months
+
+Training scheme(training sessions/training and
+follow-up duration)
+
+148
+S. LI ET AL.
+
+
+[page 9]
+Ratra etal
+
+45
+
+Author
+
+2019/8 (STGD)
+
+Year/number of eyes(retinopathy or
+groups-number)
+
+Training scheme(training sessions/training and
+follow-up duration)
+Positive outcomes
+
+Negative outcomes
+
+play action video game: Call of Duty for 1 hdaily in each eye with alternate patching visual acuity, contrast sensitivity, fixation retinal sensitivity
+4 Modern Warfare
+stability, stereopsis and pattern visual
+evoked potentials
+
+Apparatus/Training pattern
+
+MP-1: microperimeter-1; MAIA: Macular Integrity Assessment; AB: acoustic biofeedback; AB+LB: acoustic plus light stimulus biofeedback; AMD: age-related macular degeneration; MMD: myopic macular degeneration; BT:
+biofeedback training; BCVA: best corrected vision acuity; CVL: central vision loss; SRQV: self-reported quality of vision; BCEA: bivariate contour ellipse area; VPF: Visual Pathfinder (LACE Inc); STGD: Stargardt disease; NEI-VFQ-25:
+National Institute Visual Functioning Questionnaire; P1 (%):fixation within 1 degree; TMS: traumatic macular scar; SMCNV: scarred myopic choroidal neovascular membrane; GA: geographic atrophy; BD: Best’s disease; CSR: central
+serous retinopathy; HSF-LCS: luminance contrast sensitivity at higher spatial frequencies; CDT: color discrimination thresholds; S-LCS: spatial luminance contrast sensitivity; MH: macular hole; S-CS: sharp-edged central scotoma
+group; G-CS: gradual-edged central scotoma group; RT: reaction time.
+
+17
+
+NO.
+
+Table 1. (Continued).
+
+SEMINARS IN OPHTHALMOLOGY
+149
+
+
+[page 10]
+150
+
+S. LI ET AL.
+
+METHOD OF LITERATURE SEARCH
+A MEDLINE/PUBMED search was conducted for the terms,
+such as “preferred retinal locus”, “biofeedback training”, “central vision loss”, “eccentric fixation”, “microperimeter”, and
+“low-vision rehabilitation” (with no time limitation). First, we
+comprehensively read all the abstracts of the articles that were
+obtained from the search; then, a total of 73 papers that were
+relevant to the contents of this review were selected eventually.
+All the 73 articles were read fully by researchers, and some case
+reports or case series that closely related to our subjects were
+also included.66–72
+
+Funding
+This work was supported by Aier Eye Hospital Group [AF2018002];
+Natural Science Foundation of Hunan Province [2019JJ50001].
+
+References
+1. ChungST, The GlennA. Fry Award Lecture 2012: plasticity of the
+visual system following central vision loss. Optom Vis Sci. 2013;90
+(6):520–529. doi:10.1097/OPX.0b013e318294c2da.
+2. Tarita-NistorL, Mandelcorn MS, Mandelcorn ED, Markowitz SN.
+Effect of Disease Progression on the PRL Location in Patients
+With Bilateral Central Vision Loss. Transl Vis Sci Technol. 2020
+Jul 30;9(8):47. PMID: 32855893; PMCID: PMC7422864.
+doi:10.1167/tvst.9.8.47.
+3. Fletcher DC, Schuchard RA, WatsonG. Relative locations of macular scotomas near the PRL: effect on low vision reading. JRehabil
+Res Dev. 1999;36:356–364.
+4. Vingolo EM, SalvatoreS, Limoli PG. MP-1 biofeedback: luminous
+pattern stimulus versus acoustic biofeedback in age related macular
+degeneration (AMD). Appl Psychophysiol Biofeedback. 2013;38
+(1):11–16. doi:10.1007/s10484-012-9203-4.
+5. CohenSY, LegargassonJF. Adaptation to central scotoma. Part I.
+Eccentric fixations. Jfrancais d’ophtalmologie. 2005 Nov;28(9):991–
+998. doi:10.1016/S0181-5512(05)81129-5.
+6. LiS, DengX, ChenQ, LinH, ZhangJ. Characteristics of Preferred
+Retinal Locus in Eyes with Central Vision Loss Secondary to
+Different Macular Lesions. Semin Ophthalmol. 2021 Mar 25:1–8.
+Epub ahead of print. PMID: 33764273. doi:10.1080/
+08820538.2021.1900289.
+7. Ueda-ConsolvoT, OtsukaM, HayashiY, IshidaM, HayashiA.
+Microperimetric Biofeedback Training Improved Visual Acuity
+after Successful Macular Hole Surgery. JOphthalmol.
+2015;2015:572942. doi:10.1155/2015/572942.
+8. RatraD, GopalakrishnanS, DalanD, RatraV, DamkondwarD,
+LaxmiG. Visual rehabilitation using microperimetric acoustic biofeedback training in individuals with central scotoma. Clin Exp
+Optom. 2019;102(2):172–179. doi:10.1111/cxo.12834.
+9. SullivanB, WalkerL. Comparing the fixational and functional preferred retinal location in apointing task. Vision Res. 2015;116(Pt
+A):68–79. doi:10.1016/j.visres.2015.07.007.
+10. CostelaFM, KajtezovicS, WoodsRL. The Preferred Retinal Locus
+Used to Watch Videos. Invest Ophthalmol Vis Sci. 2017;58
+(14):6073–6081. doi:10.1167/iovs.17-21839.
+11. Schumacher EH, JackoJA, PrimoSA, etal. Reorganization of visual
+processing is related to eccentric viewing in patients with macular
+degeneration. Restor Neurol Neurosci. 2008;26(4–5):391–402.
+12. Crossland MD, EngelSA, LeggeGE. The preferred retinal locus in
+macular disease: toward a consensus definition. Retina. 2011;31
+(10):2109–2114. doi:10.1097/IAE.0b013e31820d3fba.
+
+13. ReinhardJ, MessiasA, DietzK, etal. Quantifying fixation in patients
+with Stargardt disease. Vision Res. 2007;47(15):2076–2085.
+doi:10.1016/j.visres.2007.04.012.
+14. BakerCI, PeliE, KnoufN, Kanwisher NG. Reorganization of visual
+processing in macular degeneration. JNeurosci. 2005;25(3):614–
+618. doi:10.1523/JNEUROSCI.3476-04.2005.
+15. BakerCI, DilksDD, PeliE, KanwisherN. Reorganization of visual
+processing in macular degeneration: replication and clues about
+the role of foveal loss. Vision Res. 2008;48(18):1910–1919.
+doi:10.1016/j.visres.2008.05.020.
+16. DilksDD, BakerCI, PeliE, KanwisherN. Reorganization of visual
+processing in macular degeneration is not specific to the “preferred
+retinal locus”. JNeurosci. 2009;29(9):2768–2773. doi:10.1523/
+JNEUROSCI.5258-08.2009.
+17. DilksDD, Julian JB, PeliE, KanwisherN. Reorganization of visual processing in age-related macular degeneration depends on foveal loss.
+Optom
+Vis
+Sci.
+2014;91(8):e199–e206.
+doi:10.1097/
+OPX.0000000000000325.
+18. SatgunamP, LuoG. Does Central Vision Loss Impair Visual Search
+Performance of Adults More than Children? Optom Vis Sci.
+2018;95(5):443–451. doi:10.1097/OPX.0000000000001213.
+19. Greenstein VC, Santos RA, TsangSH, SmithRT, Barile GR, SeipleW.
+Preferred retinal locus in macular disease: characteristics and clinical implications. Retina. 2008;28(9):1234–1240. doi:10.1097/
+IAE.0b013e31817c1b47.
+20. DennissJ, BaggaleyHC, BrownGM, RubinGS, AstleAT. Properties
+of Visual Field Defects Around the Monocular Preferred Retinal
+Locus in Age-Related Macular Degeneration. Invest Ophthalmol
+Vis Sci. 2017;58(5):2652–2658. doi:10.1167/iovs.16-21086.
+21. ErbezciM, OzturkT. Preferred Retinal Locus Locations in Age Related Macular Degeneration. Retina. 2018;38(12):2372–2378.
+doi:10.1097/IAE.0000000000001897.
+22. CrosslandM, RubinGS. Retinal Fixation and Microperimetry. In:
+MidenaE, ed. Microperimetry and Multimodal Retinal Imaging.
+Berlin, Heidelber: Springer; 2014:5–11.
+23. Cheung SH, LeggeGE. Functional and cortical adaptations to central vision loss. Vis Neurosci. 2005;22(2):187–201. doi:10.1017/
+S0952523805222071.
+24. RosenS, ChakravarthiR, PelliDG. The Bouma law of crowding,
+revised: critical spacing is equal across parts, not objects. JVis.
+2014 10;14(6):10. Published 2014 Dec 10. doi:10.1167/14.6.10.
+25. Timberlake GT, BothwellRJ, MoyerK. Handwriting with apreferred
+retinal locus for AMD with scotomas. Optom Vis Sci. 2013;90
+(5):455–465. doi:10.1097/OPX.0b013e31828e92eb.
+26. VerdinaT, Greenstein VC, SodiA, etal. Multimodal analysis of the
+Preferred Retinal Location and the Transition Zone in patients
+with Stargardt Disease. Graefes Arch Clin Exp Ophthalmol.
+2017;255(7):1307–1317.doi:10.1007/s00417-017-3637-6.
+27. Timberlake GT, Sharma MK, GroseSA, GobertDV, GauchJM,
+MainoJH. Retinal location of the preferred retinal locus relative
+to the fovea in scanning laser ophthalmoscope images. Optom Vis
+Sci. 2005;82(3):177–185. doi:10.1097/01.opx.0000156311.49058.c8.
+28. Barraza-BernalMJ, IvanovIV, NillS, RifaiK, Trauzettel-KlosinskiS,
+WahlS. Can positions in the visual field with high attentional
+capabilities be good candidates for anew preferred retinal locus?
+Vision Res. 2017;140:1–12. doi:10.1016/j.visres.2017.07.009.
+29. Morales MU, SakerS, Amoaku WM. Bilateral eccentric vision training on pseudovitelliform dystrophy with microperimetry
+biofeedback. BMJ Case Rep. 2015;2015(jan09 1):bcr2014207969.
+Published 2015 Jan 9. doi:10.1136/bcr-2014-207969.
+30. DeruazA, WhathamAR, MermoudC, Safran AB. Reading with multiple preferred retinal loci: implications for training amore efficient
+reading strategy. Vision Res. 2002;42(27):2947–2957. doi:10.1016/
+s0042-6989(02)00354-1.
+31. Barraza-BernalMJ, RifaiK, WahlS. Apreferred retinal location of
+fixation can be induced when systematic stimulus relocations are
+applied. JVis. 2017;17(2):11. doi:10.1167/17.2.11.
+
+
+[page 11]
+SEMINARS IN OPHTHALMOLOGY
+
+32. DeruazA, GoldschmidtM, WhathamAR, etal. Atechnique to train
+new oculomotor behavior in patients with central macular scotomas during reading related tasks using scanning laser ophthalmoscopy: immediate functional benefits and gains retention. BMC
+Ophthalmol. 2006. 6:35. Published 2006 Nov 23. doi:10.1186/
+1471-2415-6-35.
+33. Hassan SE, RossNC, Massof RW, StelmackJ. Changes in the
+Properties of the Preferred Retinal Locus with Eccentric Viewing
+Training. Optom Vis Sci. 2019;96(2):79–86. doi:10.1097/
+OPX.0000000000001324.
+34. GuezJE, Le GargassonJF, RigaudiereF, O’ReganJK. Is there a systematic location for the pseudo-fovea in patients with central scotoma? Vision Res. Vision Research. 1993;33(9):1271–1279.
+doi:10.1016/0042-6989(93)90213-g.
+35. WalshDV, LiuL. Adaptation to asimulated central scotoma during
+visual search training. Vision Res. 2014;96:75–86. doi:10.1016/j.
+visres.2014.01.005.
+36. FujiiGY, De JuanE Jr, Humayun MS, Sunness JS, ChangTS, RossiJV.
+Characteristics of visual loss by scanning laser ophthalmoscope
+microperimetry in eyes with subfoveal choroidal neovascularization secondary to age-related macular degeneration. Am
+JOphthalmol. 2003;136(6):1067–1078. doi:10.1016/s0002-9394(03)
+00663-9.
+37. FujiiGY, De JuanE Jr., SunnessJ, Humayun MS, Pieramici DJ,
+ChangTS. Patient selection for macular translocation surgery
+using the scanning laser ophthalmoscope. Ophthalmology.
+2002;109(9):1737–1744. doi:10.1016/s0161-6420(02)01120-x.
+38. Morales MU, SakerS, WildeC, etal. Reference Clinical Database for
+Fixation Stability Metrics in Normal Subjects Measured with the
+MAIA Microperimeter. Transl Vis Sci Technol. 2016 Nov 15;5(6):6.
+PMID: 27867756; PMCID: PMC5113982. doi:10.1167/tvst.5.6.6.
+39. KrishnanAK, Bedell HE. Functional changes at the preferred retinal
+locus in subjects with bilateral central vision loss. Graefes Arch Clin
+Exp Ophthalmol. 2018;256(1):29–37. doi:10.1007/s00417-0173818-3.
+40. CiudinA, OrtizAM, FidilioE, etal. Retinal Microperimetry: aUseful
+Tool for Detecting Insulin Resistance-Related Cognitive
+Impairment in Morbid Obesity. JClin Med. 2019; 8(12):2181.
+Published 2019 Dec 11. doi:10.3390/jcm8122181.
+41. CsakyKG, PatelPJ, SepahYJ, etal. Microperimetry for geographic
+atrophy secondary to age-related macular degeneration. Surv
+Ophthalmol.
+2019;64(3):353–364.doi:10.1016/j.
+survophthal.2019.01.014.
+42. TreleavenAJ, YuD. Training peripheral vision to read: reducing
+crowding through an adaptive training method. Vision Res.
+2020;171:84–94. doi:10.1016/j.visres.2018.05.009.
+43. Fletcher DC, Schuchard RA. Preferred retinal loci relationship to
+macular scotomas in a low-vision population. Ophthalmology.
+1997;104(4):632–638. doi:10.1016/s0161-6420(97)30260-7.
+44. MidenaE,
+PilottoE,
+ConventoE.
+Age-Related
+Macular
+Degeneration: prevention of Blindness and Low-Vision
+Rehabilitation. In: MasieroS, CarraroU, eds. Rehabilitation
+Medicine for Elderly Patients. Practical Issues in Geriatrics. Cham:
+Springer; 2018:293–298.
+45. RatraD, RakshitA, RatraV. Visual rehabilitation using video game
+stimulation for Stargardt disease. Ther Adv Ophthalmol. 2019;11.
+2515841419831158. Published 2019 Mar 9. 10.1177/
+2515841419831158.
+46. AltpeterE, MackebenM, Trauzettel-KlosinskiS. The importance of
+sustained attention for patients with maculopathies. Vision Res.
+2000;40(10–12):1539–1547. doi:10.1016/s0042-6989(00)00059-6.
+47. CostelaFM, Saunders DR, RoseDJ, KatjezovicS, Reeves SM,
+WoodsRL. People With Central Vision Loss Have Difficulty
+Watching Videos. Invest Ophthalmol Vis Sci. 2019;60(1):358–364.
+doi:10.1167/iovs.18-25540.
+48. GeringswaldF, PollmannS. Central and peripheral vision loss differentially affects contextual cueing in visual search. JExp Psychol
+Learn Mem Cogn. 2015;41(5):1485–1496. doi:10.1037/xlm0000117.
+49. ScuderiG, VerboschiF, DomanicoD, SpadeaL. Fixation
+Improvement through Biofeedback Rehabilitation in Stargardt
+
+151
+
+Disease. Case Rep Med. 2016;2016:4264829. doi:10.1155/2016/
+4264829.
+50. AltınbayD, İdilŞA. Current Approaches to Low Vision (Re)
+Habilitation. Turk JOphthalmol. 2019;49(3):154–163. doi:10.4274/
+tjo.galenos.2018.53325.
+51. CesareoM, MancaD, CiuffolettiE, etal. Evaluation of fixation stability using different targets with the MP1 microperimeter.
+IntOphthalmol. 2015;35(1):11–17.doi:10.1007/s10792-014-9924-x.
+52. Ramírez Estudillo JA, León Higuera MI, Rojas JuárezS, Ordaz
+VeraML, Pablo SantanaY, Celis SuazoB. Visual rehabilitation via
+microperimetry in patients with geographic atrophy: apilot study.
+IntJRetina Vitreous. 2017;3:21. doi:10.1186/s40942-017-0071-1.
+53. Tarita-NistorL, GillI, González EG, Steinbach MJ. Fixation Stability
+Recording: how Long for Eyes with Central Vision Loss? Optom
+Vis Sci. 2017;94(3):311–316. doi:10.1097/OPX.0000000000001033.
+54. AmoreFM, PaliottaS, SilvestriV, PiscopoP, TurcoS, ReibaldiA.
+Biofeedback stimulation in patients with age-related macular
+degeneration: comparison between 2 different methods. Can
+JOphthalmol. 2013;48(5):431–437. doi:10.1016/j.jcjo.2013.07.013.
+55. VerdinaT, GiacomelliG, SodiA, etal. Biofeedback rehabilitation of
+eccentric fixation in patients with Stargardt disease. Eur
+JOphthalmol. 2013;23(5):723–731.doi:10.5301/ejo.5000291.
+56. SborgiaG, NiroA, TrittoT, etal. Microperimetric Biofeedback
+Training after Successful Inverted Flap Technique for Large
+Macular Hole. JClin Med. 2020; 9(2):556. Published 2020 Feb 18.
+doi:10.3390/jcm9020556.
+57. Trauzettel-KlosinskiS. Rehabilitative techniques. Handb Clin
+Neurol. 2011;102:263–278.
+58. VerboschiF, DomanicoD, NebbiosoM, CorradettiG, Zaccaria
+ScalinciS, Vingolo EM. New trends in visual rehabilitation with
+MP-1 microperimeter biofeedback: optic neural dysfunction.
+Funct
+Neurol.
+2013;28(4):285–291.
+doi:10.11138/FNeur/
+2013.28.4.285.
+59. BarboniMTS, RécsánZ, SzepessyZ, etal. Preliminary Findings on
+the Optimization of Visual Performance in Patients with Age Related Macular Degeneration Using Biofeedback Training. Appl
+Psychophysiol Biofeedback. 2019;44(1):61–70.doi:10.1007/s10484018-9423-3.
+60. Morales MU, SakerS, MehtaRL, RubinsteinM, Amoaku WM.
+Preferred retinal locus profile during prolonged fixation attempts.
+Can
+JOphthalmol.
+2013;48(5):368–374.
+doi:10.1016/j.
+jcjo.2013.05.022.
+61. NizawaT, BabaT, KitahashiM, OshitariT, YamamotoS. Different
+fixation targets affect retinal sensitivity obtained by microperimetry in normal individuals. Clin Ophthalmol. 2017;11:2011–2015.
+doi:10.2147/OPTH.S146831.
+62. RamanR, DamkondwarD, NeriyanuriS, SharmaT. Microperimetry
+biofeedback training in a patient with bilateral myopic macular
+degeneration with central scotoma. Indian JOphthalmol. 2015;63
+(6):534–536. doi:10.4103/0301-4738.162609.
+63. Trauzettel-KlosinskiS. Rehabilitation of lesions in the visual
+pathways. Klin Monbl Augenheilkd. 2009;226(11):897–907. doi:10.1055/s-0028-1109874.
+64. Morales MU,
+SakerS,
+WildeC,
+RubinsteinM,
+LimoliP,
+Amoaku WM. Biofeedback fixation training method for improving
+eccentric vision in patients with loss of foveal function secondary
+to different maculopathies. IntOphthalmol. 2020;40(2):305–312.
+doi:10.1007/s10792-019-01180-y.
+65. PacellaE, PacellaF, MazzeoF, etal. Effectiveness of vision rehabilitation treatment Tommaso Verdinant through MP-1 microperimeter in patients with visual loss due to macular disease. Clin
+Ter. 2012;163(6):e423–e428.
+66. FineEM, RubinGS. FineEM, RubinGS. Reading with simulated
+scotomas: attending to the right is better than attending to the
+left. Vision Res. 1999;39(5):1039–1048. doi:10.1016/s0042-6989(98)
+00208-9.
+67. HenrikssonL, RaninenA, NäsänenR, HyvärinenL, VanniS.
+Training-induced cortical representation of ahemianopic hemifield
+. JNeurol Neurosurg Psychiatry. 2007;78(1):74–81. doi:10.1136/
+jnnp.2006.099374.
+
+
+[page 12]
+152
+
+S. LI ET AL.
+
+68. LeiH, Schuchard RA. Using two preferred retinal loci for different
+lighting conditions in patients with central scotomas. Invest
+Ophthalmol Vis Sci. 1997;38:1812–1818.
+69. Vingolo EM, SalvatoreS, DomanicoD, SpadeaL, NebbiosoM. Visual
+rehabilitation in patients with myopic maculopathy: our
+experience. Can JOphthalmol. 2013;48(5):438–442. doi:10.1016/j.
+jcjo.2013.08.004.
+70. WhiteJM, Bedell HE. The oculomotor reference in humans with
+bilateral macular disease. Invest Ophthalmol Vis Sci. 1990;31:1149–
+1161.
+
+71. YasharA, ChenJ, CarrascoM. Rapid and long-lasting reduction of
+crowding through training. JVis. 2015;15(10):15. doi:10.1167/15.10.15.
+72. YowAP, WongD, LimTH, LaudeA. Automatic Detection of
+Preferred Retinal Locus (PRL) for Low Vision Rehabilitation
+using Oculometrics Analysis. Conf Proc IEEE Eng Med Biol Soc.
+2018;2018:3954–3957. doi:10.1109/EMBC.2018.8513394.
+73. SabelBA, Henrich-NoackP, FedorovA, GallC. Vision restoration
+after brain and retina damage: the “residual vision activation theory”. Prog Brain Res. 2011;192:199–262. doi:10.1016/B978-0-44453355-5.00013-0.
+

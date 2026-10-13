@@ -1,0 +1,947 @@
+[page 1]
+1040-5488/14/9108-1000/0 VOL. 91, NO. 8, PP. 1000Y1011
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2014 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+The Effect of Central Vision Loss on Perception
+of Mutual Gaze
+Sarah Sheldon*, Jessilin Quint†, Heiko Hecht‡, and Alex R. Bowers§
+
+ABSTRACT
+Purpose. To evaluate the effects of central vision loss (CVL) on mutual gaze perception (knowing whether somebody else is
+looking at you), an important nonverbal visual cue in social interactions.
+Methods. Twenty-three persons with CVL (visual acuity 20/50 to 20/200), 16 with a bilateral central scotoma and 7 without,
+and 23 age-matched control subjects completed a gaze perception task and a brief questionnaire. They adjusted the eyes of
+a life-size virtual head on a monitor at a 1-m distance until they either appeared to be looking straight at them or were at the
+extreme left/right or up/down positions at which the eyes still appeared to be looking toward them (defining the range of
+mutual gaze in the horizontal and vertical planes).
+Results. The nonscotoma group did not differ from the control subjects in any gaze task measure. However, the gaze
+direction judgments of the scotoma group had significantly greater variability than those of the nonscotoma and control
+groups (p G 0.001). In addition, their mutual gaze range tended to be wider (p = 0.15), suggesting a more liberal judgment
+criterion. Contrast sensitivity was the strongest predictor of variability in gaze direction judgments followed by self-reported
+difficulties.
+Conclusions. Our results suggest that mutual gaze perception is relatively robust to CVL. However, a follow-up study that
+simulates less-than-optimal viewing conditions of everyday social interactions is needed. The gaze perception task holds
+promise as a research tool for investigating the effects of vision impairment on mutual gaze judgments. Self-reported difficulty and contrast sensitivity were both independent predictors of gaze perception performance, suggesting that the task
+captured higher-order as well as low-level visual abilities.
+(Optom Vis Sci 2014;91:1000Y1011)
+Key Words: mutual gaze, social interactions, macular degeneration, central scotoma, central field loss, questionnaire
+
+P
+
+eople with central vision loss (CVL) often report difficulties
+with social interactions and reduced social functioning.1,2
+A limited access to the nonverbal visual cues inherent to
+effective communication can be a disadvantage in social interactions. Wang and Boerner3 reported that for people with vision impairment, difficulty in social situations was attributed to
+either the individual’s own lack of ability to perceive visual cues or
+other people’s lack of understanding.
+
+*BS
+†
+MBA, MS, OD
+‡
+PhD
+§
+PhD, MCOptom, FAAO
+The Schepens Eye Research Institute, Massachusetts Eye and Ear, Department of
+Ophthalmology, Harvard Medical School, Boston, Massachusetts (SS, ARB); Indiana
+University School of Optometry, Bloomington, Indiana (JQ); and Psychologisches
+Institut, Johannes Gutenberg-Universität, Mainz, Germany (HH).
+Supplemental digital content is available for this article. Direct URL citations
+appear in the printed text and are provided in the HTML and PDF versions of this
+article on the journal’s Web site (www.optvissci.com).
+
+The facial region has been noted as an important source of
+nonverbal visual information relevant to social situations.4 Prior
+studies of individuals with CVL due to age-related macular degeneration (AMD) have focused primarily on difficulty with recognizing and discriminating faces and facial expressions.5Y8 However,
+the ability to perceive mutual gaze (knowing whether somebody
+else is looking at you) also provides important nonverbal social
+cues.9,10 For example, a gaze in your direction may be a cue signaling turn-taking in a conversation or can indicate certain interpersonal attitudes, such as hostility or attraction. Therefore, an
+inability to perceive mutual gaze could potentially be detrimental
+to an individual’s social relationships and interactions. However,
+difficulty with gaze perception has, to our knowledge, never been
+evaluated in a low-vision population. Here, we report a study in
+which we evaluated mutual gaze judgments of individuals with
+CVL compared with normally sighted control subjects.
+Although gaze direction can, in principle, be judged on the
+basis of the position of the iris relative to the visible portion of
+the surrounding sclera,11,12 other cues, such as head orientation,
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 2]
+Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+are known to be factored into gaze direction judgments.13 Detecting
+mutual gaze is a higher-order visual function based on a complex interaction between these visual cues.12,14,15 Therefore, it is
+hard to predict exactly how gaze perception of individuals with
+CVL might be affected. Reduction of low-level visual functions,
+including visual acuity and contrast sensitivity, may or may not
+translate into difficulties in gaze perception.
+To quantify the functional ability of participants with CVL
+to judge mutual gaze, we used an interactive gaze perception task
+developed by Gamer and Hecht.16 The task involves adjustment
+of the gaze direction of a computer-generated virtual head, which
+was previously validated against a real person.16 Mutual gaze with
+another person is perceived to occur over a range of gaze directions, which Gamer and Hecht referred to as the cone of gaze.16
+The gaze perception task quantifies both the direction of this cone
+of gaze and the width (the range of gaze directions that are
+perceived as ‘‘being looked at’’). The task has been able to measure
+differences in gaze perception between control subjects and people
+with social phobias17 but, so far, has never been used to evaluate
+mutual gaze performance of visually impaired observers.
+We hypothesized that participants with CVL would have
+greater difficulty perceiving mutual gaze than normally sighted
+control subjects, as they would have greater difficulties seeing
+the visual cues used to make judgments about the virtual head’s
+gaze direction. We predicted that these gaze perception difficulties would manifest as greater judgment variability on the
+gaze perception task. Furthermore, depending on how they might
+respond to uncertainties about mutual gaze, their judgments
+might become either more conservative or more liberal, resulting
+in either a narrower or a wider gaze cone width, respectively,
+when compared with peers with unimpaired vision. Finally,
+we compared gaze perception performance of CVL participants
+with a bilateral central scotoma (a scotoma that encompasses the
+fovea) to CVL participants without a bilateral central scotoma.
+
+METHODS
+Participants
+Twenty-three individuals with congenital or acquired CVL
+with visual acuity in the range 20/50 to 20/200 and 23 normally
+sighted (visual acuity of 20/30 or better) age-similar control
+subjects participated. The duration of the CVL ranged from 7 to
+60 years. Sixteen of the CVL participants had an absolute
+bilateral central scotoma (0.7- target at 1 m). Central vision
+loss in the scotoma group was caused by AMD (n = 6), juvenile
+macular dystrophy (n = 5), myopic degeneration (n = 2), Doyne
+honeycomb retinal dystrophy (n = 1), optic neuropathy (n = 1),
+and diabetic maculopathy (n = 1). The median radius of the
+binocular scotoma was 6.2- (range, 3.0 to 21.5-). Central vision
+loss in the nonscotoma group was caused by albinism (n = 3),
+infantile nystagmus (n = 2), retinopathy of prematurity (n = 1),
+and multifocal choroiditis (n = 1).
+
+Design and Procedure
+For all the participants, the study consisted of one session and
+took approximately 1 to 2 hours. All vision measures and gaze
+perception tasks were undertaken binocularly with the habitual
+
+1001
+
+spectacle or contact lens correction used by the participant in
+social situations. Additional lenses were not used to provide an
+optimal refractive correction for the distance at which a specific
+test/task was performed. The study adhered to the tenets of the
+Declaration of Helsinki and was approved by the institutional
+review board at the Schepens Eye Research Institute. All participants were given a full explanation of the experimental procedures,
+and written informed consent was obtained with the option to
+withdraw from the study at any time.
+
+Vision Measures
+The visual status of the participants was examined through an
+assessment of binocular visual acuity, binocular contrast sensitivity,
+and mapping of any binocular central scotoma(s) (visually impaired
+group only). Visual acuity measurements were taken at a 1-m
+test distance (as this was the distance at which the gaze task was
+performed) using the ‘‘Tumbling E’’ option of the Freiburg Acuity
+Test (http://michaelbach.de/fract/).18 Contrast sensitivity was
+assessed at a 0.45-m testing distance using a custom computerized
+program, equivalent to the Pelli-Robson chart, for letters subtending
+2.5- visual angle presented on a luminance-calibrated display.19
+Visual fields were assessed with kinetic perimetry using a computerized central visual field program20 at a 1-m test distance with a
+white square stimulus (0.7- visual angle) and a white fixation cross
+(0.7- visual angle) presented against a black background. Participants were encouraged to keep the fixation cross as clear as possible
+during the test (i.e., to use the preferred retinal locus for fixation).
+Binocular scotoma location was categorized as predominantly
+horizontal (left or right of the binocular preferred retinal locus in
+visual field space) or predominantly vertical (above or below the
+binocular preferred retinal locus in visual field space).
+
+Gaze Perception Task
+Participants were seated in front of a computer monitor
+displaying a two-dimensional life-size virtual head (Fig. 1). The test
+distance was 1 m, which represents a comfortable distance for
+personal interactions without an intrusion into personal space,21,22
+and is typical of the distances used in prior gaze perception studies
+(which have ranged from 0.5 m23,24 to 2 m25). A chin rest was used
+to align the participant to the eye level of the virtual head and
+maintain the 1-m test distance. Participants could rotate the eyes of
+the virtual head without constraint in either the horizontal or the
+vertical plane (but never both planes together) using a mouse.
+To enable comparison with prior studies, we used the same
+virtual head as in the original study by Gamer and Hecht.16 The
+eyes were modeled in three dimensions with appropriate convergence settings such that they moved in synchrony and remained
+converged at the subject’s eye plane at all times (this did result in
+slightly different angular rotations of the two eyes). Shadows were
+not cast, simulating the situation of frontal and ambient illumination. The orientation of the virtual head could be either directed
+straight toward the subject or turned away by 8- vertically (up or
+down) or 8- horizontally (left or right) (Fig. 2), thus simulating
+social situations in which the direction of gaze has to be judged
+when the other person’s head orientation is not directly aligned
+with the gaze. We chose not to exceed 8- because in the case of
+vertical eye rotations, too much of the iris would have been
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 3]
+1002 Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+FIGURE 1.
+Screenshots of direct and averted gaze of the virtual head for the gaze perception task in the horizontal plane. (A) Head straight, eyes looking to the left of the
+observer; (B) head straight, eyes looking directly toward the observer; and (C) head straight, eyes looking to the right of the observer. A color version of this
+ﬁgure is available online at www.optvissci.com.
+
+occluded in the initial settings for the centering task (making for a
+rather grotesque appearance).
+In the centering task, participants moved the eyes in a specified
+direction until the virtual head seemed to be gazing straight toward them. The eyes were moved either horizontally right or left
+from an initial random leftward or rightward gaze offset or vertically down or up from an initial random upward or downward
+gaze offset. For each trial, the angular deviation of the final position of the virtual eyes from the true straight-ahead gaze position
+was computed. There were a total of 24 trials with four for each of
+the three head orientations (j8, 0, and 8-) in the vertical and
+horizontal planes. The mean and SD of the final eye positions for the
+four trials in each condition were calculated for each participant,
+providing an assessment of their ability to judge straight-ahead gaze.
+In the decentering task, the initial direction of the virtual eyes
+was always centered. Participants then moved the eyes in a
+specified direction, left or right in the horizontal plane and up or
+down in the vertical plane, until the point where they felt that the
+eyes were just about to stop looking at them. The eyes could be
+rotated without constraint, theoretically allowing for impossible
+rotations. However, none of our subjects ever chose such extreme
+settings (940- in the horizontal plane). There were a total of
+24 trials, with two for each of the two directions and three head
+orientations in the vertical and horizontal planes. The horizontal
+(vertical) width of the range of mutual gaze, the gaze cone, was
+then computed as the difference between the corresponding values
+of the six pairs of decentering values to the left and to the right
+(upward and downward). The mean and SD of these six horizontal (vertical) gaze cone widths were calculated for each participant. (There were insufficient trials to calculate means and SDs
+of the gaze cone widths for each head orientation.)
+Thus, there were a total of 48 trials, 24 for the centering task (12
+horizontal and 12 vertical) and 24 for the decentering task (12
+horizontal and 12 vertical). The trials were randomly interleaved
+and took about 20 to 30 minutes to complete. Participants were given
+
+as much time as needed to practice the tasks and become familiar with
+operating the mouse before experimental data collection commenced.
+
+Questionnaire
+Participants were administered a short, six-item questionnaire
+(see Appendix, available online at http://links.lww.com/OPX/
+A180) to quantify opinions about the importance of eye contact in
+social interactions, difficulties with gaze perception owing to their
+vision impairment, and difficulties seeing how people react during
+a conversation. With the exception of one question from the National Eye Institute Visual Function Questionnaire,26 questions
+were devised for the study based on informal discussions with visually impaired individuals. The opinion questions were rated on a
+six-point scale ranging from ‘‘definitely true’’ (1) to ‘‘definitely false’’
+(6), and the difficulty questions were rated on a six-point scale from
+‘‘no difficulty’’ (1) to ‘‘stopped doing this because of your eyesight’’
+(6). A seventh possible response on the difficulty questions was
+‘‘stopped doing this for other reasons or not interested in doing
+this,’’ which was scored as missing data.
+
+Data Analyses
+All statistical analyses were conducted using SPSS 11.5.0
+(Chicago, IL), and an > level of 0.05 was taken to indicate statistical
+significance.
+For the centering gaze perception task, the dependent variables were the mean and SD (i.e., variability within the final
+‘‘straight-ahead’’ gaze positions of the virtual eyes) of the straight ahead gaze judgments. Data for the horizontal and vertical planes
+were analyzed separately using two-way repeated-measures analyses
+of variance (ANOVA) with the factors vision group (scotoma vs.
+nonscotoma vs. normally sighted) and virtual head orientation (horizontal plane: left [j8-] vs. centered [0-] vs. right [8-]; vertical plane:
+down [j8-] vs. centered [0-] vs. up [8-]). Data were analyzed separately for each plane because we did not want to make any assumptions
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 4]
+Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+1003
+
+FIGURE 2.
+Screenshots of direct, straight-ahead gaze for each of the horizontal (top) and vertical (bottom) orientations of the virtual head in the gaze perception task. A
+color version of this ﬁgure is available online at www.optvissci.com.
+
+about an 8- rotation of the virtual head in the horizontal plane equating
+to an 8- rotation of the virtual head in the vertical plane with regard to
+the perception of the straight-ahead gaze position.
+For the decentering gaze perception task, the dependent variables
+were the mean and SD (variability) of the gaze cone width in the
+horizontal and vertical planes. Data were analyzed with a two-way
+repeated-measures ANOVA with the factors vision group (scotoma
+vs. nonscotoma vs. normally sighted) and spatial plane (horizontal vs.
+vertical). Because of a technical recording error, only 12 CVL
+participants with a scotoma and 6 without a scotoma had data for
+the vertical gaze cone width. One normally sighted participant was
+found to be an extreme outlier (three times the interquartile range)
+on the decentering task and was excluded from the analysis.
+Pearson correlation coefficients and Spearman rho were used to
+quantify the relationships between the questionnaire responses, vision
+measures and gaze task measures. Forward and backward stepwise
+multiple linear regression analysis was used to determine the best
+predictors of judgment variability (difficulty) in gaze task performance.
+
+RESULTS
+Sample Characteristics
+The demographics and vision characteristics of the three vision groups (normally sighted, scotoma CVL, and nonscotoma
+CVL) are presented in Table 1. The groups did not differ in sex
+
+distribution (W22 = 0.09, n = 46, p = 0.96), but there was a trend
+for the scotoma CVL group to be older (F2,45 = 2.71, p = 0.08).
+The duration of the CVL was greater for the participants in the
+nonscotoma than for the scotoma group (t21 = 2.40, p G 0.05).
+The three groups did differ significantly in their visual acuity
+(F2,45 = 91.32, p G 0.001) and contrast sensitivity (F2,44 = 34.70,
+p G 0.001). As expected, the normally sighted group had significantly better visual acuity and contrast sensitivity than the scotoma CVL group (p G 0.001 and p G 0.001, respectively) and the
+nonscotoma CVL group (p G 0.001 and p G 0.05, respectively).
+The scotoma and nonscotoma groups, on the other hand, did not
+differ in their visual acuity (p = 0.31), but the scotoma group did
+have poorer contrast sensitivity (p G 0.01).
+
+Gaze Perception Task
+Straight Ahead Gaze Direction
+Surprisingly, there was no main effect of vision group on the
+perception of straight-ahead gaze in either the horizontal or the
+vertical plane. The mean judgments of the nonscotoma CVL
+participants were similar to those of the control subjects when
+centering the gaze in both the vertical and horizontal planes, and
+the mean judgments of the scotoma CVL participants were also
+similar to those of the control subjects in the vertical plane (Fig. 3).
+However, there was an interesting interaction between vision
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 5]
+1004 Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+TABLE 1.
+
+Participant demographics and vision characteristics
+Central vision loss
+Demographics
+Age, mean (SD), y
+Sex (male), %
+Length of vision impairment, mean (SD), y
+Vision measures
+Visual acuity, mean (SD), logMAR,
+Contrast sensitivity, mean (SD), log unitsj
+
+Normally sighted (n = 23)
+
+Scotoma (n = 16)
+
+Nonscotoma (n = 7)
+
+62.5 (16.5)
+52
+V
+
+65.4 (15.0)
+56
+22.8 (14.9)
+
+48.8 (16.8)
+57
+39.3 (15.8)
+
+0.05 (0.09)
+1.87 (0.15)‡
+
+0.72 (0.21)
+1.28 (0.20)
+
+0.60 (0.21)
+1.63 (0.37)
+
+All tests were performed binocularly.
+,Lower scores indicate better performance.
+jHigher scores indicate better performance.
+‡n = 22.
+
+group and head orientation in the horizontal plane (F4,86 = 8.64,
+p G 0.001). On average, the scotoma CVL participants had mean
+judgments of straight ahead that were closer to 0- for the right and
+left head rotations than the judgments of the nonscotoma and
+control participants, which were shifted in the direction of the
+virtual head rotation (Fig. 3A). Overall, this ‘‘attractor’’ effect of the
+virtual head rotation was significant in both the horizontal (F2,86 =
+26.59, p G 0.001) and vertical (F2,86 = 94.70, p G 0.001) planes. It
+should be noted that there were large between-subject differences in
+the patterns of the individual responses of the scotoma CVL participants in the horizontal plane (Fig. 4, bottom), which were not
+related to scotoma size or position. In contrast, the individuals in the
+nonscotoma group all behaved in a reasonably similar manner
+(Fig. 4, top) with head orientation effects that were comparable to
+those observed in the control group (Fig. 3A).
+
+We also examined the variability (SD) of the straight-ahead
+gaze judgments and found a highly significant main effect of vision group in both the horizontal (F2,43 = 18.71, p G 0.001) and
+vertical (F2,43 = 14.83, p G 0.001) planes (Fig. 5). Post hoc analyses
+using the Bonferroni post hoc criterion for significance indicated
+that the scotoma group had significantly greater variability in their
+horizontal and vertical judgments than both the nonscotoma
+group and the normally sighted group (all p G 0.01).
+
+Gaze Cone Width
+The scotoma group tended to have a wider gaze cone than the
+normally sighted group and the nonscotoma group (F2,37 = 1.99,
+p = 0.15) (Fig. 6), as well as more variability in their gaze cone
+width (F2,37 = 4.78, p G 0.05) (Fig. 7). Overall, the horizontal gaze
+
+FIGURE 3.
+Mean group values for the nonscotoma CVL, scotoma CVL, and normally sighted participants of the direction of straight-ahead gaze in the (A) horizontal
+plane when the virtual head was oriented left, center, and right, and (B) the vertical plane when the virtual head was oriented down, center, and up. The
+perceived direction of straight-ahead gaze shifted in the direction of the head rotation; the only exception was the scotoma group in the horizontal plane.
+Error bars indicate the standard error of the mean. Please see Fig. 4 for individual data showing wide between-subject variability in the scotoma group.
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 6]
+Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+1005
+
+FIGURE 4.
+Mean values for each participant of the direction of straight-ahead gaze in the horizontal plane when the virtual head was oriented left, center, and right.
+Top: Each participant in the nonscotoma CVL group. Bottom: Each participant in the scotoma CVL group by whether it was a horizontal or a vertical
+scotoma. There was wide between-subject variability in the response patterns of participants in the scotoma group. By comparison, the head orientation
+effects were more consistent in the nonscotoma group.
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 7]
+1006 Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+FIGURE 5.
+Mean group values for the nonscotoma CVL, scotoma CVL, and normally sighted participants of the SD (judgment uncertainty) of the direction of straight ahead gaze in (A) the horizontal plane when the virtual head was oriented left, center, and right, and (B) the vertical plane when the virtual head was
+oriented down, center, and up. Scotoma participants had more variability in their straight-ahead gaze judgments than the other participants. Error bars
+indicate the standard error of the mean.
+
+cone was significantly wider (F1,37 = 6.66, p G 0.05) with more
+variability in the width (F1,37 = 3.04, p = 0.09) than the vertical
+gaze cone.
+
+As the scotoma group tended to be older, but to have had CVL
+for a shorter time than the nonscotoma group (Table 1), the gaze
+measure ANOVAs were repeated, including 7 scotoma participants
+who were matched in both age and CVL duration to the 7 participants
+in the nonscotoma group, and 14 age-matched control subjects (see
+
+SDC Table 1, available online at http://links.lww.com/OPX/A183).
+The matched scotoma and nonscotoma groups did not differ significantly for visual acuity; however, there was a trend for the scotoma
+group to have poorer contrast sensitivity (see SDC Table 2, available
+online at http://links.lww.com/OPX/A183). Unfortunately, we were
+unable to match scotoma participants to nonscotoma participants
+for age, CVL duration, and contrast sensitivity. The ANOVA results
+for the age-matched groups (see SDC Tables 3 and 4, available online
+at http://links.lww.com/OPX/A183) did not differ from the analyses
+with the age-dissimilar scotoma and nonscotoma groups, suggesting
+
+FIGURE 6.
+
+FIGURE 7.
+
+Mean group values for the nonscotoma CVL, scotoma CVL, and normally sighted participants of their gaze cone width in the horizontal
+plane and the vertical plane. Scotoma participants had a larger gaze
+cone than the other participants. Error bars indicate the standard error
+of the mean.
+
+Mean group values for the nonscotoma CVL, scotoma CVL, and normally
+sighted participants of the SD (judgment uncertainty) of the gaze cone width
+in the horizontal plane and the vertical plane. Scotoma participants had
+more gaze cone width variability than the other participants. Error bars
+indicate the standard error of the mean.
+
+Differences between the Two CVL Groups
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 8]
+Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+that neither age nor CVL duration was a significant factor accounting
+for the differences between the two CVL groups.
+
+Questionnaire Responses
+Most participants with CVL thought that it was definitely
+important to maintain eye contact (87% scotoma group and 86%
+nonscotoma), more so than the normally sighted group (61%)
+(Fig. 8, question 1). However, only 33% of the scotoma group and
+29% of the nonscotoma group said that they definitely did so, as
+compared with 68% of the normally sighted group (Fig. 8,
+question 2). Furthermore, 53% of the scotoma group and 29% of
+the nonscotoma group disagreed with the statement that their
+eyesight had no impact on their ability to communicate, compared with only 6% of the normally sighted participants (Fig. 8,
+question 3). A Kruskal-Wallis test confirmed that the median
+responses of the three groups were significantly different for the
+latter two questions (question 2: W22 = 6.14, n = 40, p G 0.05;
+question 3: W22 = 11.92, n = 40, p G 0.01).
+When asked about perceiving the gaze of others, 40% of the
+scotoma group reported moderate to extreme difficulty, whereas
+
+1007
+
+most of the nonscotoma group reported little to some difficulty
+(Fig. 9, questions 4 and 5). Similarly, more than half of the
+scotoma group (54%) reported moderate to extreme difficulties in
+seeing reactions during a conversation, whereas most of the
+nonscotoma group (71%) reported little to some difficulty (Fig. 9,
+question 6). Not surprisingly, almost all of the normally sighted
+participants reported no difficulties on these three questions. A
+Kruskal-Wallis test confirmed that the median responses of the
+three groups were significantly different for these questions
+(question 4: W22 = 24.79, n = 39, p G 0.001; question 5: W22 = 27.73,
+n = 40, p G 0.001; question 6: W22 = 23.81, n = 40, p G 0.001).
+
+Relationships between Vision Measures,
+Self-Reported Difficulties, and Gaze Measures
+Only gaze task measures in the horizontal plane were included
+in this analysis, as this is the plane in which gaze judgments are
+most frequently made. Age did not have a significant correlation
+with any measure except for presence of a scotoma and contrast
+sensitivity (Table 2). The mean direction of straight-ahead gaze
+did not correlate with vision measures or self-reported difficulty.
+
+FIGURE 8.
+Boxplots of responses for each of the opinion questions by the nonscotoma CVL, scotoma CVL, and normally sighted participants. Open circles are outliers.
+*p G 0.0167 (Bonferroni-adjusted > level).
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 9]
+1008 Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+However, gaze cone width was weakly correlated with visual acuity
+(as visual acuity decreased, gaze cone width increased). Furthermore,
+the variability in both the straight-ahead direction and the gaze
+cone width were significantly related to acuity and contrast sensitivity; judgment variability increased as the level of vision impairment
+increased. There was a very strong correlation between gaze cone
+width and variability: as gaze cone width increased, judgment variability also increased (the same was true for the control participants).
+The responses to the main difficulty question (question 4:
+difficulty in knowing whether someone was looking at you) were
+significantly related to the variability in the straight-ahead direction, but not the variability in the gaze cone width; those who
+reported greater difficulty in knowing whether someone was
+looking at them had more uncertainty in the judgment of straight ahead gaze. Finally, responses to difficulty question 4 were also
+moderately related to visual acuity and the presence of a scotoma
+(participants with greater vision impairment tended to report greater
+difficulty). Although not shown in Table 2, correlation coefficients
+of a similar magnitude were also observed for the other two difficulty
+questions (questions 5 and 6).
+
+Predictors of Measured Difficulty/Uncertainty on the
+Gaze Perception Task
+To identify the best predictors of measured difficulty/uncertainty
+(i.e., variability) on the mutual gaze perception task, we performed
+a stepwise multiple linear regression analysis (Table 3) where the
+independent variables were the three vision measures (visual acuity, contrast sensitivity, and presence of a scotoma), self-reported
+difficulty with gaze perception (question 4), and gaze cone width
+(as this correlated with variability in both the centering and
+decentering task, Table 2). Question 4 was the only difficulty
+question included as it was the most relevant to the gaze perception
+task participants performed in the study. Again, only measures in
+the horizontal plane were considered.
+Contrast sensitivity and self-reported difficulty were significant
+predictors of the variability in judgments of straight-ahead gaze direction (r2 = 0.62, r2[adj] = 0.58, F2,21 = 15.56, p G 0.001), with 31%
+of the unique variance explained by contrast sensitivity and 17%
+explained by self-reported difficulty (Table 3). Presence of a scotoma
+was not a significant predictor. When forced into the regression
+
+FIGURE 9.
+Boxplots of responses for each of the questions addressing difﬁculties with gaze perception and seeing reactions by the nonscotoma CVL, scotoma CVL, and
+normally sighted participants. Response options 6 and 7 are not shown because option 6 was never chosen and option 7 was coded as missing data. Open
+circles are outliers. *p G 0.0167 (Bonferroni-adjusted > level).
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 10]
+Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+1009
+
+TABLE 2.
+
+Correlations between age, presence of a scotoma, vision measures, measures from the gaze perception task in the horizontal
+plane, and self-reported difﬁculty with gaze perception for participants with CVL
+Vision measures
+
+Gaze perception task: horizontal plane
+
+Difficulty question
+
+Scotoma Visual Contrast Straight-ahead SD in straight-ahead Gaze cone SD in gaze
+presence|| acuity, sensitivityj
+direction
+direction
+width
+cone width
+Age
+Scotoma presence*
+Visual acuity,
+Contrast sensitivityj
+Straight-ahead direction
+SD in straight-ahead direction
+Gaze cone width
+SD in cone width
+
+0.46*
+
+0.12
+0.31
+
+j0.50*
+j0.52*
+j0.64**
+
+j0.14
+j0.40
+0.22
+j0.04
+
+0.28
+0.37
+0.65**
+j0.68**
+0.15
+
+0.17
+0.41
+0.42*
+j0.23
+j0.06
+0.45**
+
+Q4: If someone
+looks at you||
+j0.18
+0.45*
+0.52*
+j0.23
+j0.07
+0.55**
+0.40
+0.37
+
+0.23
+0.41
+0.56**
+j0.44*
+j0.03
+0.59**
+0.95**
+
+All values are Pearson correlation coefficients unless otherwise noted. n = 23, except for the difficulty question where n = 22.
+SD = variability (i.e., judgment uncertainty) in measure from the gaze perception task.
+||Spearman correlation coefficient values.
+,Lower scores indicate better performance.
+jHigher scores indicate better performance.
+*p G 0.05.
+**p G 0.01.
+
+model, it only accounted for 2% of the unique variance. The significant predictors of gaze cone width variability were contrast sensitivity and gaze cone width (r2 = 0.95, r2[adj] = 0.94, F2,21 = 165.30,
+p G 0.001). Much of the predictive ability was accounted for by gaze
+cone width (76%), with only 8% contributed by contrast sensitivity.
+Again, presence of a scotoma was not a significant predictor.
+
+DISCUSSION
+Given the loss in visual acuity and contrast sensitivity of the
+CVL participants in this study, we had anticipated that mutual
+gaze perception would be affected to a greater extent than was
+measured in the psychophysical task. Surprisingly, CVL had only
+modest negative effects. The CVL participants without a scotoma
+
+did not differ significantly from the normally sighted control
+subjects in any of the gaze task measures, including their perception and variability of the straight-ahead gaze direction and
+their perception and variability of the range of mutual gaze (gaze
+cone width). The CVL participants with a scotoma did differ
+significantly from the control subjects and the nonscotoma CVL
+group, but not as much as might have been expected. They
+exhibited greater variability in their judgment of straight-ahead
+gaze and tended to have a wider gaze cone in both the horizontal and vertical planes. These results suggest that they had greater
+difficulty performing mutual gaze judgments than the other two
+groups and adopted a more liberal criterion; that is, they were
+more likely to accept a gaze as being directed toward them than the
+nonscotoma and control groups.
+
+TABLE 3.
+
+Results from stepwise multiple linear regression analysis: vision measures, self-reported difﬁculty with gaze perception, and
+(horizontal) gaze cone width as predictors of judgment variability on the mutual gaze perception task in the horizontal plane
+(n = 22)
+Prediction model
+Unstandarized
+Dependent variable
+SD in straight-ahead gaze direction
+
+SD in gaze cone width
+
+Independent variable
+
+B
+
+SE
+
+A
+
+t
+
+p
+
+sr 2
+(unique)*
+
+(Constant)
+Contrast sensitivity
+Difficulty Q4:
+If someone looks at you
+(Constant)
+Gaze cone width
+Contrast sensitivity
+
+11.70
+j5.86
+1.00
+
+2.52
+1.48
+0.37
+
+j0.58
+0.42
+
+4.64
+j3.95
+2.88
+
+0.00
+0.00
+0.01
+
+0.31
+0.17
+
+12.00
+0.46
+j5.81
+
+2.14
+0.03
+1.37
+
+0.89
+j0.23
+
+5.60
+16.23
+j4.24
+
+0.00
+0.00
+0.00
+
+0.76
+0.08
+
+SD, variability (i.e., judgment uncertainty) in measure from the gaze perception task. Excludes all nonsignificant variables. Both
+backward and forward stepping models yielded identical results.
+*sr 2, squared semipartial correlation = proportion of the unique variance contributed by each independent variable.
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 11]
+1010 Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+
+In multiple regression analyses, the main predictors of variability
+in the judgment of the straight-ahead gaze direction were contrast
+sensitivity followed by self-reported difficulty. By comparison, the
+main predictor of variability in the horizontal range of mutual gaze
+was the actual gaze cone width rather than vision measures or self reported difficulty. These findings suggest that gaze perception
+difficulties of people with CVL manifest to a greater extent as
+variability in judging the straight-ahead gaze direction than as an
+increased range of mutual gaze perception.
+Consistent with prior studies,11,16,25 we found that the orientation of the virtual head affected the perception of straight-ahead
+gaze. Specifically, there was a shift of direct gaze toward the direction in which the head was rotated Van ‘‘attractor’’ effectVfor
+both the horizontal and vertical planes. The nonscotoma and control
+groups exhibited similar behaviors in both planes (Fig. 3), with an
+attractor effect of similar magnitude to that reported by Hecht
+et al.16,27 in prior studies of young, normally sighted observers. By
+comparison, the scotoma participants demonstrated an attractor effect of similar magnitude to the other two groups only in the vertical
+plane, but no overall attractor effect in the horizontal plane where the
+mean group straight-ahead gaze direction was close to 0- for both
+leftward and rightward rotations of the virtual head. One possible
+interpretation is that the CVL participants might have been using a
+complex compensatory strategy such that they were less biased by head
+orientation cues than the other participants. However, it seems more
+likely that the widely differing individual response patterns of the
+scotoma CVL participants to the horizontal head rotations (Fig. 4)
+just happened by chance to average out at about 0-.
+There are several possible reasons for the differences in gaze
+perception performance between the scotoma and nonscotoma
+groups. Participants in the scotoma group were older; had acquired,
+rather than congenital vision loss; had a shorter duration of vision
+impairment; had greater impairment in contrast sensitivity (though
+similar impairment in visual acuity); and used a peripheral rather
+than a foveal location for fixation. Our analyses clearly suggest that
+contrast sensitivity was the most important visual factor contributing to the differences. Age was not a significant factor and duration
+of vision impairment was unlikely to be a significant factor because
+all participants had CVL for at least 7 years. One aspect not addressed
+in this study was whether differences in fixation patterns between
+participants in the scotoma and nonscotoma group were related to
+differences in gaze perception and whether scotoma participants used
+any compensatory gaze strategies. For example, in a recent study,28
+people with central scotomas (AMD) had a significantly greater
+proportion of fixations on external facial features (internal features
+included eyes, nose, and mouth) when viewing the image of a face in
+a scanning laser ophthalmoscope, as compared with control participants with or without simulated visual acuity loss.
+How can our findings be interpreted? There can be no doubt that
+the CVL was a substantial impairment in our participants,
+as evidenced by the decrements in visual acuity and contrast sensitivity. Yet, in spite of this low-level impairment, the higher-level
+task of judging gaze direction appeared to have remained largely
+intact. We used a task previously validated as a research tool for
+observers with normal vision,16 which simulated a gaze perception
+situation with good ambient lighting. The task used a single head
+without any other distracting stimuli and specified the direction in
+which the eyes had to be moved to achieve straight-ahead gaze. Thus,
+
+we may have overestimated the gaze perception abilities of participants with CVL relative to the unconstrained situations and less than-optimal viewing conditions encountered in everyday social
+interactions. We selected to use a 1-m viewing distance as a comfortable and realistic distance at which gaze perception judgments are
+typically made. We did not, however, evaluate whether reducing the
+viewing distance (e.g., to 0.5 m) might have improved performance or
+whether people with CVL might compensate for their vision loss by
+making even more use of head orientation cues or other cues that are
+typically related to gaze perception. To address these questions, a
+follow-up study is clearly warranted with a larger sample, less optimal
+viewing conditions, a larger range of head rotations than we used (e.g.,
+up to 30-11,25), and more than one viewing distance.
+To our knowledge, this is the first study to evaluate mutual
+gaze perception of people with vision impairment. Although our
+sample size was relatively small and heterogeneous, our results
+demonstrate that our gaze perception task holds promise as a research tool for investigating the effects of vision impairment on
+mutual gaze judgments and the compensatory strategies that may be
+adopted. Contrast sensitivity was the strongest predictor of gaze
+perception performance. However, self-reported difficulty was also a
+significant independent predictor suggesting that the gaze task
+captured higher-order skills as well as the lower-level visual abilities
+measured by traditional vision tests.
+
+ACKNOWLEDGMENTS
+Supported in part by National Institutes of Health grant T35EY007149
+and the Alice J. Adler Fellowship of the Schepens Eye Research Institute.
+Agnes Münch programmed the gaze cone task. Anna Sterczek assisted with
+data collection.
+The data were presented in part at the annual meeting of the Association
+for Research in Vision and Ophthalmology, Seattle, WA, May 2013.
+Received December 15, 2013; accepted March 17, 2014.
+
+APPENDIX
+The appendix, a six-item questionnaire to quantify opinions about the
+importance of eye contact in social interactions, difficulties with gaze perception due to their vision impairment, and difficulties seeing how people
+react during a conversation, is available online at http://links.lww.com/
+OPX/A180.
+
+REFERENCES
+1. Alma MA, van der Mei SF, Melis-Dankers BJ, van Tilburg TG,
+Groothoff JW, Suurmeijer TP. Participation of the elderly after vision loss. Disabil Rehabil 2011;33:63Y72.
+2. Mitchell J, Bradley C. Quality of life in age-related macular degeneration: a review of the literature. Health Qual Life Outcomes
+2006;4:97.
+3. Wang SW, Boerner K. Staying connected: re-establishing social relationships following vision loss. Clin Rehabil 2008;22:816Y24.
+4. App B, Reed CL, McIntosh DN. Relative contributions of face and
+body configurations: perceiving emotional state and motion intention. Cogn Emot 2012;26:690Y8.
+5. Boucart M, Dinon JF, Despretz P, Desmettre T, Hladiuk K, Oliva A.
+Recognition of facial emotion in low vision: a flexible usage of facial
+features. Vis Neurosci 2008;25:603Y9.
+6. Barnes CS, De L’Aune W, Schuchard RA. A test of face discrimination ability in aging and vision loss. Optom Vis Sci 2011;88:188Y99.
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 12]
+Central Vision Loss and Perception of Mutual GazeVSheldon et al.
+7. Bullimore MA, Bailey IL, Wacker RT. Face recognition in age related maculopathy. Invest Ophthalmol Vis Sci 1991;32:2020Y9.
+8. Tejeria L, Harper RA, Artes PH, Dickinson CM. Face recognition in
+age related macular degeneration: perceived disability, measured
+disability, and performance with a bioptic device. Br J Ophthalmol
+2002;86:1019Y26.
+9. Emery NJ. The eyes have it: the neuroethology, function and evolution of social gaze. Neurosci Biobehav Rev 2000;24:581Y604.
+10. Langton SR. The mutual influence of gaze and head orientation in
+the analysis of social attention direction. Q J Exp Psychol A 2000;
+53:825Y45.
+11. Anstis SM, Mayhew JW, Morley T. The perception of where a face or
+television ‘‘portrait’’ is looking. Am J Psychol 1969;82:474Y89.
+12. Todorovi( D. Geometrical basis of perception of gaze direction.
+Vision Res 2006;46:3549Y62.
+13. Wollaston WH. On the apparent direction of eyes in a portrait. Phil
+Trans R Soc Lond 1824;114:247Y56.
+14. Todorovi( D. The effect of face eccentricity on the perception of gaze
+direction. Perception 2009;38:109Y32.
+15. Wilson HR, Wilkinson F, Lin LM, Castillo M. Perception of head
+orientation. Vision Res 2000;40:459Y72.
+16. Gamer M, Hecht H. Are you looking at me? Measuring the cone of
+gaze. J Exp Psychol Hum Percept Perform 2007;33:705Y15.
+17. Harbort J, Witthöft M, Spiegel J, Nick K, Hecht H. The widening of
+the gaze cone in patients with social anxiety disorder and its normalization after CBT. Behav Res Ther 2013;51:359Y67.
+18. Bach M. The Freiburg Visual Acuity testVautomatic measurement
+of visual acuity. Optom Vis Sci 1996;73:49Y53.
+19. To L, Woods RL, Goldstein RB, Peli E. Psychophysical contrast
+calibration. Vision Res 2013;90:15Y24.
+
+1011
+
+20. Woods RL, Apfelbaum HL, Peli E. DLP-based dichoptic vision test
+system. J Biomed Opt 2010;15:016011.
+21. Bailenson JN, Blascovich J, Beall AC, Loomis JM. Equilibrium
+theory revisited: mutual gaze and personal space in virtual environments. Presence 2001;10:583Y98.
+22. Lloyd DM. The space between us: A neurophilosophical framework for
+the investigation of human interpersonal space. Neurosci Biobehav Rev
+2009;33:297Y304.
+23. Tipples J. Orienting to eye gaze and face processing. J Exper Psychol
+Hum Percept Perform 2005;31:843Y56.
+24. Ewbank MP, Jennings C, Calder AJ. Why are you angry with me?
+Facial expressions of threat influence perception of gaze direction.
+J Vis 2009;9:16.1Y7.
+25. Gibson JJ, Pick AD. Perception of another person’s looking behavior. Am J Psychol 1963;76:386Y94.
+26. Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S, Hays RD.
+Development of the 25-item National Eye Institute Visual Function
+Questionnaire. Arch Ophthalmol 2001;119:1050Y8.
+27. Stevanov J, Uesaki M, Kitaoka A, Ashida H, Hecht H. ‘Face inversion effect’ on perception of the vertical gaze direction. Perception
+2013;42:ECVP Abstract Suppl,199.
+28. Seiple W, Rosen RB, Garcia PM. Abnormal fixation in individuals
+with age-related macular degeneration when viewing an image of a
+face. Optom Vis Sci 2013;90:45Y56.
+
+Alex Bowers
+The Schepens Eye Research Institute
+20 Staniford Street
+Boston, MA 02114
+e-mail: alex_bowers@meei.harvard.edu
+
+Optometry and Vision Science, Vol. 91, No. 8, August 2014
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+

@@ -1,0 +1,1064 @@
+[page 1]
+Ophthalmic & Physiological Optics ISSN 0275-5408
+
+Clinical outcomes of low vision rehabilitation delivered by a
+mobile clinic
+Micaela Gobeille, Alexis Malkin, Richard Jamara and Nicole C. Ross
+New England College of Optometry, Boston, USA
+
+Citation information: Gobeille M, Malkin A, Jamara R & Ross NC. Clinical outcomes of low vision rehabilitation delivered by a mobile clinic.
+Ophthalmic Physiol Opt 2018; 38: 193–202. https://doi.org/10.1111/opo.12440
+
+Keywords: epidemiology, low vision
+
+Abstract
+
+Correspondence: Nicole C Ross
+E-mail address: rossn@neco.edu
+
+Purpose: This prospective cohort study examined clinical outcomes of low vision
+rehabilitation (LVR) delivered by a mobile clinic.
+Methods: Participants were recruited from those scheduled for mobile clinic LVR
+and met the United States definition of legal blindness. Participants completed
+the Massof Activity Inventory (AI) before LVR, 3 months post-LVR, and 1 year
+post-LVR. Change scores and measures of clinical effect (i.e. Cohen’s effect size
+and minimum clinically important difference, MCID) were calculated for each
+time point and compared. Additional participant characteristics (age, acuity, contrast sensitivity, cause of visual impairment, training recommendations, and prior
+LVR experience) were also explored with respect to outcome measures.
+Results: Of the 66 participants enroled in this study, 47% had no prior LVR experience. Significant differences were noted between baseline and 3-month person
+measures, and between baseline and 1-year person measures. There was no significant difference between 3-month and 1-year person measures, nor was there a
+significant difference in change score between these two time points. At 1 year
+post-LVR, overall visual ability effect size was 0.74. A clinically meaningful outcome
+was achieved in 56% of participants at 3 months and 71% at 1 year for overall
+visual ability. There was no significant difference in the proportion of participants
+achieving MCID at 3 months vs 1 year. Of participants who completed the 1-year
+post-LVR AI, 59% reported a subjective worsening of vision during the study
+period. This subgroup also tended to have smaller 1-year change scores.
+Conclusions: Mobile clinic LVR is effective at expanding access to care and produces clinically meaningful outcomes comparable to those seen in other outpatient LVR delivery models.
+
+Received: 25 August 2017; Accepted: 12
+December 2017
+
+Introduction
+Visual impairment is a highly prevalent problem, affecting
+approximately three million Americans and increasing in
+incidence as the population ages.1 With this expanding
+population, effective and accessible low vision rehabilitation (LVR) provision becomes a pressing concern. Randomised clinical trials conducted in Veterans Affairs (VA)
+hospital-based programmes have evaluated effectiveness of
+intensive rehabilitation service delivery models.2–4 Private
+outpatient LVR has also been shown to produce clinically
+
+meaningful outcomes in the United States.5,6 Additionally,
+a primary care-based low vision service has been shown to
+improve outcomes and expand access to LVR in Wales.7
+However, no prior study has evaluated the effectiveness of
+mobile clinic LVR.
+Outcome studies have relied on various visual function
+questionnaires to evaluate a clinical intervention’s impact
+on quality of life. These questionnaires ask patient to self report the difficulty performing a number of visually
+mediated tasks or goals. Utilising Rasch Analysis, a measurement of a person’s visual ability is obtained by
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+193
+
+
+[page 2]
+Mobile clinic low vision outcomes
+
+M Gobeille et al.
+
+comparing self-reported difficulty for each item with the
+inherent level of difficulty of that item (i.e. item measure).
+The Massof Activity Inventory (AI) is one such validated
+questionnaire which has been implemented, measured, and
+calibrated with nearly 3000 low vision patients.8,9 The AI
+makes use of a hierarchical activity breakdown structure,
+with 460 tasks serving one of 50 larger goals.9
+When completing the AI, a person first rates the importance of a visually mediated goal. He/she then rates his/her
+difficulty (‘Slightly Difficult’, ‘Moderately Difficult’, ‘Very
+Difficult’, ‘Impossible to do without Help from Another
+Person’, ‘Not Applicable’), accomplishing each task that is
+related to that goal if the goal was rated as important. Due
+to this adaptive format coupled with Rasch Analysis, a
+visual ability variable is approximated in such a way that it
+is impacted only by goals and tasks rated as important and
+difficult at baseline. Additionally, the AI’s many items span
+a broad range of item measures, limiting the likelihood that
+floor and ceiling effects will impact outcomes. This allows
+accurate and precise measurement, making the AI a powerful tool to measure LVR outcomes.
+This prospective cohort study uses the AI to examine
+outcomes from LVR provided by a mobile clinic, which
+travelled to areas with an identified scarcity of low vision
+providers. Outcomes are explored in comparison to previous work completed in other delivery models. Additional
+factors such as participant characteristics and training recommendations are also examined in relation to outcome
+measures.
+
+Methods
+Participants
+Participants were recruited between May 2015 and October
+2016. All patients scheduled for mobile clinic LVR were
+contacted by telephone prior to their examination to determine eligibility and interest in study participation. Patients
+who elected to enrol as participants were required to be legally blind according to 2014 United States Social Security
+standards10 (i.e. better seeing eye worse than 0.70 LogMAR
+(20/100 or 6/30 Snellen Equivalent) and/or visual field subtending less than 20 degrees in the largest diameter) at time
+of enrolment. Participants were at least 14 years of age and
+able to complete the AI in English by telephone on three
+separate occasions as dictated by study protocol. Use of a
+telephone questionnaire excluded those with inadequate
+English fluency and/or telephone access to comply with
+data collection procedures. Participants with a medical or
+self-reported history of cognitive impairment were also
+excluded (Figure 1). The study protocol was approved by
+the New England College of Optometry Institutional
+Review Board and followed the tenets of the Declaration of
+Helsinki. All participants provided both oral and written
+informed consent.
+Clinical examination and study setting
+Mobile clinic examinations were delivered to provide usual
+LVR. The mobile clinic consists of two, 10 foot fully-
+
+Figure 1. Enrolment flow chart.
+
+194
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+
+[page 3]
+M Gobeille et al.
+
+Mobile clinic low vision outcomes
+
+equipped optometric examination lanes with trial lenses for
+trial frame refraction, visual acuity charts (e.g. Feinbloom
+and Early Treatment Diabetic Retinopathy Study), Mars
+Contrast Sensitivity charts, MNREAD near charts, slit lamp
+microscope, retinoscope, binocular indirect ophthalmoscope, diagnostic lenses, optical coherence tomography
+imaging, and an assortment of visual assistive equipment
+(Table 1). Examinations were conducted by final-year
+optometry doctoral interns under the direct supervision
+and in concert with licensed LVR optometrists. The LVR
+examination included visual acuity, contrast sensitivity,
+confrontation visual field assessment, Amsler grid central
+field assessment, retinoscopy, trial frame refraction, visual
+assistive equipment (VAE) assessment, and ocular health
+evaluation.
+During VAE assessment, equivalent dioptric power
+required for reading 1.0M print was determined using the
+inverse of the critical print size as assessed by MNREAD
+continuous text chart,11 while participants wore their best
+reading correction. Distance magnification starting points
+
+Table 1. Devices available for participants
+Hand magnifiers
+Pocket magnifiers
+Stand magnifiers
+
+Prism half eyes
+Microscope fit set
+Loupes
+Telemicroscope
+Electronic
+magnification
+Optical character
+recognition
+Filters
+Telescopes
+
+Field expansion
+Other
+
+10 to 50 D, LED illumination available in
+white or yellow light
+6D to 38D
+LED illuminated with white or yellow light
+3 to 159, Dome magnifier, Eschenbach
+Makrolux (2.29, 3.69), Eschenbach
+Scribolux magnifier
++4D/6D base out to +14D/16D base out
+29 (8 D) to 89 (32 D)
+All available Eschenbach loupes,
+Donegan optivisor in all available dioptric powers
+2.29 Max Detail spectacle or clip
+Portable (Ruby, Smartlux, Pebble, Optelec)
+and desktop models (Topaz and Magnilink Zip)
+AbiSee OCR, KNFB reader application on iPad
+Fitover filters in all available NoIR and
+Eschenbach tints
+2.29 Max TV (spectacles and clip), monocular
+telescopes (2 9 20, 3.15 9 25, 4 9 12, 6 9
+16, 8 9 21; Keplerian and Galilean designs),
+bioptic telescope fitting sets (complete designs
+for vision telescope fitting set, Ocutech Sight
+Scope fitting set, Ocutech VES telescope fitting
+set, Ocutech instamount 2.29 telescope)
+Ocutech image minifier (0.59),
+Peli peripheral prisms
+Mattingly smart reading light clip, Verilux floor
+and stand daylight lamps, clip-boards and writing
+stands, Zoomtext software trial, Fresnel prism,
+Bangerter occlusion foils, conventional spectacle
+frames with optical services coordinated offsite
+
+were determined based on distant goal text size and visual
+acuity while wearing optimal distance correction.12 A broad
+range of VAE were available for evaluation (Table 1). Evaluated VAE were then titrated to meet the individual’s needs
+and preferences. If improvement was demonstrated (e.g.
+increased reading fluency, smaller threshold, subjective
+improvement, attainment of goal), VAE was recommended. Recommended VAE were provided at no charge
+to the patient through a grant administered by the state
+commission for the blind. VAE were dispensed on site or
+ordered and delivered at a later date, most often within
+3 months.
+While the literature has demonstrated that electronic
+devices are preferred for leisure reading,13 optical magnifiers were preferentially provided in this study due to the
+grant structure and coverage regulations in place. As such,
+for this study population electronic magnification was
+recommended whenever optical magnification strategies
+proved insufficient to meet participant goals (i.e. due to
+severely reduced contrast sensitivity or functionally significant scotoma and visual field loss).
+Recommendations and referrals for orientation and
+mobility training, device use training, technology assessment, activity of daily living (ADL) skills training, follow
+up LVR, or follow up ocular health examination were
+provided when indicated. Training recommendations
+were made based on clinical examination and subjective
+report of difficulty elicited by directly questioning participants. Orientation and mobility training was recommended for participants who reported concerns regarding
+safe navigation of their environment, had a significant
+history of falls, or reported a fear of falling. Those who
+reported difficulty achieving daily living tasks were
+referred for ADL training. Participants who identified
+adaptive computer access (i.e. screen magnification and/
+or reader) as a rehabilitation goal were referred for technology assessment. Those who were not able to demonstrate efficient use of recommended VAE by the end of
+their mobile clinic examination were referred for further
+device use training by a local rehabilitation therapist. Follow up LVR or ocular health examinations were recommended for any participant whose functional or ocular
+health needs were not entirely met by mobile clinic LVR
+(e.g. need for follow up care prior to next mobile clinic
+visit or outside the scope of care available on the
+mobile clinic). Training recommendations were facilitated
+through the local state rehabilitation agency (the regional
+offices of the Massachusetts Commission for the Blind)
+and follow up care was coordinated by the mobile clinic
+LVR optometrist. The number of rehabilitation therapy
+and/or training visits was determined independently by
+local rehabilitation therapists based on a participant’s
+needs.
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+195
+
+
+[page 4]
+Mobile clinic low vision outcomes
+
+M Gobeille et al.
+
+Data collection
+
+Data analysis
+
+Participants completed the AI prior to receiving mobile
+clinic LVR, 3 months (14 days) after LVR, and 1 year
+(60 days) after LVR. One research assistant administered
+all phone questionnaires pertaining to this study. Participants who did not complete LVR were contacted in an
+attempt to obtain follow up data, but were unable to be
+reached by telephone. Thus, outcomes could not be
+assessed from these participants.
+Demographic and clinical examination data were
+recorded during LVR. Demographic variables included age,
+incoming self-reported systemic and ocular diagnoses, and
+self-reported prior LVR examination experience. Clinical
+examination data included best corrected visual acuity
+measured by electronic LogMAR chart or, if necessary (i.e.
+visual acuity worse than 1.60 LogMAR [20/800 or 6/240
+Snellen Equivalent]) a Feinbloom number chart.14 Also
+included were: Mars Contrast Sensitivity (if visual acuity
+was 1.48 LogMAR [20/600 or 6/182 Snellen Equivalent] or
+better),15 VAE recommendations, training recommendations, and follow up recommendations.
+
+Data collected by AI were filtered so that items rated as not
+difficult at baseline were scored as missing throughout all
+analyses.16 Filtered AI data underwent Rasch Analysis
+(www.winsteps.com) to estimate person measures for overall visual ability as well as for seven functional domains:
+reading, visual information, visual motor, mobility, IADL,
+inside the home activities, and outside the home activities.
+A three (time: baseline, 3 months, 1 year) by eight (AI
+domains: overall visual ability, seven AI sub-score domains)
+within subject analysis of variance was conducted to
+explore significant improvements in person measures at
+each of these time points using SPSS Statistics (www.ibm.
+com). This was then followed with a principle component
+and a principle axis factoring analyses of baseline AI person
+measures.
+Change scores (e.g. differences between baseline and
+3-month post-LVR person measures, and baseline and
+1-year post-LVR person measures) were computed. Student
+t-tests were conducted to explore statistically significant
+differences at the 95% confidence level.
+Cohen’s effect sizes (d coefficients) and MCID were then
+calculated using Excel (www.office.microsoft.com) to measure clinical effect in each domain as well as overall goals.
+Cohen’s effect size was calculated as mean change score
+across participants divided by change score standard deviation. MCID was calculated for each participant by dividing
+change score by 1.96 (derived from the 95% confidence
+interval) times the standard error. Proportion of participants who achieved MCID (i.e. calculation greater than 1)
+was reported. As such, MCID is informative in terms of the
+proportion experiencing a clinically meaningful outcome,
+while d coefficients provide information regarding overall
+clinical effect magnitude. Participants who completed all
+follow up questionnaires (3 months and 1 year) were
+included in the analyses, as no trends or biases were
+observed in those who withdrew from the study. To determine significant changes in proportions between 3 months
+and 1 year a McNemar test was conducted.
+To explore possible predictors between AI person measures and clinical examination measures (i.e. binocular logMAR visual acuity, binocular log contrast sensitivity, and
+age) a series of correlations were conducted. A follow up
+one-way analysis of variance (ANOVA) with Bonferroni technique to control for inflated type I error was performed,
+allowing further investigation of AI change score predictors. This was followed by a multi-linear regression. All statistical analysis was performed with SPSS (www.ibm.com).
+To assess the relationships of additional referrals (e.g.
+orientation and mobility training, rehabilitation therapy,
+technology assessment, follow up clinical LVR evaluation)
+on 1-year change scores, a series of bi-serial correlations
+
+Outcome measures
+Similar to previous studies,6 the primary outcome measure
+was change in overall visual ability, estimated from participants’ difficulty ratings of AI goals at baseline, at 3 months,
+and at 1 year after the initial LVR evaluation. Secondary
+outcome measures were estimated from difficulty ratings of
+specific subsets of AI tasks, which included reading; mobility; visual information; visual motor functioning; instrumental activities of daily living function (IADL); inside the
+home functional ability; and outside the home functional
+ability. Item measures and response thresholds for each difficulty rating category were calibrated from the responses
+of over 3000 low vision patients, as described by Massof
+et al.8,9
+Effect size of AI change scores, and percentage of participants achieving a minimum clinically important difference
+(MCID) post-LVR were also explored and compared to
+other LVR models of care.
+Sample size
+A Cohen’s effect size of 0.42 was the smallest determined in
+the Low Vision Rehabilitation Outcomes Study (LVROS).6
+Results of the power analysis to detect a Cohen’s d of 0.42
+with alpha set at p < 0.05 and power of 0.80 indicated a
+sample of N = 49. A mobile clinic delivery model may create unique challenges to participant retention, so estimating
+a 20% drop-out rate, our target sample size was increased
+to N = 63.
+
+196
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+
+[page 5]
+M Gobeille et al.
+
+Mobile clinic low vision outcomes
+
+were conducted between each type of referral with 1-year
+change scores for each AI domain result.
+Results
+Participants
+Among participants (n = 66), the most common ocular
+diagnosis was age-related macular degeneration, although
+visual conditions which primarily affect peripheral vision
+(e.g. glaucoma, retinitis pigmentosa) were also present at
+high levels (Figure 2). Many participants had multiple ocular diagnoses (n = 44), and the mean number of systemic
+comorbidities was 2.45 (self-report). Psychosocial problems
+(e.g. anxiety, depression), heart disease, and neurological
+disorders were highly prevalent.
+Mean baseline visual acuity was moderately reduced17 at
+0.93 logMAR (S.D. = 0.45, 20/170 or 6/50 Snellen equivalent). Average log contrast sensitivity was severely reduced17
+at 0.87 log CS (S.D. = 0.40) (Table 2). Of participants
+enrolled in the study, 60 had severe visual impairment – 49
+based on acuity (i.e. VA 1.00 logMAR (20/200 or 6/60 Snellen
+equivalent) or worse) and 11 based exclusively on visual field
+(i.e. incoming visual field findings subtending less than 20
+degrees in largest field diameter in the better seeing eye). Only
+six participants had mild to moderate visual impairment.
+Most participants were female (64%), and ages ranged
+from 17 to 92 years, with a mean of 72.5 years and a median of 65.6 years (Table 2). Forty-seven percent had never
+previously had an LVR examination. Mean baseline overall
+goal visual ability was 0.33 logits, which is well within the
+range targeted by the AI.9 As such, the AI is unlikely to yield
+results limited by floor or ceiling effects in this sample.
+Outcome measures
+Figure 3 illustrates the person measures for overall goals and
+for each of the seven AI domains at baseline, 3 months and
+Age-related macular
+degeneration (37%)
+Other macula (10%)
+Glaucoma (11%)
+Other optic nerve (9%)
+Retinitis pigmentosa (10%)
+Diabetic retinopathy (7%)
+Other (16%)
+Figure 2. Primary cause of visual impairment. Other conditions
+included: congenital cataract (n = 2), retinopathy of prematurity (n = 2),
+neurological visual field loss (n = 2), chronic uveitis (n = 2), other unspecified congenital vision loss (n = 2), and cytomegalovirus retinitis (n = 1).
+
+Table 2. Baseline subject characteristics
+Characteristic or measure
+
+Mean (S.D.)
+
+Visual acuity (better eye, LogMAR)
+Binocular MARS contrast sensitivity (log CS)
+Age (years)
+Gender
+Percent experiencing first LVR examination
+
+0.93 (0.45)
+0.87 (0.40)
+72.5 (21.0)
+64% female, 36% male
+47%
+
+LVR, low vision rehabilitation.
+
+1 year. At 3 months, person measures were significantly larger than at baseline after Bonferroni correction (p < 0.0001),
+with a positive mean change score in each domain (Table 3).
+Outcomes seen at 3 months were retained 1-year post-LVR;
+no significant differences were noted between 3-month and
+1-year person measures for each AI domain; the finding was
+non-significant.
+A principle axis factoring analysis was performed on
+baseline person measures of goals, reading, mobility, visual
+information and visual motor. IADL, inside the home, and
+outside the home were not included as these domains contain many of the same tasks already included in the other
+domains. In this sample, the first principle component
+accounted for 72% of the variance. Given that previous
+reports by Massof et al. support that visual ability is a composite variable with at least two dimensions, a two-dimensional factor analysis using principle axis factoring was
+performed on the five sets of person measures with varimax
+rotation. Figure 4 shows the factor plot, which illustrates
+that while reading loads most heavily on one factor, mobility loads on the other.
+Cohen’s effect size for overall visual ability was 1.12 at
+3 months and 0.74 at 1 year. Across domains, 1-year effect
+sizes ranged from 0.43 in visual information to 0.71 in
+inside the home activities (Table 3). A majority of participants achieved clinically meaningful outcomes in overall
+visual ability and in all domains (change in person measure
+>1.96 standard errors of baseline person measure estimate).
+Seventy-one percent of participants achieved MCID in
+overall visual ability at 1 year. This was most frequently
+achieved inside the home (65%) and least frequently
+achieved in visual information (49%) (Figure 5). There was
+no statistically significant difference in the percentage of
+participants who achieved MCID at 3 months vs 1 year
+across the seven AI domains.
+Predictors of LVR outcome
+A series of correlations were conducted between age, binocular logMAR visual acuity, binocular log contrast sensitivity
+and baseline person measures for overall goals and each AI
+domain. LogMAR visual acuity was negatively correlated
+with baseline overall goals ( 0.37, p < 0.001). Log contrast
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+197
+
+
+[page 6]
+Mobile clinic low vision outcomes
+
+M Gobeille et al.
+
+AI person measure (logits)
+
+Baseline
+1.0
+
+3 months
+
+0.8
+
+1 year
+
+0.6
+0.4
+0.2
+0.0
+–0.2
+
+Outside Home
+
+Inside Home
+
+IADL
+
+Mobility
+
+Visual Motor
+
+Visual Information
+
+Reading
+
+–0.6
+
+Goals
+
+–0.4
+
+AI domain
+Figure 3. Person measures at baseline, 3-month and 1-year time points. A three (time: baseline, 3 months, 1 year) by eight (overall goals and seven
+AI domains) within subject analysis of variance demonstrated significant improvements in person measures at each time point. Significant differences
+were identified between baseline and 3-month person measures (logits) for all AI domains (p < 0.0001). No significant differences were found
+between 3-month and 1-year person measures.
+
+sensitivity was positively correlated with baseline overall
+goals (0.43, p < 0.001). Effects of age were negatively correlated with baseline person measures, but were not significant.
+A series of multiple regressions were conducted where
+age, binocular logMAR visual acuity, binocular log contrast
+sensitivity, subjective report of worsening vision during the
+study period, and previous exposure to LVR prior to the
+study period were regressed on each AI domain change
+score at 1 year. Of participants who completed 1-year follow up (n = 51), 30 self-reported a significant worsening of
+vision over the past year. Those who reported worsening
+vision during the study period were advised to follow up
+with the mobile clinic or their local eye-care provider. Part
+correlations are shown in Table 4. Subjective report of
+worsening vision emerged as a significant predictor when
+controlled by the other variables for the AI domains of
+visual information, IADL and outside the home activities.
+A series of one-way ANOVAs were conducted with peripheral vision loss, central vision loss or combined visual loss
+as a fixed factor with the 1 year change score for each of the
+eight AI domains as the dependent variable. Results failed
+to achieve statistical significance on each of these analyses.
+Referral patterns
+Of the 66 participants, 22 were referred for orientation and
+mobility training while 16 were referred for rehabilitation
+198
+
+Table 3. Activity Inventory change scores at each time point; overall
+goals in bold
+
+Goals, 3 months
+Reading, 3 months
+Visual information,
+3 months
+Visual motor,
+3 months
+Mobility,
+3 months
+IADL, 3 months
+Inside home,
+3 months
+Outside home,
+3 months
+Goals, 1 year
+Reading, 1 year
+Visual information,
+1 year
+Visual motor,
+1 year
+Mobility, 1 year
+IADL, 1 year
+Inside home,
+1 year
+Outside home,
+1 year
+
+Mean
+change
+score
+
+Standard
+deviation
+
+Cohen’s d
+coefficient
+
+95%
+confidence
+interval
+
+0.51
+0.76
+0.26
+
+0.45
+0.99
+0.45
+
+1.12
+0.76
+0.59
+
+1.00–1.25
+0.49–1.04
+0.46–0.71
+
+0.56
+
+0.60
+
+0.93
+
+0.77–1.10
+
+0.44
+
+0.80
+
+0.55
+
+0.33–0.77
+
+0.52
+0.63
+
+0.54
+0.79
+
+0.97
+0.80
+
+0.82–1.12
+0.58–1.02
+
+0.39
+
+0.57
+
+0.69
+
+0.54–0.85
+
+0.53
+0.56
+0.29
+
+0.71
+1.13
+0.66
+
+0.74
+0.50
+0.43
+
+0.54–0.93
+0.19–0.81
+0.25–0.62
+
+0.58
+
+0.97
+
+0.60
+
+0.34–0.87
+
+0.31
+0.47
+0.59
+
+0.79
+0.82
+0.83
+
+0.39
+0.58
+0.71
+
+0.17–0.61
+0.35–0.80
+0.49–0.94
+
+0.27
+
+0.81
+
+0.33
+
+0.11–0.56
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+
+[page 7]
+M Gobeille et al.
+
+therapy (i.e. ADL and/or device use training) (Table 5). A
+series of bi-serial correlations were conducted between each
+type of referral with 1-year change scores for each AI domain,
+and results failed to reveal any significant relationships.
+One-year follow up on the mobile clinic with the optometrist was routinely recommended unless otherwise indicated. A follow up mobile clinic examination within the
+1 year study period was recommended for 26 participants,
+of which 14 participants complied. Of the participants who
+had multiple visits on the mobile clinic, eight participants
+had two visits, five participants had three visits and one
+participant had four visits within the study period. Due to
+small cell size further analysis was not possible.
+Discussion
+Mobile clinic LVR produced moderate to large clinical outcomes at 3 months (d = 1.12) and 1 year (d = 0.74). There
+was a clinically significant effect in a majority of participants (56% and 71% respectively). These findings are, overall, similar to what has previously been reported in other
+delivery models (Figure 6). The mobile clinic outcomes are
+
+Mobile clinic low vision outcomes
+
+most similar to those seen in LVROS6 and the Low Vision
+Depression Prevention Trial (VITAL),18,19 and are larger
+than some other outpatient LVR delivery models.2,20
+A Welsh primary care based low vision service measured
+a change score of 0.79 logits using the seven-item NEIVFQ.7 While this is larger than the change score observed
+in this study, the apparent discrepancy may be explained by
+differences in both the analysis technique (Cohen’s effect
+size and MCID not reported) and the survey questionnaire
+employed (the NEI-VFQ has been shown in other publications to be less robust9).
+Participant demographics from the mobile clinic are different from those seen in VA hospital outcome studies in
+terms of age, gender distribution, and underlying aetiology
+of visual impairment. Additionally, many VA hospital based studies have been able to measure outcomes via
+randomised clinical trial, which is less likely than cohort
+studies to inflate results due to placebo and Hawthorne
+effects. These differences may qualify comparison between
+the mobile clinic and VA hospital LVR outcomes. Two VA
+hospital-based studies included in this analysis made use of
+a waiting list control.2,3
+
+Figure 4. Factor analysis plot of five sets of person measures. These findings support previous reports, reading loads most heavily onto one factor
+and mobility loads most heavily on the other.
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+199
+
+
+[page 8]
+M Gobeille et al.
+
+100%
+
+3 month
+
+90%
+
+1 year
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+Outside home
+
+Inside home
+
+IADL
+
+Mobility
+
+Visual motor
+
+Visual information
+
+Reading
+
+0%
+Goals
+
+Percent of participants achieving MCID
+
+Mobile clinic low vision outcomes
+
+AI domain
+
+Figure 5. Minimum clinically important difference (MCID) at 3 months and 1 year. Percentages of participants who achieved the MCID based on
+Activity Inventory (AI) outcomes at 3 months (red bars) and 1 year (blue bars) are shown for overall visual ability (goals) as well as each AI domain (i.e.
+reading, visual information, visual motor, mobility, instrumental activities of daily living [IADL], inside the home, and outside the home). MCID was less
+frequently achieved at 3 months than at 1 year for all domains. In overall visual ability (goals), MCID was achieved in 56% of participants at 3 months
+and 71% of participants at 1 year.
+
+Table 4. Part correlations for 1 year change score for each domain and age, binocular visual acuity (VA in logMAR), binocular log contrast sensitivity,
+subjective reported worsening vision, and previous exposure to low vision rehabilitation (LVR)
+
+R2
+All goals
+Reading
+Visual information
+Visual motor
+IADL
+Inside the home
+Outside the home
+
+0.14
+0.12
+0.22*
+0.04
+0.15
+0.90
+0.17
+
+Age
+0.05
+0.12
+0.02
+0.05
+0.08
+0.05
+0.09
+
+LogMAR VA
+0.16
+0.02
+0.16
+0.06
+0.06
+0.03
+0.19
+
+LogCS
+0.02
+0.03
+0.05
+0.07
+0.02
+0.08
+0.03
+
+Subjective
+worsening of vision
+0.29*
+0.22
+0.40*
+0.16
+0.30*
+0.18
+0.32*
+
+Previous
+exposure to LVR
+0.12
+0.20
+0.15
+0.02
+0.19
+0.21
+0.09
+
+*p < 0.05.
+
+Table 5. Referrals provided to participants
+Referral type
+
+Count
+
+Orientation and mobility training
+Rehabilitation therapy
+Technology assessment
+Follow up examination
+
+28
+16
+23
+26
+
+Outcomes seen in the VA Blind Rehabilitation Centre
+are substantially larger than those from the mobile clinic.2
+The Low Vision Intervention Trial (LOVIT) studies measured outcomes 4 months post-LVR and only enroled participants who had macular disease.3,4 Outcomes from the
+mobile clinic are smaller than those reported in LOVIT I,3
+and similar to those from LOVIT II.4 Participants in
+LOVIT I were more severely impaired (VA 0.7 to 1.4
+
+200
+
+logMAR, Snellen equivalent 20/100 or 6/30 to 20/500 or 6/
+150) than those enroled in LOVIT II4 (VA 0.4 to 1.0 LogMAR, Snellen equivalent 20/50 or 6/15 to 20/200 or 6/60).
+With a mean acuity of 0.93 LogMAR (20/170 or 6/50 Snellen equivalent) observed in the mobile clinic participants,
+degree of visual impairment is intermediate to the two
+LOVIT studies.
+Mobile clinic LVR change scores at 3 months were
+retained 1 year post-LVR. Additionally, 59% of participants reported a subjective worsening of vision at 1 year,
+which was shown to significantly affect outcomes in the
+domains of visual information, IADL, and outside the
+home. Device abandonment and clinical follow up schedules should be explored in consideration of these findings.
+Follow up LVR may be particularly important in patients
+whose ocular disease is progressive and likely to cause further decrease in visual function. The impact of follow up
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+
+[page 9]
+M Gobeille et al.
+
+Mobile clinic low vision outcomes
+
+2.50
+
+Cohen's d coefficient
+
+2.00
+
+1.50
+
+1.00
+
+0.50
+
+Study
+
+LOVIT II, LVR
+20/63-20/200
+
+LOVIT II basic LV
+20/63-20/200
+
+LOVIT I
+
+Stelmack 2006
+Inpatient
+
+Stelmack 2006
+Outpatient
+
+Lamoureux 2006
+
+VITAL (ST+LVR)
+
+VITAL (BA+LVR)
+
+LVROS
+
+Mobile Clinic (3
+month)
+
+Mobile Clinic (1
+year)
+
+0.00
+
+Figure 6. Cohen’s effect size comparison across prior studies. Cohen’s effect sizes measured in previous studies using visual function questionnaire
+data after Rasch analysis are shown above. Reported effect sizes range from 2.51 seen in LOVIT to 0.25 measured in Lamoureux 2006. The mobile
+clinic outcomes from this study were 1.12 at 3 months and 0.74 at 1 year.
+
+schedule has not yet been thoroughly explored, although a
+growing body of literature begins to show enhanced outcomes with additional non-optometric vision rehabilitation
+services.4,21
+The high prevalence of glaucoma and retinitis pigmentosa in this sample led to analysis of LVR outcomes with
+respect to cause of visual impairment (i.e. central vision
+loss, peripheral vision loss, or a combination). However,
+type of visual loss was not found to be a significant predictor of outcomes. This analysis has some limitations. Participants were assigned to groups based on aetiology of visual
+impairment and presenting better eye visual acuity. Consequently, there is potential for error due to misclassification.
+Additionally, as Goldmann or automated visual field assessment is not possible on the mobile clinic, these data are not
+directly available for all participants. Participants were
+encouraged to continue care with their local eye care provider for these measures and as medically indicated. As such,
+the extent of visual field loss cannot be correlated with subjective outcome measures. This warrants further analysis
+and investigation.
+In addition to the clinical outcomes produced, the
+mobile clinic was also successful at expanding access to
+LVR. The large proportion of participants who had no LVR
+experience prior to mobile clinic examination (47%) suggests that these patients would otherwise be unable to
+access LVR.
+Strengths of this study include the use of the AI and
+Rasch Analysis, as well as an adequate sample size and
+excellent participant retention 3 months post-LVR. Limitations include lower retention 1 year post-LVR. In addition,
+participants enrolled in this study had severe visual impairment, and as such, results in a sample with mild to
+
+moderate visual impairment may differ. Finally, randomisation to a control group could not ethically be used in this
+study’s design.
+This work shows that mobile clinic LVR can produce
+outcomes comparable to those seen in other delivery models. Further research will explore device abandonment in
+patients receiving mobile clinic LVR.
+Acknowledgements
+We would like to acknowledge Gary Chu OD MPH,
+Anthony J Guarino PhD and Robert Massof PhD for their
+contributions to this work. We also extend our thanks to the
+anonymous reviewers for their insightful suggestions to this
+manuscript. This research was supported by the National
+Institutes of Health (NIH T35EY007149); Beta Sigma Kappa
+Student Research Grant 2017; Minnie Flaura Turner 2017
+Fund for Impaired Vision Research; and the Massachusetts
+Commission for the Blind Mobile Clinic Support Grant.
+Disclosures
+The corresponding author, Professor Nicole Ross serves as
+a consultant for Genentech and has served on Advisory
+Boards for Genentech Inc. Professor Ross has received
+honoraria and travel support from Genentech as part of her
+participation on the advisory board.
+References
+1. Massof RW. A model of the prevalence and incidence of low
+vision and blindness among adults in the U.S. Optom Vis Sci
+2002; 79: 31–38.
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+
+201
+
+
+[page 10]
+Mobile clinic low vision outcomes
+
+M Gobeille et al.
+
+2. Stelmack JA, Szlyk JP, Stelmack TR et al. Measuring outcomes of vision rehabilitation with the Veterans Affairs Low
+Vision Visual Functioning Questionnaire. Invest Ophthalmol
+Vis Sci 2006; 47: 3253–3261.
+3. Stelmack JA, Tang X & Reda D. Outcomes of the verterans
+affairs low vision intervention trial (LOVIT). Arch Ophthalmol 2008; 126: 608–617.
+4. Stelmack JA, Tang X, Wei Y et al. Outcomes of the veterans
+affairs low vision intervention trial II (LOVIT II): a randomized clinical trial. JAMA Ophthalmol 2017; 135: 96–104.
+5. Goldstein JE, Chun MW, Fletcher DC, Deremeik JT & Massof RW. Visual ability of patients seeking outpatient low
+vision services in the United States. JAMA Ophthalmol 2014;
+132: 1169–1177.
+6. Goldstein JE, Jackson ML, Fox SM, Deremeik JT & Massof
+RW. Clinically meaningful rehabilitation outcomes of low
+vision patients served by outpatient clinical centers. JAMA
+Ophthalmol 2015; 133: E1–E8.
+7. Ryan B, White S, Wild J, Court H & Margrain TH. The
+newly established primary care based Welsh Low Vision Service is effective and has improved access to low vision services in Wales. Ophthalmic Physiol Opt 2010; 30: 358–364.
+8. Massof RW. Understanding rasch and item response theory
+models: applications to the estimation and validation of
+interval latent trait measures from responses to rating scale
+questionnaires. Ophthalmic Epidemiol 2011; 18: 1–19.
+9. Massof RW, Ahmadian L, Grover LL et al. The activity
+inventory: an adaptive visual function questionaire. Optom
+Vis Sci 2007; 84: 763–774.
+10. Social Security Blue Book Section 2.00 Special Senses and
+Speech – Adult. 2016. Online version updated 01/2017;
+https://www.ssa.gov/disability/professionals/bluebook/
+11. Subramanian A & Pardhan S. Repeatability of reading ability
+indices in subjects with impaired vision. Invest Ophthalmol
+Vis Sci 2009; 50: 3643–3647.
+
+202
+
+12. Dickinson C. Low Vision: Principles and Practice. Butterworth: Oxford, 1998; 73–151.
+13. Taylor JJ, Bambrick R, Brand A et al. Effectiveness of portable electronic and optical magnifiers for near vision activities
+in low vision: a randomised crossover trial. Ophthalmic
+Physiol Opt 2017; 37: 370–384.
+14. Feinbloom W. Introduction to the principles and practice of
+subnormal vision correction. Clin Exp Optom 1935; 18: 589–
+596.
+15. Arditi A. Improving the design of the letter contrast sensitivity test. Invest Ophthalmol Vis Sci 2005; 46: 2225–2229.
+16. Goldstein JE & Massof RW; Low Vision Research Network
+Study. The impact of item filtering on patient-reported low
+vision rehabilitation outcomes. Invest Ophthalmol Vis Sci
+2012; 53: 4419.
+17. Goldstein JE, Massof RW, Deremeik JT et al. Baseline traits
+of low vision patients served by private outpatient clinical
+centers in the United States. Arch Ophthalmol 2012; 130:
+1028–1037.
+18. Rovner BW, Casten RJ, Hegel MT et al. Low vision depression
+prevention trial in age-related macular degeneration: a randomized clinical trial. Ophthalmology 2014; 121: 2204–2211.
+19. Deemer AD, Massof RW, Rovner BW, Casten RJ & Piersol
+CV. Functional outcomes of the low vision depression prevention trial in age-related macular degeneration. Invest
+Ophthalmol Vis Sci 2017; 58: 1514–1520.
+20. Lamoureux EL, Pallant JF, Pesudovs K, Rees G, Hassell JB &
+Keeffe JE. The effectiveness of low-vision rehabilitation on
+participation in daily living and quality of life. Invest Ophthalmol Vis Sci 2007; 48: 1476–1482.
+21. Acton JH, Molik B, Court H & Margrain TH. Effect of a
+home visit-based low vision rehabilitation intervention on
+visual function outcomes: an exploratory randomized
+controlled trial. Invest Ophthalmol Vis Sci 2016; 57:
+6662–6667.
+
+© 2018 The Authors Ophthalmic & Physiological Optics © 2018 The College of Optometrists
+Ophthalmic & Physiological Optics 38 (2018) 193–202
+

@@ -1,0 +1,734 @@
+[page 1]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+449
+
+British Journal of Health Psychology (2008), 13, 449–461
+q 2008 The British Psychological Society
+
+The
+British
+Psychological
+Society
+www.bpsjournals.co.uk
+
+Cognitive appraisals, distress and disability among
+persons in low vision rehabilitation
+Laura E. Dreer1*, Timothy R. Elliott2, Jack Berry3, Donald
+C. Fletcher4, Marsha Swanson5 and J. Christopher McNeal5
+1
+
+Department of Ophthalmology, University of Alabama at Birmingham, USA
+Department of Educational Psychology, Texas A & M University, USA
+3
+Department of Psychology, University of Alabama at Birmingham, USA
+4
+Department of Ophthalmology, California Pacific Medical Center/Smith-Kettlewell
+Eye Research Institute, USA
+5
+Department of Optometry, University of Alabama at Birmingham, USA
+2
+
+Objective. Examined cognitive appraisals of interference and tolerance in the
+prediction of distress and self-reported disability among persons presenting for low
+vision rehabilitation.
+Design.
+
+Cross-sectional; correlational and path analyses.
+
+Methods. One-hundred and thirteen patients (mean age, 71 years; 52 men and 61
+women) presenting for low vision rehabilitation at a university-based centre for low
+vision rehabilitation participated in an initial clinical vision examination and completed
+several questionnaires to evaluate cognitive appraisals, emotional distress and self reported disability.
+Results. Path analyses indicated that greater tolerance was associated with
+less interference imposed by vision loss. Greater tolerance was also associated with
+less emotional distress and symptom severity (visual acuity) was associated with self reported disability. Cognitive appraisals (tolerance and interference) indirectly
+influenced self-reported disability through emotional distress.
+Conclusions. The data indicate that appraisals of personal ability to tolerate vision
+loss and the perceived interference of vision loss on goal-directed behaviour and
+expected activities have greater influence on distress and are subsequently predictive of
+disability in comparison with objective symptoms (visual acuity). Implications for clinical
+interventions and further research are discussed.
+
+Accumulating evidence indicates that there is considerable variation in the ways
+persons with visual impairments react and adapt in the wake of vision loss (e.g. Brennan,
+* Correspondence should be addressed to Laura E. Dreer, PhD, Department of Ophthalmology, Center for Low Vision
+Rehabilitation, University of Alabama at Birmingham, Suite 609, 1720 University Boulevard, Suite 380, Birmingham, AL
+35233, USA (e-mail: dreer@uab.edu).
+DOI:10.1348/135910707X209835
+
+
+[page 2]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+450 Laura Dreer et al.
+
+2002; Dreer, Elliott, Fletcher, & Swanson, 2005; Schilling & Wahl, 2006; Teitelbaum &
+Copolillo, 2005). For example, it has been argued that a major loss does not necessarily
+lead to depression or distress for some (Kleinschmidt, 1999) and yet for others,
+persistent depression may continue for longer than normally expected (Ciechanowski,
+Katon, & Russo, 2000). Additional support for the influential role of intra-personal
+factors underlying depression associated with vision impairment has also been
+demonstrated (Tolman, Hill, Kleinschmidt, & Gregg, 2005). In an effort to find
+explanations for the wide variations in reactions related to the adjustment to disability,
+contemporary models of adjustment and coping have been informative (Dodds et al.,
+1994; Hayeems, Gellar, Finkelstein, & Faden, 2005).
+One of the most widely accepted models, the transactional model of stress appraisal
+and coping, posits that cognitive appraisals of a stressor and coping strategies are
+important factors that can have an influence on adaptation outcomes (Lazarus &
+DeLongis, 1983). Individuals presumably appraise a stressful situation for threats to their
+well-being ( primary appraisal ) and to assess if their behaviour can have an impact on
+the stressor (secondary appraisal ). Thus, the central feature of this model is the
+subjective, cognitive appraisal of the situation-specific event (rather than an objectively
+defined stressor, i.e. severity of vision loss) and one’s coping ability; both of which are
+considered critical to successfully managing a stressful situation (Folkman & Lazarus,
+1985; Oliver & Brough, 2002). Thus, from this viewpoint, stress is the culmination of the
+dynamic interplay between the individual and the environment.
+Converging evidence indicates that phenomenological appraisals of stress, personal
+resources and subjective meaning are predictive of personal adjustment following
+chronic disease and disability (Elliott & Harkins, 1991, 1992; Elliott, Kurylo, & Rivera,
+2002; Harkins, Elliott, & Wan, 2006). Generally, this work has examined appraisal
+processes relevant to various health conditions that yield considerable information
+beyond the concepts of primary and secondary appraisals (Ptacek & Pierce, 2003).
+Chronic health conditions can disrupt self-regulatory behaviour and outcome
+expectancies, and these disruptions can trigger a variety of affective responses (Orbell,
+Hagger, Val Brown, & Tidy, 2004; Williamson, 1998). These key findings are consistent
+with the investigations into goal-directed routine behaviour that is interrupted or nonrewarded for overlearned responses (Averill, 1982, 1983; Berkowitz, 1989) based on the
+notion that individuals utilize cognitive schema comprising expected behaviours, goals,
+rewards and reinforcers in the ongoing interactions with the environment. Therefore,
+when events occur that are incongruent with these expectations, a person will
+automatically appraise the degree to which the event interferes with goal-directed
+behaviours and previously anticipated outcomes.
+Individuals appraise the extent to which specific health conditions may interfere
+with their expected behaviours and goal-directed pursuits. They then appraise the
+degree to which they may be able to tolerate disruption to expected behaviours and
+goal-directed pursuits (Elliott & Harkins, 1992; Harkins et al., 2006). Individuals differ,
+however, in their perceived ability to tolerate disruptions to the expected behaviours
+and goal-directed pursuits imposed by the stress between their personal needs and
+environmental reinforcers (Dawis & Lofquist, 1984). This may involve efforts to exert
+control over internal emotional states upon realizing that behavioural control over
+specific events or symptoms may not be possible (Heckenhausen & Schulz, 1995).
+Cognitive appraisals have substantial effects on emotional distress associated with a
+chronic disease, and this association can be stronger than the effects on distress
+attributable to disease symptom severity (Harkins et al., 2006). However, we do not
+
+
+[page 3]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Distress, disability and low vision rehabilitation
+
+451
+
+know the degree to which these cognitive appraisals predict functional disability, as
+assessed on self-reported measures frequently used in clinical research protocols. It is
+possible that these reports may be directly influenced by the degree to which sight loss
+interferes with goal-directed pursuits (i.e. interference appraisals), as one’s appraisals
+may be based, in part, on the disruptions in daily activities that an individual experiences
+from the condition. We do not know if the relation of interference to the vision-related
+self-reported disability would remain significant once objective indicators of symptom
+severity are taken into account. It is also possible that the degree to which an individual
+can tolerate these disruptions may contribute to the prediction of vision-related
+disability, independent of the variance attributable to perceived interference (e.g.
+Harkins et al., 2006).
+The application of these concepts related to the transactional model of adjustment
+has recently gained increasing attention in the vision literature (Boerner, Reinhardt, &
+Horowitz, 2005; Jackson & Taylor, 2000; Ringering & Amaral, 2000). However, in
+comparison with the studies examining coping responses (i.e. Boerner, 2004; Brennan
+et al., 2001; Ryan, Anas, Beamer, & Bajorek, 2003), only a few empirical investigations of
+a person’s appraisal of the condition of vision loss or its concomitants have been
+documented in the vision literature. For instance, Rovner and Casten (2002) found that
+the relationship between visual acuity and depression is mediated by the loss of valued,
+discretionary activities. From our perspective, personal reactions are directly
+determined by the degree to which a chronic health condition interferes with desired
+pursuits, and with the degree to which an individual can tolerate these disruptions
+(Harkins et al., 2006).
+In the current study, we were interested in further examining the relation of the
+appraisal processes and an objective indicator of symptom severity (i.e. visual acuity) to
+both the vision-related self-reported disability and the emotional distress reported by
+persons presenting to low vision rehabilitation services. A significant minority of
+persons with vision loss experience problems with depression and distress (Casten,
+Rovner, & Edmonds, 2002; Horowitz & Reinhardt, 2000; Scott, Schein, Feuer, Folstein, &
+Bandeen-Roche, 2001), and distress is associated with impaired activities of daily living
+(Heyl & Wahl, 2001; Ryan et al., 2003). We argue that emotional distress associated with
+vision loss is directly influenced by cognitive appraisals of the loss. In contrast to other
+studies that have relied upon self-reported measures of the stress, we used an objective
+index to quantify actual dysfunction (e.g. visual acuity). We hypothesized that reports of
+greater interference from changes in vision on expected behaviour would be
+significantly predictive of greater emotional distress and vision-related self-reported
+disability, above and beyond objective indicators of vision impairment (e.g. visual
+acuity). We predicted that distress associated with vision loss would be determined
+more by subjective, cognitive appraisals than by objective visual impairment severity.
+Based on previous research (Harkins et al., 2006), we expected that greater tolerance of
+loss of vision would contribute to the prediction of lower distress; however, we were
+uncertain if tolerance to loss of vision would be associated with self-reported disability.
+
+Methods
+Participants
+Participants completed information as part of their initial clinical evaluation in a
+university-based low vision rehabilitation clinic. The sample included 52 men
+
+
+[page 4]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+452 Laura Dreer et al.
+
+(M age ¼ 71:23, SD ¼ 14:93) and 61 women (M age ¼ 70:49, SD ¼ 18:13) who
+participated in a low vision evaluation upon admission to an out-patient low vision
+rehabilitation programme. Participants’ better eye distance visual acuity logMAR scores
+ranged from .0 to 1.6 (SD ¼ 0:82) and eight participants’ visual acuity was documented
+as ‘hand motion only’ or ‘no light perception’. The sample averaged 13 years of
+formal education (SD ¼ 2:92). Eight percentage of the participants were employed
+(N ¼ 9); 71.5% were retired (N ¼ 80); 11.5% were disabled (N ¼ 13); 3.5% were
+unemployed (N ¼ 4); and 6.2% were missing data (N ¼ 7). Twenty-seven percentage
+were widowed (N ¼ 31); 5% were divorced (N ¼ 6); 50% were married (N ¼ 56); 1%
+was separated (N ¼ 1); 16% were single (N ¼ 18); and 1% was missing data (N ¼ 1).
+Macular degeneration was the most frequent primary referring diagnosis for the sample
+(57.5%, N ¼ 65); approximately 4.4% (N ¼ 5) were diagnosed with diabetic retinopathy
+as a primary diagnosis; 4.4% (N ¼ 5) were diagnosed with glaucoma; 2.7% (N ¼ 3)
+were diagnosed with cataracts; 27.4% (N ¼ 31) were diagnosed with other various
+vision impairments (e.g. Stargardt disease, etc.); and 3.5% (N ¼ 4) were given a
+diagnosis of vision impairment of unknown origin upon intake. One-hundred and
+two persons were Caucasian and 11 persons were African-American.
+A version of the original National Eye Institute-Visual Function Questionnaire (NEIVFQ: Mangione et al., 1998) was mailed to each participant prior to their appointment
+date. Although participants were instructed to complete this measure prior to their
+appointment, some participants arrived with incomplete questionnaires and
+subsequently completed the modified version of the NEI-VFQ in the clinic. The
+majority of participants completed the questionnaire with the assistance of a family
+member. Following participants’ initial eye examinations, a doctoral-level clinical
+psychologist met individually with participants and read all the instructions and
+administered measures.
+Measures
+Cognitive appraisal variables
+Two separate tactile analogue scales (TAS) (Dreer et al., 2005) were employed to
+evaluate appraisals of interference and tolerance. Each TAS was presented in the form of
+a 10 ml syringe without an attached needle. The measure of tolerance was assessed
+by asking participants, ‘How difficult is it for you to tolerate your changes in vision?’
+The appraisal was anchored by the phrase ‘no difficulty’ ¼ 0 and at the other end
+‘greatest difficulty imaginable’ ¼ 100, with responses reversed scored so that lower
+scores indicate greater difficulty tolerating vision changes. Participants rated the
+degree of interference with daily activities on an item that was phrased, ‘How much
+do your changes in vision prevent or interfere with what you want to do?’
+This scale was anchored at opposite ends by descriptors ‘no interference’ ¼ 0 and
+‘complete interference’ ¼ 100. Higher scores indicate perceptions of greater interference. The TASs used in this study were adapted from visual analogue scales (VAS)
+that have been successfully used in previous studies of interference and tolerance
+appraisals of pain (Elliott & Harkins, 1992; Harkins, Price, & Braith, 1989), chronic stress
+(Elliott, Chartrand & Harkins, 1994) and urinary incontinence (Harkins et al., 2006).
+Although these appraisals are predictably associated with the measures of depression
+and trait measures of negative affectivity, they maintain significantly and contribute
+independently to the prediction of distress reported by community-residing adults
+(Elliot et al., 1994; Harkins et al., 2006).
+
+
+[page 5]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Distress, disability and low vision rehabilitation
+
+453
+
+Vision symptom severity
+Visual acuity was obtained by using the early treatment diabetic retinopathy study charts
+(ETDRS). ETDRS ratings were then converted to the logMAR scale (Bailey & Lovie,
+1976). For the purposes of this study, we used the logMAR visual acuity score for the
+better eye. Higher scores for visual acuity indicate greater vision impairment.
+
+Emotional distress
+TASs were used to evaluate negative emotions specifically attributed to vision loss
+(Dreer et al., 2005). These scales were concerned with feelings which might be
+expected to be evoked by vision loss or by thinking about the condition; these included
+anger, fear, depression, anxiety and frustration. Each TAS was presented in the form of
+a 10 ml syringe without an attached needle. Each emotion TAS was anchored by
+the verbal descriptors ‘none at all’ ¼ 0 and ‘the most severe imaginable’ ¼ 10.
+Participants were instructed to indicate the extent of depression, anger, fear, frustration
+and anxiety, by pulling the syringe tube between the anchors. Higher scores on each
+scale indicate greater negative affect. The five items were averaged to provide a single
+indicator of distress.
+Internal consistency for the averaged index score of emotional distress associated
+with vision loss was acceptable (a ¼ :77; N ¼ 92). Similar alphas have been observed
+for a variation of this instrument VAS in research with older clinical samples (.89)
+(Harkins et al., 2006), undergraduate students (.70, .71) (Elliott, Sherwin, Harkins, &
+Marmarosh, 1995) and undergraduate women (.86) (Elliott & Harkins, 1992). Higher
+VAS emotional distress scores are positively and significantly related to negative
+affectivity (Harkins et al., 1989). These studies support the validity of an emotional
+distress average score as a meaningful measure of domain-specific distress associated
+with a health problem.
+To evaluate the validity of the syringe analogue measurement of these dimensions, a
+subsample of consecutively referred participants (N ¼ 13) completed a second
+administration by using a large emotional ‘thermometer’ developed for the clinic and
+this study. The thermometer was made with poster board and divided into 10 equal
+intervals from 0 to 10 (most severe imaginable). All participants were able to correctly
+identify the figure as a thermometer with numbers. Participants were given the same
+instructions and asked to indicate on the thermometer the intensity of each emotion.
+Participants either pointed directly on the thermometer to denote their response or
+verbally gave a number to the examiner. The correlation between the average score
+from the syringe administration and the thermometer indicated a moderately high
+degree of reliability (r ¼ :88, p , :001).
+
+Vision-related self-reported disability
+An abbreviated version of the NEI-VFQ (Mangione et al., 1998) was used to evaluate the
+impact of visual impairment on daily functioning. The scale was shortened by the fourth
+author (DF) to contain items that were considered clinically important for the vision
+rehabilitation team to develop individualized rehabilitation programmes. This reduced
+the measure to 23 of the 51 original NEI-VFQ items (Massof & Fletcher, 2001) and 5 of
+the original 13 domains: near vision (7 items), distance vision (7 items), social
+functioning (3 items), dependency (4 items) and mental health (2 items). Responses for
+17 of the items include the following range: 1 ¼ ‘no difficulty at all’, 2 ¼ ‘a little
+
+
+[page 6]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+454 Laura Dreer et al.
+
+Figure 1. Path diagram of the model tested to evaluate the impact of symptom severity (acuity),
+appraisals of tolerance and interference, and emotional distress on vision-related self-reported
+disability.
+
+difficulty’, 3 ¼ ‘moderate difficulty’, 4 ¼ ‘extreme difficulty’, 5 ¼ ‘stopped doing this
+because of your eyesight’ and 6 ¼ ‘stopped doing this for other reasons or not
+interested in doing this’. The other six items require frequency or level of agreement
+ratings. Similar to the NEI-VFQ, this version is scored by linearly transforming a
+respondent’s ratings for each item to values that range from 0 to 100. Scores are
+combined to produce a total impairment score (Parrish et al., 1997), with higher scores
+indicating greater vision-specific disability. For this study, the sum of the 23 items was
+used as a total vision-related disability score. The Cronbach’s a coefficient for the
+measure was .94 and the corrected item – total correlations ranged from .44 to .79.
+Statistical analysis
+Path analysis was used to evaluate the hypothesized relationships between the predictor
+variables (i.e. cognitive appraisals, vision symptom severity variables, emotional
+distress) and vision-related self-reported disability as the main outcome or endogenous
+variable. Path analysis permits the examination of the indirect and direct relationships
+among the variables. The model evaluated the specific hypotheses concerning the
+causal relations of vision symptom severity (i.e. visual acuity), cognitive appraisals (i.e.
+tolerance and interference) and emotional distress on vision-related self-reported
+disability (Figure 1). Path analysis permits the evaluation of how well the collected data
+fit the hypothesized model (Byrne, 1989). The Comparative Fit Index (CFI) (Bentler,
+1990) was used to evaluate the model. The CFI ranges from 0 to 1, with a fit index
+greater than .90 indicating good fit between the collected data and proposed model
+(Hu & Bentler, 1999). The amount of error variance in the model is reflected in the root
+mean square error of approximation (RMSEA); values less than .05 are considered
+adequate (Browne & Cudeck, 1993).
+
+Results
+Table 1 displays the Pearson product-moment correlations among the predictor
+variables along with the means and standard deviations for each variable. Independent
+samples t tests revealed there were no statistically significant differences for gender on
+any of the major study variables.
+
+
+[page 7]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Distress, disability and low vision rehabilitation
+
+455
+
+Table 1. Correlations of emotional distress, cognitive appraisal, vision-related self-reported disability
+and visual acuity
+Variable
+
+1
+
+2
+
+3
+
+4
+
+5
+
+M
+
+SD
+
+1. Emotional distress
+2. Tolerance
+3. Interference
+4. Disability
+5. Visual acuity
+
+–
+
+2.44***
+–
+
+.46***
+2.34***
+–
+
+2.31**
+.11
+2.37***
+–
+
+.14
+2 .02
+.22*
+2 .53***
+–
+
+45.4
+58.1
+69.7
+35.5
+1.03
+
+24.7
+27.4
+28.9
+18.9
+0.38
+
+Note. Lower scores on tolerance indicate greater difficulty in the ability to tolerate vision-related
+changes; higher scores for disability reflect fewer problems associated with vision-specific disability and
+higher scores for visual acuity indicate greater vision impairment.
+*p , :05; **p , :01; ***p , :001.
+
+To test our full theoretical model of the relationships among distress, appraisal,
+disability and vision symptom severity, we used maximum-likelihood estimates of the
+path model shown in Figure 1. The model parameter estimation was implemented
+with the AMOS (Version 5.0) statistical software package. In this model, the criterion
+variable was vision-related self-reported disability. The model assumes that the
+criterion is influenced by the direct effects of both emotional distress and objective
+visual acuity. The model also assumes that emotional distress is directly influenced by
+the appraisal variables (interference and tolerance). Based on the results of Harkins
+et al. (2006), we also included indirect effects of objective vision symptomatology
+(i.e. visual acuity) and tolerance on distress via the influence of these variables on
+appraisal of interference. Any missing values were imputed using maximum
+likelihood.
+The model proved an acceptable fit to the data, X 2 ð4Þ ¼ 4:09, p ¼ :39. The CFI was
+.99 and the RMSEA was .01. Figure 1 presents the standardized parameter estimates for
+the paths of the model. All parameter estimates were statistically significant at least at
+the .01 a-level.
+As indicated in Figure 1, both the direct effect of visual acuity (2 .50, p , :01) and
+emotional distress (2 .22, p , :01) on self-reported disability were statistically
+significant. Two-tailed significance tests for indirect effects were computed using
+bootstrapped standard errors (SE) for standardized effect estimates (based on 1,000
+samples). All hypothesized indirect effects were statistically significant. The indirect
+effect of visual acuity on distress (via perceived interference) was .08 (SE ¼ :04,
+p , :05), and its indirect effect on disability (via interference and emotional distress)
+was 2 .02 (SE ¼ :01, p , :05). Thus the total effect of visual acuity on self-reported
+disability was 2 .52 (SE ¼ :08, p , :01). Appraisals of how interfering vision loss was on
+everyday living had a significant indirect effect on disability (via emotional distress) of
+2 .08 (SE ¼ :03, p , :01), and the degree to which an individual was able to tolerate
+vision loss had a significant indirect effect on disability through interference and
+emotional distress of .10 (SE ¼ :03, p , :01).
+Modifications of this model were assessed for exploratory purposes, but none
+provided reasonable fit to the data. When visual acuity was assumed to have a direct
+rather than indirect effect on emotional distress, the standardized path coefficient
+was .01, ns, the CFI was .58, and the RMSEA was .25. This finding that objective
+symptomatology had no direct effect on emotional distress is consistent with the
+
+
+[page 8]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+456 Laura Dreer et al.
+
+results of Harkins et al. (2006). When the direct path from visual acuity to vision-related
+self-reported disability was removed from the model, the CFI was .66 and the RMSEA
+.23, indicating that objective visual acuity has both direct and indirect effects on
+disability.
+
+Discussion
+These results provide evidence for the role of subjective appraisal mechanisms for
+understanding emotional distress and disability associated with vision loss. In general,
+our findings illustrate that cognitive appraisals of the degree to which individuals can
+tolerate vision loss and how interfering vision loss is on everyday living are major factors
+associated with the emotional distress. Distress subsequently predicts vision-related
+disability independent of actual impairment. Cognitive appraisals of interference and
+tolerance had significant indirect effects on disability. Severity of vision loss (e.g. acuity)
+was independently predictive of vision-related disability. Thus, severity of vision
+impairment does not necessarily correspond to emotional distress following vision loss.
+Rather, other important psychosocial factors such as subjective appraisals may influence
+emotional reactions to chronic health conditions and may provide a more informative
+account of a person’s overall adjustment following vision loss.
+From a theoretical standpoint, the findings support the component of the primary
+appraisal process detailed in the transactional model of stress appraisal and coping
+(Folkman & Moskowitz, 2004; Lazarus & Folkman, 1984). This activity is considered
+particularly important for understanding coping and adjustment in persons with
+chronic health conditions, generally (Elliott, Kurylo, & Rivera, 2002). While coping is
+relevant to understanding an individual’s active strategies in managing stressors,
+knowledge of the individual meaning of adaptation provides insight into an individual’s
+reactions to changing conditions and is not restricted to more active self-regulatory
+responses (Schilling & Whal, 2006). The current data suggest that those who perceive
+low vision as disruptive to expected behaviours, goals and outcomes might be expected
+to have recurring difficulties with distress. Emotional adjustment may be related to the
+extent to which one cognitively and or behaviourally modifies expectations for daily
+activities, functional abilities and desired outcomes (Williamson, 1998).
+While the severity of vision loss was unrelated to the prediction of emotional
+distress, this finding has been observed in other studies. An explanation for the lack of
+relationship may be that many persons with severe physical problems do not necessarily
+perceive their physical problems as difficult to tolerate or interfering, in other words as
+the primary source of stress in their life, and those who do are more distressed
+emotionally in general (Elliott et al., 2002). Thus, this supports the need for the
+understanding of the personal meaning a person attaches to vision loss as it relates to an
+individual’s previously anticipated goals and expectancies is relevant.
+It is also important to note that severity of vision loss was unrelated to tolerance
+appraisals. It may be that other factors are operating to influence this cognitive activity.
+For example, an individual with significantly impaired vision might not evaluate their
+situation involving vision loss as difficult to tolerate given the person has a strong social
+support network, adequate financial status and supportive work environment. In
+contrast, another person with the same degree of vision impairment might perceive
+their situation as greatly difficult to tolerate as they might not have the confidence or
+resources to adaptively cope.
+
+
+[page 9]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Distress, disability and low vision rehabilitation
+
+457
+
+The current findings have several important implications for clinical work in low
+vision rehabilitation. For example, evaluating a person’s appraisal of a chronic health
+condition (e.g. loss of vision) may be considered critical for identifying those who may
+be a risk for problems with emotional distress. Unfortunately, this type of assessment
+is not routinely conducted during low vision rehabilitation eye examinations. While
+distress may resolve in some persons without intervention, unmanaged and chronic
+distress may place a person at risk for depression and greater disability independent of
+vision loss. Thus, cognitive appraisal of interference and tolerance deserves attention
+during initial clinical eye examinations so that those who may be at risk are identified
+and referred for appropriate interventions. Administration of brief measures designed
+to evaluate appraisal processes and condition-specific distress such as the scales
+used in this study can be efficiently conducted in the clinic setting and quick
+to administer. Furthermore, the current findings should also be considered when
+designing rehabilitation programmes for individuals. Rehabilitation outcomes might be
+enhanced when rehabilitation programmes are tailored to the personal meaning
+and interpretation of vision loss on an individual’s expected goals. Eliciting an
+individual’s personal cognitive appraisals regarding vision loss might be an important
+initial step in low vision rehabilitation programmes prior to working on specific
+aspects of important rehabilitation services (i.e. occupational therapy, training with
+devices).
+Previous research indicates that cognitive appraisals of stress (Shewchuk, Elliott,
+MacNair, & Harkins, 1999) and of physical symptoms (Harkins et al., 2006) are rather
+stable over time, but there is evidence that these appraisals may be amenable to
+cognitive-behavioural interventions. For example, interventions such as problem solving therapy (PST) to change self-appraised problem-solving abilities is an empirically
+supported intervention that may be useful in enhancing appraisal activity (Nezu,
+Felgoise, McClure, & Houts, 2003; Perri et al., 2001). Other studies examining
+alternative treatment interventions indicate that individuals can be taught to accept
+difficult thoughts, feelings and bodily sensations without struggling with them, and
+focus on overt activities that contribute to important outcomes (i.e. Acceptance and
+Commitment Therapy; ACT) (Hayes, Strosahl, & Wilson, 1999). Therefore, it appears
+that some cognitive-behavioural interventions may offer some promise in working with
+personal appraisals of vision impairment. Generally, these approaches may be useful to:
+(1) minimize overall distress; (2) increase motivation for participation in rehabilitation
+efforts; (3) reevaluate goals and develop new goals and expectations; (4) identify
+alternative ways to tolerate and cope with stress and (5) increase self-efficacy in
+regulating emotions. These types of cognitive-behavioural interventions are particularly
+needed in visually impaired populations (Lueck, 1997).
+In response to this need, several of the current authors are in the process of
+conducting a randomized clinical trial which aims to prevent distress by integrating PST
+along with occupational therapy. The treatment intervention is individually tailored to
+meet the unique problems and goals/appraisals of persons in low vision rehabilitation
+and is delivered by an occupational therapist who is part of the low vision rehabilitation
+treatment team. If successful, this type of service could help to enhance services to
+persons in low vision rehabilitation as occupational therapists are specifically trained to
+treat functional problems and work with the patient on developing obtainable goals.
+Thus, incorporating an emphasis on appraisal processes into OT services might help to
+augment treatment benefits.
+
+
+[page 10]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+458 Laura Dreer et al.
+
+Several limitations related to this study exist. The sample was relatively
+homogeneous in age (primarily older adults), race (primarily Caucasian) and
+socio-economic status (able to afford low vision rehabilitation services). While this
+type of sample is representative for our centre given our current geographical
+location, future investigations are needed to determine whether these findings are
+generalizable to more demographically diverse samples. In addition, we captured
+persons seeking low vision rehabilitation services who may be distinctly different,
+in terms of appraisal processes, from those who do not seek services. Based
+on the literature demonstrating a relationship between appraisals and depression
+(i.e. Harkins et al., 2006; Tolman et al., 2005), one can speculate that appraisals
+may indeed impact motivation to seek low vision rehabilitation services. Further
+examination of appraisal processes in persons referred for low vision rehabilitation
+services who do not follow through and attend such services are warranted. Another
+limitation is related to the cross-sectional nature of the current study design. While a
+cross-sectional study can establish correlation and association, conclusions regarding
+causality cannot be determined. Prospective replications of the current findings and
+longitudinal studies would be beneficial. The study is limited to persons primarily
+who had central vision loss. Other factors that influence the person – environment
+dynamic of the transactional theory of coping should also be examined in conjunction
+with cognitive appraisals (i.e. personality, availability and type of services, social
+support).
+While we attempted to expand upon previous research by using an ‘objective’
+measure (i.e. visual acuity), investigations using other visual objective measures should
+also be further examined (i.e. contrast sensitivity). Investigations focusing on individuals
+with positive appraisals or resilient attitudes are also needed in order to develop
+interventions that promote successful adjustment.
+
+Acknowledgements
+Funded by the National Eye Institute (#1 K23 EY017327-01), a grant from the Eye Sight Foundation
+of Alabama (ESFA), the Helen Keller Eye Foundation for Research and Education, the National
+Institute on Disability and Rehabilitation Research (Grant #H133N5009 & #H133B980016A),
+National Institute on Child Health and Human Development (#T32 HD07420), and a grant from
+the National Center for Injury Prevention and Control (Grant #R49/CCR403641) to the University
+of Alabama at Birmingham. Its contents are solely the responsibility of the authors and do not
+necessarily represent the official views of the funding agencies.
+
+References
+Averill, J. (1982). Anger and aggression: An essay on emotion. New York: Springer.
+Averill, J. (1983). Studies on anger and aggression. American Psychologist, 8, 1145–1160.
+Bailey, I., & Lovie, J. (1976). New design principles for visual acuity letter charts. American
+Journal of Optometry and Physiological Optics, 53, 740–745.
+Bentler, P. (1990). Comparative fit indexes in structural models. Psychological Bulletin, 107,
+238–246.
+Berkowitz, L. (1989). Frustration-aggression hypothesis: Examination and reformulation.
+Psychological Bulletin, 106, 59–73.
+Boerner, K. (2004). Adaptation to disability among middle-aged and older adults: The role
+assimilative and accommodative coping. Journals of Gerontology, 59B, P35–P42.
+
+
+[page 11]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Distress, disability and low vision rehabilitation
+
+459
+
+Boerner, K., Reinhardt, J. P., & Horowitz, A. (2005). The effect of rehabilitation service use on
+coping patterns over time among older adults with age-related vision loss. Clinical
+Rehabilitation, 20, 478–487.
+Brennan, M. (2002). Spirituality and psychosocial development in middle-age and older adults
+with vision loss. Journal of Adult Development, 9, 31–46.
+Brennan, M., Horowitz, A., Reinhardt, J. P., Cimarolli, V., Benn, D. T., & Leonard, R. (2001). In their
+own words: Strategies developed by visually impaired elders to cope with vision loss. Journal
+of Gerontological Social Work, 35, 63–85.
+Browne, M., & Cudeck, R. (1993). Alternative ways of assessing model. In K. Bollen & J. Long
+(Eds.), Testing structural equation models (pp. 133–162). Newbury Park, CA: Sage.
+Byrne, B. (1989). A primer of LISEREL: Basic applications and programming for confirmatory
+factor analytic models. New York: Springer.
+Casten, R., Rovner, B. W., & Edmonds, S. (2002). The impact of depression in older adults with age related macular degeneration. Journal of Visual Impairment and Blindness, 96, 399–406.
+Ciechanowski, P. S., Katon, W. J., & Russo, J. E. (2000). Impact of depressive symptoms on
+adherence, functions, and costs. Archives of Internal Medicine, 160, 3278–3285.
+Dawis, R., & Lofquist, L. (1984). A psychological theory of work adjustment. Minneapolis, MN:
+University of Minnesota Press.
+Dodds, A., Ferguson, E., Ng, L., Flannigan, H., Hawes, G., & Yates, L. (1994). The concept of
+adjustment: A structural model. Journal of Visual Impairment and Blindness, 88, 487–497.
+Dreer, L. E., Elliott, T., Fletcher, D., & Swanson, M. (2005). Social problem-solving abilities and
+psychological adjustment of persons in low vision rehabilitation. Rehabilitation Psychology,
+50, 232–238.
+Elliott, T., Chartrand, J., & Harkins, S. (1994). Negative affectivity, emotional distress, and the
+cognitive appraisal of occupational stress. Journal of Vocational Behavior, 45, 185–201.
+Elliott, T., & Harkins, S. (1991). Psychosocial concomitants of persistent pain among persons with
+spinal cord injury. NeuroRehabilitation: An Interdisciplinary Journal, 1, 9–18.
+Elliott, T., & Harkins, S. (1992). Emotional distress and the perceived interference of menstrual
+pain. Journal of Psychopathology and Behavioral Assessment, 14, 293–306.
+Elliott, T., Kurylo, M., & Rivera, P. (2002). Positive growth following an acquired physical disability.
+In C. Snyder & S. Lopez (Eds.), Handbook of positive psychology (pp. 687–699). New York:
+Oxford University Press.
+Elliott, T., Sherwin, E., Harkins, S., & Marmarosh, C. (1995). Self-appraised problem solving ability,
+affective states, and psychological distress. Journal of Counseling Psychology, 42, 105–115.
+Folkman, S., & Lazarus, R. (1985). If it changes it must be a process: Study of emotion and coping
+during three stages of college examination. Journal of Personality and Social Psychology, 48,
+150–170.
+Folkman, S., & Moskowitz, J. T. (2004). Coping: Pitfalls and promise. Annual Review of
+Psychology, 55, 745–774.
+Harkins, S., Elliott, T., & Wan, T. (2006). Emotional distress and urinary incontinence among older
+women. Rehabilitation Psychology, 51, 346–355.
+Harkins, S., Price, D., & Braith, J. (1989). Effects of extroversion and neuroticism on experimental
+pain, clinical pain, and illness behavior. Pain, 36, 209–218.
+Hayeems, R. Z., Gellar, G., Finkelstein, D., & Faden, R. R. (2005). How patients experience
+progressive loss of visual function: A model of adjustment using qualitative methods. British
+Journal of Ophthalmology, 89, 615–620.
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). Acceptance and commitment therapy: An
+experiential approach to behavior change. New York: Guilford Press.
+Heckenhausen, J., & Schulz, R. (1995). A life-span theory of control. Psychological Review, 102,
+284–304.
+Heyl, V., & Wahl, H. W. (2001). Psychosocial adaptation to age-related vision loss: A six-year
+perspective. Journal of Visual Impairment and Blindness, 95, 739–748.
+
+
+[page 12]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+460 Laura Dreer et al.
+Horowitz, A., & Reinhardt, J. (2000). Mental health issues in vision impairment. In B. Silverstone,
+M. Lang, B. Rosenthal, & E. Faye (Eds.), The lighthouse handbook on vision impairment and
+vision rehabilitation (Vol. 2, pp. 1089–1109). New York: Oxford University Press.
+Hu, L. T., & Bentler, P. M. (1999). Cut-off criteria for fit indexes in covariance structure analysis:
+Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1–55.
+Jackson, W., & Taylor, R. (2000). Visual impairment. In C. Radnitz (Ed.), Cognitive-behavioral
+therapy for persons with disabilities (pp. 159–181). Northvale, NJ: Jason Aronson.
+Kleinschmidt, J. (1999). Older adults’ perspectives on their successful adjustment to vision loss.
+Journal of Visual Impairment and Blindness, 93, 69–81.
+Lazarus, R., & DeLongis, A. (1983). Psychological stress and coping in aging. American
+Psychologist, 38, 245–254.
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and coping. New York: Springer.
+Lueck, A. (1997). The role of education and rehabilitation specialists in the comprehensive low
+vision care process. Journal of Visual Impairment and Blindness, 91, 423–434.
+Mangione, C. M., Lee, P., Pitts, J., Gutierrez, P., Berry, S., Hays, R. D., & NEI-VFQ Field Test
+Investigators. (1998). Psychometric properties of the National Eye Institute Visual Function
+Questionnaire (NEI-VFQ). Archives of Ophthalmology, 116, 1496–1504.
+Massof, R., & Fletcher, D. (2001). Evaluation of the NEI visual functioning questionnaire as an
+interval measure of visual ability in low vision. Vision Research, 41, 397–413.
+Nezu, A., Felgoise, S., McClure, K., & Houts, P. (2003). Project Genesis: Assessing the efficacy of
+problem-solving therapy for distressed adult cancer patients. Journal of Consulting and
+Clinical Psychology, 71, 1036–1048.
+Oliver, J., & Brough, P. (2002). Cognitive appraisal, negative affectivity and psychological well being. New Zealand Journal of Psychology, 31, 2–7.
+Orbell, S., Hagger, M., Brown, V., & Tidy, J. (2004). Appraisal theory and emotional sequelae of first
+visit to colposcopy following an abnormal cervical screening result. British Journal of Health
+Psychology, 9, 533–555.
+Parrish, R., Gedde, S., Scott, I., Feuer, W., Schiffman, J., Mangione, C., et al. (1997). Visual function
+and quality of life among patients with glaucoma. Archives of Ophthalmology, 115,
+1447–1455.
+Perri, M., Nezu, A., McKelvey, W., Shermer, R., Renjilian, D., & Viegener, B. (2001). Relapse
+prevention training and problem-solving therapy in the long-term management of obesity.
+Journal of Consulting and Clinical Psychology, 69, 722–726.
+Ptacek, J., & Pierce, G. (2003). Issues in the study of stress and coping in rehabilitation settings.
+Rehabilitation Psychology, 48, 113–124.
+Ringering, L., & Amaral, P. (2000). The role of psychosocial factors in adaptation to vision
+impairment and rehabilitation outcomes for adults and older adults. In B. Silverstone, M. Lange,
+B. Rosenthal, & E. Faye (Eds.), The lighthouse handbook on vision impairment and vision
+rehabilitation (Vol. 1, pp. 1029–1048). New York: Oxford University Press.
+Rovner, B., & Casten, R. (2002). Activity loss and depression in age-related macular degeneration.
+American Journal of Geriatric Psychiatry, 10, 305–310.
+Ryan, E., Anas, A., Beamer, M., & Bajorek, S. (2003). Coping with age-related vision loss in everyday
+reading activities. Educational Gerontology, 29, 37–54.
+Schilling, O. K., & Wahl, H. W. (2006). Modeling late-life adaptation in affective well-being under a
+severe chronic health condition: The case of age-related macular degeneration. Psychology
+and Aging, 21, 703–714.
+Scott, I., Schein, O., Feuer, W., Folstein, M., & Bandeen-Roche, K. (2001). Emotional distress in
+patients with retinal disease. American Journal of Ophthalmology, 131, 584–589.
+Shewchuk, R., Elliott, T., MacNair, R. R., & Harkins, S. (1999). Trait influences on stress appraisal
+and coping: An evaluation of alternative frameworks. Journal of Applied Social Psychology,
+29, 685–704.
+
+
+[page 13]
+Copyright © The British Psychological Society
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Distress, disability and low vision rehabilitation
+
+461
+
+Teitelbaum, J., & Copolillo, A. (2005). Psychosocial issues in older adults’ adjustment to vision loss:
+Findings from qualitative interviews and focus groups. American Journal of Occupational
+Therapy, 59, 409–417.
+Tolman, J., Hill, R. D., Kleinschmidt, J. J., & Gregg, C. H. (2005). Psychosocial adaptation to visual
+impairment and its relationship to depressive affect in older adults with age-related macular
+degeneration. Gerontologist, 45, 747–753.
+Williamson, G. M. (1998). The central role of restricted normal activities in adjustment to illness
+and disability: A model of depressed affect. Rehabilitation Psychology, 43, 327–347.
+Received 26 June 2006; revised version received 15 April 2007
+

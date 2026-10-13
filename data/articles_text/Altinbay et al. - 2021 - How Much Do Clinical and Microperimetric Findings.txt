@@ -1,0 +1,805 @@
+[page 1]
+Current Eye Research
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/icey20
+
+How Much Do Clinical and Microperimetric
+Findings Affect Reading Speed in Low Vision
+Patients with Age-related Macular Degeneration?
+Deniz Altinbay, Aysun Idil & Esra Sahli
+To cite this article: Deniz Altinbay, Aysun Idil & Esra Sahli (2021): How Much Do Clinical and
+Microperimetric Findings Affect Reading Speed in Low Vision Patients with Age-related Macular
+Degeneration?, Current Eye Research, DOI: 10.1080/02713683.2021.1896740
+To link to this article: https://doi.org/10.1080/02713683.2021.1896740
+
+Published online: 11 Mar 2021.
+
+Submit your article to this journal
+
+Article views: 33
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=icey20
+
+
+[page 2]
+CURRENT EYE RESEARCH
+https://doi.org/10.1080/02713683.2021.1896740
+
+How Much Do Clinical and Microperimetric Findings Affect Reading Speed in Low
+Vision Patients with Age-related Macular Degeneration?
+Deniz Altinbay
+
+a,b
+
+, Aysun Idil
+
+b
+
+, and Esra Sahli
+
+b
+
+a
+
+Niv Eye Center, Department of Ophthalmology, Adana, Turkey; bDepartment of Ophthalmology, Vision Studies and Low Vision Rehabilitation Unit,
+Ankara University Faculty of Medicine, Ankara, Turkey
+ABSTRACT
+
+ARTICLE HISTORY
+
+Purpose: To investigate the factors affecting the reading speed of patients with central scotoma due to
+age-related macular degeneration (AMD).
+Materials and Methods: We included 63 eyes of 63 patients with AMD who applied to our low vision
+clinic between August 2018 and September 2019 in this prospective study. We evaluated sociodemographic characteristics, eye examination findings and Minnesota Low Vision Reading Test
+(MNREAD) results. We used the MAIA microperimeter device to evaluate the properties of the preferred
+retinal locus for fixation (PRL) of the patients. Evaluations included the assessment of the effects of all
+parameters on reading speed.
+Results: The PRL was most commonly in the nasal (31%) and superior (26%) quadrants. Twenty-nine
+percent of the cases preferred the left visual field. PRL localization had no effect on reading speed,
+whereas, fixation stability, educational status, presence of foveal absolute scotoma, reading acuity and
+duration of reading interruption were found to have the most significant effects. Multiple regression
+analysis showed that reading speed decreased by 67 units in the presence of unstable fixation, by 17 units
+in the presence of foveal absolute scotoma, by 3 units with every 0.1 increase in logMAR value, and by 1.7
+units with every 1-year increase in reading interruption. Additionally, being a university graduate was
+associated with an increased reading speed (by 18 units)
+Conclusion: Increased reading performance is one of the factors that can improve quality of life. The
+factors found to affect the reading speed in the current study may guide the rehabilitation process in low
+vision patients.
+
+Received 7 July 2020
+Revised 6 January 2021
+Accepted 22 February 2021
+
+Introduction
+Decreased reading ability is the most common reason leading to
+patients’ application to low vision centers.1,2 Reading is
+a complex activity that is affected by many factors, including
+oculomotor control,3,4 decreased fixation stability,5–8 narrowed
+visual field,9–13 comprehension speed,14 near visual acuity,3 contrast sensitivity,3,7,15 print size3 and age.16 Therefore, the reading
+performance of a low vision patient is not always sufficient, even
+when the patient has good near visual acuity.9,17,18
+In patients with age-related macular degeneration (AMD),
+the real fovea cannot perform its normal function; thus causing
+a shift of vision to a healthier area of the retina, defined as the
+preferred retinal locus (PRL).10,19–22
+The microperimetry device has been used to evaluate the
+functional state of the macula and the fixation characteristics in
+these patients.23,24 Fixation stability is an important factor that
+affects reading performance greatly, especially in the presence
+of central scotoma. This has been proven by various studies
+that have demonstrated a strong positive correlation between
+reading speed and fixation stability.5–8 Although many studies
+have explored fixation stability and its effect on reading speed,
+there are only a limited number of studies investigating the
+effect of PRL location, distance to fovea and its relationship
+with scotoma and visual field on reading speed. Information
+CONTACT Deniz Altinbay
+© 2021 Taylor & Francis Group, LLC
+
+denizaltinbay01@gmail.com
+
+KEYWORDS
+
+Low vision rehabilitation;
+microperimetry; reading
+speed; preferred retinal
+locus; central scotoma
+
+concerning the location and stability of PRL is critical for the
+evaluation of the visual function, follow-up and treatment of
+patients with macular dysfunction.24,25
+As mentioned before, there are a number of unrelated
+factors that contribute to a person’s reading speed. Although
+some studies have explored the influence of various parameters
+on reading speed there are very few studies that have assessed
+the actual effects of these factors in a systematic manner that
+would enable direct comparisons with other studies and also
+between the parameters themselves. Therefore, in this study,
+we aimed to investigate the impact of microperimetric parameters, and sociodemographic and clinical characteristics on
+reading performance in patients with central scotoma due to
+AMD, and to determine the relationships between these parameters and reading speed. We obtained and reviewed these
+results with the intention that they could guide healthcare
+professionals performing near-sight rehabilitation.
+
+Materials and methods
+The ethical committee of Ankara University approved this
+prospective study. All steps and procedures were in accordance
+with the principles of the Helsinki Declaration. All individuals
+that participated in the study provided informed consent.
+
+Ozel Niv Goz Merkezi, Sumer, 69023. Sk. No: 2/A, Seyhan, Adana 01140.
+
+
+[page 3]
+2
+
+D. ALTINBAY ET AL.
+
+We enrolled a total of 63 eyes diagnosed with AMD-related
+central vision loss from a group of 63 patients who had applied
+for visual rehabilitation to the Low Vision Rehabilitation
+Center of Ankara University Faculty of Medicine, between
+August 2018 and September 2019. The diagnoses of patients
+were either atrophic AMD or stable exudative AMD. We
+included patients who were older than 55 years, were at least
+primary school graduates, spoke Turkish as their native language, and did not have neurological diseases or mental disabilities that prevented them from reading or performing the
+MNREAD test. Additionally, only those with best-corrected
+visual acuity (BCVA) of between logMAR 1.3 and logMAR
+0.5 were included in the patient group. Since visual acuity
+below 0.5 logMAR did not significantly affect reading performance, patients with BCVA better than 0.5 logMAR were not
+included in the study. Finally, patients who were illiterate,
+those that had previously undergone visual rehabilitation,
+and patients who used low-vision aids and/or had trained
+retinal locus (TRL) were excluded from the study.
+We conducted detailed examinations in each patient,
+including BCVA measurement, biomicroscopic and fundus
+examination, low vision examination, contrast sensitivity test,
+lesion size, and quality of life scoring. Additionally, we asked
+patients about their reading habits prior to the disease and
+determined the time at which they had significantly lost their
+reading habit (being unable to continue their usual reading
+habits, or the inability to read books or newspapers). We
+recorded the time that had elapsed since the loss of reading
+habit (in years) and this duration was defined as ‘reading
+interruption’. This data was obtained from patients and their
+relatives.
+The BCVA was measured according to the Early Treatment
+Diabetic Retinopathy Study (ETDRS) chart and recorded as
+logMAR. Reading acuity was measured with the MNREAD test
+and recorded with ‘M’ value. The CSV-1000 test was used to
+test contrast sensitivity. The CSV-1000 test is traditionally
+applied with spatial fluorescence varying from 3, 6, 12 and 18
+cpd (cycles per degree) values and grating from 2.5 meters.26
+However, since all subjects were patients with severe low vision, we performed the test by halving the standard test
+distance and cpd values. We used the “Fundus autofluorescence (FAF)” method to calculate lesion size via the
+“Image Finder” program and recorded results in mm2. The
+quality of life scale applied to patients was the Turkishvalidated version of the NEI-VFQ-25.27 The same technician
+(B.S.) conducted all evaluations with this questionnaire. From
+this scale, we recorded and evaluated the general score and the
+near-vision activities subscale score.
+The Turkish version of the MNREAD reading test
+(MNREAD-TR) was the test used to determine reading performance. Idil et al. carried out the Turkish language reliability and validity study of this test.28 This test is comprised
+of cards with print sizes representing logMAR 1.3 (8 M) to
+logMAR (−0.5) (0.12 M) (1 M = logMAR 0.4). The smallest
+print size that a person could read without making
+a significant mistake was used to calculate reading acuity
+(RA). Critical print size (CPS) was the smallest print size
+that could be read with maximum reading speed. Maximum
+
+reading speed (MRS) was the reading speed of a patient when
+unrestricted by print size. We used word per minute (wpm)
+values to depict the results of reading speed tests. The reading accessibility index (ACC) is calculated by dividing the
+reading speed obtained in the first 10 sentences of the
+MNREAD card by 200. These sentences represent the most
+frequently used print sizes in daily life. Since normal reading
+speed corresponds to 200 wpm, the normal ACC value is “1”.
+ACC is a good indicator of reading speed in central
+scotoma.5
+We used the MAIA Microperimetry device to evaluate fixation. P1 and P2 values showing the percentage of fixation
+points in a circle with a radius of 1° and 2° were used to analyze
+fixation stability. Definitions were as follows: ‘stable fixation’
+when P1 was higher than 75%, ‘relative unstable fixation’ when
+P1 < 75% and P2 > 75%, and ‘unstable fixation’ when P1 and P2
+were both lower than 75%.29 The bivariate contour ellipse area
+(BCEA) was the elliptical area associated with the major and
+minor axes covered by fixative eye movements. The retinal
+sensitivity results range between 0 and 36 dB.
+Macular Integrity Index (MII) is the assessment of macular
+integrity based on comparisons with age-matched responses.
+Categorization of MII values were as follows: a value under
+40% was normal, 40–60% was suspicious and over 60% was
+abnormal.
+We recorded patients’ retinal sensitivity, MII, P1, P2, fixation stability, BCEA 63 and BCEA 95 values automatically, as
+they are part of the routine microperimetry analysis (Figure 1).
+We performed some specific measurements for the study, in
+addition to the routine data obtained from the microperimetry
+analysis. We printed the grid-shaped screenshot showing the
+localization of the PRL on A4 paper and determined the placement of the PRL and calculated scotoma dimensions and the
+distance of the PRL to the fovea and the edge of the lesion.
+A single ophthalmologist (D.A.) performed all calculations in
+order to prevent inter-operator variance. The operator measured the distance between the PRL and Fovea in millimeters
+and calculated degree-equivalents. In cases with uncertain
+fovea location, we estimated and marked the fovea location
+by calculating from the middle of the optic disc to 15.5°
+horizontally (towards the temporal) and 1.3° towards the
+inferior.30 We classified the location of the PRL as superior,
+inferior, temporal, nasal or central (central 4°), with respect to
+the center of the fovea31 (Figure 2).
+We used the IBM SPSS Statistics Version 20.0 package
+program for all statistical analyses. We defined the threshold
+for statistical significance as p < .05 in all tests. The Shapiro
+Wilk test was used to test the normality of the distribution of
+numerical measurements. The independent samples t-test and
+the Mann–Whitney U test were used in the comparison of
+numerical measurements among two groups, with respect to
+the normality of distribution. We used the One-Way Variance
+Analysis or the Kruskal Wallis test for general comparisons of
+numerical measurements in more than two groups – again
+according to the normality of distribution. The Bonferroni,
+Scheffe or Tamhane methods were used for post-hoc corrections after identification of significant differences in >2 group
+comparisons – depending on variance homogeneity.
+
+
+[page 4]
+CURRENT EYE RESEARCH
+
+3
+
+Figure 1. Example of microperimetry output in a case with AMD.
+
+Results
+The study included a total of 63 patients with advanced AMD and
+low vision, aged between 58 and 93 years. The eye with better
+visual acuity was the left eye in 36 patients and the right eye in 27
+patients. The percentage of patients with atrophic AMD (48%)
+and exudative AMD (52%) were similar. Patients with undergraduate education had higher MRS values (p = .008).
+Additionally, MRS values were positively correlated with total
+score (p = .050) and near-vision activities subscale score
+(p = .027) of the quality-of-life questionnaire, and negatively
+correlated with duration of reading interruption (p = .014). The
+sociodemographic characteristics of the cases are shown in
+Table 1.
+
+The mean distant BCVA value was 0.66 ± 0.2 logMAR,
+while the mean near BCVA was 2.63 ± 2.46 M. The mean
+lesion size was 7.162 ± 4.671 mm2 (min–max: 1.110–
+24.568 mm2). The mean contrast sensitivity results/values at
+low frequencies (1.5 cpd and 3 cpd) were 12.3 ± 11.2 dB and
+21.0 ± 15.1 dB, respectively. For the medium frequencies (6 cpd
+and 9 cpd), the results were 10.62 ± 9.49 dB and 4.46 ± 3.93 dB,
+respectively.
+When the correlations between eye examination findings
+and reading speed were assessed, we found negative correlations between MRS values and both the distant and near
+acuities (p = .002 and p = .003, respectively). MRS was found
+to be negatively correlated with the amount of high-powered
+
+
+[page 5]
+4
+
+D. ALTINBAY ET AL.
+
+Figure 2. Fovea-centered macula divided into four quadrants, PRL localizations.
+
+Table 1. Distribution of the sociodemographic characteristics of the cases.
+Feature
+Gender
+Educational Status
+
+Male
+Female
+Primary Education
+High School Education
+Bachelor’s Education
+
+Age
+Symptom Duration (years)
+Reading Habit (hour)
+Reading Interruption (years)
+Quality of Life Overall Score
+Near-vision Activities Subscale Score
+
+Number (Percent)
+41 (65)
+22 (35)
+21 (33,3)
+21 (33,3)
+21 (33,3)
+Mean ± SD
+77,49 ± 8,56
+4,73 ± 4,09
+2,1 ± 2,23
+2,58 ± 3,08
+47,5 ± 11,4
+29,0 ± 12,4
+
+near addition (p = .020). It was also negatively correlated with
+contrast sensitivity at low spatial frequencies (p = .001).
+We found that MRS ranged from 19 wpm to 160 wpm. MRS
+was lower than 80 wpm in 42 (66%) and lower than 40 wpm in
+17 (27%) patients. The MNREAD-TR results of the cases
+included in the study are shown in Table 2. We found that
+the RA, CPS and ACC parameters were significantly correlated
+with MRS (p < .001, p = .001 and p < .001, respectively).
+Table 3 depicts the results obtained with routine microperimetry analyses. According to these results, unstable and relative unstable fixation stability was found in 95% of our study
+Table 2. MNREAD reading card results of cases.
+Feature
+Reading Accuracy (RA) (logMAR)
+Critical Print Size (CPS) (logMAR)
+Maximum Reading Speed (MRS) (wpm)
+Reading Accessibility Index (ACC)
+
+Mean ± SD (interval)
+0,86 ± 0,34 (0,12–1,80)
+1 ± 0,35 (0,32–1,90)
+70,2 ± 37,23 (19–160)
+0,27 ± 0,21 (0–0,69)
+
+Table 3. Distribution and average results of the results obtained from
+microperimetry.
+Feature
+MII
+Average Retinal Sensitivity (dB)
+P1
+P2
+Fixation Stability
+
+BCEA 63
+BCEA 95
+
+Stable
+Relatively Stable
+Unstable
+
+Mean ± SD
+99,8 ± 1,6
+10,8 ± 6,5
+25,5 ± 20,4
+56,2 ± 23,4
+Number (Percent)
+3 (%5)
+17 (%27)
+43 (%68)
+Mean ± SD
+17,3 ± 10,8
+51,6 ± 32,4
+
+group (n = 60). Only 3 patients had ‘stable’ fixation, while 17
+had relative unstable fixation.
+According to the measurements based on the microperimetry printout, we found that the mean PRL-fovea distance was
+5.15° ± 3.31° (between 0.75° and 14.2°). When PRL localizations were assessed, we found the nasal quadrant was the most
+common (n = 19, 31%), followed by superior (n = 16, 26%),
+inferior (n = 10, 16%), central (n = 10, 16%) and temporal
+(n = 7, 11%). In terms of scotoma, 42 patients had absolute
+scotoma and 11 had relative scotoma. Absolute scotoma size
+ranged between 0° and 62°. Absolute scotoma size was greater
+than 22° in 16 (25%) patients. MRS was associated with PRL fovea distance, PRL-lesion edge distance and scotoma size
+(p < .001, p = .046 and p = .001, respectively).
+When the localization of PRL and scotoma were assessed,
+18 (29%) cases had a PRL located on the left side of the
+scotoma, 14 (22%) cases had a PRL within the scotoma, 9
+(14%) cases had a PRL located under the scotoma, 7 (11%)
+
+
+[page 6]
+CURRENT EYE RESEARCH
+
+Table 4. Factors that affect reading speed the most.
+Maximum Reading
+speed
+Feature
+
+Mean ± SD
+61,2 ± 36,4
+
+p
+
+58,9 ± 32,1
+90,5 ± 35,9
+148,7 ± 12,7
+80,9 ± 41,1
+60,5 ± 28,5
+97,8 ± 30,9
+
+0,008
+
+Foveal Absolute
+
+Primary School
+graduate
+High School graduate
+Bachelor’s Degree
+Stable
+Relatively Stable
+Unstable
+Yes
+
+Scotoma
+
+No
+
+56,4 ± 32,3
+
+Educational
+Status
+Fixation Stability
+
+Correlations with Maximum Reading Speed
+Reading Interruption (years)
+Reading Acuity (logMAR)
+
+Correlation
+Coefficient
+−0,307
+−0,533
+
+0,003
+<0,001
+
+p
+0,014
+<0,001
+
+cases had a PRL located on the right side of the scotoma, and 4
+(%6) cases had a PRL located above the scotoma. Eleven
+(17%) cases had no absolute scotoma. In different comparisons with respective groups, it was found that reading speeds
+were lowest in patients with PRL in the center of the scotoma
+(p = .001), and also in patients who had foveal absolute
+scotoma (p < .001). Finally, we also found that 18 (29%)
+patients preferred the left visual field, while 8 (13%) patients
+preferred the right visual field.
+Multiple regression analysis showed that reading speed
+decreased by 67 units in the presence of unstable fixation, by
+17 units in the presence of foveal absolute scotoma, by 3 units
+with every 0.1 increase in logMAR value, and by 1.7 units with
+every 1-year increase in reading interruption. Additionally,
+being a university graduate was associated with an increased
+reading speed (by 18 units) (Table 4).
+
+Discussion
+We investigated factors that affect the reading performance of
+patients with AMD and determined that there were relationships between reading speed and parameters, such as fixation
+stability, presence of foveal absolute scotoma, reading acuity,
+education level, and duration of reading interruption. The
+factor that decreased reading speed the most was found to be
+the presence of unstable fixation. This result shows the importance of fixation stability in increasing reading speed in near
+visual rehabilitation, as it is apparent that near visual acuity is
+not sufficient for the evaluation of reading performance.
+In addition to the parameters obtained from microperimetry analysis and the automated calculation results, we also
+evaluated other factors that may affect reading speed, such as
+sociodemographic characteristics, eye examination findings,
+contrast sensitivity and MNREAD parameters. We also conducted multiple linear regression analysis to identify factors
+that were independently associated with reading speed. To our
+knowledge, this study is the only study in the literature that
+focused on this rarely researched subject via the measurement
+of an extensive set of parameters with a study group that had
+a relatively high number of patients.
+
+5
+
+Previous studies have reported that reading speed should be
+at least 80 wpm for fluent reading and 40 wpm is only sufficient
+for spot reading.11 Reading speed is significantly lower in
+patients with central scotoma compared to the normal population. Complete loss of reading ability is common in these
+patients. In our study, the MRS of the patients ranged between
+19 and 160 wpm, while MRS was lower than 80 wpm in 42
+(66%) and lower than 40 wpm in 17 (27%) patients.
+The strong relationship between fixation stability and reading speed has been demonstrated in many studies.5,7,8
+Crossland et al. reported that fixation stability was responsible
+for around 54% of the change in reading speed in patients with
+AMD and juvenile macular degeneration. Besides this, they
+also reported that the decrease in reading speed was not associated with fixation instability alone.6 In our study, in accordance with the literature, a statistically significant relationship
+was found between fixation stability and MRS, but unstable
+fixation was not found to be the only factor that reduced
+reading speed. Having foveal absolute scotoma and duration
+of reading interruption also influenced reading speed. The
+reading speed was also affected by the education level of the
+patients.
+In the presence of central scotoma, visual span narrows;
+therefore, patients often rely on guessing words in order to be
+able to read,13,14 which increases the importance of visual
+abilities. We evaluated the influence of reading interruption
+on the speed of reading because we considered this factor as
+a confounding variable that would alter reading speed due to
+its possible adverse effects on cognitive functions. According to
+our analysis, each year of reading interruption decreased reading speed by 1.7 units. If there are periods when the patient
+does not read, it is very likely that his/her visual skills, such as
+visual memory and visual completion ability, will deteriorate.”
+Various studies have shown that scotoma size affects reading speed.11,13,14 Scotoma size is especially important in terms
+of identifying and perceiving a word that is being read. In
+central scotoma, individuals can perform normal reading in
+the absence of foveal absolute scotoma with the presence of 2°–
+5° of the field of view in the horizontal plane (2° to the right and
+left of fixation).32 In their study, Whittaker et al.11 have
+reported that field of view (number of letters visible) and
+scotoma size were important for reading, and that fluent reading was not possible in the presence of scotoma size greater
+than 22°. Ergun et al.13 found a negative correlation between
+absolute scotoma size and reading speed (r = −0.48, p = .023).
+We also found a negative correlation between absolute scotoma size and MRS (r = −0.422, p = .001). Various factors, such
+as scotoma location, fixation stability and other parameters,
+could explain the relatively lower correlation between these
+parameters (relative to other correlations) in the present
+study. Absolute scotoma size ranged between 0° and 62° in
+our study, and it was greater than 22° in 16 cases (25%). When
+we evaluated the reading speed of these cases, we found that
+MRS values were lower than 80 wpm in 14 (87.5%) of these
+individuals, indicating that they could not read fluently.
+The presence of foveal absolute scotoma also decreases
+reading performance.32 A statistically significant relationship
+was found between reading speed and foveal absolute scotoma
+in this study. The multiple regression analysis revealed that the
+
+
+[page 7]
+6
+
+D. ALTINBAY ET AL.
+
+presence of foveal scotoma caused a decrease of 17 units in
+MRS value. This is largely due to the fact that the fovea plays
+a critical role in visual acuity, as it is the area with the highest
+retinal resolution.33
+It has been reported that 77–100% of low-vision patients with
+poor central vision experience adaptations through various
+mechanisms. In most cases, this adaptation is the development
+of a PRL.10,24,34,35 In the current study, 98% of the cases had
+developed a PRL; 84% of these were extrafoveal and 16% were
+foveal. However, foveal fixation is not sufficient for good reading
+speed. When there is retinal sensitivity loss in the area surrounding the fovea, visual acuity is significantly reduced, even when
+fixation is central.36 The significant relationship between retinal
+sensitivity loss and reading speed has been shown in our study.
+There are studies reporting that the stability of PRL
+decreases as it moves away from the fovea.24,31,37 PRL-fovea
+distance has been reported to vary between 1.0° and 9.0°. In
+this study, the PRL-fovea distance was found to range between
+0.75° and 14.2°, and we also found that both fixation stability
+and reading speed reduced with increased distance between the
+PRL and fovea. This is due to decreased retinal resolution and
+sensitivity in the PRL region.33
+The majority of studies evaluating patients with AMD report
+that PRL is most frequently localized in the nasal and superior
+quadrants.20,31 For instance, Erbezci and Öztürk found PRL
+most frequently in the nasal quadrant (29.2%) and secondly in
+the superior quadrant.31 Very similarly, we found that PRL was
+most commonly present in the nasal quadrant (31%) and the
+superior quadrant (26%) in our group of patients. Additionally,
+studies show that patients with central scotoma most commonly
+prefer the left visual field,10,20,31,34,38 followed by the inferior
+visual field.20,31,34 Our results were also in agreement with the
+majority of published literature.
+There are several studies reporting an association between
+reading speed and the localization of PRL.34,39 For instance,
+there are studies suggesting that PRL localization in the superior
+quadrant increases reading speed.20,38 However, others suggest
+a lack of meaningful relationship.35,38,40 Conforming to the
+latter group of studies, we also found relationship between
+reading speed and PRL location. In agreement with our results,
+Fletcher et al. also did not find a relationship between reading
+speed and the localization of PRL. They concluded that, apart
+from the patient’s cognitive capabilities, the fixation and saccadic movements of the eyes were the primary parameters that
+were important for reading in patients with central scotoma.38
+Restoring reading ability in people with low vision due to
+central scotoma is one of the main goals of low-vision rehabilitation. Thus, in these cases, it is important to identify correctable or modifiable factors that influence reading speed the
+most. The present study has found fixation stability to be
+a modifiable factor that affects reading speed the most.
+Studies using microperimetric biofeedback signals have been
+shown to increase fixation stability and reading speed.41,42 It
+was reported by Tarita-Nistor et al. that the most appropriate
+PRL should be created in each patient, since their findings
+demonstrated a speed increase of 38%, as well as increases in
+reading acuity and CPS.41
+The strength of this study is the analysis of a great number
+of variables that may have been associated with or could have
+
+influenced reading speed, including scotoma size, contrast test
+and duration of reading interruption.
+The number of participants included in the study and the
+lack of contrast sensitivity measurement via a test standardized
+for individuals with low-vision are limitations of the study. If
+there indeed is a PRL location that influences reading speed, we
+believe that larger studies which include additional analyses for
+reading direction (left-to-right, top-to-bottom) may be valuable to elucidate the role of PRL localization on reading speed.
+
+Conclusion
+The reading speed of low-vision individuals with AMD is often
+insufficient for fluent reading, and the recuperation of reading
+speed is an important aspect of low-vision rehabilitation. Since
+reading performance appears to be significantly affected by fixation stability in patients with AMD, near vision rehabilitation
+therapies may benefit from the incorporation of methods such
+as microperimetric biofeedback training to increase fixation
+stability.
+
+Highlights
+● Reading speed is strongly associated with fixation stability.
+● Reading speed is associated with a number of factors at varying
+degrees.
+● The presence for absolute foveal scotoma is more determinant in the
+reading speed then the size of the scotoma.
+● There is no relationship between reading speed and the retinal locus
+preferred for fixation.
+
+Author contributions
+Conceptualization; Deniz Altinbay, Aysun Idil, Data Curation; Deniz
+Altinbay, Esra Sahli, Formal Analysis; Deniz Altinbay, Esra Sahli, Aysun
+Idil, Investigation; Deniz Altinbay, Esra Sahli, Methodology; Deniz
+Altinbay, Esra Sahli, Aysun Idil Project administration; Aysun Idil,
+Supervision; Aysun Idil, Validation; Aysun Idil, Visualization; Esra
+Sahli, Roles/Writing-original draft; Deniz Altinbay, Writing review&editing; Deniz Altinbay, Esra Sahli, Aysun Idil
+
+Disclosure statement
+The authors report no conflicts of interest.
+
+Funding
+This research was supported by Ankara University Scientific Research
+Projects Directorate [Project number 18L0230015].
+
+ORCID
+Deniz Altinbay
+http://orcid.org/0000-0002-3976-4361
+Aysun Idil
+http://orcid.org/0000-0002-5979-9158
+Esra Sahli
+http://orcid.org/0000-0002-1355-7284
+
+References
+1. Kleen SR, Levoy RJ. Low vision care: correlation of patient age,
+visual goals, and aids prescribed. Optom Vis Sci. 1981;58
+(3):200–05. doi:10.1097/00006324-198103000-00003.
+
+
+[page 8]
+CURRENT EYE RESEARCH
+
+2. Ramrattan RS, Wolfs RC, Panda-Jonas S, Jonas JB, Bakker D,
+Pols HA, Hofman A, De Jong PT. Prevalence and causes of visual
+field loss in the elderly and associations with impairment in daily
+functioning: the Rotterdam study. Arch Ophthalmol. 2001;119
+(12):1788–94. doi:10.1001/archopht.119.12.1788.
+3. Legge GE, Pelli DG, Rubin GS, Schleske MM. Psychophysics of
+reading—I. Normal vision. Vision Res. 1985;25(2):239–52.
+doi:10.1016/0042-6989(85)90117-8.
+4. White JM, Bedell HE. The oculomotor reference in humans with
+bilateral macular disease. Invest Ophthalmol Vis Sci.
+1990;31:1149–61.
+5. Calabrèse A, Owsley C, McGwin G, Legge GE. Development of
+a reading accessibility index using the MNREAD acuity chart.
+JAMA Ophthalmol. 2016 Apr;134(4):398–405. doi:10.1001/
+jamaophthalmol.2015.6097.
+6. Crossland MD, Culham LE, Rubin GS. Fixation stability and reading speed in patients with newly developed macular disease.
+Ophthalmic Physiol Opt. 2004;24(4):327–33. doi:10.1111/j.14751313.2004.00213.x.
+7. Giacomelli G, Virgili G, Giansanti F, Sato G, Cappello E,
+Cruciani F, Varano M, Menchini U. Clinical and microperimetric
+predictors of reading speed in low vision patients: a structural
+equation modeling approach. Invest Ophthalmol Vis Sci. 2013;54
+(6):4403–08. doi:10.1167/iovs.12-10734.
+8. Fujita K, Naruse M, Oda K, Yuzawa M. Reading performance in
+the scar stage of age-related macular degeneration. Nippon Ganka
+Gakkai Zasshi. 2005;109:83–87.
+9. Legge GE, Ahn SJ, Klitz TS, Luebker A. Psychophysics of reading—
+XVI. The visual span in normal and low vision. Vision Res. 1997;37
+(14):1999–2010. doi:10.1016/S0042-6989(97)00017-5.
+10. Fletcher DC, Schuchard RA. Preferred retinal loci relationship to
+macular scotomas in a low-vision population. Ophthalmology.
+1997;104(4):632–38. doi:10.1016/S0161-6420(97)30260-7.
+11. Whittaker SG, Lovie-Kitchin J. Visual requirements for reading.
+Optometry Vision Sci. 1993;70(1):54–65. doi:10.1097/00006324199301000-00010.
+12. Verdina T, Giacomelli G, Sodi A, Pennino M, Paggini C, Murro V,
+Virgili G, Menchini U. Biofeedback rehabilitation of eccentric
+fixation in patients with Stargardt disease. Eur J Ophthalmol.
+2013;23(5):723–31. doi:10.5301/ejo.5000291.
+13. Ergun E, Maár N, Radner W, Barbazetto I, Schmidt-Erfurth U,
+Stur M. Scotoma size and reading speed in patients with subfoveal
+occult choroidal neovascularization in age-related macular
+degeneration. Ophthalmology. 2003;110(1):65–69. doi:10.1016/
+S0161-6420(02)01566-X.
+14. Legge GE, Mansfield JS, Chung ST. Psychophysics of reading: XX.
+Linking letter recognition to reading speed in central and peripheral vision. Vision Res. 2001;41(6):725–43. doi:10.1016/S00426989(00)00295-9.
+15. Brussee T, Van Den Berg TJ, Van Nispen RM, De Boer I, Van
+Rens GH. Association between contrast sensitivity and reading
+with macular pathology. Optom Vis Sci. 2018;95(3):183–92.
+doi:10.1097/OPX.0000000000001178.
+16. Rodríguez-Aranda C. Reduced writing and reading speed and
+age-related changes in verbal fluency tasks. Clin Neuropsychol.
+2003;17(2):203–15. doi:10.1076/clin.17.2.203.16508.
+17. Trauzettel-Klosinski S. Rehabilitation for visual disorders. J
+Neuroophthalmol. 2010;30(1):73–84. doi:10.1097/WNO.0b013e3181ce7e8f.
+18. Trauzettel-Klosinski S. Current methods of visual rehabilitation.
+Deutsches Ärzteblatt Int. 2011;108(51–52):871. doi:10.3238/
+arztebl.2011.0871.
+19. Schuchard R. Preferred retinal locus: a review with application in low
+vision rehabilitation. Low Vision Vision Rehabil. 1994;7:243–56.
+20. Sunness JS, Applegate CA, Haselwood D, Rubin GS. Fixation patterns and
+reading rates in eyes with central scotomas from advanced atrophic
+
+7
+
+age-related macular degeneration and Stargardt disease. Ophthalmology.
+1996;103(9):1458–66. doi:10.1016/S0161-6420(96)30483-1.
+21. Markowitz SN, Aleykina N. The relationship between scotoma
+displacement and preferred retinal loci in low-vision patients
+with age-related macular degeneration. Can J Ophthalmol.
+2010;45(1):58–61. doi:10.3129/i09-244.
+22. Schuchard RA. Preferred retinal loci and macular scotoma characteristics in patients with age-related macular degeneration. Can
+J Ophthalmol. 2005;40(3):303–12. doi:10.1016/S0008-4182(05)80073-0.
+23. Fujii GY, De Juan E Jr, Humayun MS, Sunness JS, Chang TS, Rossi JV.
+Characteristics of visual loss by scanning laser ophthalmoscope microperimetry in eyes with subfoveal choroidal neovascularization secondary to age-related macular degeneration. Am J Ophthalmol. 2003;136
+(6):1067–78. doi:10.1016/S0002-9394(03)00663-9.
+24. Greenstein VC, Santos RA, Tsang SH, Smith RT, Barile GR,
+Seiple W. Preferred retinal locus in macular disease: characteristics
+and clinical implications. Retina. 2008;28(9):1234. doi:10.1097/
+IAE.0b013e31817c1b47.
+25. Midena E, Pilotto E. Microperimetry in age: related macular
+degeneration. Eye. 2017;31(7):985–94. doi:10.1038/eye.2017.34.
+26. Rodríguez-Galietero A, Montés-Micó R, Muñoz G, Albarrán-Diego C.
+Comparison of contrast sensitivity and color discrimination after clear
+and yellow intraocular lens implantation. J Cataract Refract Surg.
+2005;31(9):1736–40. doi:10.1016/j.jcrs.2005.02.039.
+27. Toprak AB, Eser E, Guler C, Baser FE, Mayali H. Cross-validation
+of the Turkish version of the 25-item national eye institute visual
+functioning questionnaire (NEI-VFQ 25). Ophthalmic Epidemiol.
+2005;12(4):259–69. doi:10.1080/09286580590967763.
+28. İdil AŞ, Çalışkan D, İdil BN. Development and validation of the
+Turkish version of the MNREAD visual acuity charts. Turk J Med
+Sci. 2011;41(4):565–70. doi:10.3906/sag-1008-1.
+29. Fujii GY, De Juan E Jr, Sunness J, Ms H, Pieramici DJ, Chang TS.
+Patient selection for macular translocation surgery using the scanning laser ophthalmoscope. Ophthalmology. 2002;109(9):1737–44.
+doi:10.1016/S0161-6420(02)01120-X.
+30. Tarita-Nistor L, Gonzalez EG, Markowitz SN, Steinbach MJ.
+Fixation characteristics of patients with macular degeneration
+recorded with the mp-1 microperimeter. Retina. 2008;28
+(1):125–33. doi:10.1097/IAE.0b013e3180ed4571.
+31. Erbezci M, Ozturk T. Preferred retinal locus locations in
+age-related macular degeneration. Retina. 2018;38(12):2372–78.
+doi:10.1097/IAE.0000000000001897.
+32. Trauzettel-Klosinski S. Eccentric fixation with hemianopic field
+defects: a valuable strategy to improve reading ability and an
+indication of cortical plasticity. Neuroophthalmology. 1997;18
+(3):117–31. doi:10.3109/01658109709044129.
+33. Chung ST, Mansfield JS, Legge GE. Psychophysics of reading.
+XVIII. The effect of print size on reading speed in normal peripheral vision. Vision Res. 1998;38(19):2949–62. doi:10.1016/S00426989(98)00072-8.
+34. Sunness JS, Applegate CA. Long-term follow-up of fixation patterns in eyes with central scotomas from geographic atrophy that
+is associated with age-related macular degeneration. Am
+J Ophthalmol. 2005;140(6):1085–93. doi:10.1016/j.ajo.2005.
+07.040.
+35. Antunes-Foschini R, Ho W, Messias A. Eccentric fixation patterns,
+clinical findings, and reading speed in patients with bilateral toxoplasmic macular retinochoroiditis. Arq Bras Oftalmol. 2018;81
+(5):401–07. doi:10.5935/0004-2749.20180078.
+36. Finger RP, Issa PC, Fimmers R, Holz FG, Rubin GS, Scholl HP.
+Reading performance is reduced by parafoveal scotomas in patients
+with macular telangiectasia type 2. Invest Ophthalmol Vis Sci.
+2009;50(3):1366–70. doi:10.1167/iovs.08-2032.
+37. Calabrese A, Bernard J-B, Hoffart L, Faure G, Barouch F,
+Conrath J, Castet E. Wet versus dry age-related macular
+
+
+[page 9]
+8
+
+D. ALTINBAY ET AL.
+
+degeneration in patients with central field loss: different effects on
+maximum reading speed. Invest Ophthalmol Vis Sci. 2011;52
+(5):2417–24. doi:10.1167/iovs.09-5056.
+38. Fletcher DC, Schuchard RA, Watson G. Relative locations of
+macular scotomas near the PRL: effect on low vision reading.
+J Rehabil Res Dev. 1999;36:356–64.
+39. Nilsson UL, Frennesson C, Nilsson SEG. Patients with AMD and a large
+absolute central scotoma can be trained successfully to use eccentric viewing, as demonstrated in a scanning laser ophthalmoscope. Vision Res.
+2003;43(16):1777–87. doi:10.1016/S0042-6989(03)00219-0.
+
+40. Crossland MD, Culham LE, Kabanarou SA, Rubin GS. Preferred retinal
+locus development in patients with macular disease. Ophthalmology.
+2005;112(9):1579–85. doi:10.1016/j.ophtha.2005.03.027.
+41. Tarita-Nistor L, González EG, Markowitz SN, Steinbach MJ.
+Plasticity of fixation in patients with central vision loss. Vis
+Neurosci. 2009;26(5–6):487–94. doi:10.1017/S0952523809990265.
+42. Molina-Martín A, Pérez-Cambrodí RJ, Piñero DP. Current
+Clinical Application of Microperimetry: A Review. Semin
+Ophthalmol. 2018;33(5):620–28. doi:10.1080/08820538.2017.137
+5125.
+

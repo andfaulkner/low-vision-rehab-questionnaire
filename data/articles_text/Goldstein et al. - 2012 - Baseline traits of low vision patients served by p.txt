@@ -1,0 +1,1395 @@
+[page 1]
+EPIDEMIOLOGY
+
+Baseline Traits of Low Vision Patients
+Served by Private Outpatient Clinical Centers
+in the United States
+Judith E. Goldstein, OD; Robert W. Massof, PhD; James T. Deremeik, CLVT; Sonya Braudway, OD;
+Mary Lou Jackson, MD; K. Bradley Kehler, OD; Susan A. Primo, OD, MPH; Janet S. Sunness, MD;
+for the Low Vision Research Network Study Group
+
+Objective: To characterize the traits of low vision patients who seek outpatient low vision rehabilitation (LVR)
+services in the United States.
+Methods: In a prospective observational study, we enrolled 764 new low vision patients seeking outpatient LVR
+services from 28 clinical centers in the United States. Before their initial appointment, multiple questionnaires assessing daily living and vision, physical, psychological,
+and cognitive health states were administered by telephone. Baseline clinical visual impairment measures and
+disorder diagnoses were recorded.
+Results: Patients had a median age of 77 years, were primarily female (66%), and had macular disease (55%), most
+of which was nonneovascular age-related macular degeneration. More than one-third of the patients (37%)
+had mild vision impairment with habitual visual acuity
+(VA) of 20/60 or greater. The VA correlated well with
+contrast sensitivity (r = −0.52) but poorly with self-
+
+Author Affiliations: Lions
+Vision Research and
+Rehabilitation Center, Wilmer
+Eye Institute, The Johns
+Hopkins University School of
+Medicine, Baltimore, Maryland
+(Drs Goldstein and Massof and
+Mr Deremeik); Center for
+Retina and Macular Disease,
+Winter Haven, Florida
+(Dr Braudway); Massachusetts
+Eye and Ear Infirmary,
+Department of Ophthalmology,
+Harvard Medical School, Boston
+(Dr Jackson); Vanderbilt Eye
+Institute, Nashville, Tennessee
+(Dr Kehler); Emory Eye Center,
+Atlanta, Georgia (Dr Primo);
+and Hoover Low Vision
+Rehabilitation Services, Greater
+Baltimore Medical Center,
+Baltimore (Dr Sunness).
+Group Information: A list of
+the Low Vision Research
+Network Study Group members
+appears at the end of this
+article.
+
+L
+
+reported vision quality. The intake survey revealed self reported physical health limitations, including decreased endurance (68%) and mobility problems (52%).
+Many patients reported increased levels of frustration
+(42%) and depressed mood (22%); memory and cognitive impairment (11%) were less frequently endorsed. Patients relied on others for daily living support (87%), but
+many (31%) still drove.
+Conclusions: Most patients seeking LVR are geriatric and
+have macular disease with relatively preserved VA. The
+disparity between VA and subjective quality of vision suggests that LVR referrals are based on symptoms rather
+than on VA alone. Patients seen for LVR services have
+significant physical, psychological, and cognitive disorders that can amplify vision disabilities and decrease rehabilitation potential.
+
+Arch Ophthalmol. 2012;130(8):1028-1037
+
+OW VISION TYPICALLY IS DE-
+
+fined as chronic visual impairments that limit the person’s ability to perform his
+or her usual daily activities.1-3 Depending on the visual acuity (VA)
+criterion used, less than or equal to 20/70
+or less than 20/40, epidemiological studies4,5 show that 1.5 to 3.5 million Americans, respectively, older than 40 years have
+low vision. It is estimated that these numbers will increase significantly by 2025 because of the aging of the population.4,5 By
+2030, 1 in 5 people will be elderly (⬎65
+years old), and the oldest old (ⱖ85 years)
+will be the fastest growing segment of the
+elderly population. Because the prevalence rate of vision impairment sharply increases in persons older than 65 years, we
+can expect a growing need for low vision
+rehabilitation (LVR) services for the next
+several decades.6
+Age-related macular degeneration
+(AMD), cataracts, and glaucoma are the
+major causes of low vision in adults older
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1028
+
+than 40 years in the United States.4,5 Recent improvements in treatments undoubtedly have led to a reduction in the incidence of severe vision impairment and total
+blindness. However, the number of people
+with moderate impairment that causes
+chronic disabling effects on daily function continues to rise.
+Vision impairment is strongly associated with a reduction in quality of life.7,8
+It is a common cause of reading difficulty, mobility problems, loss of driving
+ability, and loss of personal independence.9-12 Low vision is one of the leading causes of disability and is associated
+with high rates of depression and increased rates of morbidity and mortality.13-19
+Low vision rehabilitation is the primary intervention for chronic visual impairment to improve daily function. It
+seeks to maximize the patient’s ability to
+perform daily activities, thereby improving quality of life, through the use of vision assistive equipment (VAE) and rehabili-
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 2]
+tation therapy.20 During the past 15 years, the LVR field
+has evolved into a multidisciplinary model resembling
+physical medicine and rehabilitation.20,21 Standards of practice or certification in the United States have been outlined for each of the 4 major disciplines that provide services to low vision patients: ophthalmology, optometry,
+occupational therapy, and vision rehabilitation therapy.22-26
+Medicare coverage of physician evaluations and occupational therapy services has made LVR more accessible. Despite these changes, a recent survey of LVR outpatient clinics and services in the United States revealed
+considerable variability in the type and intensity of services provided.27 In addition, acquisition of VAE, orientation and mobility training, and therapy by vision rehabilitation therapists who are not also occupational
+therapists remain noncovered.28
+Because LVR is impacted by the person’s overall health
+state, it is important to factor patient traits besides vision into the rehabilitation plan. Individual LVR plans
+must consider the patient’s comorbidities, codisabilities, living arrangements, available resources, and personal preferences to set effective rehabilitation goals and
+determine the patient’s rehabilitation potential. To better understand this challenge, the objective of the present study was to characterize the traits of low vision patients who seek LVR services in the private sector of the
+US health care system.
+METHODS
+
+RECRUITMENT AND CONSENT
+A total of 764 patients from 28 clinical centers in the United
+States were enrolled between April 25, 2008, and May 2, 2011,
+in a prospective observational study of usual LVR care. Participating centers included university-based clinics, private practice settings, and multidisciplinary rehabilitation centers. Appeal for center participation was publicized at professional
+conferences and research meetings (Envision and the Association for Research in Vision and Ophthalmology) between 2007
+and 2010 and by word of mouth. Participation was open to any
+LVR center in the United States that provided direct care by an
+optometrist or ophthalmologist and had the ability to comply
+with the study protocol. The study was approved by The Johns
+Hopkins University institutional review board and adhered to
+the tenets of the Declaration of Helsinki. In addition, all the
+study sites complied with the requirements of the Health Insurance Portability and Accountability Act and, when required, also obtained separate institutional review board approval for their participating centers. All the patients provided
+oral consent for their study participation before enrollment.
+The inclusion criteria were as follows: new patients to LVR
+(no LVR services from the physician or subspecialty group practice in the past 3 years), age 18 years or older, and ability to
+hear and respond to questions in English over the telephone.
+No VA, visual field, or diagnosis requirements were defined because the study objective was to evaluate typical patients seeking LVR services.
+Patients were recruited via telephone by each of the 28 sites.
+A designated individual from each site contacted new patients
+who had an appointment scheduled 2 weeks or longer after the
+time of the call. Variation likely existed between centers, and
+many, but not all, new patients were able to be contacted in
+advance. After providing verbal agreement to consider partici-
+
+pation, each prospective study patient was mailed a contact authorization form in large print that had to be signed and returned in the provided self-addressed stamped envelope to the
+coordinating center at The Johns Hopkins University before the
+patient could be contacted. On receipt of the signed contact
+authorization, a research assistant called the patient, described the study further, and obtained oral consent on the telephone to participate in the study. At that time, either an appointment was scheduled for a future telephone interview or,
+if the patient was available, the interview began immediately.
+
+PATIENT INTERVIEW AND STUDY DESIGN
+To measure the overall health and vision state as observed by
+the patient, a series of questionnaires was administered in 1 or
+2 telephone interviews before the initial clinical examination.
+The mean total interview time was 62 minutes. Questionnaires included a standardized “check-box” intake survey that
+detailed ocular, medical, physical, psychological, and social history status. In addition, the Activity Inventory,29 Telephone Interview for Cognitive Status,30 Geriatric Depression Scale,31 36Item Short Form Health Survey (Physical Functioning, Mental
+Health, and General Health scales),32 and EuroQoL33 were administered. Before the patient’s appointment, the physician was
+provided reports of the intake survey, Activity Inventory with
+summary scores, and raw scores of the Geriatric Depression Scale
+and Telephone Interview for Cognitive Status. The results of
+the Activity Inventory, Telephone Interview for Cognitive Status, Geriatric Depression Scale, 36-Item Short Form Health Survey, and EuroQoL will be described in later reports.
+During the clinic visit, usual care was provided, which included evaluation of visual function by the optometrist or ophthalmologist. After the initial evaluation, clinical data on each
+study patient were submitted to the data coordinating center
+via a secure web server. Given the study objective of observing
+outcomes of usual care, there were no study protocols for vision testing or intervention. Clinical data were entered online
+using the usual testing modality preferences of the different centers selected from pull-down menus, with the option of “not
+measured” available for each field. Clinical data included habitual and best-corrected VA (Early Treatment Diabetic Retinopathy Study, Snellen, or Feinbloom) for each eye and both
+eyes and contrast sensitivity (CS) measurement (Pelli Robson, Mars, Hamilton-Veale, Vision Contrast Test System,
+Eschenbach continuous text low-contrast chart [Eschenbach
+Optik], Bailey-Lovie LogMar, or Lea Numbers). If peripheral
+visual field measurements were performed, the method of testing (confrontation, tangent screen, Octopus, Goldmann, Humphrey, or Esterman) and descriptive results (normal, quadrantanopsia, altitudinal defect, hemianopsia, generalized
+constriction, nasal step, or arcuate defect) were submitted. If
+central visual field testing was performed, the method of testing (clinical observation, Amsler, Humphrey, MP1, SLO, California CVFT, OPKO, or Goldmann) was submitted along with
+the descriptive results, such as the presence or absence of a scotoma(s) and scotoma location relative to the preferred retinal
+locus. One primary and up to 3 secondary International Classification of Diseases, Ninth Revision, Clinical Modification (ICD9-CM) disorder diagnostic codes were submitted for each eye.
+RESULTS
+
+Between April 25, 2008, and May 2, 2011, 1103 first visit low vision patients were recruited by 28 clinical centers across the United States. Of the 1103 patients who
+signed and returned the contact authorization form, 47
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1029
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 3]
+20
+18
+
+Women
+Men
+
+16
+
+Patients, %
+
+14
+12
+10
+8
+6
+4
+2
+0
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+95
+
+100
+
+Age, y
+
+Figure 1. Distribution of age by sex of new patients seeking outpatient low vision rehabilitation services.
+
+Table 1. Better-Eye Primary Diagnoses for New Patients
+Obtaining Low Vision Rehabilitation Services
+
+Table 2. Prevalence of Visual Impairment
+Visual Impairment
+
+Diagnosis
+
+Patients, %
+
+Atrophic AMD
+Exudative AMD
+Glaucoma
+Inherited macular degeneration
+Diabetic retinopathy
+Other macular
+Other
+Anterior segment
+Optic atrophy
+Inherited retinal degeneration
+Stroke
+Other retina
+Other retinal vascular
+Other optic neuropathy
+
+26
+12
+10
+10
+8
+7
+5
+5
+4
+4
+3
+3
+2
+2
+
+Abbreviation: AMD, age-related macular degeneration.
+
+(4.3%) could not be contacted by telephone; of those
+contacted, 103 (10%) were ineligible (92 because the
+form was returned too late, 7 because of poor hearing,
+and 4 because they were not new patients); of the 953
+eligible patients, 168 (17.6%) declined participation in
+the study. The baseline interview was completed by
+764 patients (97% of all enrolled patients). Baseline
+clinical data were obtained by the participating clinical
+centers and were reported for 675 of the 764 participating patients (88.4%).
+Figure 1 shows the patient age distribution. The median age was 77 years (age range, 19-98 years). Patients
+aged 65 years and older composed 73% of enrolled new
+low vision patients. Women composed 66% of the sample,
+and both sexes had similar age distributions.
+Ocular disease status and visual system disorders of
+patients as determined by examination are given in
+Table 1. Ocular diagnoses were reported for each eye,
+and primary diagnosis refers to the eye with the better
+
+Habitual visual acuity in better eye (n = 646)
+Mild (ⱖ20/60)
+Moderate (⬍20/70 to ⬎20/200)
+Severe (⬍20/200 to ⬎20/500)
+Profound (⬍20/500 to NLP)
+Contrast sensitivity (n = 323)
+Mild (⬎1.3 logCS)
+Moderate (⬍1.3 to ⬎0.8 logCS)
+Severe (⬍0.8 logCS)
+
+Patients, %
+37
+38
+19
+6
+24
+43
+33
+
+Abbreviations: logCS, log contrast sensitivity; NLP, no light perception.
+
+habitual VA. The primary diagnosis in approximately half
+the patients was macular disease (55%), with atrophic
+AMD (26% of all patients) (ICD-9-CM code 362.51) being
+the most common diagnosis, followed by neovascular
+AMD (12% of all patients) (ICD-9-CM code 362.52).
+The prevalence rates of better-eye habitual VA are given
+in Table 2. Mild VA loss (ⱖ20/60) was present in approximately one-third of patients (37%). Of patients for
+whom CS was measured (50% of all the patients), 24%
+had mild CS loss and 22% had mild VA loss with moderate or severe CS loss. Mean CS was 0.96 logCS (moderately reduced), and logCS is significantly correlated with
+logMAR VA (r=−0.52, P⬍.001). Figure 2 illustrates the
+relationship between VA and perceived quality of vision. Most patients with VA of 20/60 or greater rated the
+quality of their vision as fair (42%) or poor (40%), and
+the prevalence rate of self-reported poor vision quality
+increased with worsening VA. A similar trend was evident in patients with good CS (⬎1.3 logCS) in that they
+rated their vision quality as fair (42%) or poor (30%).
+Almost half of all the patients (49%) reported fluctuations in their vision, 72% reported that their vision had
+worsened over the last year, and 68% reported that lighting has a major effect on performance of activities.
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1030
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 4]
+80
+
+70
+
+Patients in Acuity Group, %
+
+60
+
+≥ 20/60
+< 20/60 to > 20/200
+≤ 20/200 to ≥ 20/500
+< 20/500
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+Excellent
+
+Very Good
+
+Good
+
+Fair
+
+Poor
+
+Self-reported Vision Quality
+
+Figure 2. Frequency of self-reported vision quality for different levels of better-eye habitual visual acuity.
+
+Table 3 indicates that most patients seeking LVR services rated themselves as being in good to excellent general health, particularly those aged 71 to 80 years. The
+most frequently occurring conditions that potentially
+could cause physical limitations were osteoarthritis (37%),
+heart disease (31%), and back pain (30%). More than onehalf of patients (60%) seeking LVR services reported that
+physical disabilities limit their ability to perform daily
+activities. Of those individuals, the impact of physical disabilities makes the performance of everyday activities
+moderately difficult (59%), very difficult (37%), or impossible (4%). Endurance limitations were common
+(68%), exhibited primarily as fatigue (49% of all the patients) and joint pain (38% of all the patients). Mobility
+adaptations were reported by 37% of patients, manifested through the nonexclusive use of supportive aids,
+primarily straight canes (23% of all the patients) and walkers (16% of all the patients). Table 3 also lists the prevalence rates of other characteristics of physical, psychological, and cognitive health states.
+More than half of all the patients (52%) reported that
+they had experienced a fall during the previous 2 years,
+and 39% of individuals who had a fall reported it to be
+vision related. A similar proportion of falls occurred inside (54%) and outside (55%) the home. Upper body
+physical limitations were less frequently reported, although almost one-third of patients (30%) experienced
+hand limitations, primarily as numbness/tingling (22%
+of all the patients) and difficulty handling small objects
+(13% of all the patients). Self-reported hand grip strength
+was similarly affected as noted by intermediate (30%) and
+weak (10%) grip ability.
+In describing their current emotional state, patients
+reported that they are depressed (22%), are anxious (23%),
+have difficulty coping (16%), and are frustrated (42%).
+Most patients (88%) stated that they are well-adjusted,
+and even among individuals who reported depression,
+60% also reported that they are well-adjusted. In describing memory ability, 39% of all the patients self-reported
+
+no memory problems, and 47% reported occasional periods of forgetfulness; 10% reported that they are frequently forgetful. Hearing loss was reported by 40% of
+all the patients, whereas 19% of all the patients reported
+wearing hearing aids.
+Table 4 describes the daily living arrangements and
+support structure of low vision patients. Most patients
+live with someone, either a spouse/companion (50%) or
+a family member (18%), and 39% live alone. Most live
+in a house (65%) or apartment/condominium (20%); relatively few live in a retirement community (7%) or nursing home (⬍1%). Most individuals (87%) rely on the nonexclusive support of family members (77%) or friends
+(38%) for assistance, and far fewer rely on community
+or local home care resources (16%). In terms of employment, 15% of all the patients were employed, 6% were
+seeking employment, and 17% were receiving long term disability for their vision or another condition; 20%
+of patients reported that they were engaged in volunteer
+work. The most common source of transportation for patients was riding with family or friends (81%), although
+30% continue to drive themselves in some capacity.
+Whereas 59% of all the patients are licensed to drive, only
+31% of all the patients are driving. Of individuals who
+drive, most (85%) limit their driving to daytime only
+(81%) and/or familiar areas (73%).
+Figure 3 shows previous patient experience with VAE.
+Although less than one-fifth of all the patients had ever
+been exposed to LVR services (15%), device training (7%),
+daily living skills training (5%), or eccentric viewing training (⬍1%), more than half of all the patients (66%) reported using handheld magnifiers at the time of their
+evaluation. Other reading aids and modifications that patients reported using before seeking current LVR services are closed-circuit television (CCTV) or video
+magnifier (10%), audio books/reading service (21%),
+large-print books/magazines (22%), and increased font
+size on the computer screen (12%).
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1031
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 5]
+Table 3. Self-reported Physical, Psychological, and
+Cognitive Traits a
+
+Table 3. Self-reported Physical, Psychological, and
+Cognitive Traits a (continued)
+Patients,
+No. (%)
+
+Trait
+Comorbid condition (n = 764) b
+Diabetes mellitus
+Heart problems
+Heart attack
+High blood pressure
+Thyroid disease
+Osteoarthritis
+High cholesterol
+Seizures
+Parkinson disease
+Other neurologic disease
+Lung disease
+Cancer
+Depression
+Kidney disease
+Liver disease
+Stroke
+Rheumatoid arthritis
+Partial paralysis
+Blood disease
+Back pain
+Stomach disease
+General health state (n = 763)
+Excellent
+Very good
+Good
+Fair
+Poor
+No response
+Endurance limitations (n = 763) b
+None
+Joint or muscle pain
+Other continuous pain
+Fatigues easily
+Nervous or anxious
+Limited attention span
+Difficulty staying awake
+Tics, seizures, or other nervous conditions
+Mobility adaptations (n = 699) b
+None
+Straight cane use
+Quad cane use
+Hold on to wall/furniture for support
+Manual wheelchair use
+Walker/rollator use
+
+Fall in the past 2 y (n = 564) c
+Yes
+Vision-related fall (n = 292)
+Fall inside the home (n = 292)
+Fall outside the home (n = 292)
+Fall on curb (n = 292)
+Fall on steps (n = 292)
+Motion limitations (n = 724) b
+None
+Head tremors
+Limited head/neck movement
+Limited arm movement
+Limited balance when seated
+Hand limitations (n = 687) b
+None
+Hand tremors
+Can use only 1 hand
+Numbness/tingling in hands
+Difficulty handling small objects
+Missing fingers
+Hand grip (n = 763)
+Strong
+Intermediate
+Weak
+Unable to grip
+No response
+Emotional state (n = 743) b
+Well-adjusted
+Depressed
+Difficulty coping
+Anxious
+Angry
+Frightened
+Frustrated
+Sad
+No response
+Memory (n = 763)
+No problems
+Occasional periods of forgetfulness
+Frequently forgetful
+Confused
+No response
+
+191 (25)
+237 (31)
+94 (12)
+446 (58)
+135 (18)
+281 (37)
+315 (41)
+16 (2)
+11 (1)
+54 (7)
+119 (16)
+94 (12)
+180 (24)
+60 (8)
+13 (2)
+115 (15)
+30 (4)
+10 (1)
+36 (5)
+232 (30)
+43 (6)
+88 (11)
+182 (24)
+279 (37)
+145 (19)
+56 (7)
+13 (2)
+242 (32)
+292 (38)
+104 (14)
+371 (49)
+133 (17)
+45 (6)
+60 (8)
+45 (6)
+443 (63)
+162 (23)
+27 (4)
+68 (10)
+47 (7)
+115 (16)
+(continued)
+
+COMMENT
+
+The population seeking private outpatient LVR services
+in the United States is primarily older women with
+macular disorders and mild to moderate vision impairment. In addition to their visual limitations, these
+patients report having the physical, psychological, and
+cognitive disorders that are typical in this older age
+group. These comorbidities alone can limit daily functioning, but, when combined with even mild vision
+impairment, can amplify disability and reduce quality of
+life beyond that normally expected to be caused by the
+patient’s level of vision loss.
+
+Patients,
+No. (%)
+
+Trait
+
+292 (52)
+115 (39)
+158 (54)
+160 (55)
+37 (13)
+57 (20)
+618 (85)
+7 (⬍1)
+49 (7)
+49 (7)
+18 (2)
+481 (70)
+61 (9)
+9 (1)
+150 (22)
+90 (13)
+5 (⬍1)
+433 (57)
+231 (30)
+76 (10)
+3 (⬍1)
+20 (3)
+654 (88)
+167 (22)
+118 (16)
+169 (23)
+94 (13)
+84 (11)
+310 (42)
+134 (18)
+0
+299 (39)
+361 (47)
+73 (10)
+7 (⬍1)
+23 (3)
+
+a The number of patients is not the same for all categories because
+patients could elect not to answer questions.
+b Multiple descriptions were permitted, and, therefore, category totals may
+exceed 100%.
+c A question was added midway through the study.
+
+Although vision loss is the motive for patients to seek
+LVR services, more than one-third of patients (37%) who
+sought care have mild habitual VA loss (20/20 to 20/60
+in the better eye) and macular degeneration.34,35 The present findings are consistent with those of previous studies and point to factors other than VA as affecting visual
+functioning.36 For example, even with successful anti–
+vascular endothelial growth factor therapy for neovascular AMD, patients are often left with small VA loss but
+report having difficulty meeting the visual demands of
+daily living.37,38 Losses in CS and visual field loss or paracentral scotomas have been identified as important independent contributors to losses in visual function. 10,39-41 Although CS in the present sample is
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1032
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 6]
+moderately correlated with VA (r = −0.52), almost one fifth of patients (18.3%) with mild to moderate (⬎20/
+200) VA loss had poor CS (⬍0.8 logCS).42,43 This clinical presentation is commonly seen in nonneovascular
+AMD with nonfoveal geographic atrophy and in advanced glaucoma.
+The overall ability of patients to perform routine activities is limited by physical, psychological, cognitive,
+and vision health states and their interactions.44,45 The
+prevalence rates of different chronic physical health problems in the present sample are consistent with prevalence rates reported by epidemiological studies of the general elderly population. 46,47 Specifically, the high
+prevalence of arthritis, back pain, and heart disease in
+this sample concurs with the observation that more than
+half the patients report that their physical health status
+limits their ability to perform daily activities.48 Joint pain,
+fatigue, and reduced endurance in this cohort are major
+impediments to performing sustained physical activities and often manifest as impaired mobility function.
+These physical limitations combined with visual impairments may put low vision patients at higher risk for falls.
+More than half of this sample (52%) reported experiencing a fall in the past 2 years, and of those, one-third attributed the fall to their vision. When there is an accumulation of multiple disabilities, such as vision loss in
+addition to musculoskeletal or vestibular disorders, balance control problems can become amplified.35,47,49-53 Epidemiological studies have shown that even mild VA loss
+increases the risk of falling, with fall prevalence ratios
+(relative to 20/20 VA) increasing by a factor of 2 for VA
+less than 20/30 in the better eye.52,54 Although the risk
+could be ameliorated with the use of assistive mobility
+devices, only approximately one-third of low vision patients (37%) use mobility devices such as a cane or walker.
+Declining physical and visual function can limit the
+performance of daily living activities, which can lead to
+depression, which, in turn, can reduce rehabilitation potential. In this sample, almost one-quarter of patients reported depression when queried as part of the overall
+medical systems review (24%) and when queried about
+their current emotional state (22%). Depression prevalence rates in this sample are within the range reported
+by previous studies for which patients were recruited from
+retina or LVR practices (4%-63%)14,15,55-58 and from geriatric primary care (general population) settings
+(3%-35%).59,60 The wide range in rates can be attributed
+to variability in the method of assessment (eg, survey vs
+clinical interview), survey choice, criteria used, population studied, and whether the measurement is referencing major or minor depression. More than half of this
+sample (60%) who reported their current emotional state
+as “depressed” also described themselves as being “well adjusted,” which suggests that most may be experiencing minor, rather than major, depression. Individuals with
+acquired visual impairment commonly express that everyday activities, such as reading mail or balancing a check
+book, take much greater effort and time to perform, which
+is consistent with more than one-third of all the patients (42%) reporting that they are “frustrated.”
+Rehabilitation frequently requires learning new
+skills and compensatory strategies, both of which de-
+
+Table 4. Self-reported Daily Living Arrangements, Support,
+and Transportation Structure a
+
+Variable
+Living arrangements (n = 748) b
+Alone
+With spouse/companion
+With adult children
+With young children
+With sibling or other relatives
+With parents or guardian
+Living location (n = 753) b
+House
+Apartment
+Condominium
+Townhouse
+Independent living/retirement community
+Nursing home
+Mobile home
+Other
+Support services used (n = 730) b
+None
+Family members
+Friends
+Community-sponsored services
+Church groups
+Vocational rehabilitation or other government agency
+Home health care services
+Support groups
+Current sources of transportation (n = 764) b
+Drive self
+Public transportation
+Taxicabs
+Ride with family or friends
+Chauffeur service
+Special transportation service
+Other
+Driving (n = 763)
+Licensed to drive
+Not licensed to drive
+No response
+Currently driving (n = 763)
+Yes
+No
+No response
+Currently limiting driving (n = 237) b
+Daytime only (n = 201)
+Familiar areas only (n = 201)
+Low-traffic roads (n = 201)
+Not in bright sunlight (n = 201)
+Geographic/certain routes (n = 201)
+No highway/no interstate driving (n = 201)
+Not in bad weather, ie, rain or snow (n = 201)
+
+Patients,
+No. (%)
+290 (39)
+372 (50)
+65 (9)
+30 (4)
+16 (2)
+19 (3)
+496 (66)
+99 (13)
+50 (7)
+17 (2)
+56 (7)
+2 (⬍1)
+25 (3)
+8 (1)
+93 (13)
+565 (77)
+280 (38)
+14 (2)
+33 (5)
+14 (2)
+39 (5)
+12 (2)
+231 (30)
+105 (14)
+61 (8)
+620 (81)
+7 (1)
+142 (19)
+20 (3)
+453 (59)
+294 (39)
+16 (2)
+237 (31)
+505 (66)
+21 (3)
+201 (85)
+163 (81)
+146 (73)
+45 (22)
+33 (16)
+76 (38)
+70 (35)
+77 (38)
+
+a The number of patients is not the same for all categories because
+patients could elect not to answer questions.
+b Multiple descriptions were permitted, and, therefore, category totals may
+exceed 100%.
+
+pend on cognitive function. For this analysis, self-reported memory was used as a surrogate for cognition.
+Most patients seeking LVR services report minimal to
+no problems with their memory, whereas 11% report
+that they are frequently forgetful or confused. These
+rates of self-reported memory dysfunction are within a
+range similar to those of the few general population–
+based studies available, which show prevalence rate es-
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1033
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 7]
+70
+
+Current use
+Past/discontinued use
+
+60
+
+50
+
+Patients, %
+
+40
+
+30
+
+20
+
+10
+
+0
+
+ier
+
+ier
+
+nif
+
+l
+
+he
+
+nd
+
+Ha
+
+ag
+
+dM
+
+an
+
+St
+
+r
+Ve
+
+tro
+
+yS
+
+las
+
+G
+ng
+
+es
+
+s
+
+se
+
+nif
+
+ag
+
+dM
+
+up
+
+Lo
+
+n
+
+Ha
+
+e
+
+op
+
+sc
+
+ele
+dT
+
+a
+
+He
+
+e
+
+las
+
+G
+pe
+
+TV
+
+CC
+
+ps
+
+s
+
+se
+
+m
+
+La
+
+o
+
+sc
+
+le
+Te
+
+s
+
+se
+
+op
+
+sc
+
+ele
+dT
+
+las
+
+D
+
+G
+ark
+
+s
+
+se
+
+las
+
+G
+ted
+
+Tin
+
+Ta
+
+Bo
+
+hin
+
+ac
+
+gM
+
+in
+
+ad
+
+Re
+
+ter
+
+e
+
+s
+
+ok
+
+ng
+lki
+
+rin
+
+e-P
+
+rg
+La
+
+ks
+
+e-
+
+rg
+
+La
+
+tB
+
+in
+Pr
+
+e
+
+ne
+
+oo
+
+pu
+
+m
+
+o
+tC
+
+rt
+
+o
+pp
+
+Su
+
+Ca
+
+y
+
+ilit
+
+an
+
+ob
+
+gC
+
+n
+Lo
+
+Ot
+
+h
+
+M
+er
+
+og
+
+eD
+
+id
+Gu
+
+Vision-Assistive Equipment
+
+Figure 3. Frequency of patients who reported current or past use of vision-assistive equipment. CCTV indicates closed-circuit television.
+
+timates using neuropsychological testing of 16.1% to
+22.2%.61 Given the motivation required and self-selection that occurs with seeking out LVR services and participation in research, we would expect a lower prevalence of cognitive impairment in the present sample
+compared with in the general population. As LVR requires carryover of newly learned techniques, cognitive
+impairment, particularly decreased attention and executive functioning, may adversely affect rehabilitation
+potential or require increased support services to reinforce newly learned skills and adaptations.62,63
+Almost half the patients (40%) in the present sample
+reported difficulty hearing, and almost one-fifth (19% of
+all the patients) use a hearing aid. Although patients with
+hearing impairment that interfered with telephone interviews were excluded from the study (1%), the self report findings are consistent with previous prevalence
+rate estimates for the general population (18.8%51.5%) when surveyed and somewhat higher than studies that used audiologic testing (29%).64,65 When vision
+loss is added to already present hearing loss, coping
+mechanisms, such as speech reading, can break down further, causing communication difficulties. Dual sensory
+loss is associated with decreased intellectual functioning, depression, and amplified difficulties with activities of daily living.2,66-68
+More than one-third of patients (39%) seeking LVR
+services live alone, and most (92%) live in traditional
+residences (house, apartment, etc) as opposed to assisted-living communities or nursing homes. Irrespective of living arrangements, most of the sample (87%)
+rely on family members, friends, and others for assistance with some daily living activities, whereas far
+fewer rely on community support (16%).69 Previous
+studies have reported that this reliance on others is
+greater in the visually impaired population than it is in
+
+the normally sighted population, and, in addition, community resources for daily living support are minimally
+accessed by this population. Transportation is a significant source of reliance on others. Two-thirds (66%) of
+this sample does not drive, and most patients (81%)
+ride with family and friends some or all of the time. Almost one-quarter of the patients are employed, seeking
+employment, or performing volunteer work, which
+adds to the need for transportation.
+Although most patients seeking LVR are licensed to
+drive (59%), only one-third of all the patients (31%)
+report that they continue to do so. This is consistent
+with the results of other studies of prevalence rates of
+driving in low vision populations.11,70 Of those driving,
+most (85%) in the present sample self-impose restrictions, such as daytime-only driving or driving only in
+familiar areas, which agrees with findings from earlier
+studies. 71 Similarly, most patients driving reported
+high confidence and ability behind the wheel. This is
+likely due to modified behavior, such as limiting driving to familiar routes, where reading road signs is less
+critical, and minimizing exposure to high-risk situations, such as avoiding driving at night or in bad
+weather. Loss of driving ability can lead to decreased
+physical activity, depression, and an inability to support
+basic daily living needs.72
+More than three-fourths of patients (85%) in the present sample reported that this was their first experience
+with LVR services and had never before experienced any
+other type of rehabilitation service (eg, occupational
+therapy or physical therapy). Inclusion criteria for this
+study required only that participants were “new patients” to the physician. Despite minimal to no previous
+LVR experience, two-thirds of patients (66%) previously had tried using handheld magnifiers. Although it
+is apparent that individuals are trying over-the-counter
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1034
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 8]
+solutions on their own (eg, handheld magnifiers, CCTV,
+enlarged computer screen fonts, and large-print books),
+without the correct VAE type, power, and training, the
+patient might become discouraged, abandon the approach, and resist VAE recommendations made by LVR
+service providers.73,74 Despite Medicare coverage of physician services and physician-prescribed rehabilitation services for qualifying beneficiaries, VAE is excluded from
+coverage and represents an out-of-pocket expense to the
+private sector low vision population.28
+To our knowledge, this study is the first comprehensive description of the traits of new patients seeking outpatient LVR services in the United States. But, because
+of possible patient selection biases, this sample might not
+be an accurate representation of all new patients seeking LVR services. Although 31% of recruited patients did
+not enroll in the study, of those who were eligible, only
+18% declined participation. Detailed information was not
+captured on nonparticipants, leaving open the possibility that they may have different characteristics. Some might
+argue that self-reported data are less reliable than are clinical records and performance measures. However, when
+clinicians evaluate older patients with chronic visual impairment, information on physical, psychological, and cognitive function is typically assessed by self-report rather
+than by performance testing or use of standardized questionnaires.
+In summary, patients seeking outpatient LVR services
+are predominantly geriatric and female and have macular
+disease. The disparity between VA and subjective quality
+of vision says that VA alone might be insufficient as an indicator of the need for LVR services. In addition to the impact of the visual loss, each patient seeking services may
+have multiple physical, psychological, and cognitive concerns that can amplify the disability and accelerate the functional decline. Consideration and referral for rehabilitation is indicated in patients at increased risk. Although there
+is significant reliance on others for support, the desire to
+remain independent and improve visual function is evident from individuals continuing to work, drive, seek LVR
+services, and pursue VAE strategies. With an understanding of the traits of the low vision patient population, we
+are better positioned to design and study different treatment protocols, determine their effectiveness, and, ultimately, improve functional ability, independence, and quality of life in patients with low vision.
+Submitted for Publication: November 14, 2011; final revision received March 9, 2012; accepted March 20, 2012.
+Correspondence: Judith E. Goldstein, OD, The Lions Vision Center, Sixth Floor, 550 N Broadway, Baltimore, MD
+21205 (jgolds28@jhmi.edu).
+Low Vision Research Network Study Group: Association for the Blind and Visually Impaired, Rochester, New York:
+Katherine White, OD, Ray Gottlieb, OD, Elizabeth Harvey, OD, and Gwen Sterns, MD. Casey Eye Institute, Oregon Health and Science University, Portland: John Boyer,
+OD, and Grace Tran, OD. Center for Retina and Macular Disease, Winter Haven, Florida: Sonya Braudway, OD, and Alice Enault, OTR, CLVT. Emory Eye Center, Atlanta, Georgia: Susan Primo, OD, Kenneth Rosengren, OD, and Thao
+Vu, OD. Ensight Skills Center, Fort Collins, Colorado: Mark
+
+DeGeorge, OD, and Cori Layton, SCLV/OTR. Envision Vision Rehabilitation Center, Wichita, Kansas: William Park,
+OD, Karen Kendrick, OTR/L, Joanne Park, COA, and Danielle McIntyre. The Frank Stein and Paul S. May Center for
+Low Vision Rehabilitation at California Pacific Medical Center, San Francisco: Donald Fletcher, MD, and Karen Myers, OTR/L. Indianapolis Eye Care Center, Indiana University School of Optometry, Indianapolis: Kevin Houston, OD.
+The Jewish Guild for the Blind, New York, New York: Laura
+Sperazza, OD, and Susan Weinstein, OD. Jules Stein Eye Institute, Los Angeles, California: Melissa Chun, OD, Jennie
+Kageyama, OD, and Connie Lam. Low Vision Associates,
+Bingham Farms, Michigan: Susan Gormezano, OD. Massachusetts Eye and Ear Infirmary, Department of Ophthalmology, Harvard Medical School, Boston: Mary Lou Jackson, MD,
+and Kim Schoessow, OTD, OTR/L. Medical College of Wisconsin, Milwaukee: Scott Robison, OD. Modesto Optometric Vision Center, Modesto, California: Brian Elliott, OD.
+Retina Consultants of Southwest Florida, Fort Myers: Donald Fletcher, MD, and Heather Holderfield, OTR/L. Richard
+E. Hoover Low Vision Rehabilitation Services, Greater Baltimore Medical Center, Baltimore, Maryland: Janet S. Sunness, MD, and Susan Garber OTR./L, CLVT. Richmond Eye
+and Ear Healthcare Alliance, Richmond, Virgina: Jeffrey Michaels, OD, and Mary Bullock, OTR/L. Spectrios Institute
+for Low Vision, Wheaton, Illinois: John Coalter, OD, Connie Arends, MS Ed, CVRT, Leah Gerlach, MS, CRC, R. Tracy
+Williams, OD, and Karen Thomas. St. Luke’s Cataract and
+Laser Institute, Tarpon Springs, Florida: Ed Huggett, OD.
+Storm Eye Institute Low Vision Rehabilitation at the Medical
+University of South Carolina, Charleston: Stephen E. Morse,
+OD, MPH, PhD, and Kelly Singleton, MS, OD. The University of Iowa Department of Ophthalmology and Visual Sciences, Iowa City: Mark Wilkinson, OD, and Darcy Wolf,
+COA. University of Michigan Kellogg Eye Center, Ann Arbor: Donna Wicker, OD, Sherry Day, OD, and Karen Murphy, OTR. The University of Texas Health Science Center
+School at San Antonio, Lion’s Low Vision Center of Texas, San
+Antonio: Sandra Fox, OD, and Melva Perez, OTR/L. Vanderbilt Eye Institute, Nashville, Tennessee: K. Bradley Kehler, OD. ViewFinder Low Vision Resource Center, Mesa, Arizona: Lynne Noon, OD, and Kevin Huff, OD. Visionary Eye
+Center, Reno, Nevada: Jason Bolenbaker, OD. Washington
+University School of Medicine, St Louis, Missouri: Carrie
+Gaines, OD, and Monica Perlmutter, OTR/L. The Wilmer
+Eye Institute at The Johns Hopkins University School of Medicine, Baltimore: Judith Goldstein, OD, Alexis Malkin, OD,
+James Deremeik, CLVT, Katherine Cleveland, OTR/L, Amy
+Ocampo, Kim Soistman, Robert Massof, PhD, Carol Rainey,
+Cathy Epstein, Lynn Feuer, and Lindsey Yang.
+Financial Disclosure: None reported.
+Funding/Support: This study was supported by grants
+EY012045 and EY018696 from the National Eye Institute, National Institutes of Health, and by a grant from
+Reader’s Digest Partners for Sight Foundation. Dr Kehler was supported by an unrestricted grant from Research to Prevent Blindness. Dr Primo was supported in
+part by an unrestricted departmental grant from Research to Prevent Blindness and National Eye Institute
+Core Grant for Vision Research P30EY006360.
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1035
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 9]
+REFERENCES
+1. West SK, Rubin GS, Broman AT, Muñoz B, Bandeen-Roche K, Turano K. How
+does visual impairment affect performance on tasks of everyday life? the SEE
+Project: Salisbury Eye Evaluation. Arch Ophthalmol. 2002;120(6):774-780.
+2. Sloan FA, Ostermann J, Brown DS, Lee PP. Effects of changes in self-reported
+vision on cognitive, affective, and functional status and living arrangements among
+the elderly. Am J Ophthalmol. 2005;140(4):618-627.
+3. Massof RW, Hsu CT, Baker FH, et al. Visual disability variables, I: the importance and difficulty of activity goals for a sample of low-vision patients. Arch Phys
+Med Rehabil. 2005;86(5):946-953.
+4. Congdon N, O’Colmain B, Klaver CC, et al; Eye Diseases Prevalence Research
+Group. Causes and prevalence of visual impairment among adults in the United
+States. Arch Ophthalmol. 2004;122(4):477-485.
+5. Massof RW. A model of the prevalence and incidence of low vision and blindness among adults in the U.S. Optom Vis Sci. 2002;79(1):31-38.
+6. Day JC. Current Population Reports: Population Projections of the United States
+by Age, Sex, Race, and Hispanic Origin: 1995 to 2050. Washington, DC: US Government Printing Office; 1996. US Bureau of the Census, Current Population Reports, P25-1130.
+7. Mitchell J, Bradley C. Quality of life in age-related macular degeneration: a review of the literature. Health Qual Life Outcomes. 2006;4:97.
+8. West SK, Muñoz B, Rubin GS, et al. Function and visual impairment in a population based study of older adults: the SEE project: Salisbury Eye Evaluation. Invest
+Ophthalmol Vis Sci. 1997;38(1):72-82.
+9. Rubin GS, Roche KB, Prasada-Rao P, Fried LP. Visual impairment and disability
+in older adults. Optom Vis Sci. 1994;71(12):750-760.
+10. Turano KA, Broman AT, Bandeen-Roche K, Muñoz B, Rubin GS, West S; SEE
+Project Team. Association of visual field loss and mobility performance in older
+adults: Salisbury Eye Evaluation Study. Optom Vis Sci. 2004;81(5):298-307.
+11. Massof RW, Deremeik JT, Park WL, Grover LL. Self-reported importance and
+difficulty of driving in a low-vision clinic population. Invest Ophthalmol Vis Sci.
+2007;48(11):4955-4962.
+12. Owsley C, McGwin G Jr. Driving and age-related macular degeneration. J Vis Impair Blind. 2008;102(10):621-635.
+13. Verbrugge LM, Patrick DL. Seven chronic conditions: their impact on US adults’
+activity levels and use of medical services. Am J Public Health. 1995;85(2):
+173-182.
+14. Rovner BW, Casten RJ, Tasman WS. Effect of depression on vision function in
+age-related macular degeneration. Arch Ophthalmol. 2002;120(8):1041-1044.
+15. Brody BL, Gamst AC, Williams RA, et al. Depression, visual acuity, comorbidity,
+and disability associated with age-related macular degeneration. Ophthalmology.
+2001;108(10):1893-1901.
+16. Karpa MJ, Mitchell P, Beath K, Rochtchina E, Cumming RG, Wang JJ; Blue Mountains Eye Study. Direct and indirect effects of visual impairment on mortality risk
+in older persons. Arch Ophthalmol. 2009;127(10):1347-1353.
+17. Jacobs JM, Hammerman-Rozenberg R, Maaravi Y, Cohen A, Stessman J. The
+impact of visual impairment on health, function and mortality. Aging Clin Exp
+Res. 2005;17(4):281-286.
+18. Knudtson MD, Klein BE, Klein R. Age-related eye disease, visual impairment, and
+survival: the Beaver Dam Eye Study. Arch Ophthalmol. 2006;124(2):243-249.
+19. Lee DJ, Gómez-Marı́n O, Lam BL, Zheng DD. Visual acuity impairment and mortality in US adults. Arch Ophthalmol. 2002;120(11):1544-1550.
+20. Massof RW. A systems model for low vision rehabilitation. I: basic concepts.
+Optom Vis Sci. 1995;72(10):725-736.
+21. Stelmack J. Emergence of a rehabilitation medicine model for low vision service
+delivery, policy, and funding. Optometry. 2005;76(5):318-326.
+22. Freeman KF, Cole RG, Faye EE, Freeman PB, Goodrich GL, Stelmack JA. Optometric Clinical Practice Guideline: Care of the Patient With Visual Impairment (Low
+Vision Rehabilitation). St Louis, MO: American Optometric Association; 1997.
+23. Mogk L, Crane WG Jr, Jackson ML, et al. Preferred Practice Pattern: Vision Rehabilitation for Adults. San Francisco, CA: American Academy of Ophthalmology; 2007.
+24. Warren M. Including occupational therapy in low vision rehabilitation. Am J Occup Ther. 1995;49(9):857-860.
+25. Markowitz M. Occupational therapy interventions in low vision rehabilitation. Can
+J Ophthalmol. 2006;41(3):340-347.
+26. Academy for Certification of Vision Rehabilitation and Education Professionals
+website. http://www.acvrep.org/. Accessed September 10, 2011.
+27. Owsley C, McGwin G Jr, Lee PP, Wasserman N, Searcey K. Characteristics of
+low-vision rehabilitation services in the United States. Arch Ophthalmol. 2009;
+127(5):681-689.
+28. Morse AR, Massof RW, Cole RG, et al. Medicare coverage for vision assistive
+equipment. Arch Ophthalmol. 2010;128(10):1350-1357.
+
+29. Massof RW, Ahmadian L, Grover LL, et al. The Activity Inventory: an adaptive
+visual function questionnaire. Optom Vis Sci. 2007;84(8):763-774.
+30. Manly JJ, Schupf N, Stern Y, Brickman AM, Tang MX, Mayeux R. Telephone based identification of mild cognitive impairment and dementia in a multicultural cohort. Arch Neurol. 2011;68(5):607-614.
+31. Lyness JM, Noel TK, Cox C, King DA, Conwell Y, Caine ED. Screening for depression in elderly primary care patients: a comparison of the Center for Epidemiologic Studies-Depression Scale and the Geriatric Depression Scale. Arch Intern Med. 1997;157(4):449-454.
+32. Cooper JK, Kohlmann T, Michael JA, Haffer SC, Stevic M. Health outcomes: new
+quality measure for Medicare. Int J Qual Health Care. 2001;13(1):9-16.
+33. Johnson JA, Coons SJ, Ergo A, Szava-Kovats G. Valuation of EuroQOL (EQ-5D)
+health states in an adult US sample. Pharmacoeconomics. 1998;13(4):421433.
+34. Leat SJ, Rumney NJ. The experience of a university-based low vision clinic. Ophthalmic Physiol Opt. 1990;10(1):8-15.
+35. Elliott DB, Trukolo-Ilic M, Strong JG, Pace R, Plotkin A, Bevers P. Demographic
+characteristics of the vision-disabled elderly. Invest Ophthalmol Vis Sci. 1997;
+38(12):2566-2575.
+36. O’Connor PM, Mu LC, Keeffe JE. Access and utilization of a new low-vision rehabilitation service. Clin Experiment Ophthalmol. 2008;36(6):547-552.
+37. Chang TS, Bressler NM, Fine JT, Dolan CM, Ward J, Klesert TR; MARINA Study
+Group. Improved vision-related function after ranibizumab treatment of neovascular age-related macular degeneration: results of a randomized clinical trial. Arch
+Ophthalmol. 2007;125(11):1460-1469.
+38. Rosenfeld PJ, Brown DM, Heier JS, et al; MARINA Study Group. Ranibizumab
+for neovascular age-related macular degeneration. N Engl J Med. 2006;355
+(14):1419-1431.
+39. Rubin GS, Roche KB, Prasada-Rao P, Fried LP. Visual impairment and disability
+in older adults. Optom Vis Sci. 1994;71(12):750-760.
+40. Qiu F, Leat SJ. Functional deficits in early stage age-related maculopathy. Clin
+Exp Optom. 2009;92(2):90-98.
+41. Rubin GS, West SK, Muñoz B, et al. A comprehensive assessment of visual impairment in a population of older Americans: the SEE Study: Salisbury Eye Evaluation Project. Invest Ophthalmol Vis Sci. 1997;38(3):557-568.
+42. Haegerstrom-Portnoy G, Schneck ME, Lott LA, Brabyn JA. The relation between
+visual acuity and other spatial vision measures. Optom Vis Sci. 2000;77(12):
+653-662.
+43. Rubin GS, West SK, Muñoz B, et al. A comprehensive assessment of visual impairment in a population of older Americans: the SEE Study: Salisbury Eye Evaluation Project. Invest Ophthalmol Vis Sci. 1997;38(3):557-568.
+44. Massof RW. The measurement of vision disability. Optom Vis Sci. 2002;79(8):516552.
+45. Goldstein JE, Frick KD, Massof RW; Low Vision Research Network. Health State
+Questionnaires: What Do They Say About Low Vision Populations? Ft Lauderdale, FL: Association for Research in Vision and Ophthalmology; May 2009.
+46. Guccione AA, Felson DT, Anderson JJ, et al. The effects of specific medical conditions on the functional limitations of elders in the Framingham Study. Am J
+Public Health. 1994;84(3):351-358.
+47. Chaudhry SI, McAvay G, Ning Y, Allore HG, Newman AB, Gill TM. Geriatric impairments and disability: the cardiovascular health study. J Am Geriatr Soc. 2010;
+58(9):1686-1692.
+48. Jette AM, Branch LG. Impairment and disability in the aged. J Chronic Dis. 1985;
+38(1):59-65.
+49. Tinetti ME, Williams TF, Mayewski R. Fall risk index for elderly patients based on
+number of chronic disabilities. Am J Med. 1986;80(3):429-434.
+50. Felson DT, Anderson JJ, Hannan MT, Milton RC, Wilson PW, Kiel DP. Impaired
+vision and hip fracture: the Framingham Study. J Am Geriatr Soc. 1989;37
+(6):495-500.
+51. Salive ME, Guralnik J, Glynn RJ, Christen W, Wallace RB, Ostfeld AM. Association of visual impairment with mobility and physical function. J Am Geriatr Soc.
+1994;42(3):287-292.
+52. Ivers RQ, Norton R, Cumming RG, Butler M, Campbell AJ. Visual impairment
+and risk of hip fracture. Am J Epidemiol. 2000;152(7):633-639.
+53. Ivers RQ, Cumming RG, Mitchell P, Attebo K. Visual impairment and falls in older
+adults: the Blue Mountains Eye Study. J Am Geriatr Soc. 1998;46(1):58-64.
+54. Klein BE, Moss SE, Klein R, Lee KE, Cruickshanks KJ. Associations of visual function with physical outcomes and limitations 5 years later in an older population:
+the Beaver Dam eye study. Ophthalmology. 2003;110(4):644-650.
+55. Horowitz A, Reinhardt JP, Kennedy GJ. Major and subthreshold depression among
+older adults seeking vision rehabilitation services. Am J Geriatr Psychiatry. 2005;
+13(3):180-187.
+56. Shmuely-Dulitzki Y, Rovner BW, Zisselman PM. The impact of depression on
+functioning in elderly patients with low vision. Am J Geriatr Psychiatry. 1995;
+3:325-329.
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1036
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+
+
+[page 10]
+57. Hayman KJ, Kerse NM, La Grow SJ, Wouldes T, Robertson MC, Campbell AJ.
+Depression in older people: visual impairment and subjective ratings of health.
+Optom Vis Sci. 2007;84(11):1024-1030.
+58. Rees G, Tee HW, Marella M, Fenwick E, Dirani M, Lamoureux EL. Vision-specific
+distress and depressive symptoms in people with vision impairment. Invest Ophthalmol Vis Sci. 2010;51(6):2891-2896.
+59. Beekman AT, Copeland JR, Prince MJ. Review of community prevalence of depression in later life. Br J Psychiatry. 1999;174:307-311.
+60. Hamer M, Bates CJ, Mishra GD. Depression, physical function, and risk of mortality: National Diet and Nutrition Survey in adults older than 65 years. Am J Geriatr Psychiatry. 2011;19(1):72-78.
+61. Plassman BL, Langa KM, Fisher GG, et al. Prevalence of cognitive impairment
+without dementia in the United States. Ann Intern Med. 2008;148(6):427-434.
+62. Rovner BW, Casten RJ, Massof RW, Leiby BE, Tasman WS; Wills Eye AMD Study.
+Psychological and cognitive determinants of vision function in age-related macular degeneration. Arch Ophthalmol. 2011;129(7):885-890.
+63. Skidmore ER, Whyte EM, Holm MB, et al. Cognitive and affective predictors of
+rehabilitation participation after stroke. Arch Phys Med Rehabil. 2010;91(2):
+203-207.
+64. Mościcki EK, Elkins EF, Baum HM, McNamara PM. Hearing loss in the elderly:
+an epidemiologic study of the Framingham Heart Study Cohort. Ear Hear. 1985;
+6(4):184-190.
+65. Popelka MM, Cruickshanks KJ, Wiley TL, Tweed TS, Klein BE, Klein R. Low prevalence of hearing aid use among older adults with hearing loss: the Epidemiology
+of Hearing Loss Study. J Am Geriatr Soc. 1998;46(9):1075-1078.
+66. Lin MY, Gutierrez PR, Stone KL, et al; Study of Osteoporotic Fractures Research
+
+Group. Vision impairment and combined vision and hearing impairment predict
+cognitive and functional decline in older women. J Am Geriatr Soc. 2004;52
+(12):1996-2002.
+67. Uhlmann RF, Larson EB, Rees TS, Koepsell TD, Duckert LG. Relationship of hearing impairment to dementia and cognitive dysfunction in older adults. JAMA. 1989;
+261(13):1916-1919.
+68. Lin FR. Hearing loss and cognition among older adults in the United States. J Gerontol A Biol Sci Med Sci. 2011;66(10):1131-1136.
+69. Wang JJ, Mitchell P, Smith W, Cumming RG, Attebo K. Impact of visual impairment on use of community support services by elderly persons: the Blue Mountains Eye Study. Invest Ophthalmol Vis Sci. 1999;40(1):12-19.
+70. DeCarlo DK, Scilley K, Wells J, Owsley C. Driving habits and health-related quality of life in patients with age-related maculopathy. Optom Vis Sci. 2003;80
+(3):207-213.
+71. West CG, Gildengorin G, Haegerstrom-Portnoy G, Lott LA, Schneck ME, Brabyn
+JA. Vision and driving self-restriction in older adults. J Am Geriatr Soc. 2003;
+51(10):1348-1355.
+72. Ragland DR, Satariano WA, MacLeod KE. Driving cessation and increased depressive symptoms. J Gerontol A Biol Sci Med Sci. 2005;60(3):399-403.
+73. Nguyen NX, Weismann M, Trauzettel-Klosinski S. Improvement of reading speed
+after providing of low vision aids in patients with age-related macular degeneration.
+Acta Ophthalmol. 2009;87(8):849-853.
+74. Dougherty BE, Kehler KB, Jamara R, Patterson N, Valenti D, Vera-Diaz FA. Abandonment of low-vision devices in an outpatient population. Optom Vis Sci. 2011;
+88(11):1283-1287.
+
+ARCH OPHTHALMOL / VOL 130 (NO. 8), AUG 2012
+1037
+
+WWW.ARCHOPHTHALMOL.COM
+
+©2012 American Medical Association. All rights reserved.
+Downloaded From: http://archopht.jamanetwork.com/ by a Cornell University User on 08/27/2016
+

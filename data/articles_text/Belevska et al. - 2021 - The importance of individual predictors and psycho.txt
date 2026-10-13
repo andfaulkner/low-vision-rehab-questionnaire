@@ -1,0 +1,2248 @@
+[page 1]
+International Journal of Occupational Safety and
+Ergonomics
+
+ISSN: 1080-3548 (Print) 2376-9130 (Online) Journal homepage: https://www.tandfonline.com/loi/tose20
+
+The importance of the individual predictors and
+the psychosocial working conditions in assessing
+the Work Ability Index of people with low vision
+Maja Belevska, Jovica Jovanovic, Emilija Gjosevska Dastevska & Zoran
+Velkovski
+To cite this article: Maja Belevska, Jovica Jovanovic, Emilija Gjosevska Dastevska & Zoran
+Velkovski (2019): The importance of the individual predictors and the psychosocial working
+conditions in assessing the Work Ability Index of people with low vision, International Journal of
+Occupational Safety and Ergonomics, DOI: 10.1080/10803548.2019.1613811
+To link to this article: https://doi.org/10.1080/10803548.2019.1613811
+
+Accepted author version posted online: 30
+Apr 2019.
+
+Submit your article to this journal
+
+Article views: 1
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tose20
+
+
+[page 2]
+Publisher: Taylor & Francis & Central Institute for Labour Protection – National
+Research Institute (CIOP-PIB)
+Journal: International Journal of Occupational Safety and Ergonomics
+DOI: 10.1080/10803548.2019.1613811
+
+The importance of the individual predictors and the psychosocial
+working conditions in assessing the Work Ability Index of people with
+low vision
+Maja Belevska1, Jovica Jovanovic2, Emilija Gjosevska Dastevska3, Zoran
+Velkovski4
+
+1- Spec.department of ophthalmology, Clinical Hospital Bitola, R.Macedonia
+2- Faculty of Medicine, University of Nis; Institute of Occupational Health of Nis,
+Serbia
+3- Faculty of Medicine, University of Skopje; Clinic for eye diseases, Skopje,
+R.Macedonia
+4- Spec.department of medical biochemistry, Clinical Hospital Bitola, R.Macedonia
+Corresponding author:
+Maja Belevska
+Clinical Hospital Bitola, spec.department of ophthalmology, Bitola, R.Macedonia
+St. Bonde Skerlevski 4/10 7000 Bitola, R. Macedonia
+Tel. +38976230660
+E-mail: maja.belevska@yahoo.com
+
+1
+
+
+[page 3]
+Word count: 4721
+
+2
+
+
+[page 4]
+The importance of the individual predictors and the psychosocial
+working conditions in assessing the Work Ability Index of people with
+low vision
+
+Abstract
+Purpose: This investigation was aimed at clarifying the importance of the
+individual predictors and psychosocial working conditions in estimating the
+Work Ability Index (WAI) of people with impaired vision.
+Materials and methods: This study utilized a quantitative cross-sectional design
+involving 450 respondents who had low vision with visual acuity in the range of
+0.05–0.3 and 150 respondents with visual acuity in the range of 0.5–0.3 as a
+control group. The investigation was conducted using the standardized
+instruments Copenhagen Psychosocial Questionnaire (COPSOQ) and WAI.
+Results: The average WAI score of the respondents with low vision was
+30.1 ± 4.1 and that of the control group was 34.7 ± 3.4. Results indicated a
+positive COPSOQ/WAI correlation in the following domains: work importance,
+career prospects, rewards/feedback, role and the definition, quality of
+management, social support, job satisfaction, and health condition. Negative
+correlations were indicated in the following domains: quantitative, cognitive, and
+emotional demands; exhaustion; and stress.
+Conclusions: The WAI of people with low vision is both positively and
+negatively impacted via different intensities associated with complex
+correlations, including gender; age; profession; stress propensity; quantitative,
+qualitative, and emotional demands of work; specificity of work, professional
+education; and the presence of stressors.
+
+Keywords: individual predictors; psychosocial conditions; Work Ability Index;
+people with low vision
+
+3
+
+
+[page 5]
+1. INTRODUCTION
+Vision impairment represents a clinical stage in the development of many eye diseases
+in which the terminal stage can evolve into a severe degree of visual impairment. This
+represents not only an ophthalmologic but also a sociological problem for the people
+affected [1]. Preserved eyesight is one of the main preconditions for the general
+population to function normally, which is the reason behind very visual impairment
+significantly affecting the quality of life, workability, and work performance of those
+affected regardless of their socio demographic characteristics and occupations [2].
+Therefore, impaired vision is a significant contributor to morbidity and is strongly
+correlated with psychosocial and other conditions of the work environment. In addition,
+the visual degradation process significantly affects the workability, choice of profession,
+employment opportunities, work productivity, and assessment of the achieved results of
+people with low vision [3–5].
+Workability is the ability of an individual to perform any type of work that can
+be valued, the ability of an organism to maintain an internal physiological balance
+during and after the completion of the activity, and the ability to quickly and thoroughly
+establish all the forms of physiological homeostasis that deviated from the normal
+values during work. In what is different from the case of those with preserved vision,
+whose workability is determined by the functioning of various organ systems and
+depends on the health, physical, and sensory ability of the organism, determining the
+workability of a person with low vision is a complex problem. Particularly, in addition
+to medical problems, many times, these impairments result in legal provisions,
+including driving restrictions. The Work Ability Index (WAI) is used universally to
+assess the workability of an individual [6,7].
+
+4
+
+
+[page 6]
+Healthy vision is fundamentally involved in various work processes and is
+particularly apparent in professions that require a high degree of visual preservation [8–
+10]. Few reports attempt to identify the predictors of the work environment that are
+most important and find out the extent to which each influences the preservation of
+workability (i.e., in the valorization of the WAI of people with low vision). This further
+emphasizes the need to define factors that affect workability, where by today's emphasis
+is placed not only on the health status of the people and the singularity of the job and the
+workload but also on the complex interrelated psychosocial conditions of the work
+environment that play the role of predictor and are crucially important in the assessment
+of the WAI.
+Assessing workability determines the compatibility of the biological potentials
+and functions of an individual's organism with the requirements of a job and the
+characteristics of the work conditions. In everyday practice, workability can be
+expressed through the WAI [11–13]. Factors such as gender, age, profession, health
+status, individual and contextual personality traits, and psychosocial conditions at work
+affect the WAI scores [14–18].
+Taking the large gaps in the literature regarding this topic as given, this
+investigation was aimed at clarifying the complex correlations, effects, and
+consequences of the influence of the mentioned factors on the workability of people
+with low vision from various professions. Moreover, we sought to determine the
+psychosocial conditions and other factors involved in the process of work that have the
+significance of a predictor, as well as the manner in which they affect the WAI of
+people with low vision. While researching the psychosocial factors, we analyzed the
+following parameters that affect the WAI: job requirements, work organization,
+singularity of the job and the workload, level of expertise and education, quality of
+
+5
+
+
+[page 7]
+management, general health status, individual and contextual personality traits, and
+management team. We have grouped these parameters into four dimensions: Job
+requirements; work organization and career prospect; relationships of employees with
+their superiors in the work process; and the effects/consequences of the psychosocial
+predictors in the work process.
+The literature was searched thoroughly, and we use reference material and preknowledge, coordinated and supplemented by the results and findings obtained from
+several relevant studies [19,20].
+Results from this investigation contribute to the illumination of the complex
+associations and individual, contextual, and psychosocial relationships to the
+workability of people with low vision who are involved in the work process, expressed
+through the WAI.
+
+2. SUBJECTS AND METHODS
+2.1. Study Design
+This investigation utilized a cross-sectional study design with a quantitative analytical
+approach.
+
+2.2. Subjects
+Six hundred respondents were involved in the present study: 450 were people with low
+vision, such as those with glaucoma, diabetic retinopathy, and ophthalmic diseases with
+refractory anomalies and with preserved visual acuity of 0.05–0.03, and 150 people with
+preserved visual acuity of 0.5–0.3 were in the control group, according to the ICD-10
+classification. The choice of respondents was based on inclusion and exclusion criteria
+
+6
+
+
+[page 8]
+related to age, the degree of visual impairment, and type of ophthalmic disease.
+Inclusion into the low vision group required low preservation of visual acuity, in the
+range of 0.05–0.3, and the control group required preservation of visual acuity of 0.5–
+0.3. The participant’s age was required to be above 25 years old, with the condition that
+the low vision was caused by ophthalmological diseases such as glaucoma, diabetic
+retinopathy, and refractory anomalies.
+
+2.3. Methods
+Among the respondents involved in the study, visual acuity was determined by clinical
+ophthalmologic examination using appropriate ophthalmic equipment, which
+determined visual acuity at a distance and in proximity and the degree of visual
+preservation according to the ICD-10 classification.
+The assessment of the impact of psychosocial conditions of the work process on
+the WAI of the respondents was conducted using the National Center for the Work
+Environment's Copenhagen Psychosocial Questionnaire (COPSOQ) and the WAI from
+the Finnish Institute of Occupational Health (FIOH). Both questionnaires have been
+designed and accepted in many European countries as standardized questionnaires in
+scientific research. All data were collected by trained examiners, and the respondent's
+involvement was voluntary. The anonymity and confidentiality of the answers were
+guaranteed, and the internal credibility and consistency of the data were tested with
+Cronbach's alpha coefficients.
+COPSOQ has been designed and accepted as a standardized measuring
+instrument around the world and is used to study and follow the connection and impact
+of psychosocial factors of the work environment on workability. In the present
+7
+
+
+[page 9]
+investigation, we used a COPSOQ variant consisting of 23 domains (questions), 17 of
+which are dual, divided into five dimensions, and for each answer to set domains
+(questions), an adequate score of 1–5 points was calculated. The analysis of the scores
+obtained through the implementation of this test enabled us to derive basic
+understanding and arrive at conclusions regarding the connection and the impact of the
+psychological factors of the work environment on workability and risk assessment at
+work. Further more considering adequate measures and interventions for their
+elimination, this technique improves the work conditions and health preservation of
+employees and the prevention of morbid conditions [21,22].
+The WAI questionnaire is a standardized questionnaire created by the FIOH and
+is used to assess the WAI in everyday life practice and scientific research. This test can
+identify the risk factors that affect workability; however, it can also be used as a
+selection method for the assessment of the results of intervention measures applied and
+as a program for detecting the influence of negative factors that affect the reduction of
+workability, with the aim of improving individual workability and the health of
+employees of various professions.
+The WAI questionnaire consists of seven dimensions—related to self-assessed
+current workability; workability in relation to job requirements; number of current
+illnesses; assessment of inability to work due to illnesses; sick leave during the 12month period; self-assessment of workability for 2 years; and psychic abilities composed of one, two, or three domains (questions), and for each of the answers, 0–5
+points are given. The total WAI cumulative score can range from 7 to 49 points. The
+assessment of the WAI was done by the calculated score of the points obtained, and if
+the total score of the answer was in the range of 7–27 points, the WAI score was
+
+8
+
+
+[page 10]
+considered to be poor, 28–36 points signify a moderate WAI score, 37–43 points
+indicated a good WAI score, and 44–49 points denoted an excellent WAI score [23,24].
+
+2.4. Statistical Analysis
+All data were processed using a descriptive and comparative statistics method, using
+statistical program SPSS 17.0. The attributive (qualitative) series were analyzed by
+determining the coefficients of ratio, proportion, and rate and were presented in absolute
+and relative numbers. Numerical (quantitative) series were analyzed by finding the
+measures of central tendency (average value; median, minimum, and maximum value;
+and interactive range) and dispersion measures (standard deviation and standard error).
+The Pearson χ2 test for homogeneity, Yates corrected test, and Fisher exact test
+were used to determine the difference between attributive dichotomous features.
+Pearson (r) correlation coefficient was used to determine the association between
+numerical home group statistical series, and the Spearman correlation coefficient was
+used to determine the association between numerical non homogeneous statistical
+series.
+In order to test the significance of the difference between the parameters
+analyzed, depending on the type and distribution of data, Student´s t test for two
+independent samples, ANOVA for multiple independent samples, and the
+nonparametric Mann–Whitney U test for independent samples were used.
+A univariate regression analysis was used to assess the impact of psychosocial
+factors on the WAI, the coefficients of linear regression (B), as well as their 95%
+confidence intervals (CI), were shown, and the evaluation of the statistical significance
+of the coefficient value was completed using an unpaired t test. (Coefficients represent
+
+9
+
+
+[page 11]
+changes in the WAI score that are caused by increasing the score of independent
+variables for one measuring unit.)
+Ap < 0.05 was considered to be statistically significant.
+
+3. RESULTS
+All data collected from the respondents were analyzed according to socio demographic
+parameters such as gender, age, and profession. Of the respondents with low vision, 240
+(53.3%) were female and 210 (46.7%) were male, and in the control group, 75 (50%)
+were male and 75 (50%) were female. One hundred and thirteen (25.1%) were 20–
+50 years old, and 337 (74.9%) were over 50 years old, and in the control group, 41
+(27.3%) were aged 20–50 years old, and 109 (72.7%) were over 50 years of age. Of the
+respondents with low vision, 134 (29.8%) were office workers/administrators, 125
+(27.8%) were laborers, 76 (16.9%) were farmers, and 115 (25.6%) were from other
+professions, and in the control group, the largest number, 47 (31.3%), were laborers, 39
+(26%) were office workers/administrators, 21 (14%) were farmers, and 43 (28.7%) were
+from other professions.
+The Work Ability Index of the low vision group and the control group subjects
+are shown in Tables 1 and 2.
+Results from the comparison between the WAI of the respondents with low
+vision and the control group respondents indicate the presence of a statistically
+significant difference between the glaucoma/control group (Mann–Whitney U test:
+Z = −7.079,p = 0.001); diabetic retinopathy/control group (Mann–Whitney U test:
+Z = −13.765,p = 0.001); and refraction anomalies/control group (Mann–Whitney U test:
+Z = −6.610,p = 0.001). All low vision/control groups (Mann–Whitney U test:
+10
+
+
+[page 12]
+Z = −11.217,p = 0.001) were in favor of the better workability of control group
+respondents when compared with those with low vision, and so were the respondents
+from each low vision group individually. The specific dimensions of the WAI index
+regarding “Estimated work impairment due to disease” are shown in Table 2. There was
+a significant difference in WAI scores between glaucoma patients and those with
+diabetic retinopathy (Mann–Whitney U test: Z = −7.493,p = 0.001) and in WAI scores
+between patients with refractory anomalies and those with diabetic retinopathy (Mann–
+Whitney U test: Z = −7.395,p = 0.001) in favor of better working abilities of glaucoma
+patients and those with refractory anomalies than those with diabetic retinopathy;
+however, there was no statistically significant difference in the WAI scores of glaucoma
+patients in relation to refractory anomalies (Mann–Whitney U test:
+Z = −0.322,p = 0.747).
+The low vision and the control group respondents were divided into two
+subgroups: those aged 20–50 years old and those over 50 years of age. The WAI scores
+of the respondents in relation to age are shown in Table 3.
+The correlation of WAI scores between respondents with low vision and the
+control group aged 20–50 years old and those over 50 indicates the presence of a
+statistically significant difference in favor of better workability of the control group than
+the respondents with low vision (difference between two means − two-sided:p = 0.001).
+The correlation with parameters of the WAI score/age of the respondents with
+low vision (Spearman rank order correlation: R = −0.121,p < 0.05) and the control
+group respondents (Spearman rank order correlation: R = −0.172,p < 0.05) of both
+genders, aged 20–50/over 50, indicates that there was a statistically significant linear
+negative correlation and that as age increased, the workability of the respondents
+decreased in a linear fashion.
+
+11
+
+
+[page 13]
+The WAI scores of the respondents in relation to gender are shown in Table 4.
+The analysis of the results suggests the presence of a statistically significant
+difference between male and female respondents, in favor of better workability of male
+respondents than female ones (Mann–Whitney U test: Z = −2.191,p = 0.02).
+There was a significant difference between the control group male respondents,
+who had aWAI score of 35.1 ± 3.5, and male respondents with low vision, who had a
+WAI score of 30.39 ± 4.1, in favor of better workability of the control group male
+respondents (Difference between two means − two-sided:p = 0.008).
+There was a significant difference between the control group female respondents
+whose WAI score was 34.4 ± 3.3 and the female respondents with low vision, who had
+a WAI score of 29.7 ± 4.1, in favor of improved workability of the control group female
+respondents (Difference between two means − two-sided:p = 0.001).
+The correlation parameters of the WAI score of the respondents with low vision
+(Spearman rank order correlation: R = −0.103, p > 0.05) and those of the respondents
+from the control group (Spearman rank order correlation: R = −0.111, p > 0.05) of both
+genders, aged 20–50/over 50, suggests an insignificant negative linear correlation in
+favor of reduced workability of the low vision and control group female respondents,
+which may reduce with age.
+We also tested the WAI scores on all respondents with low vision and control
+group respondents according to occupation (Tables 5 and 6).
+The variance analysis (one-way ANOVA) revealed a significant difference in
+professions between respondents with low vision and control group respondents in all
+correlated combinations of professions, with higher WAI scores of control group
+respondents.
+
+12
+
+
+[page 14]
+WAI scores are categorized as follows: poor, moderate, good, and excellent, and
+this categorization is shown in Table 7. A WAI score of7–27 points indicates poor
+workability; 28–36 points denotes moderate workability, 37–43 points signifies good
+workability, and 44–49 points suggests excellent workability. A correlation analysis of
+the WAI of the low vision/control group indicates that there was a significant difference
+in glaucoma/diabetic retinopathy patients(Fisher–Fridman–Halton test:p = 0.001) in
+favor of better working abilities of patients with glaucoma; glaucoma/refractory
+anomaly (Pearson χ2= 7.81, df = 2, p = 0.002) in favor of better working abilities of
+patients with refractory anomalies; diabetic retinopathy/refraction anomalies (Fisher–
+Fridman–Halton test :p = 0.001) in favor of better working abilities of patients with
+refraction anomalies; and in low vision/control groups (Fisher–Fridman–
+Halton test:p = 0.001) in favor of better performance of control group respondents.
+Results of the psychosocial factors of the work environment from the WAI of
+the respondents are shown in Tables 8 and 9.
+With the univariate regression analysis from the dimension of WORK
+DEMANDS of low vision and control group respondents, it was observed that an
+increase in COPSOQ score for one was associated with decline on the WAI, with a
+significant difference in the domains of quantitative, cognitive, and emotional demands
+(p < 0.001).
+In the dimension ORGANIZATION OF WORK AND CAREER PROSPECTS,
+it was observed that in all low vision and control group respondents, an increase in
+COPSOQ score for one was related to an increase in the Work Ability Index with
+statistically significant difference in the work importance and career prospects domains
+(p < 0.001), where as in the work duties and employee's influence at work domains, an
+
+13
+
+
+[page 15]
+increase in COPSOQ score for one also positively affected workability but without any
+statistical significance (p > 0.05).
+In the RELATIONSHIPS BETWEEN EMPLOYEES AND SUPERVISORS IN
+THE WORK PROCESS dimension, it was observed that in all low vision and control
+group respondents, an increase in COPSOQ score for one was associated with an
+increase in the Work Ability Index with a statistically significant difference in
+rewards/feedback, role and definition, social support, and quality management
+(p < 0.001). In addition, in the predictability, employee–supervisor relationships, and
+fairness and reputation domains, although there was a positive correlation, a statistically
+significant difference was not observed.
+In the EFFECTS/CONSEQUENCES dimension, univariate regression analysis
+revealed that in all low vision and control group respondents, an increase in COPSOQ
+score for one was associated with an increase in the Work Ability Index with a
+significant difference in the job satisfaction and health status domains (p < 0.001). An
+increase in COPSOQ score for one was associated with a decline in the WAI with a
+statistically significant difference in the exhaustion and stress domains (p < 0.001). In
+the work/private life conflict, the increase in COPSOQ score for one was associated
+with a reduction in the WAI score. However, this association failed to reach statistical
+significance.
+The results of the exposure of respondents to mobbing are shown in Table10.
+For 7.16% of the respondents, the mobbing was carried out in the form of intimidation;
+hence, their recording indicates that mobbing is an integral part of negative
+psychosocial influence in the work process. There was no statistically significant
+difference between the number of threats made to low vision and control group
+respondents (Pearson χ2 = 0.523, df = 1, p = 0.469); however, with both groups of
+
+14
+
+
+[page 16]
+respondents, the risk of exposure to this and other types of mobbing and discrimination
+exists.
+
+4. DISCUSSION
+Recent assessments of the workability of different categories of people depending on
+the occupation indicate that the Work Ability Index can be used as an objective means
+to evaluate workability and identify risk factors of reduced workability. Moreover, it is
+suitable for assessing the effects of the applied intervention program and suggesting
+measures for the elimination of unfavorable and risky work environment factors that
+adversely affect workability. The WAI is also suitable as a valid identifier of applied
+preventive programs for the promotion of occupational health [12,18,23,25].
+Vision impairment is an ophthalmologic condition that has multi-causal
+etiology, has complex pathogenesis, and can evolve into severe forms of damage and
+definite loss of vision, where upon it becomes a handicap that affects not only the
+quality of life but also the ability to work [1].
+People with vision impairment, in addition to other adverse effects, are exposed
+to continuous stress, unfavorable psychosocial conditions in all organizational stages of
+the work process, frequent mobbing, and discrimination during work, all of which
+reflect on their workability and productivity [16,26].
+In 34 low vision and 9 control group respondents (7.16%), mobbing was
+conducted in the form of intimidation or another type of discrimination during work.
+Khoo and associates [27] stated that during working hours, people with disabilities were
+very often under constant stress not only because of the particularities of their work but
+also because of the tendency to be very often discriminated against and marginalized by
+colleagues and the surroundings in general. Sanders [28] and Alavinia [29], in similar
+15
+
+
+[page 17]
+investigations, emphasized the subjective, emotional, and contextual characteristics of
+the personality of the disabled as an additional negative factor in their self-assessment
+of health and productive potentials. Both investigations are in accordance with our
+findings. Several previous investigations conducted with people from different
+professions indicated that workability, in parallel with the function of eyesight, was
+affected by other factors. However, they do not fully clarify the complex relationships
+of specific individual characteristics and the intensity of perceptions of different
+relationships and actions, particularly psychosocial factors in the work process[30].
+The WAI scores of the low vision group, when compared with the scores of the
+control group respondents, were significantly different from the low vision/control
+groups in favor of the better workability of control group respondents than those with
+low vision.
+Comparisons of the WAI results with similar parallel scientific studies suggest
+that all respondents with low vision involved in our research obtained a significantly
+lower average WAI score than that obtained by respondents with similar socio
+demographic characteristics but with preserved vision. Lavasani[31], in a study carried
+out on 275 employees with various disabilities in Malaysia, claimed that 29.5% had
+poor workability, 35.3% had moderate workability, 28.7% had good workability, and
+18% had excellent workability.
+We observed that respondents aged 20–50 years old have better workability
+when compared with subjects over the age of 50 years, with a statistically significant
+difference, including both low vision and control group respondents. In previous studies
+on different aspects of age and workability, several authors refer to the existence of a
+negative correlation between workability and age [32–35].
+
+16
+
+
+[page 18]
+There was a statistically significant difference between the low vision and
+control group male and female respondents in favor of the better workability of male
+respondents when compared with female ones. The Work Ability Index of male and
+female participants of the low vision group and the control group, with age, showed
+reduced scores, which, for male and female respondents over the age of 50 years, was
+statistically significantly lower when compared with the WAI scores of both genders
+younger than 50 years old. Van den Berg [36] in a study of multifactorial etiology of the
+influence of the WAI scores on professional employees from different occupations
+suggested that male respondents have a higher WAI score for two index points (4%)
+when compared with the female ones. With regard to age, the WAI scores for
+employees over 40 years of age were considered to decrease by four index points
+(7.3%) when compared with younger employees. In his study, it is also evident that
+each of the psychosocial factors regarding gender have different unique variables of
+influence on workability.
+Both Rotenberg [15] and Claudie Fernandes [37] reported that with both men
+and women, there were differences in the WAI scores in relation to gender in that the
+WAI scores in female employees were lower in relation to men and that the vulnerable
+period in which there was a significant reduction in WAI scores of women was uniquely
+expressed in the age groups of 25–34, 40–44, and 60–64 years old.
+Using a Tukey post hoc analysis, we assessed the average WAI scores in relation
+to the level of education and professional orientation of all the 450 respondents with low
+vision and found a statistically significant difference in relation to the laborers/office
+workers (r = 0.003) in favor of the better workability of office workers; laborers/farmers
+(r = 0.005) in favor of better workability of laborers; laborers/others (r = 0.004) in favor
+of the better workability of respondents from other professions; office workers/farmers
+
+17
+
+
+[page 19]
+(r = 0.001) in favor of better workability of office workers; farmers/others (r = 0.003) in
+favor of the better workability of respondents from other professions. Lavasani[31]
+aimed at measuring the workability of employees with a disability and reported that
+WAI for employees with primary education was 28.92 ± 8.36; with secondary
+education, 30.99 ± 7.77; and with higher education, 41.11 ± 4.47. In similar research
+focused on the workability of various categories of medical and nursing staff in
+hospitals, Ehsanollah found that the WAI score was 38.25 ± 4.4 and that there were
+WAI variations regarding the level of education, qualifications, and sub-professional
+specifications [38].
+In a survey conducted with employees in commercial activities, Van den Berg
+[36] noted that the average WAI score was41.1 ± 5.1 and was greater than the average
+WAI of employees in mentally demanding jobs (reported average of39 ±4.2 as
+conducted by Tuomi [25]). Sjögren–Ronka [39] also emphasized the negative impact of
+physical demands and stress factors on the workability of office workers employed in
+various positions.
+The influence of the psychosocial conditions of work environments on
+workability in our study was assessed from 19 different aspects (domains), with
+univariate regression analysis. It was observed that with low vision and control group
+respondents, an increase in COPSOQ score for one was associated with an increase in
+the WAI score with statistically significant difference (p < 0.001) in the domains of
+work importance, career prospects, rewards/feedback, role and definition, quality of
+management, social support, job satisfaction, and health status, which indicates that
+improved conditions related to these domains favorably influence an increase in
+workability and that it is necessary to try to maintain or improve their existing gradient.
+
+18
+
+
+[page 20]
+In the domains of quantitative demands, cognitive demands, emotional demands,
+and exhaustion and stress, an increase in COPSOQ score of one was associated with a
+decline in the WAI score with a statistically significant difference (p < 0.001). This
+result implies that people with low vision, particularly those with severe visual
+impairment, should take preventive measures and avail of programs that will enable its
+elimination. The measures taken will enable the improvement of workability and health
+protection of people with low vision.
+There was no significant impact of psychosocial factors on the WAI score in the
+domains of workplace duties, predictability, employee–superior relationships, fairness,
+reputation, and work/family conflicts, although, depending on the domain, there was a
+negative/positive impact of the psychosocial conditions of the work environment on the
+WAI.
+In the interim, there are very few reference reports that address the problem of
+workability of people with impaired vision. Moreover, detecting crucial psychosocial
+determinants that play the role of predictor of workability and identifying the gradient at
+which they have a positive or negative influence was challenging for us to try and
+contribute to the illumination of this complex and exact problem. Our research results
+were compared with the results of previous scientific studies conducted in different
+countries of the world and relating to the influence of psychosocial conditions on the
+WAI of other categories of healthy and disabled people from different professions. Van
+den Berg [36] assessed the impact of psychosocial factors on employee health and
+workability and found that workability was strongly associated with stress, the
+organization of work processes, physical demands of work, the individual mental
+perception of stress factors, and the possibility of their balancing by employees.
+
+19
+
+
+[page 21]
+Edwards et al. [40], in a study on the effect of psychosocial factors on the
+workability of nurses, emphasized the importance of factors such as physical overload,
+employee/medical staff relationships, and bureaucratic management in performing work
+tasks. Borritz[41] also showed the effect of physical exhaustion and overload on
+individual potentials and managerial relationships in the work process.
+
+5. CONCLUSIONS
+Results from this investigation suggest the complicated influence of the psychosocial
+aspects of work environments on the WAI of low vision and control group respondents.
+Vision impairment in itself does not have a decisive importance in determining or
+assessing the Work Ability Index. However, there exists a significant correlation with
+the effects of psychosocial conditions of the work environment, such as the quantitative,
+qualitative, and emotional demands of work; specificity of the type of profession;
+vocational training and education; exposure and intensity of stressors at work; general
+health condition and basic illnesses; and individual personal traits; among other
+circumstances. Crucially, these are not merely related to the level of vision impairment,
+suggesting that other factors are perhaps at play.
+Timely consideration and detection of the psychosocial factors of the work
+environment, which have a negative impact on the WAI, will enable adequate
+preventive measures to be taken for their elimination and will contribute to not only the
+improvement of workability but also to preserving health over the long term and
+preventing disease from afflicting anyone involved in the work process, particularly
+those with vision impairment.
+
+20
+
+
+[page 22]
+REFERENCES
+
+1. Zheng Y, Lamoureux E, Finkelstein E, et al. Independent impact of area-level
+socioeconomic measures on visual impairment. Invest Ophth Vis Sci.
+2011;52:8799–8805.
+2. Kowal P, Chatterji S, Naidoo N, et al. Data resourse profile: the world health
+organizations study on global AGEing and adult health (SAGE). Int J
+Epidemiol. 2012;41:1639–1649.
+3. Dandona R, Dandona L. Socioeconomic status and blindness. Br J Ophthalmol.
+2001;85:1484–1488.
+4. Goertz YHH, Van Lierop BAG, Houkes I, et al. Factors related to the employment of
+visually impaired persons: a systematic literature review. J Vis Impair Blind.
+2010;104:404–418.
+5. Wolffe KE, Candela AR. A qualitative analysis of employers experiences with
+visually impaired workers. J Vis Impair Blind. 2002;96:622–634.
+6. Martus P, Jakob O, Rose U, et al. A comparative analysis of the WAI.Occup Med
+(Lond).2010;60:517–524.
+7. Ilmarinen J. Work ability – a comprehensive concept for occupational health research
+and prevention. Scand J Work Environ Health. 2009;35:1–5.
+8. Shain M,Kramer DM. Health promotion in the workplace: framing the
+concept, reviewing the evidence. Occup Environ Med. 2004;61:643–648.
+9. Chew EY, Clemons TE, Agron E, et al.The age-related eye study 2 research group.
+treatment of age related macular degeneration: The Age related Eye Disease
+Study 2 (AREDS2) controlled randomized clinical Trial. JAMA.
+2013;309:2005–2015.
+10. Tuomi K, Huuhtanen P, Nykyri E, et al. Promotion of work ability, the quality of
+work and retirement. Occup Med (Lond).2001;51:318–324.
+11. Ilmarinen J, Tuomi K, Seitsamo J. New dimensions of work ability. International
+Congress series.2005;1280:3–7.
+12. Fisher FM, Borges FN, Rotenberg L, et al. Work ability of health care shift workers:
+what matters? ChronobiolInt. 2006;23:1165–1179.
+13. Radkiewich P, Widerszal-Bazyl M. Psychometric properties of WAI in the light of
+comparative survey study. International Congres Series.2005;1280:304–309.
+21
+
+
+[page 23]
+14.Ilmarinen J. The WAI.Occup Med. 2007;57:160.
+15.Rotenberg LF, Portela B, Banks B, et al. A gender approach to work ability and its
+relationship to professional and domestic work hours among nursing
+personal. Appl Ergon. 2008;39:646–652.
+16. Van den Berg TI, Elders LA, de Zwart BC, et al. The effects of work-related and
+individual factors on the WAI: A systematic review. Occup Environ
+Med. 2009;66:211–220.
+17. Ilmarinen J. Work ability – a comprehensive concept for occupational health
+research and prevention. Scand J Work Environ Health. 2009;35:1–5.
+18. Kompier M. Assessing the psychosocial work environment – “subjective” versus
+“objective” measurement. Scand J Work Environ Health. 2005;31:405–408.
+19. Mazloumi A, Rostamabadi A, NaslSaraji G, et al. WAIand its association with
+psychosocial factors in one of the petrochemical industries in Iran. J Occup
+Health. 2012;54:112–118.
+20. Milosevic M, Golubic R, Knezevic B, et al. Work ability as a major determinant of
+clinical nurses' quality of life. J CinNurs. 2011;20:2931–2938.
+21. Kristensen TS. A new tool for assessing psychosocial factors at work: the
+Copenhagen Psychosocial Questionnaire. TUTB Newsletter. 2002;19–20:45–47.
+22. Kristensen TS, Hannerz H, Hogh A, et al. The Copenhagen Psychosocial
+Questionnaire – a tool for assessment and improvement of the psychosocial
+work environment. Scand J Work Environ Health. 2005;31:348–349.
+23. De Zwart BC, Frings-Dresen MH, van Duivenbooden JC. Test-retest reliability of
+the WAIQuestionnaire. Occup Med (Lond).2002;52:177–181.
+24. Ilmarinen J, Rantanen J. Promotion of work ability during ageing. Am J Ind Med.
+1999;1:21–23.
+25. Tuomi K, Vanhala S, Nykyri E, et al. Organizational practices, work demands and
+the well-being of employees: a follow up study in the metal industry and retail
+trade. Occup Med (Lond). 2004;54:115–121.
+26. Pohjonen T. Perceived work ability of home care workers in relation to individual
+and work-related factors in different age groups. Occup Med (Lond).
+2001;51:209–217.
+
+22
+
+
+[page 24]
+27. Khoo SL, Tiun LT, Lee LW. Unseen challenges, unheard voices, unspoken desires:
+experiences of employment by Malaysians with physical disabilities. Kajian
+Malaysia Journal. 2013;31:37–55.
+28. Sanders KY. Overprotection and lowered expectations of persons with disabilities:
+the unforeseen consequences. Work. 2006;27:181–188.
+29. Alavinia SM, van Duivenbooden C, Burdorf A. Influence of work-related factors
+and individual characteristics on work ability among Dutch construction
+workers. Scand J Work Environ Health. 2007;33:351–357.
+30. Anttonen H, Rasanen T. Well-being at work – New innovations and good
+practices. Finnish Institute of Occupational Health Helsinki, 2008.
+31. Lavasani S, Wahat NA, Ortega A. Work ability of employees with disabilities in
+Malaysia. Disability, CBR and Inclusive Development.2015;26:22–46.
+32. Montasem A, Brown SL, Harris R. Do core self-evaluations and trait emotional
+intelligence predict subjective well-being in dental students? J Appl Soc Psychol.
+2013;43:1097–1103.
+33. Martinez MC, Latorre M. Health and work ability among office workers. Rev
+SaúdePúbl. 2006;40:851–858.
+34. Tengland PA. A qualitative approach to assessing work ability. Work.2012;44:393–
+404.
+35. Weigl M, Muelle A, Hornung S, et al.The moderating effects of job control and
+selection, optimisation, and compensation strategies on the age–work ability
+relationship.J Organ Behav. 2013;34:607–628.
+36. Van den Berg TIJ, Alavinia SM, Bredt FJ, et al. The influence of psychosocial
+factors at work and life style on health and work ability among professional
+workers.Int Arch Occup Environ Health. 2008;81:1029–1036.
+37. Fernandes C, Pereira A, Bem-Haja P, et al. Age and gender differences in work
+ability among industry worker: the foundation for safety intervention design.
+SafSci J. 2013;17:3–11.
+38. Habibi H, Dehghan H, Zeinodini M, et al. A study on WAI and physical work
+capacity on the base of fax equation VO max in male nursing hospital staff in
+Isfahan, Iran. Int J Prev Med. 2012;3:776–782.
+39. Sjögren-Rönkä T, Ojanen MT, Leskinen EK, et al. Physical and psychosocial
+prerequisites of functioning in relation to work ability and general subjective
+
+23
+
+
+[page 25]
+well-being among office workers. Scand J Work Environ Health. 2002;28:184–
+190.
+40. Edwards D, Burnard P, Coyle D, et al. Stress and burnout in community mental
+health nursing: a review of the literature. J PsychiatrMentHealthNurs. 2000;7:7–
+14.
+41. Borritz M, Rugulies R, Bjorner JB,et al. Burnout among employees in human
+service work: design and baseline findings of the PUMA study. Scand J Public
+Health. 2006;34:49–58.
+
+24
+
+
+[page 26]
+Table 1. WAI scores of the respondents
+
+Average
+WAI
+
+No
+
+Disease
+
+Score
+
+95% CI for Mean
+
+Standard
+
+Minimum
+
+Maximum
+
+Deviation
+Lower Bound
+
+Upper Bound
+
+(Mean)
+Glaucoma
+Diabetic
+retinopathy
+Refraction
+anomalies
+Low vision
+group
+Control
+group
+
+150
+
+31.2
+
+3.9
+
+30.6
+
+31.9
+
+25.9
+
+37.2
+
+150
+
+27.5
+
+2.5
+
+27.1
+
+27.9
+
+23.7
+
+31.8
+
+150
+
+31.4
+
+4.3
+
+30.7
+
+32.1
+
+25.3
+
+37.6
+
+450
+
+30.1
+
+4.1
+
+29.7
+
+30.4
+
+23.7
+
+37.6
+
+150
+
+34.7
+
+3.4
+
+34.2
+
+35.3
+
+28.6
+
+40.6
+
+Note: WAI = Work Ability Index; CI = confidence intervals.
+
+Table 2. WAI scores of the low vision respondents based on diseases
+Mann–Whitney U test
+Z
+Asymp. Sig. (2-tailed)
+
+Disease
+GL/ RЕ
+
+GL/ RА
+
+RЕ/ RА
+
+−7.493)
+
+−0.322)
+
+−7.395)
+
+0.001*
+
+0.747
+
+0.001*
+
+*significance of p < 0.05
+Note: GL = glaucoma; RЕ = diabetic retinopathy; RА = refraction anomalies.
+
+25
+
+
+[page 27]
+Table 3. WAI scores of respondents based on age
+
+Age
+
+No.
+
+Average
+
+Standard
+
+WAI Score
+
+Deviation
+
+95% CI for Mean
+Lower Bound Upper Bound
+
+(Mean)
+
+p
+
+Glaucoma
+20–50
+>50
+
+37
+
+31.75
+
+3.78
+
+30.48
+
+33.01
+
+113
+
+31.09
+
+3.96
+
+30.35
+
+31.83
+
+Mann–WhitneyUtest:
+Z=1.875 p=0.049*
+
+Diabetic retinopathy
+20–50
+>50
+
+38
+
+28.19
+
+2.44
+
+27.38
+
+28.99
+
+Mann–WhitneyUtest:
+
+112
+
+27.22
+
+2.55
+
+26.75
+
+27.70
+
+Z=2.954 p=0.003*
+
+Refraction anomalies
+20–50
+>50
+
+38
+
+32.03
+
+4.15
+
+30.67
+
+33.39
+
+Mann–WhitneyUtest:
+
+112
+
+31.18
+
+4.29
+
+30.38
+
+31.99
+
+Z=2.455 p=0.014*
+
+Low vision group
+20–50
+>50
+
+113
+
+30.64
+
+3.92
+
+29.91
+
+31.37
+
+Mann–WhitneyUtest:
+
+337
+
+29.83
+
+4.11
+
+29.39
+
+30.27
+
+Z=2.561 p=0.010*
+
+Control group
+20–50
+>50
+
+41
+
+35.55
+
+3.22
+
+34.53
+
+36.57
+
+Mann–WhitneyUtest:
+
+109
+
+34.43
+
+3.43
+
+33.78
+
+35.08
+
+Z=2.098 p=0.036*
+
+*significance of p < 0.05
+Note: WAI = Work Ability Index; CI = confidence intervals.
+
+26
+
+
+[page 28]
+Table 4. WAI scores of respondents based on gender
+
+Diseases
+
+No.
+
+Average
+
+Standard
+
+WAI Score
+
+Deviation
+
+95% CI for Mean
+Lower Bound Upper Bound
+
+(Mean)
+
+p
+
+Glaucoma
+male
+
+81
+
+31.47
+
+3.89
+
+30.61
+
+32.33
+
+Mann–WhitneyUtest:
+
+female
+
+69
+
+30.99
+
+3.97
+
+30.04
+
+31.95
+
+Z=−1.722 p=0.085
+
+Diabetic retinopathy
+male
+
+63
+
+27.68
+
+2.56
+
+27.03
+
+28.32
+
+Mann–WhitneyUtest:
+
+female
+
+87
+
+27.32
+
+2.54
+
+26.78
+
+27.86
+
+Z=−1.339 p=0.181
+
+Refraction anomalies
+male
+
+66
+
+31.67
+
+4.24
+
+30.62
+
+32.71
+
+Mann–WhitneyUtest:
+
+female
+
+84
+
+31.19
+
+4.29
+
+30.25
+
+32.12
+
+Z=−1.467 p=0.142
+
+male
+
+210
+
+30.39
+
+4.06
+
+29.84
+
+30.94
+
+Mann–WhitneyUtest:
+
+female
+
+240
+
+29.73
+
+4.07
+
+29.21
+
+30.25
+
+Z=−2.191 p=0.028*
+
+male
+
+75
+
+35.05
+
+3.52
+
+34.24
+
+35.86
+
+Mann–WhitneyUtest:
+
+female
+
+75
+
+34.42
+
+3.27
+
+33.67
+
+35.17
+
+Z=−1.355 p=0.175
+
+Low vision group
+
+Control group
+
+*significance of p < 0.05
+Note: WAI = Work Ability Index; CI = confidence intervals.
+
+27
+
+
+[page 29]
+Table 5. WAI scores of respondents with low vision based on profession
+Average
+WAI
+
+Profession
+
+No.
+
+Score
+
+Standard
+
+Minimum
+
+Maximum
+
+p
+
+Deviation
+
+(Mean)
+Laborer
+
+29.4
+
+125
+
+3.2
+
+24.1
+
+29.4
+
+Office worker
+
+31. 1
+
+134
+
+4.8
+
+23.8
+
+31.1
+
+One-Way ANOVA:
+F=17.854 df=3;
+
+Farmer
+
+27.6
+
+76
+
+2.8
+
+23.7
+
+27.6
+
+Other
+
+31.1
+
+115
+
+3.95
+
+24.2
+
+31.1
+
+p =0.001*
+
+* significance of p < 0.05
+Note: WAI = Work Ability Index.
+
+Table 6. WAI scores of control group respondents based on profession
+Average
+Profession
+
+WAI
+
+No.
+
+Score
+
+Standard
+
+Minimum
+
+Maximum
+
+Deviation
+
+p
+
+(Mean)
+Laborer
+
+34.9
+
+47
+
+3.6
+
+29.1
+
+40.2
+
+Office worker
+
+36.3
+
+39
+
+3.2
+
+28.6
+
+40.6
+
+One-Way ANOVA:
+F=7.858 df=3;
+
+Farmer
+
+32.2
+
+21
+
+2.1
+
+29.3
+
+36.1
+
+Other
+
+34.2
+
+43
+
+3.2
+
+28.9
+
+39.2
+
+*significance of p < 0.05
+Note: WAI = Work Ability Index.
+
+28
+
+p=0.007*
+
+
+[page 30]
+Table 7. Attributive values of WAI of respondents in the study
+WAI
+
+Disease
+
+Total
+
+Number
+
+Poor
+
+Moderate
+
+Good
+
+42
+
+102
+
+6
+
+28%
+
+68%
+
+4%
+
+76
+
+74
+
+0
+
+50.7%
+
+49.3%
+
+0%
+
+43
+
+88
+
+19
+
+28.7%
+
+58.7%
+
+12.6%
+
+161
+
+264
+
+25
+
+35.8%
+
+58.7%
+
+5.5%
+
+16
+
+84
+
+50
+
+10.7%
+
+56%
+
+33.3%
+
+150
+
+Glaucoma
+
+Diabetic
+
+Number
+
+retinopathy
+Refraction
+
+Number
+
+anomalies
+Number
+
+150
+
+150
+
+450
+
+Low vision group
+
+Number
+Control group
+
+* significance of p < 0.05
+Fisher–Fridman–Halton test: p = 0.001*
+Pearson χ2 = 7.81, df = 2, p = 0.002*
+Fisher–Fridman–Halton test: p = 0.001*
+Fisher–Fridman–Halton test: p = 0.001*
+
+glaucoma/ diabetic retinopathy
+glaucoma/ refraction anomalies
+d.retinopathy/refraction anomalies
+low vision/control group
+
+Note: WAI = Work Ability Index.
+
+29
+
+150
+
+
+[page 31]
+Table 8. Connection of COPSOQ scores to WAI scores of respondents with low vision
+COPSOQ
+DOMAINS
+
+Unstandardized
+
+Standardized
+
+Coefficients
+
+Coefficients
+
+95% CI
+t
+
+Sig.
+
+for B
+Lower
+
+Upper
+
+Bound
+
+Bound
+
+0.001
+
+−1.666
+
+−1.451
+
+−29.835
+
+0.001
+
+−1.734
+
+−1.520
+
+−0.775
+
+−25.955
+
+0.001
+
+−1.716
+
+−1.474
+
+0.064
+
+0.661
+
+18.645
+
+p>0.05
+
+1.068
+
+1.319
+
+1.326
+
+0.056
+
+0.743
+
+23.515
+
+0.001
+
+1.215
+
+1.437
+
+Work importance
+
+1.193
+
+0.064
+
+0.661
+
+18.645
+
+0.001
+
+1.068
+
+1.319
+
+Work duties
+
+1.193
+
+0.055
+
+0.769
+
+25.459
+
+p>0.05
+
+1.281
+
+1.495
+
+Predictability
+
+1.279
+
+0.047
+
+0.790
+
+27.319
+
+p>0.05
+
+1.187
+
+1.371
+
+Rewards/feedback
+
+1.388
+
+0.055
+
+0.769
+
+25.459
+
+0.001
+
+1.281
+
+1.495
+
+Role and
+
+1.622
+
+0.065
+
+0.762
+
+24.911
+
+0.001
+
+1.750
+
+1.494
+
+1.916
+
+0.078
+
+0.757
+
+24.535
+
+0.001
+
+1.762
+
+2.069
+
+Social support
+
+1.588
+
+0.059
+
+0.787
+
+26.959
+
+0.001
+
+1.472
+
+1.704
+
+Relationship
+
+1.197
+
+0.062
+
+0.671
+
+19.159
+
+p>0.05
+
+1.074
+
+1.320
+
+B
+
+SEM
+
+−1.558
+
+0.055
+
+−0.803
+
+−28.529
+
+−1.627
+
+0.055
+
+−0.816
+
+−1.595
+
+0.061
+
+1.388
+
+Career prospects
+
+Quantitative
+
+Beta
+
+demands
+Cognitive
+demands
+Emotional
+demands
+Employee’s
+influence at work
+
+definition
+Quality
+management
+
+employee –
+supervisor
+
+30
+
+
+[page 32]
+Fairness and
+
+1.254
+
+0.049
+
+0.768
+
+25.375
+
+p>0.05
+
+1.157
+
+1.351
+
+Job satisfaction
+
+3.026
+
+0.122
+
+0.761
+
+24.839
+
+0.001
+
+2.787
+
+3.266
+
+Health condition
+
+2.849
+
+0.081
+
+0.856
+
+35.008
+
+0.001
+
+2.689
+
+3.009
+
+Exhaustion
+
+−1.595
+
+0.057
+
+−0.796
+
+−27.815
+
+0.001
+
+−1.708
+
+−1.482
+
+Stress
+
+−1.598
+
+0.056
+
+−0.802
+
+−28.389
+
+0.001
+
+−1.709
+
+−1.487
+
+Job/private life
+
+−1.193
+
+0.064
+
+0.661
+
+18.645
+
+p>0.05
+
+1.068
+
+1.319
+
+reputation
+
+conflict
+a. Dependent Variable: WAI score *significance of *p < 0.05
+Note: B = coefficient of linear regression; SEM = standard error of the mean; t = t test; Sig. = statistical
+significance.
+
+31
+
+
+[page 33]
+Table 9. Connection of COPSOQ scores to WAI scores of control group respondents
+COPSOQ
+
+Unstandardized
+
+Standardized
+
+DOMAINS
+
+Coefficients
+
+Coefficients
+
+95% CI
+t
+
+for B
+
+Sig.
+Lower
+
+Upper
+
+Bound
+
+Bound
+
+0.001
+
+−1.727
+
+−1.476
+
+−23.387
+
+0.001
+
+−1.813
+
+−1.531
+
+−0.843
+
+−19.083
+
+0.001
+
+−1.742
+
+−1.415
+
+0.047
+
+0.915
+
+27.671
+
+p>0.05
+
+1.212
+
+1.398
+
+1.282
+
+0.048
+
+0.910
+
+26.766
+
+0.001
+
+1.187
+
+1.377
+
+Work importance
+
+1.305
+
+0.047
+
+0.915
+
+27.671
+
+0.001
+
+1.212
+
+1.398
+
+Work duties
+
+1.313
+
+0.046
+
+0.921
+
+28.691
+
+p>0.05
+
+1.223
+
+1.404
+
+Predictability
+
+1.451
+
+0.047
+
+0.931
+
+30.931
+
+p>0.05
+
+1.358
+
+1.543
+
+Rewards/feedback
+
+1.313
+
+0.046
+
+0.921
+
+28.691
+
+0.001
+
+1.223
+
+1.404
+
+Role and definition
+
+1.761
+
+0.066
+
+0.910
+
+26.679
+
+0.001
+
+1.892
+
+1.631
+
+Quality
+
+1.958
+
+0.071
+
+0.916
+
+27.733
+
+0.001
+
+1.818
+
+2.097
+
+Social support
+
+1.451
+
+0.047
+
+0.931
+
+30.931
+
+0.001
+
+1.358
+
+1.543
+
+Relationship
+
+1.240
+
+0.046
+
+0.912
+
+27.092
+
+p>0.05
+
+1.149
+
+1.330
+
+1.243
+
+0.040
+
+0.932
+
+31.229
+
+p>0.05
+
+1.164
+
+1.321
+
+B
+
+SEM
+
+Beta
+
+−1.602
+
+0.064
+
+−0.901
+
+−25.212
+
+Cognitive demands
+
+−1.672
+
+0.071
+
+−0.887
+
+Emotional
+
+−1.579
+
+0.083
+
+1.305
+
+Career Prospects
+
+Quantitative
+demands
+
+demands
+Employees
+influence at work
+
+management
+
+employee–
+supervisor
+Fairness and
+
+32
+
+
+[page 34]
+reputation
+Job satisfaction
+
+2.938
+
+0.096
+
+0.929
+
+30.642
+
+0.001
+
+2.748
+
+3.127
+
+Health condition
+
+2.627
+
+0.103
+
+0.902
+
+25.394
+
+0.001
+
+2.423
+
+2.831
+
+Exhaustion
+
+−1.741
+
+0.066
+
+−0.908
+
+−26.403
+
+0.001
+
+−1.871
+
+−1.610
+
+Stress
+
+−1.579
+
+0.083
+
+−0.843
+
+−19.083
+
+0.001
+
+−1.742
+
+−1.415
+
+Job/private life
+
+−1.305
+
+0.047
+
+0.915
+
+27.671
+
+p>0.05
+
+1.212
+
+1.398
+
+conflict
+a. Dependent Variable: WAI score *significance of*p < 0.05
+Note: B = coefficient of linear regression; SEM = standard error of the mean; t = t test; Sig. = statistical
+significance.
+
+Table10. Exposure to intimidation
+Exposure to intimidation
+Respondents
+
+Low vision
+
+Control
+
+Total
+
+Yes
+
+No
+
+Total
+
+Number
+
+34
+
+415
+
+%
+
+7.55%
+
+92.22%
+
+Number
+
+9
+
+141
+
+%
+
+6%
+
+94%
+
+Number
+
+43
+
+556
+
+600
+
+%
+
+7.16%
+
+92.67%
+
+100%
+
+Pearson χ2= 0.523,df = 1, p = 0.469* significance of *p < 0.05
+
+33
+
+450
+
+150
+

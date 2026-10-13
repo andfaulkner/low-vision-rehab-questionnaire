@@ -1,0 +1,571 @@
+[page 1]
+Investigación original / Original research
+
+Assistive technology applied to education
+of students with visual impairment
+Cássia Cristiane de Freitas Alves,1 Gelse Beatriz Martins Monteiro,1
+Suzana Rabello,1 Maria Elisabete Rodrigues Freire Gasparetto,1
+and Keila Monteiro de Carvalho 1
+Suggested citation
+
+Alves CCF, Monteiro GBM, Rabello S, Gasparetto MERF, Carvalho KM. Assistive technology applied
+to education of students with visual impairment. Rev Panam Salud Publica. 2009;26(2):148–52.
+
+ABSTRACT
+
+Objectives. Verify the application of assistive technology, especially information technology in the education of blind and low-vision students from the perceptions of their teachers.
+Methods. Descriptive survey study in public schools in three municipalities of the state of
+São Paulo, Brazil. The sample comprised 134 teachers.
+Results. According to the teachers’ opinions, there are differences in the specificities and applicability of assistive technology for blind and low-vision students, for whom specific computer
+programs are important. Information technology enhances reading and writing skills, as well
+as communication with the world on an equal basis, thereby improving quality of life and facilitating the learning process. The main reason for not using information technology is the lack
+of planning courses. The main requirements for the use of information technology in schools are
+enough computers for all students, advisers to help teachers, and pedagogical support.
+Conclusions. Assistive technology is applied to education of students with visual impairment; however, teachers indicate the need for infrastructure and pedagogical support. Information technology is an important tool in the inclusion process and can promote independence
+and autonomy of students with visual impairment.
+
+Key words
+
+Assistive technology; visually impaired persons; information technology; Brazil.
+
+Assistive technology is an interdisciplinary field of knowledge comprising products, resources, methodologies,
+strategies, practices, and services that
+aims to promote functionality for visually impaired people with regard to autonomy, independence, quality of life,
+and social inclusion (1).
+1
+
+Faculty of Medical Sciences, University of Campinas, Campinas, Brazil. Send correspondence and
+reprint requests to: Cássia Cristiane de Freitas
+Alves, Department of Ophthalmology, Faculty of
+Medical Sciences, University of Campinas, P.O.
+Box 6111, Rua Tessalia Vieira de Camargo, 126,
+Campinas, São Paulo 13084-970, Brazil; telephone:
+551135217380; fax: 551135217380; e-mail: cassia.
+freitas@hotmail.com
+
+148
+
+Information technology, the main assistive technology resource applied to
+educating visually impaired students,
+can be defined as computers with programs that allow students to access the
+digital environment, promoting individual life and social/education inclusion.2
+Inclusive schools provide all students
+with a regular classroom, thus ensuring
+adequate and challenging educational
+opportunities fitted to their abilities and
+2
+
+Alves, CCF. The use of computer science resources
+in the education of visually impaired students:
+teacher’s knowledge, opinions and practices [dissertation]. Campinas, São Paulo: University of
+Campinas; 2007.
+
+needs, according to the principle of educational inclusion defined in the Salamanca Declaration (2, 3).
+Visual impairment is divided into two
+groups with distinct characteristics and
+needs: individuals with low vision and
+individuals with blindness.
+Low-vision individuals have impaired
+visual function even after optical correction and use or are able to use their vision to perform tasks. In the educational
+field, students with low vision have
+residual vision, which enables them to
+read printed material with the aid of didactic resources and special equipment
+(4, 5).
+
+Rev Panam Salud Publica/Pan Am J Public Health 26(2), 2009
+
+
+[page 2]
+Freitas Alves et al. • Assistive technology for visually impaired students
+
+Blindness is the term used to describe
+total loss of vision and conditions in
+which individuals need to rely predominantly on vision substitution skills. In the
+educational field, a blind student does not
+use vision in the learning process (4, 5).
+The loss of visual ability causes unfavorable consequences at both the individual and collective levels. Blindness
+generates psychological, social, and economic problems as well as problems concerning quality of life, since it may lead to
+loss of self-esteem and autonomy (6).
+Students with low vision may have
+difficulties with reading and writing activities, even when they use optical aids
+(that magnify the image) and nonoptical resources (material adaptation and
+changes in the environment) (7). Those
+students can benefit from the combined
+use of these resources with information
+technology, such as screen enlargers
+(systems that magnify the characters on
+a computer) and speech synthesizers
+(specific adaptations with voice output,
+which convert screen content to speech).
+Information technology allows individuals with visual impairment to overcome
+a major part of the difficulties in daily life
+and offers them independence and autonomy concerning information management and access to communication, just
+like their peers with normal vision (8).
+Many voice synthesizers and screen
+readers are available for purchase from
+companies or nongovernmental organizations or are available for free use on
+the Internet. These programs allow access to Internet websites.
+Assistive technology resources are increasingly becoming a concrete means
+of access to information, communication,
+and social inclusion (9).
+Including visually impaired students
+in schools requires special attention. The
+teacher should be able to competently
+manage assistive technology resources,
+which can be considered a condition for
+an efficient pedagogical relationship (10).
+To ensure educational and social inclusion of students with visual impairment,
+ophthalmology has prioritized research
+that focuses on the patient’s global treatment, including physicians, pedagogues,
+and rehabilitation professionals. Therefore, it is important to know the environment where teachers of students with visual impairment work in order to help
+them perform appropriately.
+The objective of this research was to
+verify the application of assistive technol-
+
+ogy, especially information technology, in
+educating blind and low-vision students
+from the perceptions of their teachers.
+
+MATERIALS AND METHODS
+A descriptive survey study was carried out in public schools in three municipalities in the state of São Paulo, Brazil. The sample consisted of 58 teachers
+who taught students with visual impairment and 76 teachers who did not teach
+these students, even though they worked
+in schools that visually impaired students attended. The sample was selected
+according to the following criteria: (1) to
+work in schools attended by students
+with visual impairment and (2) to teach
+at the elementary, middle, or high school
+level in public schools.
+A self-applicable questionnaire was
+developed that contained questions for
+all teachers as well as questions directed
+to teachers who worked with visually
+impaired students. Along with the questionnaire, the patients filled out and
+signed a consent form for participation
+in the research. The study was approved
+by the Research Ethics Committee of the
+Faculty of Medical Sciences–Unicamp.
+Data were collected between March
+and July 2006. The following variables
+were analyzed:
+• Differences in the specificities and
+applicability of assistive technology
+resources to the needs of blind and
+low-vision students
+• Importance of schools having specific programs for students with visual impairment
+• Importance ascribed to assistive technology in teaching students with visual impairment
+• Use of information technology by students with visual impairment
+• Necessary requirements for the use
+of information technology
+A database was created using the program EPI-INFO, version 6.04d (11). The
+program SAS was used for statistical
+analysis (12). Frequency charts were
+used for categorical variables, and descriptive statistics (averages) were used
+for continuous variables.
+
+RESULTS
+Most teachers (61.4%) stated that the
+use of assistive technology resources has
+
+Rev Panam Salud Publica/Pan Am J Public Health 26(2), 2009
+
+Original research
+
+different applicability for blind and low vision students. They also declared that
+specific programs for students with visual impairment are necessary in schools
+(98.3%) (Table 1).
+Concerning the importance of using
+assistive technology resources in educating students with visual impairment,
+84.2% of the teachers declared that the
+resources were very important to enhance reading and writing skills as well
+as to communicate with the world on an
+equal basis (95.8%). In addition, they
+made information available and the
+content of the teaching material more attractive than the traditional resources
+(93.7%), improving the students’ quality
+of life, facilitating the learning process
+(91.7%), and allowing them to rewrite
+and correct texts (87.5%) with autonomy
+and privacy (66.7%) (Table 1).
+The results showed that most teachers
+(94.8%) did not use information technology with visually impaired students. The
+reasons were not having previously included in the course program the use of
+information technology in class (70.4%),
+the lack of specific programs for students
+with visual impairment (51.8%), the fact
+that the school administration did not
+make information technology available
+for teachers and students (24.1%), the fact
+that students with visual impairment did
+not know how to use the computer, and
+the belief that the disability did not allow the individual to use the computer
+(20.4%) (Table 2).
+Regarding the necessary requirements
+for using information technology in
+schools, the teachers indicated the need
+for enough computers for all students in
+the class (89.5%), a computer technology
+advisor to help teachers (75.4%), pedagogical support to use information technology as a learning strategy (74.6%),
+enough ability to use computers (69.4%),
+programs for students with visual impairment (68.7%), and Internet-connected
+computers (59.7%) (Table 3).
+
+DISCUSSION
+Teachers play a fundamental role in
+the task of promoting students’ well being and in creating conditions for learning. They can also contribute to students’
+health by guiding them in the use of resources that enhance their residual vision
+and preserve their visual function (13).
+Access to assistive technology provides independence to students with vi-
+
+149
+
+
+[page 3]
+Original research
+
+Freitas Alves et al. • Assistive technology for visually impaired students
+
+TABLE 1. Level of importance attributed to use of assistive technology and reasons for the
+importance of these resources in the students’ learning process: elementary and high school
+teachers of students with visual impairment in Brazilian public schools, 2007
+Characteristic
+
+No.
+
+Percent
+
+Very important
+More or less important
+Very important becauseb (n = 48)
+Enhances writing, reading, and communication with the world
+on an equal basis
+Makes information available
+Makes the content of teaching material more attractive than the
+traditional one
+Improves the quality of life of students with visual impairment
+Facilitates the learning process
+Allows rewriting and correction of texts
+Allows autonomy and privacy
+More or less important becausec (n = 7)
+Does not solve all the student’s difficulties
+Computers are not available for all students
+Does not solve the problem of inclusion
+
+48
+9
+
+84.2
+15.8
+
+46
+45
+
+95.8
+93.7
+
+45
+44
+44
+42
+32
+
+93.7
+91.7
+91.7
+87.5
+66.7
+
+5
+5
+5
+
+71.4
+71.4
+71.4
+
+Importance (n = 57)a
+
+a One teacher did not indicate why assistive technology was very important in the learning process of students with visual
+
+impairment.
+b Multiple answers.
+c Two teachers did not indicate why assistive technology was more or less important in the learning process of students with
+
+visual impairment.
+
+TABLE 2. Use of information technology and reasons for not using it for students with visual impairment: elementary and high school teachers of Brazilian public schools, 2007
+Characteristic
+Use of information technology (n = 58)
+Yes
+No
+Reasons for not using information technologyb (n = 54)c
+There are no planning courses with information technology
+There are no programs for students with visual impairment
+Resources are not available for students
+Students with visual impairment do not know how to use a computer
+The students’ visual impairment does not allow them to use such technology
+
+No.
+
+Percent
+
+3a
+55
+
+5.2
+94.8
+
+38
+28
+13
+8
+3
+
+70.4
+51.8
+24.1
+14.8
+5.6
+
+a None of the three teachers who reported the use of information technology with students with visual impairment indicated
+
+which specific activities they carried out with these students.
+b Multiple answers.
+c One teacher did not indicate the reason for not using information technology with students with visual impairment.
+
+TABLE 3. Necessary requirements for information technology to be used in school activities:
+opinions of elementary and high school teachers in Brazilian public schools, 2007
+Requirements for use of
+information technology with students (n = 134)a
+
+No.
+
+Percent
+
+Enough computers for all students
+Information technology adviser to help the teacher
+Pedagogical support to develop computer projects
+Enough ability to use computers
+Appropriate programs
+Internet-connected computers
+
+120
+101
+100
+93
+92
+80
+
+89.5
+75.4
+74.6
+69.4
+68.7
+59.7
+
+a Multiple answers.
+
+sual impairment by enhancing their
+communication, mobility, and environment control. In many cases, use of tech-
+
+150
+
+nology is the only way people with communication difficulties can connect to the
+external world (14).
+
+In this study, the results concerning
+the importance of information technology in the learning process of students
+with visual impairment suggest that the
+teachers in this sample are aware of
+the importance of using assistive technology in education activities. However,
+it is not enough; it is necessary to be familiar with and know how to use the
+technology (15).
+Teachers believe that having information technology in schools can promote
+the inclusion of students with visual impairment, facilitating school tasks and social interaction in the school environment.2
+The number of students with low vision may be three to five times higher
+than the number of blind students,
+which reveals the need for distinct programs to serve both blind and low-vision
+students (16).
+The use of assistive technology enables students with visual impairment
+to better adjust to regular learning processes and academic domains. It gives
+these students access to the same information source their peers use. With
+a computer, a low-vision or blind student is able to communicate with other
+schools by databases, stores, libraries,
+etc. (17). New work opportunities can be
+considered, and the Internet, as well as
+its multiple possibilities, can be explored
+by using specific programs for students
+with visual impairment.
+
+Rev Panam Salud Publica/Pan Am J Public Health 26(2), 2009
+
+
+[page 4]
+Freitas Alves et al. • Assistive technology for visually impaired students
+
+Despite all these considerations, 94.8%
+of the teachers stated they did not use information technology (Table 3). There
+are many barriers to the use of information technology in schools, such as uneven allocation of equipment and poor
+access to computer resources. Students
+with special needs and underprivileged
+social groups lack access to information
+technology.3 It is important to create opportunities that maximize the students’
+potential, especially students with special needs.
+The process of introducing information technology in schools requires that
+all teachers invest in the development of
+their abilities, so that their educational
+
+3
+
+Tanaka EH. Tornando um software acessível às
+pessoas com necessidades educacionais especiais
+[dissertation]. Campinas, São Paulo: Universidade
+Estadual de Campinas; 2001.
+
+activities can benefit from technology
+tools. The success of using information
+technology for educational purposes depends on a collaborative effort between
+the school and the teachers, requiring
+planning that considers the needs and
+conditions of the school so that issues
+such as equipment maintenance and material supplies do not become an obstacle
+(18).
+Committed to and involved with
+spreading information that eases the
+lives of students with low vision or
+blindness, the Department of Ophthalmology of the Faculty of Medical Sciences (Unicamp) developed a website—
+www.auxiliosopticos.fcm.unicamp.br—
+that offers information and guidance to
+improve the work of teachers and students with visual impairment.
+The use of assistive technology contributes to the use of residual vision and
+
+Original research
+
+to the preservation of visual function. It is
+an important tool in the inclusion process.
+It allows health and education professionals to develop combined actions and to
+promote knowledge sharing and quality
+of life for visually impaired students (19).
+Assistive technology is applied to education of students with visual impairment;
+however, teachers indicate the need for infrastructure and pedagogical support.
+The study was limited to three municipalities in the state of São Paulo, Brazil,
+due to a shortage of financial and human
+resources and difficulty obtaining grants
+from government agencies.
+We recommend a working partnership among school, family, and ophthalmic medical service, so that there is
+awareness of the limitations to be overcome and planning of actions that allow
+the use of assistive technology in educating visually impaired students.
+
+REFERENCES
+1. Cook A, Hussey SM. Assistive technologies:
+principles and practice. 2nd ed. St. Louis:
+Mosby; 2002.
+2. World Conference on Special Needs Education: Access and Quality. The Salamanca
+Statement and Framework for Action on
+Special Needs Education. Salamanca, Spain:
+United Nations Education, Scientific and Cultural Organization and Ministry of Education
+and Science Spain; 1994.
+3. Stainback S, Stainback W. Inclusion: a guide
+for educators. Baltimore, MD: Paul H. Brookes;
+1996.
+4. International Council of Ophthalmology. Visual standards: aspects and ranges of vision
+loss with emphasis on population surveys.
+29th International Congress of Ophthalmology, 2 April 2002, Sidney, Australia. San Francisco: ICO; 2002. Available from: http://
+www.icoph.org/standards/visionres.html#
+adopt. Accessed 5 November 2007.
+5. World Health Organization. Consultation on
+development of standards for characterization of visual loss and visual functioning.
+WHO/PBL/03.91. Geneva: WHO; 2003.
+6. Kara-José N, Temporini ER. Cirurgia de
+catarata: o porquê dos excluídos. Rev Panam
+Salud Publica. 1999;6(4):242–48.
+7. Carvalho KM, Monteiro GBM, Rodrigues IC,
+Shiroma LO, Amaral MS. Causes of low vision and use of optical aids in the elderly. Rev
+Hosp Clin Fac Med Sao Paulo. 2004;59(4):
+157–60. Available from: http://www.scielo.
+
+br/scielo.php?script=sci_arttext&pid=S004187812004000400001&lng=en. Accessed 12 December 2008.
+8. Caparrós JAE. Tiflotecnología. In: Martír MB,
+Bueno ST, eds. Deficiencia visual: aspectos
+psicoevolutivos y educativos. Málaga: Ediciones Aljibe, SL; 1994.
+9. Brasil, Ministério da Ciência e Tecnologia.
+Tecnologias assistivas e a promoção da inclusão social. Brasília: Ministério da Ciência e
+Tecnologia; 2005.
+10. Baumel RCRC, Castro AM. Materiais e recursos de ensino para deficientes visuais. In: Baumel RCRC, ed. Educação especial: do querer
+ao fazer. São Paulo: Avercamp; 2003.
+11. Dean AG, Dean JA, Coulombier P, Brendel
+KA, Smith DC, Burton AH, et al. Epi-info: a
+word processing, database, and statistics program for epidemiology on microcomputers.
+Version 6.04. Atlanta: Centers for Disease
+Control and Prevention; 2001.
+12. The SAS System for Windows (Statistical
+Analysis System). Release 8.2 (TS2MO) Windows. Cary, NC: SAS Institute Inc.; 2004. Available from: http://support.sas.com/resources/
+sysreq/82/win82m0.pdf. Accessed 10 April
+2008.
+13. Temporini ER, Carvalho RS, Kara-José N,
+Oliveira DF. A importância dos professores e
+da escola. In: Kara-José N, Gonçalves ER, Carvalho RS, eds. Olho no olho: Campanha Nacional de Prevenção à Cegueira e Reabilitação
+Visual do Escolar. São Paulo: CBO; 2006.
+
+Rev Panam Salud Publica/Pan Am J Public Health 26(2), 2009
+
+14. Galvão Filho TA. As novas tecnologias na
+escola e no mundo atual: fator de inclusão social do aluno com necessidades especiais?
+In: Anais eletrônicos do III Congresso Iberoamericano de Informática na Educação Especial. Fortaleza; 2002.
+15. Freire FMP, Prado MEBB. O computador em
+sala de aula: articulando saberes. Campinas:
+Unicamp/Nied; 2000.
+16. Thylefors B, Negrel AD, Pararajasegaram R,
+Dadzie KY. Global data on blindness. Bull
+World Health Organ. 1995;73(1):115–21.
+17. Gasparetto MERF, Temporini ER, Carvalho
+KM, Kara-José N. O aluno portador de visão
+subnormal na escola regular: desafio para o
+professor? Arq Bras Oftalmol. 2001;64(1):45–51.
+18. Freire FMP, Prado MEBB, Martins MC, Sidericoudes O. A implantação da informática no
+espaço escolar: questões emergentes ao longo
+do processo. Rev Bras Inform Educ. 1998;3:
+45–62.
+19. Carvalho RS, Kara-José N. Saúde e educação:
+considerações finais. In: Kara-José N, Gonçalves ER, Carvalho RS, eds. Olho no olho:
+Campanha Nacional de Prevenção à Cegueira
+e Reabilitação Visual do Escolar. São Paulo:
+CBO; 2006. Pp. 131–32.
+
+Manuscript received on 18 August 2008. Revised version
+accepted for publication on 15 December 2008.
+
+151
+
+
+[page 5]
+Original research
+
+Freitas Alves et al. • Assistive technology for visually impaired students
+
+RESUMEN
+
+Uso de tecnologías
+de asistencia en la
+educación de estudiantes
+con deficiencia visual
+
+Palabras clave
+
+152
+
+Objetivos. Verificar el uso de tecnologías de asistencia, en particular tecnologías informáticas, en la educación de estudiantes ciegos y débiles visuales, desde la percepción de sus maestros.
+Métodos. Estudio descriptivo mediante encuesta a 134 maestros de escuelas públicas de tres municipios del estado de São Paulo, Brasil.
+Resultados. Según la opinión de los maestros hay diferencias en las especificidades
+y aplicabilidad de las tecnologías de asistencia para estudiantes ciegos y débiles visuales, para los que son importantes programas específicos de computación. Las tecnologías informáticas desarrollan las habilidades de lectura y escritura, así como la
+comunicación con el mundo sobre una base de igualdad, lo que mejora la calidad de
+vida y facilita el proceso de aprendizaje. La principal razón para no utilizar tecnologías informáticas es la falta de cursos de planificación. Los principales requisitos para
+usar tecnologías informáticas en las escuelas es tener suficientes computadoras para
+todos los estudiantes, asesores que ayuden a los maestros y apoyo pedagógico.
+Conclusiones. Las tecnologías de asistencia se utilizan en la educación de estudiantes con deficiencia visual; no obstante, los maestros señalan la necesidad de infraestructura y apoyo pedagógico. Las tecnologías informáticas constituyen una herramienta importante para el proceso de inclusión y pueden propiciar la independencia
+y la autonomía de los estudiantes con deficiencia visual.
+Dispositivos de autoayuda; personas con daño visual; tecnología de la información;
+Brasil.
+
+Rev Panam Salud Publica/Pan Am J Public Health 26(2), 2009
+

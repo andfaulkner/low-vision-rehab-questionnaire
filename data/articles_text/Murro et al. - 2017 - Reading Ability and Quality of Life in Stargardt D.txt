@@ -1,0 +1,694 @@
+[page 1]
+EJO
+ISSN 1120-6721
+
+Eur J Ophthalmol 2017; 00 (00): 000-000
+DOI: 10.5301/ejo.5000972
+
+ORIGINAL RESEARCH ARTICLE
+
+Reading ability and quality of life in Stargardt disease
+Vittoria Murro, Andrea Sodi, Giovanni Giacomelli, Dario P. Mucciolo, Monica Pennino, Gianni Virgili, Stanislao Rizzo
+Department of Translational Surgery and Medicine, Eye Clinic, University of Florence, Florence - Italy
+
+Abstract
+Purpose: To study the reading performance of patients with Stargardt disease (STGD) and the relationship between clinical vision measurements and vision-related quality of life (VRQOL).
+Methods: We studied both eyes of 16 patients with STGD. Each patient was examined for best-corrected visual
+acuity (Early Treatment Diabetic Retinopathy Study [ETDRS]), reading ability (MNREAD and REX charts), contrast
+sensitivity (Pelli-Robson charts), fixation study (MP1 microperimeter), and VRQOL (25-item National Eye Institute
+Visual Function Questionnaire [NEI VFQ-25]). The correlation pattern among these variables was examined and
+an exploratory factor analysis was used to investigate dimensionality of both visual function and VRQOL.
+Results: Mean ETDRS visual acuity was about 20/160 (0.9 logMAR). All studied psychophysical measures were
+highly or moderately correlated with MNREAD reading speed (p<0.05 level). A similar correlation was found between psychophysical measures and VRQOL, which was higher for MNREAD measures of acuity (r = -0.75) and
+speed (r = 0.74). Accordingly, exploratory factor analysis suggested that a single latent dimension explained most
+of the variance of vision psychophysical measures as well as of VRQOL.
+Conclusions: We propose that reading ability should be assessed in patients with STGD, since we found that
+both MNREAD reading speed and visual acuity are strong determinants of quality of life. The observed relation
+between reading ability and VRQOL in STGD suggests that in these patients appropriate low vision rehabilitation
+can improve both reading performance and consequently VRQOL. Finally, our data support the use of reading
+speed and visual acuity as important outcome measures for monitoring STGD progression.
+Keywords: Low vision, Reading ability, Stargardt disease
+
+Introduction
+Stargardt disease (STGD) is the most common form of
+juvenile-onset macular dystrophy. It is predominantly an autosomal recessive disease caused by mutations in the ABCA4
+gene (1-3) and is characterized by loss of central vision associated with fundus changes that include the presence of yellowish-white flecks and an atrophic-appearing macular lesion
+that results in a central scotoma. A level of 20/200 or worse in
+visual acuity is often ultimately reached (4, 5). Central vision
+loss occurs early and limits the patient’s ability to perform
+various visual tasks. Reading ability alterations are common
+in patients with STGD, but little is known about the correlation of visual and reading disability with vision-related quality
+of life (VRQOL) in these patients.
+Accepted: March 21, 2017
+Published online: April 14, 2017
+Corresponding author:
+Dario P. Mucciolo, MD
+Eye Clinic
+Careggi Teaching Hospital
+University of Florence, Florence
+Largo Brambilla, 3
+50134 Firenze, Italy
+dario.mucciolo@gmail.com
+
+© 2017 Wichtig Publishing
+
+Purposes of this study were to evaluate the reading performance of patients with STGD assessed by clinical psychophysical tests and to study the relationship between clinical
+vision measurements and VRQOL.
+
+Methods
+Patients
+Patients were recruited at the Local Centre for Inherited
+Retinal Dystrophies and at the Local Centre for Low Vision Rehabilitation, Eye Clinic University of Florence, Italy. The study
+followed the tenets of the Declaration of Helsinki and was
+approved by the Institutional Review Board at the University
+of Florence. Informed consent was obtained from each patient after explanation of the purpose and description of the
+procedures of the study. Patients had STGD confirmed after
+complete ophthalmic investigation including genetic testing,
+spectral-domain optical coherence tomography, Goldmann
+perimetry, and electrophysiologic tests performed according to International Society for Clinical Electrophysiology of
+Vision parameters. According to Lois et al (6), electroretinogram responses were classified as stage 1 if both standard
+scotopic and photopic tracings were normal, as stage 2 if only
+photopic response was impaired, and as stage 3 if both scotopic and photopic alterations were detected. Autofluorescence imaging was obtained in the large majority of patients.
+
+
+[page 2]
+Reading ability and QOL in Stargardt disease
+
+2
+
+Vision function testing was performed for each eye separately after optimal refraction and appropriate testing distance correction for each task.
+Visual acuity was measured with Early Treatment Diabetic
+Retinopathy Study (ETDRS) charts at 2 meters and recorded as
+Snellen fraction and logMAR (7). Contrast sensitivity (CS) was
+measured with Pelli-Robson charts at 1 meter and recorded
+as Log10 CS (8). Reading ability was measured with the Italian
+version of the MNREAD charts at 20 cm to obtain maximum
+reading speed (MRS) (Log10 words/minute), reading acuity,
+and critical print size, both recorded as logMAR, according to
+methods previously described (9). The effect of contrast on
+reading performance was defined by means of REX charts as
+reading contrast sensitivity (RCS), recorded as Log10 RCS (10).
+
+gave instructions verbally, and provided assistance when
+required. The completed questionnaires were reviewed for
+missing data by the research staff.
+The VFQ-25 comprises 25 items that require the patient
+to assess the levels of difficulty of particular visual symptoms
+or day-to-day activities. Each item is assigned to one of the
+following 12 subscales: general health, general vision, ocular
+pain, near activities, distance activities, social functioning,
+mental health, role difficulties, dependency, driving, color vision, and peripheral vision. The subscales are 0 to 100 points,
+where 100 indicates the highest possible function or minimal subjective impairment. The VFQ-25 composite score is
+calculated as the unweighted average response to all items,
+excluding the questions on general health and ocular pain,
+which is not a consequence of STGD. We did not obtain scores
+for driving, since no subject had a driving license.
+
+MP1 microperimetric testing
+
+Statistical methods
+
+The MP1 microperimeter (Nidek Technologies Inc.,
+­Padova, Italy) was used to study the location and stability of
+fixation and macular sensitivity. To study the sites of the preferred retinal locus (PRL), the patient’s task was to fixate a red
+circle (2° in diameter) and to maintain fixation on the center
+of this target for 30 seconds. The nontested eye was occluded
+throughout the procedure. This fixation test was followed by
+static perimetry using MP1. The sensitivity of the central visual field was tested with a 10° macula program during which
+white test lights (stimulus size Goldmann III, duration 200 ms)
+were presented on a dim white background (1.27 cd/m2) using a 4-2-1 threshold strategy.
+The location of each subject’s PRL was referred to the fovea and the distance and direction in millimeters was converted into degrees according to strategies already described
+(11, 12). Fixation stability was previously defined in terms of
+the percentage of fixation points that fell within a 2° and 4°
+diameter circle during the visual field test. Fixation was classified as stable if more than 75% of the recorded fixation points
+fell within a 2° diameter circle, relatively unstable if less than
+75% fell within a 2° diameter circle but more than 75% fell
+within a 4° diameter circle, and unstable if less than 75% fell
+within a 4° diameter circle. We did not record fixation stability as the bivariate contour ellipse area, since our study was
+planned and conducted before this measure proved to yield a
+better correlation with reading speed than percent 2° stability using MP1 microperimetry (13).
+Scotoma density was defined as a reduction in the differential light threshold and categorized as an absolute scotoma
+when one or more stimuli were not seen with the brightest
+stimulus (0 dB), as a relative scotoma when a circumscribed
+area of reduced differential light threshold could be found,
+and as an overall reduced differential light threshold when
+the threshold values were reduced to the same threshold
+level in the whole examined area.
+
+The correlation pattern among the variables included in
+our study was assessed using Pearson correlation. Cronbach
+alpha was used to assess internal consistency of VRQOL subscales’ score. Analyses were conducted using Stata 13 software (Stata Corp, College Station, TX, USA), accounting for
+correlated data within each individual since both eyes were
+considered in analyses, given the symmetry of visual damage
+in these patients.
+
+Psychophysical testing
+
+Vision-related quality of life
+The VRQOL was assessed using the 25-item National Eye
+Institute Visual Function Questionnaire (NEI VFQ-25) (14). The
+research staff explained the questionnaire to the patients,
+
+Results
+We included 16 patients with STGD (mean age 34 years,
+SD 13 years, range 12-63 years).
+Ten patients were female (63%) and 6 were male (38%).
+All patients were native Italian speakers with 10 or more years
+of education in 14 subjects and 5 or more in the 2 youngest patients. All patients carried 2 mutations of the ABCA4
+gene. ­Sequence variants detected in our series are outlined in
+­Table I. For every proband, our laboratory checked the parents
+and other relatives to evaluate the segregation of the ABCA4
+alleles in the different members of the family, to be sure that
+the sequence variants lie on 2 separate alleles. We studied
+31 eyes overall because one eye with visual acuity of 20/800
+(1.6 logMAR) was unable to read and was excluded from analyses. When expressed as Snellen fraction, mean better eye
+ETDRS overall visual acuity was about 20/160 (0.84 logMAR).
+Electroretinogram responses could be classified as group 1 in
+24 eyes, as group 2 in 6 eyes, and as group 3 in 2 eyes (6).
+Electroretinogram responses were poorly related to age and
+genotype. The mean age of patients was 31 years in group 1,
+43 years in group 2, and in group 3 there was 1 40-year-old patient. ABCA4 mutations of group 1 consisted of 19 missense mutations, 2 splicing mutations, and 4 nonsense mutations. Group
+2 consisted of 4 missense mutations, 1 splicing mutation, and
+1 deletion. The group 3 patient showed 2 missense mutations.
+Statistical analysis of possible differences among the 3 groups
+was not feasible because of the different sample sizes.
+Table II reports the mean values of all variables referred to
+the best and the worst eye: as expected, mean values of relevant vision psychophysical variables were similar between
+the 2 eyes. Moreover, monocular reading ability was similar
+© 2017 Wichtig Publishing
+
+
+[page 3]
+Murro et al
+
+3
+
+TABLE I - Sequence variants detected in our series
+Patient ID
+
+Mutation 1
+
+Mutation 2
+
+Mutation 3
+
+1
+
+c.5882G>A (p.Gly1961Glu)
+
+c.514G>A (p.Gly172Ser)
+
+2
+
+c.5882G>A (p.Gly1961Glu)
+
+c.514G>A (p.Gly172Ser)
+
+3
+
+c.2791G>A (p.Val931Met)
+
+c.4234C>T (p.Gln1412*)
+
+4
+
+c.1622T>C (p.Leu541Pro)
+
+c.3113C>T (p.Ala1038Val)
+
+c.343_381delinsGGACAA (p.Asn115_
+Thr127delinsGlyGln)
+
+5
+
+c.2461T>A (p.Trp821Arg)
+
+c.3323G>A (p.Arg1108His)
+
+c.4297G>A (p.Val1433Ile)
+
+6
+
+c.288C>A (p.Asn96Lys)
+
+c.2933G>A (p.Gly978Asp)
+
+7
+
+c.5882G>A (p.Gly1961Glu)
+
+c.1245C>A (p.Asn415Lys)
+
+8
+
+c.2791G>A (p.Val931Met)
+
+c.3322C>T (p.Arg1108Cys)
+
+9
+
+c.5882G>A (p.Gly1961Glu)
+
+c.5018 + 2T>C (p.?)
+
+10
+
+c.5018 + 2T>C (p.?)
+
+c.5898 + 5del (p.?)
+
+11
+
+c.5882G>A (p.Gly1961Glu)
+
+c.3531C>A (p.Cys1177*)
+
+12
+
+c.4667 + 1G>A (p.?)
+
+c.5512C>A (p.His1838Asn)
+
+13
+
+c.5882G>A (p.Gly1961Glu)
+
+c.5417G>A (p.Ser1806Asn)
+
+14
+
+c.5882G>A (p.Gly1961Glu)
+
+c.5417G>A (p.Ser1806Asn)
+
+15
+
+c.4437G>A (p.Trp1479X)
+
+c.6419T>A (p.Leu2140Gln)
+
+16
+
+c.4437G>A (p.Trp1479X)
+
+c.6419T>A (p.Leu2140Gln)
+
+* Nonsense mutation.
+TABLE II - Mean (SD) of all psychophysical measures considered in the study, showing similar mean values between the better and worse eye
+Test (measure)
+
+Better eye
+
+Worse eye
+
+0.84 (0.08) (20/160 )
+
+0.90 (0.1) (20/160 -2)
+
+Pelli-Robson log (contrast sensitivity)
+
+19.2 (10.4)
+
+16.9 (10.0)
+
+MNREAD reading acuity logMAR
+
+1.02 (0.29)
+
+1.11 (0.30)
+
+MNREAD critical print size logMAR
+
+1.15 (0.30)
+
+1.26 (0.26)
+
+MNREAD reading speed (logWPM)
+
+1.71 (0.37)
+
+1.56 (0.34)
+
+REX mean reading speed (logWPM)
+
+1.65 (0.28)
+
+1.50 (0.41)
+
+REX reading contrast threshold (Log10 sensitivity)
+
+0.88 (0.47)
+
+0.81 (0.43)
+
+MP1 mean sensitivity, dB
+
+10.8 (5.3)
+
+8.8 (5.7)
+
+ETDRS visual acuity, logMAR (Snellen equivalent)
+
++1
+
+MP1 mean eccentricity
+
+8.8 (6.2)
+
+9.7 (6.8)
+
+MP1 fixation stability within 2° (%)
+
+0.80 (0.21)
+
+0.66 (0.24)
+
+MP1 Fixation stability within 4° (%)
+
+0.49 (0.23)
+
+0.32 (0.21)
+
+ETDRS = Early Treatment Diabetic Retinopathy Study.
+
+in the better and worse eye for all the subjects included in
+the study, suggesting bilateral and symmetrical functional impairment despite some differences between eyes regarding
+fundus appearance.
+Using microperimetry, we noted that all but 3 eyes examined had an absolute scotoma; the 3 remaining eyes had
+a relative scotoma. For 31 eyes of 16 patients, the PRL was
+­eccentric in 26 eyes and foveal in 5 eyes. The PRL was superior to the fovea in 18 eyes (straight up in 14 eyes, upper left
+© 2017 Wichtig Publishing
+
+scotoma in 3, and upper right in 1), nasal in 6, and inferior
+in 2. Fixation was unstable in 13 eyes, relatively unstable in
+15 eyes, and stable in 3 eyes. Central 2 degrees and central
+4 degrees mean values of fixation stability were 40% (SD 23%)
+and 73% (SD 24%), respectively.
+Figure 1 shows NEI VFQ-25 quality of life scores. Median
+specific subscales scores were between 45 and 56, except
+for the social functioning and color vision subscales, which
+reached values of 71 and 100, respectively.
+
+
+[page 4]
+Reading ability and QOL in Stargardt disease
+
+4
+
+TABLE IV - Pearson correlation between VRQOL and psychophysical
+measures
+Pearson correlation
+with quality of life
+
+Fig. 1 - The central horizontal line in the box is the median, accompanied by the corresponding numerical figure. The top and the bottom boundaries of the boxes indicate the 75th and 25th percentiles,
+respectively. Whiskers above and below the box indicate the limit
+of observation within 1.5 boxes of the median.
+TABLE III - Pearson correlation between maximum reading speed
+and the variables collected by means of other tests (ETDRS
+charts, Pelli-Robson chart, REX reading test, and MP1
+microperimeter)
+Pearson correlation with
+reading speed
+ETDRS visual acuity (letter score)
+
+0.78 (0.59, 0.97)
+
+MNREAD reading acuity
+
+-0.84 (-0.68, -0.99)
+
+MNREAD critical print size
+
+-0.68 (-0.44, -0.91)
+
+Pelli-Robson log (contrast sensitivity)
+
+0.74 (0.56, 0.91)
+
+REX reading contrast threshold
+
+0.77 (0.59, 0.95)
+
+REX mean reading speed
+
+0.45 (0.03, 0.87)
+
+MP1 mean sensitivity, dB
+
+0.63 (0.44, 0.82)
+
+MP1 mean eccentricity
+
+-0.62 (-0.22, -1.00)
+
+MP1 fixation stability within 2°
+
+0.47 (0.24, 0.70)
+
+MP1 fixation stability within 4°
+
+0.48 (0.14, 0.83)
+
+ETDRS = Early Treatment Diabetic Retinopathy Study.
+
+Correlation with maximum reading speed
+Table III shows Pearson correlation between MNREAD
+MRS and the variables collected by means of other tests
+(ETDRS charts, Pelli-Robson chart, REX reading test, and MP1
+microperimetry), all of which were statistically significant at a
+p<0.05 level. The MNREAD reading acuity yielded the highest
+correlation with MRS (r = -0.84), which is not surprising since
+they are related reading variables obtained by means of the
+same test. After reading acuity, ETDRS visual acuity (r = 0.78)
+and REX reading contrast threshold (r = 0.77) yielded the strongest correlation with MRS when compared to the remaining
+visual function variables (p>0.05 for all comparisons).
+
+ETDRS visual acuity (letter score)
+
+0.64 (0.37, 0.90)
+
+MNREAD reading speed
+
+0.74 (0.62, 0.87)
+
+MNREAD reading acuity
+
+-0.75 (-0.56, -0.94)
+
+MNREAD critical print size
+
+-0.73 (-0.51, -0.95)
+
+Pelli-Robson log (contrast sensitivity)
+
+0.66 (0.45, 0.87)
+
+REX reading contrast threshold
+
+0.64 (0.39, 0.90)
+
+MP1 mean sensitivity, dB
+
+0.72 (0.55, 0.89)
+
+MP1 mean eccentricity
+
+-0.45 (-0.17, -0.73)
+
+MP1 fixation stability within 2°
+
+0.33 (0.05, 0.71)
+
+MP1 fixation stability within 4°
+
+0.31 (0.02, 060)
+
+Most variables yielded high and similar Pearson correlation coefficients, particularly for MNREAD measures of acuity and speed.
+ETDRS = Early Treatment Diabetic Retinopathy Study; VRQOL = vision-related
+quality of life.
+
+Correlation between quality of life subscales
+Pearson correlation of all NEI VFQ-25 subscales with
+the reduced overall score, i.e., the total score excluding
+general health, was very high except for general vision
+(r = 0.72 ), peripheral vision (r = 0.76), and color vision (r =
+0.55). The correlation of other subscales with the overall
+score was very high and ranged from 0.80 for near vision
+to 0.96 for mental health. Cronbach alpha was 0.93 when
+the subscales’ scores were assessed. For this reason, the
+relationship of psychophysical measures with VRQOL was
+only assessed using the overall reduced score as a summary
+measure.
+Association of psychophysical measures with quality of life
+Table IV shows Pearson correlation between VRQOL overall
+score and visual psychophysical measures, with individual data
+presented as scatterplots for relevant variables in Figure 2.
+Most variables yielded moderate to high Pearson correlation
+coefficients, which were higher particularly for MNREAD measures of acuity and speed, suggesting that a unique VRQOL
+and visual dimension were assessed.
+
+Conclusion
+To our knowledge, this is the first study relating visual
+function to reading performance and VRQOL in a series of patients with STGD, which is relatively large given that STGD is
+a rare disease.
+We found that macular damage in STGD causes a similar impairment of several psychophysical visual functions,
+including visual acuity, contrast sensitivity, and reading performance. Moreover, MRS was very strongly correlated to
+ETDRS acuity, differently from what is found in age-related
+macular degeneration (AMD) (15), where the correlation is
+© 2017 Wichtig Publishing
+
+
+[page 5]
+Murro et al
+
+5
+Fig. 2 - Scatterplots of 25-item National
+Eye Institute Visual Function Questionnaire overall score and psychophysical measures obtained with Early
+Treatment Diabetic Retinopathy Study
+charts, Pelli-Robson charts, REX reading charts, and MP1 microperimetry.
+
+only ­moderate. Contrarily to AMD, STGD usually affects young
+patients, and we can speculate that they can exploit for reading function a normal midperipheral retina beyond the macular atrophy. Moreover, young patients are more able to cope
+with visual dysfunction and adopt reading strategies, due to
+higher learning skills for better brain plasticity.
+Reading ability is also different from that in patients with
+retinitis pigmentosa, in whom reading difficulties are also
+© 2017 Wichtig Publishing
+
+determined by visual field constriction and reduced contrast
+sensitivity, despite the fact that visual acuity can be elevated
+until more advanced stages of the disease (9). Another study
+found good correlation between visual acuity and reading
+speed in patients with retinitis pigmentosa (16), but reading ability was evaluated by recalling aloud some timed sentences previously read silently and not assessed by means a
+specific reading test.
+
+
+[page 6]
+Reading ability and QOL in Stargardt disease
+
+6
+
+Using correlation analysis, the NEI VFQ-25 questionnaire
+seemed to explore a unique vision-related VRQOL dimension in patients with STGD. In fact, these patients are almost
+exclusively affected by central vision loss, and they lack peripheral visual damage, as found in our patients with STGD
+in all but one case. The particularly high value of the color vision subscale score in our patients may be related to partially
+retained color discrimination, sufficient for daily activities.
+Furthermore, patients with STGD are usually examined at a
+young age and are generally healthy, in the absence of systemic comorbidities, which could have made the subjective
+perception of visual health difficult to disentangle from that
+of compromised general health, such as in older patients.
+On the contrary, in patients with AMD, VRQOL score could
+be less accurate in describing the impact of low vision on
+VRQOL, as individuals have other issues in addition to their
+poor eyesight (17).
+Consistently with the predominant role of central vision
+loss as the main health problem, we found that any measure
+of central vision function is a good proxy of VRQOL in patients
+with STGD. The highest correlation with NEI VFQ-25 overall
+score was obtained by both reading acuity and speed. This
+is expected since reading ability is not only a psychophysical
+measure, but a key activity of daily living.
+The VRQOL of patients with STGD can be inferred from
+routine clinical ophthalmic examination. In patients in whom
+distance visual acuity is affected in both eyes, we propose
+that reading ability be assessed, since we found that both
+MNREAD reading speed and acuity are the strongest determinants of VRQOL.
+The observed relation between reading ability and VRQOL
+in STGD suggests that, in these patients, appropriate low vision rehabilitation can improve both reading performance
+and, consequently, VRQOL (18, 19).
+Finally, our data support the use of reading speed and
+acuity as valid and important outcome measures for monitoring the progression of the disease and its potential response
+to innovative treatments (20).
+
+Disclosures
+Financial support: This study was partially funded by the Fondazione
+Cassa di Risparmio di Firenze.
+Conflict of interest: Gianni Virgili shares the patent of the Italian version of the MNREAD charts with the University of Minnesota.
+
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+10.
+11.
+
+12.
+13.
+14.
+
+15.
+
+16.
+17.
+
+18.
+
+References
+1.
+2.
+
+Allikmets R. A photoreceptor cell-specific ATP-binding transporter gene (ABCR) is mutated in recessive Stargardt macular
+dystrophy. Nat Genet. 1997;17(1):122.
+Passerini I, Sodi A, Giambene B, Mariottini A, Menchini U,
+­Torricelli F. Novel mutations in of the ABCR gene in Italian patients with Stargardt disease. Eye (Lond). 2010;24(1):158-164.
+
+19.
+20.
+
+Zernant J, Schubert C, Im KM, et al. Analysis of the ABCA4 gene
+by next-generation sequencing. Invest Ophthalmol Vis Sci.
+2011;52(11):8479-8487.
+Walia S, Fishman GA. Natural history of phenotypic changes in
+Stargardt macular dystrophy. Ophthalmic Genet. 2009;30(2):
+63-68.
+Rotenstreich Y, Fishman GA, Anderson RJ. Visual acuity loss and
+clinical observations in a large series of patients with Stargardt
+disease. Ophthalmology. 2003;110(6):1151-1158.
+Lois N, Holder GE, Bunce C, Fitzke FW, Bird AC. Phenotypic subtypes of Stargardt macular dystrophy-fundus flavimaculatus.
+Arch Ophthalmol. 2001;119(3):359-369.
+Bailey IL, Lovie JE. New design principles for visual acuity letter
+charts. Am J Optom Physiol Opt. 1976;53(11):740-745.
+Pelli DG, Robson JG, Wilkins AJ. The design of a new letter chart for measuring contrast sensitivity. Clin Vis Sci.
+1988;2(3):187-199.
+Virgili G, Pierrottet C, Parmeggiani F, et al. MNREAD charts.
+Reading performance in patients with retinitis pigmentosa:
+a study using the MNREAD charts. Invest Ophthalmol Vis Sci.
+2004;45(10):3418-3424.
+Giacomelli G, Volpe R, Virgili G, et al. Contrast reduction and
+reading: assessment and reliability with the Reading Explorer
+test. Eur J Ophthalmol. 2010;20(2):389-396.
+Rohrschneider K, Springer C, lBültmann S, Völcker HE. Microperimetry comparison between the micro perimeter 1 and scanning laser ophthalmoscope fundus perimetry. Am J Ophthalmol.
+2005;139(1):125-134.
+Timberlake GT, Peli E, Essock EA, Augliere RA. Reading with
+a macular scotoma. II. Retinal locus for scanning text. Invest
+Ophthalmol Vis Sci. 1987;28(8):1268-1274
+Crossland MD, Dunbar HM, Rubin GS. Fixation stability measurement using the MP1 microperimeter. Retina. 2009;29(5):
+651-656.
+Orr P, Rentz AM, Margolis MK, et al. Validation of the National
+Eye Institute Visual Function Questionnaire-25 (NEI VFQ-25) in
+age-related macular degeneration. Invest Ophthalmol Vis Sci.
+2011;52(6):3354-3359.
+Giacomelli G, Virgili G, Giansanti et al. Clinical and microperimetric predictors of reading speed in low vision patients: a
+structural equation modelling approach. Invest Ophthalmol Vis
+Sci. 2013;54(6):4403-8.
+Sandberg MA, Gaudio AR. Reading speed of patients with advanced retinitis pigmentosa or choroideremia. Retina. 2006;
+26(1):80-88.
+Hernandez Trillo A, Dickinson CM. The impact of visual and
+nonvisual factors on quality of life and adaptation in adults
+with visual impairment. Invest Ophthalmol Vis Sci. 2012;53(7):
+4234-4241.
+Vingolo EM, Salvatore S, Cavarretta S. Low-vision rehabilitation
+by means of MP-1 biofeedback examination in patients with
+different macular diseases: a pilot study. Appl Psychophysiol
+Biofeedback. 2009;34(2):127-133.
+Verdina T, Giacomelli G, Sodi A, et al. Biofeedback rehabilitation of eccentric fixation in patients with Stargardt disease. Eur
+J Ophthalmol. 2013;23(5):723-731.
+Sahel JA, Roska B. Gene therapy for blindness. Annu Rev
+­Neurosci. 2013;36:467-488.
+
+© 2017 Wichtig Publishing
+

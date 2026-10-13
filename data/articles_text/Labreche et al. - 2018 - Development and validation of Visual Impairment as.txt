@@ -1,0 +1,658 @@
+[page 1]
+Age and Ageing 2018; 0: 1–6
+doi: 10.1093/ageing/afx202
+
+© The Author(s) 2018. Published by Oxford University Press on behalf of the British Geriatrics Society.
+All rights reserved. For permissions, please email: journals.permissions@oup.com
+
+Development and validation of Visual
+Impairment as a Risk for Falls Questionnaire
+TAMMY LABRECHE, KRITHIKA NANDAKUMAR, MOHAMMED ALTHOMALI, SUSAN J. LEAT
+Waterloo Optometry and Vision Science, University of Waterloo
+Address correspondence to: Tammy Labreche. Tel: 1 (519) 888-4567 ext. 37742; Fax: 1 (519) 746-2337.
+Email: tammy.labreche@uwaterloo.ca
+
+Abstract
+Purpose: visual impairment is associated with an increased risk of falls, yet eye care professionals are infrequently members
+of falls prevention clinics. The aim of this preliminary study was to validate a newly created Visual Impairment as a Risk for
+Falls Questionnaire intended to be used by those professionals not involved in eye care.
+Methods: about 53 participants with various visual impairments known to be associated with falls and 33 participants with normal
+sight were contacted within 4 months of a full oculo-visual assessment and were asked the questions from the current questionnaire
+pertaining to their visual function. A retrospective ﬁle review was undertaken and the sensitivity and speciﬁcity of participants’
+responses were calculated compared to the actual vision impairment based on the ﬁndings from their visual assessment.
+Results: the question regarding ability to read was included to identify people with central vision loss, a risk factor for
+falling. It was found to have sensitivity of 74% and speciﬁcity of 87%. Both sensitivity and speciﬁcity improved when
+participants with cognitive impairment were excluded. The question on recognising facial features gave sensitivity of
+73% and speciﬁcity of 97% for this subgroup. However, questions related to impairments in stereopsis and peripheral
+ﬁelds were not useful.
+Conclusion: the study demonstrates that several questions of the new questionnaire are useful; however, further testing
+with a larger population is needed to fully validate the questionnaire for use by health care professionals.
+Keywords: low vision, falls, fall prevention questionnaire, screening, older people
+
+Background
+It has been well established that advancing age is a risk factor for falling. In fact, 28–35% of adults over 65 years,
+experience a fall each year [1]. The impact of a fall can be
+disastrous, leading to both physical and psychological
+impairment and increased mortality [2–5]. With an aging
+population, the number of older individuals falling is likely
+to increase, necessitating the need to prevent the occurrence
+of falls. Age, however, is not the sole risk factor for a fall,
+with the underlying cause often being multifactorial in
+nature [1, 4, 6–8]. Vision plays an integral role in maintaining posture and balance. This is evidenced in the ‘subway
+platform’ phenomenon; wherein an individual’s peripheral
+view of a moving object leads to the illusion of self-motion,
+or through increasing postural sway by removing vision
+simply by closing one’s eyes [9]. A deﬁciency in vision can
+lead to an increased risk of a fall [1, 2, 6, 7]. Impairment in
+visual acuity, stereopsis, contrast sensitivity or visual ﬁeld
+has been consistently reported to increase the likelihood of
+
+falling [10]. Visual acuity refers to an individual’s ability to
+distinguish objects at a speciﬁc distance [11]. Contrast sensitivity refers to an individual’s ability to distinguish lower
+contrast objects. Stereopsis is the ability to see objects in
+depth and visual ﬁeld is a measure of the extent of peripheral vision. An unsuitable spectacle prescription has also
+been identiﬁed as a risk factor for falling [3, 10]. In order to
+address the multifactorial nature of a fall, multidisciplinary
+fall prevention clinics have been created. Eye care professionals, however, are often not consulted in Canada and
+possibly in other countries, and are seldom invited as participating members of the multidisciplinary clinic team.
+The American Geriatrics Society/British Geriatrics Society
+(AGS/BGS) Clinical Practice Guideline for the prevention of
+falls in older persons dictates that ‘Patients should be asked to
+identify and describe any vision-related problems and concerns. If they report problems or concerns, their vision should
+be formally assessed and any remediable visual abnormalities
+should be treated, particularly cataracts [12].’ While several
+questionnaires detailing visual function currently exist, they are
+
+1
+Downloaded from https://academic.oup.com/ageing/advance-article-abstract/doi/10.1093/ageing/afx202/4828007
+by Mount Royal University user
+on 04 February 2018
+
+
+[page 2]
+T. Labreche et al.
+typically lengthy [14, 16] and unlikely to be adopted into
+another health care professional’s compendium of necessary
+intake questions involved in a systems review. Other questionnaires have one or two questions that address only one visual
+function measure [13, 15]. The Visual Impairment as a Risk
+for Falls Questionnaire (VIRFQ) was developed as a quick
+tool to assist in the recognition of a visual risk for a fall. It is
+designed to be used by non-vision-related health care providers in a mobility and fall prevention clinic and for other practitioners who encounter a patient with other risk factors for
+falling, to assist with triage and appropriate referral for eye
+care. The purpose of this preliminary study was to develop/
+compile and validate the questionnaire, ensuring that the questions chosen accurately identiﬁed a visual impairment.
+
+Method
+This cross-sectional study received clearance through a
+University of Waterloo Research Ethics Committee and
+adheres to the principles of the Declaration of Helsinki.
+The questionnaire was developed from existing questionnaires with the addition of one newly created question.
+Three initial background questions (A–C, see Figure 1)
+were selected to determine the date of the last eye exam,
+and spectacle use. Questions A and B were adapted from
+the Saskatoon Health Region Fall—Risk Screening: MultiFactorial Questionnaire [13], and the Desmond Fall Risk
+Questionnaire [14], respectively, and C was newly created.
+Questions 2–7 were chosen and revised in order to attempt
+to accurately identify impaired visual function measures that
+are deemed risk factors for falling. Questions 2–6 were
+modiﬁed from similar questions found in the National Eye
+Institute Visual Functioning Questionnaire-25 (VFQ-25)
+[14]. The third question was adapted from both the
+Saskatoon Questionnaire and the VFQ-25 [13, 14].
+Question one was an altered version of that found in the
+Desmond Fall Risk Questionnaire [15]. The last question
+was derived from the Independent Mobility Questionnaire
+[16]. The questions were prefaced by the prompt ‘with your
+glasses on’ to serve as a reminder that the response should
+be based on their habitual vision rather than the need for
+
+glasses. It does not preclude those who do not wear glasses
+from responding. Aside from the preliminary questions A–
+C, all questions required a yes/no response. A copy of the
+questionnaire is shown in Figure 1.
+Participants with and without a visual impairment were
+recruited consecutively from the Waterloo Optometry and
+Vision Science (WOVS) Primary Care (general care), Ocular
+Health (ocular disease management) and Low Vision (vision
+rehabilitation) Clinics by a research assistant. To ensure that
+it was possible to validate questions identiﬁed those with
+particular visual function impairments, the sample was deliberately enriched with those with visual impairment by
+recruiting from the Ocular Health and Low Vision Clinic.
+The study participants were adults over the age of 65 years
+and who were able to speak English. Both female and male
+participants were invited. The participants had had a full eye
+exam at WOVS within the previous four months.
+Individuals who agreed to participate were provided information about the study and if consent obtained, they were
+interviewed by phone and asked to answer the questions of
+the VIRFQ and the TICS-M (Telephone Interview
+Cognitive Status-Modiﬁed) [17]. The telephone interviews
+were conducted between May and August 2013 and 2014. A
+retrospective chart review was then conducted. The individual’s age, last complete eye examination, type of spectacle
+use (e.g. single vision, bifocals, progressive lenses), best corrected distance and near visual acuities, contrast sensitivity, stereoacuity, and visual ﬁeld assessments (central and/or
+peripheral) were retrieved. Participants who had some form
+of visual impairment were grouped into three impairment
+categories: Group 1. Visual acuity (VA) < 0.1 logMAR
+(<20/25) in the better eye, OR contrast sensitivity (CS) <
+1.4, OR central ﬁeld defect, Group 2. Asymmetric acuities
+>0.1 logMAR difference between the eyes or an ocular deviation and Group 3. Peripheral ﬁeld defect. Participants were
+considered to have a central defect if they reported metamorphopsia, blur or scotomas on Amsler testing and were
+considered to have a peripheral ﬁeld impairment if documented as ‘constriction’ on confrontation visual ﬁelds, or
+having a defect of any type (constriction/step/hemianopia/
+quadrantanopia) identiﬁed via perimetry.
+
+Preliminary questions
+A. When was your last eye exam?
+B. Do you wear bifocals, trifocals or progressive bifocals (no-line bifocals)?
+C. Do you walk while wearing them?
+For the following questions, please answer for when you are wearing your regular glasses.
+1. With your glasses on, is your vision notably better in one eye compared to the other?
+2. With your regular reading glasses or bifocals on, do you have difficulty reading the newspaper?
+3. Because of your eyesight, do you have difficulty noticing objects off to the side?
+4. Because of your eyesight, do you have difficulty going down steps or stairs or have trouble
+seeing a curb?
+5. With your glasses on, are you able to distinguish a person’s facial features from across a room?
+6. With your glasses on, do you have difficulty seeing the television?
+7. With your glasses on, do you trip over objects because you do not see them?
+
+Figure 1. Visual impairment as a risk for falls questionnaire.
+
+2
+Downloaded from https://academic.oup.com/ageing/advance-article-abstract/doi/10.1093/ageing/afx202/4828007
+by Mount Royal University user
+on 04 February 2018
+
+
+[page 3]
+Table 1. Sensitivity and speciﬁcity results of Visual Impairment as a Risk for Falls Questionnaire
+Q1
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+Q2
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+Q3
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+Q4
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+Q5
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+Q6
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+13/31 46% (25–61)
+52/58 90% (78–96)
+6/15 40% (18–67)
+32/37 87% (70–95)
+
+16/31 52% (33–69)
+57/58 98% (90–99.9)
+11/15 73% (45–91)
+36/37 97% (84–99.9)
+
+15/31 48% (31–67)
+56/58 97% (87–94)
+10/15 67% (39–87)
+36/37 97% (84–99.9)
+
+Q7
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+All
+Sens
+#/N % (95% CI)
+Spec
+#/N % (95% CI)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Group 1 (central loss)
+
+23/31 74% (55–86)
+50/58 86% (74–93)
+13/15 87% (58–98)
+34/37 92% (77–98)
+
+Group 1 TICs-M >21 (central loss)
+Group 2 (asymmetric acuities)
+
+Group 3 (peripheral loss)
+Group 3 TICs-M >21 (peripheral loss)
+
+5/10 50% (20–80)
+65/79 86% (83–72)
+38%
+3/8 38% (10–74)
+82%
+36/44 82% (67–91)
+
+Aggregate Impairment
+Aggregate Impairment TICS-M >21
+Sens, sensitivity; Spec, speciﬁcity; TICS-M, Telephone Interview Cognitive Status-Modiﬁed; CI, conﬁdence interval.
+Group 1: VA > 0.1 logMAR, OR CS < 1.40 OR central ﬁeld defect.
+Group 2: VA difference >0.1 logMAR.
+Group 3: Peripheral ﬁeld loss.
+Aggregate Impairment: any impairment responding yes to any question.
+
+3
+Downloaded from https://academic.oup.com/ageing/advance-article-abstract/doi/10.1093/ageing/afx202/4828007
+by Mount Royal University user
+on 04 February 2018
+
+4/10 40% (14–73)
+64/79 81% (70–89)
+3/8 38% (10–74)
+
+2/10 20% (3.5–56)
+68/79 86% (76–93)
+1/8 13% (0.07–53)
+
+36/44 82% (67–91)
+
+36/44 82% (67–91)
+53/60 88% (77–95)
+14/29 48% (30–67)
+26/52 87% (68–96)
+12/22 55% (32–75)
+
+Visual Impairment as a Risk for Falls Questionnaire
+
+Group 2 TICs-M >21 (asymmetric acuities)
+
+13/44 57% (35–76)
+16/45 56% (36–73)
+13/23 57% (35–76)
+16/29 56% (36–73)
+
+
+[page 4]
+T. Labreche et al.
+Analysis: The sensitivities and speciﬁcities were calculated treating the above three impairment categories as the
+gold standard diagnosis and the VIRFQ questions (1–7) as
+the test predictors. See Table 1 for grouping of questions
+relevant for each category. For question 5, an impairment
+was indicated if a ‘no’ response was given because of the
+direction of the question, instead of the ‘yes’ response to all
+the other questions. The 2 × 2 tables were constructed for
+each impairment category versus questions selected as
+detectors of the impairment, and the sensitivity and speciﬁcity (with 95% conﬁdence intervals) of each question were
+calculated. Questions 2 and 4–6 were analysed for Group 1
+participants, Question 1 was analysed for Group 2 and
+Questions 3, 4 and 7 were evaluated for Group 3. It is possible that an individual with asymmetric acuities would also
+fall into the group with reduced acuity or peripheral vision
+loss. They were therefore analysed in both groups.
+Participants were further subdivided to identify responses
+of participants with a TICS-M score >21 and the same analysis undertaken for each group separately to determine if
+the questionnaire was more valid for those without a cognitive impairment. Finally, all the questions were evaluated as
+an aggregate (a response to any one question being a positive response) for detecting any visual impairment as
+deﬁned above (including Groups 1, 2 and 3).
+
+Results
+Ninety-three individuals participated in the study. One participant was excluded because s/he did not wish to answer
+the TICS-M. Two were excluded as they did not complete
+the questions of the VIRFQ and one declined to answer
+any questions after agreeing to participate. The ﬁnal sample
+included 89 participants, aged 65–96. Age and TICS-M
+scores are described for visually impaired and not visually
+impaired individuals according to each impairment group in
+Table 2. About 65 (73%) of participants wore some form
+of multifocal spectacle prescription with 60 (67%) stating
+that they wore the glasses while walking.
+Question number 2 yielded the most promising sensitivity
+(74%) and speciﬁcity (86%) values for Group 1 impairments.
+
+These values increased when considering only those with a
+TICS-M > 21–87% and 92%, respectively. Question 5 also
+gave good values with a sensitivity of 73% and speciﬁcity of
+97% for detecting Group 1 impairment. The remaining
+questions had a high speciﬁcity (90–98%) but low sensitivity.
+Question 1 for Group 2 against question 1, gave moderate
+sensitivity and speciﬁcity (68/58%) which decreased when
+considering those only with TICS-M > 21. Questions 3, 4
+and 7 for Group 3 gave high speciﬁcity (81–86%) but lower
+sensitivity. This did not change signiﬁcantly for those with
+TICS-M > 21.
+Questions 1–7 in aggregate (a positive response from
+any question) for detecting any visual impairment, gave
+high sensitivity (88%) but the speciﬁcity was low (48%) and
+did not change signiﬁcantly when including only those with
+TICs-M > 21.
+
+Discussion
+The VIRFQ was developed to assist health professionals
+not involved in eye care to identify individuals who may be
+at risk of falling due to suboptimal vision or visual appliances. The initial preliminary (A) question was included as
+the best intervention is prevention. The patient should be
+referred for an eye examination if one was not conducted
+within the past year. The prevalence of ocular disease
+increases with age but many ocular diseases do not present
+with symptoms at the onset, necessitating regular routine
+eye examinations [4]. In the older age group, yearly routine
+eye examinations are effective at detecting new eye diseases
+and prescription changes [18]. Prompt extraction of ﬁrst
+eye cataract has been demonstrated to decrease the falls
+risk [19]. Inappropriate spectacle prescription has also been
+linked with an increased falls risk [10]. Older individuals
+should have the most up to date spectacle prescription, taking care that the prescription is not changed greatly to allow
+for adaptation [3]. For active individuals, there should be
+consideration of separate distance glasses for walking [20]
+and other similar activities as the bifocal add portion blurs
+the area where a person steps and also alters depth perception [21]. Attention should be given to lens tint to reduce
+
+Table 2. Patient demographics by impairment grouping
+N (VI)
+
+N (NV)
+
+Age (VI)
+
+Age (NV)
+
+Avg TICS-M (VI)
+
+Avg TICS-M (NV)
+
+31
+15
+44
+23
+10
+8
+60
+30
+
+58
+37
+45
+29
+79
+44
+29
+22
+
+83.61 ± 7.26
+82.27 ± 7.43
+79.02 ± 8.14
+77.57 ± 7.52
+75.6 ± 6.45
+77.5 ± 5.63
+79.45 ± 7.97
+78.17 ± 7.72
+
+74.4 ± 6.28
+73.0 ± 6.04
+76.22 ± 7.52
+74.17 ± 7.54
+77.86 ± 8.09
+75.34 ± 7.99
+73.67 ± 6.06
+72.09 ± 5.77
+
+19.8 ± 5.45
+24.67 ± 2.09
+21.16 ± 5.78
+25.57 ± 3.44
+23.3 ± 2.86
+24.62 ± 2.6
+21.2 ± 5.64
+25.68 ± 3.62
+
+23.74 ± 5.87
+27.13 ± 4.03
+23.56 ± 6.02
+27.1 ± 3.84
+22.19 ± 6.29
+26.75 ± 3.83
+24.69 ± 6.09
+27.32 ± 3.79
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Group 1 (central loss)
+Group 1 TICs-M >21 (central loss)
+Group 2 (asymmetric acuities)
+Group 2 TICs-M >21 (asymmetric acuities)
+Group 3 (peripheral loss)
+Group 3 TICs-M >21 (peripheral loss)
+Aggregate Impairment
+Aggregate Impairment TICS-M >21
+
+VI, visually impaired; NV, normal vision; VA, visual acuity; TICS-M, Telephone Interview Cognitive Status-Modiﬁed; Avg, average.
+Group 1: VA > 0.1 logMAR, OR CS < 1.40 OR central ﬁeld defect.
+Group 2: VA difference >0.1 logMAR.
+Group 3: Peripheral ﬁeld loss.
+
+4
+Downloaded from https://academic.oup.com/ageing/advance-article-abstract/doi/10.1093/ageing/afx202/4828007
+by Mount Royal University user
+on 04 February 2018
+
+
+[page 5]
+Visual Impairment as a Risk for Falls Questionnaire
+photosensitivity and glare, and frame size to avoid obstruction of peripheral ﬁeld. The other two preliminary questions (B,C) were included as individuals over the age of 65
+should be referred to an optometrist for further evaluation
+if they report that they walk with bifocal type lenses, and
+have not discussed this with their optometrist.
+There are several studies that demonstrate that a
+decrease in visual acuity is a falls risk [4]. The Beaver Dam
+Study found that those over the age of 60 with a habitual
+acuity of 20/25 or less were 2.6 times more likely to have
+multiple falls [22] while the Blue Mountain Study stated
+that an acuity of less than 20/30 was associated with 1.9×
+greater risk of multiple falls [23]. Currently there is no
+established cut-off for acuity loss associated with an
+increased risk of falling [4]. Contrast sensitivity is also
+believed to be a signiﬁcant falls risk as studies show that it
+is a good predictor of postural stability and mobility [24].
+Individuals with a contrast sensitivity of less than 1.4 are
+considered to have an early impairment affecting the ability
+to read, and as such, this was chosen as the limit for CS
+loss in this study [25]. As with acuity, there is no established
+degree of contrast sensitivity loss associated with increased
+prevalence of falls [4] and it is difﬁcult to isolate reduced
+contrast sensitivity from visual acuity loss when there is a
+central defect. Therefore, impairments in acuity, contrast
+sensitivity and central defects were grouped together. The
+results indicate that question 2 effectively identiﬁes individuals with these impairments as well as possibly question 5
+for those with TICs-M > 21; however, a larger sample size
+would provide stronger evidence.
+When one considers vision and falling, it would seem
+obvious that a loss within the inferior visual ﬁeld would
+lead to an increase in falls due to the individual’s ability to
+detect trip hazards, and this holds true [4]. However, those
+who have head injuries as a result of other forms of peripheral ﬁeld loss [26] or central ﬁeld impairment [27] are also
+more likely to fall. Unfortunately, in our study sample, there
+was an insufﬁcient number of individuals with measured
+peripheral visual ﬁeld loss (n = 10) to accurately determine
+whether the questions chosen were valid. Further research
+with speciﬁc types of peripheral ﬁeld defects is required.
+The ﬁnal visual measure often identiﬁed as being a risk
+factor for falls is impairment in stereopsis. Lord and Dayhew
+concluded that stereopsis was the greatest visual risk factor
+for multiple falls [10]. In that study, those with asymmetric
+acuities, deﬁned as at least one line of difference between
+eyes, had a similar risk for falls as those with poor visual acuity in the better eye [10]. Felson et al. showed a higher risk for
+those who had a similar inter-ocular difference [28]. Question
+1 was evaluated for this group, however, the speciﬁcity and
+sensitivity using this criterion was not promising.
+Interestingly, the two questions (numbers 2 and 5) which
+were found to have the best sensitivity and speciﬁcity were
+those adapted from the VFQ-25 [13] and used in the 2006
+PALs survey of Canadians who identify as having a seeing
+disability [29].
+
+A few limitations to this study were identiﬁed. A greater
+sample size for those with visual ﬁeld impairment is recommended. Data utilised in the study was routinely collected
+clinical data. Thus visual ﬁelds and stereopsis were not
+measured on many patients. Additionally identiﬁcation of
+visual ﬁeld defects relied largely on confrontation testing,
+leading to a less accurate classiﬁcation. Also, the assumption
+was made that participants were using the most up to date
+prescription as recorded in their clinical ﬁle which would
+yield optimal acuities, but this may not always be the case.
+Finally, The WOVS clinic is in an area of slightly above
+average socioeconomic status compared to the province of
+Ontario but [30] the clinic population is similar in terms of
+patient age and sex distribution to a nationwide survey
+of Canadian optometric practices [31].
+
+Conclusion
+While this study demonstrated that those with a reduced
+visual acuity, contrast sensitivity and central defect would be
+accurately identiﬁed by the VIRFQ, further testing with a
+greater sample size is required using a research population
+with controlled measures of visual function. The preliminary three questions would be included, to identify those
+who would beneﬁt from an eye examination and advice
+regarding their type of spectacles lenses. A useful, yet succinct visual risk for falls questionnaire would prove helpful
+in identifying individuals who have an increased falls risk
+due to vision loss.
+
+Key points
+• Visual impairment is a risk factor falls.
+• Visual impairment should be considered when assessing a
+patient who is at risk for falling or has a history of falls.
+• The Validation of Visual Impairment as a Risk for Falls
+Questionnaire (VIRFQ) is a questionnaire that helps identify those who have an impairment in acuity, contrast sensitivity and central ﬁeld.
+• Additional research is required to further develop the
+questionnaire to identify those with impairments in peripheral vision and depth perception.
+
+Acknowledgements
+We would like to acknowledge Katelyn Coombs for her
+assistance with collecting the data.
+
+Conﬂict of interest
+None declared.
+
+Funding
+Canadian Optometric Education Trust Fund (COETF).
+
+5
+Downloaded from https://academic.oup.com/ageing/advance-article-abstract/doi/10.1093/ageing/afx202/4828007
+by Mount Royal University user
+on 04 February 2018
+
+
+[page 6]
+T. Labreche et al.
+
+References
+1. World Health Organization. WHO global report on falls prevention in older age. 2007. Website. http://www.who.int/
+ageing/publications/Falls_prevention7March.pdf ?ua=1.
+2. Stel VS, Smit JH, Pluijm SM, Lips P. Consequences of falling
+in older men and women and risk factors for health service
+use and functional decline. Age Ageing 2004; 33: 58–65.
+3. Elliott DB. The Glenn A. Fry award lecture 2013: blurred
+vision, spectacle correction, and falls in older adults. Optom
+Vis Sci 2014; 91: 593–601.
+4. Black A, Wood J. Vision and falls. Clin Exp Optom 2005;
+88: 212–22.
+5. Dhital A, Pey T, Stanford MR. Visual loss and falls: a review.
+Eye 2010; 24: 1437–46.
+6. World Health Organization Europe. What are the main risk
+factors for falls amongst older people and what are the most
+effective interventions to prevent these falls? March 2004.
+Website. http://www.euro.who.int/document/E82552.pdf.
+7. Ambrose AF, Paul G, Hausdorff JM. Risk factors for falls
+among older adults: a review of the literature. Maturitas 2013;
+75: 51–61.
+8. Mitty E, Flores S. Fall prevention in assisted living: assessment and strategies. Geriatr Nurs 2007; 28: 349–57.
+9. Lord SR, Smith ST, Menant JC. Vision and falls in older people: risk factors and intervention strategies. Clin Geriatr Med
+2010; 26: 569–81.
+10. Lord SR, Dayhew J. Visual risk factors for falls in older people. J Am Geriatr Soc 2001; 49: 508–15.
+11. Marsden J, Stevens S, Ebri A. How to measure distance visual
+acuity. Community Eye Health 2014; 27: 16.
+12. American Geriatrics Society, British Geriatrics Society. AGS/BGS
+clinical practice guideline: prevention of falls in older persons.
+New York (NY): American Geriatrics Society; 2010. Various p.
+13. Saskatoon Health Region. Fall—Risk Screening: MultiFactorial Questionnaire. 2012. Website: https://www.saskatoon
+healthregion.ca/locations_services/Services/Falls-Prevention/
+providers/Documents/Community%20Tools/fp-Multi-FactorQuestionnaire.pdf.
+14. Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S,
+Hays RD. Development of the 25-item National Eye
+Institute Visual Function Questionnaire (VFQ-25). Arch
+Ophthalmol 2001; 119: 1050–8.
+15. Hearing, Health and Technology Matters. Desmond Falls Risk
+Questionnaire. 2011. Website: http://hearinghealthmatters.
+org/dizzinessdepot/2011/fall-risk-questionnaire-and-physiciansguide-part-v/.
+16. Turano KA, Geruschat DR, Stahl JW, Massof RW. Perceived
+visual ability for independent mobility in persons with retinitis
+pigmentosa. Invest Ophthalmol Vis Sci 1999; 40: 865–77.
+17. Fong TG, Fearing MA, Jones RN et al. The telephone
+interview for cognitive status: creating a crosswalk with
+
+the mini-mental state exam. Alzheimers Dement 2009; 5:
+492–7.
+18. Irving EL, Harris JD, Machan CM et al. Value of routine eye
+examinations in asymptomatic patients.. Optom Vis Sci 2016;
+93: 660.
+19. Hodge W, Horsley T, Albiani D et al. The consequences of
+waiting for cataract surgery: a systematic review. CMAJ 2007;
+176: 1285–90.
+20. Haran MJ, Cameron ID, Ivers RQ et al. Effect on falls of
+providing single lens distance vision glasses to multifocal
+glasses wearer: VISIBLE randomised controlled trial. Br Med
+J 2010; 340: c2265. doi:10.1136/bmj.c2265.
+21. Lord SR, Dayhew J, App B, Howland A. Multifocal glasses
+impair edge-contrast sensitivity and depth perception and
+increase the risk of falls in older people. J Am Geriatr Soc
+2002; 50: 1760–6.
+22. Klein EK, Klein R, Lee KE, Cruickshanks KJ. Performance based and self-assessed measure of visual function as related
+to history of falls, hip fractures, and measured gait time. The
+Beaver Dam Eye Study. Ophthalmology 1998; 105: 160–4.
+23. Ivers RQ, Cumming RG, Mitchell P, Attebo K. Visual
+impairment and falls in older adults: the Blue Mountain Eye
+Study. J Am Geriatr Soc 1998; 46: 58–64.
+24. Lord S, Menz H. Visual contributions to postural stability in
+older adults. Gerontology 2000; 46: 306–10.
+25. West SK, Rubin GS, Broman AT, Munoz B, Bandeen-Roche
+K, Turano K. How does visual impairment affect performance on tasks of everyday life? The SEE project. Arch
+Ophthalmol 2002; 120: 774–80.
+26. Manduchi R, Kurniawan S. Mobility-related accidents experienced by people with visual impairment. Insight Res Pract
+Vis Impair Blind 2011; 4: 44–54.
+27. Patino CM, McKean R, Azen SP, Allison JC, Choudhury F,
+Varma R, the Los Angeles Latino Eye Study Group. Central
+and peripheral visual impairment and the risk of falls and
+falls with injury. Ophthalmology 2010; 117: 199–206.
+28. Felson DT, Anderson JJ, Hannan MT, Milton RC, Wilson
+PWF, Kiel DP. Impaired vision and hip fracture—the
+Framingham study. J Am Geriatr Soc 1989; 37: 495–500.
+29. Maberley DAL, Hollands H, Chuo J et al. The prevalence of low
+vision and blindness in Canada. Eye (Lond) 2006; 20: 341–6.
+30. WaterlooWellington LocalHealth Integration Network (WWLHIN).
+Working Together for a Healthier Future: IHSP2010-2013;
+Appendix 4 Population Proﬁle. http://www.waterloowelling
+tonlhin.on.ca/goalsandachievements/20102013ihsp.aspx (13
+November 2015, date last accessed).
+31. Machan CM, Hrynchak PK, Irving EL. Waterloo eye study:
+data abstraction and population representation. Optom Vis
+Sci 2011; 88: 613–20.
+Received 2 January 2017; editorial decision 21 November
+2017
+
+6
+Downloaded from https://academic.oup.com/ageing/advance-article-abstract/doi/10.1093/ageing/afx202/4828007
+by Mount Royal University user
+on 04 February 2018
+

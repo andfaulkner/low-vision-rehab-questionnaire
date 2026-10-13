@@ -1,0 +1,1000 @@
+[page 1]
+Design of the Low Vision Quality-of-Life
+Questionnaire (LVQOL) and Measuring the
+Outcome of Low-vision Rehabilitation
+JAMES S. WOLFFSOHN, BSCOPTOM, PHD, AND ANTHEA L. COCHRANE, BSCOPTOM
+
+● PURPOSE:
+
+To design and validate a vision-specific
+quality-of-life assessment tool to be used in a clinical
+setting to evaluate low-vision rehabilitation strategy and
+management.
+● METHODS: Previous vision-related questionnaires were
+assessed by low-vision rehabilitation professionals and
+patients for relevance and coverage. The 74 items selected were pretested to ensure correct interpretation.
+One hundred and fifty patients with low vision completed
+the chosen questions on four occasions to allow the
+selection of the most appropriate items. The vision specific quality of life of patients with low vision was
+compared with that of 70 age-matched and gender matched patients with normal vision and before and after
+low-vision rehabilitation in 278 patients.
+● RESULTS: Items that were unreliable, internally inconsistent, redundant, or not relevant were excluded,
+resulting in the 25-item Low Vision Quality-of-Life
+Questionnaire (LVQOL). Completion of the LVQOL
+results in a summed score between 0 (a low quality of
+life) and 125 (a high quality of life). The LVQOL has a
+high internal consistency (␣ ⴝ 0.88) and good reliability
+(0.72). The average LVQOL score for a population with
+low vision (60.9 ⴞ 25.1) was significantly lower than the
+average score of those with normal vision (100.3 ⴞ
+20.8). Rehabilitation improved the LVQOL score of
+those with low vision by an average of 6.8 ⴞ 15.6 (17%).
+● CONCLUSIONS: The LVQOL was shown to be an
+internally consistent, reliable, and fast method for measuring the vision-specific quality of life of the visually
+impaired in a clinical setting. It is able to quantify the
+quality of life of those with low vision and is useful in
+Accepted for publication June 2, 2000.
+From the Victorian College of Optometry, University of Melbourne,
+Victoria, Australia.
+This projected was funded by a grant from the Victorian College of
+Optometry, Victoria, Australia, and Vision Australia Foundation, Australia.
+Requests for reprints to James S. Wolffsohn, BScOptom, PhD, Vision
+Sciences, Aston University, Aston Triangle, Birmingham, B4 7ET,
+United Kingdom; fax: ⫹44 121 333 4220; e-mail: j.s.w.wolffsohn@
+aston.ac.uk
+0002-9394/00/$20.00
+PII S0002-9394(00)00610-3
+
+determining the effects of low-vision rehabilitation.
+(Am J Ophthalmol 2000;130:793– 802. © 2000 by
+Elsevier Science Inc. All rights reserved.)
+
+T
+
+HERE IS A NEED FOR A MEASURE OF THE OUTCOME OF
+
+low-vision rehabilitation to be able to argue the case
+of low-vision assessment within managed care plans,
+to improve services offered, and to secure and enhance
+funding for low-vision services.1 There are significant
+individual, public health, and community consequences of
+reduced vision, such as increased cost of education, reduced personal income, and loss of productivity for those
+caring for or assisting the visually impaired. Relative to the
+costs of visual impairment, it has been suggested that the
+provision of low-vision rehabilitation services may be quite
+low. The prevalence of low vision is likely to increase
+significantly over the next decade because the percentage
+of elderly people, who are most often afflicted with low
+vision, is increasing.1
+There are many measures taken in a routine low-vision
+assessment on which successful outcome has been rated.
+These measures include distance acuity,2 near acuity,3,4
+reading speed and duration,5,6 and comprehension and
+fluency.5 The term “success” is often used in visual rehabilitation, based on whether a patient finds an aid beneficial (as defined by the patient) and uses it to solve one or
+more visual problems,7,8 or failed to attend follow-up
+appointments.9 Some studies have examined the ability of
+patients with low vision to perform simple tasks, such as
+identifying paper currency and clock reading, before and
+after low-vision rehabilitation, but the results vary with
+the examiner performing the assessment, and implementation is time consuming and expensive.10
+As a more detailed answer to the question of how to
+measure outcome, subjective quality-of-life questionnaires
+have been developed. They aim to identify and quantify
+the impact of visual impairment on aspects of daily living,
+such as self-care, mobility, and dependency.11 It is recognized that patients are not interested in improvements in
+a biomedical indicator, but rather in how treatment affects
+their quality of life.12,13
+
+© 2000 BY ELSEVIER SCIENCE INC. ALL RIGHTS RESERVED.
+
+793
+
+
+[page 2]
+TABLE 1. Sources of Items Used in the LVQOL
+Questionnaire Authors
+
+Condition
+
+Grading Scales
+
+Ross and associates (1984)35
+Mills and Drance (1986)19
+Nilsson and Nilsson (1986)6
+Lowe and Drasdo (1992)15
+Mangione and associates (1992)34
+Leat and associates (1994)16
+Rubin and associates (1994)36
+Steinberg and associates (1994a,b)22,23
+Ellwein and associates (1995)13
+Parrish (1996)12
+Abrahamsson and associates (1996)11
+Wu and associates (1996)21
+Cleary and associates (1997)20
+Javitt and associates (1997)37
+Lundstrom and associates (1997)17
+
+Glaucoma
+Glaucoma
+ARMD
+Retinitis pigmentosa
+Cataract (ADVS)
+Low vision
+Old age visual impairment
+Cataract (VF-14)
+Blindness
+Glaucoma
+Cataracts
+Cytomegalovirus
+Optic neuritis
+Cataract
+Cataract (Catquest)
+
+Carta and associates (1998)25
+
+ARMD, branch retinal vein occlusion,
+cataract, primary open-angle glaucoma
+
+Ordinal 1–5
+Yes, uncertain, no
+Yes, no
+Yes, no; 2 to 4 categories; open ended
+Five categories
+Yes, no; 3 to 5 categories; open ended
+Three categories
+Yes (4 categories), no/not applicable
+Four categories/does someone help you
+Three to 5 categories; ordinal 0–10
+Yes, no
+Yes, no
+Five categories/not applicable
+Ordinal 0–4 or 0–10; 5 categories; open ended
+Yes, no; yes (3 categories), no; 2 to 5
+categories/cannot say
+Ordinal 1–3 with descriptors
+
+ARMD ⫽ age-related macular degeneration. ADVS ⫽ Activities of Daily Vision Scale.
+
+Various simple questionnaires have been used to assess
+quality of life in low vision.6,14 –16 However, most have
+been developed using a population with reduced vision
+from potentially treatable conditions11,17,18 or for people
+with a single ocular condition causing low vision,12,15,19 –21
+so few are valid for the measurement of the outcome of
+low-vision rehabilitation in a general population with low
+vision. Visually related quality-of-life questionnaires, such
+as the VF-14 developed for cataract assessment,22,23 have
+been modified to be appropriate for particular populations,
+but the validity of these modifications have not been
+examined. Measurement of quality of life with many of the
+questionnaires used in research studies is very time consuming, and therefore their clinical application would
+place a significant burden on patients.24,25
+Hoppe and associates26 examined the quality of life of
+patients with low vision before and after a low-vision
+assessment, finding no significant improvement had been
+achieved. However, the questionnaire used was not specific
+to patients with nontreatable visual loss and tapped traits
+not relevant to rehabilitation of the visually impaired.
+Scott and associates27 found that quality of life in 156
+patients was unchanged by low-vision rehabilitation when
+measured by a general health-related questionnaire (SF36), but improved with vision-specific questionnaires.
+However, they noted that neither of the vision-specific
+questionnaires used (VF-14 and NEI-VFQ-51) had been
+designed specifically for a population with low vision.
+The current study aimed to develop a questionnaire,
+using patients with a wide variety of conditions causing
+nontreatable vision loss, which addresses issues relating to
+794
+
+quality-of-life reduction in those with low vision and is
+able to quantify the benefit of low-vision rehabilitation.
+The tool developed will be of great benefit to low-vision
+specialists if it enables fast and accurate audit of the
+outcome of low-vision rehabilitation and objectively examines of the benefits of different models of rehabilitation
+and care of the visually impaired.
+
+METHODS
+THE LITERATURE WAS REVIEWED TO COLLECT ALL THE
+
+subjective questionnaires previously designed for assessing
+quality of life (Table 1). The resulting questions were
+merged, so no items were repeated. The items were then
+assessed by a multidisciplinary team of low-vision rehabilitation staff (including ophthalmologists, optometrists,
+orthoptists, occupational therapists, welfare officers, audiologists, and those with low vision) for relevance: questions not relevant to the majority of patients with low
+vision were excluded; coverage: whether all areas of life
+affected by low vision, such as activities of daily living,
+social and emotional factors, were examined; face validity:
+whether questions appear on the surface to be measuring
+what they actually are.
+Closed-end questions, with a specific set of responses,
+were used, because they can be consistently scored. The
+study protocol was approved by the Institutional Review
+Board, and informed consent was obtained from subjects
+participating in the experiment.
+The resulting questionnaire had 74 questions that were
+
+AMERICAN JOURNAL OF OPHTHALMOLOGY
+
+DECEMBER 2000
+
+
+[page 3]
+pretested to ensure correct interpretation by the users. The
+questionnaire was printed in writing of sufficient size
+(equivalent to N20) for most visually impaired people to
+read. Many different response options have been used by
+previous vision-related quality-of-life questionnaires (Table 1). An ordinate rather than a line scale was used for the
+questionnaire to allow implementation over the phone as
+well as in person and by post. A six-point scale was
+instituted to allow a reasonable level of discrimination,
+while not causing confusion among the mostly elderly
+population examined. Patients with low vision responded
+to items grading them between 5 (having no difficulty with
+the item because of their vision) and 1 (having a great
+difficulty with the item because of their vision) or as 0
+(item could no longer be performed because of their
+vision). They also had the option to rate the question as
+“not relevant” if it was not relevant to them in their daily
+lives (given an average score so that those individuals who
+scored more items irrelevant did not have a lower summed
+questionnaire score and therefore an apparently worse
+quality of life). Missed questions (contained in less than
+0.5% of questionnaires) were also given an average score.
+The 74-item questionnaire was trialed on 150 patients
+with low vision randomly selected from the database of the
+Vision Australia Foundation. They had a wide range of
+common conditions causing low vision in a developed
+world country. Distance visual acuities ranged from 6/7.5
+to 1/60 with visual field defects affecting the central 20
+degrees of visual field in 53%. The questionnaire was
+completed on four occasions, each separated by 4 weeks (⫾
+4 days) by the same implementation method each time (by
+post, phone, or in-person interviews). The aim of the
+initial trial of the questionnaire was to identify those items
+that were most reliable, internally consistent, not redundant, relevant to most subjects, and that the full range of
+response options were used. The 25 items that met these
+criteria formed the Low Vision Quality-of-Life Questionnaire (LVQOL) (Figure 1).
+To assess the LVQOL ability to differentiate the visually
+impaired from those with normal vision, the LVQOL was
+completed by an age-matched and gender-matched control
+group (of 70 subjects) attending a large public optometric
+clinic in Melbourne for a routine eye examination.
+The LVQOL was sent to 515 consecutive first-time
+patients of a low-vision clinic (which provides free rehabilitation services) before their appointment for rehabilitation. A second LVQOL was sent to patients after
+rehabilitation, which consisted of:
+1. A 15-minute to 30-minute interview with a case
+manager to identify visual needs. Details on the
+patient’s age, gender, living status, and primary condition causing visual impairment (as diagnosed by
+the referring ophthalmologist) were recorded.
+2. A 60-minute low-vision assessment with an optometrist, which included a review of the patient’s ocular
+history and visual complaints, establishment of visual
+VOL. 130, NO. 6
+
+goals, retinoscopy and refraction at distance and
+near, measurement of visual acuity, contrast sensitivity, and central visual field. Advice was given (for
+example, on lighting and contrast), and magnification aids were prescribed if appropriate. For each
+patient, the following clinical information was collected (consulting rooms had an illuminance of 500
+lux): progression of visual difficulties as stated by the
+patient; distance visual acuity (Bailey-Lovie distance
+logMAR chart back-lit to a luminance of 160 cd/m2)
+scored as the number of letters correctly identified
+with effort; near visual acuity (Practical Near Acuity
+Chart at 25 cm, read with the best distance correction and a ⫹4.00-diopter near addition)28; magnification aids; presence of a visual field loss or
+disruption in the central 20 degrees field of view,
+measured using an Amsler chart at 14 cm; peak
+contrast sensitivity (Melbourne Edge Test, luminance 47 cd/m2 at 40 cm)29; assessment of the
+patient’s psychological status based on a reduced
+version of the Nottingham Adjustment Scale30,31;
+services from members of a multidisciplinary team as
+appropriate to their needs. The team includes orthoptists, occupational therapists, orientation and
+mobility instructors, audiologists, and welfare officers
+who offer assessment and assistance either at the
+clinic or at the patient’s residence.31
+Internal consistency was examined using the item-total
+correlation and Cronbach’s ␣, reliability using the intraclass correlation coefficient, and principal components
+using varimax rotation factor analysis.32 The summed score
+of the LVQOL items was calculated for analysis, as has
+been previously recommended for quality-of-life analysis.30
+Analysis of variance was used to examine overall effects
+between groups and Tukey’s pairwise multiple comparison
+test to assess individual group differences. Correlation
+models were examined using basic subsets.
+
+RESULTS
+● SELECTION OF APPROPRIATE ITEMS FOR THE LVQOL:
+
+To select the most appropriate items for the LVQOL from
+the initial pool of questions, the following exclusion
+criteria were implemented:
+Frequency of Endorsement and Discrimination. The proportion of subjects who gave each response alternative was
+calculated. This allowed the exclusion of five questions
+that were not relevant to a significant proportion of the
+subjects (taken at 33%). They were related to using public
+transport alone, playing sports and games, going to the
+cinema or theater, and how much benefit was gained by
+talking to a peer worker. Items with very low or high
+endorsement were also eliminated, because little is learned
+
+LOW VISION QUALITY-OF-LIFE QUESTIONNAIRE
+
+795
+
+
+[page 4]
+FIGURE 1. The LVQOL. Patients are asked to complete the questions by circling the number most appropriate to how they feel.
+If they can no longer perform the task because of their vision, they are to circle “x,” and if they do not perform the task for nonvisual
+reasons, to circle “n/a”.
+
+796
+
+AMERICAN JOURNAL OF OPHTHALMOLOGY
+
+DECEMBER 2000
+
+
+[page 5]
+by knowing how a person actually responded if one can
+predict the answer to a high accuracy. Such questions do
+not improve a scale’s psychometric properties and may
+detract from them while making the test longer. Therefore,
+items that were endorsed by over 65% of the subjects as of
+little difficulty or of great difficulty were excluded. Some of
+the issues that the majority of patients with low vision
+reported having little difficulty with were perceiving colors, eye pain or discomfort, performing household chores,
+and making or eating a meal. An issue for which the
+majority of patients with low vision had significant difficulty was reading television subtitles, and this item was
+excluded because it did not assist in differentiating between subjects. The discrimination ability index was also
+calculated to identify if a person who has a high rating on
+a sub-scale is more likely to endorse a particular item of
+that sub-scale.32 However, this measure did not further
+discriminate between questionnaire items.
+Homogeneity and Internal Consistency. A scale must be
+homogenous, tapping different aspects of the same attribute and not different parts of different traits. Therefore,
+items should be moderately correlated to one another, and
+each should correlate with the total scale score. The most
+sensible index of a particular sub-scale would appear to be
+a simple summing of the scores.32 Such a linear model is
+valid only if all items are measuring the same trait. If items
+are highly correlated, latter questions add little information, suggesting redundancy with a possible loss of content
+validity. If the correlations are too low, then the questions
+are tapping different traits. The two measures calculated
+were the item-total correlation (correlation of an individual item with its sub-scale without that item) and Cronbach’s ␣ (a measure of internal consistency that should be
+between 0.70 and 0.90).33 Item-total correlation was less
+than 0.20 for four questions regarding general health, the
+impact of the low-vision assessment, and the feeling of
+independence. These questions were therefore excluded
+from the questionnaire, because they do not tap the same
+trait as the rest of the scale. Cronbach’s ␣ resulted in the
+removal of no further questions.
+
+that remained stable with time. Measures of mild and
+presumably variable pathological states typically have coefficients of approximately 0.7. Using a removal criteria of
+reliability less than 0.60, a final 20 questions were removed
+from the questionnaire. They examined such issues as use
+of a telephone, purchasing an item in a store, adapting to
+changing light levels, feelings of embarrassment, seeing
+faces, and needing assistance to perform a task.
+Factor Analysis. A vision-related quality-of-life questionnaire can either test different aspects of vision using
+sub-scales, such as the Activities of Daily Vision Scale,34 or
+produce a summed score of the patients’ quality of life,
+such as the VF-14.22,23 The LVQOL is of the latter type,
+with the 25 items producing a summed score between 0
+and 125 (the higher the score, the higher the quality of
+life). Analysis of the results by implementation method did
+not alter the final LVQOL items. The LVQOL summed
+score showed a high internal consistency (Cronbach’s ␣ ⫽
+0.88) and a good reliability (0.72). Factor analysis using
+varimax rotation identified up to four principal factors in
+the LVQOL, each with a high internal consistency (Cronbach’s ␣ greater than 0.80). The LVQOL items were
+grouped into these sub-sections (general vision, mobility,
+and lighting issues; psychological adjustment; reading and
+fine work; activities of daily living).
+● ASSESSING THE VISION SPECIFIC QUALITY OF LIFE OF
+SUBJECTS WITH NORMAL VISION: The
+
+LVQOL was
+designed to measure the quality of life of those with visual
+impairment and must therefore differentiate those with
+low vision from those with normal vision. The LVQOL
+was completed by an age-matched (68.3 ⫾ 10.5 years) and
+gender-matched (39% male) control group. The average
+(⫾ SD) LVQOL score for those with normal vision was
+significantly higher than those from the population with
+low vision (100.3 ⫾ 20.8 versus 60.9 ⫾ 25.1; P ⬍ .001).
+Over 67% of those with normal vision had a LVQOL score
+of 95 or greater compared with less than 20% of those with
+low vision (Figure 2).
+● QUANTIFYING THE BENEFIT OF LOW VISION REHA-
+
+Reliability. Reliability is fundamentally a way to reflect
+the amount of error, both random and systematic, inherent
+in any measurement. The test-retest reliability was calculated using the results from the four completions of the
+questionnaire. There appears to be no consensus over what
+interval the test-retest reliability should be conducted,
+although it should be sufficiently short to be able to assume
+the underlying process is unlikely to have changed and
+sufficiently long that patients do not remember their
+previous ratings. The progression of visual impairment will
+vary greatly between patients in this population, depending on the condition causing low vision. As low-vision
+rehabilitation is a process that can take several sessions to
+achieve, a 4-week interval was used to select those items
+VOL. 130, NO. 6
+
+BILITATION: The LVQOL was then used to determine
+
+whether improvement in quality of life occurs after low vision rehabilitation. Of the 515 referrals to the low-vision
+clinic who received the LVQOL with their appointment
+letter, 65% returned the completed LVQOL at their
+appointment. A postrehabilitation questionnaire was sent
+to those who had returned the prerehabilitation questionnaire (accompanied by a stamped addressed reply envelope), and this was returned by 83%. There was no
+significant difference in visual function or rehabilitation
+received by each of these groups (Table 2). There was a
+significant improvement (P ⬍ .001) in LVQOL score of
+6.8 ⫾ 15.6 (a 17% improvement compared with the
+LVQOL score of those with normal vision). The reading
+
+LOW VISION QUALITY-OF-LIFE QUESTIONNAIRE
+
+797
+
+
+[page 6]
+DISCUSSION
+THERE IS A NEED FOR A QUALITY-OF-LIFE ASSESSMENT TOOL
+
+FIGURE 2. The distribution of LVQOL scores for age matched and gender-matched groups of patients with normal
+and low vision (n ⴝ 70).
+
+and fine work subscale was most improved (average,
+0.54 ⫾ 0.07 of 5), but the other subscales (general vision,
+mobility, and lighting 0.17 ⫾ 0.05; psychological adjustment 0.21 ⫾ 0.07; activities of daily living 0.24 ⫾ 0.07)
+also showed significant improvement with low-vision rehabilitation (P ⬍ .001). Low Vision Quality-of-Life Questionnaire summed scores covered the entire range of
+possible values and were normally distributed (Figure 3).
+The LVQOL score before or after rehabilitation was
+found to be correlated to distance and near acuity (with
+the present prescription or best corrected) and contrast
+sensitivity, but not the patient’s age (Table 3). A basic
+subset model showed that distance best-corrected visual
+acuity and contrast sensitivity were the principal functional vision contributors, accounting for 32% of the
+variance in the prerehabilitation LVQOL measures and
+25% of the postrehabilitation LVQOL measures. The
+improvement in LVQOL score was not correlated with
+acuity measures, contrast sensitivity, or a patient’s age. The
+LVQOL score and improvement with rehabilitation was
+not related to the patients’ gender, the condition causing
+low vision, how they felt their condition had progressed, or
+whether they already used low-vision aids before rehabilitation (Table 4). Those with a visual field loss affecting the
+central 20 degrees had a lower before and after rehabilitation quality of life than those who did not have a visual
+field loss. A magnifier alone was more commonly prescribed to those with a lower quality of life. Those making
+use of the multidisciplinary low-vision rehabilitation team
+had a lower before and after rehabilitation quality of life
+than those who did not but also had a significantly larger
+improvement in quality-of-life score with rehabilitation.
+Those classified as not having accepted their visual loss
+tended to have a lower quality of life and less improvement
+with rehabilitation.
+798
+
+for clinical low-vision practice to gain a better understanding of patients’ needs and goals and whether they have
+been met by rehabilitation. Excluding items that had a low
+or high endorsement, a poor internal consistency, and that
+were not reliable allowed the pool of 74 items, selected by
+a multidisciplinary team of rehabilitation professionals and
+patients with low vision, to be reduced to a 25-item
+LVQOL. Implementation of the LVQOL produces
+summed score between 0 and 125 (the higher the score,
+the higher the quality of life) with a high internal
+consistency (Cronbach’s ␣ ⫽ 0.88) and a good reliability
+over a 12-week period (0.72). The use of a single index
+score has been recommended for quality-of-life assessment,
+but it loses information about specific variables.30 Splitting
+the LVQOL into its four principal sections will reduce the
+amount of information lost, and with only 25 questions,
+the individual item responses can easily be recorded for
+reference regarding specific variables if needed.
+A single questionnaire is unlikely ever to cover the
+whole range of quality-of-life issues in visual impairment
+for every individual, because the extreme length of a
+totally comprehensive questionnaire would preclude its use
+in clinical and many research settings.18 However, the
+LVQOL provides useful clinical information that, in addition to functional measures of vision, such as visual acuity,
+contrast sensitivity, and visual field, describe the visual
+status of an individual. Such information can be used to
+assess the outcome of low-vision rehabilitation and will
+help to identify those cases where further training, service
+provision, or re-assessment may be needed to improve the
+quality of life of an individual.
+The LVQOL was shown to differentiate a population
+with low vision from an age-matched and gender-matched
+group attending an optometric clinic. Some of the age matched and gender-matched group will have had early
+cataract, blepharitis, dry eye, and other diseases affecting
+vision. Because they were all on state benefit, they were
+also likely to be of a lower socio-economic status than the
+clinic population with low vision. Therefore, it is not
+surprising that some members of this group rated their
+vision-related quality of life as reduced, but on the whole
+their quality of life was much higher (approximately 40
+units of the 125 range of the LVQOL) than the population
+with low vision. Therefore, the 6.7-point average improvement in LVQOL score equates to a 17% improvement in
+quality of life. This equates well with the 5.4-point
+improvement in score (on a 100-point scale) measured by
+the VF-14 and would seem more sensitive than the
+22.2-point improvement in overall score (on a 1300-point
+scale) measured by the NEI-VFQ with low-vision rehabilitation.27 However, in that study postrehabilitation measures were taken at 3 months compared with 1 month with
+the LVQOL, and with an average of 3.4 magnifiers
+
+AMERICAN JOURNAL OF OPHTHALMOLOGY
+
+DECEMBER 2000
+
+
+[page 7]
+TABLE 2. Demographic and Visual Function Characteristics of Population With Low Vision Receiving Rehabilitation
+Failed to Return
+Before Rehabilitation LVQOL
+
+Number of patients
+Age (years)
+Gender (% males)
+Living alone (%)
+Progressive eye condition (%)
+Visual need of reading or writing (%)
+Best-corrected distance visual acuity (logMAR)
+Best-corrected near visual acuity (logMAR)
+Contrast sensitivity (dB)
+Field loss in central 20 degrees (%)
+Magnification aids prescribed (%)
+Used multidisciplinary rehabilitation team (%)
+Psychological acceptance of vision loss (%)
+Pre-rehabilitation LVQOL score
+Averages ⫾ SD
+
+Returned Before but
+not After Rehabilitation LVQOL
+
+181
+74 ⫾ 17
+38
+34
+63
+80
+0.58 ⫾ 0.35
+0.67 ⫾ 0.33
+11.6 ⫾ 4.2
+39
+42
+65
+68
+—
+Total number of subjects ⫽ 515
+
+56
+74 ⫾ 18
+37
+37
+66
+72
+0.56 ⫾ 0.33
+0.69 ⫾ 0.36
+11.0 ⫾ 3.9
+39
+45
+65
+75
+66.3 ⫾ 24.5
+
+Returned Before and After
+Rehabilitation LVQOL
+
+278
+78 ⫾ 11
+34
+34
+61
+80
+0.56 ⫾ 0.34
+0.64 ⫾ 0.32
+11.1 ⫾ 3.6
+42
+40
+68
+76
+63.5 ⫾ 23.6
+
+dB ⫽ decibels; LVQOL ⫽ Low Vision Quality of Life Questionnaire.
+
+FIGURE 3. The distribution of LVQOL scores before and
+after low-vision rehabilitation (n ⴝ 334).
+
+prescribed per person, the population and rehabilitation
+methods would appear to differ significantly from that of
+the Kooyong clinic.31
+As expected, the LVQOL score was related to functional measures of vision, such as distance and near visual
+acuity, contrast sensitivity and field loss, but in combination these factors accounted for only 32% of the variance.
+Age was not related to the LVQOL score, which again
+confirms it is not measuring age-related visual or health related factors (such as presbyopia). Improvements in
+quality of life with rehabilitation were not associated with
+patient demographics (age and gender), visual function
+(visual acuity and contrast sensitivity), or the disease
+causing low vision. Therefore, it would seem that people
+attending a low-vision clinic with visual loss from any
+condition receive significant benefit to their quality of life
+from low-vision rehabilitation. The age-matched and genVOL. 130, NO. 6
+
+der-matched group without low vision showed a quality of-life improvement of just 0.8 ⫾ 11.6 on the LVQOL after
+an eye examination.
+Those patients judged to have reached a psychological state of realistic acceptance had a higher quality of
+life and a greater improvement with low-vision rehabilitation than those who were still adjusting to their
+visual loss, as would be expected. This finding emphasized the need for a basic assessment of a patient’s
+psychological state to provide important additional
+information to functional visual measures. Those subjects that made use of the multidisciplinary rehabilitation team had a lower quality of life, but a greater
+improvement with rehabilitation, than those who did
+not make use of the team. This may have been because
+of patients’ self-selection of whether they would accept
+the additional (free) services offered to them but would
+indicate that the multidisciplinary approach to low vision rehabilitation is an important way to maximize
+quality of life, especially of those with greater functional
+loss. Further research is needed to assess what elements
+of rehabilitation, such as number of clinic visits, are
+necessary for improving the quality of life of the visually
+impaired.
+By using quality-of-life measurement tools in a clinical
+and research setting, it should be possible to determine
+changes in the way in which low-vision rehabilitation can
+be performed to achieve greater improvements in a patient’s quality of life. However, as long as the condition
+causing the reduced vision remains untreatable, a 100%
+improvement cannot be expected. Examining the link
+between quality of life and measures of cost benefit, such as
+a reduction in falls, may help to expand the provision of
+
+LOW VISION QUALITY-OF-LIFE QUESTIONNAIRE
+
+799
+
+
+[page 8]
+TABLE 3. Correlation Between LVQOL Scores Before and After Low-vision Rehabilitation, Patient Demographics, and
+Functional Vision Measures
+Prerehabilitation
+LVQOL Score
+
+Postrehabilitation
+LVQOL Score
+
+LVQOL Improvement
+With Rehabilitation
+
+0.04
+0.47*
+0.47*
+0.50*
+0.44*
+⫺0.43*
+
+0.01
+0.45*
+0.42*
+0.48*
+0.45*
+⫺0.40*
+
+0.04
+⫺0.01
+0.02
+⫺0.00
+⫺0.06
+⫺0.02
+
+Age (years)
+Distance visual acuity with own prescription (logMAR)
+Near visual acuity with own prescription (logMAR)
+Best-corrected distance visual acuity (logMAR)
+Best-corrected near visual acuity (logMAR)
+Contrast sensitivity (dB)
+Abbreviations as in Table 2.
+*Indicates correlation significant to P ⬍ .001.
+Total number of subjects ⫽ 278.
+
+TABLE 4. Mean LVQOL Scores Before and After Low-vision Rehabilitation With Patient
+Demographics and Rehabilitation Characteristics
+
+Gender
+Male
+Female
+Eye condition
+ARMD
+Glaucoma
+Diabetic retinopathy
+Other conditions
+Multiple conditions
+Eye condition progression
+None
+Steady
+Episodic
+Visual field
+No central 20-degree loss
+Central 20-degree loss
+Initial low-vision aids
+None used
+Uses low-vision aids
+Psychology
+Unrealistic
+Realistic acceptance
+Prescribed low-vision aids
+None
+Magnifiers
+New glasses
+Magnifiers ⫹ glasses
+Multidisciplinary team
+No need for team
+Used team
+
+Prerehabilitation
+LVQOL Score
+
+Postrehabilitation
+LVQOL Score
+
+Improvement with
+Rehabilitation
+
+63.9 ⫾ 23.0
+63.5 ⫾ 24.0
+
+70.4 ⫾ 26.3
+70.6 ⫾ 24.5
+
+6.5 ⫾ 16.6
+7.1 ⫾ 15.0
+
+65.1 ⫾ 23.1
+61.1 ⫾ 20.1
+59.6 ⫾ 24.5
+62.4 ⫾ 25.0
+60.8 ⫾ 27.8
+
+71.7 ⫾ 22.8
+68.4 ⫾ 23.3
+65.9 ⫾ 29.3
+69.4 ⫾ 30.1
+68.5 ⫾ 28.0
+
+6.6 ⫾ 14.6
+7.3 ⫾ 19.4
+6.3 ⫾ 15.5
+7.1 ⫾ 15.8
+7.7 ⫾ 17.7
+
+65.8 ⫾ 23.8
+63.7 ⫾ 22.9
+61.9 ⫾ 23.4
+
+70.8 ⫾ 26.3
+70.4 ⫾ 24.5
+71.1 ⫾ 24.3
+
+5.0 ⫾ 16.9
+6.7 ⫾ 15.1
+9.2 ⫾ 17.4
+
+70.4 ⫾ 23.4
+61.1 ⫾ 24.9*
+
+80.1 ⫾ 21.0
+66.3 ⫾ 28.7*
+
+9.7 ⫾ 17.9
+5.1 ⫾ 15.4
+
+65.3 ⫾ 23.0
+62.0 ⫾ 24.1
+
+71.4 ⫾ 25.9
+69.3 ⫾ 24.5
+
+6.1 ⫾ 14.9
+7.3 ⫾ 16.1
+
+57.5 ⫾ 23.4
+65.3 ⫾ 23.2
+
+61.6 ⫾ 27.3
+73.0 ⫾ 23.5*
+
+4.0 ⫾ 18.1
+7.7 ⫾ 14.7
+
+62.7 ⫾ 26.2
+59.9 ⫾ 20.8*
+73.6 ⫾ 19.5
+67.8 ⫾ 29.9
+
+69.5 ⫾ 28.0
+67.1 ⫾ 22.7
+77.8 ⫾ 21.7
+76.2 ⫾ 30.3
+
+6.8 ⫾ 16.8
+7.2 ⫾ 15.7
+4.2 ⫾ 15.5
+8.4 ⫾ 11.3
+
+70.2 ⫾ 21.5
+60.6 ⫾ 23.9*
+
+74.3 ⫾ 24.8
+68.6 ⫾ 25.2*
+
+4.1 ⫾ 13.6
+8.0 ⫾ 16.4*
+
+Abbreviations as in Tables 1 and 2.
+Average LVQOL score ⫾ SD.
+Postrehabilitation refers to evaluation 6 weeks after initial rehabilitation at the low-vision clinic,
+regardless of how many visits were made to the low-vision clinic over that period.
+*Indicates P ⬍ .01.
+
+800
+
+AMERICAN JOURNAL OF OPHTHALMOLOGY
+
+DECEMBER 2000
+
+
+[page 9]
+low-vision rehabilitation services, despite limited healthcare funds. The lack of difference in demographics and
+functional visual measures between those who failed to
+complete the LVQOL in a clinical setting and those
+completing both prerehabilitation and postrehabilitation
+measures suggests that postal implementation of a quality of-life questionnaire for those with visual impairment does
+not bias the results collected. Translating the LVQOL into
+different languages should improve the response rate and
+make it easier to complete for patients with a first language
+other than English. To improve response rates further,
+those who attend the clinic without completing the
+questionnaire could be requested to fill out the LVQOL
+while waiting to be seen, and a telephone call 2 months
+after rehabilitation could increase the response rate among
+those who fail to complete the postrehabilitation questionnaire.
+The LVQOL takes 5 to 10 minutes to complete and
+would therefore appear to not put undue strain on a person
+with low vision. The average LVQOL score (approximately 60 out of 125) demonstrates that a population of
+patients with low vision perceived their functional status
+and quality of life to be markedly impaired. Care was taken
+to exclude culture-specific aspects of lifestyle, such as
+technology, from the LVQOL to make it applicable in a
+wide variety of cultural settings, so it could be used
+worldwide without need for alteration of content.
+In conclusion, the LVQOL has been shown to be an
+internally consistent, reliable, and sensitive measure of the
+quality of life in those with untreatable visual loss. It can
+be used in a clinical setting to provide important additional information to conventional functional visual measures, without significant burden on patients. It is able to
+quantify the quality of life of those with low vision and is
+useful in determining the effects of low-vision rehabilitation.
+
+REFERENCES
+1. Raasch TW, Leat SJ, Kleinstein RN, Bullimore MA, Cutter
+GR. Evaluating the value of low-vision services. J Am
+Optom Assoc 1997;68:287–295.
+2. Temel A, Kazokoglu H. Low-vision aids in Stargardt’s
+disease. Ophthalmologica 1991;202:142–146.
+3. De-Zheng W, Lezheng W, Fu-Xiang C, Chenjin J, William
+P. Visual rehabilitation in low vision patients with ageing
+macular degeneration. J Am Optom Assoc 1995;66:39 – 41.
+4. Leat SJ, Rumney NJ. The experience of a university-based
+low vision clinic. Ophthal Physiol Opt 1990;10:8 –15.
+5. Kalloniatis M, Johnston AW. Visual characteristics of low
+vision children. Optom Vis Sci 1990;67:38 – 48.
+6. Nilsson UL, Nilsson S-EG. Rehabilitation of the visually
+handicapped with advanced macular degeneration. Doc
+Ophthalmol 1986;62:345–367.
+7. Fonda GE. Report of five hundred patients examined for low
+vision. Arch Ophthalmol 1956;56:171–175.
+8. Silver JH. Low vision aids in the management of visual
+handicap. Br J Physiol Opt 1976;31:47– 87.
+
+VOL. 130, NO. 6
+
+9. Vans Rens GHMB, Chmielowski RJM, Lemmens WAJG.
+Results obtained with low vision aids: a retrospective study.
+Doc Ophthalmol 1991;78:205–210.
+10. Turco PD, Connolly J, McCabe P, Glynn RJ. Assessment of
+functional vision performance: a new test for low vision
+patients. Ophthal Epidemiol 1994;1:15–25.
+11. Abrahamsson M, Carlsson B, Tornqvist M, Sterner B,
+Sjostrand J. Changes of visual function and visual ability in
+daily life following cataract surgery. Acta Ophthalmol Scand
+1996;74:69 –73.
+12. Parrish RK. Visual impairment, visual functioning, and
+quality of life assessments in patients with glaucoma. Trans
+Am Ophthalmol Soc 1996;19:919 –1028.
+13. Ellwein LB, Fletcher A, Negrel AD, Thulasiraj RD. Quality
+of life assessment in blindness prevention interventions. Int
+Ophthalmol 1995;18:263–268.
+14. McIlwaine GG, Bell JA, Dutton GN. Low vision aids—is our
+service cost effective? Eye 1991;5:607– 611.
+15. Lowe J, Drasdo N. Patients’ responses to retinitis pigmentosa.
+Optom Vis Sci 1992;69:182–185.
+16. Leat SJ, Fryer A, Rumney NJ. Outcome of low vision aid
+provision: the effectiveness of a low vision clinic. Optom Vis
+Sci 1994;71:199 –206.
+17. Lundstrom M, Roos P, Jenson S, Fregell G. Catquest
+questionnaire for use in cataract surgery care: description,
+validity, and reliability. J Cat Refract Surg 1997;23:1226 –
+1236.
+18. Frost NA, Sparrow JM, Durant JS, Donovan JL, Peters TJ,
+Brookes ST. Development of a questionnaire for measurement of vision-related quality of life. Ophthal Epidemiol
+1998;5:185–210.
+19. Mills RP, Drance SM. Esterman disability rating in severe
+glaucoma. Ophthalmology 1986;93:371–378.
+20. Cleary PA, Beck RW, Bourque LB, Backlund JC, Miskala
+PH. Visual symptoms after optic neuritis: results from the
+optic neuritis treatment trial. J Neuro-Ophthalmol 1997;17:
+18 –28.
+21. Wu AW, Coleson LC, Holbrook J, Jabs DA. Measuring
+visual function and quality of life in patients with cytomegalovirus retinitis: development of a questionnaire. Arch
+Ophthalmol 1996;114:841– 847.
+22. Steinberg EP, Tielsch JM, Schein OD, et al. National study
+of cataract surgery outcomes: variation in 4-month postoperative outcomes as reflected in multiple outcome measures.
+Ophthalmology 1994;100:1131–1141.
+23. Steinberg EP, Tielsch JM, Schein OD, et al. The VF-14. An
+index of functional impairment in patients with cataract.
+Arch Ophthalmol 1994;112:630 – 638.
+24. Robbins HG, McMurray NE. Psychological and visual factors
+in low vision rehabilitation of patients with age related
+maculopathy. J Vis Rehab 1988;2:11–21.
+25. Carta A, Braccio L, Belpoliti M, et al. Self-assessment of the
+quality of vision: association of questionnaire score with
+objective clinical tests. Curr Eye Res 1998;17:506 –511.
+26. Hoppe E, La K, McIntyre D, Toabe M, Tran J. Evaluation of
+low vision services. Optom Vis Sci 1997;74:154.
+27. Scott IU, Smiddy WE, Schiffman J, Feuer WJ, Pappas CJ.
+Quality of life of low-vision patients and the impact of
+low-vision services. Am J Ophthalmol 1999;128:54 – 62.
+28. Wolffsohn JS, Cochrane AL. The Practical Near Acuity
+Chart (PNAC) and prediction of visual ability at near.
+Ophthal Physiol Opt 2000;20:90 –97.
+29. Greeves AL, Cole BL, Jacobs RJ. Reliability and validity of
+simple photographic plate tests of contrast sensitivity. Am J
+Optom Physiol Opt 1987;64:832– 841.
+30. Dodds AG, Bailey P, Pearson A, Yates L. Psychological
+
+LOW VISION QUALITY-OF-LIFE QUESTIONNAIRE
+
+801
+
+
+[page 10]
+factors in acquired visual impairment: the development of a
+scale of adjustment. J Vis Impairment 1991;85:306 –310.
+31. Wolffsohn JS, Cochrane AL. The changing face of the
+visually impaired. The Kooyong low vision clinic’s past,
+present and future. Optom Vis Sci 1999;76:747–754.
+32. Streiner DL, Norman GR. Health measurement scales: a
+practical guide to their development and use. Oxford, UK:
+Oxford Medical Publications, 1996.
+33. Cronbach LJ. Coefficient alpha and the internal structure of
+tests. Psychometrika 1951;16:297–334.
+34. Mangione CM, Phillips RS, Seddon JM, et al. Development
+
+of the “activities of daily vision scale.” A measure of visual
+functional status. Med Care 1992;30:1111–1126.
+35. Ross JE, Bron AJ, Clarke DD. Contrast sensitivity and visual
+disability in chronic simple glaucoma. Br J Ophthalmol
+1984;68:821– 827.
+36. Rubin GS, Bandeen Roche K, Prasada-Rao P, Fried LP.
+Visual impairment and disability in older adults. Optom Vis
+Sci 1994;71:750 –760.
+37. Javitt JC, Wang F, Trentacost DJ, Rowe M, Tarantino N.
+Outcomes of cataract extraction with multifocal intraocular
+lens implantation. Ophthalmology 1997;104:589 –599.
+
+The full-text of AJO is now available online at www.ajo.com. Authors
+Interactive威, currently available in limited form, is undergoing an upgrade.
+
+802
+
+AMERICAN JOURNAL OF OPHTHALMOLOGY
+
+DECEMBER 2000
+

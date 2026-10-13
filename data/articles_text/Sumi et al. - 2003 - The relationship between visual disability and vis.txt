@@ -1,0 +1,899 @@
+[page 1]
+The Relationship between Visual Disability
+and Visual Field in Patients with Glaucoma
+Izumi Sumi, MD,1 Shiroaki Shirato,2 Shun Matsumoto,1 Makoto Araie3
+Purpose: To evaluate the relationship between visual disability and the remaining visual field in glaucoma
+patients.
+Design: Prospective noncomparative survey.
+Participants: One hundred forty-seven Japanese patients with glaucoma were examined.
+Methods: Using a previously developed questionnaire, we assessed the relationship between visual disability indices and both the visual field examined using program 30-2 of the Humphrey Field Analyzer and visual
+acuity.
+Main Outcome Measures: Pearson’s correlation coefficients between visual disability indices and the 22
+visual field and 2 visual acuity measurements were calculated. Multiple regression analysis with stepwise variable
+selection identified factors significantly contributing to visual disability.
+Results: We identified a significant correlation between visual disability and both the visual field and visual
+acuity measurements collected. Of the factors examined, retinal sensitivity in the lower hemifield within 5° of the
+fixation and visual acuity in the better eye significantly contributed to all the item and total disability indices (DIs),
+measurements of the degree of visual disability as evaluated by the questionnaire; visual acuity in the worse eye
+contributed to two of the seven item DIs, as well as the total DI. The R value for total DI (R ⫽ 0.87, P ⬍ 0.0001)
+indicated that approximately 76% of the visual disability could be explained by these factors.
+Conclusions: The Japanese glaucoma patients’ visual disability is explained primarily by retinal sensitivity in
+the lower hemifield within 5° of the fixation and visual acuity in the better eye and secondarily by visual acuity in
+the worse eye. Ophthalmology 2003;110:332–339 © 2003 by the American Academy of Ophthalmology.
+
+It is estimated that 150 million people are visually disabled
+in the world today,1 including approximately 307,000 people in Japan.2 According to the World Health Organization,3
+the main causes of visual impairment are cataract, trachoma,
+glaucoma, and chorioretinal diseases. In developing nations,
+cataract and trachoma, both treatable diseases, are the main
+causes of visual impairment. In developed countries, however, glaucoma and other chorioretinal or optic nerve diseases are the primary afflictions. Unfortunately, there are no
+treatments available which completely avert the onset of
+visual impairment caused by these diseases despite recent
+medical advances.
+Those with low vision confront visual disability in their
+daily and social lives, leading to unavoidable deterioration
+in overall quality of life. With appropriate rehabilitation
+allowing these patients to use the remaining visual abilities,
+this disability can be lessened to permit independent lifestyles.4
+Originally received: August 23, 2001.
+Accepted: October 1, 2002.
+Manuscript no. 210734.
+1
+Department of Ophthalmology, Tokyo Teishin Hospital, Tokyo, Japan.
+2
+Department of Ophthalmology, School of Medicine, Tokyo Medical
+University, Tokyo, Japan.
+3
+Department of Ophthalmology, School of Medicine, University of Tokyo, Tokyo, Japan.
+Reprint requests to Izumi Sumi, MD, Department of Ophthalmology,
+Tokyo Teishin Hospital, 2-14-23 Fujimi, Chiyoda-ku, Tokyo 102-8798,
+Japan.
+
+332
+
+© 2003 by the American Academy of Ophthalmology
+Published by Elsevier Science Inc.
+
+In providing rehabilitation, we first need to understand
+the patient’s perception of visual disability in daily life.
+Because visual disability results in changes in individual
+skills and abilities, the use of questionnaires is the most
+accurate and useful means by which to assess visual disability. Although multiple questionnaires5–12 have been developed in Western countries, most of these questionnaires5–11 aim to assess visual disability in patients with
+visual acuity impairment. Visual acuity alone may not be an
+accurate predictor of visual function status.8,13 Few questionnaires have been developed to assess visual disability in
+patients with visual field impairment but with relatively
+intact visual acuity; Mills and Drance12 created a questionnaire intended to assess visual disability in patients with
+severe visual field impairment. Glaucoma is one of the main
+causes of visual impairment, both in Japan and throughout
+the world.3 Often in glaucoma, central visual acuity is
+retained until the late stages of the disease, despite severe
+constriction of the visual field.14 Because many of the
+problems resulting from visual field impairment may differ
+markedly from those caused by visual acuity impairment,
+development of a reliable questionnaire aimed at this purpose is indispensable for the accurate assessment of visual
+disability caused by visual field impairment. Moreover,
+because most publications in Japan and other Asian countries, including newspapers, books, and magazines, are
+printed with the text reading vertically, questionnaires developed in Western countries may not be appropriate for
+ISSN 0161-6420/03/$–see front matter
+PII S0161-6420(02)01742-6
+
+
+[page 2]
+Sumi et al 䡠 Visual Disability in Patients with Glaucoma
+Japanese patients. No questionnaires assessing visual disability in patients who read and write vertically have been
+published.
+Although visual disability varies widely depending on
+the location of the visual field impairment despite similar
+remaining visual field areas,15 no report has compared the
+relationship between visual field and visual disability on the
+basis of the location of the visual field impairment in patients with visual field impairment.
+We previously developed a preliminary questionnaire16
+based on interviews with 120 glaucoma patients to assess
+visual disability in Japanese patients who read and write
+vertically.
+After the evaluation of patients with visual field damage
+who retain decent central visual acuity, we found that this
+preliminary questionnaire was useful in evaluating the visual disability of patients with retinitis pigmentosa, a representative disease causing visual field impairment.17 We
+were then able to exclude factors unrelated to visual impairment by analysis of principal components and determination of factors contributing to disease. The resulting revised questionnaire was found both to be internally
+consistent and reliable.
+Using the revised questionnaire, this survey sought to
+evaluate the regions of the central visual field most important for quality of vision in patients with glaucoma.
+
+Subjects and Methods
+Subjects
+We evaluated visual disability in 147 patients (75 male and 72
+female) with glaucoma (69 patients with primary open-angle glaucoma [POAG], 56 patients with normal tension glaucoma [NTG],
+and 22 patients with primary angle-closure glaucoma). All patients
+involved in the study fulfilled the following criteria: (1) glaucoma
+was the only disease leading to visual field damage and/or visual
+acuity impairment; (2) patients were followed for more than 6
+months at either Tokyo Teishin Hospital or University of Tokyo
+Hospital; (3) visual field was evaluated using program 30-2 of the
+Humphrey Field Analyzer (HFA 30-2; Carl Zeiss, Dublin, CA)
+with reliable (fixation loss ⱕ 33%, false-negative or false-positive
+ⱕ 33%) results; (4) patients lacked other physical impairments;
+and (5) visual field damage was clinically stable with medically or
+surgically controlled intraocular pressure for at least 2 years.
+Clinical diagnosis of NTG was made in open-angle glaucoma
+patients with a recorded intraocular pressure consistently at approximately 21 mmHg with 24-hour fluctuations.
+The mean (⫾standard deviation) age of patients was 61.5 ⫾
+11.9 years, ranging from 25 to 85 years. The mean of the best corrected visual acuity in the logarithm of the minimum angle of
+resolution was 0.3 ⫾ 0.5 (range, ⫺0.2 to 2.0) in the eye with better
+visual acuity (better eye), 0.9 ⫾ 0.8 (range, ⫺0.2 to 2.0) in the eye
+with worse visual acuity (worse eye). The mean deviation (MD) of
+HFA 30-2 was ⫺11.2 ⫾ 5.9 (range, ⫺31.0 to ⫹2.9) dB in the
+better eye (better MD) and ⫺17.4 ⫾ 6.5 (range, ⫺32.2 to ⫺0.1)
+dB in the worse eye (worse MD). Sixty-four patients worked
+regularly, whereas 83 patients were currently out of work. No
+significant difference was seen between either the male and female
+groups or the working and nonworking groups in HFA 30-2
+measurements.
+
+Materials and Methods
+Relationship between Visual Disability Assessed
+by the Revised Questionnaire and Visual Acuity
+Visual disability in the 147 glaucoma patients was assessed using
+the revised questionnaire. The questionnaire, originally written in
+Japanese, contained 30 questions addressing 7 items: legibility of
+letters (letters), sentences, walking, using public transportation
+(going out), dining, dressing, and additional miscellaneous activities (miscellaneous) (Table 1, excluding the questions, written
+with italics). Each question had three possible responses, scored as
+follows, greatly disabled, 2 points; slightly disabled, 1 point; and
+not disabled, 0 point. We calculated the visual disability index (DI)
+for each item (item DI: the mean score given by the questions
+within each item) and their sum (total DI) for each patient.
+We first assessed the relationship between patients’ visual
+disability, quantified by the revised questionnaire, and visual acuity. Because visual acuity differed from eye to eye, we compared
+the relationship between patients’ visual disability and two representative visual acuity measurements: visual acuity in the logarithm of the minimum angle of resolution in the better eye and in
+the worse eye. We then calculated Pearson’s correlation coefficients between the above individual visual acuity measurements
+and both the item and total DIs. Multiple regression analysis was
+also applied using total DI as a dependent variable and the two
+representative visual acuity measurements as independent variables.
+
+Relationship between Visual Disability Assessed
+by the Revised Questionnaire and Remaining
+Visual Field
+Within 1 month of visual disability assessment, we tested the
+monocular central 30° visual field using HFA 30-2 in both eyes
+with a 5-minute rest between each eye examination. Next, we
+studied the relationship between the patient’s visual disability,
+quantified by the revised questionnaire, and the remaining visual
+field. To determine the regions within the central 30° visual field
+correlated with visual disability indices, the central 30° visual field
+was divided into the following subfields: the visual field within 10°
+of the fixation (VF10), the visual field between 11° and 20° of the
+fixation (VF11–-20), the visual field between 21° and 30° of the
+fixation (VF21–-30), and the entire central 30° visual field (VF30).
+Test points within the central 10° of the fixation were further
+divided into six clusters (Fig 1 A–F; VFA ⫺ VFF). The average
+sensitivities (dB) in the preceding subfields or clustered test points
+in the binocular visual field were calculated using two independent
+methods. First, the most sensitive point determined from the right
+and left corresponding visual field test point was selected and
+designated as the sensitivity of each corresponding visual field test
+point (HFA 30-2). These values were further averaged over the
+subfield or test point cluster (the highest sensitivity). Second, the
+least sensitive point from the right and left corresponding visual
+field test point was selected and adopted as the sensitivity of each
+corresponding visual field test point. These values were then
+averaged over the subfield or test point cluster (the lowest sensitivity). The better MD and worse MD of HFA 30-2 were used as
+visual field measurements representing overall visual field loss.
+We also calculated Pearson’s correlation coefficients for the above
+22 individual visual field measurements and item and total DIs.
+Multiple regression analysis was also applied using total DI as a
+dependent variable and the representative visual field measurements as independent variables.
+
+333
+
+
+[page 3]
+Ophthalmology Volume 110, Number 2, February 2003
+Table 1. Questions Included in the Preliminary Questionnaire and the Revised Questionnaire (Excluding the Questions
+Written in Italics)
+Legibility of letters: letters
+1. Can you read the headlines of a newspaper?
+2. Can you read small print in a newspaper?
+3. Can you read words in a dictionary?
+4. Can you see the numbers in a telephone directory?
+5. Can you make out a fare table for trains and subways?
+Sentences
+6. Do you have difficulty reading and writing?
+7. When you write sentences in vertical lines, does it lean to either
+direction?
+● Can you read movie subtitles?
+8. When you read, can you find the next line easily?
+Walking
+9. Do you have difficulty walking because of your visual problems?
+10. Can you take a walk by yourself?
+11. Do you misjudge traffic signals?
+12. Do you bump into people or objects while walking?
+13. Do you stumble on the stairs?
+14. Do you fail to notice changes in the ground?
+15. Do you fail to recognize your friends until they talk to you?
+16. Do you fail to see people or cars approaching you from the side?
+Going out
+17. Do you have difficulty going out because of your visual problems?
+18. Do you need somebody to accompany you to go to new places?
+19. Can you get a cab by yourself?
+20. Do you have difficulty traveling by train?
+21. Do you feel uneasy going out at night because of your visual
+problems?
+Dining
+22. Do you have difficulty dining because of your visual problems?
+● Can you dine by yourself?
+23. Do you drop food while dining because of your visual problems?
+24. Do you spill tea while pouring into a cup?
+25. Do you have difficulty using chopsticks?
+Dressing
+● Can you change clothes by yourself?
+● Do you sometimes put underwear on inside out?
+26. Do you ever button up clothing in the wrong order?
+● Do you have difficulty dressing because of your visual problems?
+27. Can you see your face clearly in the mirror?
+Miscellaneous
+28. Can you recognize people’s faces on TV?
+29. Do you have difficulty finding objects dropped on the floor?
+30. Do you have difficulty dialing the telephone?
+
+(Yes/With difficulty/No)
+(Yes/With difficulty/No)
+(Yes/With difficulty/No)
+(Yes/With difficulty/No)
+(Yes/With difficulty/No)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(Yes/With difficulty/No)
+(Yes/With difficulty/No)
+(No/Occasionally/Frequently)
+(Yes/With difficulty/No)
+(No/Occassionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Preferably/Yes)
+(Yes/With difficulty/No)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+
+(No/Occasionally/Frequently)
+(Yes/With difficulty/No)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(Yes/With difficulty/No)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+(Yes/With difficulty/No)
+(Yes/With difficulty/No)
+(No/Occasionally/Frequently)
+(No/Occasionally/Frequently)
+
+Relationship between Visual Disability Assessed
+by the Revised Questionnaire and Visual Acuity
+and Visual Field
+
+Figure 1. Clustered test points (A–F) within the central 10° of the
+fixation. Test points in the central 10° of the fixation were divided into six
+clusters (A, B, C, D, E, and F).
+
+334
+
+Multiple regression analysis was applied to the measurements
+obtained in the previous two studies using the following dependent
+and independent variables. Seven item DIs and total DI were used
+as dependent variables for comparison with the independent variables of patient gender, age, and occupation, 2 visual acuity
+measurements (better eye and worse eye) and 22 visual field
+measurements (VF10, VF11–20, VF21–30, VF30, VFA, VFB, VFC,
+VFD, VFE, and VFF for both the highest and lowest sensitivities,
+and better and worse MD). Independent variables were selected for
+each dependent variable for analysis by the stepwise variable
+selection (P ⬍ 0.05).
+All the statistical calculations were carried out using Statistical Analysis Software, System version 6 (SAS Institute, Cary,
+NC).
+
+
+[page 4]
+Sumi et al 䡠 Visual Disability in Patients with Glaucoma
+Table 2. Pearson’s Correlation Coefficients between the Individual Visual Acuity Measurements and Visual Disability Indices
+
+Miscellaneous
+
+Total
+Disability
+Index
+
+0.71†
+0.56†
+
+0.74†
+0.56†
+
+Item Disability Index
+Letters
+Better*
+Worse‡
+
+†
+
+0.73
+0.51
+
+Sentences
+†
+
+0.68
+0.50
+
+Walking
+†
+
+0.67
+0.50
+
+Going Out
+†
+
+0.70
+0.51
+
+Dining
+†
+
+0.64
+0.49
+
+Dressing
+†
+
+0.63
+0.46
+
+*Visual acuity in logarithm of the minimum angle of resolution in an eye with better visual acuity than the fellow eye.
+†
+P ⬍ 0.0001.
+‡
+Visual acuity in logarithm of the minimum angle of resolution in an eye with worse visual acuity than the fellow eye.
+For all correlation coefficients, correlation was significant at P ⬍ 0.0005.
+
+Results
+Relationship between Visual Disability Assessed
+by the Revised Questionnaire and Visual Acuity
+Visual acuity in the better and worse eye correlated significantly
+with all the disability indices (r ⫽ 0.46 to 0.74) (Table 2). Visual
+acuity in the better eye demonstrated the highest correlation with
+the item and total DIs (r ⫽ 0.63 to 0.74).
+Using stepwise variable selection, the visual acuities in both the
+better and worse eyes were found to be significant predictors of
+total DI (P ⬍ 0.0001, P ⬍ 0.001). The standardized partial
+regression coefficients for visual acuity in the better and worse eyes were
+0.65 and 0.21, respectively. The R value determined between the predicted and actual scores of total DI was 0.78 (P ⬍ 0.0001).
+
+Relationship between Visual Disability Assessed
+by the Revised Questionnaire and Remaining
+Visual Field
+Regardless of the selection of either highest or lowest sensitivity in
+the calculation of VF10, VF11–20, VF21–30, VF30, VFA, VFB, VFC,
+VFD, VFE, and VFF, all these visual field measurements exhibited
+
+significant correlations with the DIs (r ⫽ ⫺0.70 to ⫺0.30) (Table
+3). The better and worse MDs also demonstrated significant correlations with the DIs (r ⫽ ⫺0.64 to ⫺0.44). Of these, the highest
+sensitivity VFE, corresponding to the sensitivity of the lower
+hemifield within 5° of the fixation, possessed the best correlation
+with the item and total DIs (r ⫽ ⫺0.70 to ⫺0.55) (Fig 2).
+By stepwise variable selection, however, only the highest sensitivity VFE was a statistically significant independent predictor for
+total DI (the standardized partial regression coefficients: ⫺0.57, P
+⬍ 0.0001). None of the other independent variables were selected
+as predictors for total DI. The R value determined between the predicted
+scores and the actual scores of total DI was 0.73 (P ⬍ 0.0001).
+
+Relationship between Visual Disability Assessed
+by the Revised Questionnaire and Visual Acuity
+and Visual Field
+By stepwise variable selection, only the highest sensitivity VFE
+(P ⫽ 0.0007 to 0.0417) and visual acuity in the better eye (P ⬍
+0.0001) possessed significant correlations with all the dependent
+variables (Table 4). Visual acuity in the worse eye (P ⫽ 0.0046 to
+0.0289) also possessed significant correlations with dining, miscellaneous, and total DI. None of the other independent variables
+
+Table 3. Pearson’s Correlation Coefficients between the Individual Visual Field Measurements and Visual Disability Indices
+
+Going Out
+
+Dining
+
+Dressing
+
+Miscellaneous
+
+Total
+Disability
+Index
+
+⫺0.64*
+⫺0.59*
+
+⫺0.54*
+⫺0.51*
+
+⫺0.48*
+⫺0.43*
+
+⫺0.58*
+⫺0.54*
+
+⫺0.63*
+⫺0.60*
+
+⫺0.66*
+⫺0.40
+
+⫺0.56*
+⫺0.34
+
+⫺0.50*
+⫺0.30
+
+⫺0.64*
+⫺0.41
+
+⫺0.67*
+⫺0.43*
+
+⫺0.62*
+⫺0.33
+
+⫺0.51*
+⫺0.30
+
+⫺0.46*
+⫺0.30
+
+⫺0.56*
+⫺0.34
+
+⫺0.60*
+⫺0.36
+
+⫺0.61*
+⫺0.32
+
+⫺0.48*
+⫺0.30
+
+⫺0.44*
+⫺0.30
+
+⫺0.52*
+⫺0.31
+
+⫺0.58*
+⫺0.34
+
+⫺0.63*
+⫺0.60*
+
+⫺0.55*
+⫺0.50*
+
+⫺0.49*
+⫺0.44*
+
+⫺0.60*
+⫺0.52*
+
+⫺0.64*
+⫺0.59*
+
+Item Disability Index
+Letters
+
+Sentences
+
+Walking
+
+VF30 (visual field within 30° of the fixation)
+Highest1
+⫺0.56*
+⫺0.59*
+⫺0.61*
+Lowest2
+⫺0.51*
+⫺0.55*
+⫺0.59*
+VF10 (visual field within 10° of the fixation)
+Highest1
+⫺0.60*
+⫺0.65*
+⫺0.62*
+Lowest2
+⫺0.39
+⫺0.42
+⫺0.42
+VF11–20 (visual field between 11° and 20° of the fixation)
+Highest1
+⫺0.52*
+⫺0.56*
+⫺0.61*
+Lowest2
+⫺0.33
+⫺0.35
+⫺0.35
+VF21–30 (visual field between 21° and 30° of the fixation)
+1
+Highest
+⫺0.51*
+⫺0.53*
+⫺0.59*
+Lowest2
+⫺0.31
+⫺0.33
+⫺0.34
+Mean deviation
+3
+Better
+⫺0.57*
+⫺0.60*
+⫺0.61*
+Worse4
+⫺0.50*
+⫺0.55*
+⫺0.58*
+
+1
+The most sensitive point and 2the least sensitive point of the right and left corresponding visual field test point was selected when calculating each visual
+field measurement.
+3
+Mean deviation (MD) in the eye with better MD.
+4
+Mean deviation (MD) in the eye with worse MD.
+For all correlation coefficients, correlation was significant at P ⬍ 0.005.
+*P ⬍ 0.0005.
+
+335
+
+
+[page 5]
+Ophthalmology Volume 110, Number 2, February 2003
+
+Figure 2. Pearson’s correlation coefficients between VFA ⫺ VFF (the average sensitivities over the clustered test points A–F, which correspond to Fig 1)
+and visual disability indices. 1, The highest sensitivity; 2, the lowest sensitivity; 3, the mean sensitivity. Item disability index (DI): Letters, Œ; sentences,
+‚; walking, ■; going out, 䊐; dining, E; dressing, ●; miscellaneous, 〫; total DI, ⫻.
+
+were significantly correlated with any of the disability indices. The
+standardized partial regression coefficients for the highest sensitivity VFE, the visual acuity in the better eye, and the visual acuity
+in the worse eye were ⫺0.27 to ⫺0.21, 0.34 to 0.42, and 0.16 to
+0.21, respectively. The R values determined between the predicted
+scores and the actual scores of item and total DIs were 0.72 to 0.84
+and 0.87, respectively (P ⬍ 0.0001).
+
+336
+
+Discussion
+Previous questionnaires5–12 assessing visual disability in
+patients with visual acuity or field impairment unanimously
+covered the seven items examined in our questionnaire:
+letters, sentences, walking, going out, dining, dressing, and
+
+
+[page 6]
+Sumi et al 䡠 Visual Disability in Patients with Glaucoma
+Table 4. The Results of the Multiple Regression Analysis—Independent Variables: Visual Acuity and Visual Field Measurements
+Standardized Partial Regression Coefficient (P Value)
+Visual Acuity (Logarithm of the Minimum
+Angle of Resolution)
+
+Dependent
+Variables
+
+Better Eye
+
+Worse Eye
+
+VFE*
+Highest Sensitivity
+
+R Value
+(P Value)
+
+Item Disability Index
+Letters
+Sentences
+Walking
+Going out
+Dining
+Dressing
+Miscellaneous
+Total disability index
+
+0.51 (⬍0.0001)
+0.34 (⬍0.0001)
+0.38 (⬍0.0001)
+0.41 (⬍0.0001)
+0.39 (⬍0.0001)
+0.36 (⬍0.0001)
+0.41 (⬍0.0001)
+0.42 (⬍0.0001)
+
+NS
+NS
+NS
+NS
+0.21 (0.0046)
+NS
+0.17 (0.0289)
+0.16 (0.0067)
+
+0.24 (0.0007)
+⫺0.23 (0.0392)
+⫺0.22 (0.0417)
+⫺0.25 (0.0035)
+⫺0.27 (0.0002)
+⫺0.22 (0.0055)
+⫺0.21 (0.0013)
+⫺0.24 (0.0057)
+
+0.83 (⬍0.0001)
+0.83 (⬍0.0001)
+0.78 (⬍0.0001)
+0.84 (⬍0.0001)
+0.72 (⬍0.0001)
+0.72 (⬍0.0001)
+0.83 (⬍0.0001)
+0.87 (⬍0.0001)
+
+*The averages of the sensitivities over the clustered test points E. (Clustered test points E corresponds to Fig 1).
+NS ⫽ not significant; VF ⫽ visual field.
+
+miscellaneous. Driving, however, an important section in
+questionnaires developed in Western countries, was not
+included in this questionnaire. None of the patients involved
+in this study complained of any inconvenience in driving. In
+Japan, a driving license is not issued to a person with a
+best-corrected visual acuity less than 0.7, meaning that
+many of the examined subjects cannot drive by themselves.
+Furthermore, in big Japanese cities such as Tokyo, many do
+not or need not drive by themselves.
+Because no published reliable questionnaire has been
+developed to assess visual disability in patients with visual
+field damage who read and write vertically, our revised
+questionnaire may also be of clinical use in Taiwan and
+China, where people read and write vertically.
+By use of the revised questionnaire, we evaluated the
+relationship between visual disability and the visual field
+assessed using program HFA 30-2 and visual acuity in 147
+patients at various stages of advanced glaucoma.
+Among the 22 visual field measurements (VF10, VF11–20,
+VF21–30, VF30, VFA, VFB, VFC, VFD, VFE, and VFF of the
+highest and lowest sensitivities and better and worse MDs)
+and two visual acuity measurements (visual acuity in the
+better eye and visual acuity in the worse eye) made, multiple
+regression analysis with stepwise variable selection determined that only the highest sensitivity VFE and visual acuity
+in the better eye demonstrated significant contribution to all
+the item and total DIs measurements of the degree of visual
+disability as evaluated by our questionnaire. Visual acuity in
+the worse eye exhibited a significant contribution to two of
+the seven item DIs, as well as the total DI. Crabb et al18
+reported that use of the highest sensitivity from either eye
+for each corresponding test location simulated the binocular
+visual field sensitivity of glaucoma patients well. NelsonQuigg et al19 also reported that either the Best Location
+model (in which binocular visual field sensitivity is predicted to be the most sensitive of two visual field locations
+between eyes for corresponding visual field points) or the
+Binocular Summation model (in which binocular visual
+field sensitivity is predicted by probability summation of the
+two eyes’ sensitivities) provided the best estimates for binocular visual field sensitivity. Thus, although binocular vi-
+
+sual field was not examined in this study, the present visual
+field measurements of the highest sensitivity estimates with
+reasonable accuracy the binocular visual field of patients
+most essential in patients’ daily lives. The high R values for
+the regression, 0.87 for total DI and between 0.72 and 0.84
+for item DIs, indicate that visual disability can be explained
+by the combination of the previous three parameters, primarily the first two. Thus, maintenance of both the visual
+acuity and the visual field in the lower hemifield within 5°
+of the fixation are important for quality of vision in Japanese
+glaucoma patients.
+Mills and Drance12 compared the relationship between
+visual disability, as assessed by their questionnaire, and
+both visual acuity and visual field, as determined by the
+Esterman visual field score15 in patients with severe glaucoma; they reported that visual disability correlated more
+strongly with visual field than with visual acuity. Parrish et
+al20 and Gutierrez et al,21 however, reported that quality of
+vision in glaucoma patients, assessed by existing questionnaires,9,11 correlated with both visual acuity and remaining
+visual field as assessed by either Esterman visual field
+score15 or advanced glaucoma intervention study score.22
+Because these studies used different subjects and methods
+to assess visual disability and visual field damage, it is
+difficult to compare the results directly. Our results, however, demonstrating a significant correlation between visual
+disability and both visual acuity and visual field in the lower
+hemifield within 5° of the fixation is compatible with the
+latter report.20,21
+The Esterman visual field score was proposed as a mechanism to assess the functional visual field. The assessment
+design is based on the theory that the central part of the field
+is functionally more important than the periphery, with the
+lower hemifield being more used than the upper.15 The
+lower central field is more important for quality of vision
+than any other regions evaluated in the Esterman visual field
+score. Our present result with Japanese glaucoma patients
+agrees with this theory, indicating that the lower central
+visual field is also crucial for quality of vision for those who
+write and read vertically. In addition, no previous report has
+compared the relationship between visual disability and the
+
+337
+
+
+[page 7]
+Ophthalmology Volume 110, Number 2, February 2003
+mean retinal sensitivity within subdivided regions of the
+central visual field. This study demonstrated that the lower
+hemifield within 5° of fixation is important for quality of
+vision in glaucoma patients. It remains possible that the
+importance of this region in our study results from the
+selection of subjects, Japanese glaucoma patients who read
+and write vertically. If a similar investigation would be
+performed in a Western nation, other regions within the
+central 30° visual field may be more crucial for good quality
+vision.
+In open-angle glaucoma, the lower central field often
+partially remains until the very late stages of the disease,23
+partially explaining why some glaucoma patients do not
+consult an ophthalmologist until late in the disease. Late in
+disease, the lower central field is more depressed in POAG
+eyes than in NTG eyes.24 In addition, glaucomatous visual
+field damage tends to be more severe within the lower
+central field in myopic patients.25 According to our results,
+a more aggressive treatment of Japanese POAG patients
+with myopia is needed in earlier stages of disease before
+damage encroaches on the lower central field.
+
+Figure 3. Difference against the mean for repeated total disability index
+(DI) measurements. 1Mean total DI of the first (total DI-1) and second
+(total DI-2) assessment. 2Differences in total DI between total DI-1 and
+total DI-2.
+
+Results
+
+Appendix
+We have summarized the methods by which we revised
+the preliminary questionnaire and assessed the internal consistency and reliability of the revised questionnaire below.
+
+Subjects
+One hundred two patients with glaucoma (48 patients
+with POAG, 42 patients with NTG, and 12 patients with
+primary angle-closure glaucoma) were examined. The mean
+age of patients was 62.5 ⫾ 12.7 years. The mean best corrected visual acuity by the logarithm of the minimum
+angle of resolution was 0.2 ⫾ 0.4 in the better eye and 0.8
+⫾ 0.8 in the worse eye. The MD of HFA 30-2 was ⫺11.9
+⫾ 5.9 dB in the eye with better MD and ⫺16.8 ⫾ 6.5 dB in
+the eye with worse MD.
+
+Methods
+Visual disability in 102 patients was assessed using a
+preliminary questionnaire originally written in Japanese,
+consisting of a total of 35 questions addressing 7 items
+(Table 1).
+Analysis of the principal components was used to revise
+the preliminary questionnaire to exclude factors other than
+visual disability.
+The internal consistency of the revised questionnaire was
+evaluated by calculating the item-to-total correlation and
+Cronbach’s ␣ for each item addressed in the revised questionnaire.
+Using the revised questionnaire, visual disability was
+assessed twice at intervals of 1 month; the test–retest reproducibility of the revised questionnaire was evaluated by
+using the ␬ coefficient. Reliability of the revised questionnaire was examined by calculating the mean and standard
+deviation of the differences in total DI from the first (total
+DI-1) and second (total DI-2) assessments. A power analysis was also performed.
+
+338
+
+The eigenvalues for principal components 1, 2, and 3
+were 19.3, 2.4, and 1.6, with proportions of 0.6, 0.07, and
+0.05, respectively. Because only principal component 1
+demonstrated a high eigenvalue and a high proportion
+among these components, we suggest the existence of single
+principal component. All the questions included in the preliminary questionnaire exhibited high principal component
+weight for principal component 1 (0.54 to 0.85 for principal
+component 1, ⫺0.30 to 0.57 for principal component 2,
+⫺0.34 to 0.38 for principal component 3). Five questions
+(written in italics in Table 1), however, also demonstrated a
+high principal component weight for principal component 2
+(0.51 to 0.55), suggesting the possibility of including a
+factor other than visual disability. These five questions were
+excluded from the preliminary questionnaire.
+In the revised questionnaire, the item-to-total correlation
+ranged from 0.81 to 0.91, whereas Cronbach’s ␣ varied
+between 0.85 and 0.88.
+The ␬ coefficient was 1.0 (standard error, 0.09 to 0.13)
+for 16 questions and 0.9 (standard error, 0.10 to 0.13) for 14
+questions. The mean score of total DI-1 and total DI-2 were
+4.05 ⫾ 3.84 and 4.06 ⫾ 3.85, respectively. The difference
+between total DI-1 and total DI-2 was ⫺0.01 ⫾ 0.09 (range,
+⫺0.18 to 0.17) (Fig 3).26 The sample size of 100 patients
+should allow the detection of a 1.54 difference in total DI-1
+with ␣ ⫽ 0.05 and ␤ ⫽ 0.20.27
+
+Conclusion
+The internal consistency and reliability of the revised
+questionnaire were found to be satisfactory.
+
+References
+1. Global initiative for the elimination of Avoidable Blindness.
+Geneva: World Health Organization, 1997;1–35. WHO/PBL/
+97.61.
+2. Nakae K, Kogure F, Nagaya S, Mishima S. Status of newly
+
+
+[page 8]
+Sumi et al 䡠 Visual Disability in Patients with Glaucoma
+registered visual handicapped person in Japan. J Health Welfare Stat 1991;38:13–22.
+3. Thylefors B, Négrel AD, Pararajasegaram R, Dadzie KY.
+Available data on blindness (update 1994). Ophthalmic Epidemiol 1995;2:5–39.
+4. Brown B. Introduction to low vision. The Low Vision Handbook. Thorofare, NJ: Slack Inc., 1997;3–5.
+5. Bergner M, Bobbitt RA, Kressel S, et al. The sickness impact
+profile: conceptual formulation and methodology for the development of a health status measure. Int J Health Serv 1976;
+6:393– 415.
+6. Ware JE Jr, Sherbourne CD. The MOS 36-item short-form
+health survey (SF-36). Med Care 1992;30:473– 83.
+7. Sloane ME, Ball K, Owsley C, et al. The visual activities
+questionnaire: developing an instrument for assessing problems in everyday visual tasks. Noninvasive Assessment of the
+Visual System. Washington, DC: Optical Society of America,
+1992;26 –9. Tech Dig Ser; 1.
+8. Bernth-Petersen P. Visual functioning in cataract patients.
+Methods of measuring and results. Acta Ophthalmol (Copenh)
+1981;59:198 –205.
+9. Steinberg EP, Tielsch JM, Schein OD, et al. The VF-14. An
+index of functional impairment in patients with cataract. Arch
+Ophthalmol 1994;112:630 – 88.
+10. Mangione CM, Phillips RS, Seddon JM, et al. Development of
+the ‘Activities of Daily Vision Scale’. A measure of visual
+functional status. Med Care 1992;30:1111–26.
+11. Mangione CM, Berry S, Spritzer K, et al. Identifying the
+content area for the 51-item National Eye Institute Visual
+Function Questionnaire: results from focus groups with visually impaired persons. Arch Ophthalmol 1998;116:227–33.
+12. Mills RP, Drance SM. Esterman disability rating in severe
+glaucoma. Ophthalmology 1986;93:371– 8.
+13. Mangione CM, Phillips RS, Lawrence MG, et al. Improved
+visual function and attenuation of declines in health-related
+quality of life after cataract extraction. Arch Ophthalmol
+1994;112:1419 –25.
+14. Duke-Elder S, Jay B. Simple glaucoma. System of Ophthalmology, vol. XI. St. Louis: Mosby, 1969;392– 624.
+
+15. Esterman B. Functional scoring of the binocular field. Ophthalmology 1982;89:1226 –34.
+16. Sumi I, Oda H, Shirato S. [Visual disability, stage of invalidity, visual acuity and visual field in glaucoma patients]. Atarashii Ganka 1995;12:943–7.
+17. Sumi I, Matsumoto S, Okajima O, Shirato S. The relationship
+between visual disability and visual scores in patients with
+retinitis pigmentosa. Jpn J Ophthalmol 2000;44:82–7.
+18. Crabb DP, Viswanathan AC, McNaught AI, et al. Simulating
+binocular visual field status in glaucoma. Br J Ophthalmol
+1998;82:1236 – 41.
+19. Nelson-Quigg JM, Cello K, Johnson CA. Predicting binocular
+visual field sensitivity from monocular visual field results.
+Invest Ophthalmol Vis Sci 2000;41:2212–21.
+20. Parrish RK II, Gedde SJ, Scott IU, et al. Visual function and
+quality of life among patients with glaucoma. Arch Ophthalmol 1997;115:1447–55.
+21. Gutierrez P, Wilson MR, Johnson C, et al. Influence of glaucomatous visual field loss on health-related quality of life.
+Arch Ophthalmol 1997;115:777– 84.
+22. Advanced glaucoma intervention study. 2. Visual field test
+scoring and reliability. The Advanced Glaucoma Intervention
+Study Investigators. Ophthalmology 1994;101:1445–55.
+23. Weber J, Schultze T, Ulrich H. The visual field in advanced
+glaucoma. Int Ophthalmol 1989;13:47–50.
+24. Araie M, Hori J, Koseki N. Comparison of visual field defects
+between normal-tension and primary open-angle glaucoma in
+the late stage of the disease. Graefes Arch Clin Exp Ophthalmol 1995;233:610 –16.
+25. Araie M, Arai M, Koseki N, Suzuki Y. Influence of myopic
+refraction on visual field defects in normal tension and
+primary open angle glaucoma. Jpn J Ophthalmol 1995;39:
+60 – 4.
+26. Bland JM, Altman DG. Statistical methods for assessing
+agreement between two methods of clinical measurement.
+Lancet 1986;1:307–10.
+27. Sakuma A. Statistical Methods in Pharmacometrics. Tokyo:
+University of Tokyo, 1977:142– 6.
+
+339
+

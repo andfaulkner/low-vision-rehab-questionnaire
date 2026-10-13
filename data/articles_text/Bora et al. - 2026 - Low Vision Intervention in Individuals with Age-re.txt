@@ -1,0 +1,636 @@
+[page 1]
+Original Article
+
+Low Vision Intervention in Individuals with Age‑related Macular
+Degeneration
+Riddhi Ajay Bora, Priyanka Aher, Renu Ajay Magdum, Rohan Jagdish
+Department of Ophthalmology, Dr. D. Y. Patil Medical College and Research Centre, Pune, Maharashtra, India
+
+Abstract
+Background: Age‑related macular degeneration (AMD) is a leading cause of irreversible central vision loss in older adults. Low vision
+interventions (LVIs) aim to enhance residual visual function and promote independence. This study aimed to evaluate the clinical and functional
+outcomes of structured LVIs on visual performance, daily functioning, and quality of life in individuals with AMD. Methods: A prospective
+interventional study was conducted over 1 year at Dr. D. Y. Patil Medical College, Hospital, and Research Centre in Pune. Eighty‑four participants
+with confirmed AMD and low vision were enrolled and assessed at baseline, 3 months, and 6 months postintervention. The rehabilitation
+program included optical, nonoptical, and electronic assistive devices, along with specialized visual training. Primary outcomes included best
+corrected visual acuity (BCVA), contrast sensitivity, and reading speed. Secondary outcomes were assessed using the National Eye Institute
+Visual Function Questionnaire‑25 (NEI VFQ‑25) and the modified Barthel index, evaluating self‑reported visual function and independence
+in daily activities. Results: Of the 84 participants, 78 completed the full follow‑up. Statistically significant improvements were observed
+in BCVA (mean gain: 0.17 logMAR), reading speed (mean increase: 18.8 words/min), and contrast sensitivity (mean gain: 0.22 units). The
+NEI VFQ‑25 composite score improved by an average of 17.3 points, with marked enhancement in near‑vision tasks and social engagement.
+Functional ability, as measured by the Modified Barthel Index, also showed meaningful improvement. No device‑related complications were
+reported, and more than 85% of participants adhered to their prescribed rehabilitation plans. Conclusions: Structured low vision rehabilitation
+leads to significant improvements in visual performance, functional independence, and perceived quality of life among patients with AMD.
+These findings support the integration of LVIs into standard ophthalmic care protocols for elderly individuals with low vision.
+Keywords: Age‑related macular degeneration, assistive devices, low vision, quality of life, visual function, visual rehabilitation
+
+Résumé
+Contexte: La dégénérescence maculaire liée à l’âge (DMLA) constitue une cause majeure de perte irréversible de la vision centrale chez les
+personnes âgées. Les interventions de basse vision visent à optimiser la fonction visuelle résiduelle et à favoriser l’autonomie. Cette étude avait
+pour objectif d’évaluer les résultats cliniques et fonctionnels d’un programme structuré de réadaptation visuelle sur les performances visuelles,
+les activités quotidiennes et la qualité de vie chez des patients atteints de DMLA. Méthodes: Une étude prospective interventionnelle a été menée
+sur une période d’un an au Dr. D. Y. Patil Medical College, Hospital and Research Centre, à Pune. Quatre-vingt-quatre participants présentant
+une DMLA confirmée associée à une basse vision ont été inclus et évalués au départ, à 3 mois et à 6 mois après l’intervention. Le programme
+de réadaptation comprenait des aides optiques, non optiques et électroniques, ainsi qu’un entraînement visuel spécialisé. Les critères principaux
+comprenaient la meilleure acuité visuelle corrigée (MAVC), la sensibilité au contraste et la vitesse de lecture. Les critères secondaires incluaient
+le questionnaire NEI VFQ-25 et l’indice de Barthel modifié, permettant
+d’évaluer la fonction visuelle auto-rapportée et l’autonomie dans les
+Address for correspondence: Dr. Riddhi Ajay Bora,
+Flat No. 102 Sunit Laxmi Sharda Apartment, Ghole Road,
+activités de la vie quotidienne. Résultats: Parmi les 84 participants, 78
+Shivajinagar, Pune ‑ 411 005, Maharashtra, India.
+ont complété le suivi. Des améliorations statistiquement significatives
+E‑mail: riddhibora01@gmail.com
+ont été observées pour la MAVC (gain moyen : 0,17 logMAR), la
+vitesse de lecture (augmentation moyenne : 18,8 mots/min) et la
+sensibilité au contraste (gain moyen : 0,22 unité). Le score composite
+This is an open access article distributed under the terms of the Creative Commons
+du NEI VFQ-25 s’est amélioré en moyenne de 17,3 points, avec des
+Attribution-NonCommercial-NoDerivatives 4.0 License (CC BY-NC-ND), where it is
+Access this article online
+Quick Response Code:
+
+Website:
+www.annalsafrmed.org
+
+DOI:
+10.4103/aam.aam_329_25
+
+1400
+
+permissible to download and share the work provided it is properly cited. The work
+cannot be changed in any way or used commercially without permission from the journal.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+
+How to cite this article: Bora RA, Aher P, Magdum RA, Jagdish R. Low
+vision intervention in individuals with age‑related macular degeneration.
+Ann Afr Med 2026;25:1400-4.
+Submitted: 10‑Jul‑2025
+Accepted: 09‑Sep‑2025
+
+Revised: 23‑Aug‑2025
+Published: 20-May-2026
+
+© 2026 Annals of African Medicine | Published by Wolters Kluwer - Medknow
+
+
+[page 2]
+Bora, et al.: Low vision intervention in individuals with age‑related macular degeneration
+
+progrès notables dans les activités de vision de près et l’engagement social. L’autonomie fonctionnelle, mesurée par l’indice de Barthel modifié,
+a également montré une amélioration significative. Aucune complication liée aux dispositifs n’a été signalée et plus de 85 % des participants
+ont respecté leur programme de réadaptation. Conclusions: La réadaptation visuelle structurée permet des améliorations significatives des
+performances visuelles, de l’autonomie fonctionnelle et de la qualité de vie perçue chez les patients atteints de DMLA. Ces résultats soutiennent
+l’intégration des interventions de basse vision dans les protocoles standards de soins ophtalmologiques chez les personnes âgées.
+Mots-clés: Dégénérescence maculaire liée à l’âge, aides techniques, basse vision, qualité de vie, fonction visuelle, réadaptation visuelle
+
+Introduction
+Age‑related macular degeneration (AMD) is one of the leading
+causes of vision loss in individuals aged 60 years and older.
+It is a chronic retinal disorder that significantly contributes
+to global visual impairment and disability.[1] The disease is
+primarily characterized by progressive degeneration of the
+macula, resulting in impaired central vision. This loss affects
+essential daily activities such as reading, driving, and facial
+recognition.
+The global burden of AMD is rising steadily, largely due to
+increasing life expectancy. Current estimates suggest that the
+prevalence of AMD could exceed 288 million individuals by
+the year 2040.[1,2] In India, this burden is further compounded
+by demographic shifts and increased exposure to risk factors
+such as smoking, poor nutrition, and prolonged ultraviolet
+light exposure.[3]
+AMD age‑related macular degeneration is broadly classified
+into two forms: Dry (nonexudative) and wet (exudative).
+The dry form, which accounts for the majority of cases,
+typically progresses slowly and is associated with drusen
+accumulation and geographic atrophy. In contrast, the wet
+form is characterized by choroidal neovascularization and is
+associated with more rapid and severe vision loss.[4] While the
+advent of antivascular endothelial growth factor (anti‑VEGF)
+therapy has significantly improved outcomes in wet
+AMD, effective treatments for dry AMD remain limited.[5]
+Consequently, there is a growing emphasis on low vision
+rehabilitation strategies to help patients preserve functional
+independence and make the most of their remaining
+vision. These interventions aim not only to enhance visual
+performance but also to improve the quality of life in affected
+individuals.
+Low vision interventions (LVIs) are designed to optimize the
+use of residual vision through personalized strategies such as
+magnification devices, contrast‑enhancing tools, orientation
+and mobility training, and environmental modifications.[6]
+Multiple studies have demonstrated that structured low vision
+rehabilitation significantly improves visual functioning,
+enhances psychological well‑being, and reduces dependency
+in patients with AMD.[7,8]
+However, the real‑world implementation of LVIs, particularly
+in developing countries like India, is limited by several barriers.
+These include the lack of specialized rehabilitation services,
+inadequate referral systems, low patient awareness, and
+socioeconomic constraints.[9] Despite growing global evidence
+
+supporting the efficacy of LVIs, there remains a paucity of
+data from Indian tertiary care centers evaluating their impact
+on AMD populations.
+A comprehensive understanding of patient‑specific outcomes
+is crucial to inform service integration and guide policy
+development for vision rehabilitation. Therefore, the present
+study was undertaken at Dr. D. Y. Patil Medical College,
+Hospital and Research Center, Pimpri, Pune, over 1 year, with
+the objective of evaluating the clinical and functional outcomes
+of LVIs in individuals diagnosed with AMD. The primary
+aim was to assess improvements in visual task performance,
+autonomy in daily living, and overall patient satisfaction
+following tailored rehabilitation protocols administered in a
+structured clinical environment.
+
+Methods
+Study design and setting
+
+This prospective interventional study was conducted
+from January to December 2024 by the Department of
+Ophthalmology at Dr. D. Y. Patil Medical College, Hospital and
+Research Center, Pimpri, Pune. Ethical clearance was obtained
+from the Institutional Ethics Committee prior to the initiation
+of the study. All participants provided written informed consent
+in accordance with the tenets of the Declaration of Helsinki.
+
+Study population
+
+A total of 84 participants were recruited from the outpatient
+ophthalmology clinic. All patients were clinically diagnosed
+with AMD and categorized as having low vision. Inclusion
+criteria were: Age ≥60 years, a documented history of chronic
+ocular disease for at least 3 months, and best corrected visual
+acuity (BCVA) in the better‑seeing eye ranging from 6/18
+to <3/60 (as per World Health Organization definition of low
+vision). Exclusion criteria included severe glaucoma, diabetic
+retinopathy, widespread cognitive impairment, and intraocular
+surgical procedure inside the preceding 3 months.
+
+Baseline assessment
+
+This included a thorough ocular examination, fundus exaination
+and the use of indirect ophthalmoscopy and spectral‑area
+optical coherence tomography, the measurement of Best
+corrected visual acuity (BCVA) the usage of ETDRS charts, the
+assessment of contrast sensitivity the usage of the Pelli‑Robson
+chart, and Amsler grid trying out.[10] The 15‑object Geriatric
+Despair Scale is used to degree emotional and cognitive fame
+with the purpose to account for psychological factors which
+could affect practical outcomes.[11]
+
+Annals of African Medicine ¦ Volume 25 ¦ Issue 6 ¦ November-December 2026
+
+1401
+
+
+[page 3]
+Bora, et al.: Low vision intervention in individuals with age‑related macular degeneration
+
+Low vision intervention protocol
+
+Participants received a personalized low vision rehabilitation
+program tailored to their specific visual goals and functional
+limitations. The intervention comprised four key components.
+
+Optical aids
+
+Various optical devices were prescribed based on individual
+needs, including dome magnifiers, high‑plus reading
+spectacles, handheld telescopes, and stand magnifiers.
+
+Nonoptical aids
+
+Supportive nonoptical tools were incorporated to improve
+task performance. These included high‑intensity task lighting,
+reading stands, tactile markers, and large‑print reading materials.
+
+Electronic devices
+
+Advanced electronic aids were introduced for patients with
+moderate to severe visual impairment. These included portable
+video magnifiers and closed‑circuit television systems with
+customizable magnification and contrast settings to enhance
+visual accessibility.
+
+Training modules
+
+Each participant underwent a structured training program
+consisting of four supervised sessions spread over 8 weeks.
+The sessions were led by certified low vision rehabilitation
+professionals and focused on: These include the proper
+handling and use of prescribed low-vision devices, the
+implementation of eccentric-viewing strategies, and the
+development of adaptive techniques for performing activities
+of daily living (ALsD).
+
+Outcome measures
+
+The main effects of the have a look at have been upgrades
+in analyzing pace, contrast sensitivity, and best‑corrected
+visual acuity (BCVA), as measured through Minnesota Low
+Vision Reading Test (MNREAD) charts 3 and 6 months
+after the intervention.[12] Functional independence and visual
+characteristics as stated by the patient, have been the primary
+and secondary goals. The National Eye Institute Visual
+Function Questionnaire-25 (NEI VFQ-25) was used to evaluate
+self-reported visual function.[13] The Modified Barthel Index
+was used to assess independence in activities of daily living
+(ADLs).[14]
+
+Results
+Participant characteristics
+
+Out of the 84 individuals enrolled in the study, 78 participants
+(92.9%) successfully completed the 6‑month follow‑up.
+Attrition was due to relocation (n = 3), concurrent medical
+illness (n = 2), or voluntary withdrawal (n = 1). The cohort
+had a mean age of 68.4 ± 5.9 years (range: 61–81 years), with
+a slight male predominance (53.8%). The majority (67.9%)
+was retired, and 58.9% had attained at least secondary‑level
+education. Clinically, 62.8% (n = 49) presented with dry AMD,
+while the remaining 37.2% (n = 29) had stable neovascular
+AMD managed with anti‑VEGF therapy. Common systemic
+1402
+
+comorbidities included hypertension (42.3%), type 2 diabetes
+mellitus (34.6%), and hyperlipidemia (25.6%). The mean
+duration of AMD prior to enrollment was 3.1 ± 1.4 years.
+Detailed demographic and baseline clinical data are presented
+in Table 1.
+
+Visual acuity and reading performance
+
+Implementation of low vision rehabilitation protocols yielded
+notable improvements in visual outcomes. At baseline, the
+mean best‑corrected visual acuity (BCVA) in the better‑seeing
+eye was recorded as 0.82 ± 0.21 logMAR. Postintervention,
+a statistically significant improvement was observed, with
+BCVA improving to 0.72 ± 0.20 logMAR at 3 months and
+further to 0.65 ± 0.19 logMAR at 6 months (P < 0.001). These
+findings suggest enhanced visual clarity facilitated by tailored
+assistive devices and structured training sessions. While
+the improvements were more pronounced in cases with dry
+AMD, statistically meaningful gains were also documented in
+participants with stabilized wet AMD.
+Reading performance also demonstrated considerable
+enhancement. The mean reading speed improved from a
+baseline of 45.3 ± 9.7 words per minute (wpm) to 57.8 ± 10.2
+wpm at 3 months and 64.1 ± 11.5 wpm at 6 months (P < 0.001).
+These outcomes, derived from MNREAD chart assessments,
+reflect improved reading efficiency following consistent use
+of magnifiers and electronic visual aids. Corresponding data
+are detailed in Table 2.
+
+Contrast sensitivity and central field function
+
+Throughout the trial, there was a noticeable improvement in
+contrast sensitivity as determined by the Pelli‑Robson chart.
+From 1.02 ± 0.18 at baseline to 1.14 ± 0.17 at 3 months and then
+to 1.24 ± 0.16 at 6 months, the mean score rose (P = 0.002).
+Table 1: Baseline demographic and clinical
+characteristics
+Parameter
+
+Value
+
+Number of participants
+Mean age (years)
+Gender (male/female)
+AMD type (dry/wet) (%)
+Mean duration of diagnosis (years)
+Hypertension (%)
+Diabetes mellitus (%)
+Hyperlipidemia (%)
+Education (≥ secondary)
+AMD=Age‑related macular degeneration
+
+84
+68.4±5.9
+45/39
+62.8/37.2
+3.1±1.4
+42.3
+34.6
+25.6
+58.9
+
+Table 2: Changes in objective visual outcomes
+Outcome
+
+3 months
+
+6 months
+
+P
+
+BCVA (logMAR)
+0.82±0.21
+0.72±0.20
+Reading speed
+45.3±9.7
+57.8±10.2
+(words per minute)
+Contrast sensitivity
+1.02±0.18
+1.14±0.17
+(Pelli‑Robson)
+BCVA=Best corrected visual acuity
+
+Baseline
+
+0.65±0.19
+64.1±11.5
+
+<0.001
+<0.001
+
+1.24±0.16
+
+0.002
+
+Annals of African Medicine ¦ Volume 25 ¦ Issue 6 ¦ November-December 2026
+
+
+[page 4]
+Bora, et al.: Low vision intervention in individuals with age‑related macular degeneration
+
+The efficient use of contrast‑enhancing visual aids and ideal
+lighting conditions was credited with these gains. By the end
+of 6 months, Amsler grid evaluations of participants with stable
+wet AMD revealed a discernible decrease in metamorphopsia
+severity in 61.5% of instances, indicating improved usage of
+peripheral retinal regions and increased central adaptability.
+
+effects or device‑related injuries were reported. Only three
+participants (3.8%) discontinued device use due to difficulty in
+adaptation, despite repeated training sessions. Device‑related
+feedback and satisfaction levels were high, particularly for
+mobility training and electronic magnification systems.
+
+Subjective visual function and quality of life
+
+Discussion
+
+The National Eye Institute Visual Function Questionnaire‑25
+(NEI VFQ‑25) was used to document notable improvements
+in vision‑related quality of life. At the 3‑month mark, the
+composite score increased from 53.6 ± 8.4 to 63.2 ± 8.9, and
+at the 6‑month mark, it reached 70.9 ± 9.3 (P < 0.001). The
+most significant improvements were found in near vision
+activities (mean increase: +19.5 points), social engagement
+(+13.2 points), and dependency reduction, according to
+subscale analysis. The wider effects of low vision rehabilitation
+on visual ability and psychological health are reflected in these
+gains [Table 3].
+
+Independence in activities of daily living
+
+Using the Modified Barthel Index, the mean independence
+score improved significantly from 68.5 ± 7.2 at baseline to
+75.6 ± 7.0 at 3 months and 81.7 ± 6.8 at 6 months (P < 0.001).
+The largest improvements were observed in tasks requiring
+fine vision, such as grooming, dressing, and indoor mobility.
+At the end of the study, 64.1% of participants achieved scores
+indicating mild or no dependency, compared to 38.5% at
+baseline [Table 4].
+
+Device utilization and adherence
+
+At 6 months, 85.9% of patients reported regular use
+(≥4 days/week) of at least one low vision device. Among them,
+72.4% used a combination of two or more aids (e.g., high‑plus
+spectacles for near tasks and video magnifiers for extended
+reading). Electronic devices were most favored by participants
+under 70 years of age, while older patients preferred optical
+aids. Compliance was positively associated with higher
+education level and baseline VFQ‑25 scores. No adverse
+Table 3: National eye institute visual function
+questionnaire ‑ 25 scores – Composite and subscale
+changes
+Domain
+
+Baseline
+
+6 months
+
+Mean change
+
+Composite score
+Near activities
+Social functioning
+Dependency
+Role limitations
+
+53.6±8.4
+48.2±9.3
+52.1±7.6
+50.3±6.9
+54.7±7.4
+
+70.9±9.3
+67.7±10.1
+65.3±8.8
+61.9±7.2
+65.1±6.5
+
++17.3
++19.5
++13.2
++11.6
++10.4
+
+The present study highlights the clinical relevance and
+measurable benefits of structured LVIs in patients with AMD,
+particularly in a resource‑constrained, real‑world Indian
+healthcare setting. The interventions led to statistically and
+clinically significant improvements in best corrected visual
+acuity (BCVA), reading speed, contrast sensitivity, and quality
+of life. These outcomes support the efficacy of personalized
+rehabilitation strategies and are consistent with findings
+reported in prior international studies.[7,8]
+Beyond objective visual improvements, this study contributes
+to the growing body of evidence supporting the psychosocial
+and functional benefits of LVIs. The significant gains seen
+in both composite and subscale scores of the NEI VFQ‑25
+reflect not only improved visual performance but also
+reduced dependency and enhanced social engagement. These
+findings are consistent with those of Lamoureux et al., who
+demonstrated the positive impact of LVIs on psychosocial
+well‑being and patient satisfaction.[7]
+Marked enhancements in BCVA and reading speed underscore
+the value of device-based visual training. These observations
+are in line with the findings of Stelmack et al., who reported
+significant improvements in visual function and performance
+in daily tasks among veterans undergoing similar rehabilitation
+protocols.[6]
+The role of reading aids in improving functional vision and
+reading ability in individuals with low vision has also been
+well established in systematic reviews.[15] Similar benefits
+in reading rehabilitation using low vision devices have been
+reported among veterans.[16]
+Our results also affirm that combining both optical and
+electronic assistive technologies offers a synergistic advantage,
+especially when tailored to each patient’s cognitive and
+functional capacities.[16]
+Reading speed, an important indicator of functional vision, was
+significantly improved in our study and is known to be reliably
+assessed using standardized tools such as the MNREAD test
+in patients with age-related macular degeneration.[17]
+
+Table 4: Functional independence (Modified Barthel Index)
+Activity
+
+Baseline
+
+3 months
+
+6 months
+
+P
+
+Overall score
+Grooming
+Dressing
+Mobility
+
+68.5±7.2
+62.4±8.1
+65.3±7.8
+67.5±6.9
+
+75.6±7.0
+70.2±7.9
+72.8±7.6
+74.3±7.1
+
+81.7±6.8
+77.6±7.5
+79.3±7.0
+80.9±6.6
+
+<0.001
+<0.001
+<0.001
+<0.001
+
+The improvements observed in contrast sensitivity, as assessed
+using the Pelli‑Robson chart, further emphasize the role of
+appropriate lighting and magnification aids in optimizing visual
+function. Among individuals with stable neovascular AMD, a
+notable reduction in metamorphopsia symptoms was reported.
+This may be attributed to enhanced use of the peripheral retina
+and neuroplastic adaptations, mechanisms well‑described in
+neuro‑ophthalmic rehabilitation literature.[18]
+
+Annals of African Medicine ¦ Volume 25 ¦ Issue 6 ¦ November-December 2026
+
+1403
+
+
+[page 5]
+Bora, et al.: Low vision intervention in individuals with age‑related macular degeneration
+
+Moreover, improvements in ADLs, as measured by the
+Modified Barthel Index, highlight the practical value of these
+interventions in enhancing patient autonomy and reducing
+caregiver burden–an aspect often under‑recognized in
+conventional AMD management strategies.
+Despite the encouraging results, certain limitations must be
+acknowledged. The absence of a control group limits the ability
+to draw definitive causal inferences, underscoring the need for
+future randomized controlled trials to validate these findings.
+In addition, the reliance on self‑reported data for device usage
+introduces the potential for reporting bias. Nevertheless,
+within these limitations, the study provides valuable insight
+into the feasibility, effectiveness, and clinical applicability of
+structured low vision rehabilitation programs in tertiary care
+settings across India.
+
+Conclusiion
+Structured low vision rehabilitation leads to significant
+improvements in visual performance, functional independence,
+and perceived quality of life among patients with AMD. These
+findings support the integration of low vision interventions
+into standard ophthalmic care protocols for elderly individuals
+with low vision.
+
+Financial support and sponsorship
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+References
+1.
+
+2.
+3.
+
+1404
+
+Wong WL, Su X, Li X, Cheung CM, Klein R, Cheng CY, et al. Global
+prevalence of age‑related macular degeneration and disease burden
+projection for 2020 and 2040: A systematic review and meta‑analysis.
+Lancet Glob Health 2014;2:e106‑16.
+Mitchell P, Liew G, Gopinath B, Wong TY. Age‑related macular
+degeneration. Lancet 2018;392:1147‑59.
+Klein R, Klein BEK, Linton KLP. Prevalence of age-related maculopathy:
+
+The Beaver Dam Eye Study. Ophthalmology. 1992;99:933-43.
+Ferris FL 3rd, Wilkinson CP, Bird A, Chakravarthy U, Chew E, Csaky K,
+et al. Clinical classification of age‑related macular degeneration.
+Ophthalmology 2013;120:844‑51.
+5.
+Cheung LK, Eaton A. Age‑related macular degeneration.
+Pharmacotherapy 2013;33:838‑55.
+6.
+Stelmack JA, Tang XC, Reda DJ, Rinne S, Mancil RM, Massof RW,
+et al. Outcomes of the veterans affairs low vision intervention trial
+(LOVIT). Arch Ophthalmol 2008;126:608‑17.
+7. Lamoureux EL, Pallant JF, Pesudovs K, Rees G, Hassell JB,
+Keeffe JE. The effectiveness of low‑vision rehabilitation on
+participation in daily living and quality of life. Invest Ophthalmol
+Vis Sci 2007;48:1476‑82.
+8.
+Goodrich GL, Kirby J, Cardenas‑Dow T, Fine FM. Training and low
+vision devices in rehabilitation of patients with age‑related macular
+degeneration. J Vis Impair Blind 2002;96:663‑72.
+9.
+Murthy GV, Gupta SK, Bachani D, Jose R, John N. Current estimates
+of blindness in India. Br J Ophthalmol 2005;89:257‑60.
+10. Hee MR, Puliafito CA, Wong C, Duker JS, Reichel E, Schuman JS,
+et al. Optical coherence tomography of macular holes. Ophthalmology
+1995;102:748‑56.
+11. Almeida OP, Almeida SA. Short versions of the geriatric depression
+scale: A study of their validity for the diagnosis of a major depressive
+episode according to ICD‑10 and DSM‑IV. Int J Geriatr Psychiatry
+1999;14:858‑65.
+12. Virgili G, Acosta R, Bentley SA, Giacomelli G, Allcock C, Evans JR.
+Reading aids for adults with low vision. Cochrane Database Syst Rev
+2018;4:CD003303.
+13. Mangione CM, Lee PP, Pitts J, Gutierrez P, Berry S, Hays RD.
+Psychometric properties of the National Eye Institute Visual Function
+Questionnaire (NEI‑VFQ). NEI‑VFQ field test investigators. Arch
+Ophthalmol 1998;116:1496‑504.
+14. Shah S, Vanclay F, Cooper B. Improving the sensitivity of
+the Barthel Index for stroke rehabilitation. J Clin Epidemiol
+1989;42:703‑9.
+15. Watson GR, De l’Aune W, Long S, Maino J, Stelmack J, Sovich B.
+Veterans’ use of low vision devices for reading rehabilitation: A pilot
+study. J Vis Impair Blind 1997;91:505‑15.
+16. Virgili G, Rubin G. Orientation and mobility training for adults with
+low vision. Cochrane Database Syst Rev 2010;2010:CD003925.
+17. Subhi Y, Kjer B, Munch IC. Precision of reading speed measurements
+with the MNREAD test in patients with age‑related macular
+degeneration. Acta Ophthalmol 2020;98:e638‑44.
+18. Plank T, Frolo J, Brandl-Rühle S, RennerAB, Helbig H, Greenlee MW, et al.
+Functional reorganization of the visual cortex in patients with age‑related
+macular degeneration. Invest Ophthalmol Vis Sci 2011;52:6073‑80.
+4.
+
+Annals of African Medicine ¦ Volume 25 ¦ Issue 6 ¦ November-December 2026
+

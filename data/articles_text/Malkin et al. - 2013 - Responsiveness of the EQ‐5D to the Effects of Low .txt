@@ -1,0 +1,642 @@
+[page 1]
+1040-5488/13/9008-0799/0 VOL. 90, NO. 8, PP. 799Y805
+OPTOMETRY AND VISION SCIENCE
+Copyright * 2013 American Academy of Optometry
+
+ORIGINAL ARTICLE
+
+Responsiveness of the EQ-5D to the Effects
+of Low Vision Rehabilitation
+Alexis G. Malkin*, Judith E. Goldstein*, Monica S. Perlmutter†, Robert W. Massof‡,
+and the Low Vision Research Network Study Group
+
+ABSTRACT
+Purpose. This study is an evaluation of the responsiveness of preference-based outcome measures to the effects of low
+vision rehabilitation (LVR). It assesses LVR-related changes in EQ-5D utilities in patients who exhibit changes in Activity Inventory (AI) measures of visual ability.
+Methods. Telephone interviews were conducted on 77 low-vision patients out of a total of 764 patients in the parent study
+of ‘‘usual care’’ in LVR. Activity Inventory results were filtered for each patient to include only goals and tasks that would
+be targeted by LVR.
+Results. The EQ-5D utilities have weak correlations with all AI measures but correlate best with AI goal scores at baseline
+(r = 0.48). Baseline goal scores are approximately normally distributed for the AI, but EQ-5D utilities at baseline are
+skewed toward the ceiling (median, 0.77). Effect size for EQ-5D utility change scores from pre- to post-LVR was not significantly different from zero. The AI visual function ability change scores corresponded to a moderate effect size for all functional domains and a large effect size for visual ability measures estimated from AI goal ratings.
+Conclusions. This study found that the EQ-5D is unresponsive as an outcome measure for LVR and has poor sensitivity for
+discriminating low vision patients with different levels of ability.
+(Optom Vis Sci 2013;90:799Y805)
+Key Words: EQ-5D, low vision, outcome measures, utility, visual function
+
+T
+
+he recent shift toward outcomes-based reimbursement and
+patient-reported outcome measures in research has led to the
+development of new instruments that evaluate vision-specific
+(and other disease-specific) quality of life outcomes. These instruments include the NEI-VFQ,1 the LVQoL,2 and the VisQol,3
+among others. In addition, the US Panel on Cost Effectiveness
+in Health and Medicine,4 as well as other governmental agencies
+in the United States and the United Kingdom,5,6 has advocated
+for the use of preference-based outcome measures when evaluating
+interventions in research studies, clinical trials, and clinical practice.
+Because the panel recommends outcome measures that can be
+used across different diseases and in different areas of medicine, it
+is essential to understand how these more generic preference-based
+outcome measures perform in patients with vision conditions.
+Specifically, it is important to understand how responsive these
+*OD, FAAO
+†
+OTD, OTR/L, SCLV
+‡
+PhD, FAAO
+Lions Vision Research and Rehabilitation Center, Wilmer Eye Institute, Johns
+Hopkins University School of Medicine, Baltimore, Maryland (AGM, JEG, RWM);
+and Washington University School of Medicine, St. Louis, Missouri (MSP).
+
+measures are when the interventions are rehabilitative, rather than
+curative, as is the case of low vision rehabilitation. For preference based outcome measures to be useful (whether general or condition specific), they must be responsive to clinically meaningful
+effects of the interventions being compared.
+Preference-based outcome measures attempt to quantify gains
+and losses in health-related quality of life in terms of changes in
+quality-adjusted life years (QALYs). Quality-adjusted life years
+depend on health utility measures that theoretically quantify the
+same variable for any type of disease state or intervention.7 Utilities
+are defined as the estimated value of a current health state, expressed
+relative to the risk of death a person is willing to accept to achieve a
+perfect health state.8Y10 Utilities can range from 0 (value of a health
+state that is equivalent to death) to 1 (value of a perfect health state).
+Because QALYs are simply the product of remaining years of life
+and the average health utility during those years, QALYs include
+both morbidity and mortality in a single variable.7
+Estimates of health utilities are obtained with a variety of
+methods, but the Standard Gamble (SG) and Time-Trade Off
+(TTO) techniques have been used the most.11 The SG method for
+estimating utilities requires subjects to report the level of risk of
+
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 2]
+800 Responsiveness of EQ-5D to Low Vision RehabilitationVMalkin et al.
+
+immediate death that they are willing to accept to achieve a perfect
+health state, for example, surgery that carries a specified immediate
+mortality risk but promises perfect health if the patient survives.
+One of the main differences between the SG method and the
+TTO method is that the TTO method deals with a future risk of
+premature death rather than an immediate risk. Subjects are
+asked how many years of their future life they would trade off to
+know that their remaining years would be spent in perfect health.
+Although, in theory, the TTO should provide the same utility estimate as provided by SG, studies have shown that, in practice,
+there is disagreement between SG and TTO-estimated utilities
+from the same subjects.12
+In the case of vision disorders, the risk of immediate death is
+an abstract hypothetical because it rarely applies to current interventions. In addition, in the mind of the patient, vision impairment often is not equated with health state. For this reason,
+perfect vision has sometimes been used as the promised outcome,
+rather than perfect health, and blindness has been substituted for
+death, which has led to considerable controversy.9,13
+An alternative approach to estimating quality of life is to use
+rating scale questionnaires such as the WHOQOL,14 SF-36,15
+HUI Mark3,16 and EuroQoL.17 Some of these questionnaires, or
+subsets of items in the questionnaires, have been calibrated against
+TTO measures of utilities obtained from the same respondents.16
+Thus, patterns of responses to the items in the questionnaires can be
+mapped to TTO-estimated health utility values.18 The EuroQoL
+(EQ-5D) in particular has been standardized as an alternative to
+SG and TTO methods for estimating health utilities.17 In addition,
+the EuroQoL is recommended by a number of agencies both in
+the United States and in the United Kingdom and, as reviewed by
+Tosh et al.,19 it is widely used in ophthalmic outcome studies.19 It
+has been recommended by the US Public Health Service Panel
+on Cost-Effectiveness in Health and Medicine,4 as well as the
+National Institute for Clinical Excellence in the United Kingdom20
+and a National Health Service Task Group.6 It has also been advocated by the Board on Healthcare Services as described by the
+National Academies Press in Valuing Health for Regulatory Cost Effectiveness Analysis.5
+
+INSTRUMENTS
+EQ-5D
+The 5 items in the EQ-5D represent 5 health domains with 3
+possible health states for each domain. Therefore, there are 35 = 243
+possible combinations of item responses that theoretically correspond to 243 unique health states, each having its own health utility
+value. Three of the domains have response categories that relate
+directly to function (Mobility, Self-Care, and Usual Activities); two
+of the domains describe feelings (Pain/Discomfort and Anxiety/
+Depression).
+The EQ-5D index (or national tariff ) maps all possible combinations of responses to utilities, giving a single index to compare
+across studies and disease states.21 The mappings were developed
+by administering the TTO for different EQ-5D item response patterns out of the possible 243 patterns to the general population
+rather than to patients with specific diseases. Once utilities were
+estimated from TTO responses for different combinations of item
+responses, an algorithm was developed (using multiattribute utility
+
+theory) that could generate a utility for any possible set of responses
+to the EQ-5D.22 The EQ-5D was developed with the explicit goal
+of providing a general measure of health state and of functioning as
+an adjunct outcome measure in clinical studies.21 The utility estimated from EQ-5D responses then can be used to calculate QALYs
+gained by a specific intervention; this approach greatly simplifies
+cost-effectiveness research.22
+The EQ-5D tariff was developed and calibrated first in the
+United Kingdom; it was later administered to a large community based sample in the United States to calibrate the instrument for
+the US population.17 The EQ-5D has since been used in many
+research studies to estimate health utilities because of the ease of
+administration, as well as the ability to compare different diseases
+on the same scale.
+Low vision rehabilitation (LVR) is expected to change components of a person’s quality of life by improving that person’s ability
+to perform everyday activities. Daily activities are often limited
+by more than just vision, and goal-driven LVR is concerned with
+restoring the person’s ability to perform the activities, independent
+of the person’s health state or the severity of the visual impairment.
+However, visual impairments rarely are accompanied by pain, and
+although the prevalence of depression is reported to be higher in
+patients with disabling visual impairments,23 altering psychological
+state is not an explicit goal of LVR in the United States. Thus,
+because of the coarseness of the response categories and the limited
+number of responses relevant to low vision, we might expect the
+EQ-5D to have limited sensitivity to changes in quality of life in
+low vision patients.
+
+The Activity Inventory
+The Activity Inventory24 (AI) was developed as an outcome
+measure specific to LVR. The AI is used adaptivelyVpatients are
+asked to rate the difficulty of only those items that are important
+and relevant to them24; this feature is relatively unique among
+quality of life and functional measures. There are a total of 510
+items in the AI item bank, including 50 goals and 460 tasks nested
+under the goals. The AI is designed to measure the effect of LVR
+on the tasks and goals that are most relevant to a patient. Because
+Rasch analysis is used to estimate measures from the difficulty ratings, missing data resulting from the use of an adaptive algorithm
+does not pose a problemVthey affect measurement precision, not
+measurement accuracy.24
+This study evaluates how well the EQ-5D can discriminate between low vision patients with different levels of vision disability,
+as defined by the AI, and whether it can function as a sensitive
+outcome measure of intervention effects meaningful to the patient
+that are measured with the AI. Understanding how the EQ-5D
+responds to vision rehabilitation relative to the benchmark set by
+the AI will facilitate clinically meaningful cross-disciplinary comparisons of intervention as recommended by the US Panel on Cost Effectiveness.4
+
+METHODS
+Data were collected from 2008 to 2011 as a part of a larger
+study designed to characterize the baseline traits of low vision patients who present for LVR at existing private outpatient centers
+and to measure the effectiveness of usual LVR services.25
+
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 3]
+Responsiveness of EQ-5D to Low Vision RehabilitationVMalkin et al.
+TABLE 1.
+
+Comparison of patient traits in parent study and EQ-5D
+subset
+Patient characteristics
+
+Parent
+study
+
+EQ-5D
+subset
+
+Age range, yr
+Median age, yr
+Older than 65 yr, %
+Female, %
+Profound impairment (20/500 or worse), %
+Severe impairment (20/200Y20/500), %
+Moderate impairment (20/70Y20/200), %
+Mild impairment (better than 20/70), %
+
+19Y98
+77
+75
+66
+6
+19
+38
+37
+
+27Y98
+77
+80
+71
+10
+26
+34
+30
+
+Subjects
+In the parent study, baseline telephone interviews were conducted on 764 patients before their initial visit at one of 28 LVR
+centers across the United States, which included both private
+practices and hospital-based outpatient rehabilitation clinics.
+Table 1 compares the distributions of patient traits for the EQ-5D
+subset to the distributions of patient traits in the parent study.
+The trait distributions were similar for the two groups, with a slightly
+greater percentage of severe to profound visual impairment in
+the EQ-5D subset. The most common diagnosis of patients in the
+study was macular disease. Non-neovascular macular degeneration
+accounted for 26% of patients, neovascular disease was 12%, and
+other macular disorders made up 17% of patients, totaling 55% of
+patients in the study who presented with macular disorders. (Full
+details regarding demographics are available in the article describing
+baseline traits of the population in the parent study.25)
+The study was an observational study that evaluated the effects
+of ‘‘usual care’’ so there was no specific treatment protocol. Usual
+care was determined by each clinical site but generally includes a
+trial frame refraction and near device assessment and may include
+contrast sensitivity testing and/or visual field testing; some sites
+performed microperimetry. All sites included training with low
+vision devices whether as part of occupational therapy intervention
+or through services provided by a vision rehabilitation therapist.
+Each site had its own low vision protocol and catered the examination and rehabilitation process to the specific patient as is traditionally done at low vision centers throughout the United States.
+Patients were interviewed by telephone before their first visit at an
+LVR site and then they were interviewed again 6 to 9 months after
+their initial interview. Inclusion criteria were age 18 years or older,
+new patients to the LVR center (i.e., no services from the clinician
+
+801
+
+or center for more than 3 years), and ability to hear, understand,
+and respond to questions in English over the telephone.
+The study was approved by The Johns Hopkins University Institutional Review Board and adhered to the tenets of the Declaration of Helsinki. In addition, all the study sites complied with the
+requirements of the Health Insurance Portability and Accountability Act and, when required, also obtained separate institutional
+review board approval for their participating centers. All patients
+gave oral consent for their study participation before enrollment.
+
+Procedures
+Patients were administered multiple surveys by telephone interview. An intake survey that obtained detailed ocular, medical, physical, psychological, and social history information was administered
+to all participants at baseline. The decision to obtain EQ-5D outcome data was made late in the study. The EQ-5D was administered to 77 consecutive participants (of the total 764 subjects) at
+baseline and again at follow-up 6 to 9 months later. These subjects
+closely match the subjects in the overall parent study (Table 1). The
+EQ-5D was scored by transforming subjects’ responses to utilities
+using the US index developed by Shaw et al.22
+In addition, the AI was administered during the baseline and
+follow-up telephone interviews for these 77 participants. The AI
+item-responses were filtered before being analyzed. Filtering removes items that describe activities that do not require intervention
+because they are ‘‘not difficult’’ or not important or relevant for the
+participant at baseline. The filtered AI is designed to measure the
+average effectiveness of rehabilitation across targeted activities
+that make up rehabilitation goals.26
+
+RESULTS
+Rasch analysis with the Andrich rating scale model27 was used
+to estimate overall visual ability for each participant from his or her
+difficulty ratings of AI goal items and to estimate functional ability
+in four domains (reading, mobility, visual information processing,
+and visual motor function) from difficulty ratings of corresponding
+subsets of AI task items. The different ability measures were estimated from goal and task difficulty ratings using Winsteps28 (with
+item measures and response category thresholds anchored to
+
+TABLE 2.
+
+Baseline correlations of AI domains as compared with EQ-5D
+utility estimates
+N = 77
+Reading
+Mobility
+Vis motor
+Vis info
+Goals
+Utility
+
+Reading Mobility Vis motor Vis info Goals Utility
+1
+0.58
+0.82
+0.69
+0.76
+0.16
+
+1
+0.60
+0.60
+0.50
+0.23
+
+1
+0.75
+0.83
+0.32
+
+1
+0.78
+0.21
+
+1
+0.48
+
+FIGURE 1.
+1
+
+Histogram illustrating the distribution of the baseline utilities estimated from
+EQ-5D responses obtained before LVR services.
+
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 4]
+802 Responsiveness of EQ-5D to Low Vision RehabilitationVMalkin et al.
+
+FIGURE 2.
+Histogram illustrating the distribution of the baseline visual ability in logits
+estimated from difﬁculty ratings of AI goals before LVR services.
+
+calibrated values estimated from the responses of more than 3400
+low vision patients at prerehabilitation baseline). For both prerehabilitation ability measures at baseline and postrehabilitation
+ability measures at 6 to 9 months of follow-up, goal and task items
+were not included in the analysis if the participant responded that
+the item was ‘‘not difficult’’ at baseline.
+The correlation matrix in Table 2 displays Pearson correlations
+between baseline ability measures for the various domains of the
+AI and the EQ-5D baseline utilities. The EQ-5D correlates best
+
+with the AI goal score at baseline (r = 0.48), but correlations with
+other AI functional domains are relatively weak (0.16 e r e 0.32)
+especially when compared with the correlations between these domains (0.50 e r e 0.83).
+Figs. 1 and 2 are histograms of the distribution of the baseline
+utilities estimated from EQ-5D responses (Fig. 1) and the distribution of baseline visual ability estimated from AI goal difficulty
+ratings (Fig. 2).
+The distribution of baseline EQ-5D utilities is skewed toward
+the ceiling of 1.0, with the mode at 0.8, the median at 0.77, and
+the mean at 0.74. In contrast, baseline goal scores from the AI are
+more normally distributed in terms of visual ability with the mean
+at 0.63, the median at 0.64, and the mode at 0.25 to 0.75 logits.
+Measures of the effects of intervention are presented as change
+scores, that is, the difference between measures estimated from
+follow-up responses and measures estimated from baseline responses. As illustrated in Fig. 3, the distribution of EQ-5D utility
+change scores is approximately normal, with a mean of 0.009 and
+a standard deviation of 0.23 (inset in Fig. 3 shows a linear relationship between z score and change in utility, with an R 2 of 0.985).
+Fig. 4 illustrates that the distribution of visual ability change
+scores (estimated from AI goal responses) also is approximately
+normal, with a mean of 0.89 and a standard deviation of 1.28 (inset
+in Fig. 4 shows a linear relationship between z score and change in
+visual ability, with an R 2 of 0.963). The Pearson correlation between
+utility and visual ability change scores is 0.056, which is not significantly different from zero (p = 0.32).
+
+FIGURE 3.
+Histogram illustrating distribution of EQ-5D utility change scores. The inset shows the relationship between the z-score and the change in utility, which is
+expected to be linear if the distribution is normal.
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 5]
+Responsiveness of EQ-5D to Low Vision RehabilitationVMalkin et al.
+
+803
+
+FIGURE 4.
+Histogram illustrating distribution of visual ability change scores estimated from difﬁculty ratings of AI goals. The inset shows the relationship between
+the z-score and the change in visual ability, which is expected to be linear if the distribution is normal.
+
+Although EQ-5D utility change scores and AI functional domain
+change scores are in different units, effect sizes can be compared
+using Cohen effect size index (d = average change score/baseline
+standard deviation), as shown in Fig. 5. The effect size of LVR was
+
+calculated for the AI domains as well as for the EQ-5D utilities.
+Effect sizes in the range of 0.2 to 0.3 are considered small, effect
+sizes around 0.5 are considered medium, and effect sizes of 0.8 or
+greater are considered large. As illustrated with bar graphs in Fig. 5,
+
+FIGURE 5.
+Comparison of Cohen effect sizes for EQ-5D utility change scores, visual functional ability change scores estimated from subsets of AI task difﬁculty ratings
+(for reading, mobility, visual information processing, and visual motor functional domains), and visual ability change scores estimated from difﬁculty ratings
+of AI goals (error bars deﬁne 95% conﬁdence intervals).
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 6]
+804 Responsiveness of EQ-5D to Low Vision RehabilitationVMalkin et al.
+
+there are medium size effects for most AI functional domains and
+a large effect for visual ability (based on goal ratings). The effect
+for utilities based on EQ-5D response is not significantly different
+from zero.
+Power analysis demonstrates that, with our sample size and a 5%
+alpha, we have 70% power to resolve an average change of 0.065
+in the utility index (which corresponds to an effect size of about 0.4).
+Thus, our sample size is sufficient to conclude that there was no
+effect of usual low vision care on EQ-5D scores.
+
+suggested by others,30 it might be necessary to develop a mapping
+of visual ability measures onto utilities, for example, by having low
+vision patients who respond to the AI also use TTO methods to
+estimate the utility of their health state. Future low vision research
+must prioritize the development of measures that incorporate patient preferences and can be measured in standard units for policy
+decision making and cross-disciplinary comparisons.
+
+ACKNOWLEDGMENTS
+Low Vision Research Network (LOVRNET) Study Group
+
+DISCUSSION
+The results of this study show that the EQ-5D as an outcome
+measure for low vision patients is severely limited. First, it is heavily
+skewed toward positive values at baseline, which means that the
+utilities are close to the ceiling with little room to improve for most
+patients. Yet, these same patients report difficulties with a variety
+of important daily tasks when measured with the AI. This observation suggests that the items in the EQ-5D are not sensitive to the
+baseline level of impairment in the low vision population. This
+observation is consistent with the findings of the comprehensive
+review by Tosh et al.,19 which noted generally poor performance of
+the EQ-5D especially in patients with macular degeneration and
+diabetic retinopathy. The EQ-5D has shown variable responsiveness
+in general studies of visual impairment, such as in cataracts or in
+distinguishing the impaired population from the healthy population. Second, only four of the five EQ-5D questions potentially
+can be affected by visual impairment. The remaining domain relates
+to pain that usually is not caused by diseases that produce visual
+impairments, nor would one expect pain to be alleviated with vision specific interventions. The EQ-5D is very broad and vague in its
+description of symptoms; it does not refer to specific goals and
+tasks that are important to the patient. In contrast, LVR targets
+activities that are important to and difficult for the individual patient, likely resulting in effects only for those activities that are
+targeted by the rehabilitation.
+Recommendations from major policy organizations have increased the use of utility estimates and preference-based outcome
+measures.4,5,14,20 However, the goal of developing a quality of life
+outcome measure that is brief, standardized, and allows for crossdisease comparisons limits the sensitivity of the measure. Although
+low vision can affect the EQ-5D score by limiting mobility and
+activities of daily living and can contribute to depression and anxiety, LVR aims to improve the patient’s ability to perform specific
+activities set as rehabilitation goals. Low vision rehabilitation (in
+the United States) rarely directly targets the patient’s psychological
+state or limitations caused by comorbidities and codisabilities,29
+which are common in the mostly geriatric low vision population.
+Thus, the sensitivity of the brief and more general self-report measures
+such as the EQ-5D in LVR is reduced.
+This study found that the EQ-5D is unresponsive as an outcome
+measure for LVR and has poor sensitivity for discriminating low
+vision patients with different levels of ability. The poor sensitivity
+to discriminate patients manifests as poor correlations between
+AI measures of visual or functional ability and EQ-5D utilities.
+Similar poor correlations were observed in an earlier study that
+compared EQ-5D utility scores to NEI VFQ-25 scores.1 As has been
+
+Association for the Blind and Visually Impaired, Rochester, NY: Katherine
+White, OD; Ray Gottlieb, OD; Elizabeth Harvey, OD; Paul Caito, OD;
+Gwen Sterns, MD.
+Casey Eye Institute, Oregon Health & Science University, Portland, OR:
+John Boyer, OD; Grace Tran, OD.
+Center for Retina and Macular Disease, Winter Haven, FL: Sonya
+Braudway, OD; Alice Enault, OTR, CLVT.
+Emory Eye Center, Atlanta, GA: Susan Primo, OD; Kenneth
+Rosengren, OD; Thao Vu, OD.
+Ensight Skills Center, Fort Collins, CO: Mark DeGeorge, OD; Cori
+Layton, SCLV/OTR.
+Envision Vision Rehabilitation Center, Wichita, KS: William Park, OD;
+Karen Kendrick, OTR/L; Joanne Park, COA; Danielle McIntyre.
+The Frank Stein and Paul S. May Center for Low Vision Rehabilitation
+at California Pacific Medical Center, San Francisco, CA: Donald Fletcher,
+MD; Karen Myers, OTR/L.
+Indianapolis Eye Care Center, Indiana University School of Optometry,
+Indianapolis, IN: Kevin Houston, OD.
+The Jewish Guild for the Blind, New York, NY: Laura Sperazza, OD;
+Susan Weinstein, OD.
+Jules Stein Eye Institute, Los Angeles, CA: Melissa Chun, OD; Jennie
+Kageyama, OD; Connie Lam.
+Low Vision Associates, Bingham Farms, MI: Susan Gormezano, OD.
+Massachusetts Eye and Ear, Harvard Department of Ophthalmology,
+Boston, MA: MaryLou Jackson, MD; Kim Schoessow, OTD, OTR/L.
+Medical College of Wisconsin, Milwaukee, WI: Scott Robison, OD.
+Modesto Optometric Vision Center, Modesto, CA: Brian Elliott, OD.
+Retina Consultants of Southwest Florida, Fort Myers, FL: Donald
+Fletcher, MD; Heather Holderfield, OTR/L.
+Richard E. Hoover Low Vision Rehabilitation Services, Greater Baltimore
+Medical Center, Baltimore, MD: Janet S. Sunness, MD; Susan Garber,
+OTR/L, CLVT.
+Richmond Eye & Ear Healthcare Alliance, Richmond, VA: Jeffrey
+Michaels, OD; Mary Bullock, OTR/L.
+Spectrios Institute for Low Vision, Wheaton, IL: John Coalter, OD;
+Connie Arends, MSEd, CVRT; Leah Gerlach, MS, CRC; R. Tracy Williams,
+OD; Karen Thomas.
+St. Luke’s Cataract & Laser Institute, Tarpon Springs, FL: Ed Huggett, OD.
+Storm Eye Institute Low Vision Rehabilitation at the Medical University
+of South Carolina, Charleston, SC: Stephen E. Morse, OD, MPH, PhD;
+Kelly Singleton, MS, OD.
+The University of Iowa Department of Ophthalmology and Visual Sciences, Iowa City, IA: Mark Wilkinson, OD; Darcy Wolf, COA.
+University of Michigan Kellogg Eye Center, Ann Arbor, MI: Donna
+Wicker, OD; Sherry Day, OD; Karen Murphy, OTR.
+The University of Texas Health Science Center School at San Antonio,
+Lion’s Low Vision Center of Texas, San Antonio, TX: Sandra Fox, OD;
+Melva Perez, OTR/L.
+Vanderbilt Eye Institute, Nashville, TN: K. Bradley Kehler, OD.
+ViewFinder Low Vision Resource Center, Mesa, AZ: Lynne Noon, OD;
+Kevin Huff, OD.
+Visionary Eye Center, Reno, NV: Jason Bolenbaker, OD.
+Washington University School of Medicine, St. Louis, MO: Carrie Gaines,
+OD; Monica Perlmutter, OTR/L.
+The Wilmer Eye Institute at Johns Hopkins School of Medicine, Baltimore,
+MD: Judith Goldstein, OD; Alexis Malkin, OD; James Deremeik, CLVT;
+
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+
+[page 7]
+Responsiveness of EQ-5D to Low Vision RehabilitationVMalkin et al.
+Katherine Cleveland, OTR/L; Amy Ocampo; Kim Soistman; Robert
+Massof, PhD; Carol Rainey; Cathy Epstein; Lynn Feuer; Lindsey Yang.
+This study was supported by grants EY012045 and EY018696 from the
+National Eye Institute, National Institutes of Health, and by a grant from
+Reader’s Digest Partners for Sight Foundation.
+Received January 5, 2013; accepted May 24, 2013.
+
+REFERENCES
+1. Payakachat N, Summers KH, Pleil AM, Murawski MM, Thomas J,
+3rd, Jennings K, Anderson JG. Predicting EQ-5D utility scores from
+the 25-item National Eye Institute Vision Function Questionnaire
+(NEI-VFQ 25) in patients with age-related macular degeneration.
+Qual Life Res 2009;18:801Y13.
+2. Wolffsohn JS, Cochrane AL. Design of the low vision quality-of-life
+questionnaire (LVQOL) and measuring the outcome of low-vision
+rehabilitation. Am J Ophthalmol 2000;130:793Y802.
+3. Peacock S, Misajon R, Iezzi A, Richardson J, Hawthorne G, Keeffe J.
+Vision and quality of life: development of methods for the VisQoL vision related utility instrument. Ophthalmic Epidemiol 2008;15:218Y23.
+4. Weinstein MC, Siegel JE, Gold MR, Kamlet MS, Russell LB.
+Recommendations of the Panel on Cost-effectiveness in Health and
+Medicine. JAMA 1996;276:1253Y8.
+5. Miller W, Robinson LA, Lawrence RS, Institute of Medicine (U.S.).
+Committee to Evaluate Measures of Health Benefits for Environmental
+Health and Safety Regulation. Valuing Health for Regulatory Cost Effectiveness Analysis. Washington, DC: National Academies Press; 2006.
+6. Devlin NJ, Parkin D, Browne J. Patient-reported outcome measures
+in the NHS: new methods for analysing and reporting EQ-5D data.
+Health Econ 2010;19:886Y905.
+7. Drummond MF, Stoddart GL, Torrance GW. Methods for the
+Economic Evaluation of Health Care Programmes. Oxford, UK:
+Oxford University Press; 1987.
+8. Torrance GW, Furlong W, Feeny D. Health utility estimation.
+Expert Rev Pharmacoecon Outcomes Res 2002;2:99Y108.
+9. Kymes SM, Lee BS. Preference-based quality of life measures in
+people with visual impairment. Optom Vis Sci 2007;84:809Y16.
+10. Kymes SM. The role of preference-based measures of health states:
+how can we use the Vision Preference Value Scale? Arch Ophthalmol
+2008;126:1765Y6.
+11. Kymes SM, Frick KD. Value-based medicine. Br J Ophthalmol
+2005;89:643Y4.
+12. Malkin AG, Goldstein JE, Massof RW. Interpretation of health and
+vision utilities in low vision patients. Optom Vis Sci 2012;89:288Y95.
+13. Lee BS, Kymes SM, Nease RF, Jr., Sumner W, Siegfried CJ, Gordon
+MO. The impact of anchor point on utilities for 5 common ophthalmic diseases. Ophthalmology 2008;115:898Y903.
+14. The WHOQOL Group. Development of the World Health Organization WHOQOL-BREF quality of life assessment. Psychol Med
+1998;28:551Y8.
+15. Cooper JK, Kohlmann T, Michael JA, Haffer SC, Stevic M. Health
+outcomes. New quality measure for Medicare. Int J Qual Health
+Care 2001;13:9Y16.
+
+805
+
+16. Feeny D, Furlong W, Torrance GW, Goldsmith CH, Zhu Z,
+DePauw S, Denton M, Boyle M. Multiattribute and single-attribute
+utility functions for the health utilities index mark 3 system. Med
+Care 2002;40:113Y28.
+17. The EuroQol Group. EuroQolVa new facility for the measurement
+of health-related quality of life. Health Policy 1990;16:199Y208.
+18. Torrance GW, Boyle MH, Horwood SP. Application of multiattribute utility theory to measure social preferences for health
+states. Oper Res 1982;30:1043Y69.
+19. Tosh J, Brazier J, Evans P, Longworth L. A review of generic
+preference-based measures of health-related quality of life in visual
+disorders. Value Health 2012;15:118Y27.
+20. National Institute for Health and Clinical Excellence (NICE):
+Methods for the Development of NICE Public Health Guidance,
+second edition, 2009. Available at: http://www.nice.org.uk/media/
+CE1/F7/CPHE_Methods_manual_LR.pdf. Accessed June 3, 2013.
+21. Rabin R, de Charro F. EQ-5D: a measure of health status from the
+EuroQol Group. Ann Med 2001;33:337Y43.
+22. Shaw JW, Johnson JA, Coons SJ. US valuation of the EQ-5D health
+states: development and testing of the D1 valuation model. Med
+Care 2005;43:203Y20.
+23. Rovner BW, Casten RJ, Tasman WS. Effect of depression on vision
+function in age-related macular degeneration. Arch Ophthalmol
+2002;120:1041Y4.
+24. Massof RW, Ahmadian L, Grover LL, Deremeik JT, Goldstein JE, Rainey
+C, Epstein C, Barnett GD. The Activity Inventory: an adaptive
+visual function questionnaire. Optom Vis Sci 2007;84:763Y74.
+25. Goldstein JE, Massof RW, Deremeik JT, Braudway S, Jackson ML,
+Kehler KB, Primo SA, Sunness JS. Baseline traits of low vision patients served by private outpatient clinical centers in the United
+States. Arch Ophthalmol 2012;130:1028Y37.
+26. Massof RW. A general theoretical framework for interpreting
+patient-reported outcomes estimated from ordinally scaled item responses. Stat Methods Med Res 2013; February 22, 2013: ePub
+ahead of print: doi:10.1177 /0962280213476380.
+27. Andrich D. A rating formulation for ordered response categories.
+Psychometrika 1978;43:561Y73.
+28. Linacre JM, Wright BD. A User’s Guide to Winsteps Rasch-Model
+Computer Program. Chicago, IL: MESA Press; 2001.
+29. Owsley C, McGwin G, Jr., Lee PP, Wasserman N, Searcey K. Characteristics of low-vision rehabilitation services in the United States.
+Arch Ophthalmol 2009;127:681Y9.
+30. Kowalski JW, Rentz AM, Walt JG, Lloyd A, Lee J, Young TA, Chen
+WH, Bressler NM, Lee P, Brazier JE, Hays RD, Revicki DA. Rasch
+analysis in the development of a simplified version of the National
+Eye Institute Visual-Function Questionnaire-25 for utility estimation. Qual Life Res 2012;21:323Y34.
+
+Alexis G. Malkin
+Johns Hopkins University Hospital
+601 N. Caroline St.
+Wilmer 3rd Floor
+Baltimore, MD 21287
+e-mail: amalkin2@jhmi.edu
+
+Optometry and Vision Science, Vol. 90, No. 8, August 2013
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+

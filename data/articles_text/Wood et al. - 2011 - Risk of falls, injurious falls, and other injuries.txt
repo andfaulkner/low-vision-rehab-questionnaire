@@ -1,0 +1,970 @@
+[page 1]
+This may be the author’s version of a work that was submitted/accepted
+for publication in the following source:
+Wood, Joanne, Lacherez, Philippe, Black, Alexander, Cole, Michael,
+Boon, Mei, & Kerr, Graham
+(2011)
+Risk of falls, injurious falls, and other injuries resulting from visual impairment among older adults with age-related macular degeneration.
+Investigative Ophthalmology and Visual Science, 52(8), pp. 5088-5092.
+This file was downloaded from: https://eprints.qut.edu.au/43844/
+
+© Consult author(s) regarding copyright matters
+This work is covered by copyright. Unless the document is being made available under a
+Creative Commons Licence, you must assume that re-use is limited to personal use and
+that permission from the copyright owner must be obtained for all other uses. If the document is available under a Creative Commons License (or other specified license) then refer
+to the Licence for details of permitted re-use. It is a condition of access that users recognise and abide by the legal requirements associated with these rights. If you believe that
+this work infringes copyright please provide details by email to qut.copyright@qut.edu.au
+
+Notice: Please note that this document may not be the Version of Record
+(i.e. published version) of the work. Author manuscript versions (as Submitted for peer review or as Accepted for publication after peer review) can
+be identified by an absence of publisher branding and/or typeset appearance. If there is any doubt, please refer to the published source.
+https://doi.org/10.1167/iovs.10-6644
+
+
+[page 2]
+Falls and Injuries in Age-Related Macular Degeneration
+
+Risk of falls, injurious falls, and other injuries resulting from
+visual impairment among older adults with Age-related Macular
+Degeneration
+Wood JM,1,2 Lacherez P,1,2 Black A,1,2 Cole MH,2,3 Boon M,1,2,4 Kerr GK,2,3
+1
+
+School of Optometry, Queensland University of Technology, Brisbane, QLD
+Institute of Health & Biomedical Innovation, Queensland University of Technology,
+Brisbane, QLD
+3
+School of Human Movement Studies, Queensland University of Technology,
+Brisbane, QLD
+4
+School of Optometry and Vision Science, University of New South Wales, Sydney,
+NSW
+2
+
+Corresponding author: Prof Joanne M Wood, PhD, School of Optometry and Institute of
+Health and Biomedical Innovation, QUT, Kelvin Grove, Brisbane Q 4059, Australia.
+Tel: 61 7 3138 5701; Fax: 61 7 3138 5665; Email: j.wood@qut.edu.au
+REMEMBER 3 TABLES IN REVISED VERSION
+WORD COUNT: 3108
+
+FUNDING SOURCES: Funding support was received from the NHMRC Prevention
+of Injuries in Older People Partnership in Injury grant.
+
+1
+
+
+[page 3]
+Falls and Injuries in Age-Related Macular Degeneration
+
+ABSTRACT
+
+Purpose: Age-related macular degeneration (AMD) is the leading cause of
+irreversible visual impairment among older adults. This study explored the
+relationship between AMD, falls risk and other injuries and identified visual risk
+factors for these adverse events.
+Methods: Participants included 76 community-dwelling individuals with a range of
+severity of AMD (mean age, 77.0±6.9 years). Baseline assessment included binocular
+visual acuity, contrast sensitivity and merged visual fields. Participants completed
+monthly falls and injury diaries for one year following the baseline assessment.
+Results: Overall, 74% of participants reported having either a fall, injurious fall or
+other injury. Fifty-four percent of participants reported a fall and 30% reported more
+than one fall; of the 102 falls reported, 63% resulted in an injury. Most occurred
+outdoors (52%), between late morning and late afternoon (61%) and when navigating
+on level ground (62%). The most common non-fall injuries were lacerations (36%)
+and collisions with an object (35%). Reduced contrast sensitivity and visual acuity
+were associated with increased fall rate, after controlling for age, gender, cognitive
+function, cataract severity and self-reported physical function. Reduced contrast
+sensitivity was the only significant predictor of falls and other injuries.
+Conclusion: Among older adults with AMD, increased visual impairment was
+significantly associated with an increased incidence of falls and other injuries.
+Reduced contrast sensitivity was significantly associated with increased rates of falls,
+injurious falls and injuries, while reduced visual acuity was only associated with
+increased falls risk. These findings have important implications for the assessment of
+visually impaired older adults.
+
+KEYWORDS: age-related macular degeneration, falls, injuries, visual function
+
+2
+
+
+[page 4]
+Falls and Injuries in Age-Related Macular Degeneration
+INTRODUCTION
+Older adults have one of the highest injury-related mortality rates,1, 2 and have a
+poorer prognosis and more complications following injury than their younger
+counterparts,3 which has significant ramifications for associated health-care costs.4
+It has been demonstrated that the risk of unintentional injury, especially resulting from
+falls, is higher for individuals with visual impairment compared to those with normal
+vision.5-7 However, little is known about the relationship between visual impairment
+and injuries unrelated to falls, such as lacerations and burns.8
+
+Of particular relevance are the effects of visual impairment resulting from age-related
+macular degeneration (AMD) on falls and other injuries, given that AMD is the most
+common cause of irreversible visual impairment in older adults. Age-related macular
+degeneration affects a range of visual functions that have been associated with
+increased falls risk, including visual acuity,5, 9-12 contrast sensitivity,13 and visual
+fields.6, 10 There have also been a number of studies which have suggested that AMD
+is associated with impaired postural stability,14, 15 mobility and gait,16-19 and a greater
+physiological falls risk profile.20 Some of these studies have also demonstrated that
+visual measures including contrast sensitivity and visual fields18, 19, 21 are better
+predictors of impaired balance and mobility performance in AMD than visual acuity.
+Despite these associations, only a limited number of studies have explored the
+relationship between AMD and falls, and none have identified the visual risk factors
+for falls and injuries specifically in this population.
+
+While earlier studies failed to find an association between AMD and increased falls
+risk,9, 22, 23 possibly because of insufficient numbers of AMD patients in the study
+populations, a more recent study reported that the risk of injurious falls was doubled
+in older women with neovascular AMD compared to age-matched controls.24
+Importantly, the mean best eye visual acuity of the population at baseline was 20/80,
+representing a relatively advanced level of AMD, and other visual function measures
+were not reported. It is thus not possible to identify which visual function measures
+best predicted falls in this population; information that is critical for eye care
+providers.
+
+3
+
+
+[page 5]
+Falls and Injuries in Age-Related Macular Degeneration
+In this study we aimed to better understand the prospective injury risk from falls and
+non-fall related causes over a twelve month follow-up period in a sample of older
+adults with a range of levels of visual impairment due to AMD. In particular we were
+interested in identifying which visual factors best predicted prospective injury and
+falls in this population.
+
+METHODS
+
+Participants
+Eighty community dwelling older adults with retinal changes consistent with AMD
+who had no significant ocular or visual pathway disease leading to visual field loss,
+other than AMD, were included in the study and have been described in detail
+elsewhere.19 Participants were recruited from the School of Optometry Clinic at
+Queensland University of Technology, via the electoral roll, or from Brisbane-based
+members of the Macular Degeneration Foundation (Sydney, Australia).
+
+Participants were excluded from the study if they were unable to walk unaided, or had
+a history of Parkinson’s disease, diabetes or peripheral neuropathy. Participants were
+also screened for cognitive function using the Mini Mental State Examination
+(MMSE). A small number of participants were unable to complete three of the 30
+items of the test due to their visual impairment (including the vision-based test items
+- 'CLOSE YOUR EYES', sentence writing, and design for copy) even with larger
+versions of these items (increased in size to an equivalent of 1.3 logMAR). For these
+participants the relevant items were scored as correct by default.25,26 Participants with
+any co-morbid eye disease (other than AMD or cataract) were not included in the
+study.
+
+The research followed the tenets of the Declaration of Helsinki, and informed consent
+was obtained prior to participant assessment. The research was approved by the
+Queensland University of Technology Human Research Ethics Committee.
+
+4
+
+
+[page 6]
+Falls and Injuries in Age-Related Macular Degeneration
+Vision Assessment
+All participants attended a baseline assessment where they underwent an eye
+examination, including assessment of the presence and severity of lens opacities,
+using the slit lamp-based Lens Opacities Classification System (LOCSIII),27 and nonmydriatic, 45° slide photography of the posterior pole using a Canon CR6-45NM
+fundus camera (Tokyo, Japan) to confirm the presence of retinal changes consistent
+with AMD. The severity of AMD was also independently graded from the fundus
+slide photographs, according to the AREDS classification scheme.28 For the purpose
+of analysis, the highest LOCS score (either nuclear, posterior subcapsular or cortical)
+in the eye with the better visual acuity was used as the level of cataract severity.
+
+Binocular high contrast visual acuity was measured with participants’ habitual
+distance refractive correction using a Bailey-Lovie high contrast letter chart at a
+working distance of 3.2 metres and an average luminance of 195 cd/m2. Participants
+were instructed to guess letters, even when they were unsure, until a full line of letters
+was incorrectly read. Visual acuity was scored letter-by-letter (each letter
+corresponded to 0.02 logMAR units). Contrast sensitivity was measured binocularly
+using the paper version of the Melbourne Edge Test (MET),29 at a working distance of
+40 cm and an average luminance of 65.5 cd/m2, with an appropriate near correction.
+The MET is a four alternative forced-choice edge detection test which measures
+contrast sensitivity at around 3 c/deg,29 has excellent test-retest reliability30 and has
+been used in a range of previous studies of vision and falls.31, 32 Participants were
+asked to identify the orientation of the edge within each circular patch until two
+consecutive incorrect responses were made and the lowest contrast edge correctly
+identified was recorded as the participant’s contrast sensitivity in dB.
+
+Visual fields were assessed using the Humphrey Field Analyzer (Model HFA-II 750,
+Carl Zeiss Meditec Inc., Dublin, CA, USA). Monocular 24–2 SITA-Standard threshold
+tests were performed by an experienced optometrist. Where required, a large fixation
+target was used to ensure stable fixation during testing; in some cases where fixation
+errors were still high, fixation monitoring was disabled, and fixation was continuously
+monitored visually by the examiner. Field tests were considered reliable if false positive and false-negative errors were less than 33%.33 A binocular mean deviation
+(MD) score was derived by merging the right and left fields to create a binocular
+5
+
+
+[page 7]
+Falls and Injuries in Age-Related Macular Degeneration
+visual field, based on the more sensitive of the two eyes at each visual field location;34
+the binocular field was also considered separately as field loss at locations above
+(superior to) and below (inferior to) the midline. Participants’ habitual correction and
+spectacle type used for walking (e.g., multifocal, single vision, progressive) were also
+recorded.
+
+Questionnaire
+The SF-36 physical function scale was used as a self-reported measure of physical
+function. This provides an index of general physical functioning and health and has
+been shown to be an effective and valid health care measure in older community based populations.35
+
+Falls and Injury Diaries
+Following the baseline assessment, participants were asked to complete a monthly
+diary which recorded any falls and other injuries experienced over that period and to
+return the diary in the pre-paid envelopes provided. A fall was defined as
+unintentionally coming to the ground or some lower level not as a result of a major
+intrinsic event (e.g. stroke) or overwhelming hazard;36 participants were also asked to
+detail any injuries resulting from any falls. Participants were also asked to record
+which spectacle correction they were wearing at the time of the fall. The non-fall
+related injuries included burns or scalds, collision with an object, collision and
+laceration, eye injury, laceration, lifting and twisting injury, pedestrian accident or
+sporting injury. If participants failed to complete their monthly diaries they were sent
+reminders by mail and contacted by telephone.
+
+Statistical Analyses
+Statistical analyses were performed using SPSS (version 17.0 for Windows, SPSS,
+Chicago, IL). Since falls accounted for the majority of adverse events incurred in this
+sample, the events were separated into fall and non-fall related events for analysis,
+and injurious falls were also considered separately for comparison. The number of
+falls, injurious falls and non-fall related injuries per participant during the 12 month
+period were examined using both Poisson and negative binomial regressions, with the
+Lagrange multiplier test used to test for over-dispersion. The distribution of non-fall
+
+6
+
+
+[page 8]
+Falls and Injuries in Age-Related Macular Degeneration
+related injuries revealed significant over-dispersion and therefore the negative
+binomial model was used, while falls and injurious falls did not reveal significant
+over-dispersion and therefore the Poisson model was retained as is recommended.37
+For each outcome measure (falls, injurious falls and other injuries), each visual
+function measure (visual acuity, contrast sensitivity, total mean deviation, superior
+mean deviation, inferior mean deviation) was examined in separate regression models.
+Separate models were conducted for each visual function measure because the visual
+measures were so highly correlated as to cause serious multicollinearity if they had
+been included in a simultaneous model (with correlations of around 0.7 - 0.8). All
+analyses controlled for the following potential confounding variables: age, MMSE,
+gender, physical function and cataract severity; none of these variables were
+significantly related to any of the outcome measures in the models.
+
+RESULTS
+
+Of the participants assessed at baseline, three participants did not complete any
+diaries, and a fourth completed only the first two diaries and these were therefore not
+included in the analyses. The final sample consisted of 76 participants (mean age 77.0
+years ± 6.9 years; range 59-95 years) including 34 males (45%) and 42 females
+(55%). Participants had a range of severity of AMD, both in terms of visual function
+and their AREDs grades, with more participants exhibiting binocular visual loss and
+AREDS scores in the mild to moderate rather than the severe categories (Table 1). For
+the better eye, 24 participants (32%) were pseudophakic, 7 (9%) had a LOCS score of
+0, 10 (13%) had a grade of 1, 17 (23%) a grade of 2, 10 (13%) a grade of 3, 7 (9%) a
+grade of 4, and 1 (1%) a grade of 5.
+
+Overall, 74% (n=56) of the sample reported at least one fall or injury event during the
+12 month follow-up period. Falls were the most common event with 54% of the
+participants (n=41) reporting at least one fall and 30% (n=23) reporting two or more
+falls. Seventeen participants reported three or more falls, with the highest incidence
+being eight during the one year follow-up period. Table 2 shows the characteristics of
+the reported falls and other injury events sustained by the sample over the follow-up
+period. Sixty-three percent of the falls (n = 64) resulted in an injury, but only 17%
+required medical treatment. Most falls occurred outdoors, (52% of all falls compared
+7
+
+
+[page 9]
+Falls and Injuries in Age-Related Macular Degeneration
+to 35% indoors and 13% unspecified), between late morning and late afternoon
+(61%), and overall, falls occurred more often when navigating on level ground (62%
+of all falls) than when rising/reclining. The main reason reported for a fall was
+tripping (40%), followed by loss of balance (25%), with misplaced stepping being the
+least likely reason reported for falling (9%). We also examined whether falls were
+associated with the use of multifocal spectacles. The use of multifocal spectacles
+correction did not differ significantly between fallers and non-fallers (57% and 59%,
+respectively 2(1) = .015, p = .9), nor between multiple fallers and non-multiple
+fallers (60% and 52%, 2(1) = .433, p = .506). Interestingly, 21% of those who fell
+were not wearing their habitual spectacle correction at the time of the fall.
+
+There were 138 non-fall related injuries, of which lacerations and collisions with an
+object were most common (71%), followed by lifting or twisting injuries, and then
+burn or scald injuries (see Table 2).
+
+Table 3 shows the results of a series of regression analyses predicting falls and injury
+rates based on each of the visual function measures, controlling for age, MMSE,
+gender, physical function, and cataract severity. Reduced contrast sensitivity and
+visual acuity were significantly associated with an increased rate of falls. When only
+injurious falls were considered, reduced contrast sensitivity and visual acuity were
+still the only significant visual predictors. However, only reduced contrast sensitivity
+was significantly associated with an increased rate of other injury events.
+
+DISCUSSION
+
+This study demonstrated among older adults with AMD who were free of ocular
+disease other than cataract, that the presence of increased visual impairment is
+associated with a higher incidence of prospective falls and injuries recorded over a 12
+month follow-up period. Of the visual function measures assessed, reduced contrast
+sensitivity was significantly associated with an increased rate of both falls and other
+injuries, while reduced visual acuity was only significantly associated with an
+increase in falls. Visual field loss within the central 24 degrees was not significantly
+associated with either falls or other injuries in this sample.
+
+8
+
+
+[page 10]
+Falls and Injuries in Age-Related Macular Degeneration
+
+The finding that contrast sensitivity was the strongest visual predictor of falls among
+older adults with AMD is in accord with previous studies which have demonstrated
+associations between reduced contrast sensitivity and increased postural sway on
+foam,14, 19 and gait adaptations in older adults with AMD.18, 19, 21 The findings also
+support those of general population studies where falls risk has been shown to be
+increased in the presence of reduced contrast sensitivity.13, 38 Avoidance of trip hazards
+and negotiating stairs are likely to be reliant on adequate visual information over a
+range of spatial frequencies, hence measures of contrast sensitivity better predicted
+these adverse events in this population. The finding that reduced contrast sensitivity
+also predicts the propensity for other injuries, is also highly relevant given that older
+adults in general, regardless of their visual status, have high injury-related mortality
+rates,1 and have a worse prognosis and more complications following injury than their
+younger counterparts.3
+
+Visual acuity was also associated with an increased rate of falls but not with increased
+risk for other injuries. The role of reduced visual acuity in increased falls risk is not
+unexpected given previous studies which have shown collectively that those with
+reduced visual acuity are 1.7 times more likely to have a fall and 1.9 times more likely
+to have multiple falls compared to those with normal vision.8 Although more recent
+general population studies have identified that visual field loss is the strongest visual
+predictor of falls,6, 7 this was not found to be the case for this sample. This may be
+because in our sample the participants were free of ocular diseases other than AMD
+and early cataract and hence had localized central rather than peripheral field loss; in
+addition, measurement of visual fields in this population tends to be less accurate due
+to fixation difficulties.39 It is also important to note that the visual field measures in
+this study were confined to the central 24 degrees of the visual field rather than in
+more peripheral locations.
+
+In this study, a high proportion of participants reported a fall during the 12-month
+follow-up period; 54% reported at least one fall and 30% reported two or more falls.
+These rates are higher than those previously reported among general population
+studies of older adults, which have reported annual falls rates of around 30% ,7 and
+annual multiple falls rates around 16%.6 Furthermore, our participants reported a
+9
+
+
+[page 11]
+Falls and Injuries in Age-Related Macular Degeneration
+mean of 0.84 injurious falls per person-year, which is higher than the rate of 0.37
+injurious falls per person-year reported by a previous study of older women with neovascular AMD.24 It is difficult, however, to directly compare rates between studies
+given the considerable variations in study designs, falls and injury definitions and
+sample populations.
+
+Falls were more common between late morning to late afternoon and on level
+surfaces, however this may simply be because older adults are more likely to be out
+and about at this time and most walking is on level surfaces. Falls also tended to
+occur more often when walking outdoors rather than indoors and were the result of
+tripping or loss of balance rather than a misplaced step.
+
+When we examined the pattern of non-fall related injuries, the largest proportion were
+lacerations, followed by collisions with an object, which is consistent with previous
+studies which have examined home-based injuries.2, 40 Another study did not report
+collisions as a separate category, but in accord with our findings, reported that
+lacerations were the most common non-fall related injury.41 It is difficult to compare
+our results with those of studies which report on more serious injuries resulting in
+hospital admissions or death,42, 43 given that they involved a higher degree of injury
+severity than that examined in the present study. Comparison of the rates of these falls
+and other injuries among larger populations of vision impaired and visually normal
+individuals would be informative.
+
+Collectively, these findings have clinical implications for the management and advice
+that should be provided to patients with AMD, and highlight the potential injury risks
+that these patients are exposed to in their daily activities, even when most of the
+sample had mild to moderate rather than severe levels of AMD. Importantly, contrast
+sensitivity was the strongest predictor of both the rates of falls and other injuries in
+this population. A larger scale prospective study is required in order to establish the
+levels of AMD severity and visual impairment at which the injury risk begins to
+increase. An improved understanding of this would help eye care providers to identify
+at which stage patients should be referred to appropriate rehabilitation specialists for
+advice regarding modifiable risk factors (shoe wear, floor coverings, physical activity)
+
+10
+
+
+[page 12]
+Falls and Injuries in Age-Related Macular Degeneration
+and interventions, such as hip protectors, which reduce the risk of injury in the event
+of a fall.44
+
+This study has a number of strengths including the use of prospective falls as one of
+our primary outcome measures, which are now considered the gold standard for
+recording falls rather than retrospective falls measures.45 We adopted a similar
+prospective approach to recording other injury events. Furthermore, the study used a
+standardized battery of visual function measures which incorporated commercially
+available instrumentation, allowing replication of the study findings and application in
+a range of settings. The most important limitation of the study was the relatively
+small sample size and future studies should include larger cohorts of patients with
+varying levels of visual impairment from AMD. Nevertheless, these preliminary
+findings suggest that reductions in contrast sensitivity are the most important
+predictors of increased risk of falls and other injuries in this population.
+
+In summary, this study highlights the importance of contrast sensitivity screening
+among older adults with AMD, using easy to administer and reliable contrast
+sensitivity measures such as the MET. These measures can be performed by
+appropriately trained personnel in eye and health care settings, and will allow
+clinicians to identify those older adults with AMD who are at risk of future falls and
+injuries.
+
+ACKNOWLEDGMENTS
+The Macular Degeneration Foundation (Sydney, Australia) is thanked for their
+assistance in recruiting participants to this study, as are all of the participants who
+gave so generously of their time. The authors would also like to thank Roger Martin,
+Melissa Newton, Matthew Roodveldt, Jocelyn Stewart, Oren Tirosh and Paul Turner
+for assistance in various stages of the laboratory-based data collection.
+
+11
+
+
+[page 13]
+Falls and Injuries in Age-Related Macular Degeneration
+Table 1: Summary of the visual characteristics and AREDs scores of participants
+Vision characteristic
+Binocular visual
+acuity (logMAR)
+Mean ± sd
+≤0.3 (20/40), n (%)
+>0.3 (20/40) and ≤ 1 (20/200), n (%)
+>1 (20/200), n (%)
+
+0.28 ± 0.4
+51 (67.1%)
+18 (23.7%)
+7 (9.2%)
+
+Binocular contrast
+sensitivity (db)
+Mean ± sd
+≥ 18dB, n (%)
+<18dB and ≥12dB, n (%)
+<12dB, n (%)
+
+16.61 ± 4.52
+41 (53.9%)
+23 (30.3%)
+12 (15.8%)
+
+Integrated visual
+fields, mean deviation
+(dB)
+Mean ± sd
+≥ -2db , n (%)
+< -2db and ≥ -6db, n (%)
+< -6db, n (%)
+
+-2.79 ± 4.5
+44 (57.9%)
+19 (25%)
+13 (17.1%)
+
+AREDS score,
+(average of both eyes)
+Mean ± sd
+Early (<2), n (%)
+Moderate (≥2 and <4), n (%)
+Advanced (grade 4), n (%)
+Missing
+
+2.32 ± 1.2
+26 (34%)
+35 (46%)
+14 (19%)
+1 (1%)
+
+12
+
+
+[page 14]
+Falls and Injuries in Age-Related Macular Degeneration
+Table 2: Characteristics of prospective falls and injuries sustained over the 12-month
+follow-up period.
+Descriptive Category
+
+Soft-tissue injury
+Fracture
+Head trauma
+
+Count
+102
+64
+55
+4
+5
+
+Percent
+100%
+63%
+86%
+6%
+8%
+
+Inside own home-on the one level
+Inside own home-walking up or down stairs
+Inside but not own home-on the one level
+Inside own home-getting out of a chair
+Inside own home-getting out of bed
+Inside own home-accessing the toilet
+Inside but not own home-accessing the shower/bath
+Inside own home-accessing the shower/bath
+On the one level
+Garden/park/grassed area
+On a footpath
+Of own home walking up or down stairs
+On the one level
+On a bus/train
+Car park/ driveway
+On a step/ escalator
+On a kerb
+Getting into or out of a vehicle
+Other
+
+16
+6
+4
+3
+2
+2
+2
+1
+16
+10
+9
+6
+3
+2
+2
+2
+2
+1
+13
+
+16%
+6%
+4%
+3%
+2%
+2%
+2%
+<1%
+16%
+10%
+9%
+6%
+3%
+2%
+2%
+2%
+2%
+<1%
+13%
+
+Cause of Fall
+
+Trip
+Misplaced step
+Slip
+Loss of Balance
+Not Reported
+
+41
+9
+16
+26
+10
+
+40%
+9%
+16%
+25%
+10%
+
+Falls Time of Day
+
+Night-time (6pm - 5:59am)
+Early morning (6am - 10:59am)
+Midday (11am -2:59pm)
+Afternoon (3pm - 5:59pm)
+Not indicated
+Laceration
+Collision with object
+Lifting or twisting injury
+Burn or scald
+Other
+Sporting injury
+Eye injury
+Pedestrian accident
+Collision and laceration
+
+11
+19
+37
+26
+9
+49
+48
+22
+12
+3
+1
+1
+1
+1
+
+11%
+19%
+36%
+25%
+9%
+36%
+35%
+16%
+9%
+2%
+<1%
+<1%
+<1%
+<1%
+
+All Falls
+Injurious Falls
+Injury Sustained
+
+Falls Location
+Inside
+
+Outside
+
+Other injuries
+
+13
+
+
+[page 15]
+Falls and Injuries in Age-Related Macular Degeneration
+
+Table 3. Regression predicting prospective falls and injurious falls (Poisson) and other injury (Negative Binomial) based on measures of visual
+function. All analyses were performed controlling for age, MMSE, gender, physical function, and cataract severity. Each visual function
+measure was examined in a separate regression to avoid multicollinearity.
+
+Falls (Poisson)
+
+Injurious Falls (Poisson)
+
+Other Injury Events
+(Negative Binomial)
+Wald 2
+p-value
+(1 df)
+
+B
+
+Wald 2
+(1 df)
+
+p-value
+
+B
+
+Wald 2
+(1 df)
+
+p-value
+
+B
+
+Contrast sensitivity
+Melbourne Edge Test
+(dB)
+
+-.092
+
+13.332
+
+.000
+
+-.081
+
+6.031
+
+.014
+
+-.087
+
+4.361
+
+.037
+
+Binocular visual acuity
+logMAR
+
+.631
+
+6.947
+
+.008
+
+.629
+
+4.173
+
+.041
+
+.377
+
+.831
+
+.362
+
+Merged binocular fields
+Mean Defect (total)
+
+.009
+
+.123
+
+.726
+
+.048
+
+1.675
+
+.196
+
+-.012
+
+.092
+
+.762
+
+Merged binocular fields
+Mean Defect (superior)
+
+.009
+
+.130
+
+.719
+
+.039
+
+1.332
+
+.249
+
+-.012
+
+.111
+
+.739
+
+Merged binocular fields
+Mean Defect (inferior)
+
+.008
+
+.096
+
+.757
+
+.052
+
+1.772
+
+.183
+
+-.009
+
+.052
+
+.820
+
+14
+
+
+[page 16]
+Falls and Injuries in Age-Related Macular Degeneration
+REFERENCES
+1.
+Lilley JM, Arie T, Chilvers CE. Accidents involving older people: a review of
+the literature. Age Ageing 1995;24:346-365.
+2.
+Xiang H, Leff M, Stallones L. Non-fatal injuries among adults with activity
+limitations and participation restrictions. Injury Prevention 2005;11:157-162.
+3.
+van der Sluis CK, Klasen HJ, Eisma WH, ten Duis HJ. Major trauma in young
+and old: what is the difference? J Trauma 1996;40:78-82.
+4.
+Covington DL, Maxwell JG, Clancy TV. Hospital resources used to treat the
+injured elderly at North Carolina trauma centers. J Am Geriatr Soc 1993;41:847-852.
+5.
+Klein BE, Klein R, Lee KE, Cruickshanks KJ. Performance-based and self assessed measures of visual function as related to history of falls, hip fractures, and
+measured gait time. The Beaver Dam Eye Study. Ophthalmology 1998;105:160-164.
+6.
+Coleman AL, Cummings SR, Yu F, et al. Binocular visual-field loss increases
+the risk of future falls in older white women. Journal of the American Geriatrics
+Society 2007;55:357-364.
+7.
+Freeman EE, Munoz B, Rubin G, West SK. Visual field loss increases the risk
+of falls in older adults: the Salisbury eye evaluation. Invest Ophthalmol Vis Sci
+2007;48:4445-4450.
+8.
+Legood R, Scuffham P, Cryer C. Are we blind to injuries in the visually
+impaired? A review of the literature. Inj Prev 2002;8:155-160.
+9.
+Ivers RQ, Cumming RG, Mitchell P, Attebo K. Visual impairment and falls in
+older adults: The Blue Mountains Eye Study. Journal of the American Geriatrics
+Society 1998;46:58-64.
+10.
+Klein BE, Moss SE, Klein R, Lee KE, Cruickshanks KJ. Associations of
+visual function with physical outcomes and limitations 5 years later in an older
+population: the Beaver Dam eye study. Ophthalmology 2003;110:644-650.
+11.
+Lord SR. Visual risk factors for falls in older people. Age Ageing 2006;35
+Suppl 2:ii42-ii45.
+12.
+Coleman AL, Stone K, Ewing SK, et al. Higher risk of multiple falls among
+elderly women who lose visual acuity. Ophthalmology 2004;111:857-862.
+13.
+de Boer MR, Pluijm SM, Lips P, et al. Different aspects of visual impairment
+as risk factors for falls and fractures in older men and women. J Bone Miner Res
+2004;19:1539-1547.
+14.
+Elliott DB, Patla AE, Flanagan JG, et al. The Waterloo Vision and Mobility
+Study: Postural control strategies in subjects with ARM. Ophthalmic and
+Physiological Optics 1995;15:553-559.
+15.
+Turano KA, Dagnelie G, Herdman SJ. Visual stabilization of posture in
+persons with central visual field loss. Investigative Ophthalmology and Visual Science
+1996;37:1483-1491.
+16.
+Spaulding SJ, Patla AE, Elliott DB, Flanagan J, Rietdyk S, Brown KS.
+Waterloo Vision and Mobility Study: Gait adaptations to altered surfaces in
+individuals with age-related maculopathy. Optometry and Vision Science
+1994;71:770-777.
+17.
+Spaulding SJ, Patla AE, Flanagan J, Elliott DB, Rietdyk S, Brown KS.
+Waterloo Vision and Mobility Study: Normal gait characteristics during dark and light
+adaptation in individuals with age-related maculopathy. Gait & Posture 1995;3:227235.
+
+15
+
+
+[page 17]
+Falls and Injuries in Age-Related Macular Degeneration
+18.
+Kuyk T, Elliott JL. Visual factors and mobility in persons with age-related
+macular degeneration. Journal of Rehabilitation Research and Development
+1999;36:303-312.
+19.
+Wood JM, Lacherez PF, Black AA, Cole MH, Boon MY, Kerr GK. Postural
+stability and gait among older adults with age-related maculopathy. Invest Ophthalmol
+Vis Sci 2009;50:482-487.
+20.
+Szabo SM, Janssen PA, Khan K, Potter MJ, Lord SR. Older women with age related macular degeneration have a greater risk of falls: a physiological profile
+assessment study. J Am Geriatr Soc 2008;56:800-807.
+21.
+Hassan SE, Lovie-Kitchin JE, Woods RL. Vision and mobility performance of
+subjects with age-related macular degeneration. Optometry and Vision Science
+2002;79:697-707.
+22.
+Felson DT, Anderson JJ, Hannan MT, Milton RC, Wilson PW, Kiel DP.
+Impaired vision and hip fracture. The Framingham Study. J Am Geriatr Soc
+1989;37:495-500.
+23.
+Ivers RQ, Cumming RG, Mitchell P, Simpson JM, Peduto AJ. Visual risk
+factors for hip fracture in older people. Journal of the American Geriatrics Society
+2003;51:356-363.
+24.
+Szabo SM, Janssen PA, Khan K, Lord SR, Potter MJ. Neovascular AMD: an
+overlooked risk factor for injurious falls. Osteoporos Int 2010;21:855-862.
+25.
+Folstein MF, Folstein SE, McHugh PR. Mini-mental state: A practical method
+for grading the cognitive state of patients for the clinician. Journal of Psychiatric
+Research 1975;12:189-198.
+26.
+Heun R, Papassotiropoulos A, Jennssen F. The validity of psychometric
+instruments for detection of dementia in the elderly general population. International
+Journal of Geriatric Psychiatry 1998;13:368-380.
+27.
+Chylack LT, Jr., Wolfe JK, Singer DM, et al. The Lens Opacities Classification
+System III. The Longitudinal Study of Cataract Study Group. Archives of
+Ophthalmology 1993;111:831-836.
+28.
+The Age-Related Eye Disease Research Group. The Age-Related Eye Disease
+Study (AREDS) system for classifiying age-related macular degeneration from
+stereoscopic color fundus photographs: AREDS Report No. 6. American Journal of
+Ophthalmology 2001;132:668-681.
+29.
+Verbaken JH, Johnston AW. Population norms for edge contrast sensitivity.
+American Journal of Optometry & Physiological Optics 1986;63:724-732.
+30.
+Haymes SA, Chen J. Reliability and validity of the Melbourne Edge Test and
+High/Low Contrast Visual Acuity chart. Optom Vis Sci 2004;81:308-316.
+31.
+Lord SR, Menz HB. Visual contributions to postural stability in older adults.
+Gerontology 2000;46:306-310.
+32.
+Lord SR, Dayhew J. Visual risk factors for falls in older people. J Am Geriatr
+Soc 2001;49:508-515.
+33.
+Johnson CA, Keltner JL, Cello KE, et al. Baseline visual field characteristics
+in the ocular hypertension treatment study. Ophthalmology 2002;109:432-437.
+34.
+Nelson-Quigg JM, Cello K, Johnson CA. Predicting binocular visual field
+sensitivity from monocular visual field results. Investigative Ophthalmology and
+Visual Science 2000;41:2212-2221.
+35.
+Chia EM, Chia EM, Rochtchina E, Wang JJ, P. M. Utility and validity of the
+self-administered SF-36: findings from an older population. Ann Acad Med Singapore
+2006;35:461-467.
+
+16
+
+
+[page 18]
+Falls and Injuries in Age-Related Macular Degeneration
+36.
+Lord SR, Menz HB, Tiedemann A. A physiological profile approach to falls
+risk assessment and prevention. Physical Therapy 2003;83:237-252.
+37.
+Orme JG, & Combes-Orme, T. . Multiple Regression with Discrete Dependent
+Variables. Oxford: Oxford University Press; 2009.
+38.
+Cummings SR, Nevitt MC, Browner WS, et al. Risk factors for hip fracture in
+white women. Study of Osteoporotic Fractures Research Group. N Engl J Med
+1995;332:767-773.
+39.
+Almog Y, Shiftan A. Plotting visual fields using contralateral fixation: a novel
+honeycomb device. Arch Ophthalmol 2004;122:1052-1056.
+40.
+Graham HJ, Firth J. Home accidents in older people: role of primary health
+care team. British Medical Journal 1992;305:30-32.
+41.
+Carter SE, Campbell EM, Sanson-Fisher RW, Gillespie WJ. Accidents in older
+people living at home: a community-based study assessing prevalence, type, location
+and injuries. Australian and New Zealand Journal of Public Health 2000;24:633-636.
+42.
+Wolf ME, Rivara FP. Nonfall injuries in older adults. Annual Review of Public
+Health 1992;13:509-528.
+43.
+Hu G, Baker SP. Recent increases in fatal and non-fatal injury among people
+aged 65 years and over in the USA. Injury Prevention 2010;16:26-30.
+44.
+Parker MJ, Gillespie WJ, Gillespie LD. Hip protectors for preventing hip
+fractures in older people. Cochrane Database Syst Rev 2005;CD001255.
+45.
+Lamb SE, Jorstad-Stein EC, Hauer K, Becker C. Development of a common
+outcome data set for fall injury prevention trials: the Prevention of Falls Network
+Europe consensus. J Am Geriatr Soc 2005;53:1618-1622.
+
+17
+

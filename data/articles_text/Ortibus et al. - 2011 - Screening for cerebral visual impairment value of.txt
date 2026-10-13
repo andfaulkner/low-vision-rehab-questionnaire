@@ -1,0 +1,1242 @@
+[page 1]
+138 Original Article
+
+Authors
+
+E. Ortibus1,4, A. Laenen2, J. Verhoeven1, P. De Cock1, I. Casteels3, B. Schoolmeesters4, A. Buyck5, L. Lagae1
+
+Aﬃliations
+
+Aﬃliation addresses are listed at the end of the article
+
+Key words
+
+Abstract
+▼
+
+▶ CVI
+●
+▶ questionnaire
+●
+▶ screening
+●
+▶ CP
+●
+▶ preterm
+●
+
+Objective: The objective of the study was to
+investigate the screening utility of a questionnaire for cerebral visual impairment (CVI) by correlating the questionnaire with diagnostic tools
+such as the L94, the Test of Visual Perceptual
+Skills - Revised and the Visual Perception subtask
+of the Beery test of VisuoMotor Integration.
+Methods: The questionnaire consisted of 46
+items, exploring diﬀerent characteristics of CVI.
+We consecutively recruited 91 children. Parents
+filled out the questionnaire after which all children were seen for a diagnostic evaluation of CVI.
+Results: There were 58 boys. Subjects’ mean
+age was 6.10 years. A median of 12 items was
+
+Abbreviations
+▼
+received
+accepted
+
+23.12.2010
+25.07.2011
+
+Bibliography
+DOI http://dx.doi.org/
+10.1055/s-0031-1285908
+Published online:
+September 12, 2011
+Neuropediatrics 2011;
+42: 138–147
+© Georg Thieme Verlag KG
+Stuttgart · New York
+ISSN 0174-304X
+Correspondence
+Els Ortibus, MD
+University Hospitals Leuven
+Department of Paediatric
+Neurology
+Herestraat 49
+B-3000 Leuven
+Belgium
+Tel.: +32/16/343 845
+Fax: +32/16/343 841
+Els.ortibus@uzleuven.be
+
+AIC
+AUC
+ASD
+CP
+CVI
+DCD
+GA
+MRI
+PWMD
+ROC
+TVPS-R
+VMI
+VP
+
+Akaike information criterion
+area under the curve
+autism spectrum disorder
+cerebral palsy
+cerebral visual impairment
+developmental coordination disorder
+gestational age
+magnetic resonance imaging
+periventricular white matter disease
+receiver operating curve
+test of visual perceptual skills – revised
+developmental test of visuomotor
+integration
+visual perception
+
+Introduction
+▼
+Cerebral visual impairment (CVI) is the most
+common cause of visual impairment in developed countries [7]. It results from impaired
+processing of visual information in the presence
+of a (nearly) intact ophthalmological system.
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+ticked in the 45 children with CVI and 7 in the
+children without impairment. The domain ‘visual attitude’ scored positive most frequently. A
+logistic regression model using individual items,
+yielded Receiver Operating Curves for the questionnaire with good areas under the curve of
+0.81 against the L94, 0.78 against the TVPS-R and
+0.84 against the VP subtask. The sum score of the
+6 domains was found to be an easy-obtainable
+score with a good sensitivity and specificity
+profile.
+Conclusion: This CVI questionnaire is a viable
+tool that has the potential of being implemented as part of a routine screening procedure for CVI.
+
+Classically, cerebral visual problems are dichotomized into ventral (WHAT) and dorsal (HOW)
+stream deficits [17]. This dichotomy works nicely
+to a certain level. Indeed, the spectrum of CVI in
+a child population includes problems of recognition of objects and shapes as well as problems of
+spatial orientation, which are all defined as ventral stream deficits. On the other hand, also problems of simultaneous perception and detection
+of movement, which are dorsal stream features,
+are reported. In addition, specifically in a child
+population, problems with sustained eye contact, odd behaviour in crowded environments
+and decreased sustained visual attention are
+found. These last symptoms do not nicely fit into
+this ventral/dorsal dichotomy and must be taken
+from the history [9, 14]. As learned from clinical
+experience, these signs are highly indicative of
+CVI and might be reasons for referral to a tertiary
+center for further assessment of visual perception.
+CVI is typically diagnosed in the presence of
+periventricular white matter disease (PWMD), a
+characteristic lesion in children born between 28
+and 32 weeks gestational age (GA) [10]. Individu-
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+Screening for Cerebral Visual Impairment: Value of a
+CVI Questionnaire
+
+
+[page 2]
+als with PWMD generally exhibit motor control problems or
+other developmental delays, and they often develop cerebral
+palsy (CP) later in life. This explains why CVI is a major comorbidity in preterm born children with CP, especially those with
+bilateral spastic CP. To guide the rehabilitation plan in these children, screening for CVI is warranted.
+Not only does CVI mostly occur in children with an underlying
+neurological disorder, CVI has in itself a large impact on other
+developmental domains, further hampering the child’s cognitive
+and motor development [13, 27]. For instance, visual perceptual
+diﬃculties negatively influence the formation of a visual databank, slowing down the development of categorization and the
+outgrowth of a visual memory. CVI hinders normal visuomotor
+development by impacting on the accuracy of distance estimation, thereby influencing visually guided motion. Evidence exists
+that early intervention may improve outcome, which makes
+early diagnosis crucial [21].
+In summary, CVI is an important and incapacitating deficit, for
+which cost and time eﬃcient diagnostic measures are required.
+In contrast to adults with focal brain lesions, where detailed
+investigation is able to clarify specific visual deficits, such an
+approach cannot be easily adopted in children [18]. Indeed, in
+children with sometimes more diﬀuse brain pathology, many
+conditions hamper a thorough standardized assessment. One
+important reason is that standard tests often require good
+speech and motor abilities, which are often deficient in children
+with CP. Also, impairment of global cognitive function renders
+standardized evaluation diﬃcult. Therefore, we frequently have
+to rely on observations or findings from the history to diagnose
+CVI. All this makes it impractical and unrealistic to perform a full
+CVI diagnostic assessment in all children with CP.
+A well constructed screening tool might be a first step to detect
+those children who need to be referred for full diagnosis. A questionnaire could serve this purpose. Structured history taking has
+already proven its value in characterizing the visual perceptual
+dysfunctions in children [19, 22]. However, as yet, no validated
+instruments for screening for CVI are available. Therefore, a CVI
+questionnaire was developed in Flanders, Belgium. The goal of
+the questionnaire was to provide ophthalmologists and paediatricians, working in outpatient clinics, with a relatively quick
+way of administering a structured history, enabling them to estimate the need for referral to a tertiary center.
+In this study, our aim was to investigate the screening utility of
+this CVI questionnaire.
+
+Patients and Methods
+▼
+CVI questionnaire
+We developed this questionnaire in cooperation with the members of the “Flemish working group on CVI”. This Flemish working
+group is a multidisciplinary team, with representatives of the
+diﬀerent CVI clinics in Flanders as well as representatives of the
+schools for special education of children with a motor-visual
+disability. The group comprises paediatric neurologists, ophthalmologists, orthoptists, occupational therapists and neuropsychologists. A translated version of the questionnaire can be
+found in the supplemental material (see Text, Sumental Dal Cont).
+In the parents’ version, the domain headings are not visible.
+In total, the questionnaire included 46 closed ended items. The
+items were carefully selected on the basis of (i) available questionnaires used by the home intervention teams for children
+
+with CVI in Flanders, (ii) the visual skills inventory available by
+the group of Dutton and (iii) a literature review of features of CVI
+in children [9, 11, 15]. According to the current literature, the
+items were clustered into 6 domains, evaluating visual attitude,
+ventral and dorsal stream functions, complex (visuomotor) abilities, use of other senses and associated CVI characteristics. The
+visual attitude domain was further subdivided into 4 well
+known subdomains, evaluating visual attention, visual fixation,
+visual field and the influence of a familiar environment. Questionnaire items were chosen in accordance with the behavioural
+diﬃculties that we expected to encounter. For example, in a
+child with dorsal stream deficits, visually guided motion is
+impaired. This results in children having diﬃculty to reach out
+for an object correctly or in them having diﬃculty climbing
+stairs or crossing a doorstep. Impaired simultaneous perception
+is reflected in diﬃculties with finding one’s favorite cuddle
+amongst a heap of other toys or with finding one’s parent in a
+crowd of parents at the school gate. These dorsal stream deficits
+can be complicated by additional ventral stream impairments,
+such as impaired face recognition or spatial orientation. This can
+lead to a child clinging to the parents in a warehouse, in order
+not to get lost. Other clinical characteristics of CVI are situated in
+the domain of visual attention: children easily lose their focus,
+they easily tire and therefore often depend on other perceptual
+input such as auditory information or touch. Due to their deficits
+in visuospatial cognition, activities of everyday life, such as tying
+shoe laces or making puzzles can be diﬃcult. In order to take
+part in life, children therefore develop compensatory strategies,
+such as, verbally supporting their acts or starting a conversation
+first in order for the other person to talk back and thereby enable
+his recognition. Items exploring diﬃculties while moving (such
+as item No. 7, bumps into things) were restricted because of the
+possibility of non-applicability in children with cerebral palsy.
+All items were presented as statements with tick boxes. Caregivers were instructed to tick the box if the item applied to their
+child. It took 5–10 min to complete the questionnaire. Responses
+were recorded as binary scores (yes or no).
+
+Clinical data
+From August 2008 to August 2010, we consecutively recruited a
+cohort of children following their referral to the CVI clinic in
+Leuven, Belgium, a tertiary referral centre for children with
+visual perceptual problems. All children were referred because
+of a suspicion of CVI on the basis of behavioural features and/or
+the clinical exam. The parents were sent the questionnaire 2
+months in advance of the neuropsychological assessment, at the
+same time they were invited for the formal testing. The parents
+were instructed (as mentioned on the form) to fill out the questionnaire by ticking the boxes for those items that applied to
+their child. They were not otherwise guided. Upon their subsequent visit to the CVI clinic, all patients were submitted to the
+following diagnostic protocol to confirm or refute the suspicion
+of CVI:
+
+Clinical neurological history and examination
+The presence of CP as well as the GA, birth weight and gender
+were recorded. Prematurity was defined as birth at a GA of < 37
+weeks. CP was classified according to the current definitions of
+the European Cerebral Palsy Network as unilateral or bilateral
+spastic, ataxic or dyskinetic CP [26]. Also, the presence of neurodevelopmental diagnoses such as autism spectrum disorder
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+Original Article 139
+
+
+[page 3]
+140 Original Article
+
+Imaging characteristics
+Brain MRI scans, if available, were retrospectively assessed for
+the presence of PWMD, cortico-subcortical lesions and miscellaneous findings according to the classification of KrägelohMann [20].
+
+A neuro-ophthalmological evaluation including:
+(i) Qualitative observation of visual attention and fixation.
+(ii) Visual field measurement: because of the often young age of
+our children and their frequently associated motor and/or
+mental disabilities, traditional methods could not always be
+used to define with precision the extent of their visual field.
+Therefore, visual field was measured by means of Goldmann
+visual field test or if not possible, confrontation visual field
+exam.
+(iii) Visual acuity measurement: This was evaluated with the
+maximum possible dioptric correction and using diﬀerent
+tests depending on the subject’s age and on the severity of
+their mental delay. Several tests were used (Ffooks, Cardiﬀ
+acuity cards), which gave recognition acuity expressed in
+tenths. Subjects were categorized as follows: low vision (< 3
+tenths), near normal vision (≥ 3–8 tenths) and normal vision
+(≥ 8 tenths).
+(iv) Qualitative assessment of the presence of strabismus and/or
+nystagmus.
+
+Cognitive assessment
+According to previously described methods, the “performance
+age” of each child was assessed by a non-verbal intelligence test
+appropriate for the child’s age and cognitive abilities [25].
+Patients in whom a performance level could not be established
+were excluded from the study.
+
+Visual perceptual assessment
+All subjects with a performance age between 2.75 and 6.5 years
+completed the L94 visual perceptual battery, composed of 5 computer tasks, [visual matching (VISM), overlapping line drawings
+(OVERL), line drawings occluded by noise (NOISE), De Vos task
+(DE VOS), unconventional object views (VIEW)]. For a more
+detailed description of the battery, we refer to Ortibus et al. [25].
+Children whose performance age was over 6.5 years were
+assessed with the Test of Visual Perceptual Skills – Revised (TVPS-R)
+[16]. The TVPS-R is a motor free test, assessing the following
+visual perceptual skills: visual discrimination, visual memory,
+visual-spatial relations, visual form-constancy, visual sequential
+memory, visual figure ground and visual closure. In addition, we
+administered the supplemental Visual Perception (VP) task from
+the developmental test of Visual-Motor Integration (VMI) [2]. Not
+all children performed the latter task, due to reasons of fatigue
+or lack of sustained attention.
+As was done in our previous CVI studies, the performance age
+was then used instead of the chronological age as the entry for
+the L94 normative tables in order to detect specific deficits in
+global developmentally delayed children [25]. Visual perceptual
+performance was related to the performance age and expressed
+as percentiles. For the L94, we defined visual perceptual impairment as a significantly reduced score (≤ Pc 5) on at least one subtask of the battery. For the TVPS-R and its subtasks, we followed
+the test instructions to calculate percentiles, also in comparison
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+to the “performance age”. A score less than Pc10 on the total
+TVPS-R battery was defined as impairment. The same method
+was used for the calculations of the percentile scores of the VP
+subtask of the Beery VMI, for which a cut-oﬀ score of less than Pc
+10 was taken to define impairment.
+
+Ethical considerations
+Informed consent was obtained from the parents. Ethical clearance was granted by the Faculty of Medicine, University of
+Leuven, Belgium.
+
+Part I: Predictive Value of the Questionnaire
+▼
+Statistical analysis
+Statistical methodology: An in depth analysis of the questionnaire data to investigate its predictive value was performed.
+In a first step, we considered diﬀerent ways to summarize the
+information in the 46 questionnaire items into a limited number
+of variables. The following 4 approaches were compared:
+(i) A latent variable approach, where a random-eﬀects model
+was used to estimate a subject-specific score for each of the
+subscales [3]. The subscale ‘visual attitude’ was divided into
+4 additional subscales, so a total of 9 subscales was used.
+(ii) Using a limited set of items, thereby selecting the individual
+(binary) scale items that provided the best explanation for
+the response variable.
+(iii) Using a binary outcome per subscale in which – for each of
+the 6 subscales – the summary-score was given the value 1
+if at least one of the items of the scale had a value one.
+(iv) Using a sum score per subscale in which the number of items
+with value one within the subscale was counted. For the
+domain ‘visual attitude’, the number of classes (fixation,
+visual field, visual attention, influence of familiar environment) with value one was taken.
+In order to find the best methodological approach, these 4
+approaches were first applied to the test L94 because of the large
+size of the cohort, aiming for an area under the curve (AUC) of at
+least 0.75. Based on these results, we opted to use the second
+approach (use of individual items) in the remainder of the analyses.
+Analysis: A logistic regression model was used with the binary
+test-outcome (yes/no) as response variable and the questionnaire scores as explanatory variables. The explanatory variables
+in the model were selected based on the Akaike information criterion (AIC) [1]. Once a final model was chosen, its predicted
+values indicated for each subject the probability of having CVI,
+as tested by either L94, TVPS-R and/or VP (criterion variable).
+Based on these predicted values, a cut-oﬀ was determined corresponding to a certain sensitivity (the proportion of positive
+cases that were classified as positive) and specificity (the proportion of negative cases that were classified as negative). While
+both of these values are important, some argue greater consideration should be given to the sensitivity of the screen, striving
+for rates of 70–80 %. Indeed, since screens are meant to identify
+at-risk children for further evaluation, and not to provide a
+definitive diagnosis, it seems more prudent to maximize sensitivity so as to miss the fewest number of possible cases [23].
+Next, we generated a receiver operating curve (ROC), which is a
+graphical representation of sensitivity vs. 1 – specificity (the
+number of false positives) for diﬀerent values of the cut-oﬀ
+point. The area under the curve (AUC) represents an overall
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+(ASD), developmental coordination disorder (DCD) and the presence of epilepsy was documented.
+
+
+[page 4]
+Original Article 141
+
+Results
+▼
+Clinical characteristics
+▶ Table 1 summarizes the clinical characteristics of the total
+●
+cohort of 91 subjects, demonstrating the heterogeneity of the
+cohort. 41 children were born preterm, of whom 22 were born at
+a GA below 32 weeks. Of the 41 children with CP, 14 children had
+a unilateral spastic CP, and 26 were bilaterally aﬀected. 1 child
+presented with an athetosis. 6 children were wheelchair bound
+of whom 3 were not self mobile. 45 children were mentally
+delayed. 6 children suﬀered from epilepsy. None of the children
+had low vision. 31 subjects had a visual acuity ranging between
+3 and 8 tenths. 14 patients did not have imaging performed. Of
+the remainder, 13 children showed miscellaneous findings.
+Of the 91 children referred to our centre, 45 were finally diagnosed with CVI based on the above explained procedure. There
+were 64 children who had a L94 performed and 25 children
+were tested with the TVPS-R. The VP subtask of the VMI was
+taken from 67 children of whom 50 were in the first and 17 in
+the second age group.
+
+tive (± 50 subjects). It was also clear that children infrequently
+▶ Fig. 1a also
+showed problems in the ventral stream domain. ●
+demonstrates the distribution of positivity of answers in children with or without CVI. As it is clear from the graph, the frequency distribution of positivity of the domains does not seem
+to diﬀer between groups.
+▶ Fig. 1b looks in more detail at the frequency of the individual
+●
+items. We notice that items 10 (attention is variable), 17 (subject
+sits right in front of the TV) and 37 (subject is clumsy) applied
+
+Table 1 Child characteristics, associated neurodevelopmental disorders,
+ophthalmological findings and neuro-imaging details in 91 subjects referred
+to the CVI clinic.
+
+Questionnaire data
+▶ Fig. 1a illustrates the distribution of the scores on the diﬀer●
+ent domains of the questionnaire. Parents most frequently
+ticked boxes in the domain of visual attitude. Within this
+domain, the subdomain ‘visual attention’ scored positive most
+frequently (81 times), the other 3 domains scored equally posi-
+
+Number of
+patients
+
+a
+
+Child characteristics
+
+Mean (range)
+
+gestational age (weeks)
+birth weight (g)
+gender (boys/girls)
+age at examination (months)
+performance age at examination (months)
+Neuroimpairment
+cerebral palsy
+autism spectrum disorder
+developmental dyspraxia
+Ophthalmological findings
+fixation problems
+attention problems
+glasses
+near normal vision
+strabismus
+nystagmus
+visual field loss
+Imaging characteristics
+normal
+periventricular white matter disease
+infarctions
+
+37 (24–41)
+2775 (545–4200)
+58/33
+82 (41–204)
+53 (31–122)
+No (%)
+41 (45.0)
+11 (12.1)
+3 (3.3)
+No (%)
+12 (13.2)
+23 (25.3)
+36 (39.6)
+31 (34.1)
+33 (36.3)
+12 (13.2)
+8 (8.8)
+No (%)
+15 (19.2)
+40 (51.3)
+8 (10.3)
+
+Fig. 1 Frequency distribution of positive answers
+on the CVI questionnaire: a In the diﬀerent
+domains and subdomains of the questionnaire. A
+(sub)domain is classified as positive when one item
+is ticked in the (sub)domain. b Of the individual
+items of the questionnaire. c In the diﬀerent domains of the questionnaire in children with or without cerebral palsy and with or without prematurity.
+Att: attitude; Fix: fixation problems; Field: visual
+field problems; Attent: visual attention problems;
+Fam: influence of familiar environment.
+
+100
+80
+60
+40
+20
+0
+
+F
+i
+x
+
+F
+i
+e
+l
+d
+
+A
+t
+t
+e
+n
+t
+
+F
+a
+m
+
+Attitude
+
+Attitude
+
+CVI pos
+
+Ventral Dorsal Complex Senses Associated
+CVI neg
+
+c
+100%
+
+70
+60
+50
+
+80%
+60%
+
+40
+30
+20
+10
+0
+
+40%
+20%
+
+1 4 7 10 13 16 19 23 26 29 32 35 38 41 44 47
+Item numbers of the questionnaire
+CVI pos
+
+CVI neg
+
+tit
+ud
+Ve e
+nt
+r
+D al
+Co orsa
+m l
+pl
+Se ex
+n
+As s
+so es
+cia
+t..
+.
+
+0%
+
+At
+
+Number of subjects
+
+b
+
+non CP preterm
+CP preterm
+
+non CP term
+CP term
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+accuracy measure, covering all possible interpretation thresholds. A value of 1 corresponds with perfect classification,
+whereas a value of 0.5 corresponds with classification at random. AUC values closer to one are preferable [12, 23].
+All analyses have been performed using SAS software, version
+9.2 of the SAS System for Windows.
+
+
+[page 5]
+142 Original Article
+
+most frequently. The items 25, 26 and 30 were infrequently
+▶ Fig. 1b further
+scored of which item 30 the least frequent. ●
+shows the frequency distribution pattern for the individual item
+numbers in patients with CVI as well as in patients in whom the
+diagnosis was not withheld. No clear patterns emerge from this
+graph. The number of items scored for each individual ranged
+from 0 to 29, with a median of 10. Children with CVI had a
+median number of items of 12 as opposed to the children without CVI who had a median number of 7 items ticked.
+Finally, we looked at the distribution of the individual domains
+in children with or without CP, in combination with preterm
+▶ Fig. 1c).
+birth. We found no clear patterns in this distribution (●
+
+Thereafter, the model was applied to the TVPS-R test results.
+Because of a smaller number of positive outcomes, the model
+could only select 2 variables (items 9 and 28). The corresponding
+▶ Fig. 2b, still having an AUC of 0.78.
+ROC curve is shown in ●
+▶ Fig. 2c shows the ROC plotted for the VP subtask,
+Finally, ●
+showing a very high AUC of 0.8493 based on a model including
+items 1, 15 and 16.
+From the ROC curves, it is clear that – depending on the chosen
+cut-oﬀ point – a sensitivity of 75–80 % can be reached with a corresponding specificity around 60 %.
+
+As previously mentioned, 4 alternative approaches were considered to summarize the 46 items into a limited set of explanatory
+variables. Applied to the L94, the best results were obtained
+▶ Fig. 2a
+with the second approach (individual item approach). ●
+presents the ROC curve for a model based on the items 31, 47, 23
+and 17, which implies an AUC of 0.81. The 3 other approaches
+implied AUCs of 0.75 (latent variable approach), 0.73 (binary
+score per subscale), and 0.69 (sum score per subscale). Based on
+these results, we decided to continue with the individual item
+approach in the remainder of the analyses. This approach implies
+that individual items are used as explanatory variables in the
+logistic regression model. As the sample size and the number of
+positive test results are not very large, we need to limit the
+number of items used in the model. The final selection of items
+was based on the best fitting combination (based on AIC). Nevertheless, many diﬀerent combinations lead to similar AUC values,
+indicating similar explanatory power.
+High AUC values were also seen for the diﬀerent subtasks of the
+L94, with the exception of the visual matching subtask, since
+this subtask did not yield enough positive test results. The diﬀerent AUC values and corresponding item numbers selected by the
+▶ Table 2. As before,
+model for each subtask are illustrated in ●
+other item combinations lead to similar results.
+
+The previous analyses have shown that the questionnaire has a
+good predictive value and contains a reasonable amount of
+information to predict the presence or absence of cerebral visual
+impairment. In a second step, we wanted to investigate ways to
+use the questionnaire in clinical practice. A diﬃculty with the
+approach, as it is described above, was that the probabilities for
+a diagnosis of CVI could not be simply and directly obtained
+from the questionnaire. Therefore, we investigated the predictive value of some easy-obtainable sum scores in correlation
+with the L94 test scores in the following analyses.
+We considered 4 diﬀerent sum-scores: (i) the total sum of all
+items (with a theoretical range of 0–46); (ii) the sum of the 6
+subscales: at least one positive answer within a subscale implies
+a value of 1 for the subscale, otherwise the value is 0. The range
+of this score is 0–6; (iii) the sum of the 9 subscales (by taking the
+4 subscales of the subscale visual attention into account) with a
+range of 0–9; (iv) a newly defined sum score based on the selection of the most predictive items.
+For each of the 4 sum scores we applied a logistic regression
+model with the clinical test score (L94) as response variable and
+the sum score as a single explanatory variable. For each of the
+possible values that a sum score can take, we could obtain a corresponding sensitivity and specificity. This can be interpreted as
+follows: For all children with a value lower than the cut-oﬀ
+value, we predict a negative test outcome. For all children with a
+value equal to or larger than the cut-oﬀ value, we predict a positive test outcome. The number of correctly classified cases
+determines the sensitivity and the number of correctly classified
+healthy individuals determines the specificity.
+
+Table 2 Area under the curve (AUC) values and corresponding item
+numbers of the questionnaire against the diﬀerent subtests of the L94.
+Subtest
+
+Area under the Curve
+
+Item number
+
+devos series
+noise
+visual matching
+overlapping figures
+unconventional
+viewpoint
+
+0.8264
+0.8357
+NA
+0.6625
+0.8255
+
+31; 47; 38; 23; 12
+3; 15
+3
+38; 3; 18
+
+NA: not available
+
+ROC Curve for L94: cvi31 cvi47
+cvi23 cvi17
+
+b
+
+ROC Curve for TVPS: cvi9 cvi28
+
+Area Under the Curve= 0.8106
+0.19
+0.52
+
+Sensitivity
+
+0.75
+0.57
+0.62
+0.50 0.82
+
+0.75
+
+0.25
+
+Area Under the Curve=0.8493
+
+0.17
+
+1.00
+
+0.46
+0.57
+
+0.85
+
+ROC Curve for VP: cvi16 cvi15 cvi1
+
+Area Under the Curve= 0.7813
+
+0.16
+
+Sensitivity
+
+1.00
+
+c
+
+1.00
+
+0.21
+
+0.50 0.76
+
+0.04
+
+0.23
+
+0.75
+
+0.68
+
+Sensitivity
+
+a
+
+0.63
+
+0.50 0.67
+0.25
+
+0.25
+0.97
+
+0.00
+
+0.00
+0.00
+
+0.25
+0.50
+0.75
+1 - Specificity
+
+1.00
+
+0.00
+0.00
+
+0.25
+0.50
+0.75
+1 - Specificity
+
+1.00
+
+0.92
+
+0.00
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+0.25
+0.50
+0.75
+1 - Specificity
+
+1.00
+
+Fig. 2 Receiver operating characteristic (ROC)
+curves for the CVI questionnaire with corresponding Area Under the Curve (AUC) values and item
+numbers against a diagnosis of CVI as measured
+by the L94 (a), the TVPS-R (b) and the VP (c).
+Diﬀerent cut-oﬀ points are plotted on the curve,
+corresponding to diﬀerent combinations of
+sensitivity and specificity.
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+Part II: Practical Applicability of the Questionnaire
+▼
+Statistical methodology and analysis
+
+Correlation of the questionnaire with the test results
+
+
+[page 6]
+Table 3 Cut-oﬀ scores and corresponding sensitivity and specificity and
+area under the curve (AUC) values for selected questionnaire sum scores in
+identifying L94 impairment for 2 selected models: the sum of 6 subscales
+and the sum score based on the sum of item numbers 3, 31, 47, 22, 34, 23
+and 40.
+
+sum of 6 subscales
+
+new sum score
+
+Cut-oﬀ
+
+Sensitivity
+
+Specificity
+
+AUC value
+
+3
+4
+5
+2
+3
+4
+
+90.0
+83.3
+66.7
+76.7
+56.7
+33.3
+
+29.4
+47.1
+64.7
+70.6
+85.3
+97.1
+
+0.6824
+
+0.7892
+
+Results
+▼
+The total item score (sum over all items) was not significantly
+related to the result of the L94 (AUC 0.63). Among the easyobtainable sum scores, the sum score based on the 6 domains
+yielded the best AUC (0.68). The new sum score was the best
+predictor over all 4 sum scores with an AUC of 0.79. The new
+sum score is the sum of the items 3, 31, 47, 22, 34, 23 and
+▶ Table 3 lists the values of sensitivity and specificity and
+40. ●
+their corresponding cut-oﬀ scores for the model with the sum of
+the 6 domains and for the model with the new sum score.
+
+Discussion
+▼
+CVI is currently the main diagnosis in the group of children with
+visual impairment in the developed countries [7]. It is often
+diagnosed in children with CP, in whom a standard neuropsychological assessment of CVI is made diﬃcult for reasons of cognitive, motor and language delays. However, for these children,
+there is evidence that early intervention for CVI may improve
+outcome. Therefore, an early diagnosis is needed. On the other
+hand, testing children unnecessarily is not cost and time eﬃcient. For these reasons, the use of a valid screening tool is warranted. In this paper, we present evidence for the predictive
+value of a CVI questionnaire, developed in Flanders, Belgium, by
+correlating the questionnaire with commonly accepted diagnostic tools such as the L94, the TVPS-R and the VP. To the best of
+our knowledge, this is the first study that has assessed the predictive value of a screening questionnaire for CVI.
+In the first part of the paper, using the statistical model as we
+did, ROC curves with an area under the curve between 0.78 and
+0.84 were plotted. We can conclude that the questionnaire has
+good predictive value for the identification of children who are
+at risk of having CVI. This predictive value was not only established for the global test result, but also for the individual subtasks of the L94, indicating that the questionnaire items are
+predictive for positive subtask results.
+Since this is the first study evaluating the predictive value of a
+CVI questionnaire, we cannot compare our findings to other
+studies. From other behavioural domains, such as quality of life
+measures in school age children with CP or screening instruments for autism spectrum disorders, we can however state that
+the predictive value is analogous and therefore useful [8, 23].
+Depending on the cut-oﬀ point one would take, the sensitivity of
+the questionnaire can be raised up to 80 % while a good specificity of 60 % is preserved. For screening purposes, it seems justified to assign more weight to a high sensitivity in order not to
+
+miss any child with CVI. While this would suggest that about
+40 % of those referred are tested unnecessarily, these children
+might however present with a subthreshold disorder, also needing careful follow-up.
+Chosen cut-oﬀ scores might also diﬀer in diﬀerent populations,
+for example in younger or older cohorts. This is also the case for
+the social communication questionnaire (SCQ), a screening
+instrument for ASD, where lowering the cut-oﬀ score in children
+in a sample of children between 2 and 6 years, considerably
+increased the sensitivity and although the questionnaire was
+designed for individuals above the age of 4, it seemed to perform
+best over 7 years [23]. All children in our cohort had a performance age of at least 2.75 years, due to the age constraints of the
+L94. This implies that we should we careful to extrapolate our
+findings to a younger age group, especially since some of the
+items might not yet be applicable.
+6 children in our cohort were wheelchair bound, 3 of them being
+dependent on others for their mobility. Item 7 exploring visual
+field deficits (real or functional) might be non-applicable to certainly those last 3 children. Indeed, none of them scored item 7.
+In a new version of the questionnaire, the possible non-applicability of this item should be taken into account. On the other
+hand, visual field deficits can also be noticed when a child is
+crawling or creeping. Moreover, in the remaining children, only
+24 of them scored this item.
+Ventral stream problems were not assessed by the parents to
+occur very often, despite the fact that half of our patients scored
+positive on the L94, a test primarily relying on object recognition
+abilities, which is a ventral stream characteristic. Dorsal stream
+problems are indeed reported on more frequently in the literature, probably due to a more protracted development of this
+stream or due to its localization [6]. Our study concerns a subgroup of children with CVI, with performance age over 2 ¾ years
+and an even older calendar age in most cases. We could hypothesize that, by this age, ventral stream problems are less overtly
+present and therefore less well recognized by parents. Another
+explanation could be that we have included children with less
+serious PWMD and thus less ventral stream problems. However,
+half of the group had PWMD and CP, with no diﬀerence in frequency profile of the positive items on the questionnaire. Since
+we analyzed the questionnaire data in comparison with the L94,
+we could assume that the questionnaire particularly provides
+information on everyday object recognition impairment. However, as L94 impairment is very specific for CVI, we can expect
+other aspects of CVI to be present as well in case of a positive
+questionnaire. Moreover, in the first part of the analysis, the
+questionnaire also demonstrated predictive value for deficits in
+visuospatial cognition.
+Of course, although this statistical model showed a good utility
+of the questionnaire overall, we wanted to focus on practical
+applicability. First of all – although the questionnaire contains
+46 items – it takes only 5–10 min for the parent to fill out the
+questionnaire, due to the simplicity of the instructions. However, scoring of the questionnaire, should also be easy and quick.
+Therefore, in a second part, further analyses were undertaken,
+using easier obtainable sum scores and focusing on the results of
+the L94. These analyses showed that the sum score based on the
+sum of the 6 domains, was the best predictor among the easyobtainable scores. The newly defined sum score, based on the
+most predictive items, yielded the best results.
+The findings of these analyses can be implemented in diﬀerent
+ways, depending on the clinical question. In one example, we
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+Original Article 143
+
+
+[page 7]
+144 Original Article
+
+Limitations
+▼
+Although the sample size for the analysis of the total L94 and the
+VP subtask of the VMI was large enough for reliable findings, the
+number of subjects in the subgroup tested with the TVPS-R, was
+smaller. A larger number of subjects would however have added
+to the predictive value of the TVPS-R results .
+The approach, based on the selection of individual items, led to
+a large number of explanatory variables, among which some
+may be redundant. Future research should therefore include a
+factor analysis of the questionnaire [24]. In addition to revealing
+the redundancy of items, it would enable us to construct new
+clusters.
+We are aware of the fact that a selection bias might be present in
+our data due to the fact that our CVI clinic is a tertiary referral
+centre, located in the central part of Flanders. By distributing the
+revised questionnaire to the diﬀerent CVI centres in Flanders,
+repeated samples in diﬀerent regions of Flanders will be taken,
+enabling us to also study reliability of the questionnaire, thereby
+counteracting this possible bias [4, 5]. Also, in a revised version,
+interrater reliability as well as intrarater reliability will be
+assessed. The validation of a revised version in a new population
+is then the next important step.
+
+Conclusion
+▼
+The results of our study suggest that the CVI questionnaire is a
+viable tool with good screening utility that has the potential of
+being implemented as part of a routine screening procedure in
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+the outpatient clinics of primary ophthalmologists and paediatricians and, for example, in schools for special education. In a
+child with a disability, the questionnaire can complement the
+physical examination, to decide on the usefulness of referring
+the child for formal CVI testing.
+Aﬃliations
+Paediatric Neurology Department, University Hospitals of the Catholic
+University of Leuven, Leuven, Belgium
+2
+Interuniversity Centre for Biostatistics and Statistical Bioinformatics,
+Catholic University of Leuven and Hasselt University, Leuven, Belgium
+3
+Paediatric Ophthalmology Department, University Hospitals of the Catholic
+University of Leuven, Belgium
+4
+Centrum Ganspoel, Centre for the support of children and adults with a
+visual impairment, Huldenberg, Belgium
+5
+Campus De Markgrave, Rehabiliation unit of the Ophthalmology
+Department, Middelheim Hospital, Antwerp, Belgium
+1
+
+References
+1 Akaike H. A new look at the statistical model identification. IEEE
+Transactions on Automatic Control 1974; 19: 716–723
+2 Beery K. The Beery-Buktenica Developmental Test of Visual-Motor
+Integration: VMI with Supplemental Developmental Tests of Visual
+Perception and Motor Coordination: Administration, Scoring and
+Teaching Manual. Parsippany, NJ: Modern Curriculum Press, 1997
+3 Borsboom D, Mellenbergh GJ, van Heerden J. The theoretical status of
+latent variables. Psychol Rev 2003; 110: 203–219
+4 Boynton PM, Greenhalgh T. Hands-on guide to questionnaire research
+selecting, designing and developing your questionnaire. BMJ 2004;
+328: 1312–1315
+5 Boynton PM. Hands-on guide to questionnaire research administering,
+analyzing and reporting your questionnaire. BMJ 2004; 328: 1372–1375
+6 Braddick O, Atkinson J, Wattam-Bell J. Normal and anomalous development of visual motion processing, motion coherence and ‘dorsal stream’ vulnerability. Neuropsychologia 2003; 43: 1769–1784
+7 Bunce C, Womald R. Causes of blind certifications in England and
+Wales: April 1999 – March 2000. Eye 2007; 1–7
+8 Carlon S, Shields N, Yong K et al. A systematic review of the psychometric properties of quality of life measures for school aged children
+with cerebral palsy. BMC Paediatrics 2010; 10: 81
+9 Dutton GN. Cognitive vision, its disorders and diﬀerential diagnosis
+in adults and children: knowing where and what things are. Eye 2003;
+17: 289–304
+10 Dutton GN, Jacobson LK. Cerebral visual impairment in children.
+Semin Neonat 2001; 6: 477–485
+11 Edmond JC, Foroozan R. Cortical visual impairment in children. Curr
+Opin Ophthalmol 2006; 17: 509–512
+12 Eng J. Receiver operating characteristic analysis: a primer. Acad
+Radiol 2005; 12: 909–916
+13 Evensen KA, Lindqvist S, Indredavik MS et al. Do visual impairments
+aﬀect risk of motor problems in preterm and term low birth weight
+adolescents? Eur J Paediatr Neurol 2009; 13: 47–56
+14 Fazzi E, Bova S, Giovenzana A et al. Cognitive visual dysfunctions in
+preterm children with periventricular leukomalacia. Dev Med Child
+Neurol 2009; 51: 974–981
+15 Fazzi E, Bova SM, Uggetti C et al. Visual-perceptual impairment in
+children with periventricular leukomalacia. Brain Dev 2004; 26:
+506–512
+16 Gardner MF. TVPS-R: Test of visual-perceptual skills (non-motor) –
+Revised, Psychological and Educational Publication, Inc, San Francisco.
+1996
+17 Goodale MA, Milner AD. Separate visual pathways for perception and
+action. Trends in Neuroscience 1992; 15: 20–25
+18 Hart H. Cognitive and perceptual visual impairment: recognition and
+intervention. Dev Med Child Neurol 2010; 52: 1075
+19 Houliston MJ, Taguri AH, Dutton GN et al. Evidence of cognitive visual
+problems in children with hydrocephalus: a structured clinical history-taking strategy. Dev Med Child Neurol 1999; 41: 298–306
+20 Krägeloh-Mann I, Horber V. The role of magnetic resonance imaging
+in elucidating the pathogenesis of cerebral palsy: a systematic review.
+Dev Med Child Neurol 2007; 49: 144–151
+21 Malkowicz DE, Myers G, Leisman G. Rehabilitation of cortical visual
+impairment in children. Int J Neurosci 2006; 116: 1015–1033
+22 McCulloch DL, Mackie RT, Dutton GN et al. A visual skills inventory for
+children with neurological impairments. Dev Med Child Neurol 2007;
+49: 757–763
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+could imagine that we want to have a very quick screening of
+children, for example, in regular schools at the time of a periodical health-care evaluation. The last model, in which a newly
+defined sum score is defined based on the sum of individual
+items, could be the best to use in this situation. By asking 7 simple questions, one would quickly achieve an idea of the risk for
+visual perceptual problems in a child. In this case, a sum score of
+3 would be able to diagnose L94 impairment correctly in 85 % of
+cases. On the other hand, if 2 of the questions score positive, the
+sensitivity increases to 76.7 % with only a slight decrease in specificity.
+In other circumstances, where more time is available, one could
+choose for the other option, in which a sum score of the domains
+has to be made. This would give us more information about the
+behavioural features of the child, while still providing a good
+sensitivity and specificity profile, depending on the cut-oﬀ we
+choose. For example, if a child scores a 1 in 4 domains, the corresponding values for sensitivity and specificity are 83.3 and
+47.1, respectively. Although we would misdiagnose about 50 % of
+children, we would be 83.3 % sure not to miss any.
+In the 2 parts of our analyses, the best models chosen, were
+always based on the selection of individual items and not on the
+predefined domains and subdomains. Models evaluating clusters of items did not yield a more predictive model. A first visual
+inspection of the distribution of answers on the diﬀerent
+domains in children with and without CVI, confirms this finding.
+This finding could argue against a good clustering of items (even
+against the concept of ventral and dorsal?) and calls for a further
+in depth analysis of the clustering of the individual items of the
+questionnaire.
+
+
+[page 8]
+Original Article 145
+
+26 Surveillance of cerebral palsy in Europe: a collaboration of cerebral
+palsy surveys and registers, Surveillance of Cerebral Palsy in Europe
+(SCPE). Surveillance of Cerebral Palsy in Europe. Dev Med Child Neurol 2000; 42: 816–824
+27 Torrioli MG, Frisone MF, Bonvini L et al. Perceptual-motor, visual and
+cognitive ability in very low birth weight preschool children without
+neonatal ultrasound abnormalities. Brain Dev 2000; 22: 163–168
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+23 Norris M, Lecavalier L. Screening accuracy of Level 2 Autism spectrum
+disorder rating scales. A review of selected instruments. Autism 2010;
+14: 263–284
+24 Norris M, Lecavalier L. Evaluating the use of exploratory factor analysis in developmental disability psychological research. J Autism Dev
+Disord 2010; 40: 8–20
+25 Ortibus E, Lagae L, Casteels I et al. Assessment of cerebral visual impairment with the L94 visual perceptual battery: clinical value and correlation with MRI findings. Dev Med Child Neurol 2009; 51: 209–217
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+
+[page 9]
+146 Original Article
+Appendix
+▼
+Name :
+Date of Birth :
+Tel :
+Date questionnaire filled:
+
+CVI Questionnaire
+
+1.
+
+VISUAL ATTITUDE
+
+1.
+2.
+3.
+4.
+
+FIXATION
+Absent eye contact
+Cannot focus on persons nor objects
+Tilts head to look at objects
+Often stares at light sources (lights, open windows)
+
+5.
+6.
+7.
+8.
+
+VISUAL FIELD
+Falls frequently over clearly visible objects
+Does not find his toy when he drops it
+Bumps easily into something
+Pays attention only to objects in the centre of his visual field
+
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+VISUAL ATTENTION
+Cannot keep looking at objects or persons
+Attention is fluctuating from moment to moment and from day to day
+Abandons his play activity quickly
+Needs more time than you’d expect to look at an object
+Does not look spontaneously at an object, does not explore the room spontaneously
+Needs encouragement to look at an object, explore the room
+More toys perturb visual attention
+Objects are looked at from a short distance
+Sits right in front of the television
+
+INFLUENCE FAMILIAR ENVIRONMENT
+18. Scared or restless in unfamiliar environment (shop, street,..)
+19. Does not find his/her parents when they stand further away
+20. Clings to parents in an unfamiliar environment
+2.
+
+VENTRAL STREAM
+
+22. Does not recognize everyday objects such as an apple, bike, house, ball,…
+23. Recognizes familiar objects only when they are drawn in color
+24. Recognizes persons rather by listening to their voice, watching their posture than by
+looking at their faces
+25. Does not understand facial expressions (mad, sad, glad,..)
+26. Does not find his way to the classroom, in his house (familiar environments)
+3.
+
+DORSAL STREAM
+
+27. Does not see level differences (stairs,..)
+28. Cannot take the chocolate spread from the breakfast table without difficulty
+29. Looks away when he takes the chocolate spread from the table
+30. Has no interest for simple pictures
+31. Has no interest for complex pictures
+32. Looks only at details of a picture
+33. Cannot find his teddy bear (or equal) amongst other cuddly animals
+34. Does not find the chocolate spread on the table
+35. Does not find/recognize familiar persons in a crowd
+36. Cannot estimate distances
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+Tick the boxes that apply to your child
+
+
+[page 10]
+Original Article 147
+
+4.
+
+COMPLEX PROBLEMS
+
+37. Clumsy in: cutting, building stacks, tying shoelaces, making puzzles
+38. A moving object/person attracts more attention than a stationary one
+5.
+
+OTHER SENSES
+
+39. Reacts faster to sound than to visual stimuli
+40. Manipulates an object rather than to look at it
+41. Always puts objects, toys in his mouth
+6.
+
+ASSOCIATED CHARACTERISTICS
+
+42. Cannot play memory games
+43. Stops activity when there is too much to look at (eg in a busy environment)
+44. Is generally anxious
+45. Does not do his best for tasks for which he needs to look carefully
+46. I often wonder: does he not want to look at things or is he not able to?
+
+Downloaded by: University of Pittsburgh. Copyrighted material.
+
+47. He tries to compensate by talking a lot
+
+Ortibus E et al. Screening for Cerebral Visual … Neuropediatrics 2011; 42: 138–147
+

@@ -1,0 +1,1196 @@
+[page 1]
+Received: 18 April 2025
+
+| Accepted: 23 August 2025
+
+DOI: 10.1111/dmcn.70005
+
+ORIGINAL ARTICLE
+
+Preverbal visual assessment for screening cerebral visual
+impairment: Diagnostic accuracy and clinical utility
+Karen L. Harpster1,2,3
+| Terry L. Schwartz4,5 | Alaina Johnson6
+Li Lin3 | Melissa L. Rice4,5
+
+| Reena Donofe1 |
+
+1
+
+Division of Occupational Therapy and
+Physical Therapy, Cincinnati Children's
+Hospital Medical Center, Cincinnati, OH,
+USA
+
+2
+
+Department of Pediatrics, College of
+Medicine, University of Cincinnati,
+Cincinnati, OH, USA
+
+3
+
+Division of Patient Services Research,
+Cincinnati Children's Hospital Medical
+Center, Cincinnati, OH, USA
+
+4
+Division of Pediatric Ophthalmology,
+Cincinnati Children's Hospital Medical
+Center, Cincinnati, OH, USA
+5
+
+Department of Ophthalmology, College
+of Medicine, University of Cincinnati,
+Cincinnati, OH, USA
+6
+
+Department of Occupational Therapy,
+College of Health and Human Services,
+Northern Kentucky University, Highland
+Heights, KY, USA
+Correspondence
+Karen Harpster, Division of Occupational
+Therapy and Physical Therapy, Cincinnati
+Children's Hospital Medical Center, 3430
+Burnet Avenue, MLC 4007, Cincinnati, OH,
+45229, USA.
+Email: karen.harpster@cchmc.org
+
+Abstract
+Aim: To evaluate the relationship between Preverbal Visual Assessment (PreViAs)
+results and cerebral visual impairment (CVI) diagnosis.
+Method: This single-center retrospective chart review included children who
+completed a CVI interdisciplinary clinic or occupational therapy vision evaluation
+between May 2018 and May 2023 and had a completed PreViAs. Data were extracted
+from the electronic medical record. Data analysis included sensitivity, specificity,
+area under the curve, and Fisher's exact test.
+Results: Of the 205 charts screened, 98 met study criteria (81 with CVI, 17
+without); ages ranged from 3 to 50 months. The mean age of children with CVI
+was 15.41 months (SD = 8.93) and without was 13.24 months (SD = 5.98). Among
+the PreViAs domains, visual processing showed the highest frequency of concern
+(CVI = 94%; non-­CVI = 76%), while visual attention had the lowest (CVI = 72%; non-CVI = 41%). Visual processing demonstrated the highest sensitivity (93.8%), whereas
+visual attention showed the best balance of sensitivity (71.6%) and specificity (58.8%).
+Area under the curve ranged from 0.59 to 0.66. All domains demonstrated significant
+differences between children with and without CVI (Fisher's exact test, p < 0.05).
+Interpretation: Effective screening tools are critical for detection of CVI. The
+PreViAs is a sensitive screening tool in children at high risk for CVI. Children with
+concerns on the PreViAs should be referred for an interdisciplinary CVI evaluation.
+
+Cerebral visual impairment (CVI) is the most common cause
+of bilateral visual impairment in children in high-­income
+countries.1 CVI is a neurological condition caused by damage or malformation to the areas of the brain responsible for
+processing visual information before, during, or shortly after
+birth.2,3 The most common etiologies of CVI include periventricular leukomalacia, congenital brain malformations,
+hypoxic–ischemic encephalopathy, intraventricular hemorrhage, and preterm birth.4–6 CVI can also result from genetic
+or metabolic disorders, central nervous system infections,
+and traumatic brain injuries. CVI commonly co-­occurs with
+other neurological conditions and developmental disorders,
+
+such as cerebral palsy, with as many as 60% to 70% of children
+with cerebral palsy also having CVI.7 Additionally, seizures
+are a prevalent co-­occurring disorder, affecting up to 50% of
+children with CVI.8 This strong evidence linking common
+conditions to an increased risk of CVI makes a compelling
+argument for proactive CVI screening to enable early intervention and educational accommodations to improve developmental outcomes.9
+The presence of CVI can negatively impact development,
+including cognition, language, and motor skills.9,10 CVI
+is a heterogeneous condition with varying levels of severity and symptoms depending on the degree of neurological
+
+Abbreviations: AOC, area of concern; CVI, cerebral visual impairment; MON, continue to monitor; PreViAs, Preverbal Visual Assessment.
+This is an open access article under the terms of the Creative Commons Attribution-­NonCommercial-­NoDerivs License, which permits use and distribution in any medium,
+provided the original work is properly cited, the use is non-­commercial and no modifications or adaptations are made.
+© 2025 The Author(s). Developmental Medicine & Child Neurology published by John Wiley & Sons Ltd on behalf of Mac Keith Press.
+688
+
+|
+
+wileyonlinelibrary.com/journal/dmcn
+	﻿
+
+Dev Med Child Neurol. 2026;68:688–695.
+
+
+[page 2]
+impairment and the presence of comorbid developmental
+conditions. Children with CVI may experience difficulties
+recognizing colors, shapes, and reading, leading to delayed
+learning.11,12 They may struggle with visual attention, tracking moving objects, and processing visual stimuli, particularly
+in crowded or unfamiliar settings.9,13 This can make certain
+environments, like classrooms, feel visually overwhelming.
+Children with CVI learn new information differently from
+those without CVI. Typically developing children learn by
+observing their surroundings, interacting with people, and
+exploring visually, much of which happens through incidental
+learning, where knowledge is gained unintentionally during
+everyday activities and interactions. In contrast, children with
+CVI often depend on other senses, such as touch and hearing,
+to compensate for their impaired functional vision. Children
+with CVI require more targeted instruction and guidance for
+most aspects of learning, motor exploration, and social interactions.14,15 Therefore, early screening and detection of CVI is
+crucial for timely, targeted interventions that maximize neuroplasticity and improve overall quality of life.15
+Although the prevalence of CVI is increasing, CVI is often
+not diagnosed until preschool age or later.16 Late diagnosis
+leads to missed opportunities for vision-­specific, early intervention services.17 A validated caregiver questionnaire is essential for effective CVI screening to enable earlier detection
+and diagnosis. CVI screening helps clinicians understand who
+should undergo a more comprehensive, interdisciplinary CVI
+evaluation.18,9 The Preverbal Visual Assessment (PreViAs) is
+a caregiver screening questionnaire used to describe observations of visual behaviors of infants 24 months developmental
+age and under across four domains: visual attention, visual
+communication, visual motor coordination, and visual processing.18 Using a sample of 220 infants, the PreViAs developed age-­dependent cut-­off scores to identify infants with
+delayed visual maturation. It has been validated in children
+aged 2 to 24 months.19 To date, the PreViAs has not been tested
+as a screening tool for infants at high risk for CVI. Therefore,
+the study aimed to evaluate the relationship between PreViAs
+results and CVI diagnosis using retrospective data. The ethics
+board at our institution approved this study (IRB 2014–6879).
+
+M ET HOD
+Study design
+A retrospective study design was employed at a US pediatric
+academic medical center.
+
+Participants
+Participants at high-­risk for CVI were included in the study
+if they (1) completed a diagnostic CVI evaluation between
+May 2018 and May 2023 in a CVI interdisciplinary clinic
+or an outpatient occupational therapy evaluation of functional vision, and (2) the caregiver completed a PreViAs
+
+   
+
+| 689
+
+What this paper adds
+• The Preverbal Visual Assessment (PreViAs)
+is a sensitive screening tool for cerebral visual
+impairment.
+• Failed PreViAs should be defined as any domain
+scoring area of concern or continue to monitor,
+prompting referral for comprehensive evaluation.
+
+questionnaire. Children were considered at high risk for CVI
+if they had a medical diagnosis (e.g. seizures, periventricular leukomalacia) or exhibited visual symptoms typically
+associated with CVI. Some children over 24 months were
+included in the study because clinicians determined, based
+on developmental age and preverbal status, that the PreViAs
+was the most appropriate screener.
+
+Data abstraction
+Charts were identified based on specific visit types used to
+schedule children in the CVI interdisciplinary clinic and/
+or for an occupational therapy functional vision evaluation.
+PreViAs data were extracted through a report run from
+an electronic medical record based on the CVI visit types.
+The data were verified by two reviewers (KH, RD). The
+first PreViAs was used if participants had more than one.
+Additionally, demographic data, including sex, age at the
+time of PreViAs completion, CVI diagnosis status, date CVI
+diagnosis was given, and the primary medical conditions
+associated with increased CVI risk, were collected. The
+interval between PreViAs administration and confirmation
+of CVI diagnosis was recorded. CVI diagnosis status and
+date were extracted from ophthalmology clinical notes.
+Formal and informal evaluations were administered by
+an ophthalmologist/optometrist, occupational therapist,
+teacher of students with visual impairment, and orientation
+and mobility specialist. CVI diagnosis was based on the
+following criteria: (1) medical history consistent with
+injury to the posterior visual pathway (developmental and
+birth history, neuroimaging findings); (2) CVI screening
+questionnaire (PreViAs) or visual history consistent with
+CVI; (3) identified visual function impairment (e.g. visual
+acuity, contrast sensitivity) not attributed to anterior visual
+pathway abnormalities (except for mild optic atrophy); and
+(4) presence of visual perception/functional vision deficit.
+
+Measures
+Preverbal Visual Assessment (PreViAs)
+The PreViAs is a caregiver questionnaire developed to
+screen visual maturation in children up to 24 months
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PREVERBAL VISUAL ASSESSMENT FOR SCREENING CEREBRAL VISUAL IMPAIRMENT:
+DIAGNOSTIC ACCURACY AND CLINICAL UTILITY
+
+
+[page 3]
+|   
+
+HARPSTER et al.
+
+developmental age.18 It consists of 30 yes/no questions, divided into four domains: visual attention, visual communication, visual motor coordination, and visual processing.
+For scoring, 1 point is given for each visual behavior demonstrated, with a potential overall score of 30. The maximum
+scores for each domain are as follows: visual attention is 11,
+visual communication is 5, visual motor coordination is 13,
+and visual processing is 20. The PreViAs has validated age-dependent cut-­off scores for each domain, categorizing each
+child into one of three concern categories: no concern, continue to monitor (MON), or area of concern (AOC).19
+
+Fisher's exact test with the Freeman–Halton extension was
+used to analyse the effect of each of the four PreViAs domain
+outcomes on CVI diagnosis. Odds ratios with 95% confidence intervals were reported. Area under the curve, sensitivity, and specificity analyses were calculated. Wilcoxon
+rank-­sum tests were used to compare PreViAs outcomes between children with and without CVI within each age group
+(0–12 months, 13–24 months, and 25+ months). Data analysis was conducted using SAS statistical software, version 9.4
+(SAS Institute, Cary, NC, USA). The two-­sided significance
+level for all analyses was set at 0.05.
+
+Statistical analysis
+
+R E SU LT S
+
+Descriptive statistics were used to describe the sample demographics and outcome measures. Categorical variables
+were summarized using frequencies and percentages,
+while interval variables were described using measures of
+central tendency and dispersion. CVI diagnosis was coded
+as yes/no; PreViAs domains were coded as positive = yes,
+negative = no.
+
+Of the 205 charts reviewed, 98 were included in this study.
+Charts were excluded if they had incomplete or missing
+PreViAs data (107, 52%). Demographic data for all included
+charts is in Table 1. Eighty-­one children (83%) received a CVI
+diagnosis, with only 17 (17%) not diagnosed with CVI. The
+mean age of participants with CVI at the time of PreViAs completion was 15.41 months (SD = 8.93, range = 2–50 months)
+
+TA BL E 1
+
+Demographics (n = 98).
+
+Age at PreViAs completion (months)
+
+CVI diagnosis n = 81 Mean (SD)
+
+No CVI diagnosis n = 17 Mean (SD)
+
+Entire cohort (CVI = 81, no CVI = 17)
+
+15.41 (8.93)
+
+13.24 (5.98)
+
+0–12 months (CVI = 41, no CVI = 10)
+
+8.59 (2.31)
+
+9.00 (2.62)
+
+13–24 months (CVI = 28, no CVI = 6)
+
+18.18 (2.65)
+
+18.33 (2.73)
+
+25+ months (CVI = 12, no CVI = 1)
+
+32.25 (6.34)
+
+29 (0)
+
+Sex
+
+n (%)
+
+n (%)
+
+Male
+
+50 (62)
+
+11 (65)
+
+Female
+
+31 (38)
+
+6 (35)
+
+CVI diagnosis n = 81
+
+No CVI diagnosis n = 17
+
+Conditions at risk for CVI (examples of conditions
+within the category)a
+
+n (%)
+
+History of seizures n (%)
+
+n (%)
+
+History of
+seizures n (%)
+
+Brain injury (IVH, hydrocephalus, TBI, stroke)
+
+30 (37)
+
+10 (33)
+
+6 (35)
+
+–
+
+Genetic condition (BBSOAS, CHARGE syndrome,
+Kabuki syndrome, gene mutation)
+
+22 (27)
+
+7 (23)
+
+4 (23.5)
+
+2 (67)
+
+Hypoxic/ischemic (HIE, anoxic brain injury, placental
+abruption)
+
+11 (13.5)
+
+5 (17)
+
+–
+
+–
+
+Congenital structural abnormalities of the brain (brain
+malformation, schizencephaly, gray matter heterotopia)
+
+6 (7)
+
+2 (7)
+
+2 (12)
+
+–
+
+Seizures—unexplained
+
+3 (4)
+
+3 (10)
+
+1 (6)
+
+1 (33)
+
+Intrauterine drug exposure
+
+3 (4)
+
+–
+
+1 (6)
+
+–
+
+Unknown
+
+3 (4)
+
+–
+
+1 (6)
+
+–
+
+Central nervous system infection (congenital or
+acquired) (neonatal group B strep meningitis, congenital
+CMV, perinatal HSV encephalitis)
+
+3 (4)
+
+3 (10)
+
+–
+
+–
+
+Anterior pathway disease
+
+–
+
+–
+
+2 (12)
+
+–
+
+Total
+
+81
+
+30
+
+17
+
+3
+
+Abbreviations: BBSOAS, Bosch-­Boonstra-­Schaaf Optic Atrophy syndrome; CMV, cytomegalovirus; CVI, cerebral visual impairment; HIE, hypoxic–ischemic
+encephalopathy; HSV, herpes simplex virus; IVH, intraventricular hemorrhage; PreViAs, Preverbal Visual Assessment; TBI, traumatic brain injury.
+a
+Not a comprehensive list of conditions within categories.
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+690
+
+
+[page 4]
+and 13.24 months (SD = 5.98, range = 4–25 months) without
+CVI. Additionally, participants were categorized into three
+groups based on age when the PreViAs was completed. The
+primary condition putting each participant at higher risk for
+CVI was identified (Table 1). These conditions were grouped
+into nine categories and reported based on CVI diagnosis
+status. The most frequent CVI high-­risk condition was brain
+injury, and the second most frequent was genetic. A history of seizures was common in our sample. Children with
+seizures primarily associated with genetic conditions were
+categorized into the genetic category. Children with unexplained seizures were grouped into a separate category for
+seizures.
+The PreViAs scores for participants with and without
+CVI are reported by domain in Table 2. The three levels of
+TA BL E 2
+
+   
+
+concern (AOC, MON, and no concern) are reported independently by domains, as well as with AOC and MON combined to represent an overall level of concern. Mean scores
+of the four PreViAs domains were also calculated by age
+group (0–12 months, 13–24 months, 25+ months) and are
+presented in Table 3. The mean differences were significant
+in the PreViAs between groups (with and without CVI) for
+all domains in participants aged 0 to 12 months. For those
+aged 13 to 24 months, only visual communication and visual
+attention were statistically different. None of the mean differences were significant in the 25+ months group.
+To understand the level of concern (AOC alone or
+AOC + MON) that should prompt further evaluation, sensitivity and specificity of the PreViAs were evaluated using
+two analyses (Tables 4 and 5). When concern was defined
+
+Frequency of concern on PreViAs by diagnosis status.
+
+CVI n = 81
+
+No CVI n = 17
+
+CVI n = 81
+No CVI n = 17
+
+Visual communication n (%)
+
+Visual motor coordination
+n (%)
+
+Visual processing n (%)
+
+Visual
+attention
+n (%)
+
+AOC
+
+41 (51)
+
+42 (52)
+
+45 (56)
+
+32 (40)
+
+MON
+
+27 (33)
+
+30 (37)
+
+31 (38)
+
+26 (32)
+
+NONE
+
+13 (16)
+
+9 (11)
+
+5 (6)
+
+23 (28)
+
+AOC
+
+8 (47)
+
+6 (35)
+
+7 (41)
+
+3 (18)
+
+MON
+
+2 (12)
+
+5 (29)
+
+6 (35)
+
+4 (23.5)
+
+NONE
+
+7 (41)
+
+6 (35)
+
+4 (23.5)
+
+10 (59)
+
+AOC + MON
+
+68 (84)
+
+72 (89)
+
+76 (94)
+
+58 (72)
+
+NONE
+
+13 (16)
+
+9 (11)
+
+5 (6)
+
+23 (28)
+
+AOC + MON
+
+10 (59)
+
+11 (65)
+
+13 (76)
+
+7 (41)
+
+NONE
+
+7 (41)
+
+6 (35)
+
+4 (24)
+
+10 (59)
+
+Abbreviations: AOC, area of concern; CVI, cerebral visual impairment; MON, area to monitor; NONE, no concern; PreViAs, Preverbal Visual Assessment.
+
+TA BL E 3
+
+Mean (SD) PreViAs scores by age group and CVI status, with Wilcoxon rank-­sum test results and effect sizes (r).
+Visual motor coordination
+Mean (SD)
+
+Visual processing Mean
+(SD)
+
+Visual
+attention
+Mean (SD)
+
+Age group
+
+Diagnosis
+
+Visual communication
+Mean (SD)
+
+0–12 months
+
+CVI (n = 41)
+
+1.8 (1.5)
+
+2.9 (2.19)
+
+3.2 (2.36)
+
+6.1 (2.89)
+
+13–24 months
+
+25+ months
+
+| 691
+
+No CVI (n = 0)
+
+3.0 (1.8)
+
+5.4 (3.05)
+
+5.9 (4.65)
+
+8.9 (2.98)
+
+p (r)
+
+p = 0.042a
+(r = 0.28)
+
+p = 0.011a
+(r = 0.37)
+
+p = 0.025a
+(r = 0.32)
+
+p = 0.007a
+(r = 0.40)
+
+CVI (n = 28)
+
+2.7 (1.53)
+
+5.5 (2.72)
+
+6.4 (3.4)
+
+8.4 (2.22)
+
+No CVI (n = 6)
+
+3.8 (1.47)
+
+7.7 (3.14)
+
+9.5 (5.01)
+
+9.7 (2.42)
+
+p (r)
+
+p = 0.048a
+(r = 0.25)
+
+p = 0.090
+(r = 0.20)
+
+p = 0.113
+(r = 0.18)
+
+p = 0.048a
+(r = 0.25)
+
+CVI (n = 12)
+
+3.0 (1.91)
+
+7.2 (4.17)
+
+9.7 (5.55)
+
+8.4 (2.64)
+
+No CVI (n = 1)
+
+4.0 (0)
+
+7.0 (0)
+
+9.0 (0)
+
+11.0 (0)
+
+p (r)
+
+p = 0.890
+(r = 0.04)
+
+p = 0.784
+(r = 0.08)
+
+p = 1.000
+(r = 0.00)
+
+p = 0.334
+(r = 0.27)
+
+Note: Effect size (r) interpretation: small = 0.10, medium = 0.30, large = 0.50.
+The p-­values for the 25+ months group should be interpreted with caution. The extremely small sample size (n = 1) in the no CVI group limits the statistical power and
+increases the risk of small sample bias.
+Abbreviations: AOC, area of concern; CVI, cerebral visual impairment; MON, area to monitor; NONE, no concern; PreViAs, Preverbal Visual Assessment.
+a
+Statistical significance at p < 0.05.
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PREVERBAL VISUAL ASSESSMENT FOR SCREENING CEREBRAL VISUAL IMPAIRMENT:
+DIAGNOSTIC ACCURACY AND CLINICAL UTILITY
+
+
+[page 5]
+|   
+
+HARPSTER et al.
+
+T A B L E 4 Sensitivity, specificity, AUC, and OR (95% CI) by visual domain when concern is defined as AOC only (no concern + MON vs AOC) for all
+study participants (n = 98; CVI-­positive = 81, CVI-­negative = 17).
+Domain
+
+Sensitivity (95% CI)
+
+Specificity (95% CI)
+
+AUC (95% CI)
+
+pa
+
+OR (95% CI)
+
+Visual communication
+
+50.6% (39.8, 61.4)
+
+52.9% (31.0, 73.8)
+
+0.52 (0.39, 0.65)
+
+1.15 (0.40, 3.29)
+
+1.00
+
+Visual motor coordination
+
+51.9% (41.0, 62.6)
+
+64.7% (41.4, 82.7)
+
+0.58 (0.46, 0.70)
+
+1.97 (0.67, 5.85)
+
+0.29
+
+Visual processing
+
+55.6% (44.7, 65.9)
+
+58.8% (36.0, 78.4)
+
+0.57 (0.45, 0.69)
+
+1.79 (0.62, 5.16)
+
+0.30
+
+Visual attention
+
+39.5% (29.6, 50.3)
+
+82.4% (59.0, 93.8)
+
+0.61 (0.49, 0.73)
+
+3.05 (0.81, 11.46)
+
+0.10
+
+Abbreviations: AOC, area of concern; AUC, area under the curve; CI, confidence interval; CVI, cerebral visual impairment; MON, continue to monitor; OR, odds ratio.
+a
+p-­values from Fisher's exact test.
+
+T A B L E 5 Sensitivity, specificity, AUC, and OR (95% CI) by visual domain when concern is defined as AOC + MON (no concern vs AOC + MON) for
+all study participants (n = 98; CVI-­positive = 81, CVI-­negative = 17).
+Domain
+
+Sensitivity (95% CI)
+
+Specificity (95% CI)
+
+AUC (95% CI)
+
+OR (95% CI)
+
+pa
+
+Visual communication
+
+84.0% (74.5, 90.3)
+
+41.2% (21.6, 64.0)
+
+0.63 (0.51, 0.75)
+
+3.66 (1.18, 11.38)
+
+0.041b
+
+Visual motor coordination
+
+88.9% (80.2, 94.1)
+
+35.3% (17.3, 58.7)
+
+0.62 (0.50, 0.74)
+
+4.36 (1.30, 14.67)
+
+0.022b
+
+Visual processing
+
+93.8% (86.2, 97.4)
+
+23.5% (9.6, 47.3)
+
+0.59 (0.47, 0.71)
+
+4.68 (1.11, 19.75)
+
+0.046b
+
+Visual attention
+
+71.6% (61.0, 80.3)
+
+58.8% (36.0, 78.4)
+
+0.65 (0.53, 0.77)
+
+3.60 (1.22, 10.61)
+
+0.023b
+
+Abbreviations: AOC, area of concern; AUC, area under the curve; CI, confidence interval; CVI, cerebral visual impairment; MON, continue to monitor; OR, odds ratio.
+a
+p-­values from Fisher's exact test.
+b
+Statistically significant at p < 0.05.
+
+F I G U R E 1 Frequency of Preverbal Visual Assessment scores by visual domain for children with and without cerebral visual impairment (CVI).
+Abbreviations: AOC, area of concern; MON, continue to monitor.
+
+as AOC alone, the sensitivity and specificity of the PreViAs
+by domain were lower than when concern was defined as
+AOC + MON. Fisher's exact test was not significant for any
+domain of the PreViAs using AOC alone but was significant
+for visual communication, visual motor coordination, and
+visual attention when combining AOC + MON. The area
+under the curve values ranged from 0.52 to 0.61 for AOC
+alone and 0.59 to 0.65 for AOC + MON, both exhibiting
+wide confidence intervals. Based on sensitivity and specificity findings, concern should be defined as AOC + MON,
+as the model is more robust. Therefore, for the remainder of
+the results, AOC and MON are combined to represent the
+level of concern.
+
+Figure 1 illustrates the distribution of PreViAs scores
+across the four visual domains, comparing children with
+and without CVI by level of concern (AOC + MON). The
+visual processing domain had the highest frequency of concern for children with CVI (n = 76, 94%) and without CVI
+(n = 13, 76%). Conversely, visual attention had the lowest frequency of concern for both groups, with 58 children (72%)
+with CVI and seven children (41%) without CVI.
+The timing of the administration of the PreViAs and confirmation of CVI diagnosis varied. For children diagnosed
+with CVI, the PreViAs was administered before the diagnosis in 21 (26%) cases, after the diagnosis in 39 (48%) cases,
+and on the same day as the diagnosis in 21 (26%) cases.
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+692
+
+
+[page 6]
+DISC US SION
+Early screening tools with high sensitivity and specificity
+are crucial for detecting CVI. To our knowledge, this is
+the first study to explore the relationship between PreViAs
+results and CVI diagnosis. Our group utilized retrospective
+data to gain a preliminary understanding of the utility
+of the PreViAs as a screening tool within this population.
+Our preliminary data suggest that the PreViAs effectively
+identifies children who would benefit from a CVI diagnostic
+evaluation, warranting further prospective studies.
+As anticipated, our data showed that the PreViAs questionnaire is sensitive in detecting CVI in young children
+with concern. We hypothesized that AOC alone would
+be the most sensitive model; however, combining levels of
+concern (AOC + MON) demonstrated the highest sensitivity. Our results demonstrated that the PreViAs can differentiate young children with CVI from those without CVI.
+These findings are similar to previous studies demonstrating that the PreViAs differentiated between delayed visual
+maturation and typically developing individuals.19 Our data
+indicates that all children screened using the PreViAs and
+scoring as AOC or MON in any domain should be referred
+for a comprehensive CVI diagnostic evaluation. Based on the
+results of this study, our institution has modified its clinical
+screening approach to refer all children who exhibit any level
+of concern on the PreViAs for a CVI evaluation.
+Screening tools are developed to detect conditions such
+as CVI and other pediatric eye disorders early in life, before
+clinical signs become apparent or are recognized by clinicians. Screening aims to promote early detection and minimize the risk of missed diagnoses. Most screening tools
+maximize sensitivity to identify all individuals with a specific condition to refer them for further evaluation. High
+sensitivity of the PreViAs questionnaire ensures that fewer
+children with CVI are missed, facilitating timely interventions for optimal developmental outcomes. Early evaluations
+are preferable to avoid late diagnoses and missed intervention opportunities. Lower specificity of CVI screening tools
+can result in over-­referral of individuals who are unlikely to
+have CVI. Since the primary aim of CVI screeners is identifying and referring children for additional testing, higher
+sensitivity is favored, even at the expense of specificity.
+When examining the PreViAs results across all visual
+domains for children with CVI, our findings show that the
+frequency of concern and highest sensitivity were observed
+for the visual processing domain (94%, 93.8%), followed by
+visual motor coordination (89%, 88.9%), visual communication (84%, 84%), and visual attention (72%, 71.6%) respectively. A significant portion of our sample exhibit various
+brain abnormalities, potentially resulting in impaired visual attention.20,21 Visual attention is an early, foundational
+visual skill that underlies participation in daily activities.
+For children with CVI, there are multiple factors that can
+negatively affect visual attention, including visual fatigue,
+sensory environment, activity familiarity, and environmental clutter.10,22 Although we suspected that visual attention
+
+   
+
+| 693
+
+would be the domain with the highest frequency of concern,
+we were surprised to find that it had the lowest frequency
+and sensitivity; however, it demonstrated the most favorable
+balance between sensitivity and specificity, making it a crucial domain for early screening.
+For successful, early screening of CVI, a questionnaire
+should be short, understandable, and easy to administer in a
+busy setting. The PreViAs questionnaire, with 30 simple yes/
+no questions, is a clinically useful tool for early CVI detection. It can be completed electronically or on paper, making
+it accessible for caregivers. It is feasible to use in high-­risk
+settings, such as neonatal intensive care unit follow-­up clinics, and applies to children who are developmentally aged
+24 months and under who may be at risk for CVI. Studies
+show strong internal consistency across its visual domains,
+ensuring its reliability.18,23 Alternative methods for early
+screening of vision impairment, primarily used in inpatient
+settings and requiring direct interaction with young children, may be more challenging to implement in busy, outpatient clinical settings.24,25 Caregiver questionnaires offer
+several advantages over screeners that require direct administration, including convenience, time efficiency, accessibility, and cost-­effectiveness. Future studies should compare the
+PreViAs results with direct administration vision screening
+tools to understand the correlations between the two.
+We divided our participants into three smaller age groups
+to explore whether there were group differences (CVI vs non-CVI) in the mean scores of PreViAs. Formal analysis was
+completed for all groups (0–12 months, 13–24 months, and
+25+ months). Our results showed meaningful differences between groups in all PreViAs domains in the 0-­to 12-­month
+group (CVI vs non-­CVI), whereas only two domains (visual
+communication and visual attention) were statistically different in the 13-­to 24-­month group and no domains in the
+25+ months group. It should be noted that the 25+ months
+group had a small sample size (CVI = 12 vs no CVI = 1) and
+statistically low power so results should be interpreted with
+caution. These findings align with those of Kim et al., who
+used the PreViAs to evaluate visual maturation in typically
+developing term infants 2 years of age and under to establish
+normative scores by domain.26 They reported that the maturation age of certain visual perceptual skills occurred later
+in the second year of life. Specifically, the visual motor coordination domain matured at 24 months and visual processing at 21 months. This might explain why the visual motor
+coordination and visual processing domains were not statistically different in our study's 13-­to 24-­month group. The
+visual perceptual skills that Kim et al. reported maturing in
+the first year of life were visual attention at 6 months and
+visual communication at 12 months.26 These data support
+our results in that visual attention and visual communication were significant in both the 0-­to 12-­month and 13-­to
+24-­month groups. It may be easier for caregivers to notice
+delays in visual attention and visual communication during
+the first 12 months since these domains mature earlier. Since
+visual motor coordination and visual processing mature
+later and visual delays may be masked by the development
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PREVERBAL VISUAL ASSESSMENT FOR SCREENING CEREBRAL VISUAL IMPAIRMENT:
+DIAGNOSTIC ACCURACY AND CLINICAL UTILITY
+
+
+[page 7]
+|   
+
+of mobility and language skills, deficits in these areas may
+be harder for caregivers to detect. Another study used magnetic resonance imaging data collected at term-­adjusted age
+to show that white matter tracts in infants born preterm
+were associated with PreViAs scores collected between 3-and 4-­months corrected age.27 These findings support our
+results that early detection of CVI is possible within the
+first year of life. The clinical implication of our findings in
+combination with previous studies support that the PreViAs
+screener may be most accurate in detecting CVI in the first
+year of life, especially focusing on the domains of visual attention and visual communication. However, more data are
+needed utilizing a larger, prospective cohort to verify these
+findings.
+It is important to note in this study the PreViAs was
+administered as part of a CVI evaluation in children who
+were referred because of concern for CVI or who had an
+existing diagnosis of CVI. As such, the PreViAs was used
+to characterize visual development rather than as a stand-alone screening tool. It was typically completed within 1 to
+6 months after a CVI diagnosis or as part of the CVI diagnostic evaluation. However, as shown in our data (Table 1),
+many children in our study had identifiable conditions,
+putting them at higher risk for CVI early in life. This suggests that the PreViAs could be tested prospectively as a
+true CVI screening tool in future studies for children with
+high-­r isk conditions. Caregivers of children with diagnoses known to increase the risk for CVI could complete the
+PreViAs early in life to ascertain if more comprehensive
+diagnostic CVI testing is warranted. This approach would
+allow for a more accurate determination of the sensitivity
+and specificity of the PreViAs within a broader, high-­r isk
+population. Interestingly, the PreViAs was completed for
+two children with minimal risk for CVI. These children
+were ultimately diagnosed with anterior visual pathway
+disease and not brain-­based visual impairment. Of note,
+the PreViAs appropriately screened these children as negative for CVI.
+The PreViAs screening questionnaire demonstrated clinical usefulness in our study. Limitations of this study include
+the retrospective nature of this study and small sample size
+at a single institution. Our data exhibited wide 95% confidence intervals for several odds ratios which likely reflect
+the small sample size and limited number of non-­CVI cases
+(especially in the 25+ months group). Our findings are preliminary and should be confirmed in larger, higher-­powered
+studies. Additionally, this study was exploratory in nature
+with the primary objective to identify potential associations;
+therefore, we did not apply formal multiple testing adjustments (e.g. Bonferroni, Holm) to control for the family-­w ise
+error rate. Therefore, our findings should be interpreted with
+caution as they may have increased risk of type one error inherent in exploratory analysis and should be confirmed in
+larger, prospective studies.
+Our sample was derived from children who were referred
+for a CVI evaluation; therefore our sample was skewed toward those who received a diagnosis of CVI. Additionally,
+
+HARPSTER et al.
+
+the PreViAs was completed as a part of the CVI evaluation,
+not as a true screener. Future studies should recruit young
+children with co-­occurring medical conditions commonly
+associated with CVI to capture a broader, high-­risk population to evaluate the PreViAs as a true screening tool. This
+approach would allow for a better understanding of the
+sensitivity and specificity of the PreViAs in a wider, high-risk demographic. Future prospective studies should also
+evaluate the PreViAs as a function of age and CVI severity.
+Despite these limitations, the findings from this study can
+be generalized to young children with comorbid medical diagnosis that put them at higher risk for CVI.
+
+C ONC LUSIONS
+This study is the first to evaluate the PreViAs screening
+questionnaire among children with suspected CVI. Our
+results provide preliminary evidence that the PreViAs is a
+sensitive screening tool for detecting CVI early in life. Our
+data shows that children who score in the AOC or MON
+categories on any visual domain of the PreViAs should be
+monitored closely and referred for a comprehensive CVI
+evaluation for early diagnosis.
+Although this study is limited by its retrospective design
+and small sample size skewed toward CVI diagnoses, it is the
+first study to explore the relationship between the PreViAs
+and CVI diagnosis. Future studies should prospectively
+utilize the PreViAs as a screening tool in a broader, high-risk group of children with medical conditions commonly
+associated with CVI. Future prospective studies should also
+examine the correlation between the PreViAs and other
+measures of vision function and functional vision.
+AC K NOW L E D GE M E N T S
+The authors have no conflicts of interest to report. There is
+no funding to report for this study.
+DATA AVA I L A BI L I T Y S TAT E M E N T
+The data that support the findings of this study are available
+from the corresponding author upon reasonable request.
+ORC I D
+Karen L. Harpster https://orcid.org/0000-0003-1677-6367
+Alaina Johnson https://orcid.org/0009-0009-3721-2318
+Melissa L. Rice https://orcid.org/0000-0002-6165-7976
+R EFER ENCES
+1. Philip SS, Dutton GN. Identifying and characterising cerebral visual impairment in children: a review. Clinical and Experimental
+Optometry 2014; 97: 196–208.
+2. Chorna OD, Guzzetta A, Maitre NL. Vision assessments and interventions for infants 0–2 years at high risk for cerebral palsy: a systematic review. Pediatric neurology 2017; 76: 3–13.
+3. Martín MB, Santos-­Lozano A, Martín-­Hernández J, López-­Miguel A,
+Maldonado M, Baladrón C, Bauer CM, Merabet LB. Cerebral versus
+ocular visual impairment: the impact on developmental neuroplasticity. Frontiers in psychology 2016; 7: 1958.
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+694
+
+
+[page 8]
+4. Chang MY, Borchert MS. Advances in the evaluation and management of cortical/cerebral visual impairment in children. Survey of
+ophthalmology 2020; 65: 708–24.
+5. Ferziger NB, Nemet P, Brezner A, Feldman R, Galili G, Zivotofsky
+AZ. Visual assessment in children with cerebral palsy: implementation of a functional questionnaire. Developmental Medicine & Child
+Neurology 2011; 53: 422–8.
+6. Macintyre-­Béon C, Young D, Dutton GN, Mitchell K, Simpson J,
+Loffler G, Bowman R, Hamilton R. Cerebral visual dysfunction in
+prematurely born children attending mainstream school. Documenta
+Ophthalmologica 2013; 127: 89–102.
+7. Philip SS, Guzzetta A, Chorna O, Gole G, Boyd RN. Relationship
+between brain structure and cerebral visual impairment in children
+with cerebral palsy: A systematic review. Research in developmental
+disabilities 2020; 99: 103580.
+8. Mohapatra M, Rath S, Agarwal P, Singh A, Singh R, Sutar S, Sahu
+A, Maan V, Ganesh S. Cerebral visual impairment in children:
+Multicentric study determining the causes, associated neurological
+and ocular findings, and risk factors for severe vision impairment.
+Indian Journal of Ophthalmology 2022; 70: 4410–5.
+9. Ortibus E, Laenen A, Verhoeven J, De Cock P, Casteels I,
+Schoolmeesters B, Buyck A, Lagae L. Screening for cerebral visual
+impairment: value of a CVI questionnaire. Neuropediatrics 2011; 42:
+138–47.
+10. Bennett RG, Tibaudo ME, Mazel EC. Implications of cerebral/cortical visual impairment on life and learning: insights and strategies
+from lived experiences. Frontiers in Human Neuroscience 2025; 18:
+1496153.
+11. Dhiman S, Saini SK, Chaurasia S, Duggal M, Miglani V, Raj S. A
+pilot nurse-­led tele-­counseling intervention to parents of children
+with cerebral visual impairment on adherence to eye activities
+during COVID-­19 pandemic: a pre-­experimental study. Frontiers in
+Medicine 2022; 8: 740265.
+12. Schraauwers R, van Genderen M, Bals I, Dekker-Pap M, Pilon-Kamsteeg F, Vancleef K. A qualitative exploration of the early signs of
+cerebral visual impairment in preschool children. 2020.
+13. Williams C, Pease A, Warnes P, Harrison S, Pilon F, Hyvarinen L,
+West S, Self J, Ferris J, Group CPS. Cerebral visual impairment-related vision problems in primary school children: a cross-­sectional
+survey. Developmental Medicine & Child Neurology 2021; 63: 683–9.
+14. Choi KY, Wong HY, Cheung HN, Tseng JK, Chen CC, Wu CL, Eng
+H, Woo GC, Cheong AMY. Impact of visual impairment on balance
+and visual processing functions in students with special educational
+needs. Plos one 2022; 17: e0249052.
+15. Lee J, Kim M-­G, Park H-­Y, Nam KE, Park JH. Visual assessment
+of preterm and full-­term infants under the age of 12 months using
+the Preverbal Visual Assessment questionnaire. Early Human
+Development 2021; 153: 105289.
+16. Ortibus E, Fazzi E, Dale N. Cerebral visual impairment and clinical
+assessment: the European perspective. Seminars in pediatric neurology: Elsevier; 2019. 15–24.
+
+   
+
+| 695
+
+17. Bauer C, Lueck AH. CVI Interventions: A Call to Action in the United
+States. 2024; 118: 379–85.
+18. Pueyo V, García-­Ormaechea I, González I, Ferrer C, de la Mata G,
+Duplá M, Orós P, Andres E. Development of the Preverbal Visual
+Assessment (PreViAs) questionnaire. Early human development
+2014; 90: 165–8.
+19. García-Ormaechea I, González I, Duplá M, Andres E, Pueyo V.
+Validation of the Preverbal Visual Assessment (PreViAs) questionnaire. Early human development 2014; 90: 635–8.
+20. Chokron S, Dutton GN. Impact of cerebral visual impairments on
+motor skills: implications for developmental coordination disorders.
+Frontiers in psychology 2016; 7: 1471.
+21. Chokron S, Kovarski K, Dutton GN. Cortical visual impairments and
+learning disabilities. Frontiers in Human Neuroscience 2021; 15.
+22. Hokken MJ, Krabbendam E, van der Zee YJ, Kooiker MJ. Visual selective attention and visual search performance in children with CVI,
+ADHD, and Dyslexia: a scoping review. Child Neuropsychology 2023;
+29: 357–90.
+23. Özdereli Z, Sayın M, Kurt ANÇ. The utility and reliability of the
+PreViAs questionnaire for the assessment of vision in Turkish neonates and infants. Arch Argent Pediatr 2023: e202310085.
+24. Ricci D, Romeo DM, Gallini F, Groppo M, Cesarini L, Pisoni S,
+Serrao F, Papacci P, Contaldo I, Perrino F. Early visual assessment
+in preterm infants with and without brain lesions: correlation with
+visual and neurodevelopmental outcome at 12 months. Early human
+development 2011; 87: 177–82.
+25. Rossi A, Gnesi M, Montomoli C, Chirico G, Malerba L, Merabet
+LB, Fazzi E, Group NS. Neonatal assessment visual European
+grid (NAVEG): unveiling neurological risk. Infant Behavior and
+Development 2017; 49: 21–30.
+26. Kim E, Lee J, Park H-­Y, Lee J, Kim M-­G, Park JH. Visual development
+of healthy full-­term infants under 24 months of age using the preverbal visual assessment questionnaire. Developmental Neuroscience
+2022; 44: 39–48.
+27. Chandwani R, Harpster K, Kline JE, Mehta V, Wang H, Merhar SL,
+Schwartz TL, Parikh NA. Brain microstructural antecedents of visual
+difficulties in infants born very preterm. NeuroImage: Clinical 2022;
+34: 102987.
+
+How to cite this article: Harpster KL, Schwartz TL,
+Johnson A, Donofe R, Lin L, Rice ML. Preverbal visual
+assessment for screening cerebral visual impairment:
+Diagnostic accuracy and clinical utility. Dev Med Child
+Neurol. 2026;68:688–695. https://doi.org/10.1111/
+dmcn.70005
+
+14698749, 2026, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dmcn.70005, Wiley Online Library on [04/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PREVERBAL VISUAL ASSESSMENT FOR SCREENING CEREBRAL VISUAL IMPAIRMENT:
+DIAGNOSTIC ACCURACY AND CLINICAL UTILITY
+

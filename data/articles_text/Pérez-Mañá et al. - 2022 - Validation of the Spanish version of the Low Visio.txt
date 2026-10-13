@@ -1,0 +1,1515 @@
+[page 1]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+Journal of Optometry xxx (xxxx) xxx---xxx
+
+www.journalofoptometry.org
+
+ORIGINAL ARTICLE
+
+Validation of the Spanish version of the Low Vision
+Quality of Life Questionnaire
+Luis Pérez-Mañá a , Genis Cardona b,∗ , Yolanda Pardo-Cladellas c,d ,
+Clara Pérez-Mañá e,f , Jaume Amorós-Martínez g , Luis González-Sanchís h ,
+James S. Wolffsohn i , Alfonso Antón a,h,j
+a
+
+Ophthalmology Unit, Hospital de la Esperanza, MAR Health Park, Barcelona, Spain
+Department of Optics and Optometry, Universitat Politècnica de Catalunya, Terrassa, Spain
+c
+Heath Services Research Unit, Hospital del Mar Medical Research Institute (IMIM), Barcelona, Spain
+d
+Department of Psychiatry and Forensic Medicine, Universitat Autònoma de Barcelona, Barcelona, Spain
+e
+Clinical Pharmacology Unit, Hospital Universitari Germans Trias i Pujol (HUGTP-IGTP), Badalona, Spain
+f
+Department of Pharmacology, Therapeutics and Toxicology, Universitat Autònoma de Barcelona, Barcelona, Spain
+g
+Universitat Oberta de Catalunya, Spain
+h
+Institut Català de la Retina, Barcelona, Spain
+i
+Optometry and Vision Sciences, Aston University, Birmingham, UK
+j
+Universitat Internacional de Catalunya, Barcelona, Spain
+b
+
+Received 17 August 2020; accepted 27 January 2021
+
+KEYWORDS
+Low vision;
+Quality of life;
+Psychometric
+properties;
+Patient reported
+outcomes;
+Validation;
+Generalized Partial
+Credit Model;
+Item response theory
+
+Abstract
+Purpose: To validate the Spanish Low Vision Qualify of Life (SLVQOL) questionnaire, a quality
+of life instrument speciﬁcally designed for patients with visual impairment, and evaluate its
+psychometric properties.
+Methods: The study included 170 visually impaired patients and 195 healthy subjects. Participants were administered the SLVQOL, the NEI VFQ-25, and the EQ 5D-5L questionnaires.
+Reliability, test---retest reproducibility, feasibility, and construct validity of the SLVQOL were
+assessed. The Generalized Partial Credit Model was used to ﬁt the data and the performance
+of each item was characterized using category response curves and item information.
+Results: The reliability of the SLVQOL was 0.981 (95% CI: 0.978---0.985). Test---retest reproducibility was good (␳ = 0.864, P < .001). A cut-off point of 105 or 106 was optimal to detect
+visual impairment, with a sensitivity of 95.4% and a speciﬁcity of 91.8%. Construct validity was
+shown by the corresponding convergence or divergence correlations between the score of the
+SLVQOL and its dimensions and the overall and partial scores of the NEI VFQ-25 and the EQ 5D5L. Item response theory analysis showed discrimination and information parameters ranging
+from 0.539 to 3.063 and from −1.894 to 1.074, respectively.
+
+∗ Corresponding author at: Genis Cardona Department of Optics and Optometry, Universitat Politècnica de Catalunya, Violinista Vellsolà,
+
+37, E08222, Terrassa, Spain.
+E-mail address: genis.cardona@upc.edu (G. Cardona).
+https://doi.org/10.1016/j.optom.2021.01.004
+1888-4296/© 2021 Spanish General Council of Optometry. Published by Elsevier España, S.L.U. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Please cite this article as: L. Pérez-Mañá, G. Cardona, Y. Pardo-Cladellas et al., Validation of the Spanish version of the
+Low Vision Quality of Life Questionnaire, Journal of Optometry, https://doi.org/10.1016/j.optom.2021.01.004
+
+
+[page 2]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+L. Pérez-Mañá, G. Cardona, Y. Pardo-Cladellas et al.
+Conclusion: The SLVQOL was able to quantitatively assess and identify differences in the quality
+of life among patients with visual impairment and normal subjects. The evaluated psychometric
+properties suggest that this tool has excellent validity, internal consistency, and reproducibility,
+but may beneﬁt from a reduction of the number of items.
+© 2021 Spanish General Council of Optometry. Published by Elsevier España, S.L.U. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+Introduction
+
+response theory (IRT) was employed to investigate item
+discrimination and information. Indeed, IRT, and Rasch psychometric assessments in general, are currently considered
+superior to Classical Test Theory (CTT) based methods, but
+may provide a more complex interpretative challenge to
+some clinicians. Therefore, the most signiﬁcant results from
+CTT and IRT analyses are presented. The score of the Spanish LVQOL in this sample of patients was compared with that
+of a non-vision speciﬁc questionnaire (EQ 5D-5L) and with
+that of a vision-related, generic instrument (NEI VFQ-25), to
+allow testing for construct validity in terms of convergence,
+as well as divergence relationships.
+
+With a progressively ageing population, the prevalence of
+blindness and visual impairment has increased worldwide
+in the recent decades.1 Vision loss and visual impairment
+have been associated with conditions such as age-related
+macular degeneration, diabetic retinopathy, myopia, glaucoma, or cataracts, which are more prevalent in developing
+countries.2,3 Visual care providers specialized in low vision
+commonly evaluate distant and near visual acuity, reading
+speed, comfortable reading time and ﬂuidity, and contrast
+sensitivity.4 These measurements, however, do not provide
+information regarding the actual perception of patients
+of their conditions or their limitation to perform daily life activities, which may present notable discrepancies as
+assessed by clinical tests.5,6 Patient reported outcomes are
+essential to improve communication between patients and
+professionals, and to assess the effectiveness of current and
+future treatments. Improving or maintaining the quality of
+life of patients should be the objective of any treatment.
+Hence their opinion and perspective should be considered
+when deciding an appropriate treatment.
+Since the 1980s, there has been a rapid proliferation of new quality of life instruments and a ﬂourishing
+literature on patient reported outcomes in the ﬁeld of
+vision and ocular health. Vision-related quality of life
+has been assessed with non-vision speciﬁc questionnaires
+such as the EuroQol Research Foundation EQ 5D-5L,7 with
+generic instruments developed to cover multiple common
+vision threatening conditions that include the National Eye
+Institute Visual Function Questionnaire (NEI VFQ-25)8 or
+with questionnaires designed speciﬁcally for patients with
+selected conditions.9---16 Other researchers have developed
+tools to assess quality of life of patients with low vision.17---20
+The LVQOL, developed in English by Wolffsohn and Cochrane
+in 2000,20 is currently one of the most widely used questionnaires by researchers in the ﬁeld of low vision. It has
+been translated to and validated in Chinese,21 Thai,22 and
+Turkish.23 Recently, it has also been translated into Spanish by some of the authors of this manuscript following the
+methodology proposed by the International Society for Pharmacoeconomics and Outcomes.24,25
+The aim of the present study was to validate the Spanish version of the LVQOL in a sample of patients with
+vision impairment, and a control group of healthy subjects,
+and thereby assess its psychometric properties in terms of
+reliability, validity and feasibility. In addition, the contribution of individual items to the measurement of the latent
+trait (vision related qualify of life) was assessed and item
+
+Material and methods
+A quantitative, cross-sectional, and multicentre study was
+conducted on participants attending a public hospital and a
+private clinic in Barcelona.
+
+Subjects
+A total of 365 consecutive patients participated in the
+study in order to replicate the original work of Wolffsohn
+and Cochrane.20 The study populations were recruited from
+patients attending ophthalmologic consultation at Hospital
+de la Esperanza, Parc de Salut Mar, a public hospital in
+Barcelona (n = 257) and from Institut Català de la Retina----a
+private ophthalmology clinic located in Barcelona (n = 108).
+Patients from both groups were included in the study if
+they had stable visual parameters, deﬁned by the absence of
+a clinically signiﬁcant change in visual acuity (less than 0.1
+logMAR) in the last six months. Patients with visual impairment were included in the study if their best-corrected
+distance visual acuity in the best eye was equal or inferior to 0.30 logMAR or 0.52 logMAR when recruited from
+a public hospital or a private clinic, respectively. Healthy
+patients from both institutions were included if they exhibited a best-corrected distance visual acuity equal or superior
+to 0.10 logMAR in the worst eye. According to the criteria set
+by International Classiﬁcation of Diseases (ICD-10)26 and the
+Organización Nacional de Ciegos Españoles (ONCE), patients
+from the visual impairment group were classiﬁed as those
+with mild visual impairment (best-corrected visual acuity in
+the best eye equal or inferior to 0.30 logMAR and superior to
+0.52 logMAR), those having low vision (values equal or inferior to 0.52 logMAR and superior to 1.00 logMAR), or those
+who have legal blindness (values equal or inferior to 1.00
+logMAR).
+
+2
+
+
+[page 3]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+Journal of Optometry xxx (xxxx) xxx---xxx
+
+This study was conducted in accordance with the latest
+version of the Declaration of Helsinki, following approval of
+the ethical review board of the Parc de Salut Mar and the
+Research Commission of the Institut Català de la Retina. A
+signed informed consent was obtained from all the participants, prior to their enrolment in the study.
+
+health status). The validated Spanish version of the EQ 5D-5L
+was used in this study.29
+
+Methodology
+Patients underwent a complete anamnesis, an optometric, and an ophthalmological examination (visual acuity,
+slit-lamp examination, intraocular pressure assessment and
+fundus examination under dilation). The sociodemographic
+and visual information documented for the purpose of
+this study included age, sex, highest achieved educational
+level, living status (whether patients lived alone), and best corrected distance visual acuity of the best and worst eye.
+Patients from the public hospital sub-sample responded to
+three questionnaires (SLVQOL, NEI VFQ-25 and EQ 5D-5L)
+administered in a random order through a telephone interview. Patients from the private clinic completed the SLVQOL
+alone during a face-to-face interview. In addition, to evaluate the test---retest reproducibility of SLVQOL, this tool was
+re-administered to 119 patients with visual impairment at
+the public hospital approximately 15 days after the ﬁrst
+administration. Only responses from patients providing a
+negative answer to the question ‘‘Has your vision changed
+since you completed the ﬁrst questionnaire?’’ were included
+in the reproducibility analysis (n = 73).
+
+Questionnaires
+Three different quality of life questionnaires were administered: the LVQOL, the NEI VFQ-25 and the EQ 5D-5L.
+The LVQOL questionnaire consists of 25 items grouped in
+four dimensions----Far vision, mobility, and lighting, including elements such as ‘‘to watch television (distinguishing
+images),’’ Adaptation, comprising of elements such as
+‘‘unhappy with your situation in life,’’ Reading and precision
+work, that includes items such as ‘‘to read labels (for example, medicine containers),’’ and Activities of daily life,
+composed of items such as ‘‘to read your own letter.’’20,27
+The response options range from 0 to 5 (5 steps) with 0 indicating that the patient can no longer perform the activity
+due to their vision impairment, and 5 denoting the absence
+of sight-related difﬁculty with the task. Patients may also
+mark a task as ‘‘N/A’’ on the questionnaire implying that
+it is not performed for non-vision related reasons. A single
+overall score is obtained by adding the numerical score for
+each answer in the items (an answer marked as N/A is allocated the average score of the questionnaire to avoid bias
+of the results) and ranges between 0 and 125. The recent
+Spanish translation of this questionnaire (SLVQOL) was used
+in this study.24
+Despite a certain lack of consensus, the NEI VFQ-25 is
+currently considered the gold standard in the ﬁeld of vision
+by many researchers.8 It was developed from various vision
+related functional groups, including patients with glaucoma,
+macular degeneration, cataracts, and other pathologies,
+with the aim of obtaining a universal tool that could be
+employed in all patients with a visual deﬁcit regardless of
+cause. In its original version (NEI-VFQ), this instrument consisted of 51 items, currently reduced to 25 items, grouped in
+13 dimensions that include General health, General vision,
+Ocular pain, Near vision, Distance vision, Vision-speciﬁc
+social functioning, Vision-speciﬁc mental health, Expectations for visual function, Vision-speciﬁc role functioning,
+Dependency due to vision, Driving, Peripheral vision, and
+Color vision. A score may be obtained for vision-related
+quality of life for each of the dimensions ranging from 0
+(worst) to 100 (best), and an overall score can also be calculated. The validated Spanish version of the NEI VFQ-25
+was used in this study.28
+The EQ 5D-5L is a general health econometric instrument widely used in population surveys, including the
+National Health Survey in Spain, the Catalan Health Survey, and the English National Health Service, to monitor the
+impact of certain pathologies.7 It explores ﬁve dimensions
+(Mobility, Self-care, Usual activities, Pain/discomfort, and
+Anxiety/depression) at ﬁve graded levels ranging from ‘‘no
+problem in that dimension to ‘‘extreme problems.’’ It also
+includes a ﬁnal question with a Visual Analogue Scale in
+which patients must rate their current health status from
+0 (worst imaginable health status) to 100 (best imaginable
+
+Statistical analysis
+The IBM Statistical Package for the Social Sciences (SPSS)
+Statistics v.25 (IBM Corp. NY, US), Stata/IC v.13.1 (Stata Corp
+LLC, TX, US), and R v.3.5.1 (R Foundation for statistical computing, Vienna, Austria) were used for statistical
+analysis. For statistical purposes, visual acuity outcomes
+were transformed from decimal notation to logMAR (2 logMAR corresponded to being able to count ﬁngers at two
+feet; 3 logMAR corresponded to being able to detect hand
+movement at two feet). The Shapiro-Wilk test was used
+to test the normality of the quantitative numerical data
+recorded for the assessed parameters. Sociodemographic
+and clinical data of the whole sample and of each subsample was presented as absolute and relative frequencies,
+mean ± standard deviation (SD), or range when appropriate. For inferential statistics, the Student’s t-test was used
+for quantitative variables. When normality could not be
+assumed, the corresponding nonparametric test was performed. For categorical variables, the Chi-squared test or
+the Fisher’s exact test was used based on the fulﬁlment of
+the criteria for the use of these tests. Receiver operating
+curve (ROC) analysis was used to determine the optimal cutoff point to deﬁne visual impairment in terms of sensitivity
+and speciﬁcity.
+The reliability of the SLVQOL was estimated from
+the whole sample using the Cronbach’s alpha, and the
+test---retest reproducibility was determined by employing
+the Spearman correlation coefﬁcient () analysis. Construct validity was investigated through correlation analysis
+between clinical and/or sociodemographic variables, the
+scores of each of the dimensions of the SLVQOL, and between
+the results of the SLVQOL and those of the other two questionnaires.
+3
+
+
+[page 4]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+L. Pérez-Mañá, G. Cardona, Y. Pardo-Cladellas et al.
+
+Sample size was determined using the freely
+available online sample size and power calculator
+GRANMO (v7.12, April 2012; https://www.imim.cat/
+ofertadeserveis/software-public/granmo/; last accessed
+September 2019). An LVQOL score of 100.3 ± 20.8
+(mean ± SD) was deﬁned as derived from previous research
+ﬁndings on healthy patients,20 and a change of 10% or
+more was assumed in patients with visual impairment.
+Thus, a minimum sample size of 126 participants from each
+group was determined, considering a type I error of 0.05
+(alpha) and a statistical power of 80% (1-beta). P < .05 was
+considered as the cut-off point of statistical signiﬁcance.
+As noted above, the LVQOL was originally intended as
+a single dimension questionnaire providing an overall score
+from the summation of partial item scores. On that premise,
+the translated SLVQOL was considered a mono-dimensional
+scale and item response theory (IRT) analysis was employed
+to determine the contribution of individual items to the
+measurement of the latent trait (deﬁned as the dependent variable vision related qualify of life). Firstly, factor
+analysis was used to estimate the degree of association
+of items with the latent trait, considering acceptable values those over 0.4.30 Secondly, a Generalized Partial Credit
+Model (GPCM)31 was used to evaluate item discrimination
+capacities, that is, measurement quality, category response
+thresholds (to assess monotonicity or uniformity), as well
+as item information. The GPCM was ﬁtted to the data via
+maximum likelihood estimation using the mirt package for
+R.32 Model ﬁt was assessed using Zh and S---X2 goodness-of-ﬁt
+statistics, calculated in mirt.33 Brieﬂy, the Zh index is a normalized measure of the likelihood of obtained responses to
+an item and it approximately follows a normal distribution,
+with values ranging from −1 to 1. In addition, an S---X2 P < .05
+is indicative of poor ﬁt. Finally, Category Response Curves
+(CRCs), which describe the probability of observing a particular response as a function of the latent trait (in this case,
+questionnaire score on vision related quality of life), and
+item information plots, were generated with mirt to reﬂect
+the ﬁtted model parameters.
+
+expected, given the inclusion criteria, patients from the
+private clinic had characteristically higher educational levels and more severe forms of visual impairment than those
+recruited from the public hospital. Patients with visual
+impairment showed a signiﬁcantly lower educational level
+than healthy subjects (P < .001).
+Patients with visual impairment had dry (25.3%, n = 43) or
+exudative (32.9%, n = 56) age-related macular degeneration,
+cataracts (28.2%, n = 48), glaucoma (11.2%, n = 19), diabetic retinopathy (8.8%, n = 15) or other pathologies (12.9%,
+n = 22). Table 2 shows the visual function of study subjects
+belonging to both groups represented as the geometric mean
+of the best-corrected distance visual acuity of the best
+and worst eyes (in logMAR notation). A statistically signiﬁcant difference in visual function was observed between the
+visual impairment group and the healthy group in the entire
+study population and also by considering the two recruitment centres separately (P < .001 for all).
+Table 3 depicts the overall score of the SLVQOL, as well
+as the score of each of the four dimensions of the instrument, split by visual health status and by recruitment. All
+SLVQOL scores (overall and for each dimension) were signiﬁcantly lower in the visual impairment group than in the
+healthy group (P < .001 for all). As a whole, patients with
+visual impairment had a SLVQOL score of 66.9 ± 23.2, which
+was 50 points lower than the score of 117.2 ± 6.7 in the
+healthy group. Of the four dimensions of the SLVQOL, the
+largest difference between groups was detected for Reading and precision work, followed by Activities of daily life.
+Questionnaire scores in the public hospital sub-sample were
+signiﬁcantly higher than those obtained from the private
+clinic setting (P < .001 for all), except for the dimension
+Reading and precision work. In general, patients from the
+private clinic reported poorer levels of quality of life,
+related to lower visual acuity and higher level of visual
+impairment. The outcomes of the NEI VFQ-25 and the EQ
+5D-5L are provided as supplementary material.
+The average SLVQOL score obtained by patients with
+visual impairment according to their classiﬁcation into
+mild visual impairment, low vision and legal blindness is
+presented in Table 4 and shown in Fig. 1. A not statistically signiﬁcant tendency for higher quality of life was
+found in patients with mild visual impairment than those
+with low vision (score difference of 6.86, P = .09). In contrast, patients with low vision had a signiﬁcantly higher
+SLVQOL score than those with legal blindness (score difference of 10.94, P = .006). Similarly, patients with mild
+visual impairment obtained a signiﬁcantly higher score than
+those classiﬁed as legally blind (score difference of 17.81,
+P < .001).
+Statistically signiﬁcant moderate correlations were
+observed between best-corrected distance visual acuity
+of the best (r = −0.404, P < .001) and worst (r = −0.406,
+P < .001) eyes, with the SLVQOL score of patients with visual
+impairment. The highest correlation between visual acuity and SLVQOL scores (r = −0.473, P < .001) was obtained
+when considering the weighted arithmetic mean of the best corrected visual acuity of both eyes (75% best eye and 25%
+worst eye). ROC analysis revealed a cut-off score of 105
+or 106 as optimal for the classiﬁcation of visually impaired
+patients and healthy subjects, with a sensitivity of 95.4%
+and a speciﬁcity of 91.8%.
+
+Results
+The study sample from the public hospital included 119
+patients (46.3%) with visual impairment and 138 healthy
+subjects (53.7%) as a control group, whereas the sample
+from the private clinic comprised of 51 patients (47.2%)
+with visual impairment and 57 healthy subjects (52.8%). The
+sociodemographic characteristics of the 365 patients who
+completed the SLVQOL are shown in Table 1 and are classiﬁed based on the centre of recruitment, and the visual
+health status. The age of the patients was 78.8 ± 10.0 years
+(mean ± SD) for the visual impairment group (n = 170) of
+whom 47.7% were men and 52.3% were women. For the
+group of healthy participants, the mean age was 68.7 ± 11.5
+years (n = 195) and comprised of 42.1% men and 57.9%
+women. The gender distribution was similar between both
+groups (P > .05). Patients with visual impairment were signiﬁcantly older than the healthy patients (P < .001). Of all
+patients with visual impairment, 32.4% (n = 55) were classiﬁed as having mild visual impairment, 38.8% (n = 66) as
+having low vision, and 28.8% (n = 49) as legally blind.25 As
+4
+
+
+[page 5]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+Journal of Optometry xxx (xxxx) xxx---xxx
+
+Table 1 Demographic characteristics of the visual impairment and healthy groups based on recruitment centre (public hospital
+and private clinic).
+Public hospital
+
+n
+Mild visual impairment
+Low vision
+Legal blindness
+Age (years)
+Signiﬁcance
+Male
+Female
+Signiﬁcance
+Without studies
+Elementary school
+High school
+University or higher
+Signiﬁcance
+Lives alone
+Does not live alone
+Signiﬁcance
+
+Private clinic
+
+Overall
+
+Visual impairment
+
+Control
+
+Visual impairment
+
+Control
+
+Visual impairment
+
+Control
+
+119 (46.3)
+48 (40.3)
+46 (38.7)
+25 (21.0)
+79.0 ± 8.1
+P < .001
+56 (47.1)
+63 (52.9)
+P > .05
+35 (29.4)
+67 (56.3)
+11 (9.2)
+6 (5.1)
+P < .001
+39 (32.8)
+80 (67.2)
+P < .001
+
+138 (53.7)
+
+51 (47.2)
+7 (13.7)
+20 (39.2)
+24 (47.1)
+78.4 ± 13.5
+P < .001
+25 (49.0)
+26 (51.0)
+P > .05
+8 (15.7)
+24 (47.1)
+11 (21.5)
+8 (15.7)
+P < .001
+9 (17.6)
+42 (82.4)
+P < .001
+
+57 (52.8)
+
+170 (46.6)
+55 (32.4)
+66 (38.8)
+49 (28.8)
+78.8 ± 10.0
+P < .001
+81 (47.7)
+89 (52.3)
+P > .05
+43 (25.3)
+91 (53.5)
+22 (12.9)
+14 (8.3)
+P < .001
+48 (28.2)
+122 (71.8)
+P < .001
+
+195 (53.4)
+
+73.2 ± 5.6
+59 (42.8)
+79 (57.2)
+15 (10.9)
+68 (49.3)
+26 (18.8)
+29 (21)
+36 (26.1)
+102 (73.9)
+
+57.8 ± 14.6
+23 (40.4)
+34 (59.6)
+1 (1.8)
+6 (10.5)
+21 (36.8)
+29 (50.9)
+8 (14.0)
+49 (86.0)
+
+68.7 ± 11.5
+82 (42.1)
+113 (57.9)
+16 (8.3)
+74 (37.9)
+47 (24.1)
+58 (29.7)
+44 (22.6)
+151 (77.4)
+
+Categorical variables are expressed as number (%) and continuous numerical variables are expressed as mean ± standard deviation.
+Student’s t-test was conducted for continuous numerical variables and the Chi square test and the Fisher’s exact test for categorical
+variables. P < 0.05 was considered statistically signiﬁcant.
+
+Table 2 Visual function characteristics of the visual impairment and healthy groups shown as best-corrected distance visual
+acuity of best and worst eyes (logMAR notation).
+Public hospital
+
+Best-corrected
+distance visual
+acuity of best eye
+(logMAR)
+Best-corrected
+distance visual
+acuity of worst
+eye (logMAR)
+
+Geometric
+mean
+Range
+
+Private clinic
+
+Overall
+
+Visual
+impairment
+
+Control
+
+Visual
+impairment
+
+Control
+
+Visual
+impairment
+
+Control
+
+0.575
+
+0.061
+
+0.901
+
+0.108
+
+0.655
+
+0.065
+
+0.3 to 2
+
+−0.079
+to 0.155
+
+0.5 to 3
+
+−0.1 to
+0.2
+
+0.3 to 3
+
+−0.1 to
+0.2
+
+Signiﬁcance
+Geometric
+mean
+Range
+
+P < .001
+1.050
+
+Signiﬁcance
+
+P < .001
+
+0.3 to 3
+
+P < .001
+1.670
+
+0.073
+−0.079
+to 0.222
+
+0.7 to 3
+P < .001
+
+0.159
+−0.1 to
+0.2
+
+P < .001
+1.200
+0.3 to 3
+
+0.079
+−0.1 to
+0.222
+
+P < .001
+
+Visual acuity is shown as geometric mean and range (minimum to maximum). Student’s t-test was used to compare the results and
+P < 0.05 was considered statistically signiﬁcant.
+
+Reliability
+
+their vision. On performing a retest after 19.5 days (±5.07
+days), the calculated Spearman correlation coefﬁcient  was
+0.864 (P < .001).
+
+The global reliability of the SLVQOL, estimated by Cronbach’s alpha for the entire study sample, was 0.981
+(95% CI: 0.978---0.985). The mean values for each of the
+four original dimensions were calculated as 0.971 (95%
+CI: 0.965---0.976) for Far vision, mobility and lighting,
+0.857 (95% CI: 0.824---0.885) for Adaptation, 0.970 (95% CI:
+0.964---0.976) for Reading and precision work, and 0.953
+(95% CI: 0.943---0.962) for Activities of daily living. The
+test---retest reproducibility was assessed for a sample of 73
+patients with visual impairment who reported no changes in
+
+Feasibility
+Feasibility explored the practicality of questionnaire administration. The time taken to administer the questionnaire for
+the group with visual impairment at the public hospital (telephone interview) was 393.5 ± 73.1 s (95% CI: 274---600 s). This
+was much longer than that taken for subjects attending
+the private clinic (face-to-face interview) (290.0 ± 68.7 s;
+5
+
+
+[page 6]
++Model
+
+ARTICLE IN PRESS
+
+OPTOM-400; No. of Pages 11
+
+L. Pérez-Mañá, G. Cardona, Y. Pardo-Cladellas et al.
+Table 3 Spanish Low Vision Quality of Life Questionnaire (SLVQOL) scores (overall and for each dimension) of the study sample
+based on their visual health status (visual impairment and healthy) and recruitment centre (public hospital and private clinic).
+SLVQOL score
+
+SLVQOL
+Visual impairment (Public hospital vs Private clinic)
+Visual impairment vs healthy (both centres)
+Far vision, mobility and lighting
+Visual impairment (Public hospital vs Private clinic)
+Visual impairment vs healthy (both centres)
+Adaptation
+Visual impairment (Public hospital vs Private clinic)
+Visual impairment vs healthy (both centres)
+Reading and precision work
+Visual impairment (Public hospital vs Private clinic)
+Visual impairment vs healthy (both centres)
+Activities of daily life
+Visual impairment (Public hospital vs Private clinic)
+Visual impairment vs healthy (both centres)
+
+Mean ± SD
+
+Mean ± SD
+
+Difference
+
+Signiﬁcance
+
+71.3 ± 25.5
+66.9 ± 23.2
+
+56.7 ± 11.6
+117.2 ± 6.7
+
+14.6
+50.3
+
+P < .001
+P < .001
+
+75.3 ± 23.7
+70.1 ± 20.8
+
+58.0 ± 14.0
+115.5 ± 7.3
+
+17.3
+45.4
+
+P < .001
+P < .001
+
+34.5 ± 10.2
+32.3 ± 9.8
+
+27.1 ± 8.8
+45.9 ± 3.0
+
+7.4
+13.6
+
+P < .001
+P < .001
+
+43.8 ± 38.2
+42.7 ± 31.2
+
+40.2 ± 14.9
+114.5 ± 10.4
+
+3.6
+71.8
+
+P = .37
+P < .001
+
+68.5 ± 34.9
+62.7 ± 30.5
+
+49.2 ± 20.1
+122.6 ± 6.1
+
+19.3
+59.9
+
+P < .001
+P < .001
+
+SD = Standard deviation. The score of the subscales has been transformed into a scale from 0 to 125 to aid in comparison. Student’s t-test
+was used to compare the results and P < 0.05 was considered statistically signiﬁcant.
+
+Table 4 Spanish Low Vision Quality of Life Questionnaire (SLVQOL) score of patients with visual impairment (n = 157) according
+to their visual acuity (mild visual impairment, low vision and legally blind).
+SLVQOL score
+
+Mild visual impairment
+Low vision
+Legal blindness
+
+Mean
+
+SD
+
+Conﬁdence interval (95%)
+
+Minimum
+
+Maximum
+
+72.4 *
+66.2 &
+55.3 *, &
+
+24.1
+22.6
+14.4
+
+25.2---119.6
+21.9---110.5
+13.8---83.5
+
+43
+33
+16
+
+122
+122
+97
+
+SD = Standard deviation. The score of the SLVQOL may range from 0 to 125. The lower the score, the lower the reported quality of life.
+* and & denote statistically signiﬁcant differences between the groups (P < 0.05).
+
+Item response analysis
+
+95% CI: 182---525 s). Administration times for the healthy
+group were 345.8 ± 48.5 s (95% CI: 215---479 s) at the public hospital and 181.0 ± 40.4 s (95% CI: 110---275 s) at the
+private clinic. For both recruitment centres, patients with
+visual impairment required a signiﬁcantly longer time than
+healthy subjects to answer the questionnaire (P < .001 for
+all). Also, face-to-face interview resulted in a signiﬁcantly shorter administration time for the questionnaire than
+a telephone interview for both the groups (P < .001 for all).
+
+Outcomes of the factor analysis and the GPCM analysis are
+summarized in Table 5. With the exclusion of Item 16, factor loading values ranged from 0.302 to 0.874, with only four
+items (4, 5, 13 and 14) displaying values <0.4, and the total
+variance retained by the single dimension was 40%. Discrimination parameters ranged from 0.539 to 3.063, with seven
+items presenting values inferior to 1. Information parameters ranged from −1.894 to 1.074. Only six items presented
+an information parameter greater than 0, all of which also
+had discrimination parameters superior to 1. Overall, goodness of ﬁt was found to be good, with all items showing Zh
+values between 0 and 1 and with only two items displaying
+S---X2 P < .05 (items 9 and 19). Regarding response thresholds,
+only 11 items did not show any degree of overlapping.
+For illustrative purposes, Fig. 2 displays ﬁtted category
+response curves and item information for items 10 and 15.
+It may be observed that, whereas item 10 presents no overlapping and well-ordered category responses, and an item
+information peak near intermediate scores (item information value of −0.421), item 15 displays overlapping and
+poorly-ordered category responses, and an item information
+
+Validity
+Convergent correlations were found between the dimensions Self-care (r = 0.41) and Usual activities (r = 0.73) of the
+EQ 5D-5L and the SLVQOL scores. The rest of the dimensions of the EQ 5D-5L showed divergent correlations with
+the SLVQOL. Convergent correlations were also observed
+between the overall score of the SLVQOL and that of the
+NEI VFQ-25, as well as between the scores for each of the
+dimensions of both questionnaires (r ranged from 0.58 to
+0.96). However, the score for the dimension Ocular pain
+alone showed weak divergence (r = −0.23).
+6
+
+
+[page 7]
+Item Discrimination
+
+Step 1
+
+Step 2
+
+Step 3
+
+Step 4
+
+Step 5
+
+Item
+Information
+
+Overlapping
+
+Zh
+
+S-X2
+
+S-X2 P
+
+0.607
+0.523
+0.402
+0.378
+0.320
+0.707
+0.874
+0.773
+0.572
+0.747
+0.789
+0.783
+0.302
+0.387
+0.489
+0.083
+0.671
+0.726
+0.651
+0.713
+0.566
+0.745
+0.685
+0.787
+0.781
+
+1.301
+1.045
+0.747
+0.695
+0.574
+1.702
+3.063
+2.071
+1.188
+1.910
+2.183
+2.142
+0.539
+0.714
+0.955
+0.142
+1.539
+1.797
+1.460
+1.730
+1.167
+1.903
+1.600
+2.172
+2.130
+
+−3.622
+−3.721
+−3.446
+−4.783
+−6.386
+−2.244
+−1.736
+−2.848
+−2.815
+−2.980
+−2.474
+−2.934
+−6.525
+−5.938
+−3.053
+−15.979
+−2.119
+−0.391
+−0.196
+−0.438
+−0.371
+−2.596
+−0.772
+−1.497
+−2.401
+
+−0.655
+−0.870
+−0.794
+−2.692
+−0.679
+−0.628
+−0.728
+−1.009
+−2.058
+−0.941
+−0.672
+−0.557
+−1.574
+−0.688
+−0.981
+−1.097
+−0.512
+0.312
+0.937
+0.393
+1.179
+−0.592
+0.216
+0.030
+−0.752
+
+0.119
+−0.977
+−2.164
+−0.801
+1.127
+0.005
+−0.089
+−0.613
+−1.025
+0.000
+0.021
+−0.451
+−0.779
+−0.579
+−0.839
+−2.585
+−0.402
+0.334
+1.292
+0.214
+0.424
+−0.343
+0.259
+0.201
+−0.702
+
+1.575
+0.876
+1.381
+0.808
+2.461
+0.865
+0.654
+0.587
+0.324
+0.552
+0.687
+0.725
+0.968
+0.510
+−0.219
+−6.538
+0.258
+1.161
+1.328
+1.173
+1.491
+0.251
+1.075
+0.284
+0.516
+
+2.519
+1.427
+0.359
+−0.430
+1.933
+0.988
+1.160
+0.545
+−0.003
+1.263
+1.421
+0.750
+−1.562
+0.312
+−0.865
+−7.824
+−0.194
+1.363
+2.008
+1.469
+2.268
+0.491
+0.939
+1.004
+0.909
+
+−0.013
+−0.653
+−0.933
+−1.580
+−0.309
+−0.203
+−0.148
+−0.668
+−1.115
+−0.421
+−0.203
+−0.493
+−1.894
+−1.277
+−1.191
+−6.805
+−0.594
+0.556
+1.074
+0.562
+0.998
+−0.558
+0.343
+0.005
+−0.486
+
+No
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+
+0.361
+0.265
+0.134
+0.189
+0.111
+0.468
+0.927
+0.574
+0.307
+0.517
+0.637
+0.753
+0.176
+0.273
+0.385
+0.005
+0.684
+0.566
+0.357
+0.541
+0.283
+0.752
+0.511
+0.541
+0.662
+
+42.181
+44.085
+27.139
+42.295
+39.062
+30.380
+19.383
+21.892
+50.856
+19.128
+19.814
+28.912
+50.179
+53.495
+34.390
+35.682
+26.788
+33.537
+43.568
+35.940
+40.953
+44.077
+38.582
+24.200
+32.045
+
+0.108
+0.167
+0.754
+0.291
+0.422
+0.598
+0.778
+0.910
+0.032
+0.965
+0.800
+0.574
+0.311
+0.306
+0.720
+0.484
+0.892
+0.393
+0.031
+0.332
+0.054
+0.140
+0.232
+0.450
+0.514
+
+ARTICLE IN PRESS
+
+Factor
+loading
+
++Model
+
+Outcomes of the Generalized Partial Credit Model analysis of the Spanish Low Vision Quality of Life Questionnaire.
+
+Journal of Optometry xxx (xxxx) xxx---xxx
+
+7
+
+Item 1
+Item 2
+Item 3
+Item 4
+Item 5
+Item 6
+Item 7
+Item 8
+Item 9
+Item 10
+Item 11
+Item 12
+Item 13
+Item 14
+Item 15
+Item 16
+Item 17
+Item 18
+Item 19
+Item 20
+Item 21
+Item 22
+Item 23
+Item 24
+Item 25
+
+OPTOM-400; No. of Pages 11
+
+Table 5
+
+
+[page 8]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+L. Pérez-Mañá, G. Cardona, Y. Pardo-Cladellas et al.
+peak of −1.191. Indeed, GPCM coefﬁcients of this item range
+from −3.053 to −0.219, measuring only latent trait values
+of patients on the left side.
+
+Discussion
+Patient reported outcomes are essential to thoroughly comprehend the health status of patients and to provide the
+best possible care. Although many questionnaires have
+been developed to assess the quality of life of patients
+with ocular and visual problems, only few instruments are
+speciﬁc for evaluating low vision or visual impairment in
+patients. Of those available, the LVQOL has been documented to present good psychometric properties.20,27 This
+instrument was developed and validated in English language,
+and subsequently in Thai, Turkish, and Chinese.21---23 The
+recent translation and cultural adaptation of the LVQOL to
+Spanish,24 which is the second-most spoken native language
+after Mandarin Chinese, created the opportunity to design
+the present validation study. The new tool SLVQOL will be
+useful for both clinicians and researchers to assess the quality of life of their Spanish-speaking patients, to develop
+quality of life studies, and to share their ﬁndings with the
+international community.
+
+Figure 1 Spanish Low Vision Quality of Life Questionnaire
+scores for each visual impairment level. Higher values of SLVQOL
+score indicate better quality of life.
+
+Figure 2 Fitted category response curves (top) and item information for item 10 (left) and item 15 (right). P1 to P6 refer to the six
+possible category responses ranging from ‘‘the patient can no longer perform the activity due to vision impairment’’ to ‘‘absence
+of sight-related difﬁculty with the task’’.
+
+8
+
+
+[page 9]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+Journal of Optometry xxx (xxxx) xxx---xxx
+
+In the process of validating a new instrument it is useful
+to compare it with the gold-standard in the ﬁeld. Unfortunately, there are no current translated and validated
+low vision speciﬁc quality of life questionnaires in Spanish.
+Therefore, to assess the construct validity of the SLVQOL,
+its results were compared with those of the non-vision speciﬁc EQ 5D-5L and the vision-related generic NEI VFQ-25,
+both of which have been translated to and validated in
+Spanish.28,29 Construct validity was evidenced by the corresponding moderate to strong convergent and divergent
+correlations between both----the overall scores of the three
+questionnaires and of their respective dimensions, with the
+exception of the dimension Ocular pain in NEI VFQ-25. The
+dimension Ocular pain was not assessed by the SLVQOL
+as none of the most frequent causes of visual impairment
+(age related macular degeneration, cataract, myopia, diabetic retinopathy or glaucoma) account for ocular pain in
+patients. The outcomes of the NEI VFQ-25 and the EQ 5D5L, provided as supplementary material, were comparable
+to those previously published for patients with low vision
+and visual impairment.28,34
+A cut-off score of 105 or 106 was found to be optimal to discriminate between visual impairment and healthy
+patients. The good classiﬁcation capabilities found in this
+study are promising but could be an over-estimation due to
+the clear-cut deﬁnition of cases and control groups. Adequately studies designed to identify patients with visual
+impairment in the general population are needed to evaluate its usefulness as a screening tool.
+The difference of 50.3 points in the SLVQOL global score
+between patients with visual impairment and healthy subjects was larger than the difference of 39.4 points reported
+by Wolffsohn and Cochrane in their original study.20 The latter documented an average score of 60.9 ± 25.1 for patients
+with visual impairment, which was lower than that obtained
+in the present study (66.9 ± 23.2). The partial discrepancy
+with the Australian cohort thus observed could be owing to
+several reasons. First, the differences in the inclusion criteria of the two studies accounted for a better average visual
+acuity of the Australian patients (0.58 ± 0.35 logMAR), as
+compared to the Spanish patients in this study (0.75 ± 0.43
+logMAR). Moreover, healthy subjects in the Australian cohort
+were age-matched with their visually impaired counterparts, whereas the sample of healthy subjects in the present
+study was on average slightly younger than the visual impairment group. This was one of the major limitations of this
+study, which may have contributed to the overestimation
+of the differences in SLVQOL score and the time taken to
+administer the questionnaire for both groups. In addition, it
+must be noted that visual acuity was measured in decimal
+notation and later converted to logMAR notation, instead of
+measuring it on a logMAR chart. This may have introduced
+small errors to our measurements, as decimal visual acuity
+notation does not present homogeneous steps.
+One ﬁnding that conﬁrms the usefulness of a quality of
+life speciﬁc questionnaire was the ability of the SLVQOL
+to partly discriminate among the different levels of visual
+impairment, particularly mild visual impairment from legal
+blindness and low vision from legal blindness, as shown in
+Fig. 1. However, the outcome of the GPCM analysis revealed
+that a single dimension approach is not an adequate ﬁt
+for the data. There were 7 items (3, 4, 5, 13, 14, 15 and
+
+16) with a discrimination parameter lower than 1, which
+would suggest excluding them of the scale or considering
+a multi-dimensional solution. In effect, the presence of
+multidimensionality in questionnaires may prevent correct
+interpretation of the global score, as more than one latent
+trait is being assessed. Also, the occurrence of overlapping
+and disordered category responses gives support to a revision of the instrument by collapsing categories to improve
+item information. Further research efforts shall be devoted
+in this direction, which may lead to a shorter and more
+discriminating version of the SLVQOL.
+The current sample size, determined by calculation and
+following the recommendations of one of the authors of the
+original instrument (J.S.W), was considered sufﬁcient for
+the purpose of this study to replicate previous validation
+studies in English (278 visually impaired and 70 healthy),20
+Chinese (100 visually impaired and 100 healthy),21 and Turkish (378 visually impaired).23 However, sample size may have
+been insufﬁcient for the dimensionality assessment of the
+questionnaire, which may require a sample size of 1000 or
+more for complex IRT models.35
+In this study, patients were recruited from two different clinical settings----a large public hospital (National Health
+System) and a private clinic. Subjects from both these
+centres mainly differed in terms of degree of visual impairment, educational status, income (data not shown) and the
+mode of questionnaire administration (telephone interview
+vs face-to-face interview). It may be acknowledged that this
+sampling method is likely to have introduced some unwanted
+confounding variables to the study, which may inﬂuence
+the results, particularly the absolute questionnaire scores.
+However, for the purpose of validation, a larger, heterogeneous sample was preferred in order to accurately reﬂect
+the behaviour of the tool in a general population scenario in
+which a dispersion of all the previously mentioned socioeconomic and disease-related parameters is present. It may be
+assumed that although a study based on a narrowly deﬁned
+sample may lead to better psychometric properties of the
+SLVQOL, nevertheless its results would be less suitable to
+extrapolate to a wider population of patients with visual
+impairment.
+The values of Cronbach’s alpha for the entire sample and
+for each of the four dimensions were very high (>0.90). Values between 0.8 and 0.9 are ideal and denote good reliability
+of the instrument, while values over 0.9 may be an indicator
+of redundancy or replication of items.36 This would advise,
+as a possible line of future work, the reduction of the questionnaire, which would also result in shorter administration
+times.
+In conclusion, the SLVQOL was able to quantitatively and
+reproducibly assess the quality of life in patients with visual
+impairment and in normal subjects. Additionally, the SLVQOL
+displayed psychometric properties that were similar to or
+superior to the original version, although IRT analysis evidenced the need to structure the questionnaire in two or
+three well-deﬁned subscales and to reconsider including
+certain items that may be unable to provide signiﬁcant discrimination. The results of the present study suggest that
+the SLVQOL can be very useful in future studies and clinical trials to precisely and reproducibly assess the quality of
+life related to vision impairment. It can, thereby, improve
+the knowledge of disease burden on patients with visual
+9
+
+
+[page 10]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+L. Pérez-Mañá, G. Cardona, Y. Pardo-Cladellas et al.
+
+impairment and the evaluation of the outcome of patients
+following speciﬁc treatments.
+
+patients: The Visual Symptoms and Quality of Life (VSQ) Questionnaire. Ophthalmic Epidemiol. 2003;10:49---65.
+14. Goldberg I, Clement CI, Chiang TH, et al. Assessing quality
+of life in patients with glaucoma using the Glaucoma Quality of Life-15 (GQL-15) questionnaire. J Glaucoma. 2009;18:
+6---12.
+15. Lee BL, Gutierrez P, Gordon M, et al. The Glaucoma Symptom Scale: a brief index of glaucoma-speciﬁc symptoms. Arch
+Ophthalmol. 1998;116:861---866.
+16. Mitchell J, Wolffsohn JS, Woodcock A, et al. Psychometric evaluation of the Macdqol individualised measure of the impact
+of macular degeneration on quality of life. Health Qual Life
+Outcomes. 2005;3:25.
+17. Keeffe JE, McCarty CA, Hassell JB, Gilbert AG. Description and
+measurement of handicap caused by vision impairment. Aus N
+Z J Ophthalmol. 1999;27:184---186.
+18. Sloane ME, Ball K, Owsley C, et al. The visual activities questionnaire: Developing an instrument for assessing problems in
+everyday visual tasks. In: Technical Digest, Noninvasive Assessment of the Visual System, Topical Meeting of the Optical
+Society of America. 1992.
+19. Stelmack JA, Szlyk JP, Stelmack TR, et al. Psychometric
+properties of the veterans affairs low-vision visual functioning questionnaire. Invest Ophthalmol Vis Sci. 2004;45:
+3919---3928.
+20. Wolff; sohn JS, Cochrane AL. Design of the Low Vision
+Quality-of-Life Questionnaire (LVQOL) and measuring the
+outcome of low-vision rehabilitation. Am J Ophthalmol.
+2000;130:793---802.
+21. Zou H, Zhan X, Xu L, et al. Development and psychometric tests
+of the Chinese-version Low Vision Quality of Life Questionnaire.
+Qual Life Res. 2005;14:1633---1639.
+22. Yingyong P. Evaluation of the Thai, Low Vision Quality-ofLife Questionnaire (LVQOL). J Med Assoc Thai. 2007;90:
+2658---2661.
+23. Idil A, Ozen M, Atak N, et al. Validity and reliability study of
+Turkish version of the Low Vision Quality of Life Questionnaire.
+Int J Ophthalmol. 2011;4:546---551.
+24. Pérez-Mañá L, Cardona G, Pardo-Cladellas Y, et al. Traducción
+y adaptación cultural al Español del Cuestionario Low Vision
+Quality of Life (LVQOL) [Translation and cultural adaptation of
+the Spanish Low Vision Quality of Life Questionnaire (LVQOL)].
+Arch Soc Esp Oftalmol. 2019;94:384---390.
+25. Wild D, Grove A, Martin M, et al. Principles of good practice
+for the translation and cultural adaptation process for Patient Reported Outcomes (PRO) measures: Report of the ISPOR Task
+Force for Translation and Cultural Adaptation. Value Health.
+2005;8:94---104.
+26. World Health Organization, WHO. International Statistical Classiﬁcation of Diseases and Related Health
+Problems, 10th Revision, (ICD-10); 2016. Available at:
+https://icd.who.int/browse10/2016/en; [Accessed July 7,
+2019].
+27. Wolff; sohn JS, Cochrane AL, Watt NA. Implementation methods
+for vision related quality of life questionnaires. Br J Ophthalmol. 2000;84:1035---1040.
+28. Alvarez-Peregrina C, Sánchez-Tena MA, Caballé-Fontanet D,
+et al. Adaptación cultural y validación al castellano del cuestionario National Eye Institute Visual Function Questionnaire 25
+[Cultural adaptation and validation to Spanish of the National
+Eye Institute Visual Function Questionnaire 25]. Arch Soc Esp
+Oftalmol. 2018;93:586---591.
+29. Badia X, Roset M, Montserrat S, et al. The Spanish version of
+EuroQol: a description and its applications. European Quality
+of Life Scale. Med Clin (Barc). 1999;112:79---85.
+30. Pesudovs K, Burr JM, Harley C, Elliott DB. The development,
+assessment, and selection of questionnaires. Optom Vis Sci.
+2007;84:663---674.
+
+Funding
+This research did not receive any speciﬁc grant from funding
+agencies in the public, commercial, or not-for-proﬁt sectors.
+
+Declarations of interest
+None.
+
+Appendix A. Supplementary data
+Supplementary material related to this article can be found,
+in the online version, at doi:https://doi.org/10.1016/j.
+optom.2021.01.004.
+
+References
+1. World Health Organization, WHO. National institute on
+aging. National Institutes of Health; 2011. NIH Publication no. 11-7737. Available at: https://www.who.int/
+ageing/publications/global health.pdf; [Accessed August 21,
+2019].
+2. Wong WL, Su X, Li X, et al. Global prevalence of age-related
+macular degeneration and disease burden projection for 2020
+and 2040: A systematic review and meta-analysis. Lancet Glob
+Health. 2014;2:e106---16.
+3. Vijaya L, George R, Asokan R, et al. Prevalence and causes
+of low vision and blindness in an urban population: The
+Chennai Glaucoma study. Indian J Ophthalmol. 2014;62:
+477---481.
+4. Coco-Martín MB, Cuadrado-Asensio R, López-Miguel A, et al.
+Design and evaluation of a customized reading rehabilitation
+program for patients with age-related macular degeneration.
+Ophthalmology. 2013;120:151---159.
+5. Testa MA, Simonson DC. Assessment of quality of life outcomes.
+N Engl J Med. 1996;334:835---840.
+6. Stein JD. Disparities between ophthalmologists and their
+patients in estimating quality of life. Curr Opin Ophtalmol.
+2004;15:238---243.
+7. EuroQol Group. EuroQol----A new facility for the measurement of health-related quality of life. Health Policy.
+1990;16:199---208.
+8. Mangione CM, Lee PP, Pitts J, et al. Psychometric properties of
+the National Eye Institute Visual Function Questionnaire (NEIVFQ). Arch Ophthalmol. 1998;116:1496---1504.
+9. Abrahamsson M, Carlsson B, Tornqvist M, et al. Changes of
+visual function and visual ability in daily life following cataract
+surgery. Acta Ophtalmol Scand. 1996;74:69---73.
+10. Steinberg EP, Tielsch JM, Schein OD, et al. The VF-14. An index
+of functional impairment in patients with cataract. Arch Ophthalmol. 1994;112:630---638.
+11. Mangione CM, Phillips RS, Seddon JM, et al. Development of
+the ‘‘Activities of Daily Vision Scale’’. A measure of visual
+functional status. Med Care. 1992;30:111---126.
+12. Pesudovs K, Coster DJ. An instrument for assessment of subjective visual disability in cataract patients. Br J Ophthalmol.
+1998;82:617---624.
+13. Donovan JL, Brookes ST, Laidlaw DA, et al. The development
+and validation of a questionnaire to assess visual symptoms/dysfunction and impact on quality of life in cataract
+
+10
+
+
+[page 11]
++Model
+OPTOM-400; No. of Pages 11
+
+ARTICLE IN PRESS
+Journal of Optometry xxx (xxxx) xxx---xxx
+
+31. Masters GN. A Rasch model for partial credit scoring. Psychometrika. 1982;47:149---174.
+32. Chalmers R. mirt: a multimensional item response theory package for the R environment. J Stat Softw. 2012;48:1---29.
+33. Drasgow F, Levine MV, Williams EA. Appropriateness measurement with polychotomous item response models and
+standardized indices. Br J Math Stat Psychol. 1985;38:67---86.
+34. Macedo AF, Ramos PL, Hernández-Moreno L, et al. Visual and
+health outcomes, measured with the activity inventory and
+
+the EQ-5D, in visual impairment. Acta Ophthalmol. 2017;95:e783---e791.
+35. Thissen D, Wainer H. Some standard errors in item response
+theory. Psychometrika. 1982;47:397---412.
+36. Streiner DL. Starting at the beginning: An introduction to
+coefﬁcient alpha and internal consistency. J Pers Assess.
+2003;80:99---103.
+
+11
+

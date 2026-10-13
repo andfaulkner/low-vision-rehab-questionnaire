@@ -1,0 +1,435 @@
+[page 1]
+TÍTULO: Traducción y adaptación cultural al español del cuestionario Low Vision Quality of
+Life
+
+RESUMEN
+Actualmente existen algunos cuestionarios diseñados para evaluar la calidad de vida relacionada
+con la visión, pero ninguno de ellos investiga, específicamente, la calidad de vida relacionada
+con la discapacidad visual. El objetivo del presente trabajo consistió en la traducción al español
+y adaptación cultural de la versión inglesa del Low Vision Quality of Life Questionnaire (LVQOL).
+El LVQOL consta de 25 ítems y explora 4 dimensiones distintas: visión de lejos, movilidad e
+iluminación, adaptación, lectura y trabajo de precisión, y actividades de la vida diaria. Para la
+traducción y adaptación cultural se siguieron las normas de la International Society for
+Pharmacoeconomics and Outcomes, incluyendo, entre otras fases, una traducción, una retrotraducción y un cognitive debriefing con un grupo reducido de pacientes con discapacidad visual.
+Se contó con un comité de expertos formado por un oftalmólogo, una psicóloga especializada
+en Patient Reported Outcomes y un óptico-optometrista con experiencia en baja visión.
+
+PALABRAS CLAVE
+Baja visión; Calidad de vida; Cuestionario de calidad de vida; Discapacidad visual; Patient
+reported outcomes; Traducción y adaptación cultural
+
+1
+
+
+[page 2]
+ABSTRACT
+Nowadays, there are some questionnaires designed to assess vision related quality of life,
+although none of them explores, specifically, the quality of life of patients with visual disability.
+The purpose of the present study was to provide a translation to Spanish, as well as a crosscultural adaptation, of the English version of the Low Vision Qualify of Life Questionnaire
+(LVQOL). The LVQOL consists of 25 items, spanning four different dimensions: distant vision,
+mobility and illumination, adaptation, reading and precision work, and daily life activities. The
+process of translation and cross-cultural adaptation was conducted following the
+recommendations of the International Society for Pharmacoeconomics and Outcomes, and
+involved, amongst others, a direct translation, a retro-translation, and a cognitive debriefing
+with a small sample of patients with visual disability. Work was supervised by an expert
+committee including an ophthalmologist, a psychologist with expertise in Patient Reported
+Outcomes, and an optometrist with experience in the field of low vision.
+
+KEY WORDS
+Low vision; Quality of life; Quality of life questionnaire; Visual disability; Patient reported
+outcomes; Translation and cross-cultural adaptation
+
+2
+
+
+[page 3]
+La Organización Mundial de la Salud (OMS), en su Clasificación Internacional de Enfermedades
+(ICD-10, del año 2009)1, subdivide la función visual en 4 niveles, según la agudeza visual (AV) del
+sujeto, en notación decimal (un sujeto con buena AV obtiene un valor de 1 o superior):
+Discapacidad visual (DV) leve o no discapacidad (AV ≥ 0,33); DV moderada (AV < 0,33 y AV ≥
+0,1); DV severa o grave (AV < 0,1 y AV ≥ 0,05); y ceguera (AV < 0,05 o presentar un campo visual
+inferior o igual a 10° en el mejor ojo). En España, y tomando como referencia la Encuesta de
+Discapacidad, Autonomía Personal y Situaciones de Dependencia (EDAD) de 20122, la
+prevalencia de la DV es de 2,14 personas por cada 100 habitantes.
+Existen algunos cuestionarios diseñados para evaluar la calidad de vida relacionada con la visión,
+como el VF-14 o el NEI-VFQ-25. Sin embargo, ninguno de estos cuestionarios explora,
+específicamente, la calidad de vida con suficiente detalle y sensibilidad como para identificar
+cambios en la discapacidad visual de pacientes con baja visión. Esta es una de las razones que
+impulsó a Wolffsohn y Cochrane a desarrollar el Low Vision Quality-of-Life Questionnaire
+(LVQOL)3. Este cuestionario presenta unas excelentes propiedades psicométricas4 y ha
+demostrado ser una herramienta fiable en pacientes con baja visión, permitiendo medir la
+calidad de vida inicial y la posterior en la evolución de la patología, o tras un tratamiento de
+rehabilitación visual. El LVQOL fue desarrollado originariamente en inglés y se encuentra
+traducido y validado al turco, tailandés y chino5-7, si bien no existe una versión debidamente
+traducida y validada del mismo al español. La importancia de contar con un instrumento
+traducido y adaptado culturalmente radica en permitir agregar y analizar conjuntos de datos
+obtenidos en estudios multicéntricos fruto de la colaboración internacional, además de facilitar
+los trabajos comparativos entre distintos países.
+El objetivo del presente trabajo consiste en presentar los resultados del proceso de traducción
+y adaptación cultural del cuestionario LVQOL desarrollado para evaluar la calidad de vida de
+pacientes con discapacidad visual.
+
+Método
+Low Vision Quality-of-Life Questionnaire
+El LVQOL es un cuestionario de calidad de vida, específico para pacientes con DV, desarrollado
+a partir de una amplia muestra de pacientes que presentaban múltiples patologías causantes de
+disminución visual. Consta de 25 ítems sobre calidad de vida, puntuando cada uno de ellos de 0
+a 5 en una escala de Likert. Con un tiempo de respuesta de entre 5 y 10 minutos, el LVQOL
+3
+
+
+[page 4]
+explora 4 dimensiones distintas: visión de lejos, movilidad e iluminación, adaptación, lectura y
+trabajo de precisión, y actividades de la vida diaria. Estudios previos han documentado sus
+excelentes propiedades psicométricas, con buena fiabilidad, evaluada mediante la estimación
+de la consistencia interna (coeficiente alfa de Cronbach de 0.88) y mediante el análisis de la
+reproducibilidad test-retest (coeficiente de correlación intraclase de 0.72)3.
+
+Proceso de traducción y adaptación cultural
+Para la traducción y validación cultural del LVQOL se siguieron los pasos descritos en el manual
+publicado por la International Society for Pharmacoeconomics and Outcomes (ISPOR)8. Se trata
+de un conjunto de preceptos en forma de recomendación-guía, plenamente aceptado y
+adoptado por la comunidad científica internacional.
+Las fases seguidas para la traducción y adaptación cultural del LVQOL al español, resumidas en
+el esquema presentado en la Figura 1. La primera fase consistió en la traducción directa al
+español por parte de dos traductores independiente, bilingües y con lengua materna el
+castellano; conciliación y síntesis de las traducciones por un comité de expertos formado por un
+oftalmólogo, una psicóloga especializada en Patient Reported Outcomes (PRO) y un ópticooptometrista con experiencia en baja visión. La segunda fase incluyó la traducción inversa al
+inglés (retro-traducción) por dos traductores, independientes entre ellos, con lengua materna
+el inglés y habiendo residido en España por un tiempo superior a 3 años; comparación y
+armonización de las traducciones inversas con el original. En la tercera fase se realizó un
+Cognitive debriefing, en el que se reclutó una muestra de conveniencia formada por 5 pacientes
+con discapacidad visual (un paciente con ceguera legal, el resto con discapacidad visual
+moderada) de edad promedio ± desviación estándar de 47,2 ± 16,1 años, formada por 3 hombres
+y 2 mujeres, y se les solicitó que explicaran, para cada una de las frases que les leyó un
+entrevistador, exactamente qué entendían con respecto a lo que se les estaba preguntando y si
+podían aportar algún matiz o sugerencia para que las preguntas y posibles respuestas fueran
+más comprensibles. En una cuarta fase, se realizaron la prueba de lectura, revisión ortográfica y
+gramatical. Finalmente, de elaboró un informe final, en el que se recopiló y detalló cada paso
+seguido y decisión adoptada en la traducción con el objetivo de servir como material de soporte
+para futuras traducciones del test a otras lenguas.
+El nuevo test traducido y adaptado culturalmente se ha denominado Spanish Low Vision Quality
+of Life (SLVQOL), con la aprobación directa de uno de los autores del cuestionario original (J.W.).
+4
+
+
+[page 5]
+Resultados
+La Tabla 1 presenta ejemplos de algunas de las preguntas del LVQOL que resultaron más
+complejas de traducir del inglés al español (traducción directa). Se incluyen observaciones
+describiendo las estrategias adoptadas para abordar tales dificultades, así como la versión
+finalmente consensuada por el comité de expertos. Se muestra la copia textual de las
+traducciones recibidas, por lo que pueden existir faltas de ortografía o de gramática, que
+posteriormente fueron subsanadas. Por su parte, en la Tabla 2 se detallan algunos ejemplos de
+retro-traducción, presentándose la versión original para ilustrar la magnitud de las discrepancias
+con la misma. Se valoró el grado de equivalencia con la versión original. Así, se consideraron un
+total de 46 ítems o frases para traducir, de los cuales 41 ítems (89,1%) presentaron equivalencia
+excelente, 3 ítems (6,5%) equivalencia moderada y 2 ítems equivalencia pobre.
+La fase del cognitive debriefing evidenció un alto grado de aceptación del cuestionario por parte
+de la muestra de participantes con discapacidad visual. Esta fase fue útil para matizar alguna
+frase o expresión poco clara, aportando alternativas para su mejora. Una pregunta que originó
+cierto debate fue la referente a las dificultades con las escaleras (pregunta 10). En el texto
+original no se diferencia entre subir y bajar escaleras, si bien inicialmente los participantes en el
+cognitive debriefing indicaron distinta dificultad para subir o bajar escaleras y bordillos.
+
+Discusión
+El proceso de traducción y adaptación cultural pretende conseguir una versión del cuestionario
+que presente equivalencia a nivel semántico, conceptual, de contenido, técnico y de criterio con
+el instrumento original9. No solo el significado de cada ítem debe ser el mismo sino que el
+instrumento debe medir el mismo constructo teórico, cada ítem debe mantener la relevancia
+en ambas culturas, el método de recogida de datos debe ser comparable y, por último, la
+interpretación del resultado de la medida debe ser igualmente similar. Todo el proceso sigue
+una metodología elaborada con el fin de crear una traducción lo más parecida a la original en
+cuanto al significado de las expresiones y evitando el uso de frases complejas o que dificulten la
+comprensión a los pacientes. Igualmente, se puede aprovechar el proceso de traducción y
+adaptación para actualizar alguna de las frases del LVQOL a los tiempos actuales: por ejemplo,
+se incluyó en el nuevo cuestionario una doble pregunta para explorar la dificultad de lectura de
+correos electrónicos y mensajes en dispositivos móviles (teléfonos y tabletas).
+
+5
+
+
+[page 6]
+En todo proceso de traducción y adaptación cultural se debe elaborar un informe final que
+incluya, entre otros aspectos, las dificultades halladas por los traductores, las opiniones, debate
+y consenso del comité de expertos, las aportaciones del autor original del test y las
+interpretaciones y sugerencias de mejora de los pacientes que participan en el cognitive
+debriefing. Este informe puede servir de base para futuros trabajos de traducción y adaptación
+a otros idiomas.
+Este proceso ha sido llevado a cabo, recientemente, por Álvarez-Peregrina y cols10 con el
+cuestionario NEI VFQ-25, uno de los más empleados, pero los autores no describen el proceso
+de traducción y adaptación con el detalle que lo hace este estudio. La versión castellana del NEI
+VFQ-25 ha demostrado una fiabilidad de 0,831 (IC 95%: 0,735-0,904), estimada con el
+coeficiente alfa de Cronbach.
+EL presente estudio es un proyecto activo y en curso, tras la traducción y adaptación cultural del
+LVQOL al español el siguiente paso consistirá en la validación de este, con el correspondiente
+análisis de sus propiedades psicométricas, fiabilidad, validez, sensibilidad y especificidad.
+Además, es conveniente resaltar que la versión española del LVQOL podría no ser aplicable de
+forma directa en países de habla hispana de América Central o América del Sur sin un proceso
+previo de revisión idiomática y, posiblemente, una cierta adaptación cultural.11
+En conclusión, los resultados del proceso de traducción y adaptación cultural del LVQOL sugieren
+que la versión española de este instrumento es comprensible para pacientes con discapacidad
+visual. Dada la actual ausencia de un cuestionario validado de calidad de vida específico para
+pacientes con baja visión, la futura versión validada del SLVQOL puede ser de gran utilidad para
+los profesionales de la visión (oftalmólogos y ópticos-optometristas) en el manejo diario de sus
+pacientes, en proyectos de investigación que evalúen la eficacia de tratamientos, así como para
+el desarrollo de estrategias que mejoren la calidad de vida de este particular grupo de pacientes
+tan necesitado de apoyo y cuidados.
+
+6
+
+
+[page 7]
+BIBLIOGRAFÍA
+1. World Health Organization. International statistical classification of diseases and related
+health problems. - 10th revision, edition 2010. WHO; 2010.
+2. Gómez-Ulla de Irazazábal F, Ondategui-Parra S. Informe sobre la ceguera en España.
+Fundación Retinaplus+; 2012.
+3. Wolffsohn JS, Cochrane AL. Design of the Low Vision Quality-of-Life Questionnaire (LVQOL)
+and measuring the outcome of low-vision rehabilitation. Am J Ophthalmol 2000; 130: 793-802.
+4. De Boer MR, Moll AC, de Vet HCW, Terwee CB, Völker-Dieben HJM, van Rens GH.
+Psychometric properties of vision-related quality of life questionnaires: a systematic review.
+Ophthalmic Physiol Opt 2004; 24: 257–73.
+5. Idil A, Ozen M, Atak N, Elhan A, Pehlivan S. Validity and reliability study of Turkish version on
+low vision with quality of life questionnaire. Int J Ophthalmol 2011; 4: 546-51.
+6. Yingyong P. Evaluation of the Thai, Low Vision Quality-of-Life Questionnaire (LVQOL). J Med
+Assoc Thai 2007; 90: 2658-61.
+7. Zou H, Zhan X, Xu L, Bai L, Wolffsohn JS. Development and psychometric tests of the Chinese version Low Vision Quality of Life Questionnaire. Qual Life Res 2005; 14: 1633-9.
+8. Wild D, Grove A, Martin M, Eremenco S, McElroy S, Verjee-Lorenz A, et al. Principles of good
+practice for the translation and cultural adaptation process for patient-reported outcomes (PRO)
+measures: report of the ISPOR task force for translation and cultural adaptation. Value Health
+2005; 8: 94-104.
+9. Hilton A, Skrutkowski M. Translating instruments into other languages: development and
+testing processes. Cancer Nurs 2002; 25: 1-7.
+10. Alvarez-Pelegrina C, Sánchez-Tena MA, Caballé-Fontanet D, Thuissard-Vassallo IJ,
+Gacimartín-García MB, Orduna-Magán C. Crosscultural adaptation and validation into Spanish
+of the questionnaire National Eye Institute Visual Function Questionnaire 25. Arch Soc Esp
+Oftalmol 2018; Jul 10. pii: S0365-6691(18)30180-1.
+11. Carvajal A, Centeno C, Watson R, Martínez M, Sanz Rubiales Á. ¿Cómo validar un instrumento
+de medida de la salud? An Sist Sanit Navar 2011; 34: 63-72.
+
+7
+
+
+[page 8]
+FIGURAS
+Figura 1. Fases de la traducción y adaptación cultural del Low Vision Quality of Life questionnaire
+(LVQOL) al español (SLVQOL).
+
+8
+
+
+[page 9]
+Tabla 1. Ejemplos de traducción directa del LVQOL inglés al español, incluyendo la versión consensuada por el comité de expertos y presentado las estrategias
+de trabajo (algunos ítems pueden contener faltas ortográficas o gramaticales).
+
+2
+
+4
+
+7
+
+20
+
+23
+
+Versión original (VO)
+
+Traducción directa 1 (T1)
+
+Traducción directa 2 (T2)
+
+Versión tras comité (VTC)
+
+How much of a problem do you
+have
+With your eyes getting tired (e.g.
+only being able to do a task for a
+short period of time)
+
+¿Qué dificultad tiene?
+
+¿Cuánta dificultad tienes?
+
+¿Qué dificultad tiene?
+
+Con el cansancio de sus ojos (por
+Por que tus ojos se cansan (ej. Solo
+Porque sus ojos se cansan (por ejemplo sólo es capaz
+ejemplo, sólo siendo capaz de realizar
+pudiendo hacer una tarea por un
+de realizar una tarea durante un período corto de
+una tarea por un corto espacio de
+periodo corto de tiempo)
+tiempo)
+tiempo)
+Observaciones: Se debatió sobre el significado que el autor quería transmitir, a la vez que intentando crear una frase que gramaticalmente no tuviera errores y fuera
+comprensible. Finalmente, se decidió la frase descrita porque mantenía la idea original. Los pacientes en la clínica habitual suelen comentar que tienen los ojos cansados,
+pesados, que not an cansancio y, en consecuencia, no son capaces de mantener la atención en la misma tarea o realizar más de una tarea a la vez. Por consiguiente, se
+consideró que dicha pregunta enfocaba bien esa problemática y se aceptó como buena la traducción.
+Getting the right amount of light Para obtener la cantidad de luz
+Para obtener la cantidad suficiente
+Para ver con claridad con la luz de la que dispone
+to be able to see
+necesaria para poder ver
+de luz para poder ver
+Observaciones: Se consideró como la pregunta más difícil de traducir, además que la traducción al castellano no presentaba una fácil comprensión para el paciente. Finalmente,
+se debatió con el autor una traducción original similar. En este caso, el aporte del Dr Wolffsohn fue: “How much of a problem do you have with having enough light to be able
+to see clearly?”
+Seeing the television
+Al ver la televisión (identificando las
+Para ver la television (con claridad
+Para ver la televisión (distinguiendo las imágenes)
+(appreciating the pictures)
+imágenes)
+de imagen)
+Observaciones: Se debatió respecto a si lo que preguntaba el autor original en el test LVQOL era respecto a las imágenes o las formas y los colores. Finalmente, después de
+conversar con el profesor Wolffsohn, quedó claro cuál era el matiz de dicha pregunta. Aún y así, se pasaron dos preguntas adicionales a los pacientes que realizaron el cognitive
+debriefing para esclarecer cuál de las dos era más comprensible para ellos y daba lugar a menos dudas. Las preguntas fueron: 7a) Para ver la televisión (distinguiendo las
+imágenes) y 7b) Para ver la televisión (distinguiendo los colores y las formas).
+Reading your letters and mail
+Para leer sus cartas o mail
+Para leer tus cartas y correos
+Para leer sus cartas y correos electrónicos
+Observaciones: Se reflexionó que actualmente gran parte de la información se recibe en dispositivos móviles y se estimó necesaria una actualización de la pregunta. Se consensuó
+con el Dr Wolffsohn de crear una pregunta adicional al cuestionario castellano. 20a) Para leer su cartas y correos electrónicos 20b) Para leer mensajes en dispositivos electrónicos
+(por ejemplo, en el móvil o tableta). Finalmente, pues, el test castellano cuenta con una pregunta adicional, una vez se administre el test y se dispongan de datos estadísticos
+concluyentes, se procederá a fusionar las dos preguntas en una sola si no existen diferencias significativas entre ambas.
+Writing (e.g. cheques or cards)
+
+Para escribir (por ejemplo, cheques o
+Para escribir (ej cheques o
+Para escribir (por ejemplo cheques o tarjetas)
+tarjetas)
+cartas/postales)
+Observaciones: La pregunta fue revisada y actualizada ya que actualmente casi no se rellenan cheques o tarjetas, en cambio sí que es más frecuente rellenar formularios.
+El Dr. Wolffsohn aprobó dicha modificación y consideró que era más oportuna y actualizada que la versión inicial.
+
+9
+
+
+[page 10]
+Tabla 2. Ejemplos de traducción inversa (retro-traducción) de la primera versión española del
+LVQOL al inglés, con comparación con la versión original.
+
+Versión original (VO)
+
+Retro-traducción 1 (T3)
+
+Retro-traducción 2 (T4)
+
+How much of a problem do you
+have
+
+What difficulty do you have?
+
+What difficulties have you got?
+
+1
+
+With your vision in general
+
+With your sight in general
+
+With your eyesight in general
+
+2
+
+With your eyes getting tired (e.g.
+only being able to do a task for a
+short period of time)
+
+Because your eyes get tired (for
+example you are only able to do a
+task for a short time)
+
+Because your eyes get tired (i.e. you
+are only capable to do one task
+during a very short time
+
+5
+
+With glare (e.g. dazzled by car
+light or the sun)
+
+With being dazzled (for example
+by car headlights or the sun)
+
+With the glare (e.g. dazzled by the
+lights of a car or of the sun)
+
+6
+
+Seeing street signs
+
+To see traffic lights
+
+To see traffic signs
+
+7a
+
+Seeing the television
+(appreciating the pictures)
+
+To watch television (distinguishing
+images)
+
+To watch TV (distinguishing images)
+
+9
+
+With judging the depth or
+distance of items (e.g. reaching
+for a glass)
+
+To judge distances and depths of
+objects (like picking up a glass)
+
+To decide the distance and depth of
+objects (e.g. when holding a glass)
+
+12
+
+Crossing a road with traffic
+because of your vision
+
+To cross the road with traffic
+because of your sight
+
+To cross a busy street due to your
+eyesight
+
+14
+
+Frustrated at not being able to do
+certain tasks
+
+Frustrated or bothered not to be
+able to do certain tasks
+
+Frustrated or annoyed for not being
+able to do certain tasks
+
+15
+
+Restricted in visiting friends or
+family
+
+Restricted regarding visiting
+friends or family
+
+Limited to visit friends or relatives
+
+19
+
+Reading labels (e.g. on medicine
+bottles)
+
+To read labels (for example on
+medicine packets
+
+To read labels (e.g. in the packaging
+of medicinal products)
+
+10
+

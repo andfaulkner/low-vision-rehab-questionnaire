@@ -1,0 +1,874 @@
+[page 1]
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+DOI 10.1007/s10484-009-9083-4
+
+Low-Vision Rehabilitation by Means of MP-1 Biofeedback
+Examination in Patients with Different Macular Diseases:
+A Pilot Study
+Enzo M. Vingolo Æ Serena Salvatore Æ
+Sonia Cavarretta
+
+Published online: 25 April 2009
+Ó Springer Science+Business Media, LLC 2009
+
+Abstract Macular disease is one of the main causes of
+visual impairment. We studied the efficacy of low-vision
+rehabilitation by means of MP-1 biofeedback examination
+in patients with different macular disease. Five patients
+were enrolled (3 female and 2 male, mean age 53.8 years)
+and a total of 9 eyes was examined: 2 eyes with vitelliform
+dystrophy, 1 with a post-traumatic macular scar, 2 with
+Stargardt disease, 2 with myopic macular degeneration, 2
+with cone dystrophy. All the patients underwent the following tests: visual acuity, reading speed, fixation test,
+MP-1 microperimetry. Low-vision rehabilitation, which
+lasted 10 weeks, consisted of 10 training sessions of
+10 min for each eye, performed once a week using the
+MP-1 biofeedback examination. Statistical analysis was
+performed using Student’s t-test. p values less than 0.05
+were considered statistically significant. After training all
+patients displayed an improvement in visual acuity, fixation
+behaviour, retinal sensitivity and reading speed. Fixation
+behaviour within the 2° diameter circle improved and
+was statistically significant for reading speed (p = 0.01).
+Reading speed improved from a mean value of 64.3 to 92
+words/min. Our results show that audio feedback can, by
+increasing attentional modulation, help the brain to fix the
+final preferred retinal locus. Audio feedback facilitates
+stimuli transmission between intraretinal neurons as well as
+between the retina and brain, which is where the highest
+
+E. M. Vingolo
+Department of Ophthalmology, Alfredo Fiorini Hospital,
+‘‘La Sapienza’’ University, Polo Pontino, Terracina, LT, Italy
+S. Salvatore (&)  S. Cavarretta
+Department of Ophthalmology, ‘‘La Sapienza’’ University,
+Policlinico Umberto I, 00161 Rome, Italy
+e-mail: serena.sal@hotmail.it
+
+level of stimuli processing occurs, thereby probably supporting a ‘‘remapping phenomenon’’.
+Keywords Biofeedback  Low-vision rehabilitation 
+Macular disease  MP-1 microperimeter 
+Preferred retinal locus (PRL)  Scotoma
+
+Introduction
+It has been estimated that 1.75 million individuals in the
+United States have macular disease (MD), and that nearly
+15% of those over 90 years of age have visual impairment
+due to MD (Friedman et al. 2004). Furthermore, the World
+Health Organization (WHO) estimates that 8 million people are severely visually impaired because of age-related
+macular disease (AMD).
+Macular diseases (e.g. AMD, Stargardt, cone-dystrophy,
+macular myopic degeneration, vitelliform dystrophy, posttraumatic macular scar) are characterised by the development of a central scotoma which, besides reducing reading
+speed, interferes with other visual functions: space perception, contrast sensitivity, stereopsis and fixation stability. This interference is due in part to the inability of these
+subjects to accurately track a target because of impaired
+ocular movement (Pidcoe and Wetzel 2006; McMahon
+et al. 1991). The degree of visual impairment in such
+subjects varies according to the age of the patients, the
+presence of other systemic pathologies, the environment in
+which they live, their education level and the psychological
+state with which they accept their condition.
+As life expectancy increases in many countries, a
+growing concern over the quality of life of these people has
+led to studies aimed at investigating ways of improving
+their visual performance, but our inability to effectively
+
+123
+
+
+[page 2]
+128
+
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+
+treat most macular degenerations is still high, leading to an
+increase in the number of low-vision patients.
+Optical aids designed to improve low vision are generally
+uncomfortable for the patient, often resulting in a state of
+depression; moreover, the higher the magnification, the more
+restricted the field of vision becomes. It is for this reason that
+new biofeedback strategies aimed at improving retinal sensitivity and fixation stability have been proposed; the MP-1
+microperimeter (Nidek Technologies, Italy) was designed to
+locate the new preferred retinal locus (PRL) more accurately,
+and consequently increase visual performance.
+The MP-1 microperimeter uses cerebral plasticity and
+neurosensorial adaptation to the central scotoma of patients
+with macular diseases (MD) to improve their visual abilities and lay the basis for new, more manageable visual aids.
+Indeed, such patients often develop a new PRL, which can
+be defined as a discrete retinal area that contains more than
+20% of the fixation points in a location that is considered
+unfavourable for reading (Crossland et al. 2005). Moreover, a sizeable proportion of patients use more than one
+PRL for a given task. It has been also found that some
+patients exhibit a re-referencing of the oculomotor system
+to the PRL, which leads them to say that they are looking
+straight ahead when they are fixating with the PRL (i.e.
+when the eye is not in the primary position). This phenomenon has been referred to as adaptive eccentric fixation
+or oculomotor re-referencing (Crossland et al. 2005).
+The purpose of this study was to estimate the benefits of
+low-vision rehabilitation using the MP-1 biofeedback
+(BFD) examination to better define the PRL and increase
+
+its stability, thereby helping patients to re-reference their
+oculomotor system and improve their reading speed.
+
+Methods
+Participants
+We randomly enrolled 5 patients (3 female and 2 male)
+who had come to Department of Ophthalmology of the A.
+Fiorini Hospital, at the ‘‘La Sapienza’’ University of Rome,
+with macular disease and an absolute central scotoma. As
+can be seen on Table 1, we examined 9 eyes: one eye with
+a post-traumatic macular scar (patient no 1); two eyes with
+vitelliform dystrophy (patient no 2), two eyes with myopic
+macular degeneration (patient no 3), two eyes with cone
+dystrophy (patient no 4); and two eyes with Stargardt
+disease (patient no 5).
+Patients were diagnosed on the basis of a complete
+examination of the anterior and posterior segment, which
+included microperimetry, fluorescein angiography and
+ocular coherence tomography (OCT). Four eyes had an
+IOL implanted in the posterior chamber and had already
+undergone Nd-YAG laser capsulotomy. None of the
+patients displayed any glaucomatous or lens changes that
+may have affected visual acuity. All the patients read
+Italian as a first language, and none had a history of neurological or psychiatric disease, systemic hypertension,
+diabetes, or any other ocular pathology. The mean patient
+age was 53.8 years (range: 33–78 years). The time lapse
+
+Table 1 Table of results
+Patient
+number
+
+Diagnosis
+
+Scotoma size Fixation location (PRL) BCVA
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+Fixation
+Behaviour
+
+Retinal
+sensitivity
+(dB)
+
+Reading
+speed
+(words/min)
+
+Pre
+
+Post
+
+Pre
+
+Pre
+
+Post
+
+Post
+
+\2°
+
+Superior
+
+Superior
+
+0.3
+
+0.2
+
+32%
+
+66%
+
+16.2 16.9
+
+174
+
+206
+
+2 Right eye Vitelliform dystrophy
+
+\4°
+
+To the left
+
+Superior
+
+0.2
+
+0
+
+67%
+
+100% 13.5 17.3
+
+166
+
+174
+
+2 Left eye
+
+\4°
+
+24
+
+1
+
+Post traumatic macular scar
+
+To the left
+
+To the left 1.1
+
+0.5
+
+49%
+
+100%
+
+9.6 13.2
+
+18
+
+3 Right eye Myopic macular degeneration –
+
+Vitelliform dystrophy
+
+In ring
+
+In ring
+
+0.7
+
+0.4
+
+27%
+
+52%
+
+6
+
+6.2
+
+38
+
+55
+
+3 Left eye Myopic macular degeneration [10°
+4 Right eye Cone dystrophy
+[10°
+
+Superior
+Superior
+Upper right Superior
+
+1.7
+0.5
+
+1.1
+0.4
+
+23%
+20%
+
+56%
+80%
+
+6.1
+7.1
+
+6.5
+7.8
+
+5
+12
+
+12
+22
+
+8.5
+
+5
+
+12
+
+Cone dystrophy
+
+[10°
+
+Upper left
+
+Superior
+
+1.7
+
+1.22
+
+17%
+
+66%
+
+6.5
+
+5 Right eye Stargardt disease
+
+\4°
+
+Superior
+
+Superior
+
+0.6
+
+0.6
+
+38%
+
+97%
+
+14.4 16.3
+
+108
+
+219
+
+5 Left eye
+
+\4°
+
+Superior
+
+Superior
+
+0.5
+
+0.5
+
+34%
+
+98%
+
+14.8 16.6
+
+53
+
+103
+
+Mean
+
+0.811 0.546 34%
+
+79%
+
+10.4 12.1
+
+64.3
+
+91.8
+
+SD
+
+0.564 0.391 0.1576 0.198
+
+4.2
+
+68
+
+4 Left eye
+
+p values
+
+Stargardt disease
+
+0.011
+
+1.250
+
+4.8
+0.005
+
+86.3
+0.04
+
+Pre, baseline values; Post, values at the end of low-vision rehabilitation; BCVA, best distance spectacle corrected visual acuity expressed in
+logMAR; Fixation location (PRL), location of the PRL related to the retinal lesion; Fixation behaviour, fixation behaviour within the 2° diameter
+circle; Reading speed, (words/min) assessment was done with an add selected for age and a ? 4.00 (19) on the top of this; SD Standard
+Deviation; p values, p \ 0,05 were considered statistically significant
+
+123
+
+
+[page 3]
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+
+since the onset of visual acuity deterioration ranged from 2
+to 40 years, and none of the patients had previously
+received visual rehabilitation with MP-1 biofeedback
+(BFD). Informed consent to participate in the study was
+obtained from all the patients. The ethics committee of our
+institution approved the study protocol. All the procedures
+adhered to the tenets of the Declaration of Helsinki.
+Assessment Measures
+All the patients underwent the same low-vision rehabilitation protocol which consisted of: a 22-item questionnaire,
+the assessment of distance and near visual acuity, reading
+speed test (words/min), fixation test, microperimetry, 10
+training sessions.
+The 22-item questionnaire on daily living activities and
+patients’ expectations from rehabilitation was designed to
+confirm the priority task and identify any other residual
+functional skills requiring rehabilitation.
+Best distance spectacle corrected visual acuity (BCVA)
+was determined using the Early Treatment of Diabetic
+Retinopathy Study visual acuity chart, which was converted to logarithm of the minimum angle of resolution
+(logMAR) for statistical analyses; the assessment of near
+visual acuity was determined at 25 cm or nearer with an
+add selected for age and a ? 4.00 reading lens on top of
+this.
+For each eye reading speed was measured by reading of
+black letters (type: Times New Roman) on a white background at a distance of 25 cm or nearer corrected with an
+add selected for age and a ? 4.00 reading lens on top of
+this. Subjects were instructed to read each sentence aloud
+as fast as possible without skipping words (character size
+was adapted to patients’ visual acuity and expressed in
+electronic points). The sentences contained high-frequency,
+non-technical words and were declarative in nature.
+Uppercase letters were used at the beginning of sentences,
+but no punctuation characters were used.
+The microperimetry and fixation test of the macular area
+were performed with the MP-1 microperimeter from Nidek
+Technologies (Padua, Italy); for the fixation test: a 2° or 1°
+single cross fixation target was used in all eyes before
+BFD; after training only 1° single cross was used, and the
+examination time was set at 30 s.
+Microperimetry was performed using the automated
+programme, the threshold test of 4–2 strategy, and a 1°
+single cross fixation target; however, at the beginning of
+the study the size was enlarged to a 2° single cross fixation
+target when patient was not able to see the 1° single cross
+fixation target. After training only 1° single cross target
+was used for all patients. Retinal threshold sensitivity was
+measured in all eyes using the mire of Goldmann III (round
+shape with a white background) with stimulus intensity
+
+129
+
+ranging from 0 to 20 dB. Stimulus presentation time was
+200 ms. When a stimulus was not detected within 2 s, the
+next stimulus began. Pretest training was performed for
+both microperimetry and fixation test and 5 min visual
+adaptation was allowed before starting the test. We assessed each eye separately for fixation behaviour, location and
+stability of the PRL, scotoma size and density, and central
+light sensitivity.
+The assessment of distant and near visual acuity, reading
+speed test, fixation and microperimetry tests were repeated
+at the end of low-vision rehabilitation (i.e. after 10 weeks).
+Microperimetry was repeated using the follow-up function,
+which automatically retests the retinal sensitivity in exactly
+the same locations and under the same conditions as in the
+previous microperimetry examination.
+Apparatus
+The microperimetry, fixation test and rehabilitation were
+performed with the MP-1 microperimeter from Nidek
+Technologies (Padua, Italy), using the software version
+available in June 2003 (version: MP1 SW 1.4.1. SP1) with
+automated correction for eye movements which combines
+fundus tracking microperimetry and colour fundus photography in a single instrument, thereby allowing direct
+fixation control and a precise delineation of the scotoma
+(Springer et al. 2005; Rohrschneider et al. 2002; Sawa
+et al. 2006). Briefly, the instrument has a 45° field of view
+and a liquid crystal display monitor. The background
+luminance of the instrument is 1.27 cd/m2, while the
+highest stimulus intensity is 127 cd/m2. Stimulus attenuation ranges from 0 to 20 dB with Goldmann-type size.
+For the fixation stability assessment, movements of the
+fundus are tracked during the examination while the
+patient gazes at the fixation target. The autotracking
+system calculates horizontal and vertical shifts relative to
+a reference frame and maps the patient’s eye movements
+during the examination.
+Intervention
+The low-vision rehabilitation consisted of 10 training sessions of 10 min for each eye, performed once a week using
+the MP-1 biofeedback examination. The patients were
+asked to move their eyes according to an audio feedback
+which advised them whether they were getting closer to the
+desired final fixation position. All the procedures were
+followed on a monitor and the results stored in a computer
+and on diskettes.
+Statistical analysis was performed using paired Student’s t-test. p values less than 0.05 were considered statistically significant for all tests because of the preliminary
+nature of this study.
+
+123
+
+
+[page 4]
+130
+
+Results
+Scotoma Size and Density
+Scotoma density was defined as follows: a reduction in
+the differential light threshold was categorised (1) as an
+‘‘absolute scotoma’’ when one or more stimuli were not
+seen with the brightest stimulus (0 dB), (2) as a ‘‘relative
+scotoma’’ when a circumscribed area of reduced differential light threshold could be found and (3) as a
+‘‘general reduced differential light threshold’’ when the
+threshold values were reduced to the same threshold
+level in the whole area examined (Rohrschneider et al.
+2002).
+All the eyes examined but one were affected by an
+absolute scotoma; the remaining eye had a relative scotoma
+due to vitelliform dystrophy.
+We divided the eyes examined into three groups
+according to the diameter of the central scotoma: Group A:
+diameter [10°: 3 eyes (1 with myopic degeneration, 2 with
+cone dystrophy); Group B: diameter \4°: 4 eyes (2 with
+Stargardt, 2 with vitelliform dystrophy); Group C: diameter
+\2°: 1 eye (traumatic macular scar). One eye with macular
+myopic dystrophy, with a healthy retinal area at the posterior pole surrounded by areas of corioretinal atrophy, was
+excluded from the classification.
+Although the scotoma size of three eyes (traumatic
+macular scar, vitelliform dystrophy, myopic dystrophy)
+may have been increasing, no change was observed during
+the training.
+Fixation Location
+At the beginning of the study fixation location in our
+patients was the following: 6 PRLs were located in the
+superior hemiretinal field (4 in a central position, directly
+over the scotoma, 1 upper left and 1 upper right the scotoma), 2 PRLs were positioned to the left of the retinal
+lesion, 1 PRL was in the middle of the ring scotoma.
+At the end of low-vision rehabilitation fixation location
+was as follows: 7 PRLs were located in the superior hemiretinal field (in a central position over the scotoma); 1
+PRL remained to the left of the retinal lesion and 1 PRL
+stayed in the middle of the ring scotoma. For three eyes
+fixation location was changed, while in six eyes fixation
+behaviour of the existing PRL was reinforced.
+For the selection of the PRL to be trained with biofeedback examination it was chosen an area of 2° diameter
+circle located, if possible, over the scotoma, with an
+appropriate retinal sensitivity to ensure the reinforcement
+of fixation behaviour and fluent reading.
+It has been demonstrated that reading speed improves
+dramatically if a newly trained retinal locus (TRL) is
+
+123
+
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+
+established in an area that is more favourable for reading
+(Nilsson et al. 2003), so the new PRL was chosen by the
+ophthalmologist, who paid particular attention to the
+width of the retinal area (for fluent reading patients must
+be able to read at least four letters) and to its sensitivity.
+Moreover, all the new PRLs were positioned in the
+superior hemi-retinal field, which is considered to be
+more favourable for reading, regardless of their previous
+position.
+Fixation Behaviour
+The fixation points recorded were classified in three groups
+for the fixation analysis, termed ‘‘stable’’, ‘‘relatively
+unstable’’ and ‘‘unstable’’. Fixation was regarded as ‘‘stable’’ if more than 75% of the fixation points were inside the
+2° diameter circle (about 700 microns), as ‘‘relatively
+unstable’’ if less than 75% were inside the 2° diameter
+circle but more than 75% were inside the 4° diameter
+circle, and as ‘‘unstable’’ if less than 75% of the fixation
+points were inside the 4° diameter circle (Fujii et al. 2002;
+Fig. 1).
+At the beginning of low-vision rehabilitation the eyes
+examined were divided as follows: Group 1: stable fixation: 0 eyes; Group 2: relatively unstable fixation: 4 eyes;
+Group 3: unstable fixation: 5 eyes.
+At the end of the visual rehabilitation the stability of
+fixation had improved: Group 1: stable fixation: 5 eyes;
+Group 2: relatively unstable fixation: 4 eyes; Group 3:
+unstable fixation: 0 eyes.
+Fixation behaviour within the 2° diameter circle
+improved, though this result was not statistically significant
+(p = 1.25); by contrast, the improvement of fixation
+behaviour within the 2° diameter circle related to reading
+speed was statistically significant (p = 0.01).
+Patients’ Direction of Gaze
+At the end of the visual protocol, the patients’ direction of
+gaze was examined: 2 patients (one with cone dystrophy
+and the other with Stargardt disease) upward; 3 patients
+(one had a post-traumatic macular scar and a normal
+fellow eye, another had myopic macular degeneration in
+both eyes, with a small non-atrophic area at the posterior
+pole in one and extensive corioretinal atrophy occupying
+all the posterior pole in the other, while the third had
+vitelliform dystrophy in both eyes, with a larger atrophic
+area in one eye) maintained their primary gaze position,
+defined as the position of the eye when a patient is
+looking at a visual target that is straight ahead (Schuchard
+2005).
+All the patients displayed an improvement in visual
+acuity, fixation behaviour, retinal sensitivity and reading
+
+
+[page 5]
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+
+131
+
+Fig. 1 Mp-1 images. The fixation map at baseline and the fixation
+map at the end of the study in patient number 5. For the selection of
+the PRL to be trained with biofeedback examination it was chosen an
+area of 2° diameter circle located, if possible, over the scotoma, with
+
+an appropriate retinal sensitivity to ensure the reinforcement of
+fixation behaviour and fluent reading (to read at least four letters).
+Fixation behaviour of the existing PRL was reinforced
+
+speed, regardless of the size of the central scotoma, as
+shown in Table 1.
+
+Reading Speed
+
+Visual Acuity
+The mean best distance spectacle-corrected visual acuity
+(VA) was 0.81 ± 0.56 logMAR at the baseline assessment,
+and 0.54 ± 0.39 logMAR at the end of visual rehabilitation; this result was statistically significant (p = 0.009).
+The mean character size value improved from 11.7 to
+7.8; this result was statistically significant (p = 0.03).
+Improvement in distant visual acuity according to retinal
+sensitivity was statistically significant (p = 0.0001), while
+distant visual acuity related to fixation behaviour was not
+statistically significant (p = 0.152).
+
+Reading speed improved from a mean value of 64.3 words/
+min at the beginning of the study to 91.8 words/min at the
+end, and was accompanied by a decrease in the character
+size that could be read by the patient (from 11.7 to 7.8);
+this result was statistically significant (p = 0.03).
+Subjective Changes
+The first question patients were asked after the training
+period was: ‘‘did you benefit from the training?’’; they were
+then asked: ‘‘did your reading improve after training?’’.
+The reply to these questions were in the form of ‘‘yes or
+no’’, all the patients replied yes.
+
+123
+
+
+[page 6]
+132
+
+Lastly, patients were asked to give examples from
+everyday life concerning changes after the training. As
+regards subjective changes, all the patients said their
+reading ability as well as independence had improved
+dramatically (they were able to read again some titles in the
+newspaper, or dial telephone numbers, or use the public
+transport after the training, etc.) and were very satisfied
+with the training.
+Retinal Sensitivity
+There was a considerable increase in the mean retinal
+sensitivity, as shown by a comparison of the microperimetry findings at the beginning and at the end of the study
+(see Table 1). This increase was statistically significant
+(p = 0.005). The increase in retinal sensitivity (retinal
+sensitivity was averaged over all points tested) was due to
+the fact that we trained patients to adopt a PRL (‘‘retinal
+motor’’) with appropriate retinal sensitivity, to increase the
+number of correct fixation saccades and re-reference the
+oculomotor system, the other PRLs which showed low
+retinal sensitivity were automatically discarded, thus
+improving fixation behaviour.
+
+Discussion
+The aim of our study was to evaluate the efficacy of low vision rehabilitation by means of MP-1 biofeedback
+examination in patients with different macular disease, and
+examine the relationship between PRL fixation stability
+and reading speed in patients with a central scotoma.
+Macular diseases are ocular pathologies that affect the
+central retinal area, determining a reduction in visual
+acuity, contrast sensitivity, colour perception, ocular
+motility and altered stereopsis, and are accompanied by the
+appearance of scotomata in the visual fields and visual
+impairment.
+It has been demonstrated a shift in the oculomotor reference from the fovea to a preferred eccentric retinal area is
+possible in patients with bilateral macular disease (Schuchard 2005; Alpeter et al. 2000).
+Studies have described the use of multiple PRLs under
+different light conditions and for different tasks (Nilsson
+et al. 2003; Lei and Schuchard 1997; Steinman 1965;
+Crossland et al. 2004a, b). Patients are often unaware of
+how and when they use multiple PRLs (Crossland et al.
+2005; Schuchard 2005; Fletcher and Schuchard 1997). The
+most basic eye movements made by the visual system are
+fixation, pursuit and saccadic movements. These tasks are
+believed to represent measurable parameters of the PRL
+quality for visual performance, i.e. to optimally function as
+a retinal locus for visual performance, the PRL needs to
+
+123
+
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+
+maintain the visual image in a discrete and stable retinal
+area, to track moving objects of interest in the visual field
+away from the PRL (saccadic movements) (Schuchard
+2005).
+These aspects of the PRL play an important role in the
+daily living activities of patients with maculopathies. The
+ability of the PRL to direct eye movements, whether it be
+saccadic ability (measured by the number and characteristics of saccades) or fixation stability, are far more closely
+correlated with reading speed and correct reading rate than
+either visual acuity or the presence of a scotoma (Schuchard 2005; Petre et al. 2000; Sunness et al. 1996; Cummings et al. 1985; Steinman et al. 1973; Whittaker et al.
+1991). It is perhaps surprising that there is no correlation
+between scotoma size and fixation stability, as fixation is
+known to become less precise as eccentricity increases, and
+a larger scotoma will lead to a more eccentric PRL being
+used. Connection between visual acuity, central rentinal
+sensitivity and fixation stability has been demonstrated
+(Carpineto et al. 2007); a correlation between reading
+ability and fixation stability in patients with macular disease has been found (Crossland et al. 2004a, b).
+Reading ability in patients with a central scotoma
+(whether dense or relative) is reduced. One of the objectives of visual rehabilitation with MP1 biofeedback is to
+allow low-vision patients to read again.
+The new MP-1 microperimeter feedback examination
+allows the ophthalmologist to train the patient to fixate the
+target with the new PRL. Patients are asked to move their
+eyes according to an audio feedback which tells them
+whether they are getting closer to a fixation position chosen
+by the ophthalmologist. BFD training results allow a
+variety of optical aids to be used, such as prismatic lenses,
+spherical lenses, a high power optical magnifier and filters,
+because the patient performs better visually after training
+than before (Frennesson et al. 1995; Nilsson and Nilsson
+1986; Romayananda et al. 1982).
+Our results show that increased PRL fixation stability
+and retinal sensitivity improve reading speed and visual
+efficiency. Furthermore our experience with low-vision
+rehabilitation in patients with macular disease suggests that
+even if it is not possible in humans, at present time, to
+regenerate the affected retina, it could be possible to
+improve their residual vision, to restore a better visual
+performance and a much more positive psychological situation. All treated patients showed a good response after
+the treatment and asked us for new sessions.
+Improvement trough BFD training in patients who suffer
+from macular disease which remain either stable or worsen,
+where the traditional treatment cannot offer further results,
+is of interest and well worthy of attention.
+The reasons of this improvement are probably due to the
+fact that we trained a ‘‘retinal motor’’ PRL, with
+
+
+[page 7]
+Appl Psychophysiol Biofeedback (2009) 34:127–133
+
+appropriate retinal sensitivity, so as to increase the number
+of correct fixation saccades and re-reference the oculomotor system. The main drawback of our low-vision protocol using the MP-1 biofeeback examination is that the
+results obtained for both visual acuity and reading speed
+tended to lack constancy, but in our experience, five
+10-min follow-up training sessions using the MP-1 BFD
+examination every 3 months are sufficient to maintain the
+visual performance achieved at the end of the protocol.
+Further studies are warranted to investigate the reasons
+underlying these results. The BFD effect is probably related to the brain’s ability to perceive an efficient PRL for
+visual tasks. The audio feedback can, by increasing attentional modulation, help the brain fix the final PRL.
+Sound perception increases the conscious attention of
+the patient, (Alpeter et al. 2000; Buia and Tiesinga 2006),
+thereby facilitating the lock-in of the visual target and
+increasing the permanence time of the target itself on the
+retina. This mechanism probably facilitates stimuli transmission between intraretinal neurons as well as between
+the retina and brain, where the highest degree of stimuli
+processing takes place, thereby supporting a ‘‘remapping
+phenomenon’’. Although cortical rearrangement, together
+with the resulting filling-in, may play an important role in
+the training of a PRL, this can happen for a variety of
+reasons, and further studies are needed to evaluate with
+specific evidence that a cortical remapping is responsible
+for it.
+
+References
+Alpeter, E., Mackben, M., & Trauzettel-Klosinski, S. (2000). The
+importance of sustained attention for patients with maculopthies.
+Vision Research, 40, 1539–1547.
+Buia, C., & Tiesinga, P. (2006). Attentional modulation of firing rate
+and synchrony in a model cortical network. Journal of Computational Neuroscience, 20, 247–264.
+Carpineto, P., Ciancaglini, M., Di Antonio, L., Gavalas, C., &
+Mastropasqua, L. (2007). Fundus microperimetry patterns of
+fixation in type 2 diabetic patients with diffuse macular edema.
+Retina, 27, 21–29.
+Crossland, M. D., Culham, L. E., Kabanarou, S. A., & Rubin, G. S.
+(2005). Preferred retinal locus development in patients with
+macular disease. Ophthalmology, 112, 1579–1585.
+Crossland, M. D., Culham, L. E., & Rubin, G. S. (2004a). Fixation
+stability and reading speed in patients with newly developed
+macular disease. Ophthalmic and Physiological Optics, 24,
+327–333.
+Crossland, M. D., Sims, M., Galbraith, R. F., & Rubin, G. S. (2004b).
+Evaluation of a new quantitative technique to assess the number
+and extent of preferred retinal loci in macular disease. Vision
+Research, 44, 1537–1546.
+Cummings, R. W., Whittaker, S. G., Watson, G. R., & Budd, J. M.
+(1985). Scanning characters and reading with central scotoma.
+American Journal of Optometry and Physiological Optics, 62,
+833–843.
+
+133
+Fletcher, D. C., & Schuchard, R. A. (1997). Preferred retinal loci,
+relationship to macular scotoma in a low vision population.
+Ophthalmology, 104, 632–638.
+Frennesson, C., Jakobsson, P., & Nilsson, U. L. (1995). A computer
+and video display based system for training eccentric viewing in
+macular degeneration with an absolute central scotoma. Documenta Ophthalmologica, 9, 9–16.
+Friedman, D. S., O’ Colmain, B. J., Munoz, B., et al. (2004). Eye
+diseases prevalence research group. Prevalence of age-related
+macular degeneration in the United States. Archives of Ophthalmology, 122, 564–572.
+Fujii, G. Y., de Juan, E., Jr, Sunness. J., Humayun, M. S., Pieramici,
+D. J., & Chang, T. S. (2002). Patient selection for macular
+translocation surgery using the scanning laser ophthalmoscope.
+Ophthalmology, 109, 1737–1744.
+Lei, H., & Schuchard, R. A. (1997). Using two preferred retinal loci for
+different lighting conditions in patients with central scotoma.
+Investigative Ophthalmology and Visual Science, 38, 1812–1818.
+McMahon, T. T., Hansen, M., & Viana, M. (1991). Fixation
+characteristics in macular disease. Investigative Ophthalmology
+and Visual Science, 32, 567–574.
+Nilsson, U. L., Frennesson, C., & Nilsson, S. E. (2003). Patients with
+AMD and a large absolute central scotoma can be trained
+successfully to use eccentric viewing, as demonstrated in a
+scanning laser ophthalmoscope. Vision Research, 43, 1777–1778.
+Nilsson, U. L., & Nilsson, S. E. (1986). Rehabilitation of the visually
+handicapped with advanced macular degeneration. A follow-up
+study at the Low Vision Clinic, Department of Ophthalmology,
+University of Linköping. Documenta Ophthalmologica, 62,
+345–367.
+Petre, K. L., Hazel, C. A., Fine, E. M., & Rubin, G. S. (2000). Reading
+with eccentric fixation is faster in inferior visual field than in left
+visual field. Optometry and Vision Science, 77, 34–39.
+Pidcoe, P. E., & Wetzel, P. A. (2006). Oculomotor tracking strategy
+in normal subjects with and without simulated scotoma.
+Investigative Ophthalmology and Visual Science, 47, 169–177.
+Rohrschneider, K., Springer, C., Bultmann, S., & Volker, H. E.
+(2002). Microperimetry-comparison between the micro perimeter 1 and scanning laser ophthalmoscope-fundus perimetry.
+American Journal of Ophthalmology, 139, 125–134.
+Romayananda, N., Wong, S. W., Elzeneiny, I. H., & Chan, G. H.
+(1982). Prismatic scanning method for improving visual acuity
+in patients with low vision. Ophthalmology, 89, 937–949.
+Sawa, M., Gomi, F., Toyoda, A., Ikuno, Y., Fujikado, T., & Tano, Y.
+(2006). A microperimeter that provides fixation pattern and
+retinal sensitivity measurement. Japanese Journal of Ophthalmology, 50, 111–115.
+Schuchard, R. A. (2005). Preferred retinal loci and macular scotoma
+characteristics in patients with age-related macular degeneration.
+Canadian Journal of Ophthalmology, 40, 303–312.
+Springer, C., Bultmann, S., Volcker, H. E., & Rohrschneider, K.
+(2005). Fundus perimetry with microperimeter 1 in normal
+individuals, comparison with conventional threshold perimetry.
+Ophthalmology, 112, 848–854.
+Steinman, R. M. (1965). Effect of target size, luminance, and color on
+monocular fixation. Journal of the Optical Society of America,
+55, 1158–1165.
+Steinman, R. M., Haddad, G. M., Skavenski, A. A., & Wyman, D.
+(1973). Miniature eye Movement. Science, 181, 810–819.
+Sunness, J. S., Appelgate, C. A., Haselwood, D., & Rubin, G. S.
+(1996). Fixation patterns and reading rates in eyes with central
+scotomas from advanced atrophic age related macular degeneration and Stargardt disease. Opthalmology, 103, 1458–1466.
+Whittaker, S. G., Cummings, R. W., & Swieson, L. R. (1991).
+Saccade control without a fovea. Vision Research, 31, 2209–
+2218.
+
+123
+

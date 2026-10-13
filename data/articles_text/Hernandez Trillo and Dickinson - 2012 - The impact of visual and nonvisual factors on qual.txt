@@ -1,0 +1,1482 @@
+[page 1]
+Low Vision
+
+The Impact of Visual and Nonvisual Factors on Quality of
+Life and Adaptation in Adults with Visual Impairment
+Ana Hernandez Trillo and Christine M. Dickinson
+PURPOSE. Quality of life (QoL) questionnaires have been
+suggested as the most appropriate way to measure the
+effectiveness of low vision rehabilitation. This study investigated the relative contribution of visual and psychosocial
+factors to different aspects of QoL in people with low vision.
+
+From the Faculty of Life Sciences, The University of Manchester,
+Manchester, United Kingdom.
+Supported by award of a Research Scholarship to AHT from The
+College of Optometrists.
+Submitted for publication January 26, 2012; revised April 23,
+2012; accepted May 8, 2012.
+Disclosure: A. Hernandez Trillo, None; C.M. Dickinson,
+None
+Corresponding author: Ana Hernandez Trillo, Faculty of Life
+Sciences, The University of Manchester, Carys Bannister Building,
+Dover Street, Manchester, M13 9PL, United Kingdom;
+ana.hernandeztrillo@manchester.ac.uk.
+
+describe the consequences of disease was defined. Impairment
+describes the abnormalities in the structure or functioning of
+the body, whilst activity limitation refers to the difficulty in
+performing specific tasks in everyday life. Participation
+restriction refers to individuals’ perception of the barriers
+experienced in life situations in relation to those impairments
+and activity limitations, in the context of their own personality,
+their adaptation to the visual loss, and the circumstances in
+which they live. Stucki et al.3 explained this term as the
+complex interaction between the health condition, the
+individual, and the environment. It relates to the global
+consequences of impairment and/or activity limitation for the
+individual in terms of all aspects of life, that is, mobility,
+exchange of information, social relationships, education, work,
+leisure and spirituality, economic life, and civic and community
+life.4
+Individuals’ reaction to rehabilitation and their participation
+restriction are likely to be influenced by their adaptation to,
+and acceptance of, their visual loss. Negative reactions to the
+loss of vision include shock, anger, denial or disbelief,
+depression, self-pity, loss of self-esteem, and withdrawal,5 but
+eventually many individuals reach a stage of realistic acceptance. Dodds et al.6 also proposed that successful adjustment
+and adaptation to the visual impairment were related to
+appropriate rehabilitation, arguing that depression and anxiety
+seen in patients with LV were due to the difficulty in
+performing certain tasks that were previously taken for granted
+(loss of self-efficacy). Psychological adjustment to low vision
+can therefore have a considerable impact on individuals’
+quality of life (QoL).
+The WHO7 defines QoL as the ‘‘individual’s perception of
+their position in life in the context of the culture and value
+systems in which they live and in relation to their goals,
+expectations, standards and concerns.’’ QoL is used to define
+the physical, psychological, functional, social, and economic
+well-being of an individual: the impact of a disease may reduce
+health-related quality of life8 or in this specific case, vision related QoL. Quality of life is usually measured with
+questionnaires, and activity limitation and participation restriction are used as surrogate measures of QoL in many studies of
+health conditions: those relating to vision loss are no
+exception. These questionnaires have been used in recent
+years to assess the effectiveness of rehabilitation (such as the
+use of magnifiers and other low vision aids),9–11 but they have
+not yet been successfully used to discriminate between
+different types of rehabilitation.12–14
+The hypothesis of this study was that these outcome
+measures are potentially influenced by a wide range of (largely)
+uncontrollable nonvisual and psychosocial factors, which
+might mask the more limited changes produced by rehabilitation or other interventions.
+Three questionnaires were treated as outcome measures
+representing the different aspects of QoL identified above: the
+Low Vision Quality of Life (the 25-item LVQOL), the Adaptation
+to Age-Related Vision Loss (the 12-item AVL), and the Keele
+
+4234
+
+Investigative Ophthalmology & Visual Science, June 2012, Vol. 53, No. 7
+Copyright 2012 The Association for Research in Vision and Ophthalmology, Inc.
+
+METHODS. A total of 448 consecutive patients between the ages
+of 18 and 96 years, with best-corrected binocular visual acuity
+6/18 and attending a low vision clinic, were recruited.
+Telephone delivery of previously validated questionnaires was
+used. The Low Vision Quality of Life (LVQOL), the Adaptation
+to Age-Related Vision Loss (AVL)-12, and the Keele Participation Restriction Questionnaire (KAP) questionnaires were
+considered as outcome measures for functional vision,
+adaptation to vision loss, and participation restriction, respectively. Personality (BFI-10), religious beliefs (SBI-15), social
+support (MOS), the mental and physical components of
+general health (the MCS and PCS of SF-12), well-being (WHO5), use of magnifiers (MLVQ), understanding of their eye
+condition and satisfaction with the eye clinic (MLVQ), level of
+education, and financial status were all considered as
+predictive of QoL.
+RESULTS. Regression analysis found the PCS and MCS from SF-12
+to be major predictors of LVQOL, AVL-12, and KAP scores.
+Although distance visual acuity and contrast sensitivity were
+predictors of LVQOL scores, ‘‘use of magnifiers’’ did not
+contribute to any of the QoL measures.
+CONCLUSIONS. Nonvisual factors, such as physical and mental
+health, were found to be stronger predictors of QoL in people
+with low vision than visual factors such as contrast sensitivity
+and visual acuity, or the use of magnifiers. Researchers need to
+be aware when measuring QoL in a population with low vision
+that even vision-related QoL is strongly influenced by nonvisual
+variables. (Invest Ophthalmol Vis Sci. 2012;53:4234–4241)
+DOI:10.1167/iovs.12-9580
+ow vision (LV) is defined as reduced visual acuity even
+when the individual is using the best possible optical
+correction1 and is the consequence of untreatable ocular
+disease. In 2001, the World Health Organization (WHO)2
+published the International Classification of Functioning,
+Disability and Health, in which the terminology used to
+
+L
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+
+[page 2]
+Quality of Life in Low Vision 4235
+
+IOVS, June 2012, Vol. 53, No. 7
+Participation Restriction Questionnaire (KAP). The LVQOL
+questionnaire is divided into four subscales, three of which are
+concerned with functional vision ([1] distance vision, mobility,
+and lighting; [2] adjustment to the vision loss; [3] reading and
+fine work; and [4] other activities of daily living). Although the
+authors suggest a total score for this questionnaire,15 each scale
+can be scored separately if researchers are interested in certain
+aspects of quality of life (e.g., adjustment).16
+These instruments were chosen as representative of those
+which have been used to measure the effectiveness of
+rehabilitation, and indeed the LVQOL (Müskens R, et al. IOVS
+2005;46:ARVO E-Abstract 297), AVL,17 and KAP18 have all been
+used in this way previously. However, to the authors’
+knowledge, the KAP questionnaire has not been used
+previously in a population with low vision.
+A review of the literature was performed to identify the
+psychosocial factors that have been found to be related to
+chronic illnesses and low vision. Four specific databases
+(Medline, Embase, Cinahl Plus, PsycInfo) and a general one
+(Scopus) were used for the search, along with the Cochrane
+Library of Systematic Reviews. The search term psychosocial
+AND health AND impairment OR ‘‘activity limitation’’ OR
+‘‘participation restriction’’ was used, and possible factors
+were extracted from the articles identified. These factors were
+then substituted in the search term in place of ‘‘psychosocial,’’
+which identified further articles. This process continued until
+no new factors were appearing.
+The factors of age, sex, personality,19 religious beliefs,20
+coping strategies,21 social/family support,22 level of education,
+financial status,23 home circumstances (living alone),24 the
+patients’ understanding of their condition,25 and depression/
+well-being26 were identified as potential contributors to QoL.
+Other factors thought to be potentially influencing QoL were
+general health (mental and physical) and the visual status (eye
+disease, visual acuity [VA], and contrast sensitivity [CS]). Most
+of these factors have been investigated in studies of QoL in
+chronic illnesses27,28 but not all of them have been considered
+previously when addressing QoL in people with low vision.
+In the absence of strong support in previous work for one
+particular factor determining QoL in visual impairment, a
+comprehensive approach was taken in the current study, with
+the aim of determining the relative contribution of each of
+these factors, rather than concentrating on an in-depth study of
+just one of them. Any dominant factor identified as a result of
+this study could then be the subject of further, more detailed
+investigation. The aim of this study was therefore to assess as
+many factors as possible in a large unselected sample of low
+vision patients who attended a hospital low vision clinic
+delivering typical ‘‘low vision care,’’ in order to identify those
+factors that predict QoL in people with low vision.
+
+The optometrists at the low vision clinic approached eligible
+participants after they had received their usual care, at the end of the
+appointment. Individuals who met the following inclusion and
+exclusion criteria were recruited: aged 18 years or older, best-corrected
+binocular acuity <6/18 (0.48 logMAR) due to any eye condition,
+currently using an optical low vision aid (LVA) (electronic LVAs are not
+provided in the National Health Service, within the UK LV clinics), able
+to communicate fluently in English, having a phone, and with no
+obvious hearing difficulties in following an ordinary conversation. All
+those patients with learning disabilities or cognitive impairments of a
+degree that prevents independent living were also excluded (e.g.,
+dementia, cerebral palsy). The age limit was set by the range over which
+questionnaires have been validated, and the language restriction was
+because some of the questionnaires were only available in English
+versions.
+Participants were asked to undergo a telephone interview lasting
+approximately 1 hour: this avoided the need for the patient to return to
+the clinic but did require them to have adequate hearing. Informed
+written consent was obtained for all the subjects after explanation of
+the nature and possible consequences of the study, and the research
+followed the tenets of the Declaration of Helsinki.
+The LVQOL, AVL-12, and KAP questionnaires were treated as the
+three outcome measures (dependent variables) used to evaluate the
+different aspects of QoL in people with LV. Further well-recognized
+questionnaires (Manchester Low Vision Quality of Life Questionnaire
+[MLVQ], Health Survey [SF-12], MOS Social Support Survey, Spiritual
+Beliefs Inventory [SBI-15R], Personality [BFI-5], Coping Strategies
+Questionnaire [Brief COPE], Depression Questionnaire [WHO-5]) were
+used to score the various psychosocial factors.
+Various criteria were applied to select the different questionnaires
+to be used in the present study. These were practicality (i.e., quick,
+with straightforward easy-to-understand questions [since several
+questionnaires were to be administered]); validity (i.e., used and
+validated previously, ideally with heterogeneous populations); suitable
+for telephone delivery; phrased positively (e.g., WHO-5 well-being
+scale29); and shown to be feasible in an earlier pilot study.30
+The scores from these questionnaires together with demographic
+data about sex, ethnicity, financial status, level of education, living
+alone or not, eye condition, age, and clinical measures, such as VA at
+distance and near, and CS, were treated as the independent variables
+(possible predictors of the outcomes) (Table 1).
+All of the participants in this study were using at least one LVA. The
+interviews were conducted at least 4 weeks after recruitment, allowing
+time for the participants to become familiar with their most up-to-date
+LVA. The MLVQ31 includes questions about the use of magnifiers
+(frequency, average time, and longest time of use of magnifiers) and
+this was used to measure visual rehabilitation; the other questions
+regarding knowledge of the eye condition (e.g., ‘‘name the part of the
+eye affected by your eye condition’’), general knowledge about LV
+(e.g., ‘‘is it true that sitting too close to the TV causes your eyesight to
+worsen?’’), and satisfaction with the LV service (i.e., ‘‘how satisfactory
+was the care you have received for your eye condition?’’) were
+designated as nonvisual factors.
+
+METHODS
+The aim was to survey all adult patients with visual impairment who
+attended the Manchester Royal Eye Hospital Low Vision Clinic for a
+first or follow-up appointment during a 1-year period (May 2009–
+August 2010). This period was to ensure that sufficient numbers of
+patients in low-incidence categories were included (e.g., young adults;
+congenital visual loss). The patient’s unique hospital number was used
+to ensure that there was no duplicate recruitment. The patients were
+interviewed 1 month after their low vision assessment so that their low
+vision aids were up to date and their visual status was unlikely to have
+changed from that recorded at their last appointment. Therefore,
+recruitment took place during four 3-month periods, interspersed with
+1 month ‘‘catch-up periods’’ to allow for the interviews of each group
+of patients to be completed, before the next cohort was recruited.
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+Data Analysis
+In a preliminary analysis of the data, nonparametric statistics (Spearman’s q) were used to calculate the correlation between the different
+values obtained, because the data were ordinal. A value of P < 0.05 was
+considered significant, but this must be interpreted cautiously because
+of the multiple comparisons performed: no formal correction was
+made to significance level to reflect this point. Data were analyzed with
+SPSS 15.0 software (SPSS Inc., Chicago, IL). Several independent
+variables were statistically significantly correlated to each of the
+outcome measures; therefore, multiple linear regression analyses were
+performed with STATA 11.0 software (Stata Corp, College Station, TX)
+by using the backwards-stepwise selection method. All the independent variables were entered into the regression equations. The use of
+
+
+[page 3]
+4236
+
+Hernandez Trillo and Dickinson
+
+IOVS, June 2012, Vol. 53, No. 7
+
+TABLE 1. Summary of Outcome Measures and Independent Variables (‘‘Contributing Factors’’) Investigated
+Contributing Factors
+(Questionnaires)
+
+Outcome Measures (Questionnaires)
+LVQOL-2515 (LV quality of life)
+AVL-1232 (adaptation to the vision loss)
+KAP34 (participation restriction)
+
+MLVQ31 (use of magnifiers, knowledge of the eye
+condition, satisfaction with the LV service)
+MOS Social Support33 (social support: tangible, affectionate,
+positive social interaction, emotional/informational)
+SF-1235 (physical and mental health)
+BFI-1036 (personality: neuroticism, conscientiousness,
+agreeableness, extraversion, openness)
+SBI-1537 (religious/spiritual beliefs)
+Brief COPE38 (coping strategies)
+WHO-529 (well-being/depression)
+
+Contributing Factors
+(Data Obtained from the
+Hospital Records/Patients)
+Best-corrected VA at distance with
+spectacles*
+VA at near with optimum magnifier*
+Log CS*
+Age*
+Eye condition*
+Sex*
+Ethnicity*
+Postcode (financial status)*
+Living alone†
+Level of education†
+
+* Data collected from hospital records.
+† Data reported by the patient.
+multiple regression analysis was also useful to tackle the problem of
+multiple testing and collinearity between measures.39 Although the
+regression analysis does not totally avoid the drawback of multiple
+testing (i.e., contributing factors not being truly independent), it helps
+with collinearity by excluding from the analysis those variables that are
+linearly related (i.e., highly collinear).40
+The rationale for the analysis was based on the approach followed
+by previous studies that have focused on quality of life in people with
+low vision41–43: to analyze the relationship between several factors and
+determine which ones were the main predictors of different outcome
+measures.
+Some authors argue that classical testing theory (CTT) is not the
+best way to analyze questionnaire data.44,45 They suggest the use of
+item response theory (IRT) as the alternative, and, in particular, the use
+of Rasch analysis. While CTT assigns ordinal numbers to items and
+gives a total score for the questionnaire, which is the sum across
+questions, IRT considers the differences in people’s ability and items’
+difficulty; items are assigned a score according to these assumptions.46
+Rasch analysis is a probabilistic logistic model that creates logit values
+outlining each item difficulty and person ability.46 In other words,
+
+Rasch analysis does not assume that all items have the same level of
+difficulty, but weights them accordingly. It is argued that this produces
+a more reliable and valid measurement, and a small number of low
+vision QoL instruments have been analyzed in this way.44,47 Therefore,
+to ensure that the results in this study were consistent with this theory,
+each of the questionnaires was rescored with Rasch analysis and the
+new scores were used in the regression equation to see whether similar
+results would be obtained. Seven questionnaires were rescored with
+Rasch analysis: the LVQOL; the AVL-12; the KAP; the MOS Social
+Support (leaving out the first two questions about the number of
+friends and family and analyzing each category of social support
+[tangible, educational/informational, positive social interaction, affectionate] separately); the WHO-5 well-being questionnaire; the Brief
+COPE; and the SBI-15. The rest of the questionnaires could not be
+analyzed with this technique for various reasons: the SF-12 Health
+Survey had a different way of scoring each answer and this did not fit
+into the Rasch model; the MLVQ is subdivided into questions of
+different types (frequency of the use of magnifiers, average duration
+use of magnifiers, satisfaction with the LV service, knowledge about
+the eye condition, knowledge about LV in general), and therefore it was
+
+FIGURE. Recruitment of patients to the study from the total potential number of adult patients seen in the MREH Low Vision Clinic.
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+
+[page 4]
+Quality of Life in Low Vision 4237
+
+IOVS, June 2012, Vol. 53, No. 7
+TABLE 2. Characteristics of the Study Participants (Discrepancy in
+Numbers due to Missing Data)
+
+Sex
+Ethnicity
+
+Higher education
+Living alone
+Postcode
+
+Eye condition
+
+Female
+Male
+Caucasian
+South Asian
+Afro-Caribbean
+Mixed race
+No
+Yes
+Yes
+No
+Wealthy
+Comfortable
+Managing
+Poor
+AMD
+Glaucoma
+Diabetic retinopathy
+Acquired retinal disorders
+(e.g., cystoid macular
+edema)
+Acquired nonretinal
+disorders (e.g., corneal
+dystrophy)
+Congenital retinal disorders
+(e.g., Stargardt’s disease)
+Congenital nonretinal
+disorders (e.g., albinism)
+Cortical problems (e.g.,
+bilateral amblyopia)
+Systemic disorders (e.g.,
+stroke)
+
+%
+
+n
+
+59.6
+40.4
+94.2
+4.2
+1.1
+0.2
+327
+120
+48.7
+50.9
+19.0
+29.0
+8.9
+40.4
+53.3
+4.5
+9.2
+9.4
+
+267
+181
+422
+19
+5
+1
+73
+26.8
+218
+228
+85
+130
+40
+181
+239
+20
+41
+42
+
+6.7
+
+30
+
+6.5
+
+29
+
+4.7
+
+21
+
+2.7
+
+12
+
+2.9
+
+13
+
+not possible to attribute a whole Rasch score for this questionnaire;
+and the BFI-10 had two items per personality trait, consequently
+producing very unreliable Rasch estimates. If Rasch analysis was not
+possible, the original scoring was kept in the reanalysis.
+
+RESULTS
+During the recruitment period, a total of 923 adult patients had
+an appointment to attend the LV clinic at the Manchester Royal
+Eye Hospital (MREH); 199 never attended or cancelled their
+appointment at the LV clinic (even when the patients were
+contacted by one of the authors [A.H.T.] to remind them about
+their appointment), and 176 did not meet the inclusion criteria.
+There were therefore 548 potential participants for this study; 28
+did not agree to take part and 520 returned the consent form. A
+total of 72 of these consenting subjects did not participate
+eventually, leaving 448 subjects who completed the study:
+overall, the participation rate was high (81.75%) (Figure).
+The age of the participants completing the study ranged
+between 18 and 96 years, with a mean 6 SD of 71.46 6
+17.74 years. The characteristics of the population are shown
+in Table 2.
+The proportion of females to males was approximately 3:2;
+most were Caucasian, and more than 50% of participants had
+age-related macular degeneration: congenital disorders were
+present in only 11.2% of the population. The postcode was
+used in order to determine social/financial status from the
+‘‘Financial ACORN’’ database (CACI Ltd., London, UK). Each
+postcode, which comprises a group of around 15 households,
+is assigned to 1 of 48 ‘‘types’’ (e.g., ‘‘retired wealthy suburban
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+TABLE 3. Descriptive Statistics for the Questionnaires (Outcome
+Measures and Contributing Factors) in the Current Study
+Questionnaires
+(Range of
+Possible Scores)
+
+Minimum
+
+Maximum
+
+Mean 6 SD
+
+LVQOL Total (25–125)
+AVL-12 (0–36)
+KAP (0–11)
+SF-12 PCS (0–100)
+SF-12 MCS (0–100)
+MOS Total (19–95)
+SBI-15 (0–45)
+Extraversion (2–10)
+Agreeableness (2–10)
+Conscientiousness (2–10)
+Neuroticism (2–10)
+Openness (2–10)
+Brief COPE (0–84)
+WHO (0–25)
+
+26.00
+7.00
+0.00
+14.77
+9.43
+19.00
+0.00
+2.00
+3.00
+3.00
+2.00
+2.00
+0.00
+0.00
+
+121.00
+36.00
+11.00
+65.56
+68.44
+95.00
+45.00
+10.00
+10.00
+10.00
+10.00
+10.00
+82.00
+25.00
+
+71.74 6 19.33
+21 6 4.62
+2 6 2.35
+39.02 6 11.63
+45.40 6 11.02
+69.48 6 19.26
+21.02 6 10.46
+6.65 6 1.77
+7.40 6 1.47
+7.83 6 1.50
+5.28 6 1.92
+6.52 6 1.80
+52.87 6 11.59
+13.76 6 6.57
+
+investors, many shares’’). For the purposes of this study, these
+types were reduced to four categories to reflect ‘‘wealthy,’’
+‘‘comfortable,’’ ‘‘managing,’’ and ‘‘poor’’ (Table 3). Approximately 40% of participants were classed as ‘‘poor,’’ and about
+50% of participants lived alone.
+The LVQOL, AVL-12, SF-12, MOS Social Support, SBI-15R,
+BFI-10, Brief COPE, and WHO are scored such that the higher
+the score that the participants achieve in these questionnaires,
+the better the LV quality of life, adaptation to the vision loss,
+and mental or physical health; the more the social support
+perceived; the stronger the spiritual/religious beliefs; the more
+dominant the personality trait; the more that positive coping
+strategies are used; and the greater the well-being of the
+participants. However, the KAP questionnaire is reversed,
+resulting in a higher score for those people who feel more
+restricted. The MLVQ is mostly scored so the higher the
+number, the greater the use of the magnifiers, but the
+satisfaction item is reversed, so the higher the score, the less
+satisfied the participant is. VA at distance and at near are
+measured in logMAR, therefore a higher number indicates
+worse visual acuity. On the other hand, a higher number
+indicates better (log) contrast sensitivity.
+Table 3 shows the descriptive statistics for the outcome
+measures (LVQOL Total, AVL-12, and KAP) and the contributing
+factors (SF-12, MOS Social Support, SBI-15, BFI-10, Brief COPE,
+WHO).
+Table 4 shows the correlation between the overall scores of
+AVL-12, LVQOL, and KAP. Although these correlations are in
+the expected direction (the better quality of life is associated
+with better adaptation and with less participation restriction)
+and statistically significant, they are not very strong. This
+suggests that they are, as intended, measuring different aspects
+of the influence of low vision on the patient’s life. The
+strongest correlation (although only slightly so) was between
+AVL-12 and the LVQOL ‘‘Adjustment’’ subscale (r ¼ 0.554, P <
+0.01), and this was expected since these are dealing with the
+same aspect of the visual loss.
+TABLE 4. The Correlation between the Total Scores on the Three
+Outcome Measures Used in the Study (Spearman’s q)
+
+AVL-12
+LVQOL (Total)
+
+LVQOL (Total)
+
+KAP
+
+þ0.537 (P < 0.01)
+
+0.360 (P < 0.01)
+0.434 (P < 0.01)
+
+
+[page 5]
+4238
+
+Hernandez Trillo and Dickinson
+
+IOVS, June 2012, Vol. 53, No. 7
+
+TABLE 5. Correlation (Spearman’s q) between the Outcome Measures (LVQOL, AVL-12, and KAP) and the Clinical Measures
+LVQOL Total
+
+Use of magnifiers (MLVQ)
+CS
+VAD
+VAN
+
+AVL-12
+
+KAP
+
+r
+
+P
+
+r
+
+P
+
+r
+
+P
+
+0.038
+0.343
+0.347
+0.265
+
+>0.05
+<0.01
+<0.01
+<0.01
+
+0.018
+0.047
+0.063
+0.045
+
+>0.05
+>0.05
+>0.05
+>0.05
+
+0.026
+0.056
+0.081
+0.089
+
+>0.05
+>0.05
+>0.05
+>0.05
+
+Use of magnifiers is represented by the total score for the MLVQ questions on frequency, average use, and longest use of magnifiers. Bolding
+indicates values that are statistically significant.
+
+The expectation and purpose of low vision rehabilitation is
+that it can be used to influence quality of life for low vision
+patients. We therefore correlated MLVQ (using the sum of the
+scores for frequency, average duration, and longest duration of
+use) and the other clinical visual measures (visual acuity at
+distance [VAD], visual acuity at near with magnification [VAN],
+and CS) with the three outcome measures (LVQOL, AVL-12,
+and KAP).
+There was a statistically significant correlation between
+LVQOL and the three visual measures CS, VAD, and VAN, with
+Table 5 showing that the better the visual performance, the
+better the LV quality of life. However, no statistically significant
+correlation was found between any measure of vision and AVL12 or KAP scores (Table 4). None of the outcome measures
+correlated significantly with the use of magnifiers, although
+there was a statistically significant, although weak, correlation
+between the LVQOL reading subscale and the use of magnifiers
+(r ¼ 0.222; P < 0.01).
+A correlation analysis of the other independent variables that
+were considered as contributory to the quality of life, and the
+outcome measures, showed several statistically significant
+correlations. Therefore, a regression analysis was performed in
+order to investigate the main predictors of low vision quality of
+life (LVQOL), adaptation to the vision loss (AVL-12) and
+participation restriction (KAP) in patients with visual impairment
+(VI). Where appropriate, the different questionnaire subscales
+(e.g., conscientiousness, neuroticism, agreeableness, openness,
+and extraversion for the BFI-10; positive social interaction,
+
+educational/informational, affectionate, and tangible social
+support for the different components of MOS; and the individual
+questions of the MLVQ) were used instead of the total score.
+The models obtained with this method are illustrated in
+Tables 6, 7, and 8. All the data represented here were
+standardized to allow easier comparison between the regression
+coefficients. The alternative coefficients and P values obtained
+with Rasch analysis are also shown in Tables 6, 7, and 8.
+Tables 6, 7, and 8 are the key findings in this investigation. In
+Table 6 it can be observed that the main contributing factors to
+LVQOL (Total) are physical and mental health, VAD, and CS. All
+of these factors have a relationship with LVQOL, such that the
+better these factors are, the better is the low vision quality of
+life. Another important predictor of low vision quality of life is
+the patient’s satisfaction with the LV clinic. The remaining
+factors, although contributing to the variance (adjusted r2) are
+not so important in predicting QoL in LV. In Table 7, both
+physical and mental health are again shown to play a major role
+as predictors of AVL-12. Other important contributors to
+positive adaptation are educational/informational support
+(e.g., having someone who understands your problems/
+someone who gives you good advice), general knowledge
+about low vision, and a higher level of education. However, male
+sex appears to be a predictor of worse adaptation to the vision
+loss. The rest of the factors, although contributing to the
+variance, are less important predictors of adaptation to vision
+loss. Table 8 shows that both physical and mental health are,
+once more, the most important predictors of KAP score. This
+
+TABLE 6. Regression Model for LVQOL Including All Predictor Variables
+Coefficient
+
+Physical health (SF-12 PCS)
+Mental health (SF-12 MCS)
+Conscientiousness (BFI-10)
+Knowledge of the eye condition (MLVQ)
+Educational/informational support
+(MOS Social Support)
+Frequency of the use of magnifiers (MLVQ)
+Average length of time of use of magnifiers
+(MLVQ)
+Age
+VAD
+CS
+Satisfaction (MLVQ)
+Neuroticism (BFI-10)
+Knowledge of the part of the eye affected
+by the eye condition (MLVQ)
+Systemic disease
+
+t
+
+P
+
+LVQoL-25
+
+Rasch Analysis
+
+LVQoL-25
+
+Rasch Analysis
+
+LVQoL-25
+
+Rasch Analysis
+
+0.353
+0.309
+0.040
+0.083
+
+0.320
+0.296
+0.038
+0.082
+
+8.51
+6.72
+1.03
+2.04
+
+7.51
+6.41
+0.97
+1.92
+
+<0.0001
+<0.0001
+0.304
+0.042
+
+<0.0001
+<0.0001
+0.334
+0.056
+
+0.025
+0.104
+
+0.015
+0.086
+
+0.58
+2.34
+
+0.37
+1.89
+
+0.560
+0.020
+
+0.714
+0.060
+
+0.088
+0.005
+0.729
+0.559
+0.139
+0.080
+
+0.079
+
+2.02
+1.99
+4.47
+4.81
+3.19
+1.78
+
+1.78
+
+0.044
+0.047
+<0.0001
+<0.0001
+0.002
+0.076
+
+0.076
+
+0.781
+0.453
+0.120
+0.101
+0.041
+0.467
+
+4.72
+3.83
+2.74
+2.22
+1.01
+2.19
+
+<0.0001
+<0.0001
+0.006
+0.027
+0.315
+0.030
+
+All the independent variables were introduced in the regression analysis, but only those that appeared to be predictors of the outcome
+measure are shown in the table. A blank cell in the table indicates that the variable was not a predictor in that analysis method. r2 ¼ 0.4945; adjusted
+r2 ¼ 0.4756. Rasch analysis: r2 ¼ 0.4716; adjusted r2 ¼ 0.4485.
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+
+[page 6]
+Quality of Life in Low Vision 4239
+
+IOVS, June 2012, Vol. 53, No. 7
+TABLE 7. Regression Model for AVL-12 Using All Predictor Variables
+Coefficient
+
+Physical health (SF-12 PCS)
+Mental health (SF-12 MCS)
+Positive social interaction (MOS Social Support)
+Educational/informational (MOS Social Support)
+Openness (BFI-10)
+Extraversion (BFI-10)
+General knowledge about LV (MLVQ)
+Neuroticism (BFI-10)
+Satisfaction (MLVQ)
+Affectionate (MOS Social Support)
+Higher level of education
+Managing means
+Male (sex)
+Asian ethnicity
+Congenital retinal dystrophies
+
+t
+
+P
+
+AVL-12
+
+Rasch Analysis
+
+AVL-12
+
+Rasch Analysis
+
+AVL-12
+
+Rasch Analysis
+
+0.257
+0.356
+0.096
+0.267
+0.098
+0.080
+0.128
+0.093
+0.107
+0.140
+0.285
+0.305
+0.304
+0.482
+0.361
+
+0.266
+0.360
+
+5.72
+7.03
+1.29
+3.43
+2.22
+1.73
+2.84
+1.85
+2.20
+2.00
+2.78
+2.06
+3.37
+1.94
+1.74
+
+5.95
+7.13
+
+<0.0001
+<0.0001
+0.197
+0.001
+0.027
+0.085
+0.005
+0.066
+0.029
+0.046
+0.006
+0.040
+0.001
+0.054
+0.083
+
+<0.0001
+<0.0001
+
+0.189
+0.100
+0.091
+0.134
+0.107
+0.108
+0.149
+0.327
+0.320
+0.454
+0.374
+
+2.72
+2.28
+1.99
+2.97
+2.11
+2.23
+2.22
+2.18
+3.52
+1.81
+1.78
+
+0.007
+0.023
+0.047
+0.003
+0.035
+0.027
+0.027
+0.030
+0.001
+0.070
+0.076
+
+All the independent variables were introduced in the regression analysis, but only those that appeared to be predictors of the outcome
+measure are shown in the table. A blank cell in the table indicates that the variable was not a predictor in that analysis method. r2 ¼ 0.4078; adjusted
+r2 ¼ 0.3800. Rasch analysis: r2 ¼ 0.4042; adjusted r2 ¼ 0.3782.
+
+time it is seen that the worse the physical and mental health, the
+more restricted the individual is. Age appears to be another
+important predictor of participation restriction, indicating that
+the younger the individual, the more restricted he or she will
+feel. ‘‘Poor’’ financial status and conscientiousness are predictors of less participation restriction. Again, the remaining
+factors, although contributing to the variance (adjusted r2) are
+not as important in predicting participation restriction.
+The results obtained with Rasch analysis were very similar
+to the results obtained in the original analysis, with (largely)
+the same predictors appearing, and only minor changes in
+some coefficients.
+
+DISCUSSION
+Measures of patient-reported functioning are growing in
+importance; the level of performance in everyday activities
+and patient’s satisfaction cannot be determined without studies
+in quality of life.48 Many studies have tried to define QoL8 and
+
+relate it to life satisfaction, well-being, or happiness.49 Quality
+of life is a difficult term to define, as shown by the large
+number of articles in the literature trying to label and classify it.
+WHO7 has defined QoL as a subjective perception of a person’s
+situation in life. It has been described as a multidimensional
+concept, influenced by several factors.50 These factors include
+mental and physical health; economic situation; education; and
+friends and family. WHO7 terms these factors as domains and
+identifies physical domain, psychological domain, level of
+independence, social relationships, environment, spirituality,
+religion, and personal beliefs.
+When studying the effect of rehabilitation in patients with
+visual impairment, it is crucial to understand if QoL is being
+improved and whether clinicians are addressing patients’
+difficulties and concerns. QoL instruments have therefore
+been considered as appropriate outcome measures in rehabilitation studies. However, several studies12–14 have been unable
+to identify differences in outcomes between different types of
+rehabilitation strategies. This study has found that vision related QoL, as determined by three very different outcome
+
+TABLE 8. Regression Model for KAP Using All Predictor Variables
+Coefficient
+
+Physical health (SF-12 PCS)
+Mental health (SF-12 MCS)
+Positive social interaction (MOS Social Support)
+Depression (WHO)
+Extraversion (BFI-10)
+Conscientiousness (BFI-10)
+General knowledge about LV (MLVQ)
+VA at near
+Age
+Coping strategies (Brief Cope)
+Congenital retinal dystrophies
+Poor means
+Systemic condition
+
+t
+
+P
+
+KAP
+
+Rasch Analysis
+
+KAP
+
+Rasch Analysis
+
+KAP
+
+Rasch Analysis
+
+0.313
+0.231
+0.100
+0.133
+0.096
+0.111
+0.082
+0.320
+0.012
+0.123
+0.416
+0.230
+0.413
+
+0.320
+0.229
+0.224
+0.149
+0.115
+0.089
+
+6.46
+4.35
+2.11
+2.23
+2.15
+2.62
+1.82
+1.92
+4.35
+2.47
+2.01
+2.63
+1.82
+
+6.64
+4.36
+3.81
+2.52
+2.59
+2.14
+
+<0.0001
+<0.0001
+0.035
+0.026
+0.032
+0.009
+0.069
+0.056
+<0.0001
+0.014
+0.046
+0.009
+0.070
+
+<0.0001
+<0.0001
+<0.001
+0.012
+0.010
+0.033
+
+0.343
+0.011
+0.383
+0.383
+
+2.06
+4.24
+1.81
+1.87
+
+0.040
+<0.0001
+0.063
+0.063
+
+All the independent variables were introduced in the regression analysis, but only those that appeared to be predictors of the outcome
+measure are shown in the table. A blank cell in the table indicates that the variable was not a predictor in that analysis method. r2 ¼ 0.4023; adjusted
+r2 ¼ 0.3761. Rasch analysis: r2 ¼ 0.3987; adjusted r2 ¼ 0.3763.
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+
+[page 7]
+4240
+
+Hernandez Trillo and Dickinson
+
+IOVS, June 2012, Vol. 53, No. 7
+
+TABLE 9. Data regarding PCS and MCS Scores from the SF-12 in the Current Study in Comparison to Previous Studies
+Study
+
+Population Type
+
+n
+
+Age (y)
+
+PCS
+
+MCS
+
+43.65 6 11.02
+34.4 6 11.8
+44.8 6 9.2
+44.2 6 9.5
+38.1 6 11.5
+44.1 6 10.8
+40.3 6 11.9
+39.02 6 11.6
+
+52.10 6 9.53
+46.6 6 12.3
+49.3 6 10.4
+50.8 6 10.3
+48.6 6 10.9
+49.2 6 11.7
+51.9 6 10.9
+45.40 6 11.0
+
+Ware et al.51
+Lamoureux et al.52
+Cahill et al.53
+
+Reference general US population
+VI with diabetic retinopathy
+AMD undergoing macular translocation
+
+408
+45
+50
+
+65–74
+67.5 6 13.1
+76.9 6 5.7
+
+Hassell et al.54
+Kuyk et al.55
+
+VI with AMD
+Registered blind enrolled in comprehensive
+in-patient rehabilitation
+Mixed VI
+
+106
+206
+
+83.6 6 7.6
+70.2 6 12.6
+
+448
+
+71.47 6 17.7
+
+Current study
+
+measures, is strongly dependant on factors unrelated to the use
+of low vision aids, in particular the mental and physical
+components of general health.
+The SF-12 is scored such that higher numbers indicate
+better physical and mental health. The physical component
+score (PCS) and mental component score (MCS) each range
+from 0 to 100, with a mean score of 50 (SD, 10) for a
+representative sample of the US general population.51 The PCS
+and MCS of the population in the present study is shown in
+Table 9, along with results from comparable populations.
+The data indicate that both PCS and MCS in this study are
+below the general population mean indicated by Ware et al.
+(2002), but it is worth comparing the results with those of
+other elderly visually impaired populations. The MCS score is
+lower than that of other comparable groups; PCS is better than
+that of a previously described diabetic group52 or a group with
+AMD of much higher average age.54 Evidence from a study
+treatment53 suggested no change to either PCS or MCS;
+rehabilitation appeared to give a minimal improvement in
+MCS, although the reduction in PCS was unexplained.55 This
+suggests that ‘‘self-management’’ programs may be beneficial
+for visually impaired individuals, not only to deal with the
+visual problem but also to educate them in how to take better
+care of themselves to improve their physical health. When
+older individuals can be persuaded to take part in such
+schemes, they have shown significant increases in PCS and
+MCS scores.56 Other factors, such as knowledge of the eye
+condition and education, some traits of personality, and some
+forms of social support, are also predictors of QoL but to a
+lesser extent. The visual impairment itself, in the form of VAD
+and CS, is a strong and significant predictor of the LVQOL;
+however, use of magnifiers makes only a minor contribution to
+LVQOL and does not predict AVL or KAP at all. Optimum VA at
+near (with magnification) was a strong predictor of participation restriction.
+Patient-centered outcome measures are important to understand whether patients’ concerns and difficulties are being
+addressed, and they are increasingly used to measure the
+effectiveness of rehabilitation. The results of this study, however,
+suggest that researchers investigating the effectiveness of any
+intervention should take great care when choosing questionnaires to measure QoL for people with LV. A specific intervention
+influences a relatively small part of the patients’ life, and
+individuals have other issues in addition to their poor sight. It
+would be ambitious to think that providing very specific low
+vision interventions, such as supplying magnifiers, will significantly improve all aspects of QoL. Researchers need to be aware
+that even vision-related QoL is strongly influenced by nonvisual
+factors, and in particular physical and mental health.
+
+Acknowledgments
+Patient recruitment was possible through the support of the
+Manchester NIHR BRC and Robert Harper and the optometry
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+Pretreatment
+1 year post treatment
+Pre rehabilitation
+Post rehabilitation
+
+clinic staff at the Manchester Royal Eye Hospital. Advice on
+multiple regression was provided by Marco Brambilla and advice
+on Rasch analysis was provided by Helen Court.
+
+References
+1. Dickinson C. What is low vision? In: Low Vision Principles
+and Practice. Edinburgh: Butterworth and Heinemann;
+1998:3.
+2. World Health Organization. International Classification of
+Functioning, Disability, and Health (ICF). Geneva, Switzerland: World Health Organization; 2001.
+3. Stucki G, Cieza A, Ewert T, Kostanjsek N, Chatterji S, Ustun B.
+Application of the International Classification of Functioning,
+Disability and Health (ICF) in clinical practice. Dis Rehabil.
+2002;24:281–282.
+4. Kearney PM. The International Classification of Functioning,
+Disability and Health (ICF) and nursing. J Adv Nurs. 2003;46:
+162–170.
+5. Allen MN. The meaning of visual impairment to visually
+impaired adults. J Adv Nurs. 1989;14:640–646.
+6. Dodds AG, Bailey P, Pearson A, Yates L. Psychological factors in
+acquired visual impairment: the development of a scale of
+adjustment. J Vis Impair Blind. 1991;85:306–310.
+7. World Health Organization. Quality of Life. The world health
+organization quality of life assessment (WHOQOL): position
+paper from the world health organization. Soc Sci Med. 1995;
+41:1403–1409.
+8. Galloway S. Well-being and quality of life: measuring the
+benefits of culture and sport: a literature review and
+thinkpiece. Scott Executive Soc Res. 2005;4–97.
+9. Stelmack J, Tang C, Reda DJ, Rinne S, Mancil RM, Massof RW.
+Outcomes of the Veterans Affairs Low Vision Intervention Trial
+(LOVIT). Arch Ophthalmol. 2008;126:608–617.
+10. Pearce E, Crossland MD, Rubin GS. The efficacy of low vision
+device training in a hospital-based low vision clinic. Br J
+Ophthalmol. 2010;95:105–108.
+11. Court H, Ryan B, Bunce C, Margrain TH. How effective is the
+new community-based Welsh low vision service? Br J
+Ophthalmol. 2011;95:178–184.
+12. de Boer M, Twisk J, Moll A, Volker-Dieben H, de Vet H, van Res
+G. Outcomes of low-vision services using optometric and
+multidisciplinary approaches: a non-randomized comparison.
+Ophthalmic Physiol Opt. 2006;26:535–544.
+13. La Grow SJ. The effectiveness of comprehensive low vision
+services for older persons with visual impairments in New
+Zealand. J Vis Impair Blind. 2004;98:679–692.
+14. Reeves B, Harper R, Russell W. Enhanced low vision
+rehabilitation for people with age-related macular degeneration: a randomised controlled trial. Br J Ophthalmol. 2004;88:
+1443–1449.
+15. Wolffsohn JS, Cochrane AL. Design of the low vision quality-oflife questionnaire (LVQOL) and measuring the outcome of low vision rehabilitation. Am J Ophthalmol. 2000;130:793–802.
+
+
+[page 8]
+IOVS, June 2012, Vol. 53, No. 7
+16. de Boer MR, Terwee CB, de vet HCW, Moll AC, Volker-Dieben HJ,
+van Rens GHB. Evaluation of cross-sectional and longitudinal
+construct validity of two vision-related quality of life questionnaires: the LVQOL and VCM1. Qual Life Res. 2006;15:233–248.
+17. Tolman J, Hill RD, Kleinschmidt JJ, Gregg CH. Psychosocial
+adaptation to visual impairment and its relationship to
+depressive affect in older adults with age-related macular
+degeneration. Gerontologist. 2005;45:747–753.
+18. Wilkie R, Thomas E, Mottram S, Peat G, Croft PR. Onset and
+persistence of person-perceived participation restriction in
+older adults: a 3-year follow-up study in the general
+population. Health Qual Life Outcomes. 2008;6:92. doi:10.
+1186/1477-7525-6-92.
+19. Chapman BP, Duberstein PR, Sorensen S, Lyness JM. Personality and perceived health in older adults: the five factor model
+in primary care. J Gerontol B Psychol Sci Soc Sci. 2006;11:
+362–365.
+20. Helm HM, Hays JC, Flint EP, Koenig HG, Blazer DG. Does
+private religious activity prolong survival: a six-year follow-up
+study of 3,851 older adults. J Gerontol A Biol Sci Med Sci.
+2000;55:400–405.
+21. Carver CS, Pozo C, Harris SD, et al. How coping mediates the
+effect of optimism on distress: a study of women with early
+stage breast cancer. J Pers Soc Psychol. 1993;65:375–390.
+22. Curtis R, Groarke A, Coughlan R, Gsel A. The influence of
+disease severity, perceived stress, social support and coping in
+patients with chronic illness: a 1 year follow up. Psychol
+Health Med. 2004;9:456–475.
+23. Smith DM, Langa KM, Kabeto MU, Ubel PA. Health, wealth,
+and happiness: financial resources buffer subjective well-being
+after the onset of a disability. Psychol Sci. 2005;16:663–666.
+24. Verstraten PFJ, Brinkmann WLJH, Stevens NL, Schouten JSAG.
+Loneliness, adaptation to vision impairment, social support
+and depression among visually impaired elderly. Int Congress
+Ser. 2005;1282:317–321.
+25. Kupfer C. The Low Vision Education Program: improving
+quality of life. Optom Vis Sci. 1999;76:729–730.
+26. Lopes AA, Bragg J, Young E, et al. Depression as a predictor of
+mortality and hospitalization among hemodialysis patients in
+the United States and Europe. Kidney Int. 2002;62:199–207.
+27. Allen R, Rowe M. Spirituality as a means of coping with
+chronic illness. Am J Health Stud. 2004;19:62–67.
+28. Hoth KF, Christensen AJ, Ehlers SL, Raichle KA, Lawton WJ. A
+longitudinal examination of social support, agreeableness and
+depressive symptoms in chronic kidney disease. J Behav Med.
+2007;30:69–76.
+29. World Health Organization. Well-being measures in primary
+health care: The DepCare Project. Stockholm, Sweden: World
+Health Organization Regional Office for Europe; 1998.
+30. Hernandez-Trillo A, Dickinson CM. The Effect of Psychosocial
+Factors on Quality of Life in Visually Impaired Patients.
+Department of Optometry. Manchester: University of Manchester; 2007.
+31. Harper R, Doorduyn K, Reeves B, Slater L. Evaluating the
+outcomes of low vision rehabilitation. Ophthalmic Physiol
+Opt. 1999;19:3–11.
+32. Horowitz A, Reinhardt JP, Raykov T. Development and
+validation of a short-form adaptation of the age-related vision
+loss scale: the AVL12. J Vis Impair Blind. 2007;101:146–159.
+33. Sherbourne C, Stewart A. The MOS Social Support Survey. Soc
+Sci Med. 1991;32:705–714.
+34. Wilkie R, Peat G, Thomas E, Hooper H, Croft PR. The Keele
+Assessment of Participation: a new instrument to measure
+participation restriction in population studies. Combined
+qualitative and quantitative examination of its psychometric
+properties. Qual Life Res. 2005;14:1889–1899.
+
+Downloaded From: https://iovs.arvojournals.org/ on 01/19/2019
+
+Quality of Life in Low Vision 4241
+35. Gandek B, Ware JE, Aaronson NK, et al. Cross-validation of
+item selection and scoring for the SF-12 Health Survey in nine
+countries: results from the IQOLA Project. J Clin Epidemiol.
+1998;51:1171–1178.
+36. Rammstedt B, John O. Measuring personality in one minute or
+less: a 10-item short version of the big five inventory in English
+and German. J Res Pers. 2007;41:203–212.
+37. Holland JC, Kash KM, Passik S, et al. A brief spiritual inventory
+for use in quality of life research in life-threatening illness.
+Psychol-Oncol. 1998;7:460–469.
+38. Carver CS. You want to measure coping but your protocol’s too
+long: consider the brief COPE. Int J Behav Med. 1997;4:91–100.
+39. Gelman A, Hill J, Yajima M. Why we (usually) don’t have to
+worry about multiple comparisons. J Res Educ Eff. 2009;1–30.
+40. Chen X, Ender PB, Mitchell M, Wells C. Regression with stata.
+In: Stata Web Books. Los Angeles, CA: UCLA Academic
+Technology Services; 2003.
+41. Lamoureux EL, Hassell JB, Keeffe JE. The determinants of
+participation in activities of daily living in people with
+impaired vision. Am J Ophthalmol. 2004;137:265–270.
+42. Rubin GS, Bandeen-Roche K, Huang GH, et al. The association
+of multiple visual impairments with self-reported visual
+disability: SEE project. Invest Ophthalmol Vis Sci. 2001;42:
+64–72.
+43. O’Conner PM, Lamourex EL, Keeffe JE. Predicting the need for
+low vision rehabilitation services. Br J Ophthalmol. 2008;92:
+252–255.
+44. Pesudovs K. Patient-centred measurement in ophthalmology—a paradigm shift. BMC Ophthalmol. 2006;6:25. doi:10.
+1186/1471-2415-6-25.
+45. Massof R, Rubin G. Visual function assessment questionnaires.
+Surv Ophthalmol. 2001;45:531–548.
+46. Bond TG, Fox CM. Applying the Rasch Model: Fundamental
+Measurement in the Human Sciences. Mahwah, New Jersey:
+Lawrence Erlbaum Associates; 2001.
+47. Ryan B, Court H, Margrain TH. Measuring low vision services
+outcomes: Rasch analysis of the seven-item National Eye
+Institute Visual Function Questionnaire. Optom Vis Sci. 2008;
+85:112–121.
+48. Mangione CM, Gutierrez PR, Lowe G, Orav EJ, Seddon JM.
+Influence of age-related maculopathy on visual functioning and
+health-related quality of life. Am J Ophthalmol. 1999;128:45–53.
+49. Farquhar M. Definitions of quality of life: a taxonomy. J Adv
+Nurs. 1995;22:502–508.
+50. Camfield L, Skevington SM. On subjective well-being and
+quality of life. J Health Psychol. 2008;13:764–775.
+51. Ware J, Kosinski M, Turner-Bowker D, Gandek B, eds. User’s
+Manual for the SF-12v2 Health Survey with a Supplement
+Documenting SF-12 Health Survey. Lincoln, RI: QualityMetric
+Incorporated; 2002.
+52. Lamoureux EL, Hassell JB, Keeffe JE. The impact of diabetic
+retinopathy on participation in daily living. Arch Ophthalmol.
+2004;122:84–88.
+53. Cahill MT, Stinnett SS, Banks AD, Freedman SF. Quality of life
+after macular translocation with 360 peripheral retinectomy
+for age-related macular degeneration. Ophthalmol. 2005;112:
+144–151.
+54. Hassell JB, Lamoureux EL, Keeffe JL. Impact of eye related
+macular degeneration on quality of life. Br J Ophthalmol.
+2006;90:593–596.
+55. Kuyk T, Liu L, Elliott JL, Grubbs HE. Health-related quality of life
+following blind rehabilitation. Qual Life Res. 2008;17:497–507.
+56. Frosch DL, Rincon D, Ochoa S, Mangione CM. Activating
+seniors to improve chronic disease care: results from a pilot
+intervention study. J Am Geriatr Soc. 2010;58:1496–1503.
+

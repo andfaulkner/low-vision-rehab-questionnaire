@@ -1,0 +1,1717 @@
+[page 1]
+This may be the author’s version of a work that was submitted/accepted
+for publication in the following source:
+Owsley, Cynthia, McGwin, Jr., Gerald, Elgin, Jennifer, & Wood, Joanne
+(2014)
+Visually impaired drivers who use bioptic telescopes: self-assessed driving
+skills and agreement with on-road driving evaluation.
+Investigative Ophthalmology and Visual Science, 55(1), pp. 330-336.
+This file was downloaded from: https://eprints.qut.edu.au/66790/
+
+© Copyright 2014 The Association for Research in Vision and Ophthalmology, Inc.
+This work is covered by copyright. Unless the document is being made available under a
+Creative Commons Licence, you must assume that re-use is limited to personal use and
+that permission from the copyright owner must be obtained for all other uses. If the document is available under a Creative Commons License (or other specified license) then refer
+to the Licence for details of permitted re-use. It is a condition of access that users recognise and abide by the legal requirements associated with these rights. If you believe that
+this work infringes copyright please provide details by email to qut.copyright@qut.edu.au
+
+Notice: Please note that this document may not be the Version of Record
+(i.e. published version) of the work. Author manuscript versions (as Submitted for peer review or as Accepted for publication after peer review) can
+be identified by an absence of publisher branding and/or typeset appearance. If there is any doubt, please refer to the published source.
+https://doi.org/10.1167/iovs.13-13520
+
+
+[page 2]
+1
+
+1
+2
+3
+4
+
+Visually Impaired Drivers Who Use Bioptic Telescopes: Self-Assessed Driving Skills and
+Agreement with On-road Driving Evaluation
+
+5
+
+Cynthia Owsley,1 Gerald McGwin Jr.,1,2 Jennifer Elgin,1 and Joanne M. Wood3
+
+7
+
+1 Department of Ophthalmology, School of Medicine, University of Alabama at Birmingham
+
+9
+
+Birmingham
+
+6
+8
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+2 Department of Epidemiology, School of Public Health, University of Alabama at
+3 School of Optometry and Vision Science, Queensland University of Technology
+
+This research was supported by National Institutes of Health grants R01EY18966 and
+
+P30AG22838, the EyeSight Foundation of Alabama, the Able Trust, Research to Prevent
+Blindness, and a QUT Professional Development grant.
+Word Count: 3,782
+
+
+[page 3]
+2
+
+21
+22
+
+Abstract
+
+24
+
+visual loss who use bioptic telescopes to those of age-matched normally sighted drivers;
+
+23
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+Purpose: To compare self-assessed driving habits and skills of licensed drivers with central
+and to examine the association between bioptic drivers’ impressions of the quality of their
+driving and ratings by a “backseat” evaluator.
+
+Methods: Participants were licensed bioptic drivers (n=23) and age-matched normally
+
+sighted drivers (n=23). A questionnaire was administered addressing driving difficulty,
+
+space, quality, exposure, and, for bioptic drivers, whether the telescope was helpful in on-
+
+road situations. Visual acuity and contrast sensitivity were assessed. Information on ocular
+diagnosis, telescope characteristics and bioptic driving experience was collected from the
+
+medical record or in interview. On-road driving performance in regular traffic conditions
+was rated independently by two evaluators.
+
+Results: Like normally sighted drivers, bioptic drivers reported no or little difficulty in
+
+many driving situations (e.g., left-turns, rush-hour), but reported more difficulty under poor
+visibility conditions and in unfamiliar areas (p < 0.05). Driving exposure was reduced in
+
+bioptic drivers (driving 250 miles/week on average versus 410 miles/week for normally
+sighted drivers, p = 0.02), but driving space was similar to normally sighted drivers (p =
+0.29). All but one bioptic driver used the telescope in at least one driving task, and 56%
+
+used the telescope in ≥ 3 tasks. Bioptic drivers’ judgments about the quality of their driving
+were very similar to backseat evaluators’ ratings.
+
+Conclusion: Bioptic drivers show insight into the overall quality of their driving and areas
+where they experience driving difficulty. They report using the bioptic telescope while
+
+driving, contrary to previous claims that it is primarily used to pass the vision-screening
+test at licensure.
+
+
+[page 4]
+3
+
+47
+48
+
+An estimated 2.4 million Americans over 40 years old have best-corrected visual
+
+49
+
+acuity worse than 20/40 yet better than 20/200.1 Since population-based visual acuity data
+
+51
+
+of the number of adults in the US who have visual acuity in this range. Under current vision
+
+50
+52
+53
+54
+55
+56
+57
+58
+59
+
+are not available for the under-40 population in the US, this is likely to be an underestimate
+standards in most states in the US and in other countries, individuals with this level of
+
+visual acuity impairment would be denied a driver’s license. However, there are 43 states
+in the U.S. where persons with moderate vision impairment (ranging from worse than
+
+20/40 to 20/100 or 20/200 depending on the state) can obtain a driver’s license if they
+
+demonstrate proficiency in the use of a bioptic telescope and other licensure criteria are
+met.2, 3 Bioptic driving is also permitted in The Netherlands 4 and in some Canadian
+provinces,3 but is prohibited in most countries.
+
+A bioptic telescope is an assistive device for persons with central vision
+
+60
+
+impairment.5 The telescope is mounted in the upper portion of a regular spectacle lens
+
+62
+
+refractive correction (it is plano if no correction is needed). Most use a monocular bioptic
+
+61
+63
+64
+65
+66
+67
+68
+
+(“carrier” lens) or attached to the spectacle frame. The carrier lens consists of the distance
+telescope, although binocular telescopes are also used. The most common telescope
+
+magnifications used for driving are 2X and 4X and provide a field of view between 6° and
+16°. The bioptic driver views the roadway environment through the carrier lens for the
+
+vast majority of the time when driving, dipping the head very briefly to spot signs, traffic
+signals, pedestrians, and other potential obstacles through the telescope. 6
+
+Previous research on bioptic drivers 7-9 suggests that a bioptic license strongly
+
+69
+
+enhances life satisfaction including employment options. However, the driving safety and
+
+71
+
+many unanswered questions. 10 A few studies have examined motor vehicle collisions for
+
+70
+
+performance of bioptic drivers have not been extensively studied, and as a result there are
+
+
+[page 5]
+4
+
+72
+
+bioptic drivers. 11-17 The results of these studies are inconsistent, which may be
+
+74
+
+the driver was wearing the bioptic, and inappropriate comparison groups. A recent driver
+
+73
+
+attributable to methodological problems such as small samples, uncertainty as to whether
+
+75
+
+safety study by Vincent et al.18 compared motor vehicle collisions between a small group
+
+77
+
+statistically significant increases. In a recent driving performance study, Wood et al. 19
+
+79
+
+were more likely to display problems with steering steadiness and lane position and had
+
+76
+
+of bioptic drivers and two comparison groups and demonstrated elevated but not
+
+78
+
+assessed on-road driving performance by bioptic drivers in regular traffic. Bioptic drivers
+
+80
+81
+82
+83
+84
+
+lower rates of correct road sign recognition but were indistinguishable from normally
+sighted drivers in terms of many driving skills (e.g., pedestrian detection, speed, gap
+
+judgment, braking, obeying signs). All but one of 23 bioptic drivers were rated as safe to
+drive by the backseat evaluators and also by a certified driving rehabilitation specialist.
+
+The purpose of this study is to examine how bioptic drivers self-assess their own
+
+85
+
+driving skills and how their impressions compare to those of normally sighted drivers,
+
+87
+
+far one drives away from home base), and self-rated quality of driving. Bioptic drivers were
+
+86
+88
+89
+90
+91
+92
+
+Domains addressed by our questionnaire were driving difficulty, exposure, and space (how
+also asked to indicate whether or not they used their bioptic in a variety of roadway
+
+situations. We have also compared bioptic drivers’ self-reports of their own driving quality
+with ratings provided by a backseat evaluator during an on-road driving assessment to
+examine their self-awareness of their driving problems.
+
+93
+
+Methods
+
+95
+
+with the Health Insurance Portability and Accountability Act (HIPAA) of the US. Approval
+
+94
+
+Informed consent was obtained from all participants. This research was compliant
+
+
+[page 6]
+5
+
+96
+97
+98
+
+for this research was obtained from the Institutional Review Board at the University of
+Alabama at Birmingham (UAB). This research adhered to the Declaration of Helsinki.
+Participants were persons who had previously prepared for bioptic licensure
+
+99
+
+through the UAB Driving Assessment Clinic and successfully obtained a bioptic license in
+
+101
+
+age-matched to the visually impaired drivers (± 2 years within the bioptic driver’s age). To
+
+100
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+
+the State of Alabama. We also enrolled a group of drivers who were normally sighted and
+
+qualify for bioptic driving in Alabama, persons must have visual acuity with the carrier lens
+of 20/200 or better in each eye and 20/60 or better through the bioptic telescope. Visual
+
+fields without the bioptic telescope must extend 110° across the horizontal and 80° across
+the vertical. Both monocular and binocular telescopes are legal in Alabama. Prior to
+
+becoming a candidate for licensure, an ophthalmologist or optometrist verifies that visual
+acuity and fields meet eligibility criteria. Patients must have this confirmed by an
+
+ophthalmologist or optometrist on an annual basis thereafter. Licensed bioptic drivers are
+
+not allowed to drive at night in Alabama unless they undergo additional on-road training at
+night and receive an acceptable night driving rating by a certified driving rehabilitation
+specialist (CDRS).
+
+The Driving Habits Questionnaire 20 was modified for use in this study. It was
+
+113
+
+interviewer-administered prior to the driving assessment, and addressed the following
+
+115
+
+week), whether the bioptic is used during driving and if it was useful, driving difficulty in 24
+
+114
+116
+117
+118
+119
+120
+
+domains: driving exposure (annual miles driven, number of places and trips driven per
+
+driving situations, and some general driving information. Responses to driving difficulty
+
+items ranged from “no difficulty at all”, “a little difficulty”, “moderate difficulty”, “extreme
+difficulty”, or “don’t do this because of my visual problems” (scored from 5, 4, 3, 2, or 1
+
+respectively). We collected demographic information and characteristics of the bioptic
+
+telescope, years driving experience with the telescope, and whether the bioptic driver had
+
+
+[page 7]
+6
+
+121
+
+received on-road driver training. Information was obtained from the medical record on the
+
+123
+
+Visual acuity with habitual correction through the carrier lens was assessed for the
+
+122
+
+etiology of the vision impairment and the presence/absence of nystagmus.
+
+124
+
+right eye, the left eye, and binocularly using the standard protocol of the Electronic Visual
+
+126
+
+Visual acuity through the bioptic telescope was also assessed. Letter contrast sensitivity
+
+125
+127
+128
+129
+130
+
+Acuity tester 21 and expressed as logarithm of the minimum angle of resolution (logMAR).
+
+was measured binocularly and monocularly for each eye through the carrier lens using the
+Pelli-Robson chart 22 under the recommended testing conditions, scored by the letter-by letter method, 23 and expressed as log sensitivity.
+
+Two “backseat” evaluators trained in the use of a driving performance rating scale
+
+131
+
+provided judgments about on-road driving performance by the bioptic and normally
+
+133
+
+and thus only key elements will be summarized here. On-road driving performance was
+
+132
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+
+sighted drivers. The details of the on-road assessment are provided in a previous report, 19
+assessed under natural in-traffic conditions on a 14.6-mile course during the day in
+
+commercial and residential areas. A CDRS sat in the front passenger seat of the test vehicle
+
+and monitored safety. She had access to a passenger-side vehicle brake for the purposes of
+maintaining safety. Each backseat evaluator independently provided ratings on 8 driving
+
+behaviors/skills using a 3-point scale described in detail elsewhere 24, with “1 = Failure to
+
+execute skill/behavior”, “2 = Some problems with executing skill/behavior but not complete
+failure” and “3 = Good execution of skill/behavior.” One backseat evaluator – designated as
+the primary evaluator – sat in the middle of the backseat (positioned so that she did not
+
+obscure the driver’s view of the rearview mirror), with the second evaluator sitting behind
+the driver. The 8 driving behaviors evaluated were: (1) scanning and attention to other
+road users, signs and markings; (2) lane position of the vehicle; (3) steering steadiness,
+
+involving smoothness of steering at any point of the drive; (4) appropriate use of speed
+
+
+[page 8]
+7
+
+146
+
+relevant to road conditions and the speed limit; (5) gap judgment between the driver and
+
+148
+
+following distance; (6) appropriate use of braking to allow smooth driving and stopping as
+
+147
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+
+other cars when entering traffic flow or intersections or passing moving or parked cars and
+required; (7) directional indicator use to signal to other road users intention to change
+
+direction; and (8) obeying signs and signals. A high level of agreement between the two
+
+backseat evaluators’ ratings was previously reported (intra class correlation coefficient of
+0.93). 19 After the drive was complete, each rater also provided a global rating of
+
+performance on a 5-point scale, which summarized the rater’s overall impression of the
+
+quality of driving for that behavior. The 5-point scale was 1 = driver is unsafe and the drive
+was, or should have been, terminated; 2 = driver is unsafe, the drive was completed; 3 =
+driver’s performance was unsatisfactory but not unsafe; 4 = driver was safe but
+
+demonstrated several minor flaws; and 5 = driver was safe and demonstrated either
+
+flawless or near flawless driving performance. An intraclass correlation coefficient (ICC)
+
+evaluated agreement for the global ratings between the two backseat evaluators; the ICC
+was 0.93. For analytic purposes, the primary evaluator’s ratings were used.
+
+Correct detection of pedestrians, road signs, and traffic lights was also recorded by
+
+162
+
+the backseat evaluators. As participants drove the route, they were asked to “call out” each
+
+164
+
+which the evaluators then recorded. Correct detection was verified subsequent to the drive
+
+163
+165
+166
+167
+168
+169
+
+instance they saw pedestrians and to identify all road signs and traffic lights on the route,
+
+by reviewing 4-channel video that recorded the driver and vehicle environment during the
+
+drive. Pedestrian detection was determined by identifying the number of times participants
+correctly reported the presence of a pedestrian, which was broadly defined as a pedestrian,
+road worker, or cyclist encountered on the route. In real-world driving such as used in this
+study, it is impossible to control pedestrian events; for the 46 drivers in this study, there
+
+
+[page 9]
+8
+
+170
+171
+
+172
+
+were a total of 77 pedestrians (45 for the bioptic drivers and 32 for the normal control
+drivers). There were 58 road signs and 25 traffic lights on the route.
+
+The bioptic and normal control groups were compared using paired t- and
+
+173
+
+McNemar’s test to account for the pair matched nature of the study design. Statistical
+
+175
+176
+
+Results
+
+178
+
+having licensure through Alabama’s bioptic telescope program at the time of the study. The
+
+180
+
+the study have been described previously.19 None of the bioptic drivers were licensed for
+
+174
+
+177
+179
+181
+182
+183
+184
+185
+186
+
+significance was defined as p≤ 0.05 (two-tailed).
+
+Forty-three bioptic drivers were eligible to participate in the study based on their
+
+final sample consisted of 23 bioptic licensed drivers; reasons for declining participation in
+night driving. The bioptic drivers had on average 3.7 years of driving experience with a
+
+bioptic telescope (SD 5.8), ranging from starting bioptic driving less than a year before they
+enrolled in the study to 28 years of bioptic driving experience. Seven of the bioptic drivers
+
+had non-bioptic driving experience before they became bioptic drivers; they averaged 21.7
+years of non-bioptic driving (SD 14.8).
+
+Twenty-three age-matched normally sighted licensed drivers were also enrolled.
+
+187
+
+Table 1 provides information on demographics and visual function for drivers in both
+
+189
+
+among the bioptic drivers than among the normally sighted. Whites and African Americans
+
+188
+190
+191
+192
+193
+194
+
+groups. By design, the ages of the two groups were the same. Men were more common
+
+were similarly distributed in the two groups. As would be expected, the bioptic drivers had
+worse visual acuity through the carrier lens as compared to the normally sighted drivers.
+Through the bioptic telescope, the visual acuity of all the bioptic drivers was much
+
+improved, with all drivers being 20/60 or better. Table 2 provides information on the
+bioptic driver sample with respect to etiology of vision impairment, nystagmus, and
+
+
+[page 10]
+9
+
+195
+
+telescope characteristics. Nearly all bioptic drivers had received formal on-road training
+
+197
+
+8) of experience driving with the bioptic telescope after they were licensed.
+
+196
+198
+
+with the bioptic telescope (22 of 23, 96%), and on average, bioptic drivers had 6 years (SD
+Figure 1 displays whether or not bioptic drivers reported that they used the
+
+199
+
+telescope in various on-road situations and that it was helpful. Over 50% of drivers
+
+201
+
+and when safe to pass; identifying pedestrians, other roadway hazards, brake/signal lights
+
+200
+202
+203
+204
+205
+206
+207
+208
+209
+
+reported that they used the telescope because it was helpful in judging when to make turns
+on the vehicle in front, and traffic lights; and reading street-name signs and road signs. Very
+few drivers reported that the telescope was useful in checking the speedometer or judging
+
+distance. All but one driver reported using the telescope in at least 1 or more driving tasks.
+This driver, who had 20/80 binocular acuity through the carrier lens, did not report using
+
+the telescope in any tasks. Over half the sample (56%) reported using the telescope in ≥ 3
+
+tasks. The number of tasks for which drivers reported using the telescope was unrelated to
+binocular acuity (p = 0.413) and contrast sensitivity (p = 0.580).
+
+Driving space refers to the spatial extent one drives in one’s environment. Bioptic
+
+210
+
+drivers were very similar to normally sighted drivers with respect to reported driving space
+
+212
+
+normally sighted, drove to neighboring towns, and all but one in each group drove to more
+
+211
+213
+214
+215
+216
+
+(p=0.29) (Figure 2). All drivers, regardless of whether they were bioptic telescope users or
+distant towns. There was a small tendency for normally sighted drivers to be more likely to
+venture outside Alabama; however both groups had 4 drivers who drove outside the
+southeast region of the United States.
+
+Bioptic drivers reported driving fewer miles per week as compared to normally
+
+217
+
+sighted drivers (p = 0.0224) (Table 3). In addition, they traveled to slightly fewer places
+
+219
+
+= 0.0002). All but one driver in each group preferred to be the driver when travelling with
+
+218
+
+per week (p = 0.0022) and made fewer trips per week than did normally sighted drivers (p
+
+
+[page 11]
+10
+
+220
+
+another driver, rather than have the other person drive (p = 1.0). Bioptic drivers were more
+
+222
+
+bioptic driver reported that someone had suggested she stop driving, with none of the
+
+221
+223
+224
+225
+226
+227
+
+likely to report that they drove slower than the general traffic flow (p = 0.0006). Only one
+normally sighted drivers reporting this (p = 0.5). When asked to rate the quality of their
+
+driving as excellent, good, average, fair, or poor, the distribution of ratings was shifted to
+lower ratings among the bioptic drivers, as compared to normally sighted drivers (p =
+0.0035).
+
+Bioptic drivers reported statistically similar difficulty levels to those of normally
+
+228
+
+sighted drivers in a number of driving situations including left-hand turns across oncoming
+
+230
+
+hour (p = 0.069), changing lanes (p 0.233), merging (p =1.0), driving in areas with traffic
+
+229
+231
+232
+233
+234
+235
+236
+237
+238
+239
+
+traffic (p = 0.935), interstate/expressway (p = 0.488), high-traffic roads (p = 0.071), rush-
+
+lights (p = 0.215), driving long distance (p = 0.460), backing up (p = 1.0), seeing objects on
+side of road (p = 0.243), and finding the places they want to go (p = 0.266). However,
+
+Figure 3 shows five driving situations in which the bioptic drivers reported significantly
+more difficulty than normally sighted drivers, specifically driving into bright light, in
+
+unfamiliar areas, identifying traffic lights, driving in rain, and when alone. Although not
+
+shown in Figure 3, the following situations also elicited more self-reported difficulty from
+
+bioptic drivers: driving at dusk (p = 0.046) and driving into the sun when it is near or at the
+horizon (p = 0.005).
+
+We examined whether self-reported overall quality of driving by the bioptic drivers
+
+240
+
+corresponded to the backseat evaluator ratings. We had only one bioptic driver who was
+
+242
+
+yet this driver rated her driving as being good. The remaining bioptic drivers were rated as
+
+241
+243
+244
+
+rated unsafe (defined as overall ratings of 1 or 2 on 5-point scale) by the backseat evaluator,
+safe and all described their driving as good or average. None of the normally sighted
+
+drivers were rated as unsafe, and all normally sighted drivers self-rated their driving as
+
+
+[page 12]
+11
+
+245
+
+“good” or “excellent”. There was a great deal of agreement between the backseat evaluator
+
+247
+
+situations. Backseat evaluators rated all bioptic drivers as having excellent or good
+
+246
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+
+ratings of driving skills and bioptic drivers’ self-ratings of driving difficulty in various
+
+scanning skills, and all reported either no or a little difficulty in seeing objects off to the side,
+changing lanes, merging, and passing vehicles on a two-lane road, maneuvers that involve
+scanning. Backseat evaluators also rated all bioptic drivers as “2” or “3” (i.e., “good” or
+“some problem but not complete failure”) in lane positioning, and all bioptic drivers
+
+reported no or little difficulty in changing lanes, merging, and passing. With the exception
+of one driver in each of the following comparisons, bioptic drivers expressed no or a little
+
+difficulty in changing lanes, merging, and passing another vehicle, and correspondingly the
+
+backseat evaluators also rated steering steadiness as “2” or “3”. There was good agreement
+between bioptic drivers’ self-rating of their ability to identify traffic signals and the ratings
+
+by backseat evaluators, with ratings for 20 out of 23 drivers being commensurate between
+bioptic drivers and the evaluators.
+
+260
+
+Discussion
+
+262
+
+telescope useful for a number of driving tasks (e.g., seeing traffic lights, pedestrians,
+
+264
+
+against claims that the bioptic telescope is principally used to pass the vision screening test
+
+261
+263
+265
+266
+267
+268
+
+The vast majority of bioptic drivers in our study indicated that they found the
+
+roadway obstacles). These results, together with those from previous work, 7, 9 argue
+
+used for licensure determination and then subsequently not used while actually driving. 25,
+26 Since these data are self-report, some may question the veracity of participants’
+
+responses, yet naturalistic driving studies using video of a driver’s behavior27 can ultimately
+confirm the real-world, on-road use of the telescope.
+
+
+[page 13]
+12
+
+269
+
+Compared to normally sighted drivers, bioptic drivers had reduced driving exposure
+
+270
+
+in terms of the number of miles, trips and places driven per week. This reduced exposure
+
+272
+
+vision impairment, and/or the reduced exposure may represent their adopting efficient and
+
+271
+273
+274
+275
+276
+277
+278
+279
+280
+281
+
+behind the wheel may reflect cautiousness about driving since they are well aware of their
+well thought-out strategies for planning and executing trips. Regardless though, it is
+
+important to underscore that the bioptic drivers, while driving less than the normally
+
+sighted drivers, reported considerable levels of driving exposure on the road, on average
+driving 250 miles per week. In addition, the driving space of the bioptic drivers was not
+
+more limited than that of the normally sighted drivers in that the bioptic drivers were just
+
+as likely to venture out of their own community, making excursions to distant towns, other
+regions of the state, as well as outside the state. This illustrates the importance of the
+bioptic telescope in facilitating their independent mobility.
+
+In some challenging situations bioptic drivers reported little or no difficulty as did
+
+282
+
+the normally sighted drivers (e.g., left turns, interstates/expressways). Yet in other
+
+284
+
+drivers. These situations fell into three categories -- poor visibility conditions (rain, dusk,
+
+283
+285
+286
+287
+288
+289
+290
+291
+292
+293
+
+situations the bioptic drivers experienced more difficulty compared to the normally sighted
+bright light and into sun), not being familiar with the spatial characteristics of the route
+(unfamiliar areas), and when there is not someone else in the vehicle (alone). These
+
+findings suggest that it would be prudent for bioptic training programs to teach visually
+
+impaired drivers to have back-up plans for transportation when visibility conditions are
+
+poor (e.g. raining, route heads into the horizon), and that visually impaired drivers using a
+bioptic need to become thoroughly familiar with new routes ahead of time as a passenger
+before actually driving the route.
+
+While over 90% of the normally sighted drivers reported the quality of their driving
+
+as “excellent” or “good”, the range of bioptic drivers’ ratings was shifted downward to
+
+
+[page 14]
+13
+
+294
+
+“good” and “average” ratings. This may reflect their self-awareness that indeed their vision
+
+296
+
+half (56%) of bioptic drivers reported driving slower than the general traffic flow,
+
+295
+297
+298
+299
+300
+301
+302
+
+impairment makes them on occasion more vulnerable to misperceptions on the road. Over
+illustrating their use of a practical compensatory strategy, since slower speed likely gives
+
+them more time to detect critical features of the roadway environment and adjust vehicle
+control appropriately. This result is reminiscent of findings that under conditions of
+
+simulated visual impairment that reduce visual acuity, drivers on a closed-course reduce
+the speed of their vehicles.28
+
+Our study indicates that the vast majority of bioptic drivers are not over-confident
+
+303
+
+about their skill sets. In fact most of their difficulty ratings were in close agreement with
+
+305
+
+where the driver rated her driving overall quality as good, while the backseat evaluators
+
+304
+306
+307
+308
+309
+310
+311
+
+skill ratings provided by the backseat evaluators. There was one noteworthy exception
+
+rated the driving as unsafe. Subsequent to her study visit we learned that soon after she
+
+became licensed to drive with a bioptic, she was not driving for months because she did not
+have a vehicle. It is possible that her refraining from driving during this period contributed
+to erosion of her driving skills. This highlights that maintenance of driving skills in this
+population may be depend on routine engagement in driving.
+
+Strengths and limitations of this study must be considered. Unlike another recent
+
+312
+
+survey, 9 the size and characteristics of the source population were known, which informs
+
+314
+
+not able to enroll all bioptic drivers in Alabama who were licensed at the time, our sample
+
+313
+315
+316
+317
+318
+
+the participation rate and facilitates the generalizability of the results. Although we were
+
+included over half of the population. Our study addressed several driving domains in detail,
+namely bioptic telescope use and experiences with driving difficulty in challenging driving
+situations. Visual acuity through the carrier lens and through the bioptic was assessed on
+all participants on the day they completed the survey and drove on the open road, unlike
+
+
+[page 15]
+14
+
+319
+
+previous surveys.7-9 Etiologies of vision impairment were known through access to medical
+
+321
+
+whether our findings generalize to other states in the U.S. and other countries where bioptic
+
+320
+322
+323
+324
+
+records. Limitations include a relatively small sample. Also, it remains to be determined
+driving is permitted, given that the eligibility criteria and training programs for bioptic
+licensure can vary widely across jurisdictions.2, 3
+
+In summary, our study suggests that the vast majority of bioptic drivers find the
+
+325
+
+bioptic telescope useful as an assistive device while driving in a range of driving tasks. They
+
+327
+
+their own ratings about the difficulty of driving tasks and overall quality of driving are very
+
+326
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+
+are not over-confident with respect to their ability to execute critical driving skills in that
+similar to backseat evaluators’ ratings of their driving. Skills that they find more difficult
+than normally sighted drivers are those undertaken under diminished roadway visibility
+
+conditions, when driving in unfamiliar areas, and when driving alone with no passenger to
+help with navigation. These results could be useful in guiding rehabilitation specialists in
+teaching bioptic drivers on how to minimize exposure to these more challenging
+
+situations.29 Naturalistic driving studies, where unobtrusive instrumentation for recording
+driving behavior and vehicle control are installed in the vehicle,27 should be useful in
+
+examining to what extent these self-reports of driving habits by bioptic drivers can be
+documented objectively.
+
+
+[page 16]
+15
+
+338
+
+References
+
+339
+
+1.
+
+341
+
+2.
+
+340
+342
+343
+344
+345
+346
+
+3.
+
+347
+
+4.
+
+349
+
+5.
+
+351
+
+6.
+
+353
+
+7.
+
+348
+350
+352
+354
+355
+356
+357
+358
+
+8.
+
+359
+
+9.
+
+361
+
+10.
+
+360
+362
+
+Congdon N, O'Colmain B, Klaver CC, et al. Causes and prevalence of visual
+
+impairment among adults in the United States. Arch Ophthalmol 2004;122:477-485.
+American Medical Association. Physician's Guide to Assessing and Counseling Older
+
+Drivers. http://www.ama-assn.org/resources/doc/public-health/older-driversguide.pdf. Accessed October 23, 2013.
+
+AAA Foundation for Traffic Safety. Driver Licensing Policies and Practices.
+
+http://lpp.seniordrivers.org/lpp/index.cfm?selection=visionreqs. Accessed October
+23, 2013.
+
+Kooijman A, Melis-Dankers B, Peli E, et al. The Introduction of Bioptic Driving in the
+
+Netherlands. Vis Impair Res 2008;10:1-6.
+
+Feinbloom W. Driving with bioptic telescopic spectacles (BTS). Am J Optom Physiol
+
+Opt 1977;54:35-42.
+
+Huss C, Corn A. Low vision driving with bioptics: an overview. J Vis impair Blind
+
+2004;98:641-653.
+
+Taylor DG. Telescopic spectacles for driving: User data satisfaction, preferences and
+
+effects in vocation, educational and personal tasks: A study in Illinois. J Vis Rehabil
+1990;4:29-59.
+
+Park WL, Unatin J, Park CK. A profile of the demographics, training and driving
+
+history of the telescopic drivers in the state of Michigan. J Am Optom Assoc
+1995;66:274-280.
+
+Bowers AR, Apfelbaum DH, Peli E. Bioptic telescopes meet the needs of drivers with
+
+moderate visual acuity loss. Invest Ophthalmol Vis Sci 2005;46:66-74.
+
+Owsley C. Driving with bioptic telescopes: Organizing a research agenda. Optomery
+
+& Vision Science 2012;89:1249-1256.
+
+
+[page 17]
+16
+
+363
+
+11.
+
+365
+
+12.
+
+367
+
+13.
+
+369
+
+14.
+
+371
+
+15.
+
+373
+
+16.
+
+375
+
+17.
+
+377
+
+18.
+
+364
+366
+368
+370
+372
+374
+376
+378
+379
+380
+381
+382
+
+19.
+
+383
+
+20.
+
+385
+
+21.
+
+384
+386
+387
+
+Korb DR. Preparing the visually handicapped person for motor vehicle operation.
+
+Am J Optom Arch Am Acad Optom 1970;47:619-628.
+
+Janke MK. Accident rates of drivers with bioptic telescopic lenses. J Safety Res
+
+1983;14:159-165.
+
+New York State Department of Motor Vehicles. Department of Research and
+
+Evaluation,1989.
+
+Maine Department of State. Study: Bioptic lens driver, 1976-1982. Divison of Motor
+
+Vehicles, 1983.
+
+Lippman O. The effect of the Texas medical advisory board for driver licensing on
+
+driving performance. Proc Am Assoc Automot Med 1979;23:204-216.
+
+Lippman O, Corn AL, Lewis MC. Bioptic telescopic spectacles and driving
+
+performance: a study in Texas. J Vis Impair Blind 1988;82:182-187.
+
+Clarke N. An evaluation of the traffic safety risk of bioptic telescopic lens drivers.
+
+California Department of Motor Vehicles, Report Number RSS-96-163, 1996.
+
+Vincent C, Lachance J-P, Deaudelin I. Driving performance among bioptic telescope
+
+users with low vision two years after obtaining their driver's license: A quasiexperimental study. Assist Technol 2012;24:184-195.
+
+Wood JM, McGwin GJ, Elgin J, Searcey K, Owsley C. Characteristics of on-road driving
+
+performance by persons with central vision loss who use bioptic telescopes. Invest
+Ophthalmol Vis Sci 2013;54:3790-3797.
+
+Owsley C, Stalvey B, Wells J, Sloane ME. Older drivers and cataract: Driving habits
+
+and crash risk. J Gerontol A Bio Sci Med Sci 1999;54A:M203-M211.
+
+Beck RW, Moke PS, Turpin AH, et al. A computerized method of visual acuity testing:
+
+adaptation of the early treatment of diabetic retinopathy study testing protocol. Am
+J Ophthalmol 2003;135:194-205.
+
+
+[page 18]
+17
+
+388
+
+22.
+
+390
+
+23.
+
+392
+
+24.
+
+394
+
+25.
+
+389
+391
+393
+395
+396
+397
+398
+
+26.
+27.
+
+399
+400
+
+28.
+
+403
+
+29.
+
+404
+405
+406
+407
+408
+409
+
+contrast sensitivity. Clin Vis Sci 1988;2:187-199.
+
+Elliott DB, Bullimore MA, Bailey IL. Improving the reliability of the Pelli-Robson
+
+contrast sensitivity test. Clin Vis Sci 1991;6:471-475.
+
+Wood JM, McGwin G, Jr, Elgin J, et al. On-road driving performance by persons with
+
+hemianopia and quadrantanopia. Invest Ophthalmol Vis Sci 2009;50:577-585.
+
+Keeney AH. Field loss versus central magnification. Arch Ophthalmol 1974;92:273.
+Fonda G. Training in use of the bioptic telescopic spectacle (BTS) for driving is
+
+unreasonable. Trans Pa Acad Ophthalmol Otolaryngol 1988;40:716-718.
+
+Neale VL, Dingus TA, Klauer SG, et al. An overview of the 100-car naturalistic study
+
+and findings. U.S. Department of Transporation, National Highway Traffic Safety
+
+Administration. http://www-nrd.nhtsa.dot.gov/pdf/esv/esv19/05-0400-W.pdf.
+
+401
+402
+
+Pelli DG, Robson JG, Wilkins AJ. The design of a new letter chart for measuring
+
+Accessed October 23, 2013.
+
+Wood JM, Troutbeck R. Effect of visual impairment on driving. Hum Factors
+
+1994;36:476-487.
+
+Elgin J, Owsley C, Classen S. Chapter 8. Vision and driving. In: McGuire MJ, Schold-
+
+Davis E (eds), Driving and Community Mobility: Occupational Therapy Strategies
+Across the Lifespan. Bethesda MD: American Occupational Therapy Association;
+2012.
+
+
+[page 19]
+18
+
+410
+411
+412
+
+Table 1. Demographic and visual function characteristics of bioptic drivers and normally
+sighted drivers
+Characteristic
+
+Age, years, mean (SD)
+Gender, n (5)
+Female
+Male
+
+Race/ethnicity
+White, non-Hispanic
+African American
+
+Visual acuity OU, n (%)
+20/20 or better
+20/60 or better but worse than 20/20
+20/100 or better but worse than 20/60
+20/200 or better but worse than 20/100
+Worse than 20/200
+
+Visual acuity OD, n (%)
+20/20 or better
+20/60 or better but worse than 20/20
+20/100 or better but worse than 20/60
+20/200 or better but worse than 20/100
+Worse than 20/200
+Visual acuity OS, n (%)
+20/20 or better
+20/60 or better but worse than 20/20
+20/100 or better but worse than 20/60
+20/200 or better but worse than 20/100
+Worse than 20/200
+
+Visual acuity through the bioptic telescope,1 n (%)
+20/20 or better
+20/40 or better but worse than 20/20
+20/60 or better but worse than 20/40
+Worse than 20/60
+Contrast sensitivity OU, log sensitivity, n (%)
+1.80 or better
+1.60 to < 1.80
+1.40 to < 1.60
+1.20 to < 1.40
+< 1.20
+
+413
+
+Bioptic Drivers
+
+p-value
+
+33 (12)
+
+Normally
+Sighted Drivers
+33 (12)
+
+5 (22)
+18 (78)
+
+13 (56)
+10 (44)
+
+0.03
+
+20 (87)
+3 (13)
+
+19 (83)
+4 (17)
+
+1.0
+
+0
+0
+18 (78.3)
+5 (21.7)
+0
+
+21 (91.3)
+2 (8.7)
+0
+0
+0
+
+< 0.0001
+
+0
+0
+12 (52.2)
+10 (43.5)
+1 (4.3)
+
+16 (70.0)
+7 (30.4)
+0
+0
+0
+
+< 0.0001
+
+0
+0
+15 (65.2)
+8 (34.8)
+0
+
+18 (78.3)
+5 (21.7)
+0
+0
+0
+
+< 0.0001
+
+23 (100)
+0
+0
+0
+0
+
+< 0.0001
+
+6 (24)
+19 (76)
+0
+0
+7 (30.4)
+8 (34.8)
+4 (17.4)
+4 (17.4)
+0
+
+0.95
+
+Not applicable
+
+1 25 eyes are represented here because 2 of the 23 participants had binocular telescopes.
+
+
+[page 20]
+19
+
+414
+415
+416
+
+Table 2. Characteristics of Bioptic Drivers
+Characteristic
+
+n (%)1
+
+Primary etiology of vision impairment
+Hereditary optic atrophy
+Ocular albinism
+Stargardt’s disease
+Cone dystrophy
+Oculocutaneous albinism
+Optic atrophy from trauma
+Optic nerve trauma at birth
+Achromatopsia
+Congenital cataracts
+Aniridia
+Myelinated retinal nerve fibers
+associated with myopia
+
+7 (30)
+5 (22)
+3 (13)
+1 (4)
+1 (4)
+1 (4)
+1 (4)
+1 (4)
+1 (4)
+1 (4)
+1 (4)
+
+Nystagmus
+
+Telescope type
+Monocular
+Binocular
+
+Telescope manufacturer
+Designs for Vision
+Ocutech
+Bioptic telescope focus
+Fixed
+Manual
+
+417
+418
+419
+
+9 (39)
+21 (91)
+2 (9)
+8 (35)
+15 (65)
+6 (26)
+17 (74)
+
+Magnification
+2.2X
+5 (22)
+4X
+18 (78)
+1Percentage will not add to 100 on all variables because of rounding.
+
+
+[page 21]
+20
+
+420
+421
+422
+
+Table 3. Self-reports of driving exposure and self-rated quality of driving for bioptic
+drivers and normally sighted drivers
+Characteristic
+
+Bioptic Drivers
+
+Normally
+Sighted Drivers
+
+P-level
+
+Miles per week, M (SD)
+
+250 (220)
+
+410 (236)
+
+0.0224
+
+Trips per week, M (SD)
+
+12 (4.8)
+
+18 (6.0)
+
+0.0002
+
+0 (0)
+17 (74)
+6 (26)
+
+8 (35)
+13 (57)
+2 (9)
+
+Places per week, M (SD)
+
+423
+424
+
+Quality of Driving, n (%)
+Excellent
+Good
+Average
+
+5 (1.5)
+
+6 (1.5)
+
+0.0022
+0.0035
+
+
+[page 22]
+21
+
+425
+426
+427
+
+Figure Legends
+
+428
+
+Figure 1: Percentage of bioptic drivers who report that telescope is useful and it helps
+
+430
+
+Figure 2: Number of bioptic and normally sighted drivers who report driving to
+
+429
+431
+432
+433
+434
+435
+436
+437
+438
+
+versus those who report they don’t use it, for various driving tasks.
+increasingly distant geographic areas (“driving space”).
+
+Figure 3: Difficulty ratings reported by bioptic and normally sighted drivers for various
+driving situations. Shown as percent of each group expressing no difficulty (5), a little
+
+difficulty (4), moderate difficulty (3), extreme difficulty (2), and so much difficulty that does
+not engage in that driving situation (1).
+
+
+[page 23]
+22
+
+439
+440
+
+441
+442
+
+Figure 1
+
+
+[page 24]
+23
+
+443
+444
+
+445
+446
+447
+448
+
+Figure 2
+
+
+[page 25]
+24
+
+449
+
+450
+
+Figure 3
+

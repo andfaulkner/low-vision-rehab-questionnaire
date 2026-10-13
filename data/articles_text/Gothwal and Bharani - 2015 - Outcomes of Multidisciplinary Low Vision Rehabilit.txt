@@ -1,0 +1,1621 @@
+[page 1]
+Low Vision
+
+Outcomes of Multidisciplinary Low Vision Rehabilitation
+in Adults
+Vijaya K. Gothwal and Seelam Bharani
+Meera and L B Deshpande Centre for Sight Enhancement, Vision Rehabilitation Centres, L V Prasad Eye Institute, Hyderabad,
+Telangana, India
+
+Correspondence: Vijaya K. Gothwal,
+Meera and L B Deshpande Centre for
+Sight Enhancement, Vision Rehabilitation Centers, L V Prasad Eye
+Institute, Hyderabad, Telangana, India;
+vijayagothwal@gmail.com.
+Submitted: March 18, 2015
+Accepted: September 8, 2015
+Citation: Gothwal VK, Bharani S.
+Outcomes of multidisciplinary low
+vision rehabilitation in adults. Invest
+Ophthalmol Vis Sci. 2015;56:7451–
+7461. DOI:10.1167/iovs.15-16892
+
+PURPOSE. To evaluate the outcomes of multidisciplinary low vision rehabilitation (LVR) in
+adults with low vision (LV) in India using the Veterans Affairs Low Vision Visual Functioning
+Questionnaire (VA LV VFQ-48) and the Impact of Vision Impairment (IVI) questionnaire.
+METHODS. Consecutive adults with LV referred for the first time to the Centre for Sight
+Enhancement were administered the 28-item IVI and VA LV VFQ-48 before and after LVR (4
+months). Rasch-scaled scores were generated for the IVI and the VA LV VFQ-48 along with
+each of their subscales at both the time points. Effect size (ES) was calculated using Cohen’s d
+coefficient.
+RESULTS. Two hundred fifty-five patients completed the LVR program. Following LVR, the
+linear measures revealed significant improvements in vision-related quality of life (VRQoL)
+using the IVI at follow-up (P < 0.0001), with large ES for reading and accessing information
+(ES ¼ 1.0) and relatively moderate ES for overall IVI (ES ¼ 0.63) and mobility subscale (ES ¼
+0.53). No significant improvement was found on emotional well-being subscale (ES ¼ 0.18; P
+¼ 0.06). Similarly, significant improvements in VRQoL (P < 0.0001) were found for the VA LV
+VFQ-48 at follow-up, albeit moderate ES for the overall visual ability (ES ¼ 0.67) and its
+subscales (reading [ES ¼ 0.72], mobility [ES ¼ 0.45], visual information [ES ¼ 0.47),
+visual motor [ES ¼ 0.54]).
+CONCLUSIONS. Regardless of the instrument used for assessment, our multidisciplinary LVR
+program resulted in statistically significant improvements in visual functioning and VRQoL of
+those adults with LV deemed appropriate for intervention (dropout rates were high);
+however, the improvements were modest, and the clinical relevance of these small
+improvements may be limited. Nonetheless, further studies should attempt to increase the
+completion rates in order to draw strong inferences.
+Keywords: outcomes, low vision rehabilitation, visual impairment, Rasch analysis,
+effectiveness, low vision devices, impact of vision impairment, Veterans Affairs Low Vision
+Visual Functioning questionnaire
+
+ow vision (LV) refers to a condition of reduced vision that is
+uncorrectable by standard glasses, contact lenses, medication, or surgery and that impacts a person’s ability to perform
+age-appropriate vision-dependent tasks.1 Recent published data
+suggest that, worldwide, there were 191 million people with LV
+in 2010.2 However, up to 90% of patients with LV have useful
+residual vision and may benefit from low vision rehabilitation
+(LVR).3–5 Low vision rehabilitation aims to improve functional
+ability and independence of the visually impaired, and as a
+result to improve their quality of life (QoL).6 Therefore, LVR is
+considered a highly valued intervention that has a significant
+impact on individuals’ lives and activities.7 The reported
+success rates of LVR across studies have typically ranged from
+23% to 100%.8 In all these studies, the outcome measures for
+success have ranged from subjective ratings that involve asking
+patients about their satisfaction with the LVR to objective
+indicators that involve using performance-based indicators of
+functional ability (such as reading speed and duration).9–15
+However, a consistent definition of success is lacking.7
+In the past decade there has been a paradigm shift in the
+evaluation of LVR services, and the move has been toward the
+
+use of patient-reported outcome measures (PROMs) that
+involve obtaining patients’ perception of functional ability
+before and after LVR. Several researchers have used PROMs to
+evaluate the effectiveness of LVR in improving the visual ability
+as well as the vision-related quality of life (VRQoL).3,4,6,16–20 For
+example, in the Veterans Affairs LVR programs (both inpatient
+and outpatient), Stelmack et al.19 used the Veterans Affairs Low
+Vision Visual Function Questionnaire-48 (VA LV VFQ-48) and
+demonstrated a very large positive effect (effect size [ES]
+ranging from 1.2 for mobility to 3.5 for reading ability) on self reported functional ability of adults with LV.
+Other LVR programs have shown a medium effect on
+functional ability.21 In a recent study, Massof and Stelmack22
+compared the results of several LVR outcome studies and
+groups within studies conducted over the last 15 years and
+found that ES for most studies were small (<0.3) or moderate
+(0.5), except for the Veterans Affairs Blind Rehabilitation
+Centre (2.1) and Low Vision Intervention Trial. Using the
+National Eye Institute-Visual Function Questionnaire (NEI-VFQ39) in visually impaired veterans before and after 2 months of
+treatment in an inpatient blind rehabilitation program, Kuyk et
+
+Copyright 2015 The Association for Research in Vision and Ophthalmology, Inc.
+iovs.arvojournals.org j ISSN: 1552-5783
+
+7451
+
+L
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+
+[page 2]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7452
+
+Low Vision Rehabilitation in Adults
+al.23 reported medium to large effects (ES ranging from 0.26 for
+color vision to 1.97 for near vision subscale). By comparison,
+Stelmack et al.6 reported small effects (increase in visual ability
+of 0.5 and 0.35 logits) using the NEI-VFQ-25 from the inpatient
+Veterans Affairs LVR program. Using the NEI-VFQ-51 and the
+Visual Function-14, Scott et al.24 reported medium effects (ES
+ranging from 0.32 for general vision to 0.57 for near activities)
+from their LVR programs in a LV clinic sample. Lamoureux et
+al.4 reported small to medium effects (ES ranging from 0.17 for
+mobility and independence to 0.30 for emotional well-being
+[EWB]) using the Impact of Vision Impairment (IVI), in terms
+of the changes in VRQoL from pre-LVR to post-LVR in their
+population. Similarly, using the IVI and the VA LV VFQ-48,
+Wang et al.5 reported small to medium effects (ES ranging from
+0.10 for visual information using the VA LV VFQ-48 to 0.24 for
+overall visual ability using the IVI) at 3 months following LVR in
+their population. DeBoer et al.25 demonstrated a small effect
+(ES ranging from 0.13 to 0.17 using the Vision Quality of Life
+Core Measure 1, VCM1) at 1 year following LVR in their sample
+consisting of patients who received standard optometric as
+well as those who received multidisciplinary LV services. In the
+study by Reeves et al.,17 the authors aimed to detect a
+standardized difference of 0.46 in the VRQoL between the
+three groups of patients in the trial (conventional LVR [CLVR],
+enhanced LVR [ELVR], and controlled for additional contact
+time in enhanced LVR [CELVR]), but failed to detect this
+difference using the VCM1 between those patients who were
+provided CLVR versus those who were provided ELVR or those
+who were provided CELVR. With the anticipated increase in
+the demand for LVR services and limited health care resource
+allocation, it is imperative that service providers demonstrate
+the effectiveness of their services in order to ensure continued
+funding of their programs.26
+Models of LVR services vary widely in content, intensity,
+and mode of delivery.27 However, there is consensus among
+service providers that LVR services should include an
+evaluation of the needs and goals of patients with LV and
+subsequently tailor the service provision accordingly.28 There
+is also wide variability in the availability of LVR services across
+countries, with the coverage adequate in developed compared
+to that in the developing countries.29 In any case, the current
+global coverage and the availability of LVR services in most
+countries are <10%. Part of the reason for such low coverage
+has been the location of the LVR services that are mainly at the
+secondary and tertiary levels, especially in developing countries.30
+The Vision Rehabilitation Centres (VRC) of the L V Prasad
+Eye Institute, LVPEI (a tertiary eye care center), Hyderabad,
+located in the Southern state of Telangana (35.2 million
+population in 2011), India, has been a recognized provider of
+comprehensive LVR services in the country since 1997. It has
+served over 50,000 patients with LV to date and is one of the
+three major hospital-based LVR service providers in South
+India for a population of 252 million (approximately 25% of
+India’s population). Though these services have been
+provided for over a decade in the region, the effectiveness
+of these LVR services in India has remained largely unknown.
+Recently, Do et al.31 published the results of a survey that
+used the Low Vision Quality of Life (LVQoL) questionnaire to
+evaluate the effectiveness of LVR services in improving the
+QoL of patients with LV in a rural population of the
+neighboring Indian state Tamil Nadu. The service provided
+was, however, primarily clinical LV care that involved
+prescription of low vision devices (LVDs). The authors
+reported significant gains in mobility, distance vision and
+lighting adjustment, and reading and fine work, but did not
+find any significant change in activities of daily living of their
+patients following LVR.31 However, these results may not
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+apply to other regions/centers that follow a different LVR
+program. In addition, the limited demonstrable benefits of
+LVR in a selected population of South India calls for further
+investigation. With all this taken together and the fact that
+India is among the regions with the highest burden of visual
+impairment (VI) with limited health care resources, it is
+important for more such studies to be conducted in order to
+further explore the effectiveness of multidisciplinary LVR
+services in the country. The aim of the present prospective
+observational study was to evaluate the outcomes of
+multidisciplinary LVR services in adults with LV in Southern
+India using two popular Rasch-validated VRQoL instruments:
+the IVI and the VA LV VFQ-48. Vision-related QoL is a complex
+trait that encompasses visual disability, symptoms, EWB,
+social relationships, concerns, and convenience as they are
+affected by vision.32 We chose the IVI and VA LV VFQ-48 given
+that they been validated extensively using Rasch analysis and
+that a change in VRQoL has been demonstrated in three LV
+services by three independent research teams in other
+populations.4–6 More importantly, they enable measurement
+of different aspects of VRQoL that are considered important
+by patients with LV.
+
+METHODS
+We recruited consecutive adults referred to the Centre for
+Sight Enhancement (CSE), VRC, at the LVPEI, Hyderabad, India,
+for the management of LV between March 2012 and March
+2014. All the adults were referred from the outpatient services
+and specialty clinics of the LVPEI. The initial detailed
+ophthalmologic examinations established the diagnosis and
+cause for LV in the clinics. Participants were those who were
+first-visit patients of CSE; had self-reported difficulty with
+performing everyday tasks; could perform standard clinical
+vision tests; could speak English, Telugu, or Hindi; and were
+able to respond to the items (questions) on the instruments
+(details later). We included adults with visual acuity of 20/20 in
+the better eye (n ¼ 3) because they had accompanying visual
+field loss in this eye (less than 208). We excluded participants
+with disabilities such as hearing and intellectual disabilities
+because of the difficulty in obtaining reliable responses from
+them during administration of the instruments. In addition, we
+excluded patients who were prior users of LVDs; were unable
+to come for a scheduled follow-up; were unable to speak
+English, Hindi or Telugu; or had bilateral no perception of
+light. Ethical approval was obtained from the Ethics Committee
+for Human Research of the LVPEI, and the research adhered to
+the tenets of the Declaration of Helsinki. Informed consent was
+obtained from the participants and their parent(s) or caregiver
+after a detailed explanation of the study.
+
+Instruments
+Impact of Vision Impairment (IVI). The IVI is a vision specific QoL instrument that was developed to measure the
+impact of LVR on participation in daily living in patients with
+LV.33–37 The original instrument consisted of 32 items, but it
+was shortened to 28 items through Rasch analysis few years
+ago.35 The 28 items are divided into three subscales: mobility
+and independence (11 items), EWB (8 items), and reading and
+accessing information (9 items). The questionnaire responses
+were organized and assigned ordinal values as recommended
+by the developers. The questionnaire uses two different rating
+scales: one for the first 15 items and the second for the
+remaining 13 items. Using standard procedures, local language
+versions were obtained using forward–backward translations
+of the IVI questionnaire.
+
+
+[page 3]
+Low Vision Rehabilitation in Adults
+Veterans Affairs Low Vision Visual Functioning Questionnaire-48 (VA LV VFQ-48). The VA LV VFQ-48 is a vision specific instrument that was developed as an outcome measure
+for LVR.38–40 The 48-item content reflects activities that are
+important to most patients, depend heavily on vision, and are
+targeted by LVR.41,42 It was validated using Rasch analysis and
+has been shown to be sensitive to change as a result of
+LVR.38,39 All the items utilize a five-category response format,
+and the method of administration followed was as recommended by Stelmack and Massof.43
+While the IVI provides an assessment of EWB (albeit a
+restricted assessment of VRQoL), the VA LV VFQ-48 provides a
+comprehensive assessment of the visual disability. Taken
+together, the IVI and the VA LV VFQ-48 complement each
+other in the assessment of the VRQoL.
+The Low Vision Rehabilitation Program at the LVPEI.
+Details of the comprehensive LVR program at VRC, LVPEI
+have been published earlier.44 We provide only the relevant
+details of the program here. Two vision rehabilitation centers
+(located next to each other) of the LVPEI provided the
+comprehensive LVR service, namely, the Meera and L B
+Deshpande Centre for Sight Enhancement and the Dr P R K
+Prasad Centre for Rehabilitation of the Blind and Visually
+Impaired. The multidisciplinary team comprised several
+professionals that included optometrists trained specifically
+in LV, special educators, orientation and mobility (O and M)
+instructors, rehabilitation professionals, information and
+communication technology instructors, and physiotherapists.
+The LVR commenced with the optometrist’s performing the
+clinical assessments, and LVDs were demonstrated depending
+on the requirement of the task, as well as magnification
+assessment for distance and near. The optical LVDs included
+telescopes and magnifiers (stand and pocket). Nonoptical
+devices included reading stand, reading lamp, filter for glare
+control, and needle threader. Electronic devices included
+portable video magnifiers and desktop closed-circuit television (CCTV). Following the choice of the LVDs, patients
+were provided training in use of the prescribed LVDs. In
+addition, training in O and M, in use of computers (special
+software: screen magnification and screen reading), and in
+activities of daily living, audio books and disability certification were among the services provided by the rehabilitation
+professionals at the center. Finally, the LVDs were dispensed
+at the center and a review appointment was made within 4
+months (62 weeks) to assess the use of LVDs by the patient
+and to evaluate the effectiveness of the intervention. Two or
+three telephone reminders (separated by a week) were
+provided for those who failed to keep their follow-up
+appointment. If the patient failed to return for the follow up visit, he or she was excluded from the study. Any LVD or
+glasses prescribed were to be purchased by the patient.
+Some patients who were economically underprivileged were
+provided waivers through an indigent fund available for this
+purpose.
+
+Procedure
+We administered both the questionnaires in English, Telugu,
+or Hindi, and this was done by trained interviewers in a faceto-face interview. We did not follow any specific order of
+administration of the questionnaires; they were administered
+at baseline and subsequently at the follow-up visit scheduled
+4 months from the baseline. This duration was considered to
+be adequate for patients to have gained some experience in
+the use of the prescribed LVDs. The interview was
+conducted using a written script by a different trained
+interviewer at each visit. These interviewers were not
+involved in the LVR process and were masked to the results
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+IOVS j November 2015 j Vol. 56 j No. 12 j 7453
+of the baseline data of the questionnaires. Demographic and
+clinical data were abstracted from the medical records of the
+patients.
+
+Statistical Analysis
+We used the formula presented by Lamoureux et al.35 to
+transform the raw scores to Rasch-scaled scores for the IVI.
+Similarly we used the formula reported by Stelmack and
+Massof43 to transform the raw scores to Rasch-scaled scores for
+the VA LV VFQ-48. While higher positive scores represent
+greater visual disability for the VA LV VFQ-48, they represent
+better VRQoL for the IVI.
+Given that we used the Rasch-scaled scores, the instrument scores (total and subscale) for both the IVI and the VA
+LV VFQ-48 yielded continuous scores. We based our sample
+size calculation on the ES reported from similar studies in the
+literature (as noted in the introduction) and used a modest ES
+of 0.2 for our study. This calculation provided a sample size of
+196 participants to detect an ES of 0.20 with 80% power at a
+5% (2-tailed) significance level—that is, a ‘‘small ES.’’
+However, our clinic experience suggested a high attrition
+rate (almost 80%), and based on recommended calculations,45
+the minimum required sample size was 980 (accounting for
+80% attrition rate) in order to ensure that the required final
+sample size of 196 was achieved in our study.
+As noted in the introduction, we used the outcome
+measures from both these instruments so as to enable
+comparison of our results with previous studies and to be
+as comprehensive in our assessments of VRQoL as possible.
+We used SPSS statistical software to perform descriptive
+statistics (Version 19.0; SPSS Science, Chicago, IL, USA). We
+used v2 tests for categorical variables and independent
+samples t-tests for continuous variables as appropriate. We
+used a two-sided paired t-test at 5% significance level to assess
+whether the change in visual functioning (VF) and VRQoL
+scores from baseline to follow-up for both the instruments
+was significantly differently from zero. We employed mixed
+between–within subjects analysis of variance (ANOVA) to
+determine whether the LVR change was the same over time
+across participants’ age (split at median; 40 vs. >40 years),
+sex, cause of VI (retinal versus nonretinal), education status,
+occupation status, presence or absence of systemic comorbidity, LV (best-corrected acuity of <20/60–20/200 in better
+eye) or legally blind (best-corrected acuity of <20/200 or
+visual field of <108 in better eye), location of residence (urban
+versus rural), and components of the multidisciplinary LVR
+service accessed by the participants (optometry led versus
+other services). We used the Bonferroni adjustment for
+multiple comparisons when appropriate. We calculated the
+LVR outcomes using ES (i.e., Cohen’s d)46 and used the
+MedCalc for Windows, version 14.8 (MedCalc Software,
+Ostend, Belgium) for this purpose. Effect size is defined as
+mean instrument score change divided by the standard
+deviation (SD) of the instrument scores at baseline. We used
+the conventional benchmarks to classify ES: small (0.2),
+moderate (0.3–0.7), and large (‡0.8).46,47 In the presence of
+incomplete data it is imperative to perform sensitivity
+analyses, which examine the robustness of the results to the
+assumptions made in the primary analysis.48,49 Therefore we
+performed sensitivity analyses using the baseline-observation carried-forward (BOCF) method to handle participant dropouts (see Results section).50 With this method, the baseline
+observation is treated as the final response from the
+participant without any postbaseline observation regardless
+of the reason the participant dropped out or the score at the
+time of withdrawal.50
+
+
+[page 4]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7454
+
+Low Vision Rehabilitation in Adults
+TABLE 1. Reasons for Exclusion From the Study (n ¼ 2525)
+Reason
+
+n (%)
+
+Current/prior user of LVDs
+Inability to return for a follow-up
+Refusal because of lack of time for participation
+Presence of additional disabilities: hearing, intellectual
+Age < 18 y
+Inability to speak/understand one of the three
+languages required for administration
+of the instruments: English, Hindi, Telugu
+
+20 (0.8)
+1275 (50.4)
+650 (25.7)
+55 (21.8)
+200 (7.9)
+
+325 (12.9)
+
+RESULTS
+Between March 2012 and March 2014, 3796 first-visit adults
+with LV were provided LVR services. Of these, 1271
+participants (33.5%) were identified and recruited for this
+study. The reasons for exclusion of potential participants from
+the study (n ¼ 2525) are provided in Table 1. As is evident
+from the table, the most common reason for exclusion was an
+inability to return for a follow-up (50.4%). Of the 1271
+persons recruited, 255 (20%) completed follow-up assessments, a rate much lower than that reported for Western
+populations.3–5,51 Common reasons for failure to return for a
+follow-up assessment (withdrawal) were lack of specific LVR
+goals, perceived cosmetic blemish from the use of LVDs, the
+need to travel long distances that imposed a financial burden
+on the family, other commitments, LVDs being unaffordable,
+refusal to accept vision loss, and inability to be contacted by
+phone/mail.
+The sociodemographic and clinical characteristics of the
+1271 participants who were recruited for the study are
+outlined in Table 2. This sample is representative of the adults
+referred for LVR services to VRC. As noted earlier, 255 of the
+1271 (20%) completed the study (completed group) and the
+remaining (1016) participants (withdrawal group) failed to
+complete the study. While the two groups of participants
+were comparable across most of the baseline characteristics,
+there was a statistically significant, but weak, association
+between the rate of completion of the study, the location of
+residence (v2 ¼ 8.81, df ¼ 1, P ¼ 0.003; / ¼ 0.09), and the
+cause of VI (v2 ¼ 13.27, df ¼ 1, P ¼ 0.02; / ¼ 0.11). A
+significantly higher proportion of urban participants (818,
+80%), those with retinal disorders (556, 55%), and those
+without systemic comorbidity (711, 70%) withdrew from the
+study as compared to those from rural locations (198, 20%, P
+¼ 0.002), those without retinal disorders (460, 45%, P ¼
+0.005), and those with systemic comorbidity (234, 23%, P ¼
+0.008), respectively. When we compared the sociodemographics of those who were recruited for the study to those
+who were excluded, we found statistically significant
+differences between the groups (Table 3). Participant
+exclusion was significantly related to older age (P <
+0.0001), being female (P < 0.0001), belonging to rural
+locations (P < 0.0001), being illiterate (P ¼ 0.01), tendency to
+have retinal disorders as the cause of VI (P ¼ 0.05), and having
+worse best-corrected visual acuity in the better eye (P ¼
+0.0003) as compared to those who completed the study. The
+types of low vision interventions and various rehabilitation
+services undertaken by our participants are provided in
+Tables 4 and 5, respectively. Disability certification and, next,
+educational counseling were among the most frequently
+provided services by the rehabilitation professionals. The
+number of participants who purchased the LVDs is provided
+in the Figure.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+Effectiveness of the Low Vision Rehabilitation
+Service Using the IVI
+The overall IVI post-LVR score was significantly higher than the
+pre-LVR score (P < 0.0001) with ES of 0.63 (95% confidence
+interval [CI], 0.46–0.80) across all the participants (Table 6).
+Similarly, for the reading and accessing information subscale,
+the post-LVR score was significantly higher than the pre-LVR
+score (P < 0.0001) with ES of 1.00 (95% CI, 0.80–1.20). For the
+mobility and independence subscale, the post-LVR score was
+significantly higher than the pre-LVR score (P < 0.0001) with
+ES of 0.53 (95% CI, 0.31–0.75). By comparison, there was no
+significant difference in the EWB score between pre- and postLVR (P ¼ 0.06) (Table 6).
+A mixed between–within subjects ANOVA conducted to
+compare the overall IVI and the two subscale scores between
+LV (n ¼ 214) and legally blind (n ¼ 41) groups across the two
+time points (baseline and follow-up) showed that there was no
+significant interaction between level of VI and the change in
+VRQoL for any of them (Wilks’ lambda ¼ 0.99, F (1, 253) ¼
+1.28, P ¼ 0.28 for overall IVI; Wilks’ lambda ¼ 1.00, F (1, 253) ¼
+0.09, P ¼ 0.75 for reading and accessing information subscale;
+Wilks’ lambda ¼ 0.99, F (1, 253) ¼ 0.64, P ¼ 0.42 for mobility
+and independence subscale). However, our study perhaps
+lacked sufficient power to detect the significant interaction
+effects (>0.5). There was a main effect for LVR (Wilks’ lambda
+¼ 0.85, F (1, 253) ¼ 44.9, P < 0.0001 for overall IVI; Wilks’
+lambda ¼ 0.69, F (1, 253) ¼ 113.38, P < 0.0001 for reading and
+accessing information subscale; Wilks’ lambda ¼ 0.86, F (1,
+253) ¼ 39.78, P < 0.0001 for the mobility and independence
+subscale) with the overall IVI and both the subscale scores
+improving significantly following LVR services across both
+groups of participants.
+
+Effectiveness of the Low Vision Rehabilitation
+Service Using the VA LV-VFQ-48
+For the VA LV VFQ-48, the overall post-LVR score was
+significantly higher than the pre-LVR score (P < 0.0001) with
+ES of 0.67 (95% CI, 0.46 to 0.89) across all the participants
+(Table 7). Similarly, for all four subscales, the post-LVR score
+was significantly higher than the pre-LVR score (P < 0.0001),
+and the ES was 0.72 (95% CI, 0.47 to 0.97), 0.45 (95% CI,
+0.15 to 0.75), 0.54 (95% CI, 0.25 to 0.83), and 0.47
+(95% CI, 0.20 to 0.74) for the reading, mobility, visual
+information, and visual motor subscales, respectively (Table 7).
+A mixed between–within subjects ANOVA conducted to
+compare the overall VA LV VFQ-48 and the four subscale
+scores between LV and legally blind groups across the two
+time points showed that there was a significant interaction
+between level of VI and the change in visual disability for the
+overall VA LV VFQ-48 score (Wilks’ lambda ¼ 0.98, F (1, 253) ¼
+4.80, P ¼ 0.03). However, there was no significant interaction
+between level of VI and the change in visual disability for any
+of its subscales (Wilks’ lambda ¼ 0.99, F (1, 253) ¼ 0.20, P ¼
+0.27 for reading subscale; Wilks’ lambda ¼ 0.99, F (1, 253) ¼
+2.03, P ¼ 0.16 for mobility subscale; Wilks’ lambda ¼ 0.99,
+F(1, 253) ¼ 1.86, P ¼ 0.17 for visual information subscale;
+Wilks’ lambda ¼ 0.99, F (1, 253) ¼ 3.24, P ¼ 0.07 for visual
+motor subscale). However, our study perhaps lacked sufficient power to detect the significant interaction effects
+(>0.5). There was a main effect for LVR (Wilks’ lambda ¼
+0.83, F (1, 253) ¼ 50.48, P < 0.0001 for overall VA LV VFQ-48;
+Wilks’ lambda ¼ 0.78, F (1, 253) ¼ 69.39, P < 0.0001 for
+reading subscale; Wilks’ lambda ¼ 0.89, F (1, 253) ¼ 30.55, P
+< 0.0001 for the mobility subscale; Wilks’ lambda ¼ 0.87, F (1,
+253) ¼ 38.61, P < 0.0001 for visual information subscale;
+Wilks’ lambda ¼ 0.90, F (1, 253) ¼ 27.21, P < 0.0001 for visual
+
+
+[page 5]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7455
+
+Low Vision Rehabilitation in Adults
+
+TABLE 2. Sociodemographic and Clinical Characteristics of the Participants Who Completed This Study (Completed) and Those Who Failed to
+Complete the Study (Withdrawal)
+Completed, N ¼ 255
+
+Withdrawal, N ¼ 1016
+
+n (%) or Mean 6 SD
+
+n (%) or Mean 6 SD
+
+P
+
+41.7 6 16.1
+
+41.3 6 16.0*
+
+0.72
+
+18–82
+
+18–82
+
+196 (77)
+59 (23)
+
+764 (75)
+252 (25)
+
+0.64
+
+10.4 6 12.9
+
+11.8 6 13.3‡
+
+0.13
+
+183 (72)
+72 (28)
+
+818 (80)
+198 (20)
+
+0.003
+
+221 (87)
+34 (13)
+
+792 (78)
+112 (11)
+
+0.77
+
+137 (54)
+118 (46)
+
+528 (53)
+478 (47)
+
+0.78
+
+85 (33)
+170 (67)
+
+234 (23)
+711 (70)
+
+0.008
+
+Retinal disorders¶
+Nonretinal disorders
+
+114 (45)
+141 (55)
+
+556 (55)
+460 (45)
+
+0.005
+
+BCVA in better eye, Snellen
+Range, Snellen
+
+0.69 6 0.41, 20/100
+0.0–2.4, 20/20–20/5000
+
+0.70 6 0.40, 20/100#
+0.0–2.4, 20/20–20/5000
+
+0.72
+
+VI level, BCVA in better eye**
+‡20/60
+<20/60–20/200
+<20/200
+
+82 (32)
+132 (52)
+41 (16)
+
+319 (31)
+489 (48)
+208 (20)
+
+0.29
+
+Characteristic
+Age, y
+Range
+Sex
+Male
+Female
+Duration of VI, y†
+Location of residence§
+Urban
+Rural
+Educational status
+Literate
+Illiterate
+Employment status
+Employed
+Unemployed
+Systemic comorbidityjj
+Present
+Absent
+Cause of VI
+
+BCVA, best-corrected visual acuity.
+* Mean difference ¼ 0.4 (95% CI, 2.6, 1.8).
+† Time since diagnosis of eye condition.
+‡ Mean difference ¼ 1.4 (95% CI, 0.42, 3.22).
+§ Self-reported.
+jj Includes diabetes mellitus, hypertension, coronary artery disease, asthma, thyroid disorders.
+¶ Includes retinitis pigmentosa, cone–rod dystrophy, cone dystrophy, retinoschisis, diabetic retinopathy, age-related macular degeneration,
+familial exudative vitreoretinopathy, and so on.
+# Mean difference ¼ 0.01 (95% CI, 0.04, 0.06).
+** ‡20/60 includes those with visual field loss too and represents mild vision impairment; <20/60 to 20/200 represents moderate vision
+impairment; <20/200 represents severe vision impairment.
+
+motor subscale), with the overall IVI and all four subscale
+scores improving significantly following LVR services across
+both the groups of participants.
+
+Effectiveness of the Low Vision Rehabilitation at
+the Subgroup Level
+There was no significant interaction effect between the LVR
+change and age (split at median: <40 vs. ‡40 years), sex,
+cause of VI (retinal versus nonretinal), education status
+(illiterate versus literate), occupation status (employed versus
+unemployed), presence or absence of systemic comorbidity,
+location of residence (urban versus rural), and type of service
+(optometry led versus other services). We also examined the
+effect of duration of vision loss and rehabilitative strategies
+provided by the LVR practitioner. Based on the median
+duration of vision loss (4 years), we divided our participants
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+into two groups: less than median duration of vision loss and
+greater than median duration of vision loss. We found a
+significant interaction effect with LVR change (Wilks’ lambda
+¼ 0.98, F (1, 253) ¼ 4.33, P ¼ 0.04) between these two groups
+for the overall IVI scores. There was a significant main effect
+for time, with both the groups showing an increase in the
+overall IVI scores at the follow-up visit (Wilks’ lambda ¼ 0.75,
+F (1, 252) ¼ 83.27, P < 0.0001). Similarly, we found a
+significant interaction effect between the duration of vision
+loss and LVR change for the EWB subscale of the IVI (Wilks’
+lambda ¼ 0.98, F (1, 252) ¼ 4.28, P ¼ 0.04) and for the
+mobility subscale of the VA LV VFQ-48 (Wilks’ lambda ¼ 0.98,
+F (1, 252) ¼ 6.09, P ¼ 0.014). There was a significant main
+effect for time, with both the groups showing an increase in
+the EWB subscale scores of the IVI (Wilks’ lambda ¼ 0.97, F(1,
+252) ¼ 7.77, P ¼ 0.006) and the mobility scores of the VA LV
+VFQ-48 (Wilks’ lambda ¼ 0.80, F (1, 252) ¼ 61.70, P < 0.0001)
+at the follow-up visit. Participants who had smaller duration
+
+
+[page 6]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7456
+
+Low Vision Rehabilitation in Adults
+
+TABLE 3. Comparison of Sociodemographic and Clinical Characteristics of the Participants Who Completed This Study With Those Who Were
+Excluded From the Study
+Recruited, N ¼ 1271
+n (%) or Mean 6 SD
+
+Excluded, N ¼ 2525
+n (%) or Mean 6 SD
+
+41.7 6 16.1
+18–82
+
+47.4 6 18.3*
+19–98
+
+<0.0001
+
+196 (77)
+59 (23)
+
+1213 (48)
+1312 (52)
+
+<0.0001
+
+10.4 6 12.9
+
+9.2 6 12.0‡
+
+0.15
+
+183 (72)
+72 (28)
+
+1168 (46)
+1357 (54)
+
+<0.0001
+
+221 (87)
+34 (13)
+
+2019 (80)
+506 (20)
+
+0.01
+
+137 (54)
+118 (46)
+
+1295 (51)
+1230 (49)
+
+0.47
+
+85 (33)
+170 (67)
+
+809 (32)
+1716 (68)
+
+0.67
+
+Retinal disorders¶
+Nonretinal disorders
+
+114 (45)
+141 (55)
+
+1294 (51)
+1231 (49)
+
+0.05
+
+BCVA in better eye, Snellen
+
+0.70 6 0.4, 20/100
+
+0.79 6 0.5, 20/126þ1#
+
+0.003
+
+0.0–2.4, 20/20–20/5000
+
+0.0–2.4, 20/20–20/5000
+
+82 (32.2)
+132 (51.8)
+41 (16.1)
+
+867 (34.3)
+992 (39.3)
+666 (26.4)
+
+Characteristic
+Age, y
+Range
+
+P
+
+Sex
+Male
+Female
+Duration of VI, y†
+Location of residence§
+Urban
+Rural
+Educational status
+Literate
+Illiterate
+Employment status
+Employed
+Unemployed
+Systemic comorbidityjj
+Present
+Absent
+Cause of VI
+
+Range, Snellen
+VI level, BCVA in better eye**
+‡20/60
+<20/60–20/200
+<20/200
+
+<0.0001
+
+BCVA, best-corrected visual acuity.
+* Mean difference ¼ 5.7 (95% CI, 3.4, 8.0).
+† Time since diagnosis of eye condition.
+‡ Mean difference ¼ 1.2 (95% CI, 2.8, 0.4).
+§ Self-reported.
+jj Includes diabetes mellitus, hypertension, coronary artery disease, asthma, thyroid disorders.
+¶ Includes retinitis pigmentosa, cone–rod dystrophy, cone dystrophy, retinoschisis, diabetic retinopathy, age-related macular degeneration,
+familial exudative vitreoretinopathy, and so on.
+# Mean difference ¼ 0.09 (95% CI, 0.03, 0.16).
+** ‡20/60 includes those with visual field loss too and represents mild vision impairment; <20/60 to 20/200 represents moderate vision
+impairment; <20/200 represents severe vision impairment.
+
+of vision loss (4 years) exhibited significantly greater
+improvements in their EWB scores at the follow-up than
+those with greater duration of vision loss (>4 years) (1.07 6
+2.68 vs. 0.29 6 2.80 logits, mean difference ¼ 0.78 [95% CI,
+0.10, 1.46], P ¼ 0.02). We did not find any significant
+interaction effect for the other subscales when comparing
+participants with smaller versus greater duration of vision
+loss.
+
+Sensitivity Analyses
+The analyses were performed by carrying forward the baseline
+responses (i.e., the pre LVR) to the post-LVR data sheet for the
+withdrawal group, and we found a significant lowering of the
+ES using both the instruments. The ES ranged from 0.04 for
+EWB to 0.21 for reading using the IVI (Table 8) and from 0.07
+for reading to 0.21 for overall visual ability using the VA LV
+VFQ-48 (Table 9).
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+DISCUSSION
+This study provides the first evidence that LVR at the VRC,
+LVPEI in South India, as measured by the two instruments—the
+IVI and the VA LV VFQ-48—resulted in significant improvements in the overall VF and the VRQoL of adults with LV in
+those who completed the study. Our results are in accordance
+with previous studies that have used these instruments and
+similar methodology to assess the impact of LVR services on
+the VRQoL in Western populations.4,5,19,40
+In the only other recent study from India, Do et al.31
+administered the 25-item LVQoL questionnaire before and 1
+month post LVR (over telephone) to participants with LV (n ¼
+55). Using raw scores, the authors reported an overall ES of
+4.55 points with significant improvements in three of the four
+LVQoL subscales—mobility, psychologic, and reading. There
+was no significant improvement for the activities of daily living
+subscale. Although raw scores are ordinal, they may not exhibit
+the essential properties of measurement.52 Consequently, the
+
+
+[page 7]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7457
+
+Low Vision Rehabilitation in Adults
+TABLE 4. Type of Low Vision Interventions Suggested to the Participants
+Completed, N ¼ 255
+
+Withdrawals, N ¼ 1016
+
+n (%)
+
+n (%)
+
+P
+
+96 (37.6)
+
+777 (76.5)
+
+<0.0001
+
+30 (11.8)
+118 (46.3)
+48 (18.8)
+91 (35.7)
+
+124 (12.2)
+437 (43.0)
+239 (23.5)
+585 (57.6)
+
+0.85
+0.88
+0.12
+<0.0001
+
+62 (68.1)
+14 (15.4)
+3 (3.3)
+1 (1.1)
+3 (3.3)
+2 (2.2)
+1 (1.1)
+5 (5.5)
+
+419 (70.3)
+104 (17.5)
+24 (4.1)
+2 (0.3)
+11 (1.9)
+9 (1.5)
+15 (2.5)
+11 (1.9)
+
+58 (22.7)
+197 (77.3)
+
+229 (22.5)
+787 (77.5)
+
+Low Vision Intervention
+Refractive correction*
+Low vision devices†
+Telescopes and binoculars for distance vision tasks
+Magnifiers for near vision tasks
+Closed circuit television‡
+Nonoptical devices
+Glare control devices
+Flashlight for mobility
+Written communication devices
+Talking watch
+White cane
+Reading lamp
+Reading stand
+Needle threader
+Type of multidisciplinary service accessed by participants
+Optometry led
+Other
+
+0.94
+
+DS denotes dioptres.
+* Includes single vision glasses and high-add bifocals (up to þ4.00 DS).
+† One participant could have been advised to use more than one device.
+‡ Includes portable video magnifiers and mouse model CCTV.
+
+use of parametric tests on such scores may compromise the
+analyses and the findings thereof. By comparison, the use of
+interval-level scores generated through Rasch analysis (as has
+been done in the present study) legitimizes the use of
+parametric statistical techniques. In addition, Rasch analysis
+has been shown to provide dramatically enhanced precision
+and increased ES compared with traditional psychometric
+methods.53 Given this, it would be interesting to see whether
+the Do et al.31 findings persist using interval-transformed
+LVQoL scores.
+Following LVR, our participants reported significant improvements in reading, mobility, visual information processing,
+and visual motor skills assessed using the IVI and VA LV VFQ48. Given that reading is one of the main areas that LVR is
+trying to improve, this is a good result, and it is not surprising.
+Improvement in activities necessary to read bills and read
+labels or instructions on medicines supports the idea that
+survival or spot reading activities, which are necessary in the
+
+performance of activities of daily living, are improved and
+should be a focus of LVR services.12,54 Although both the IVI
+and VA LV VFQ-48 have been developed and validated
+primarily in (older) Western populations, the item content
+was considered relevant by our relatively younger population
+(except for sports-related activities that were not applicable to
+approximately 70% of the participants). Nonetheless, Rasch
+analysis is robust to missing data.55 Our participants reported
+large improvements in their reading abilities (ES ¼ 1.0) after
+LVR as compared to the moderate improvements for mobility
+(ES ¼ 0.63) and the overall VRQoL (0.63) as assessed using the
+IVI. By comparison, participants reported moderate improvements for reading (ES ¼ 0.72), mobility (ES ¼ 0.45), visual
+information processing (ES ¼ 0.54), overall visual ability (ES ¼
+0.67), and visual motor skills (ES ¼ 0.47) as assessed using the
+
+TABLE 5. Components of Rehabilitation Services Undertaken by the
+255 Participants Who Completed the Study
+Component
+
+n (%)
+
+Safe navigation strategies and training in orientation
+and mobility*
+Training in use of computer assistive software
+Disability certification†
+Training in activities of daily living‡
+Employment counseling
+Educational counseling
+No rehabilitation services accessed§
+
+30 (11.8)
+19 (7.5)
+73 (28.6)
+5 (1.9)
+32 (12.5)
+36 (14.1)
+58 (22.7)
+
+* Undergoing training in orientation and mobility was suggested to
+91 patients.
+† A person who has best-corrected visual acuity < 20/200 in better
+eye or visual field < 208 is eligible for this and can avail him- or herself
+of government benefits for the disabled in India.
+‡ This training was suggested to 35 patients.
+§ These participants availed themselves of optometry-led services
+only.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+FIGURE. Bar chart showing the types of low vision devices (x-axis)
+purchased by the participants (y-axis; number of participants).
+
+
+[page 8]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7458
+
+Low Vision Rehabilitation in Adults
+
+TABLE 6. IVI Overall and Subscale Scores (Mean 6 1 SD) at Pre and 4 Months Post Low Vision Rehabilitation (Complete Case Analysis)
+IVI Scores
+
+Pre LVR*
+
+Post LVR*
+
+P Value
+
+Effect Size (95% CI)
+
+Overall
+Reading and accessing information
+Mobility and independence
+Emotional well-being
+
+0.31 6 1.36
+0.25 6 1.65
+0.72 6 1.82
+0.21 6 2.46
+
+1.17 6 1.19
+1.89 6 2.04
+1.67 6 2.20
+0.61 6 2.78
+
+<0.0001
+<0.0001
+<0.0001
+0.06
+
+0.63 (0.46, 0.80)
+1.0 (0.80, 1.20)
+0.53 (0.31, 0.75)
+0.18 (0.12, 0.48)
+
+* Values in logits.
+
+VA LV VFQ-48. All these results pertain to the 20% of the
+participants who completed the study (n ¼ 255), and these
+estimates may be biased. While this may reflect an issue with
+the present study, we believe that it is a larger issue perhaps
+pointing toward the lack of engagement of patients with VI in
+the LVR process in general, which is beyond the scope of this
+paper. We could obtain only a small ES (Tables 8, 9) when we
+used the BOCF method in our sensitivity analyses from all
+recruited participants (n ¼ 1016) to estimate the ES.
+Nonetheless, the improvement for both the reading and
+mobility subscales of the IVI following LVR in our study (n ¼
+255) is three to four times larger than that reported by
+Lamoureux et al.4 for an older Australian visually impaired
+population (mean age, 80.3 years; ES ¼ 0.20 for reading and
+0.17 for mobility). A possible explanation for this is the
+difference in the participants’ primary cause of LV. In the study
+by Lamoureux et al.,4 the proportion of patients who had age related macular degeneration as the cause of LV (61.9%) was
+almost 15 times that in our study (4%).4 The integrity of the
+central retina is critical for visual performance tasks like
+reading, face recognition, visual search, and so on.56,57 Despite
+optimal magnification, patients with central scotomas usually
+read more slowly than those with intact central field, and this
+could have resulted in lower ES for reading in their study.58 The
+nature of service provision at VRC, wherein mobility training
+and other safe navigation strategies were provided by O and M
+instructors at our center (compared to referrals to community
+service team), may have resulted in a relatively higher uptake
+of these services in our study (11.8%) and overall better postLVR scores for the mobility subscale in our study.
+Our results regarding patient-reported improvement (n ¼
+255) for the overall IVI, reading, and mobility are also better
+(almost three to five times larger ES) than those reported
+recently by Wang et al.5 for an Australian cohort (mean age,
+79.4 years) of patients with LV. They obtained small
+improvements for the overall IVI score (ES ¼ 0.24) and for
+mobility (ES ¼ 0.22), but did not find any improvements for
+reading. Given that their participants had much better pre-LVR
+scores than ours (ceiling effect) for the overall IVI as well as for
+the three subscales, one could surmise that that their
+rehabilitation demand may have been lower. Consequently,
+the room for improvement following LVR would be expected
+to be less. In their study, 49.3% of the participants had vision
+‡20/60 and/or restricted fields, compared with 32.2% in the
+present study. Therefore, the better acuity among their
+
+participants may have been a possible reason for the much
+higher pre-LVR scores.
+In the Veterans Affairs Low Vision Intervention Trial
+(LOVIT), Stelmack et al.19 used the VA LV VFQ-48 in an
+outpatient setting with older visually impaired participants
+(mean age, 78.8 years) and demonstrated significant improvements in reading, mobility, visual information processing, and
+visual motor skills following the LVR program for the treatment
+group as compared with the control group. Participants in
+their treatment group reported significantly greater improvements for the reading subscale following LVR as compared to
+those in our study (2.06 6 1.2 vs. 1.49 6 2.15 logits; P <
+0.05). However, there were no significant differences in
+improvement overall or for other subscales (P > 0.05). A
+potential explanation for the difference in the improvements in
+the reading subscale between the two studies may be multiple
+factors such as differences in VI severity, principal cause of LV,
+and the provision of optical (stand and pocket magnifiers) and
+electronic (CCTV) devices at no charge to the participants in
+the LOVIT study. All these devices render it easy to read small
+fonts, so it is not surprising that patients in the LOVIT study
+reported large improvements in the reading subscale. As
+pointed out by the authors, the coverage of LVDs may affect
+the acquisition rate of the prescribed LVDs, and this may in
+turn affect the treatment outcomes. As compared to a 100%
+acquisition rate for the prescribed LVDs in the Stelmack et al.
+study, it ranged from 17% (CCTV) to 59% (magnifiers) in our
+study. In addition, all participants received an extensive
+amount of standardized training including multiple visits with
+a LV therapist and homework assignments in that study. In
+another study that included participants from a blind
+rehabilitation center and the Visual Impairment Centre to
+Optimize Remaining Sight, Stelmack et al.6 showed substantial
+gains for all the activities when assessed for changes on an
+item-to-item basis. It may be difficult to directly compare our
+results with those of Stelmack et al. given that patients were
+admitted to the hospital for the LVR program for periods
+ranging from 3 to 42 days. More importantly, the follow-up
+assessments were carried out immediately prior to discharge
+from the hospital. Consequently, it is possible that the patients
+may have overestimated their visual abilities.
+As part of our multidisciplinary service, we have an inhouse vision-specific counseling service, yet we did not find
+any significant improvement for the EWB subscale of the IVI
+after LVR. This lack of improvement in EWB is in accordance
+with another study suggesting that LVR services may have
+
+TABLE 7. VA LV VFQ-48 Overall and Subscale Scores (Mean 6 1 SD) at Pre and 4 Months Post Low Vision Rehabilitation (Complete Case Analysis)
+VA LV VFQ Scores
+
+Pre LVR*
+
+Post LVR*
+
+P Value
+
+Effect Size (95% CI)
+
+Overall
+Reading
+Mobility
+Visual information
+Visual motor
+
+1.49 6 1.80
+0.22 6 2.06
+1.72 6 2.45
+2.45 6 2.33
+2.51 6 0.14
+
+2.70 6 2.27
+1.17 6 2.40
+2.83 6 2.65
+3.72 6 2.66
+3.56 6 0.15
+
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+
+0.67 (0.45, 0.89)
+0.72 (0.47, 0.97)
+0.45 (0.15, 0.75)
+0.54 (0.25, 0.83)
+0.47 (0.20, 0.74)
+
+* Values in logits.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+
+[page 9]
+IOVS j November 2015 j Vol. 56 j No. 12 j 7459
+
+Low Vision Rehabilitation in Adults
+
+TABLE 8. Effect of Alternative Analytic Method on the Estimated Magnitude of Treatment Effect on the IVI Overall and Subscale Scores (Mean 6 1
+SD) at 4 Months Post Low Vision Rehabilitation
+IVI Scores
+
+Pre LVR*
+
+Post LVR*
+
+P Value
+
+Effect Size (95% CI)
+
+Overall
+Reading and accessing information
+Mobility and independence
+Emotional well-being
+
+0.26 6 1.72
+0.60 6 0.33
+0.56 6 0.36
+0.76 6 0.48
+
+0.45 6 1.39
+0.67 6 0.42
+0.61 6 0.42
+0.79 6 0.50
+
+<0.0001
+<0.0001
+<0.0001
+0.006
+
+0.16 (0.09, 0.23)
+0.21 (0.19, 0.23)
+0.14 (0.12, 0.16)
+0.04 (0.01, 0.07)
+
+* Values in logits.
+
+minimal impact on depressive symptoms but may improve
+VRQoL outcomes such as vision-specific distress.59
+Despite a relatively small proportion of participants
+acquiring the prescribed LVDs, we obtained a nearly large
+improvement in the overall VF and VRQoL following LVR
+among those who completed the study. While the multidisciplinary nature of the services rendered may partly explain the
+result, the fact that the majority of the participants (76.5%) had
+moderate VI may have also contributed to it. The observed ES
+is much larger than that obtained for adults in an Australian
+population.4,5 Although in line with other studies we did not
+find any interaction between LVR change and type of service
+(optometry led or other services), we wish to point out that
+our study did not have adequate power to detect an interaction
+of considerable importance (i.e., >0.5).4,25 Given the tertiary
+eye care nature of our facility, one would expect most LV
+patients to have chronic ocular conditions that will require
+multidisciplinary services, and this was borne out by our data.
+However, <15% utilized the multidisciplinary services.
+A few caveats should be taken into account when one is
+considering the overall results of our study. These include the
+high dropout rate (as has been addressed earlier) and a low
+recruitment rate (34%). We speculate that the lack of
+engagement with the LVR process is a possible reason for
+this. A high attrition rate in studies from India is not
+uncommon and has been reported previously,60 including the
+for patients with LV from one of our centers in Eastern India.61
+This latter study also reported low acceptance of LVR services
+by patients in this region, cited as a major barrier to effective
+delivery of available services despite easy availability of the
+services within the institute. The authors further reported that
+patient perception and awareness are prime factors for
+successful LVR service delivery and recommended awareness
+programs for patients regarding the benefits of LVR services.61
+In practical terms, attrition affects the generalizability of results
+to the wider population by introducing bias, which affects the
+ability to draw the correct conclusion in the study population
+and hence the general population. As noted earlier, this aspect
+needs to be considered in the interpretation of our results, in
+particular regarding how systematic withdrawals of those from
+urban areas, those with retinal disorders, and those without
+systemic comorbidity in the present study threaten to
+introduce bias in the longitudinal analysis of LVR outcomes.
+
+In the present study, it appears that the withdrawals were
+not at random (‘‘missing not at random’’ [MNAR]—that is, the
+probability of being lost to follow-up depends on the outcome
+to be measured and cannot be completely explained by
+covariates62,63). However, there is no method to ascertain if the
+loss to follow-up is MNAR; and in such a scenario, one should
+assume that loss to follow-up will be MNAR in a cohort study
+and should plan to provide sufficient resources to achieve the
+maximum follow-up rate possible.64 A high rate of loss to
+follow-up occurred despite attempts to reach our patients over
+the phone or through letters of reminder. Another important
+consideration in the interpretation of our results concerns the
+limited engagement with the multidisciplinary rehabilitation
+process even among those who completed the study (Table 5).
+The lack of a residential facility at our center to enable
+provision of various types of training (activities of daily living,
+orientation and mobility, and so on) may have affected the
+utilization rate of these services given that these involve
+extended sessions requiring patients to visit the center
+frequently. It is also plausible that participants did not feel
+the need (‘‘felt need’’) given the low acceptance of these
+services.61 Taken together, the results of our study demonstrate
+the importance of considering the effect of incomplete follow up on data acquired in LVR outcome studies.
+Our study did not include a control group for comparison
+because we felt that it would be unethical to withhold any type
+of LVR service from patients. Thus it is difficult to comment on
+the possibility of worsening of the overall visual disability and
+VRQoL in the absence of any LVR. Nonetheless, it may be
+possible and easier to randomly assign participants to one of
+two types of LVR services (optometry-led services and other
+multidisciplinary services), and this should be considered in
+future studies.
+In conclusion, our study demonstrates large improvements
+in VF and VRQoL in adults with LV through provision of LVR
+services at VRC, LVPEI in South India. The results also
+demonstrate the importance of considering the effect of high
+attrition on data acquired in longitudinal studies of outcomes
+of LVR. Bias toward more favorable outcomes may occur when
+dropout rates (withdrawals) are high (as has been the case with
+our study), so extrapolation of findings from this study may be
+limited due to sample characteristics. However, this study has
+provided a foundation for a large-scale longitudinal investigation in this field. Patient education and the building of
+
+TABLE 9. Effect of Alternative Analytic Method on the Estimated Magnitude of Treatment Effect on the VA LV VFQ-48 Overall and Subscale Scores
+(Mean 6 1 SD) at 4 Months Post Low Vision Rehabilitation
+VA LV VFQ scores
+
+Pre LVR*
+
+Post LVR*
+
+P Value
+
+Effect Size (95% CI)
+
+Overall
+Reading
+Mobility
+Visual information
+Visual motor
+
+0.30 6 0.14
+0.66 6 0.42
+1.78 6 2.44
+2.20 6 2.09
+2.36 6 2.10
+
+0.33 6 0.22
+0.69 6 0.45
+2.03 6 2.54
+2.47 6 2.25
+2.59 6 2.20
+
+<0.0001
+0.001
+<0.0001
+<0.0001
+<0.0001
+
+0.21 (0.20, 0.22)
+0.07 (0.05, 0.09)
+0.10 (0.04, 0.24)
+0.13 (0.01, 0.25)
+0.11 (0.01, 0.23)
+
+* Values in logits.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+
+[page 10]
+Low Vision Rehabilitation in Adults
+awareness programs about the potential benefits of LVR,
+including providing details on specific types of patients who
+are likely to benefit from these services, may help with the
+recruitment process for longitudinal studies. Although many
+activities were improved, EWB was much less likely to
+improve. One suggestion is that LVR programs might target
+mental health issues more explicitly. However, this also implies
+that specific LVR efforts targeted toward improvement in
+mental health/EWB of patients are reimbursed and that the
+persons providing these services have appropriate training.
+Low vision rehabilitation proved relatively effective at improving the functions it targeted. These results should encourage
+eye care professionals (both ophthalmologists and optometrists) to refer adults with LV for LVR services. Further research
+is required to understand if the ES obtained at 4 months post
+LVR can be sustained over a longer period and also to
+determine specifically which of the components of the LVR
+services are used maximally by adults with LV in order to
+effectively plan increases in these services.
+
+Acknowledgments
+We thank Deepak K. Bagga and Rebecca Sumalini for their
+assistance with coordinating this study.
+Presented at the annual meeting of the Association for Research in
+Vision and Ophthalmology, Denver, Colorado, United States, May
+2015.
+Supported in part by Hyderabad Eye Research Foundation
+(Hyderabad, India). The authors have no personal financial interest
+in the development, production, or sale of any device discussed
+herein.
+Disclosure: V.K. Gothwal, None; S. Bharani, None
+
+References
+1. Jutai JW, Hooper P, Strong G, et al. Vision Rehabilitation
+Evidence-Based Review: Module I. Terminology, Demography, and Epidemiology of Low Vision. London, Ontario,
+Canada: University of Western Ontario and Canadian National
+Institute for the Blind; 2007.
+2. Stevens GA, White RA, Flaxman SR, et al. Global prevalence of
+vision impairment and blindness: magnitude and temporal
+trends, 1990–2010. Ophthalmology. 2013;120:2377–2384.
+3. Hinds A, Sinclair A, Park J, Suttie A, Paterson H, Macdonald M.
+Impact of an interdisciplinary low vision service on the quality of
+life of low vision patients. Br J Ophthalmol. 2003;87:1391–1396.
+4. Lamoureux EL, Pallant JF, Pesudovs K, Rees G, Hassell JB,
+Keeffe JE. The effectiveness of low-vision rehabilitation on
+participation in daily living and quality of life. Invest
+Ophthalmol Vis Sci. 2007;48:1476–1482.
+5. Wang BZ, Pesudovs K, Keane MC, Daly A, Chen CS. Evaluating
+the effectiveness of multidisciplinary low-vision rehabilitation.
+Optom Vis Sci. 2012;89:1399–1408.
+6. Stelmack JA, Stelmack TR, Massof RW. Measuring low-vision
+rehabilitation outcomes with the NEI VFQ-25. Invest Ophthalmol Vis Sci. 2002;43:2859–2868.
+7. Raasch TW, Leat SJ, Kleinstein RN, Bullimore MA, Cutter GR.
+Evaluating the value of low-vision services. J Am Optom Assoc.
+1997;68:287–295.
+8. Raasch TW, Leat SJ, Kleinstein RN, Bullimore MA, Cutter GR.
+Outcomes of low-vision services. J Am Optom Assoc. 1997;68:
+287–293.
+9. McIlwaine GG, Bell JA, Dutton GN. Low vision aids–is our
+service cost effective? Eye (Lond). 1991;5(pt 5):607–611.
+10. Hall A, Sacks SZ, Dornbusch H, Raasch T. A preliminary study
+to evaluate patient services in a low vision clinic. J Vis
+Rehabil. 1987;1:7–25.
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+IOVS j November 2015 j Vol. 56 j No. 12 j 7460
+11. Sloan LL. Reading aids for the partially sighted. Factors which
+determine success or failure. Arch Ophthalmol. 1968;80:35–
+38.
+12. Leat SJ, Fryer A, Rumney NJ. Outcome of low vision aid
+provision: the effectiveness of a low vision clinic. Optom Vis
+Sci. 1994;71:199–206.
+13. Kalloniatis M, Johnston AW. Visual characteristics of low vision
+children. Optom Vis Sci. 1990;67:38–48.
+14. Nilsson UL, Nilsson SE. Rehabilitation of the visually handicapped with advanced macular degeneration. A follow-up
+study at the Low Vision Clinic, Department of Ophthalmology,
+University of Linkoping. Doc Ophthalmol. 1986;62:345–367.
+15. Turco PD, Connolly J, McCabe P, Glynn RJ. Assessment of
+functional vision performance: a new test for low vision
+patients. Ophthalmic Epidemiol. 1994;1:15–25.
+16. McCabe P, Nason F, Demers Turco P, Friedman D, Seddon JM.
+Evaluating the effectiveness of a vision rehabilitation intervention using an objective and subjective measure of functional
+performance. Ophthalmic Epidemiol. 2000;7:259–270.
+17. Reeves BC, Harper RA, Russell WB. Enhanced low vision
+rehabilitation for people with age related macular degeneration: a randomised controlled trial. Br J Ophthalmol. 2004;88:
+1443–1449.
+18. Wolffsohn JS, Cochrane AL. Design of the low vision quality-oflife questionnaire (LVQOL) and measuring the outcome of
+low-vision rehabilitation. Am J Ophthalmol. 2000;130:793–
+802.
+19. Stelmack JA, Tang XC, Reda DJ, Rinne S, Mancil RM, Massof
+RW. Outcomes of the Veterans Affairs Low Vision Intervention
+Trial (LOVIT). Arch Ophthalmol. 2008;126:608–617.
+20. La Grow S. The effectiveness of comprehensive low vision
+services for older persons with visual impairments in New
+Zealand. J Vis Impair Blind. 2004;98:679–692.
+21. Stephens BC. Age Specific Outcomes of ADL and IADL
+Performance and Independence Following Rehabilitative
+Interventions with Seniors Experiencing Visual Impairments. Amsterdam: IOS Press; 2001:93–105.
+22. Massof RW, Stelmack JA. Interpretation of low-vision rehabilitation outcome measures. Optom Vis Sci. 2013;90:788–798.
+23. Kuyk T, Liu L, Elliott JL, et al. Health-related quality of life
+following blind rehabilitation. Qual Life Res. 2008;17:497–
+507.
+24. Scott IU, Smiddy WE, Schiffman J, Feuer WJ, Pappas CJ. Quality
+of life of low-vision patients and the impact of low-vision
+services. Am J Ophthalmol. 1999;128:54–62.
+25. de Boer MR, Twisk J, Moll AC, Volker-Dieben HJ, de Vet HC,
+van Rens GH. Outcomes of low-vision services using
+optometric and multidisciplinary approaches: a non-randomized comparison. Ophthalmic Physiol Opt. 2006;26:535–544.
+26. Rubin SE, Chan F, Thomas DL. Assessing changes in life skills
+and quality of life resulting from rehabilitation services. J
+Rehabil. 2003;69:4–9.
+27. O’Connor PM, Lamoureux EL, Keeffe JE. Predicting the need
+for low vision rehabilitation services. Br J Ophthalmol. 2008;
+92:252–255.
+28. American Academy of Ophthalmology. Vision Rehabilitation
+Preferred Practice Patterns. San Francisco, CA: American
+Academy of Ophthalmology; 2013:1–41.
+29. Chiang PP, Marella M, Ormsby G, Keeffe J. Critical issues in
+implementing low vision care in the Asia-Pacific region.
+Indian J Ophthalmol. 2012;60:456–459.
+30. Chiang PP, O’Connor PM, Le Mesurier RT, Keeffe JE. A global
+survey of low vision service provision. Ophthalmic Epidemiol. 2011;18:109–121.
+31. Do AT, Ilango K, Ramasamy D, Kalidasan S, Balakrishnan V,
+Chang RT. Effectiveness of low vision services in improving
+
+
+[page 11]
+Low Vision Rehabilitation in Adults
+patient quality of life at Aravind Eye Hospital. Indian J
+Ophthalmol. 2014;62:1125–1131.
+32. WHOQOL Group. Measuring Quality of Life. Geneva: The
+World Health Organization; 1997;.
+33. Lamoureux EL, Hassell JB, Keeffe JE. The impact of diabetic
+retinopathy on participation in daily living. Arch Ophthalmol.
+2004;122:84–88.
+34. Lamoureux EL, Hooper CY, Lim L, et al. Impact of cataract
+surgery on quality of life in patients with early age-related
+macular degeneration. Optom Vis Sci. 2007;84:683–688.
+35. Lamoureux EL, Pallant JF, Pesudovs K, Hassell JB, Keeffe JE.
+The Impact of Vision Impairment Questionnaire: an evaluation
+of its measurement properties using Rasch analysis. Invest
+Ophthalmol Vis Sci. 2006;47:4732–4741.
+36. Lamoureux EL, Pallant JF, Pesudovs K, et al. Assessing
+participation in daily living and the effectiveness of rehabilitation in age related macular degeneration patients using the
+impact of vision impairment scale. Ophthalmic Epidemiol.
+2008;15:105–113.
+37. Weih LM, Hassell JB, Keeffe J. Assessment of the impact of
+vision impairment. Invest Ophthalmol Vis Sci. 2002;43:927–
+935.
+38. Stelmack JA, Szlyk JP, Stelmack TR, et al. Psychometric
+properties of the Veterans Affairs Low-Vision Visual Functioning Questionnaire. Invest Ophthalmol Vis Sci. 2004;45:3919–
+3928.
+39. Stelmack JA, Szlyk JP, Stelmack TR, et al. Measuring outcomes
+of vision rehabilitation with the Veterans Affairs Low Vision
+Visual Functioning Questionnaire. Invest Ophthalmol Vis Sci.
+2006;47:3253–3261.
+40. Stelmack JA, Tang XC, Reda DJ, et al. The Veterans Affairs Low
+Vision Intervention Trial (LOVIT): design and methodology.
+Clin Trials. 2007;4:650–660.
+41. Stelmack J, Szlyk JP, Stelmack T, et al. Use of Rasch person-item
+map in exploratory data analysis: a clinical perspective. J
+Rehabil Res Dev. 2004;41:233–241.
+42. Stelmack JA, Rosenbloom AA, Brenneman CS, Stelmack TR.
+Patient’s perception of need for low vision devices. J Vis
+Impair Blind. 2003;97:521–535.
+43. Stelmack JA, Massof RW. Using the VA LV VFQ-48 and LV VFQ20 in low vision rehabilitation. Optom Vis Sci. 2007;84:705–
+709.
+44. Marella M, Gothwal VK, Pesudovs K, Lamoureux E. Validation
+of the visual disability questionnaire (VDQ) in India. Optom
+Vis Sci. 2009;86:E826–E835.
+45. Whitley E, Ball J. Statistics review 4: sample size calculations.
+Crit Care. 2002;6:335–341.
+46. Cohen J. Statistical Power Analysis for the Behavioural
+Sciences. 2nd ed. Hillsdale, NJ: Lawrence Erlbaum Associates;
+1988.
+47. Samsa G, Edelman D, Rothman ML, Williams GR, Lipscomb J,
+Matchar D. Determining clinically important differences in
+health status measures: a general approach with illustration to
+
+Downloaded From: https://iovs.arvojournals.org/ on 09/14/2018
+
+IOVS j November 2015 j Vol. 56 j No. 12 j 7461
+the Health Utilities Index Mark II. Pharmacoeconomics. 1999;
+15:141–155.
+48. Bell ML, Fairclough DL. Practical and statistical issues in
+missing data for longitudinal patient-reported outcomes. Stat
+Methods Med Res. 2014;23:440–459.
+49. Thabane L, Mbuagbaw L, Zhang S, et al. A tutorial on
+sensitivity analyses in clinical trials: the what, why, when
+and how. BMC Med Res Methodol. 2013;13:92.
+50. Shao J, Jordan DC, Pritchett YL. Baseline observation carry
+forward: reasoning, properties, and practical issues. J Biopharm Stat. 2009;19:672–684.
+51. Ryan B, Court H, Margrain TH. Measuring low vision service
+outcomes: Rasch analysis of the seven-item National Eye
+Institute Visual Function Questionnaire. Optom Vis Sci. 2008;
+85:112–121.
+52. Lamoureux E, Pesudovs K. Vision-specific quality-of-life
+research: a need to improve the quality. Am J Ophthalmol.
+2011;151:195–197, e192.
+53. Gothwal VK, Wright TA, Lamoureux EL, Pesudovs K.
+Measuring outcomes of cataract surgery using the Visual
+Function Index-14. J Cataract Refract Surg. 2010;36:1181–
+1188.
+54. Harper R, Doorduyn K, Reeves B, Slater L. Evaluating the
+outcomes of low vision rehabilitation. Ophthalmic Physiol
+Opt. 1999;19:3–11.
+55. Royal KD. Making meaningful measurement in survey
+research: a demonstration of the utility of the Rasch model.
+IR Applications. 2010;28:1–16.
+56. Schuchard RA, Naseer S, de Castro K. Characteristics of AMD
+patients with low vision receiving visual rehabilitation. J
+Rehabil Res Dev. 1999;36:294–302.
+57. Legge GE, Rubin GS, Pelli DG, Schleske MM. Psychophysics of
+reading–II. Low vision. Vision Res. 1985;25:253–265.
+58. Rubin GS. Vision rehabilitation for patients with age-related
+macular degeneration. Eye (Lond). 2001;15:430–435.
+59. Rees G, Ponczek E, Hassell JB, Keeffe J, Lamoureux E.
+Psychological outcomes following interventions for people
+with low vision: a systematic review. Expert Rev Ophthalmol.
+2010;5:385–403.
+60. Sharma D. Postcard system helps follow up lost patients.
+Lancet Oncol. 2000;1:7.
+61. Kumar H, Monira S, Rao A. Causes of missed referrals to low vision rehabilitation services: causes in a tertiary eye care
+setting. Semin Ophthalmol. 2014;1–7.
+62. Twisk J, de Vente W. Attrition in longitudinal studies. How to
+deal with missing data. J Clin Epidemiol. 2002;55:329–337.
+63. Little RJA, Rubin DB. Statistical Analysis with Missing Data.
+New York: John Wiley & Sons; 1987.
+64. Kristman V, Manno M, Cote P. Loss to follow-up in cohort
+studies: how much is too much? Eur J Epidemiol. 2004;19:
+751–760.
+

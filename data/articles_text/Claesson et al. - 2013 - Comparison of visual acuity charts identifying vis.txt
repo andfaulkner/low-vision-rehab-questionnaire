@@ -1,0 +1,668 @@
+[page 1]
+Disability & Rehabilitation, 2013; 35(16): 1394–1400
+© 2013 Informa UK, Ltd.
+ISSN 0963-8288 print/ISSN 1464-5165 online
+DOI: 10.3109/09638288.2012.737085
+
+Research Paper
+
+Comparison of visual acuity charts identifying visual impairment
+among older people outside the eye clinic
+Lisbeth Claesson1, Johanna Blomstrand1, Kajsa Eklund1,2, Kristina Eriksson3 & Synneve Dahlin-Ivanoff1,2
+
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+1
+
+Institute of Neuroscience and Physiology, Sahlgrenska Academy at the University of Gothenburg, Sweden, 2Vårdalinstitutet,
+The Swedish Institute for Health Sciences, University of Gothenburg, Sweden, and 3Capio Lundby Hospital, Gothenburg, Sweden
+
+Purpose: Evaluate the construct validity and describe sensitivity,
+specificity and predictive value of two short charts of visual
+acuity (VA) and examine whether these can identify and detect
+signs of visual impairment among older people. Method:
+The study included 43 persons, >65 years, with age related
+eye disease, living in their own homes. An ophthalmologist
+assessed the individuals’ VA at an eye clinic with the 5 m KM
+chart. A research assistant assessed individuals’ VA by the 1 m
+KM chart and the Visual Acuity Screening Test in their home
+environment. Results: All persons with a VA level of <0.5 were
+correctly identified by both instruments. The instruments
+have good positive and negative predictive values for the 1 m
+KM chart (73% and 100%) and for the Visual Acuity Screening
+Test (69% and 100%). The construct validity between the
+instruments was good, but the assessment at the eye clinic
+assessed the participants as having higher VA level. Conclusions:
+Both instruments have good construct validity, considering
+they were carried out in poorer lighting conditions and a good
+predictive value for screening out VA levels <0.5. The 1 m KM
+chart showed the best agreement with the 5 m KM chart.
+
+Implications for Rehabilitation
+• Short charts of visual acuity (VA) can be used outside
+the eye clinic to identify persons with VA level 0.5, in
+need of rehabilitation, as they are at risk of becoming
+dependent in daily activities.
+• Short charts of VA are portable instruments and useful
+in other environments than the eye clinic, but training
+is needed before use.
+• Short charts of VA are useful instruments that can be
+included in Comprehensive Geriatric Assessments
+(CGA) to identify persons with visual impairment.
+substantially with age, especially among the oldest people
+[4–6]. In a Finnish population study, 41% of persons aged 75
+years or more had a visual impairment [6]. In a considerable
+number of studies, visual impairment has been associated
+with different aspects of functional decline, morbidity and
+disability, such as increased risk of falling [7], fractures [8],
+depression [9], poorer health [10,11], increased loneliness
+[11], decreased social network, dependence in daily activities
+[12] and use of assistive devices [13].
+Frailty has become an established concept in research
+in recent years [3]. Frailty summarizes a state of decreased
+reserve resistance to stressors as a result of a cumulative
+decline across multiple physiological systems, hence causing
+vulnerability strongly related to disability and co-morbidity
+[3]. Although studies have shown [14–16] that visual
+impairment is a marker of frailty in the aging population, it is
+seldom examined in research or in the care or rehabilitation
+of the elderly population [17,18]. Comprehensive geriatric
+assessment (CGA) is often seen as a key to evaluating the
+
+Keywords: Elderly, visual impairment, vision screening
+
+Introduction
+Trends for the future show a significant growth in the older
+population [1]. The prevalence of elderly frail people at risk
+for functional decline, co-morbidity and disability [2,3]
+is highest among the oldest age groups, which are now the
+fastest growing [3]. It is not unusual for an elderly person, in
+combination with morbidity and functional decline, to also
+have visual impairment. Among community-dwelling adults,
+the prevalence of visual impairment was found to grow
+
+Correspondence: Lisbeth Claesson, The Sahlgrenska Academy at University of Gothenburg, Institute of Neuroscience and Physiology/Occupational
+therapy, Arvid Wallgrens Backe, Building 2, P.O. Box 455, SE 405 30 Gothenburg, Sweden. Tel: +46 31 786 5705. Fax +46 786 5723. E-mail: lisbeth.
+claesson@neuro.gu.se
+(Accepted October 2012)
+
+1394
+
+
+[page 2]
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+Identifying visual impairment
+medical, physiological and functional status of frail elderly
+people, but visual impairment is seldom included as a measure.
+However, it has been suggested that visual impairment should
+be assessed for elderly people at risk of falls and hip fracture
+[19] as well as in a clinical assessment of older people receiving
+rehabilitation [20]. It has also been stressed that it should be
+examined routinely in research to shed light on the pathway
+of disability [20]. To detect the presence of visual impairment,
+visual acuity (VA) measurement is the one most used, even
+though it only measures one part of visual functioning
+[21,22]. Population surveys have shown that a decreased VA
+level is strongly associated with limitation in performing daily
+activities [23] and it is thus imperative to find an instrument
+that can be used outside the eye clinic to identify elderly frail
+people who have visual impairment in terms of decreased VA.
+According to WHO’s definition [24,25], people are “visually
+impaired” when they have a visual acuity level of less than 0.3
+or a visual field below 10°. This VA level is often used in healthcare for judging the need of rehabilitation. More recent studies
+[8,23,26] show that elderly people already have a higher risk of
+morbidity or mortality at a visual acuity level of 0.5. They are
+also at risk of becoming more dependent in activities of daily
+living (ADL) and of using more assistive devices than elderly
+people with normal vision. Therefore, assessing those who are
+at risk for frailty in the aging population requires a cut-off level
+of 0.5 in the screening of frail elderly people. This means that
+there are both in rehabilitation and research in geriatric settings needs for an instrument that can identify visual impairment as a marker of frailty among elderly people in order to
+capture those with early signs of visual impairment.
+To our knowledge, no study has evaluated an instrument
+for frail elderly people with the purpose of screening those
+who show signs of visual impairment, as this is a group at risk
+of functional decline [2]. Such an instrument could be used
+as a screening tool in clinical practice and research to get an
+approximate value of VA in addition to other measurements
+of frailty. It is also important to get an approximate value of
+those who have moderate or severe visual impairment to be
+able to estimate visual impairment when there is no immediate access to an optometrist/ophthalmologist or in the elderly
+person’s proximity. The purpose of such an instrument is to
+get an approximate value that can indicate visual impairment in terms of visual acuity. The measure could be used as
+a guide for further planning for geriatric assessments in care
+and rehabilitation. It could also be used to show the need for
+referring to further eye examinations and low vision rehabilitation. The aim of this study was to evaluate the construct
+validity and describe the sensitivity, specificity and predictive
+value of two short charts of visual acuity in order to find an
+instrument that can identify those with a VA level of ≤0.5 and
+that can approximately distinguish between early, moderate
+and severe signs of visual impairment.
+
+Methods
+Study design
+The level of inter-instrument agreement between scales
+refers to construct validity [27] and was evaluated from an
+© 2013 Informa UK, Ltd.
+
+1395
+
+ophthalmologist’s assessments of visual acuity, which forms
+the gold standard, and assessments from two short charts
+of visual acuity, made by a research assistant, to identify the
+agreement between different ways of measuring visual acuity. The study was blinded, since the information about the
+ophthalmologist’s assessment of VA and the participant’s
+eye disease was collected from the ophthalmologist after the
+research assistant’s assessments. To identify those with visual
+acuity ≤0.5, the sensitivity, specificity and predictive value
+were calculated on the basis of the ophthalmologist’s assessments of visual acuity and the assessments from the two short
+charts of visual acuity.
+
+Participants
+The participants were recruited at an open eye clinic at a
+specialist hospital in the southwestern part of Sweden. The
+inclusion criteria were 65 years and older and some kind of
+diagnosed, age related eye disease. The participants had to be
+living in their own homes and had to understand and make
+themselves understood in Swedish. A total of 48 persons were
+asked and accepted participation in the study, but five persons
+dropped out, n = 43. Seventy-seven percent of the participants had more than one eye disease, 74% were women, and
+the majority, 70%, had no social services. Three quarters of
+the participants described their self-reported general global
+health [28] as good or very good (Table I). The age of the
+persons who dropped out ranged between 73 and 91 years,
+median 84 years, and two of the five dropouts were men. The
+characteristics of the dropouts did not differ from those of the
+43 participants. The main causes of dropouts were sickness,
+too busy or travel.
+Instruments of visual acuity
+The KM chart is a letter chart based on Monoyer standard
+that is composed of seven letters from the Roman alphabet
+[29] and it has been established that these letters have similar
+legibility [30]. The letter size used is four units wide and five
+units high and the inter-letter space is equal to one letter. The
+KM chart is arranged in rows with an arithmetical progression of VA recordings from 0.1 to 1.0. The eyes are tested
+separately and binocularly, and VA is assessed from <0.1 to
+1.0 in ten scale steps. The VA level was recorded as the last
+row for which seven of ten letters were read correctly [29],
+which corresponds to clinical practice. Two different KM
+charts were used in this study: 5 m KM chart (gold standard)
+and a 1 m KM chart. The KM chart can be manufactured for
+different measurement distances and the chart adjusted for 1
+m is 21 × 29.5 centimetres.
+The Visual Acuity Screening Test is made up of a single
+optotype, a stylized letter E, in various orientations (Tumbling
+E optotypes) [31]. The individual’s task is to indicate where
+the open side of the symbol is located – top, bottom, left or
+right – from the individual’s point of view. A set is successfully
+completed when the open side of every symbol in the test has
+been correctly identified. The test ends when two mistakes
+are made in two consecutive sets, and the individual’s score is
+the value assigned to the last set in which he/she managed to
+identify every symbol correctly. The eyes are tested separately
+
+
+[page 3]
+1396
+
+L. Claesson et al.
+
+Table I. Characteristics of the study participants.
+
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+Participants (n = 43)
+Age (years)
+Md
+Range
+Gender
+Men
+Women
+Eye diseasea
+Glaucoma
+Cataract
+AMD
+Others
+Marital status
+Living with partner/married
+Living alone
+Living arrangements
+House
+Flat
+Social service
+Yes
+No
+Self-reported health
+Very good
+Good
+Poor
+Very poor
+
+82
+67–94
+11 (26%)
+32 (74%)
+27 (63%)
+32 (74%)
+13 (30%)
+20 (47%)
+20 (46%)
+23 (54%)
+10 (23%)
+33 (77%)
+13 (30%)
+30 (70%)
+4 (9%)
+28 (65%)
+10 (23%)
+1 (2%)
+
+aAll participants can be diagnosed as having more than one eye disease.
+
+and binocularly [32], and VA is assessed from 0.02 to 1.0 in
+15 scale steps. In the present study, VA levels 0.02–0.08 are
+included in level <0.1, meaning that the scale in this study has
+10 scale steps. A Visual Acuity Screening Test chart for 1 m
+distance was used in this study. The Visual Acuity Screening
+Test has been applied in a European project focusing on
+healthy aging [33].
+
+Procedure
+Persons at a routine visit were asked by an ophthalmologist
+to participate in the study. The participants were selected
+consecutively according to the inclusion criteria. The ophthalmologist tested the participant’s VA with a KM chart
+adjusted for 5 metre distance with best refraction and the
+participant’s distance glasses were thereafter corrected if
+needed.
+After the visit to the ophthalmologist, a research assistant contacted the participants by telephone and additional
+information was given about the study. Informed consent
+was obtained after both verbal and written information was
+given. The persons (n = 43) were assessed in their own homes
+approximately 2 weeks after the ophthalmologist visit. The
+home visits were made during daytime and lasted between
+1 and 1.5 h. The research assistant first interviewed the participants according to a structured protocol that consisted of
+questions about marital status, living arrangements, social
+services and self-reported global health [28]. No person was
+excluded on the grounds of a perceived change in vision since
+the ophthalmologist measurement.
+
+The research assistant then assessed illuminance and luminance using a photometer (Hagner model S2, Hagner AB,
+Solna, Sweden). This was done to ensure finding the brightest
+area for measuring VA so that the assessments could be made
+under optimal lighting conditions given the circumstances.
+The participant’s VA was assessed with the 1 m KM chart and
+the Visual Acuity Screening Test, and these assessments lasted
+between five and ten minutes. Participants that had distance
+eyeglasses were requested to use them. The research assistant
+had received training in assessing VA with the 1 m KM chart
+and the Visual Acuity Screening Test by the ophthalmologist.
+The entire data collection was done over a 3-month period.
+
+Data analysis
+The level of inter-instrument agreement (construct validity)
+between the assessments made with the 1 m KM chart, the
+Visual Acuity Screening Test and the 5 m KM chart (gold
+standard) was evaluated focusing on the level of order consistency between the assessments made by the two raters, the
+ophthalmologist and the research assistant. A high level of
+order consistency is a prerequisite for the inter-changeability
+of scale. The level of order consistency is defined by the coefficient of monotonic agreement, MA. MA is the difference
+between the proportions of ordered and disordered pairs of
+observations and can be calculated by MA = 1-2D. D is a measure of disorder. The MA can range between −1 and 1. The
+maximum value, MA = 1, is obtained when there is a total
+order consistency of the observations [27,34]. This means
+that values close to 1 have the highest agreement, and there
+is complete agreement between pairs of observations when
+MA = 1. Percentage agreement (PA) was used to express the
+proportion of the inter-instrument agreement between the
+paired assessments. RP (Relative Position) and RC (Relative
+Concentration) were measured to complement the measurement of inter-instrument agreement between the scales. The
+possible value of RP and RC range from −1 to 1, and zero
+values mean a lack of agreement/systematic disagreement
+[27,34].
+The assessments with the two KM charts and the Visual
+Acuity Screening Test were made on a ten-point scale which
+was reduced to a four-point scale. The definition of visual acuity levels in this four-point scale was made as follows: VA levels moderate visual impairment (<0.3−0.1) and severe visual
+impairment (<0.1) were used according to WHO’s definition
+of visual acuity for blindness and low vision [24,25]; WHO’s
+VA level 1.0–0.3, mild and no visual impairment, was divided
+into two VA levels, one level (1.0–0.6) had the same label
+(mild and no visual impairment 1.0–0.6) while the other VA
+level 0.5–0.3 was labelled early signs of visual impairment. This
+was done in order to identify levels of acuity that risk compromising the performance of daily activities among older people
+[12,23,26]. These four cut-off VA levels were used in the calculations of inter-instrument agreement between the scales.
+The VA of the best eye with the best correction was the value
+chosen as the VA parameter in the ophthalmologist assessment, and the VA of the best eye using the participant’s own
+distance glasses was the value chosen as the VA parameter at
+the home visit.
+
+Disability & Rehabilitation
+
+
+[page 4]
+Identifying visual impairment 1397
+
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+The sensitivity, specificity and predictive values were calculated to describe the probability of the instrument [35]
+to screen out those with a VA of ≤0.5. Sensitivity means the
+proportion of assessments that correctly identified VA ≤ 0.5
+by the 1 m KM chart or the Visual Acuity Screening Test.
+Specificity means the proportion of assessments that correctly
+identified VA 0.6–1.0 by the 1 m KM chart or Visual Acuity
+Screening Test. The positive and negative predictive values
+give an assessment of the clinical usefulness of the test [35].
+The positive predictive value is the proportion of persons correctly assessed as having visual impairment by the 1 m KM
+chart or the Visual Acuity Screening Test. The negative predictive value is the proportion of persons correctly assessed
+as not having visual impairment by the 1 m KM chart or the
+Visual Acuity Screening Test.
+
+Results
+The level of order consistency (MA) was 0.964 for the four point scale of the 5 m KM chart and the 1 m KM chart
+(Figure 1a) and 0.948 for the 5 m KM chart and the Visual
+Acuity Screening Test (Figure 2a). There was an inter-instrument agreement of 44% (PA) for the 5 m KM chart and the
+1 m KM chart (Figure 1a) and of 37% (PA) for the 5 m KM
+chart and the Visual Acuity Screening Test (Figure 2a). The
+results of these inter-scale comparisons showed a high level
+of order consistency (high MA) and a low PA, which indicates
+a systematic disagreement between the two four-point sets of
+data (Figure 1a and 2a). The ophthalmologist systematically
+assessed the individuals as having higher VA levels than the
+research assistant. This is confirmed by the RP value of −0.32
+for the 5 m KM chart and the 1 m KM chart and −0.36 for
+the 5 m KM chart and the Visual Acuity screening test. The
+systematic disagreement in position between the raters is
+illustrated by the convex shape of the ROC curves for the 5 m
+KM chart and the 1 m KM chart (Figure 1b) and for the 5 m
+KM chart and the Visual Acuity Screening Test (Figure 2b).
+The RC value was 0.04 for the 5 m KM chart and the 1 m KM
+chart. The RC value was 0.14 for the 5 m KM chart and the
+Visual Acuity Screening Test and showed a slight systematic
+disagreement in concentration between the two scales.
+
+The sensitivity, which is the proportion of assessments
+made with the 1 m KM chart or the Visual Acuity screening
+test that correctly identified visual impairment (VA ≤ 0.5),
+was 100%. The specificity, that is, the proportion of assessments that correctly identified normal vision (VA > 0.6–1.0)
+was 38% for the 1 m KM chart and 25% for the Visual Acuity
+Screening Test. The positive predictive value, i.e. the proportion of persons with visual impairment (VA ≤ 0.5) who were
+identified as having visual impairment, was 73% for the 1 m
+KM chart and 69% for the Visual Acuity Screening Test. The
+negative predictive value, which is the proportion of persons
+with normal vision (VA > 0.6–1.0) who were identified as having normal vision, was 100% for both instruments (Table II).
+
+Discussion
+Both short charts of visual acuity, the 1 m KM chart and the
+Visual Acuity Screening Test, used for assessment of visual
+function in the home environment could identify the individuals with visual impairment. The results showed that we
+can expect the two short charts of visual acuity to distinguish
+100% of those with a visual impairment (VA ≤ 0.5). The instruments have good positive and negative predictive values for
+the 1 m KM chart (73% and 100%) and for the Visual Acuity
+Screening Test (69% and 100%) which is very good [35]. This
+is important since research [9,12,13,23,26] shows that older
+people with visual impairment already tend to have problems
+in daily activities when they have early signs of visual impairment (VA ≤ 0.5). Identifying these is thus important so that
+rehabilitation can start early. Research shows that the earlier
+the intervention starts, and the less serious the activity limitations are, the better are the conditions for the ability to retain
+activity [3,17,18,23,36].
+The level of ordering (MA) was high, which means that
+there was no change in ordering of the participant’s level of
+visual acuity between the short charts of visual acuity and
+gold standard. This is an important prerequisite for the construct validity (inter-instrument agreement) of the scales
+[27,34]. However, the results show a low PA between the
+5 m KM chart and the 1 m KM chart or the Visual Acuity
+Screening Test, which indicates a systematic disagreement
+
+Figure 1. (a) Joint distribution of paired assessments of visual impairment measured by 1 m KM chart and 5 m KM chart. f, frequencies. (b) The
+ROC curve for the systematic change in visual impairment between the 1 m KM chart and 5 m KM chart (n = 43). RP, relative position, RC, relative
+concentration.
+© 2013 Informa UK, Ltd.
+
+
+[page 5]
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+1398
+
+L. Claesson et al.
+
+Figure 2. (a) Joint distribution of paired assessments of visual impairment measured by Visual Acuity Screening Test (VAST) and 5 m KM chart. f,
+frequencies. (b) The ROC curve for the systematic change in visual impairment between Visual Acuity Screening Test and 5 m KM chart (n = 43). RP,
+relative position, RC, relative concentration.
+Table II. Sensitivity, specificity and predictive values (percent) for 1 m
+KM chart and Visual Acuity Screening Test.
+Values
+1 m KM chart Visual Acuity Screening Test
+Sensitivity
+100
+100
+Specificity
+38
+25
+Positive predictive
+73
+69
+value
+Negative predictive
+100
+100
+value
+
+[27,34] between the four-point sets of data. This pattern of
+systematic disagreement is explained by the fact that the ophthalmologist assessed the persons to have higher VA levels
+than in the assessment by the research assistant, which was
+confirmed by the RP values [34]. It can be argued that this
+difference is due to the discrepancy in test distance between
+the instruments and that the charts are different. Another
+reason can be that the ophthalmologist and research assistant
+have different knowledge and experience of assessing VA levels. A more potent explanation is that the ophthalmologist’s
+assessments were made with more sophisticated assessment
+instruments and under optimal lighting conditions, while
+the assessments made by the research assistant were made in
+home environments. Even though the brightest area for measuring VA was chosen, lighting conditions are most likely
+poorer in home environments than in the ophthalmologist’s
+office. Yet another explanation for the systematic disagreement can be that the ophthalmologist made the assessments
+with the best refraction and, even if the participants’ were
+prescribed to buy new distance glasses if needed, we do not
+know if this was done. To summarize, under these circumstances, there should be a difference between the assessments
+but, since the intention is to approximately distinguish those
+with visual impairment, this disagreement does not seriously hamper the reliability of the instruments but should be
+noticed when used.
+One problem with the assessments was that persons
+who have no visual impairment could be assessed as having impaired vision. The short charts identified fewer
+
+participants having normal vision compared to the ophthalmological assessments. This means that a visual screening test in an everyday environment might overestimate
+visual impairment slightly. Considering the importance of
+identifying persons at risk of visual frailty, an underestimation could be potentially more hazardous. Measures for
+sensitivity and specificity are not sufficient to describe the
+probability of an instrument; estimates of predictive values
+to correctly identify those with visual impairments are also
+needed [35]. The instruments have good positive and negative predictive values for the 1 m KM chart (73% and 100%)
+and for the Visual Acuity Screening Test (69% and 100%).
+The instruments are therefore useful tools when there is a
+need of screening for visual impairment when there is no
+access to an ophthalmologist or optometrist. However, it is
+important to consider that these short charts of visual acuity cannot replace a complete eye examination or complete
+ophthalmological examination.
+Although visual impairment has been shown to be a
+marker of frailty in the older population, it is seldom included
+as an assessment for older people in geriatric care or geriatric
+rehabilitation [20]. These short charts can be used to identify older persons that have visual impairment as one part of
+the CGA and is one indicator that should be measured when
+assessing frailty [20]. They should only be seen as guides for
+further planning and form the basis for CGA in care and
+rehabilitation or be used to show the need for referral to eye
+examination.
+The short charts of visual acuity differ in some areas but
+are mostly similar. The design of the instruments differs, the
+1 m KM chart is constructed by Roman alphabet letters and
+the Visual Acuity Screening Test is constructed by tumbling E
+optotype. An advantage for the Visual Acuity Screening Test,
+with tumbling E optotype, is that it can be used to test persons
+with illiteracy and populations not familiar with the Roman
+alphabet [32]. The similarities are that the amount of time
+necessary for the assessment was experienced as the same, the
+instruments seem equally easy to understand and the instructions before the assessments were alike. Both short charts
+
+Disability & Rehabilitation
+
+
+[page 6]
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+Identifying visual impairment 1399
+have a small format, which makes them easy to transport. In
+addition, both are standardized for assessments at a distance
+of 1 m and can thus be useable in environments other than
+the eye clinic for instance home environments. Assessments
+in home environments can be of great advantage for those
+frail elderly persons with mobility problems.
+A limitation of both short charts of visual acuity as markers of frailty in the aging population is that they measure only
+one parameter in visual impairment, visual acuity. However,
+visual field defect, another parameter in visual impairment, is
+not included in this screening. Eye diseases in this age group
+that are characterized by visual field defects such as glaucoma
+where decline in visual acuity comes at a later stage of the disease will not be found in an early stage by using these short
+charts of visual acuity [37]. The argument behind the need of
+a short chart of visual acuity as markers of frailty was to identify persons that are at risk of developing dependency in daily
+activities, and persons with glaucoma do not report problems
+in daily life until at a later stage [37]. Visual acuity has shown
+to be strongly correlated to problems in daily activities compared to other visual impairment parameters [37]. Thus, recognizing the limitation mentioned above, these short charts
+of visual acuity should be valuable tools as markers of frailty.
+In conclusion, these short charts of visual acuity have good
+construct validity (inter-instrument agreement) considering
+that it was held in the persons’ homes and a good predictive
+value for identifying those who have a VA level of ≤0.5. The
+inter-instrument agreement between the 5 m KM chart and
+the 1 m KM chart or the Visual Acuity Screening Test showed
+that the 1 m KM chart has better values in the MA, PA, RP
+and RC. This means that the 1 m KM chart has the best agreement with the 5 m KM chart, which was used in this study as
+the gold standard.
+Declaration of Interest: This study was supported by grants
+from the Swedish Blind National Federation and the association of “De Blindas Vänner”. The authors state that they have
+no conflicts of interest.
+
+References
+	 1. EUROSTAT. European Social Statistics – Demography. Luxemburg:
+Office for Official Publications of the European Communities; 2000.
+ 	2. Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J,
+Seeman T, et al.; Cardiovascular Health Study Collaborative Research
+Group. Frailty in older adults: evidence for a phenotype. J Gerontol A
+Biol Sci Med Sci 2001;56:M146–M156.
+ 	3. Fried LP, Ferrucci L, Darer J, Williamson JD, Anderson G. Untangling the
+concepts of disability, frailty, and comorbidity: implications for improved
+targeting and care. J Gerontol A Biol Sci Med Sci 2004;59:255–263.
+ 	4. Gohdes DM, Balamurugan A, Larsen BA, Maylahn C. Age-related eye
+diseases: an emerging challenge for public health professionals. Prev
+Chronic Dis 2005;2:A17.
+ 	5. Klein R, Klein BE, Lee KE. Changes in visual acuity in a population. The
+Beaver Dam Eye Study. Ophthalmology 1996;103:1169–1178.
+ 
+6. Laitinen A, Koskinen S, Härkänen T, Reunanen A, Laatikainen L,
+Aromaa A. A nationwide population-based survey on visual acuity,
+near vision, and self-reported visual function in the adult population in
+Finland. Ophthalmology 2005;112:2227–2237.
+ 	7. Szabo SM, Janssen PA, Khan K, Potter MJ, Lord SR. Older women with
+age-related macular degeneration have a greater risk of falls: a physiological profile assessment study. J Am Geriatr Soc 2008;56:800–807.
+
+© 2013 Informa UK, Ltd.
+
+ 
+8. Ivers RQ, Norton R, Cumming RG, Butler M, Campbell AJ.
+Visual impairment and risk of hip fracture. Am J Epidemiol
+2000;152:633–639.
+ 	9. Kulmala J, Era P, Törmäkangas T, Pärssinen O, Rantanen T, Heikkinen E.
+Visual acuity and mortality in older people and factors on the pathway.
+Ophthalmic Epidemiol 2008;15:128–134.
+10. Jagger C, Matthews R, Matthews F, Robinson T, Robine JM, Brayne
+C; Medical Research Council Cognitive Function and Ageing Study
+Investigators. The burden of diseases on disability-free life expectancy
+in later life. J Gerontol A Biol Sci Med Sci 2007;62:408–414.
+11. Jacobs JM, Hammerman-Rozenberg R, Maaravi Y, Cohen A, Stessman
+J. The impact of visual impairment on health, function and mortality.
+Aging Clin Exp Res 2005;17:281–286.
+12. Dahlin-Ivanoff S, Sonn U, Lundgren-Lindqvist B, Sjöstrand J, Steen
+B. Disability in daily life activities and visual impairment. A population study of 85-year-olds living at home. Scand J Occup Ther
+2000;7:148–155.
+13. Dahlin-Ivanoff S, Sonn U. Use of assistive devices in daily activities
+among 85-year-olds living at home focusing especially on the visually
+impaired. Disabil Rehabil 2004;26:1423–1430.
+14. Pérès K, Verret C, Alioum A, Barberger-Gateau P. The disablement process: factors associated with progression of disability and recovery in
+French elderly people. Disabil Rehabil 2005;27:263–276.
+15. Klein BE, Klein R, Knudtson MD, Lee KE. Relationship of measures
+of frailty to visual function: the Beaver Dam Eye Study. Trans Am
+Ophthalmol Soc 2003;101:191–196.
+16. Klein BE, Klein R, Knudtson MD, Lee KE. Frailty, morbidity and survival. Arch Gerontol Geriatr 2005;41:141–149.
+17. Guralnik JM, Ferrucci L, Balfour JL, Volpato S, Di Iorio A. Progressive
+versus catastrophic loss of the ability to walk: implications for the prevention of mobility loss. J Am Geriatr Soc 2001;49:1463–1470.
+18. Woods NF, LaCroix AZ, Gray SL, Aragaki A, Cochrane BB, Brunner RL,
+Masaki K, et al.; Women’s Health Initiative. Frailty: emergence and consequences in women aged 65 and older in the Women’s Health Initiative
+Observational Study. J Am Geriatr Soc 2005;53:1321–1330.
+19. Abdelhafiz AH, Austin CA. Visual factors should be assessed in
+older people presenting with falls or hip fracture. Age Ageing
+2003;32:26–30.
+20. Coster W, Haley SM, Jette A, Tao W, Siebens H. Predictors of basic and
+instrumental activities of daily living performance in persons receiving
+rehabilitation services. Arch Phys Med Rehabil 2007;88:928–935.
+21. van der Pols JC, Bates CJ, McGraw PV, Thompson JR, Reacher M,
+Prentice A, Finch S. Visual acuity measurements in a national sample of
+British elderly people. Br J Ophthalmol 2000;84:165–170.
+22. Vitale S, Cotch MF, Sperduto RD. Prevalence of visual impairment in the
+United States. JAMA 2006;295:2158–2163.
+23. Laitinen A, Sainio P, Koskinen S, Rudanko SL, Laatikainen L, Aromaa A.
+The association between visual acuity and functional limitations: findings from a nationally representative population survey. Ophthalmic
+Epidemiol 2007;14:333–342.
+24. World Health Organization. International Classification of Functioning,
+Disability and Health (ICF). Geneva: WHO; 2001.
+25. World Health Organization. Consultation on development of standards for characterization of vision loss and visual functioning. Geneva:
+WHO/PBL/03.91; 2003.
+26. Ivanoff SD, Sjöstrand J, Klepp KI, Lind LA, Lindqvist BL. Planning a
+health education programme for the elderly visually impaired person–a
+focus group study. Disabil Rehabil 1996;18:515–522.
+27. Svensson E. Comparison of assessment in using continuous and discrete
+ordinal rating scales. Biom J 2000;42:417–434.
+28. Ware JE, Snow KK, Kosisnki M, Gandek B. SF-36 Health Survey. Manual
+and interpretation guide. Boston: The Health Institute, New England
+Medical Center; 1993.
+29. Moutakis K, Stigmar G, Hall-Lindberg J. Using the KM visual acuity
+chart for more reliable evaluation of amblyopia compared to the HVOT
+method. Acta Ophthalmol Scand 2004;82:547–551.
+30. Hedin A, Olsson K. Letter legibility and the construction of a new visual
+acuity chart. Ophthalmologica 1984;189:147–156.
+31. Taylor HR. Applying new design principles to the construction of an
+illiterate E chart. Am J Optom Physiol Opt 1978;55:348–351.
+32. Mbulaiteye SM, Reeves BC, Karabalinde A, Ruberantwari A, Mulwanyi
+F, Whitworth JA, Johnson GJ. Evaluation of E-optotypes as a screening
+test and the prevalence and causes of visual loss in a rural population in
+SW Uganda. Ophthalmic Epidemiol 2002;9:251–262.
+33. Iwarsson S, Wahl HW, Nygren C, Oswald F, Sixsmith A, Sixsmith J,
+Széman Z, Tomsone S. Importance of the home environment for healthy
+
+
+[page 7]
+1400
+
+L. Claesson et al.
+36. Hardy SE, Dubin JA, Holford TR, Gill TM. Transitions between states
+of disability and independence among older persons. Am J Epidemiol
+2005;161:575–584.
+37. Eriksson K, Sjöstrand J, Kroksmark U. [Difficult to decide when an eye disease is a disability. Patient’s assessment of the visual function a good support for the physician’s assessment]. Lakartidningen 2008;105:1855–1858.
+
+Disabil Rehabil Downloaded from informahealthcare.com by University of Toronto on 12/29/14
+For personal use only.
+
+aging: conceptual and methodological background of the European
+ENABLE-AGE Project. Gerontologist 2007;47:78–84.
+34. Svensson E. Concordance between ratings using different scales for the
+same variable. Stat Med 2000;19:3483–3496.
+35. Altman DG. Practical statistics for medical research. London: Chapman
+& Hall; 1996.
+
+Disability & Rehabilitation
+

@@ -1,0 +1,2463 @@
+[page 1]
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+
+AJO International
+
+View PDF
+
+Download full issue
+
+Metrics
+
+Questions
+Date: 28 you
+Aprilcould
+2025 ask:
+Show
+more
+What
+is the relationship between low vision and the risk of depression according to the findings?
+Research
+access
+Under a
+Creative tool
+Commons
+license for Get
+rights
+and
+content
+Whyarticle
+might a Open
+vision-specific
+depression-screening
+be valuable
+patients
+with
+low
+vision?
+
+Exploring vision tests as a surrogate for depression screening in patients with a visual
+What correlation was found between VFQ-25 scores and depression in patients with Retinitis Pigmentosa?
+impairment: A cross-sectional study
+Karen Eden a
+, Andrew G. Day b
+Actions you could take:
+
+, Aidan Pucchio c
+
+, Rohit Shukla d
+
+, Mark Bona a c
+
+Summarize
+Summarize
+experiments Add to Mendeley
+View
+PDF this article
+Download full issue
+Cite
+
+Share
+
+Show more
+10.1016/j.ajoint.2024.100091
+
+Highlights
+•
+
+Patients with low vision are at increased risk of depression.
+
+•
+
+Worsening vision and functional reading tests are not prognostic
+for increased risk of depression.
+
+•
+
+Visual function questionnaire may be a better predictor of
+depression in the low vision population.
+
+Abstract
+Purpose
+To investigate if vision tests can act as a surrogate for depression screening in visually
+impaired adult patients, and explore the association between self-reported visual
+function and depression.
+
+Design
+Cross-sectional.
+
+Methods
+Consecutive adult patients (≥18 years) (n = 237) who received a low vision
+assessment at a hospital-based vision rehabilitation clinic between July 2018 to
+March 2020, were recruited into the study. The clinic serves patients that have a
+visual acuity ≤6/15 in the better seeing eye, constricted visual fields <20°, or
+functional deficits relating to vision loss. Patients were screened for depression using
+the Patient Health Questionnaire-9 (PHQ-9). The association between risk of
+depression
+and article
+vision tests (distance visual acuity, reading acuity, critical print size,
+Ask
+about this
+contrast sensitivity, and fixation stability) and patient reported visual function (The
+National Eye Institute, Visual Functioning Questionnaire-25 (VFQ-25)), was measured
+using multivariable linear regression modelling.
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+
+[page 2]
+Results
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+Eighteen
+of patients scored ≥10 on the PHQ-9, indicating risk of major
+powered
+by percent
+LeapSpace
+
+Article
+Recommended articles
+Metrics
+depression. There was no significant association between the vision test scores and
+
+the PHQ-9.
+However,
+there was a significant association between distance visual
+Questions
+you
+could ask:
+acuity (p = 0.010), reading acuity (p = 0.008), contrast sensitivity (p < 0.0001) and the
+VFQ-25 mental health domain. Further, all VFQ-25 domains were significantly
+associated with the PHQ-9.
+
+Conclusion
+While the vision test scores were not significantly associated with risk of depression,
+self-reported visual functioning was. We were unable to demonstrate vision tests
+Actions
+you
+take: for the PHQ9 when identifying patients at risk of generalized
+acting as
+a could
+surrogate
+depression. Further investigation is warranted to determine if a correlation can be
+found with a different mental health-screening tool.
+
+Keywords
+Depression; Visual impairment; Vision rehabilitation; PHQ-9; Visual functioning; NEI
+VFQ-25
+
+Previous article in this issue
+
+Next article in this issue
+
+1. Introduction
+It is estimated that 3.8 % of the World's population experience depression, with
+adults over 60 years of age having a prevalence of 5.7 %.1 In Canada (2022), 14.4 % of
+Canadians aged 12 or older reported their mental health as fair or poor.2 This comes
+at significant cost to the Canadian healthcare system, with an estimated $21.3 billion
+in direct costs in 2011 related to mental illness.3 Visual impairment has been
+reported to have a significant association with psychological distress measured using
+the General Health Questionnnaire-12 and depression using Beck Depression
+Inventory in population-based settings.4,5 It is therefore important to identify
+predictors of depression in visually impaired patients to direct services sooner and
+mitigate the consequences of mental health disease.
+This study investigates the potential of vision tests as surrogates for depression
+screening in visually impaired adults, focusing on the relationship between self reported visual function and depression. Building on previous research with mixed
+results, we explore reading acuity, critical print size, and fixation stability - tests not
+previously examined. We hypothesize that these could be effective depression
+screeners, given the importance of reading in the daily lives of low vision patients.
+
+2. Material and methods
+2.1. Study design
+This study was part of a larger cross-sectional study of consecutive patients attending
+a hospital-based vision rehabilitation clinic in Ontario. Data was collected between
+July 27, 2018 and March 11, 2020. The Reading
+Health
+Sciences
+Research
+Ethics AI Board
+at may vary in quality.
+assistant
+is powered
+by LeapSpace.
+responses
+
+View PDF
+
+
+[page 3]
+Queen's University approved this study. Participants provided informed written
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+consent. Assistant
+powered by
+
+LeapSpace
+
+Article
+Recommended articles
+Metrics
+Inclusion criteria (n: 237) were patients ≥18 years of age, visual acuity ≤6/15 in the
+
+better
+seeing
+constricted visual fields <20°, or functional deficits relating to
+Questions
+you eye,
+could ask:
+vision loss leading to a treatment plan (i.e. Instrumental Activities of Daily Living).
+Exclusion Criteria: (n: 57) were patients under 18 years of age and patients with
+cognitive impairment (Table 1).
+Table 1. Reason for exclusion from study.
+Reason for exclusion
+
+Number
+
+Patient you
+did not
+fit take:
+eligibility criteria
+Actions
+could
+
+21
+
+Patient declined
+
+1
+
+Patient withdrew consent
+
+1
+
+Patient consented, but was unwilling to complete the PHQ-9
+
+10
+
+Patient not approached to provide consent:
+Researcher unavailable
+
+21
+
+Timing issues (clinic running late or patient had to leave early)
+
+2
+
+Language barrier
+
+1
+
+Total
+
+57
+
+2.1.1. Questionnaires
+The questionnaires were completed during the patients’ low vision assessment, at the
+same time as the vision tests
+Demographic data collected includes age, gender, racial/cultural group, education
+level, income, and primary language.
+The PHQ-9,6 a validated depression screening tool,7,8 for the visually impaired
+population,9 focuses on the last 2-weeks, and consists of a nine-symptom checklist.10
+A depression severity score is generated and characterized as either none-minimal
+(score 0–4), mild (score 5–9) moderate (score 10–14), moderately severe (score 15–
+19) or severe (score 20–27).7,10 A score of ≥10 signifies a likely diagnosis of major
+depression (88 % for both sensitivity and specificity).7
+The VFQ-25, a validated self-report questionnaire11 assesses patients visual
+functioning and vision related quality of life, through Likert scale measures. The
+questionnaire consists of 13 domains; 11 vision-related domains, a single-item
+general health score, and an overall composite score.12 The highest possible score per
+domain is 100 (better functioning).12 In keeping with other studies,13 the driving
+subscale was eliminated from the analysis, as a high proportion of study participants
+were not driving.
+The VFQ-25 mental health subscale questions are contrasted with the PHQ-9 in Table
+2.
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 4]
+Table 2. Comparison of question themes between the Visual Functioning
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+
+Questionnaire-25 (VFQ-25) mental health subscale and the Patient Health
+
+powered by
+
+LeapSpace
+
+Article
+Recommended articles
+Questionnaire-9 (PHQ-9).
+
+Metrics
+
+Questions
+ask: Vision-Specific Mental
+VFQ-25 you could VFQ-25,
+
+PHQ-9
+
+Question Number Health Domain, theme
+
+Question Number
+
+3
+
+1
+
+Worry about eyesight
+
+PHQ-9, theme
+
+Lacks interest and p
+activities
+
+21
+
+Frustrated because of eyesight
+
+2
+
+Down, depressed, h
+
+22
+
+Less control because of eyesight
+
+3
+
+Sleep problems
+
+4
+
+Tired, low energy
+
+5
+
+Increased or decrea
+
+6
+
+Feeling bad
+
+7
+
+Trouble concentrat
+
+8
+
+Slow moving or spe
+
+25
+Worry about embarrassing oneself
+Actions
+you could take:
+or others because of eyesight
+
+opposite
+9
+
+Suicidal ideation
+
+2.1.2. Vision tests
+Visual acuity, reading acuity, contrast sensitivity and fixation stability were collected
+retrospectively (chart review).
+Best corrected visual acuity (BCVA) was measured using the Early Treatment Diabetic
+Retinopathy Study Chart with illuminator cabinet (from Precision Vision;
+https://www.precision-vision.com/ ) binocularly at one meter. Visual acuity was
+scored by letter, with a termination rule of ≥3 errors in a single line and was
+converted to the logarithm of the minimum angle of resolution (LogMAR) for
+statistical analysis.
+The Minnesota Low Vision Reading Chart (MNREAD) iPad application (Precision
+Vision),14 a continuous-text acuity test, measured reading acuity (smallest print
+identified correctly, with minimum errors) and critical print size (smallest print read
+correctly at the fastest speed).15 Standard operating procedure was used.15 Results
+were converted to LogMAR for analysis.
+Contrast sensitivity was assessed using the Pelli-Robson contrast sensitivity chart
+(Precision Vision).16 Patients were tested binocularly at one meter. The log contrast
+score was recorded.
+The Macular Integrity Assessment (MAIA) microperimeter (CentreVue®, Italy) was
+used to measure Fixation Stability as measured by the Bivariate contour ellipse area
+(BCEA). The BCEA 95 % measure for the better seeing eye was used; the BCEA 95 % has
+proven to be an accurate parameter for reporting fixation stability.17 Fixation losses
+>30 % indicate an unreliable test result18 and were classified as unable to perform test
+during analysis.
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 5]
+2.1.3.
+Statistical
+analyses
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+Descriptive
+statistics (frequencies with percentages or means with standard
+powered
+by
+LeapSpace
+Article
+Recommended articles
+Metrics
+deviations) were used to describe patient characteristics.
+
+Questions you could ask:
+Multivariable linear regressions were performed for each combination of the five
+
+vision tests (distance visual acuity, reading acuity, critical print size, contrast
+sensitivity, and microperimetry) as predictors with the PHQ-9 score, the VFQ-25
+overall composite score, general health score, and the 10 domain specific VFQ-25
+scores (excluding the driving domain) as outcomes. Each of these 65 linear regression
+models included age, gender, education level and income group as covariates. Each
+vision test was modelled by two predictor variables where one predictor was an
+indicator variable for the patient being unable to do the test and the other predictor
+Actions you could take:
+was a continuous predictor of the test score among people who did the test. The
+vision test scores were standardized to have a mean of 0 and standard deviation of 1,
+so that the beta coefficient for each vision test score would estimate the expected
+change in outcome per one standard deviation increase in the vision test score after
+controlling for age, gender, education and income among people who did the test.
+The association between each vision test and outcome was assessed by the joint test
+that the coefficients for the unable indicator variable and the test score variable were
+both equal to zero. The raw p-value for each of the joint tests is reported along with
+the false discovery rate, which accounts for multiplicity due to testing the statistical
+significance of 65 joint tests. We considered an association statistically significant
+when it had a false discovery rate below 5 %. We used a similar approach to examine
+the association between the VFQ-25 scores and the PHQ-9, except here there was no
+indicator variable for unable and we scaled the VFQ-25 so that the parameters
+estimate the expected change in PHQ-9 per 25-point increase in VFQ-25.
+We applied multiple imputation to data that were missing for reasons other than
+being unable to do the test. We generated 100 imputed datasets using the Markov
+Chain Monte Carlo method. The imputation model included all variables that were
+involved in the regression modelling even though none of the covariates were
+missing. We then ran the linear regression separately using each imputed dataset and
+obtained overall estimates which combined the multiple imputed regression results
+using Rubin's rules.19 Further details are provided in Appendix A (available online).
+As a sensitivity analysis, we repeated the previously described multivariable
+regression analysis without imputation and replacing the PHQ-9 total score and
+overall composite VFQ-25 scores with Rasch person measures estimated using the
+method of successive dichotomization.20 The Rasch person scores are unitless
+measures on the logit scale that account for variable “difficulty” or “endorseability” of
+each question and the potential that a fixed unit of increase across the items or across
+responses within an item may not be on an interval scale linearly related to the
+underlying constructs being measured. Further details are provided in appendix B
+(available online).
+The Rasch person measures were estimated using the msd package in R.21 All other
+analysis were performed using SAS® software (version 9.4, copyright 2016 SAS
+Institute Inc., Cary, NC, USA).22
+
+3. Results
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 6]
+3.1. Patient demographics
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+
+The
+mean (standard
+powered by
+LeapSpace deviation (SD)) age was 74 (17.9) years. The most common
+Article
+Recommended
+Metrics
+demographics were
+female (n articles
+= 162, 68 %), Caucasian
+(n = 221, 93 %), educated to high
+school or less (n = 109, 46 %), and had a gross household income of less than $40,000
+Questions you could ask:
+(n = 97, 41 %). The dominant primary language was English (n = 217, 92 %). The most
+common diagnoses causing vision loss were macular degeneration (n = 135, 57 %) and
+glaucoma (n = 60, 25 %). The most common visual impairment category was
+moderate (<6/18 to 6/60) (n = 106, 45 %) (Table 3).
+Table 3. Characteristics of study population (n: 237).
+Variable
+
+Actions you could take:
+
+Value
+
+Age (Mean (SD), range (years))
+Age group
+
+Gender
+
+Racial/ethnic group
+
+Number (%)
+74 (17.9), 20–100
+
+18–64
+
+60 (25)
+
+≥65
+
+177 (75)
+
+Male
+
+75 (32)
+
+Female
+
+162 (68)
+
+Caucasian
+
+221 (93)
+
+Indigenous (First Nation, Métis, Inuit) 7 (3)
+South Asian
+
+3 (1)
+
+Black
+
+1 (0.4)
+
+East Asian
+
+1 (0.4)
+
+Latin American
+
+1 (0.4)
+
+Multi-Racial
+
+1 (0.4)
+
+Declined to identify
+
+2 (1)
+
+≤High School
+
+109 (46)
+
+College
+
+69 (29)
+
+University
+
+59 (25)
+
+Income
+
+<$40,000
+
+97 (41)
+
+(household gross income)
+
+$40,000-$59,999
+
+52 (22)
+
+≥$60,000
+
+62 (26)
+
+Don't Know/Declined to identify
+
+26 (11)
+
+English
+
+217 (92)
+
+French
+
+6 (3)
+
+Other*
+
+14 (6)
+
+Visual diagnoses
+
+Macular degeneration
+
+135 (57)
+
+(Multiple diagnoses possible)
+
+Glaucoma
+
+60 (25)
+
+Diabetes related
+
+22 (9)
+
+Stroke related
+
+11 (5)
+
+Retinal detachment/tear
+
+9 (4)
+
+Retinitis Pigmentosa
+
+9 (4)
+
+Other
+
+⁎⁎
+
+37 (16)
+
+Visual impairment category38
+
+6/12 or better
+
+24 (10)
+
+(Better seeing eye, Metric)
+
+Mild (<6/12 to 6/18)
+
+51 (22)
+
+Moderate (<6/18 to 6/60)
+
+106 (45)
+
+Severe (<6/60 to 6/120)
+
+36 (15)
+
+Highest level of education
+
+Primary language
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 7]
+Variable
+
+Value
+
+Number (%)
+
+Blindness (<6/120)
+
+15 (6)
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+Metrics
+Unable to do visual acuity test
+
+Questions
+you could
+ask:
+Patient Health
+Questionnaire-9
+(PHQ-9):
+
+⁎⁎⁎
+
+(Mean (SD)
+
+PHQ-9, Depression severity
+
+PHQ-9, Depression syndrome
+
+Actions you could take:
+PHQ-9, score of ≥10
+
+⁎⁎⁎⁎
+
+5 (2)
+5.0 (4.9)
+
+None-Minimal
+
+130 (55)
+
+Mild
+
+65 (28)
+
+Moderate
+
+27 (11)
+
+Moderately Severe
+
+11 (5)
+
+Severe
+
+4 (2)
+
+No Syndrome
+
+194 (82)
+
+Major Depressive Syndrome
+
+22 (9)
+
+Other Depressive Syndrome
+
+21 (9)
+
+Yes
+
+42 (18)
+
+No
+
+195 (82)
+
+*Dutch (n: 4), German (n: 3), one patient each: ASL, Italian, Polish, Portuguese, Russian,
+Spanish, Urdu.
+**Patient did not fit the six, primary visual diagnoses.
+*** All participants included in this analysis had most of the PHQ-9 completed, but 7 patients
+were missing between 1 and 4 items each. We imputed the missing items using 100 imputed
+datasets and then calculated the PHQ-9 summary scores based on the imputed items. The n
+(%) reported are the averages over the 100 imputed datasets.
+**** Without imputation there were 7 missing values and the breakdown of non-missing
+scores was 40 (17 %)-yes and 190 (83 %)-no.
+
+3.1.1. PHQ-9 scores
+The mean PHQ-9 score was 5 (4.9) (mild depression severity) (Table 3). Forty-two (18
+%) patients scored ≥10 (Table 3).
+
+3.1.2. VFQ-25 scores
+The mean composite score was 54.9 (17.3) and general health 53.6 (28.6). The 10
+vision-related domains mean scores ranged from 35.4 (22.1) for near activities to 82.7
+(22.7) for ocular pain. (Appendix C, Table C.1, available online shows the mean values
+pre- and post-imputation for all of the domains).
+
+3.1.3. Vision test scores
+The mean (SD) distance visual acuity was 0.7 (0.4) LogMAR (6/30 metric), reading
+acuity 0.6 (0.4) LogMAR (6/24 metric), critical print size 0.8 (0.4) LogMAR (6/38),
+contrast sensitivity 1.0 (0.4) log contrast, and BCEA95 21.6 (28.1). BCEA95 had a
+strong positive skew (median=13.9, Q1=3.5, Q3=30.4), so we analyzed it on the
+natural log scale where the mean (SD) was 2.2 (1.6). (Appendix C, Table C.1, available
+online shows the mean values pre- and post-imputation).
+
+3.1.4. Regression analysis
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 8]
+The vision test scores were not significantly associated with the PHQ-9 score (Table
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+4). However, all vision test scores were significantly associated with the overall VFQpowered by
+
+LeapSpace
+
+25 composite
+score
+and all specific
+VFQ-25 domains
+Article
+Recommended
+articles
+Metrics excluding the general health
+
+score (Table 4).
+Questions you could ask:
+Table 4. Association between clinical vision tests and dependent variables (PHQ-9 and
+
+VFQ-25), using an indicator variable for unable to do test.
+Dependent Clinical vision tests
+
+Expected difference between
+
+Expected increase p
+
+variable
+
+person unable to do test and a
+
+clinical vision test sc
+
+person with average clinical vision someone able to do
+
+Actions you could take:
+
+test score
+
+test
+
+β1 (95 % CI)
+
+β2 (95 % CI)
+
+PHQ-9 score
+Microperimetry BCEA 95 −0.60
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+−0.55
+
+(−2.56 to 1.37)
+
+(−1.00 to −0.09)
+
+0.56
+
+−1.03
+
+(−3.82 to 4.94)
+
+(−2.85 to 0.78)
+
+0.38
+
+−0.76
+
+(−1.76 to 2.51)
+
+(−2.56 to 1.04)
+
+0.05
+
+−1.01
+
+(−2.31 to 2.40)
+
+(−2.90 to 0.87)
+
+2.45
+
+−0.25
+
+(−2.05 to 6.95)
+
+(−2.05 to 1.56)
+
+VFQ-25 domains
+General health
+Microperimetry BCEA 95 −4.41
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+1.17
+
+(−16.34 to 7.53)
+
+(−1.54 to 3.88)
+
+2.32
+
+1.40
+
+(−23.81 to 28.46)
+
+(−9.53 to 12.33)
+
+8.31
+
+1.38
+
+(−4.73 to 21.35)
+
+(−9.43 to 12.18)
+
+11.72
+
+5.53
+
+(−2.73 to 26.17)
+
+(−5.93 to 16.99)
+
+11.29
+
+1.15
+
+(−15.49 to 38.08)
+
+(−9.86 to 12.17)
+
+Overall composite score
+Microperimetry BCEA 95 −7.06
+
+Contrast sensitivity
+
+Reading acuity
+
+0.76
+
+(−14.21 to 0.09)
+
+(−0.87 to 2.39)
+
+2.26
+
+19.86
+
+(−12.16 to 16.69)
+
+(13.85 to 25.86)
+
+−22.12
+
+−13.92
+
+(−29.41 to −14.84)
+
+(−20.03 to −7.81)
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 9]
+Dependent Clinical vision tests
+
+Expected difference between
+
+Expected increase p
+
+variable
+
+person unable to do test and a
+
+clinical vision test sc
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+Metrics
+person with
+average clinical vision someone able to do
+
+Questions you could ask:
+Critical print size
+
+Distance visual acuity
+
+test score
+
+test
+
+β1 (95 % CI)
+
+β2 (95 % CI)
+
+−20.13
+
+−7.93
+
+(−28.44 to −11.82)
+
+(−14.58 to −1.28)
+
+−32.75
+
+−16.70
+
+(−47.94 to −17.57)
+
+(−22.88 to −10.52)
+
+General vision
+
+Actions you could take:
+Microperimetry BCEA 95 −9.11
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+−0.31
+
+(−16.96 to −1.25)
+
+(−2.10 to 1.48)
+
+−16.77
+
+13.36
+
+(−32.91 to −0.63)
+
+(6.60 to 20.12)
+
+−21.12
+
+−11.74
+
+(−29.29 to −12.94)
+
+(−18.51 to −4.97)
+
+−23.47
+
+−11.99
+
+(−32.54 to −14.40)
+
+(−19.22 to −4.76)
+
+−42.84
+
+−14.91
+
+(−59.33 to −26.36)
+
+(−21.74 to −8.09)
+
+Ocular pain
+Microperimetry BCEA 95 12.31
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+3.96
+
+(3.24 to 21.38)
+
+(1.89 to 6.04)
+
+11.32
+
+8.13
+
+(−8.88 to 31.53)
+
+(−0.32 to 16.58)
+
+2.24
+
+−0.66
+
+(−7.91 to 12.40)
+
+(−9.12 to 7.80)
+
+2.73
+
+0.14
+
+(−8.49 to 13.95)
+
+(−8.87 to 9.15)
+
+2.59
+
+3.88
+
+(−18.28 to 23.46)
+
+(−4.66 to 12.42)
+
+Near activities
+Microperimetry BCEA 95 −11.51
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+−1.56
+
+(−20.59 to −2.43)
+
+(−3.64 to 0.53)
+
+−5.27
+
+21.08
+
+(−23.73 to 13.19)
+
+(13.35 to 28.81)
+
+−26.91
+
+−22.64
+
+(−36.00 to −17.82)
+
+(−30.22 to −15.07)
+
+−28.63
+
+−19.42
+
+(−38.95 to −18.30)
+
+(−27.74 to −11.11)
+
+−46.18
+
+−26.02
+
+(−64.56 to −27.81)
+
+(−33.59 to −18.45)
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 10]
+Dependent Clinical vision tests
+
+Expected difference between
+
+Expected increase p
+
+variable
+
+person unable to do test and a
+
+clinical vision test sc
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+Metrics
+person with
+average clinical vision someone able to do
+
+Questions you could ask:
+
+test score
+
+test
+
+β1 (95 % CI)
+
+β2 (95 % CI)
+
+Distance activities
+Microperimetry BCEA 95 −13.11
+
+Contrast sensitivity
+
+Actions you could
+take:
+Reading
+acuity
+
+Critical print size
+
+Distance visual acuity
+
+0.44
+
+(−23.72 to −2.50)
+
+(−1.97 to 2.86)
+
+3.56
+
+23.02
+
+(−18.70 to 25.82)
+
+(13.70 to 32.33)
+
+−35.38
+
+−22.91
+
+(−46.06 to −24.69)
+
+(−31.84 to −13.98)
+
+−37.17
+
+−19.72
+
+(−49.21 to −25.13)
+
+(−29.42 to −10.03)
+
+−37.08
+
+−29.46
+
+(−59.24 to −14.92)
+
+(−38.59 to −20.34)
+
+Vision specific: Social functioning
+Microperimetry BCEA 95 −11.59
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+−0.75
+
+(−23.74 to 0.57)
+
+(−3.53 to 2.02)
+
+22.08
+
+33.11
+
+(−2.46 to 46.62)
+
+(22.85 to 43.38)
+
+−41.07
+
+−24.01
+
+(−53.18 to −28.96)
+
+(−34.08 to −13.95)
+
+−37.05
+
+−12.92
+
+(−50.88 to −23.23)
+
+(−24.01 to −1.83)
+
+−33.82
+
+−33.99
+
+(−58.90 to −8.74)
+
+(−44.26 to −23.73)
+
+Vision specific: Mental health
+Microperimetry BCEA 95 −7.14
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+0.44
+
+(−18.03 to 3.76)
+
+(−2.03 to 2.92)
+
+7.55
+
+20.08
+
+(−15.54 to 30.64)
+
+(10.44 to 29.72)
+
+−17.48
+
+−11.61
+
+(−29.15 to −5.81)
+
+(−21.37 to −1.85)
+
+−15.00
+
+−5.54
+
+(−28.06 to −1.94)
+
+(−15.99 to 4.91)
+
+−28.36
+
+−12.76
+
+(−52.53 to −4.19)
+
+(−22.64 to −2.88)
+
+Vision specific: Role difficulties
+Microperimetry BCEA 95 −5.35
+(−16.33 to 5.64)
+
+2.98
+(0.47 to 5.49)
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 11]
+Dependent Clinical vision tests
+
+Expected difference between
+
+Expected increase p
+
+variable
+
+person unable to do test and a
+
+clinical vision test sc
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+Metrics
+person with
+average clinical vision someone able to do
+
+Questions you could ask:
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Actions you could take:
+Distance visual acuity
+
+test score
+
+test
+
+β1 (95 % CI)
+
+β2 (95 % CI)
+
+8.76
+
+14.02
+
+(−15.31 to 32.82)
+
+(3.95 to 24.09)
+
+−13.70
+
+−6.41
+
+(−25.76 to −1.64)
+
+(−16.50 to 3.68)
+
+−8.69
+
+1.74
+
+(−22.14 to 4.77)
+
+(−9.06 to 12.54)
+
+−16.97
+
+−9.59
+
+(−41.87 to 7.93)
+
+(−19.80 to 0.62)
+
+Vision specific: Dependency
+Microperimetry BCEA 95 −12.45
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+−0.96
+
+(−26.02 to 1.12)
+
+(−4.05 to 2.13)
+
+8.59
+
+24.69
+
+(−20.12 to 37.30)
+
+(12.66 to 36.72)
+
+−23.26
+
+−18.36
+
+(−37.79 to −8.72)
+
+(−30.43 to −6.28)
+
+−16.40
+
+−4.89
+
+(−32.87 to 0.07)
+
+(−18.00 to 8.23)
+
+−30.98
+
+−19.43
+
+(−60.87 to −1.09)
+
+(−31.69 to −7.17)
+
+Colour vision
+Microperimetry BCEA 95 −8.31
+
+Contrast sensitivity
+
+Reading acuity
+
+Critical print size
+
+Distance visual acuity
+
+−0.12
+
+(−20.33 to 3.70)
+
+(−2.85 to 2.62)
+
+3.18
+
+27.80
+
+(−22.38 to 28.74)
+
+(17.54 to 38.05)
+
+−28.34
+
+−14.53
+
+(−40.92 to −15.76)
+
+(−25.07 to −3.98)
+
+−23.51
+
+−4.66
+
+(−37.63 to −9.39)
+
+(−16.02 to 6.70)
+
+−48.37
+
+−16.48
+
+(−75.62 to −21.11)
+
+(−27.10 to −5.86)
+
+Peripheral vision
+Microperimetry BCEA 95 −4.34
+
+Contrast sensitivity
+
+Reading acuity
+
+3.45
+
+(−17.82 to 9.14)
+
+(0.38 to 6.52)
+
+−20.39
+
+13.27
+
+(−49.55 to 8.77)
+
+(1.06 to 25.49)
+
+−16.22
+
+−6.36
+
+(−31.01 to −1.43)
+
+(−18.66 to 5.93)
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 12]
+Dependent Clinical vision tests
+
+Expected difference between
+
+Expected increase p
+
+variable
+
+person unable to do test and a
+
+clinical vision test sc
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+Metrics
+person with
+average clinical vision someone able to do
+
+Questions you could ask:
+Critical print size
+
+Distance visual acuity
+
+test score
+
+test
+
+β1 (95 % CI)
+
+β2 (95 % CI)
+
+−14.11
+
+−2.04
+
+(−30.56 to 2.34)
+
+(−15.20 to 11.12)
+
+−45.52
+
+−8.23
+
+(−75.60 to −15.45)
+
+(−20.56 to 4.10)
+
+SD-standard deviation.
+
+Actions you could take:
+
+CI- confidence interval.
+Clinical vision tests are based on binocular testing, with the exception of microperimetry, in
+which the better eye data was recorded.
+All clinical vision tests are recorded as LogMAR, with the exception of contrast sensitivity
+which is log contrast, and Microperimetry BCEA95 which is ln, natural log.
+Estimates and p-values adjust for age, gender, education level and income group.
+Data modelled as Y=β0+β1U+β2(1-U)[(Xx̅ )/SD(X)]+β3Age+β4Female+β5College+β6University+β7Income40to60 K
+
++β8Income>60K+β9IncomeUnkown.
+U = 1 for unable or lost fixation and 0 otherwise. All variables except X and age coded as 1=yes
+and 0=no.
+FDRs account for 65 tests of β1=β2=0 within this table.
+*FDR<0.001, **FDR<0.01, ***FDR<0.05.
+The parameters in bold would have a p-value <0.05 if the two parameters were tested
+separately without adjustment for multiple comparisons.
+
+VFQ-25 mental health was significantly associated with contrast sensitivity (p <
+0.0001), reading acuity (p = 0.008) and distance visual acuity (p = 0.010). Among
+people able to complete the contrast sensitivity test, the VFQ-25 mental health
+domain increased by 20.1
+(95 % confidence interval, 10.4 to 29.7) points for each 1-SD increase in the test score.
+For reading acuity and distance visual acuity, among patients able to do the test, each
+1-SD increase yielded an expected decrease in the VFQ-25 mental health of 11.6 (1.9
+to 21.4) and 12.8 (2.9 to 22.6) respectively, and the expected VFQ-25 mental health
+scores were lower by 17.5 (5.8 to 29.2) and 28.4 (4.2 to 52.5) in people unable to do
+the test (Table 4).
+A sensitivity analysis treating unable the same as missing yielded similar conclusions
+(Appendix C, Table C.2, available online).
+A 25 % higher VFQ-25 overall composite score was associated with a 2.8 (2.0 to 3.6, p
+< 0.0001) lower PHQ-9 score. The negative association between the VFQ-25 and PHQReading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 13]
+9 was statistically significant for all domains (Appendix C, Table C.3, available online
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+shows the association between the VFQ-25 domains and the PHQ-9).
+powered by
+
+LeapSpace
+
+Article
+Recommended articles
+Metrics
+All results related to the PHQ-9 and VFQ-25 overall composite score were similar
+
+when
+the you
+rawcould
+scores
+were replaced by their corresponding Rasch person measures.
+Questions
+ask:
+However, with 43 (18.7 %) of participants having a PHQ-9 total score of 0 and many of
+the participants having PHQ-9 Rasch person measure below the range of the item
+measures, we may not be able to discriminate mental health among people with low
+risk of depression.
+
+4. Discussion
+While this
+did not identify a relationship between the vision tests and
+Actions
+you study
+could take:
+depression, it did find that self-reported worse visual functioning was associated
+with higher depression screening scores. This study also confirms that patients with
+low vision have higher rates of depression than global population estimates (5 %1),
+however, the rate of 18 % is lower than that of a recent meta-analysis (25 %) of visual
+impairment and depression.23
+Consistent with previous studies, we found no significant association between
+depression and visual acuity24, 25, 26, 27 or contrast sensitivity.24,28 Neither did we
+find an association between fixation stability, reading acuity or critical print size and
+depression, and were unable to find comparative studies. However, a study using the
+Melbourne edge test to analyze the relationship between reduced contrast sensitivity
+and depression and anxiety, found no significant association with depression, but did
+find a significant association between depression and poor low contrast visual acuity
+(Bailey-Lovie test).29
+While our study analyzed the association between fixation stability and depression,
+we did not explore visual fields. Previous studies found no significant association
+between depression and visual field loss/defects, regardless of the visual field test
+used,29, 30, 31 although there may be an association with rate of visual field change
+and depression. Diniz-Filho et al. (2016), studying Glaucoma patients, reported that
+faster visual field loss resulted in larger changes in the Geriatric Depression Scale.32
+Our findings that self-reported visual function rather than specific vision tests is
+significantly associated with risk of depression is consistent with results from
+previous studies.31,33 Zhang et al. (2013) found self-reported visual function remained
+significantly associated with depression after controlling for possible confounding
+variables while visual acuity did not.26 Wang et al. (2012), investigating depression
+and Glaucoma, concluded objective measures of visual acuity and visual field defects
+were not associated with depression, but several of the VFQ-25 questions were.31 A
+study of patients with Retinitis Pigmentosa found that while depression was
+correlated with lower VFQ-25 scores, it was not correlated with objective vision tests
+of weighted visual acuity or functional vision score (combined visual acuities and
+visual field measures).33 Silverstein et al. (2021) investigated adults in senior living
+facilities and found that neither contrast sensitivity or visual acuity were significantly
+related to symptoms of depression, whereas self-reported visual function (VFQ-25)
+was significantly correlated to depression score of the Patient Health Questionnaire-2
+(PHQ-2).24
+While it seems intuitive that reduced vision would cause reduced visual functioning,
+Reading we
+assistant
+is powered
+LeapSpace. AI
+responsesthis
+may vary in quality.
+which in turn may contribute to depression,
+were
+not by
+able to
+demonstrate
+
+View PDF
+
+
+[page 14]
+relationship; vision tests were associated to VFQ-25 scores but not the PHQ-9.
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+SilversteinAssistant
+et al. (2021) found similar results, noting that; while there was not a
+powered by
+
+LeapSpace
+
+significant
+between
+either contrast
+sensitivity and visual acuity and the
+Article relationship
+Recommended
+articles
+Metrics
+PHQ-2, both were strongly related to the VFQ-25, which was associated with the
+Questions
+youauthors
+could ask:
+PHQ-2. The
+concluded that self-reported reduced visual functioning and
+social support were strong predictors for depression, rather than visual acuity or
+contrast sensitivity.24 Evans et al. (2007) found that the association between visual
+impairment and depression was reduced after controlling for activities of daily living,
+and hypothesized that a person with visual impairment is more likely to have
+reduced functioning in terms of activities of daily living, subsequently leading to
+depression.34 Similarly, several studies have identified a mediating variable in
+explaining vision loss and depression, such as functional limitations and social
+Actions you could
+take:
+network size,35 and low sense of mastery and self-esteem.36
+While the vision tests were not associated with the PHQ-9, they were associated with
+the VFQ-25 mental health domain. In turn, the VFQ-25 mental health domain was
+significantly associated with the PHQ-9. While both questionnaires address mental
+health, the VFQ-25 mental health domain specifically asks questions related to
+vision-specific mental health, whereas the PHQ-9 addresses broader, global changes
+in mental health. This difference makes the PHQ-9 less specific for detecting changes
+in visual function, which may reduce its sensitivity in this context, thereby
+highlighting the complexity of measuring depression and mental health in this
+population.
+The retrospective study design limited our ability to collect relevant patient health
+information and control for potential confounding variables such as pre-existing
+depression, comorbidities, concomitant use of anti-depressants, or previous
+experience of vision rehabilitation. For simplicity and ease of interpretation, our
+regression approach models adjusted linear associations between the vision tests,
+VFQ-25 scores and the PHQ-9. This may not be the most efficient measure of
+association if associations are non-linear or if the scales themselves are not on a
+linear interval scale. We have used the VFQ-25 overall composite and domain scores
+as defined by its authors, although we acknowledge that the psychometric properties
+of these scales have been criticized.37 Nevertheless, our sensitivity analysis using
+Rasch person measures yielded the same conclusions as our main analysis. However,
+the Rasch analysis also revealed that a large portion of patients were at or near the
+lower end of the PHQ-9 scale which could cause us to miss potential associations
+between vision tests and mental health among people with a low risk of clinical
+depression according to the PHQ-9. Thus, while our data did not provide any
+evidence that the vision tests were associated with risk of clinical depression, it may
+be incorrect to conclude that there is no association between vision test results and
+mental health more generally. Future, work may wish to consider using a scale more
+sensitive to mild depression or mental health in general.
+A strength of the study is the inclusion of both clinical vision test measures and self report visual functioning. To the best of our knowledge, this is the first study to
+explore reading acuity, critical print size and fixation stability in association to
+depression.
+
+5. Conclusion
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 15]
+Our findings are in keeping with established literature that individuals with low
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+vision are at increased risk of depression. We were unable to demonstrate a vision
+powered by
+
+LeapSpace
+
+test Article
+that could be
+used as a surrogate
+Recommended
+articles for identifying
+Metrics patients at risk of generalized
+depression using the PHQ9. Our finding that self-reported visual function is
+Questions
+youassociated
+could ask: with increased risk of depression suggests that mitigating
+significantly
+decreased functional ability through vision rehabilitation may help decrease a
+patient's risk of depression. In addition, given both the relationship between mental
+health and low vision and the relatively low barrier to use depression-screening
+tools, the development of a vision-specific depression-screening tool may be an
+effective tool for patients with low vision, and warrants further investigation.
+
+Funding
+Actions
+you could take:
+This research did not receive any specific grant from funding agencies in the public,
+commercial, or not-for-profit sectors.
+
+Declarations of competing interest
+The authors declare that they have no known competing financial interests or
+personal relationships that could have appeared to influence the work reported in
+this paper
+
+Appendix. Supplementary materials
+Download all supplementary files included with this article
+
+What’s this?
+
+Download: Download Word document (39KB)
+Download: Download Word document (86KB)
+Download: Download Word document (41KB)
+
+References
+1
+
+World Health Organization. Depression disorder (depression) Fact Sheet. 31st
+March. 2023. Accessed February 2, 2024. https://www.who.int/newsroom/fact-sheets/detail/depression .
+Google Scholar
+
+2
+
+Statistics Canada. Table 13-10-0096-03 Perceived mental health, by age group.
+doi:10.25318/1310009601-eng . 2023.
+Google Scholar
+
+3
+
+Smetanin P., Striff D., Briante C., Adair C.E., Ahmad S., Khan M. The Life and
+Economic Impact of Major Mental Illnesses in Canada: 2011 to 2041.
+RiskAnalytica on behalf of the Mental Health Commission of Canada. 2011.
+Google Scholar
+
+4
+
+P.K.M. Purola, J.E. Nättinen, M.U.I. Ojamo, et al.
+
+Prevalence and 11-year incidence of common eye diseases and their
+relation to health-related quality of life, mental health, and visual
+impairment
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+Qual Life Res, 30 (8) (2021), pp. 2311-2327, 10.1007/s11136-021-02817-1
+
+View PDF
+
+
+[page 16]
+View in Scopus
+
+Google Scholar
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+5
+J. Taipale,
+A. Mikhailova, M. Ojamo, et al.
+LeapSpace
+Article
+Recommended articles
+Metrics
+
+Low vision status and declining vision decrease Health-Related
+
+Quality
+of Life:
+Questions
+you could
+ask: results from a nationwide 11-year follow-up study
+Qual Life Res, 28 (12) (2019), pp. 3225-3236, 10.1007/s11136-019-02260-3
+View in Scopus
+6
+
+Google Scholar
+
+Robert L Spitzer, J.B. Williams, K. Kroenke, et al.
+
+Patient Health Questionnaire-9
+Pfizer (2022)
+
+Accessed March 15
+https://www.phqscreeners.com/select-screener
+Actions you could take:
+Google Scholar
+7
+
+K. Kroenke, R.L. Spitzer, J.B.W. Williams
+
+The PHQ-9 Validity of a brief depression severity measure
+J Gen Intern Med, 16 (9) (2001), pp. 606-613, 10.1046/j.1525-1497.2001.016009606.x
+View in Scopus
+8
+
+Google Scholar
+
+R.L. Spitzer
+
+Validation and utility of a self-report version of PRIME-MD. The PHQ
+primary care study
+JAMA, 282 (18) (1999), p. 1737, 10.1001/jama.282.18.1737
+Google Scholar
+9
+
+E.L. Lamoureux, H.W. Tee, K. Pesudovs, J.F. Pallant, J.E. Keeffe, G. Rees
+
+Can clinicians use the PHQ-9 to assess depression in people with
+vision loss?
+Optom Vis Sci, 86 (2) (2009), pp. 139-145, 10.1097/OPX.0b013e318194eb47
+View in Scopus
+10
+
+Google Scholar
+
+K. Kroenke, R.L. Spitzer
+
+The PHQ-9: a new depression diagnostic and severity measure
+Psychiatr Ann, 32 (9) (2002), pp. 509-515, 10.3928/0048-5713-20020901-06
+View in Scopus
+11
+
+Google Scholar
+
+C.M. Mangione, P.P. Lee, P.R. Gutierrez, K. Spritzer, S. Berry, R.D. Hays
+
+Development of the 25-Item national eye institute visual function
+questionnaire for the national eye institute visual function
+questionnaire field test investigators
+Arch Ophthalmol, 119 (2001), pp. 1050-1058
+View at publisher
+12
+
+Crossref
+
+View in Scopus
+
+Google Scholar
+
+C.M. Mangione
+
+The National Eye Institute 25-Item Visual Function Questionnaire
+(VFQ-25)
+NEI VFQ-25 Scoring Algorithim (2000)
+
+2000. Accessed August 16, 2022
+https://www.nei.nih.gov/learn-about-eye-health/outreach-campaigns-andresources/outreach-materials/visual-function-questionnaire-25
+Google Scholar
+13
+
+J.A. Stelmack, T.R. Stelmack, R.W. Reading
+Massofassistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 17]
+Measuring low-vision rehabilitation outcomes with the NEI VFQ-25
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+Invest Ophthalmol Vis Sci, 43 (9) (2002), pp. 2859-2868
+powered by
+
+LeapSpace
+
+Article
+Recommended
+articles
+View in Scopus
+Google
+Scholar
+
+Metrics
+
+14
+A. you
+Calabrese,
+Gamam, J.S. Mansfield, G.E. Legge
+Questions
+could S.
+ask:
+
+Implementing the MNREAD reading acuity test on an iPad3
+Invest Ophthalmol Vis Sci (2014)
+
+Accessed March 21, 2022
+https://iovs.arvojournals.org/article.aspx?articleid=2271215&resultClick=1
+Google Scholar
+15
+
+University of Minnesota
+
+Continuous-text Reading-Acuity Test For Normal and Low vision. User
+
+Actions you could take:
+
+Guide Version 0.9
+MNREAD App (2022)
+
+Accessed March 21
+https://www.precision-vision.com/wp-content/uploads/2017/03/Mn-Read-App-userguide_v0.9-COMPRESSED.pdf
+Google Scholar
+16
+
+D.G. Pelli, J.G. Robson, A.G Wilkins
+
+The design of a new letter chart for measuring contrast sensitivity
+Clinical Vision Sciences, 2 (1988), pp. 187-199
+View in Scopus
+17
+
+Google Scholar
+
+M.U. Morales, S. Saker, C. Wilde, et al.
+
+Reference clinical database for fixation stability metrics in normal
+subjects measured with the MAIA microperimeter
+Transl Vis Sci Technol, 5 (6) (2016), p. 6, 10.1167/tvst.5.6.6
+View in Scopus
+18
+
+Google Scholar
+
+CenterVue
+
+Maia, Macular Integrity Assessment Operating Manual
+CenterVue (2015)
+Google Scholar
+19
+
+D. Rubin
+
+Multiple Imputation for Nonresponse in Surveys
+John Wiley & Sons, Ltd (2004)
+Google Scholar
+20
+
+C. Bradley, R.W. Massof
+
+Method of successive dichotomizations: an improved method for
+estimating measures of latent variables from rating scale data
+PLoS One, 13 (10) (2018), Article e0206106, 10.1371/journal.pone.0206106
+Google Scholar
+21
+
+C. Bradley
+msd: Method of Successive Dichotomizations, 14, R package version 0.3.1. CRAN:
+Contributed Packages (2021), 10.32614/CRAN.package.msd
+
+Published online March
+Google Scholar
+22
+
+SAS
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 18]
+[Computer Program] Version 9.4. Cary
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+SAS Institute Inc. SAS and all other SAS Institute Inc. product or service names are
+powered by
+
+LeapSpace
+
+registered Recommended
+trademarks or trademarks
+of Metrics
+SAS Institute Inc., Cary, NC, USA, NC, USA
+Article
+articles
+(2016)
+Questions
+you could
+ask:
+Published
+online
+Google Scholar
+23
+
+M. Parravano, D. Petri, E. Maurutto, et al.
+
+Association between visual impairment and depression in patients
+attending eye clinics
+JAMA Ophthalmol, 139 (7) (2021), p. 753, 10.1001/jamaophthalmol.2021.1557
+View in Scopus
+Google Scholar
+Actions you could take:
+24
+S.M. Silverstein, S. Sörensen, A. Sunkara, A. Lai, S.I. Fradkin, R.S. Ramchandran
+
+Association of vision loss and depressive symptomatology in older
+adults assessed for ocular health in senior living facilities
+Ophthal Physiol Optics, 41 (5) (2021), pp. 985-995, 10.1111/opo.12869
+View in Scopus
+25
+
+Google Scholar
+
+C. Nollett, B. Ryan, N. Bray, et al.
+
+Depressive symptoms in people with vision impairment: a cross sectional study to identify who is most at risk
+BMJ Open, 9 (1) (2019), Article e026163, 10.1136/bmjopen-2018-026163
+View in Scopus
+26
+
+Google Scholar
+
+X. Zhang, K.M. Bullard, M.F. Cotch, et al.
+
+Association Between Depression and Functional Vision Loss in Persons
+20 Years of Age or Older in the United States, NHANES 2005-2008
+JAMA Ophthalmol, 131 (5) (2013), pp. 573-581, 10.1001/jamaophthalmol.2013.2597
+View in Scopus
+27
+
+Google Scholar
+
+K. Hayman, N. Kerse, S. La Grow, T. Wouldes, M. Roberston, A Campbell
+
+Depression in Older People: visual Impairment and Subjective Ratings
+of Health
+Optom Vis Sci, 84 (11) (2007), pp. 1024-1030, 10.1097/OPX.0b013e318157a6b1
+View in Scopus
+28
+
+Google Scholar
+
+P. Grant, W. Seiple, J.P. Szlyk
+
+Effect of depression on actual and perceived effects of reading
+rehabilitation for people with central vision loss
+J Rehabilitat Res Dev, 48 (9) (2011), p. 1101, 10.1682/JRRD.2010.05.0080
+View in Scopus
+29
+
+Google Scholar
+
+R. Eramudugolla, J. Wood, K.J. Anstey
+
+Co-morbidity of depression and anxiety in common age-related eye
+diseases: a population-based study of 662 adults
+Front Aging Neurosci, 5 (2013), pp. 1-9, 10.3389/fnagi.2013.00056
+Google Scholar
+30
+
+B.S. Ajith, N. Najeeb, A. John, V.N. Anima
+
+Cross sectional study of depression, anxiety and quality of life in
+glaucoma patients at a tertiary centre in North Kerala
+Indian J Ophthalmol, 70 (2) (2022),Reading
+p. 546assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 19]
+Crossref
+
+View in Scopus
+
+Google Scholar
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+31
+S.Y. Wang,
+K. Singh, S.C. Lin
+LeapSpace
+Article
+Recommended articles
+
+Metrics
+
+Prevalence and predictors of depression among participants with
+
+glaucoma
+a nationally representative population sample
+Questions you
+couldinask:
+Am J Ophthalmol, 154 (3) (2012), pp. 436-444.e2, 10.1016/j.ajo.2012.03.039
+View PDF
+32
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+A. Diniz-Filho, R.Y. Abe, H.J. Cho, S. Baig, C.P.B. Gracitelli, F.A. Medeiros
+
+Fast visual field progression is associated with depressive symptoms
+in patients with glaucoma
+Ophthalmology, 123 (4) (2016), pp. 754-759, 10.1016/j.ophtha.2015.12.014
+PDF
+Actions youView
+could
+take: View article
+33
+
+View in Scopus
+
+Google Scholar
+
+B.J. Hahm, Y.W. Shin, E.J. Shim, et al.
+
+Depression and the vision-related quality of life in patients with
+retinitis pigmentosa
+Br J Ophthalmol, 92 (5) (2008), pp. 650-654, 10.1136/bjo.2007.127092
+View in Scopus
+34
+
+Google Scholar
+
+J.R. Evans, A.E. Fletcher, R.P.L. Wormald
+
+Depression and anxiety in visually impaired older people
+Ophthalmology, 114 (2) (2007), pp. 283-288, 10.1016/j.ophtha.2006.10.006
+View PDF
+35
+
+View article
+
+View in Scopus
+
+Google Scholar
+
+R.M.A. Van Nispen, H.L. Vreeken, H.C. Comijs, D.J.H. Deeg, G.H.M.B. Van Rens
+
+Role of vision loss, functional limitations and the supporting network
+in depression in a general population
+Acta Ophthalmol, 94 (1) (2016), pp. 76-82, 10.1111/aos.12896
+View in Scopus
+36
+
+Google Scholar
+
+I.M. Maaswinkel, H.P.A. van der Aa, G.H.M.B. van Rens, A.T.F. Beekman, J.W.R. Twisk,
+R.M.A. van Nispen
+
+Mastery and self-esteem mediate the association between visual
+acuity and mental health: a population-based longitudinal cohort
+study
+BMC Psychiatry, 20 (1) (2020), pp. 1-9, 10.1186/s12888-020-02853-0
+Google Scholar
+37
+
+J.E. Goldstein, C. Bradley, A.L. Gross, M. Jackson, N. Bressler, R.W. Massof
+
+The NEI VFQ-25C: calibrating items in the national eye institute visual
+function questionnaire-25 to enable comparison of outcome measures
+Transl Vis Sci Technol, 11 (5) (2022), p. 10, 10.1167/tvst.11.5.10
+View in Scopus
+38
+
+Google Scholar
+
+World health Organization. World Report on Vision.; 2019.
+Google Scholar
+
+Recommended articles
+Based on reading popularity
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+
+
+[page 20]
+Research article
+
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+View PDF
+Reading
+Trends in Assistant
+and Predictors of Depression Among Participants in the Collaborative Initial Glaucoma Treatment Study (CIGTS)
+powered by
+
+LeapSpace
+
+Article
+Recommended
+articles
+David
+C. Musch, …, Brenda
+W. Gillespie
+
+Metrics
+
+American Journal of Ophthalmology • Volume 197 • 2019 • Pages 128-135
+
+Questions you could ask:
+Research article
+
+Evaluation of ADL and BMI in the management of diabetes mellitus at secondary and tertiary health facilities
+Ezekiel U. Nwose, …, Eunice O. Igumbor
+Diabetes & Metabolic Syndrome: Clinical Research & Reviews • Volume 13, Issue 3 • 2019 • Pages 2266-2271
+Research article
+
+Should We Question the External Validity of Database Studies? A Comparative Analysis of Demographics
+Actions you could take:
+Alexander Beletsky, …, Nikhil Verma
+Arthroscopy: The Journal of Arthroscopic & Related Surgery • Volume 35, Issue 9 • 2019 • Pages 2686-2694
+Research article
+
+Open access
+
+Validity of self-reported diabetes varies with sociodemographic charecteristics: Example from Iran
+Mehdi Moradinazar, …, Annette J. Dobson
+Clinical Epidemiology and Global Health • Volume 8, Issue 1 • 2020 • Pages 70-75
+
+View PDF
+Research article
+
+Physical activity behaviour in people with diabetes residing in India: A cross-sectional analysis
+G.F. López Sánchez, …, S. Pardhan
+Science & Sports • Volume 34, Issue 1 • 2019 • Pages e59-e66
+Research article
+
+Protective factors for diabetic retinopathy in Type 2 diabetes mellitus patients: Long duration of no less than 10 years
+Yanli Liu, …, Meixia An
+Journal of Diabetes and its Complications • Volume 33, Issue 10 • 2019 • Article 107383
+
+Metrics
+Captures
+Mendeley Readers
+
+8
+View details
+
+© 2024 The Author(s). Published by Elsevier Inc.
+
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content,
+the relevant licensing terms apply.
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+
+[page 21]
+Exploring vision
+tests as a surrogate for depression screening in patients with a visual impairment: …
+Reading
+Assistant
+powered by
+
+Article
+
+LeapSpace
+
+Recommended articles
+
+Metrics
+
+Questions you could ask:
+
+Actions you could take:
+
+Reading assistant is powered by LeapSpace. AI responses may vary in quality.
+
+View PDF
+

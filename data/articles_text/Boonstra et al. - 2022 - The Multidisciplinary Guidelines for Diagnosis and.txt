@@ -1,0 +1,3137 @@
+[page 1]
+ORIGINAL RESEARCH
+published: 30 June 2022
+doi: 10.3389/fnhum.2022.727565
+
+The Multidisciplinary Guidelines for
+Diagnosis and Referral in Cerebral
+Visual Impairment
+Frouke N. Boonstra 1,2,3* , Daniëlle G. M. Bosch 4 , Christiaan J. A. Geldof 1 ,
+Catharina Stellingwerf 1 and Giorgio Porro 5
+1
+Royal Dutch Visio, National Foundation for the Visually Impaired and Blind, Huizen, Netherlands, 2 Department of Cognitive
+Neuroscience, Donders Institute for Brain, Cognition and Behavior, Radboud University Medical Centre Nijmegen, Nijmegen,
+Netherlands, 3 Behavioral Science Institute, Radboud University, Nijmegen, Netherlands, 4 Department of Clinical Genetics,
+Erasmus MC, Rotterdam, Netherlands, 5 Department of Ophthalmology, UMC Utrecht and Amphia Hospital Breda, Breda,
+Netherlands
+
+Edited by:
+Holly Bridge,
+University of Oxford, United Kingdom
+Reviewed by:
+Elisa Maria Fazzi,
+University of Brescia, Italy
+Emma Mcconnell,
+Ulster University, United Kingdom
+*Correspondence:
+Frouke N. Boonstra
+nienkeboonstra@visio.org
+Specialty section:
+This article was submitted to
+Sensory Neuroscience,
+a section of the journal
+Frontiers in Human Neuroscience
+Received: 18 June 2021
+Accepted: 05 May 2022
+Published: 30 June 2022
+Citation:
+Boonstra FN, Bosch DGM,
+Geldof CJA, Stellingwerf C and
+Porro G (2022) The Multidisciplinary
+Guidelines for Diagnosis and Referral
+in Cerebral Visual Impairment.
+Front. Hum. Neurosci. 16:727565.
+doi: 10.3389/fnhum.2022.727565
+
+Introduction: Cerebral visual impairment (CVI) is an important cause of visual
+impairment in western countries. Perinatal hypoxic-ischemic damage is the most
+frequent cause of CVI but CVI can also be the result of a genetic disorder. The majority
+of children with CVI have cerebral palsy and/or developmental delay. Early diagnosis is
+crucial; however, there is a need for consensus on evidence based diagnostic tools and
+referral criteria. The aim of this study is to develop guidelines for diagnosis and referral
+in CVI according to the grade method.
+Patients and Methods: We developed the guidelines according to the GRADE method
+5 searches on CVI (children, developmental age ≤ 18 years) were performed in the
+databases Medline, Embase, and Psychinfo, each with a distinct topic.
+Results: Based on evidence articles were selected on five topics: 1. Medical
+history and CVI-questionnaires 23 (out of 1,007). 2. Ophthalmological and orthoptic
+assessment 37 (out of 816). 3. Neuropsychological assessment 5 (out of 716). 4.
+Neuroradiological evaluation and magnetic resonance imaging (MRI) 9 (out of 723). 5.
+Genetic assessment 5 (out of 458).
+Conclusion: In medical history taking, prematurity low birth weight and APGAR
+(Appearance, Pulse, Grimace, Activity, Respiration) Scores (<5) are important. Different
+questionnaires are advised for children under the age of 3 years, older children and
+for specific risk groups (extremely preterm). In ophthalmological examination, eye
+movements, specially saccades, accommodation, crowding, contrast sensitivity and
+visual fields should be evaluated. OCT can show objective signs of trans-synaptic
+degeneration and abnormalities in fixation and saccades can be measured with eye
+tracking. Screening of visual perceptive functioning is recommended and can be
+directive for further assessment. MRI findings in CVI in Cerebral Palsy can be structured
+in five groups: Brain maldevelopment, white and gray matter lesions, postnatal lesions
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+1
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 2]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+and a normal MRI. In children with CVI and periventricular leukomalacia, brain lesion
+severity correlates with visual function impairment. A differentiation can be made
+between cortical and subcortical damage and related visual function impairment.
+Additional assessments (neurological or genetic) can be necessary to complete the
+diagnosis of CVI and/or to reveal the etiology.
+Keywords: cerebral visual impairment, visual development, visually impaired children, perinatal damage,
+congenital anomaly of brain, visual behavior analysis, visual functions, MRI in VI children
+
+Children with CVI are not always visually impaired, according
+to the WHO definition (visual acuity < 6/18). Children with CVI
+may have a better visual acuity (mildly impaired 6/12 to 6/18
+or even better). CVI is often caused by HIE (Hypoxic Ischemic
+Encephalopathy), which is found in 6/1,000 life born infants in
+western countries and about 26/1,000 in non-western countries.
+60% of these children have CVI (Fazzi et al., 2007; Solebo et al.,
+2017).
+Another important cause of CVI is congenital anomaly
+of brain as a result of a genetic anomaly. Children with
+congenital anomalies of brain are not always referred to an
+ophthalmologist, therefore the incidence of CVI might be even
+higher. Children with a history of perinatal damage or congenital
+anomaly of brain need examinations specific for CVI because
+they often are not aware of their limitations and a majority
+has no specific ophthalmological complaints (Sakki et al.,
+2021). However, they can have slow eye movements (saccades),
+crowding (the impairment of the ability to recognize objects in
+clutter), and impairment of accommodation or complaints that
+are related to impairment of processing of visual information
+(Bosch et al., 2014b). Children with CVI can also show several
+peculiar behavioral signs; short visual attention span; markedly
+fluctuating visual performances; the need for time, environmental
+stability, and repetition of items to obtain the best response
+(Fazzi et al., 2007).
+Demarcation of content: In the developing process of the
+guidelines a clear definition and description of the patient
+group was necessary. The group in this study contains children
+between 0 and 18 years with CVI caused by various diseases,
+manifesting with various complaints and function deficits.
+Often co-morbidity is found. After the decision to study five
+topics the authors have chosen for a practical approach; firstly,
+articles were selected where the abbreviation CVI was used.
+Articles about impairment of visual functions may therefore
+not always have been included and the abbreviation CVI
+may have been defined differently in different articles. Five
+topics have been selected to focus upon, following a bottleneck
+analysis by the involved national professional associations:
+The Dutch ophthalmological organization, the organization
+of clinical geneticist, neonatologists, neurologists, radiologists,
+rehabilitation physicians, physicians for multiple impaired and
+youth healthcare physicians, the society for child and hospital and
+the society for patients with visual impairment.
+The five topics are also mentioned by McConnell et al. (2021)
+who described the assessments currently used to investigate
+and diagnose CVI. According to Mc Connell, there is a lack
+of common practice in the approaches used by clinicians to
+
+INTRODUCTION
+Cerebral visual impairment (CVI) has been defined as a verifiable
+visual dysfunction which cannot be attributed to disorders of the
+anterior visual pathways or any potentially co-occurring ocular
+impairment (Sakki et al., 2018). CVI is caused by abnormalities
+in the retro-geniculate system and not by pathology of the eye,
+however, CVI can occur together with pathology of the eye for
+instance in retinopathy of prematurity (ROP). CVI greatly affects
+development in all its aspects (Boonstra et al., 2012; Ego et al.,
+2015) and therefore, diagnosing CVI in early life is essential to
+enable early and tailor made interventions (Fazzi et al., 2009).
+Because there is a need for clear guidelines, to structure the
+diagnostic procedure in this heterogeneous group, we describe
+the guidelines for diagnosis and referral of CVI based on five
+literature searches.
+Cerebral visual impairment is the most common cause of
+visual impairment in children in western countries. Perinatal
+hypoxic-ischemic damage is the most frequent cause of CVI, but
+the etiology is variable. Hypoxic Ischemic Injury (HII) is the most
+common cause of CVI 60% of the children with HII also has CVI
+(Cioni et al., 1996; Good et al., 2001; Fazzi et al., 2007; Solebo
+et al., 2017; Sakki et al., 2018). Another important cause of CVI is
+developmental anomaly of brain (genetic).
+Problems with processing of visual information and or
+integration of visual information are symptoms of higher order
+visual functions (Good et al., 2001; Fazzi et al., 2007; Philip and
+Dutton, 2014). In children with these impairments, a relatively
+good visual acuity can be found.
+In ophthalmological examination associated ocular and
+oculomotor deficits can be found such as strabismus, nystagmus,
+motility disorders of the eye, delay in saccades, pallor of the optic
+nerve and visual field abnormalities. In CVI retro-geniculate
+damage results in ganglion cell layer thinning due to retrograde
+trans-synaptic degeneration (RTSD) (Jacobson and Dutton, 2000;
+Hoyt, 2003; Khetpal and Donahue, 2007; Bosch et al., 2014b;
+Jacobson et al., 2019). In CVI these ocular and oculomotor
+deficits are often found in both eyes and sometimes show
+the same outcome in right and left eye. In addition, a clear
+clinical picture can be found as a result of damage or congenital
+abnormalities in different stages of the development of the visual
+system:
+• Congenital abnormalities of brain and deviations in
+brain development.
+• Perinatal damage.
+• Postnatal damage.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+2
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 3]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+investigate and diagnose CVI in children. At present, a “diagnosis
+of exclusion” remains the most common means to diagnose CVI.
+Therefore development of clinical guidelines for assessment and
+diagnosis are necessary to ensure consistency in the diagnosis of
+CVI and the timely implementation of support to alleviate the
+impact of CVI on the child’s daily living. The aim of this study is
+to develop guidelines for diagnosis and referral in CVI according
+to the grade method.
+
+1 What is the prognostic value of MRI in children with a risk
+on CVI?
+2 In children with deviant viewing behavior that have been
+referred because of suspected CVI, what is the role of MRI
+in the differential diagnosis of CVI.
+Several anomalies of brain can be found in CVI. Such as
+embryological deviations (Encephalocele, holoprosencephalies)
+cortical developmental malformations (occipital lissencephaly,
+pachygyria, polymicrogyria, and schizencephaly) periventricular
+leukomalacia (PVL), periventricular and intraventricular
+hemorrhages, neonatal encephalopathy, or cerebral ischemia
+after the perinatal period (Hoyt and Taylor, 2017).
+These congenital malformations of the brain can result in
+damage to the visual pathways. In preterm born babies a lack
+of oxygen results in white matter damage, while full term born
+babies are at risk for gray matter damage (cortex). Cerebral
+damage can result in a large range of CVIs varying from
+hardly noticeable visual field impairment to severe visual field
+impairment and even blindness. Individuals with CVI exhibit
+a wide range of visual deficits and, in particular, present with
+impairments of higher order visual spatial processing (referred
+to as “dorsal stream dysfunction”) as well as object recognition
+(associated with processing along the ventral stream; Bennett
+et al., 2020). The value of neuroradiological imaging is not yet
+clearly defined in this group of patients. Guidance is warranted
+for the application of neuroradiological examination in this
+population and its role in the diagnosis CVI. Because of the
+radiation burden from CT-scans in childhood (Pearce et al., 2012)
+and the fact that ultrasound is not possible after the age of 1 year
+this chapter focusses on MRI (McGuirt, 2016).
+
+The topics:
+1 Medical history and CVI- questionnaires.
+2 Ophthalmological and orthoptic assessments in CVI.
+3 Neuropsychological assessment.
+4 Neuroradiological evaluation and MRI.
+5 Genetics assessment.
+
+Medical History and Cerebral Visual
+Impairment-Questionnaires
+In general, children with CVI enter the diagnostic circuit in three
+ways:
+1 Parents worry about the visual functioning of their child.
+2 Children with an increased risk on CVI, without a specific
+question of the parents. In this group, active screening is
+necessary using a CVI questionnaire.
+3 Children with an intellectual disability or syndrome who
+can be screened on visual functioning.
+
+Ophthalmological and Orthoptic
+Assessments in Cerebral Visual
+Impairment
+If children with possible visual impairment or deviations of
+visual behavior, are referred to an ophthalmologist a series of test
+possibilities are available. We aimed to identify which tests are
+relevant for the diagnosis CVI.
+
+Genetic Assessment
+Traditionally, CVI was seen as a result of perinatal damage.
+Nowadays, it is clear that CVI can also be caused by several
+genetic disorders (Bosch et al., 2014b,a; Hoyt and Taylor, 2017).
+This recent knowledge, however, is not yet well known by
+professionals. Therefore, CVI is often still defined as a result of
+perinatal damage and children with CVI as a result of a genetic
+disorder might not receive the correct visual rehabilitation
+interventions. This search question aimed to investigate in which
+genetic disorders an investigation for CVI is warranted.
+
+Neuropsychological Assessment
+If the history or the ophthalmological and orthoptic or
+psychological examination shows indications for disorders
+in visual information processing and when ophthalmological
+findings provide insufficient explanation neuropsychological
+assessment can be useful to aid the diagnosis.
+Although it is recommended to perform a neuropsychological
+assessment in children with possible CVI (Fazzi et al., 2009; Boot
+et al., 2010; Ortibus E. L. et al., 2011), there is no consensus in
+terms of a diagnostic protocol. Therefore, professionals have no
+reference for the appropriate age, domains of functioning and
+tests to include in the assessment.
+
+GENERAL METHODS (ALL TOPICS)
+To formulate the guidelines according to the GRADE method,
+searches for five topics on CVI (children, developmental
+age ≤ 18 years) were performed in the databases Medline,
+Embase and Psych info.
+
+Neuroradiological Evaluation and
+Magnetic Resonance Imaging
+
+AGREE and GRADE
+The guidelines were formulated according to the AGREE II
+method (Appraisal of Guidelines for Research & Evaluation
+II; Brouwers et al., 2010). This is a well-structured method
+which commences with a bottleneck analysis: With the different
+disciplines involved priority was given to specific topics based
+
+Imaging is part of the diagnostic possibilities in CVI.
+Neuroradiological imaging in children with CVI could be
+applied to make an inventory of the damage of those parts of the
+brain that are concerned in visual processing.
+In this question we can define two sub questions:
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+3
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 4]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+on medical and organizational arguments. This was followed by
+a discussion on the concepts of search questions. Together this
+emerges into final search questions. The searches were performed
+for systematic reviews, SIGN, Medline, and with specific key
+words for each search question in Medline, Embase, Psych info.
+The guideline research group selected relevant articles, based on
+the pre-defined selection criteria. The articles selected were used
+to answer the search questions for each search topic.
+For quality criteria of the different studies, we used
+instruments to reduce the risk of bias as recommended by
+the Cochrane Collaboration: AMSTAR for systematic reviews,
+Cochrane for randomized controlled research trials, ACROBATNRS for observational research; QUADAS II, for diagnostic
+Research. The relevant results of the articles were described in
+evidence tables (Supplementary Appendix). The most important
+results from literature were summarized in the literature
+summary of each search. If sufficient studies were available, a
+quantitative summary (meta-analysis) was given. For the rating
+of diagnostic tests or etiology or prognostic value, the GRADE
+ranking was used (Grading Recommendations Assessment,
+Development and Evaluation1 ). In GRADE, four levels of
+evidence of scientific prove are described: High, Moderate, Low
+and very low, with the starting aim at high with downgrading
+for the risk of bias, inconsistency, indirectness, imprecision, and
+publication bias.
+Levels of evidence referring to the amount of evidence based
+on the outcome of literature (Guyatt et al., 2008) are:
+
+Search, General Inclusion Criteria (All
+Topics)
+The searches were performed in March-July 2017 and in
+December 2021 for publications dealing with etiology, risk
+factors and clinical history elements of CVI in Medline
+(OVID) and Embase2 using relevant terms and in the topic on
+neuropsychological assessment Psych Info was used because of
+the content. The searches have been carried out by a clinical
+librarian of the Dutch Institute for Medical Specialists and
+the clinical librarian of the Radboud Medical center. Inclusion
+criteria were:
+- Systematic reviews.
+- Randomized controlled trials.
+- Cohort studies and case series with more than five patients,
+no case reports were included.
+- Written in English.
+- Age of the children ranging from 0 to 18 years
+developmental age.
+- Diagnosed with CVI as defined in the introduction.
+- Start of outcome population according to the definition of
+CVI in the introduction and published in peer reviewed
+Journals.
+- Population start and end outcome: according to the
+CVI definition in the introduction. Studies with an
+unclear metabolic disorder or without DNA diagnosis were
+excluded. CVI was due to etiological conditions occurring
+between ages 2 and 12 years, because all causes of damage
+during development of the visual system can cause CVI.
+Articles dealing with acquired brain injury which was
+caused after the age of 12 years, which means after major
+development of the visual system, were excluded as well
+as those describing functional visual disturbance. Acquired
+brain injury studies with etiology between 3 and 12 years
+(during the major development of the visual system) and
+published in peer-reviewed journals were included. Studies
+on learning and behavioral problems were excluded in all
+topics but topic 3 (neuropsychological assessment).
+
+• Very low: the true effect is probably markedly different from
+the estimated effect.
+• Low; the true effect might be markedly different from the
+estimated effect.
+• Moderate; the authors believe that the true effect is probably
+close to the estimated effect.
+• High; the authors have a lot of confidence that the true effect
+is similar to the estimated effect.
+The outcome of the searches was assessed by two authors
+for each search, in a predefined procedure; Each author selected
+relevant articles if there was a large difference in selection, the
+articles were selected with the help of a third independent person.
+
+In this study the excluded literature is not mentioned in the
+references. The exclusion tables for this study can be requested.
+
+PICO
+
+Topics
+
+In order to define the systematic search, the characteristics of the
+research questions were defined in a PICO.
+Definitions were used as mentioned in the different articles.
+PICO stands for:
+
+Based on evidence, articles were selected on the five topics
+mentioned in the introduction a control or comparison was
+mentioned if applicable.
+The search outcome of each topic was screened and selected by
+two authors. In case of conflicting outcome a third independent
+person, with knowledge of the topic, was involved to decide
+on the selection.
+
+P: Patient group: The specific target group that the research
+question is about.
+I: Intervention: The intervention or test or assessment that
+the research question is about.
+C: Comparison: Alternative to Intervention which is
+applicable to the research question.
+O: Outcome: The desired intervention, assessment or test
+for the research question.
+1
+
+Topic One: Medical History and Questionnaires
+Questions:
+1A How should screening on CVI be performed?
+2
+
+http://www.gradeworkinggroup.org/
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+4
+
+https://www.embase.com
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 5]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+selectively for an ophthalmologic and neuro-radiological and/or
+neuropsychological assessment.
+
+1B Which questionnaires should be used in case of suspected
+CVI? In addition, for which CVI subgroup should the
+questionnaires be applied?
+
+Topic Two: Ophthalmological and Orthoptic
+Assessment
+
+PICO:
+For question 1A: Which elements should be included in the
+clinical history to screen for CVI?
+
+Questions:
+Which are the ophthalmological and orthoptic assessments
+that are required in case of suspected CVI in a general
+hospital?
+Which ophthalmological and orthoptic assessments can be
+performed in academic centers in case of suspected CVI?
+
+P: Patients: Children who possibly have CVI.
+I: Investigation: Medical and perinatal history, congenital
+brain anomalies, developmental delay, and genetic
+diagnosis.
+C: Comparison (control): Children with learning problems
+or behavioral problems and characteristics of delayed
+visual development.
+O: Outcome: Sensitivity and specificity of medical history
+questions for the diagnosis of CVI.
+
+The question is focused on ophthalmologists and orthoptists
+because these two groups of professionals often work together in
+case of complex neuroophthalmological pathology.
+PICO:
+In order to define the systematic search, the characteristics
+were defined in a PICO.
+
+Outcome measures were not defined a priori; the definitions
+mentioned in the studies were used.
+For question 1B: Which questionnaire should be used in case
+the professional has a suspicion of CVI, based on the clinical
+history?
+
+P: Patient: patients with unusual visual behavior who have
+been referred to the ophthalmologist.
+I: Investigation: Ophthalmological and orthoptic
+investigation.
+C: Comparison: O: Outcome: Specificity and sensitivity of tests in CVI.
+
+P: Patients with unusual visual behavior, problems with
+visual orientation, fixation problems, slow vision (delayed
+reactions on visual stimuli), predominance of sound
+over vision, problems with visual selection, crowding
+difficulties, visual field preference, visual attention, and
+object recognition.
+I: Investigation: CVI screening questionnaires.
+C: Comparison: O: Outcome: Sensitivity/Specificity, clinometric aspects.
+
+Definitions were used as mentioned in the different articles.
+Search and selection:
+In Medline, a search was performed in April 2017 and
+December 2021, using relevant search terms to select
+studies about ophthalmological and orthoptic assessment
+in a peripheral hospital setting. Selected were 816 articles.
+Studies were selected based on the criteria mentioned in
+general methods.
+
+Clinometric properties such as sensitivity, specificity and
+diagnostic value were deemed critical outcome measures.
+Search and selection:
+A search was performed for publications dealing with etiology,
+risk factors and clinical history elements of CVI in Medline
+(OVID) and Embase (see text footnote 2) using relevant
+terms. The search string is shown below (Supplementary
+Appendix Figure A).
+Studies were selected based on the criteria mentioned in
+general methods.
+The search resulted in 1,007 articles. Articles dealing with
+acquired brain injury after the age of 12 years were excluded as
+well as those describing functional visual disturbance.
+Based on title and abstract review, 75 articles were
+selected. Of those, for Question 1A, 14 articles were withheld
+(Supplementary Appendix Table 1A). For Question 1B 9 studies
+were included for analysis (Supplementary Appendix Table 1B).
+To prepare the search on clinical history and questionnaires,
+we first classified groups at risk for CVI by obtaining the
+clinical history, because based on this selection, caretakers
+and professionals can be alert on the risk of CVI. Secondly,
+the use of questionnaires is studied. Are there questionnaires
+that can be used as an instrument to screen on CVI? For
+which groups are these questionnaires applicable? Based on
+the outcome of a questionnaire the children could be referred
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Question 2A and B: Based on title and abstract at first 83
+studies were selected of which 27 studies were excluded
+(other topic or small group) and after full text reading 19
+studies were excluded and 37 studies remained included.
+Outcomes of these (A:16; B:21) searches have been included
+in the literature analysis. The most important study
+characteristics and results are represented in the evidence
+table (Supplementary Appendix Tables 2A, 2B).
+
+Topic Three: Neuropsychological Assessment
+In order to apply neuropsychological assessment in children in
+CVI appropriately and in a functional way it has to be clear:
+1 Which aspects of visual attention and visual perceptive
+functions have to be examined?
+2 Which neuropsychological tests are available for this
+assessment?
+3 Which test outcome is relevant for the diagnosis CVI?
+4 When abnormal test results do not support a CVI diagnosis (i.e., differential diagnosis)?
+Transparency about the content of a neuropsychological
+examination can add to an efficacious diagnostic procedure in
+CVI and appropriate and timely referral and rehabilitation.
+
+5
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 6]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+To define the search question a systematic literature analysis is
+performed for the following question.
+Two PICO’s have been defined:
+First PICO:
+
+Question 3: Which neuropsychological tests can be used in
+the neuropsychological assessment of children with CVI?
+To define the search question a systematic literature analysis is
+performed for the following question.
+
+P: Patients: Children with a risk of CVI.
+I: Investigation: MRI examination.
+C: Comparison (control): Other ways to diagnose CVI.
+O: Outcome: Prognostic value of MRI for the diagnosis
+CVI.
+
+P: Patients: Children suspected of having CVI.
+I: Investigation: Neuropsychological test.
+C: Comparison (control): No tests or other tests.
+O: Outcome: Diagnostic value and accuracy.
+
+Second PICO:
+
+Search and selection:
+
+P: Patient: Children with suspected CVI.
+I: Investigation: MRI examination.
+C: Comparison (control): Children without CVI with
+MRI or other imaging methods that are also used to
+investigate CVI.
+O: Outcome: MRI findings that are compatible with
+the diagnosis CVI.
+
+In the databases Medline (OVID), Psych INFO (OVID)
+were searched in June 2017 and December 2021 using
+relevant search terms for neuropsychological assessment in
+the context of CVI diagnostics. For this search Psych Info
+was used because of the content (neuropsychological
+tests). The search resulted in 716 hits. The search string
+is shown below (Supplementary Appendix Figure C).
+Studies were selected based on the criteria mentioned in
+general methods. Based on title and abstract 29 studies were
+initially selected (Supplementary Appendix Table 3). After
+full text reading 24 studies were excluded and 5 studies
+were included. Studies on acquired brain injury in older
+children and studies on functional visual impairment (i.e.,
+conversion disorder) were excluded. Studies on learningor behavioral disorders were not excluded in order to
+include qualitative good comparison studies. The most
+important study characteristics and results are mentioned
+in the evidence table (Supplementary Appendix Table 3).
+Quality assessment of the reviews included in the topics
+is shown in Supplementary Appendix Table 6 of quality
+assessment for systematic reviews of diagnostic studies.
+
+Search and selection:
+In Medline (via OVID) and Embase (via see text footnote 2)
+in May 2017 and December 2021 with relevant search terms
+(Supplementary Appendix Figure D) a search has been
+performed on neuroradiological evaluation and MRI in
+CVI. The search resulted in 723 hits. Studies were selected
+on the criteria mentioned in general methods. Studies on
+acquired damage to the brain such as traumatic brain injury
+and stroke in children older than 12 years and studies on
+functional visual impairments were excluded.
+Based on title and abstract 57 studies were selected.
+After full text reading 48 studies were excluded 9 studies
+were selected. The study characteristics are shown in the
+evidence table (Supplementary Appendix Table 4).
+
+Reference test: A reference tests is not yet applicable, as a result
+of the recent start of diagnostics in CVI in this topic.
+A CVI-diagnosis is currently obtained by clinical decision
+making. In this search, CVI is defined the way it has been defined
+by the authors of the articles.
+Relevant outcome measures:
+
+Topic Five: Genetic Assessment
+Question:
+Question 5A: What is the position of genetic investigations
+in obtaining the diagnosis in children in CVI? Is a genetic
+investigation necessary to obtain the diagnosis of CVI in
+children?
+
+Reliability, sensitivity, and specificity were used as critical
+outcome measures by the project group. Outcome measures
+were not defined a priori, the definitions found in the
+studies were used as outcome measures.
+
+To define the search question a systematic literature analysis
+is performed for the following question; Does CVI co-exist in the
+following genetic disorder?
+PICO:
+Does CVI co-exist in the following genetic disorder?
+
+Topic Four: Neuro-Radiological Evaluation and
+Magnetic Resonance Imaging
+Question:
+
+P: Patients: children with a developmental age of 18 years or
+younger.
+I: Investigation: A genetic disorder is found.
+C: Comparison: Genetic disorder is not found.
+O: Outcome: Children with a genetic disorder and CVI.
+
+Question 4A: How can neuro-radiological examination
+(imaging) be used to obtain the diagnosis of CVI in
+children?
+Question 4B: Is neuro-radiological examination necessary
+to obtain a diagnosis of CVI?
+
+Search and selection:
+
+MRI examination is chosen because it is the gold standard for
+children (Sie et al., 2005; Pearce et al., 2012).
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+In the databases Medline (OVID), Embase (see text
+footnote 2) in July 2017 a search is performed with relevant
+
+6
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 7]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+search terms for the presence of CVI in genetic diseases.
+Studies were selected based on the criteria mentioned in
+general methods; the period for this the search (from 2000)
+is chosen because of the technical developments in genetics
+after 2000. The search resulted in 458 hits. Based on title and
+abstract at first 71 studies were selected of which 68 studies
+were excluded (case reports and small groups) two studies
+were selected from the search of another topic, topic two.
+Five studies were selected. The studies are mainly focused
+on CVI as part of a genetic disease. Five research outcomes
+were included in the literature analysis. The most important
+characteristics and results are mentioned in the evidence
+table (Supplementary Appendix Table 5).
+
+RESULTS
+Topic One: Medical History and Cerebral
+Visual Impairment
+Question 1A: How should screening on CVI be performed?
+In this search we focused on medical history.
+The studies found could be grouped into three categories
+(Supplementary Appendix Table 1A):
+1 Prenatal causes; Articles dealing with Genetic causes of CVI
+(congenital malformation of cerebral development; Khan
+et al., 2007).
+2 Perinatal causes and those describing the consequences
+of pre or perinatal damage and perinatal complications
+(Solebo et al., 2017), medication during pregnancy
+(Hamilton et al., 2010; Nadeem et al., 2015) infection during
+pregnancy (Coats et al., 2000) neonatal hypoglycemia
+(Yalnizoglu et al., 2007) and studies reporting on postnatal
+conditions with anoxia or anemia of brain.
+3 Postnatal causes; Cranio-cerebral trauma (Poggi et al.,
+2000), Apparent Life Threatening Event, surgery of the
+heart with complications (Shen et al., 2009; Bean Jaworski
+et al., 2018) infections like meningitis (Chaudhary and
+Sharma, 2012).
+
+Relevant outcome measure:
+The authors selected the presence of CVI in children
+with a genetic disorder a relevant critical outcome
+measure for inclusion.
+The authors did not define the outcome measures a priori
+but used the definitions in the studies included.
+
+DISCUSSION AND ORGANIZATION OF
+CARE
+
+Twelve studies were found mentioning risk factors for
+CVI (see Supplementary Appendix Table 1A): Drugs or
+medicine in utero, intrauterine infections (Cytomegalovirus,
+CMV), premature delivery/low birth weight, perinatal anoxia,
+LOW APGAR score, emergency cesarean section, neonatal
+hydrocephalus, genetic abnormalities, metabolic conditions,
+cerebral hemorrhages, cerebral infarctions, PVL, intracranial
+cysts, brain tumors, meningitis or encephalitis, diabetic coma,
+West syndrome, infantile spasms, and intellectual disability
+(Wong, 1991; Chen et al., 1992; Houliston et al., 1999; Huo
+et al., 1999; Shah et al., 2006; Khetpal and Donahue, 2007;
+Ortibus et al., 2009; van Genderen et al., 2012; Macintyre Be on et al., 2013; Bosch et al., 2014b; Geldof et al., 2015). By
+Ventura et al. (2017) a cross-sectional study was performed
+in 32 children with Congenital Zika Syndrome (CZS). Visual
+impairment was detected in all 32 infants with CZS (100%).
+Retinal and/or optic nerve findings were observed in 14 patients
+(44%). There was no statistical difference between the patients
+with ocular findings and those without in neurological and
+neuroimaging abnormalities (P = 0.180). All patients (100%)
+demonstrated these abnormalities; 3 (9%) presented with late onset of microcephaly. Henderson et al. (2021) characterized
+visual pathway abnormalities in 105 infants with CZS using
+Computed Tomography and Magnetic Resonance Imaging
+(MRI). Overall, 70 of 74 (95%) scans showed occipital volume
+loss, whereas 9 (12%) showed optic nerve atrophy, 3 (4%) showed
+chiasmal atrophy, and 1 (1%) showed an ocular calcification.
+
+A general overview of recommendations is given and an overview
+of the organization of the diagnostic process for a child with
+possibility of the diagnosis CVI is given.
+This overview is based on the searches in all topics.
+Organizational consequences of the outcome of the different
+topics are discussed. Based on the results of the 5 topics,
+the project group made an inventory of relevant outcome
+measures for each search question. The project group contained
+ophthalmologists, a neuropsychologist, a neurologist, a geneticist
+and a clinical librarian of the Dutch organization of medical
+specialists. The authors of this study form a subgroup of
+the project group.
+Outcome measures were rated according to their relative
+importance in recommendations: essential, important
+(but not essential) and unimportant. The project group
+prioritized the essential outcome measures based on
+clinical relevance. This relevance was based on the
+experience of the project group members and if necessary
+other
+specialisms
+were
+consulted
+(neuroradiologist,
+neonatologist, clinical physicist, child physiotherapist, a
+representative of child and hospital, a representative of
+patient association).
+After this the project group members approached authors
+in European countries to make an inventory of organizational
+possibilities for the diagnostics and referral in CVI. Information
+was gathered from specialized centers in the United Kingdom,
+Denmark, Iceland, Norway and Finland, Ireland and Italy
+on the registration of risk groups (for instance CP and comorbidity) and on epidemiology of CVI and the diagnostic
+approach in CVI.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Question 1B:Which questionnaire should be used in case
+the professional has a suspicion of CVI, based on the clinical
+history?
+
+7
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 8]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+correlation remains the same (0.98). The reliability of the
+question they changed is 0.968. By Gorrie et al. (2019) two
+questionnaire’s validities are studied five questions- sensitivity
+(81.7%) and specificity (87.2%; ii) CVI questionnaire- sensitivity
+(96.2%) and specificity-(61.5%).
+
+Following the same procedure as for the first question, nine
+studies were selected (Supplementary Appendix Table 1B)
+Below we list the questionnaires from these nine studies.
+• The PREVIAS (Preverbal Visual Assessment) for 0–
+24 months (Supplementary Appendix Table 1B) 30
+questions in four domains.
+• The Scottish Question inventory: Macintyre- Beon
+questionnaire (Macintyre-Beon et al., 2012).
+• The Flemish questionnaire; 46 questions on six domains
+(Ortibus E. et al., 2011).
+• Salavati (Salavati et al., 2017); the CVI motor questionnaire.
+• The Express questionnaire: To identify CVI in children
+born extremely preterm (Hellgren et al., 2020).
+• Gorrie (Gorrie et al., 2019): Two questionnaires: the CVI
+questionnaire (Zihl) and Five questions, derived from the
+50 items of the Macintyre-Beon questionnaire as was the
+HVFQ51 (Higher Visual Function Deficits in Children
+With CVI) questionnaire (Chandna et al., 2021b).
+• The PQCVI (Parental Questionnaire for children with CVI)
+for children younger than 72 months (Moon et al., 2021).
+• The Structured Clinical Question Inventory (SCQI; Philip
+et al., 2016), based on the questionnaires of Dutton and
+Houliston (Houliston et al., 1999; Dutton et al., 2010).
+
+Rating in levels of evidence:
+Question 1A:
+The studies found were all cross-sectional studies or smaller
+cohort studies, which were mostly based on retrospective
+analysis. Some studies had a comparative design.
+Question 1B:
+The level of evidence of the PREVIAS is lowered with one level
+because of limits in extrapolation of the data (bias as a result of
+indirectness; Supplementary Appendix Table 1B).
+The level of evidence of the Flemish CVI questionnaire
+(Ortibus E. et al., 2011) has been lowered with one level as
+a result of limits in the design of the study, indistinctness of
+the independent assessment of the index-test and reference
+test. However, recently (Gorrie et al., 2019) published good
+convergent validity, internal consistency and a reliable factor
+structure for 5 questions, derived from the Macyntire Beon
+questionnaire (Macintyre-Beon et al., 2012) and the CVI
+questionnaire. In the list of questionnaires each article
+has been graded.
+Rating in levels of evidence: Rating is related to each paper
+which has been included.
+
+Clinometric properties of the different questionnaires were
+as follows; Specificity: The specificity of the PREVIAS was
+86,5% for visual attention, 89,5% for visual communication
+81,5% for visual-motor coordination and 81,3% for
+visual processing (Garcia-Ormaechea et al., 2014). The
+Flemish CVI questionnaire showed a specificity of 70–
+90% depending on the items included. The motor
+questionnaire showed a specificity of 96% for GMFCS 1–3
+and 98%for GMFCS 4 and 5.
+Sensitivity: the sensitivity of the PREVIAS was 79% for visual
+attention, 64% for visual communication, 77,9% for visual motor
+coordination and 67,5% for visual processing (Garcia-Ormaechea
+et al., 2014). The sensitivity of the Flemish CVI questionnaire was
+0,9 with a sum score of 3.
+The CVI motor questionnaire had a sensitivity of 1 for the
+GMFCS level 1–3 and 97% for the GMFCS level 3–4.
+Accuracy: The accuracy of the PREVIAS was 83% for visual
+attention, 77% for visual communication, 80% for visual motor
+coordination, and 74% for visual processing. The Flemish CVI
+questionnaire showed an accuracy of 79% (Ortibus E. et al., 2011)
+for the L94, based on a selection of seven items. The CVI motor
+questionnaire showed an area under the curve of 99% for GMFCS
+1 and 3 and GMFCS 4 and 5.
+Test –retest reliability: The test-retest reliability was performed
+with the PREVIAS test, and this was 97% for visual attention,
+94% for visual communication, and 98% for visual motor
+coordination and 98% for visual processing.
+For the Macintyre- Beon questionnaire, (Macintyre-Beon
+et al., 2012) no conclusions can be made on the sensitivity,
+specificity or accuracy.
+The (HVFQ1) study is adapted from the Macintyre- Beon’s
+questionnaire. One question has been modified, the intra class
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Question 1A Which elements does the clinical history need to contain to screen
+for CVI?
+Very low
+GRADE
+
+Risks for CVI have been identified from literature with the following
+data.
+Exposure to drugs or medication during pregnancy (in utero),
+infections during pregnancy (in utero), premature birth, very low
+birth weight, deficiency of oxygen during birth, low APGAR scores,
+emergency C-section, neonatal hypoglycemia, reanimation,
+congenital abnormality of brain, microcephaly, hydrocephalus,
+genetic abnormalities, metabolic disorders, cerebral hemorrhage,
+cerebral infarctions, PVL, intracranial cysts, tumors of brain, viral or
+bacterial infections like meningitis or encephalitis, diabetic coma,
+complications during operation, cerebral palsy, hypotonia, epilepsy
+(especially West syndrome, infantile spasm) intellectual disability
+(Wong, 1991; Chen et al., 1992; Houliston et al., 1999; Huo et al.,
+1999; Shah et al., 2006; Khetpal and Donahue, 2007; Ortibus et al.,
+2009; van Genderen et al., 2012; Macintyre-Beon et al., 2013;
+Bosch et al., 2014b; Geldof et al., 2015; Ozturk et al., 2016) .
+
+Moderate
+GRADE
+
+Cortical/ CVI may be the most common cause of blindness
+identified in children with CZS (Ventura et al., 2017). Cortical visual
+impairment related to structural abnormalities of the occipital cortex
+is a cause of visual impairment in children with CZS with normal eye
+examinations (Henderson et al., 2021)
+
+The following items are advised in the patient history in CVI.
+First obtain the medical history:
+- Structured medical history in a child that is seen because
+of doubts on its visual functioning (parents concern about
+visual functioning, or at a regular visit).
+
+8
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 9]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+t/m 5) or developmental delay or traumatic brain injury
+<12 years to an ophthalmologist at 24 months or when the
+structured medical history and/or the questionnaire give
+rise to referral.
+- Apply the CVI questionnaires (according to age category)
+in children that are reviewed due to complications in
+neonatal care, in children with cerebral palsy (GMFCS
+1 t/m 5), developmental delay, traumatic brain injury or
+stroke <12 years.
+- Refer children to an ophthalmologist when the structured
+medical history and/or the questionnaire warrants a referral
+sooner/later.
+
+Question 1B Which questionnaire should be used in case the professional has a
+suspicion of CVI, based on the clinical history?
+Moderate
+GRADE
+
+The preverbal visual assessment (PREVIAS) has a good specificity a
+moderate sensitivity and accuracy for the detection of deviation of
+visual maturation (Lee et al., 2012; Garcia-Ormaechea et al., 2014).
+
+Moderate
+GRADE
+
+PQCVI (Moon et al., 2021; Parental Questionnaire for Children with
+CVI) the Cerebral visual function score and the scores
+corresponding to ventral-stream and dorsal-stream visual functions
+increased with age. The scores rapidly reached 90% of their
+maximum values up to the age of 36 months.
+
+Moderate
+GRADE
+
+The Express questionnaire discriminates well between children born
+extremely preterm and controls (Hellgren et al., 2020).
+
+Moderate
+GRADE
+
+The Flemish CVI questionnaire (Ortibus E. et al., 2011) has a
+moderate accuracy, a good specificity and a moderate sensitivity
+for the detection of (predominantly) ventral stream deficits. Five
+Questions and the Flemish CVI questionnaire have good
+convergent validity, internal consistency and a reliable factor
+structure (Gorrie et al., 2019).
+
+Moderate
+GRADE
+
+The SCQI and the CVI motor questionnaire have not been validated
+with an external reference standard.
+(Macintyre-Beon et al., 2012; Philip et al., 2016; Salavati et al.,
+2017)
+
+Moderate
+GRADE
+
+The HVFQI-51 (Higher Visual Function Deficits in Children with
+Visual Impairments) can detect a range of HVFDs in children with
+CVI with good visual acuity and clearly distinguishes these children
+from typically developing children (Chandna et al., 2021b).
+
+Topic Two: Ophthalmological and
+Orthoptic Examinations in Cerebral
+Visual Impairment
+Questions:
+Two research questions were defined after discussion with
+professionals and caretakers who work with children with CVI:
+Question 2A: Which are the ophthalmological en orthoptic
+assessments that are required in case of suspected CVI by
+ophthalmologist and orthoptist in a general hospital?
+Question 2B: Which ophthalmological and orthoptic
+assessments in CVI can be performed in academic centers
+in case of suspected CVI?
+Description of literature:
+Question 2A: Description of studies and results
+(Supplementary Appendix Table 2A). In a retrospective
+study, Dutton and Fazzi describe characteristic findings in
+ophthalmological and orthoptic assessments in CVI (Dutton
+et al., 1996; Fazzi et al., 2007, 2012) see Supplementary Appendix
+Table 2A. Fazzi describes lower visual acuity, reduction of
+contrast sensitivity, abnormal optokinetic nystagmus, reduction
+of visual field as well as abnormal fixation, reduction of
+smooth pursuit and saccade quality, strabismus, abnormal eye
+movements, fundus abnormalities, hyperopia, astigmatism,
+and myopia. Lowered contrast sensitivity is also found in CVI
+patients by Mayer et al. (2020) with the DH log10 CS test (a new
+contrast sensitivity test for pediatric patients). More information
+on visual field reduction was provided by Bosch et al. (2014b). In
+children with CVI and low visual acuity hemianopia was found
+in 19%, upper or lower visual field defect in 25% constriction of
+visual field in 56%.
+Tinelli et al. (2020) found a strong correlation between
+brain lesions and visual function total score (global MRI
+score p = 0.000; hemispheric score p = 0.001; and subcortical
+score p = 0.000). Visual acuity, visual field, stereopsis and
+color were compromised when a cortical damage was
+present. Ocular motricity (and in particular fixation and
+saccades) were compromised in presence of subcortical
+brain damage. Hemispheric severity scores were significantly
+higher (corresponding to more severe lesions) in children
+with impaired visual acuity, visual field, stereopsis and color
+perception. Subcortical score means values were significantly
+higher in children with an impairment in all the visual items
+except for nystagmus.
+
+- Pregnancy duration (<37 weeks?) and birth weight (<2,000
+grams?) APGAR Appearance, Pulse, Grimace, Activity and
+Respiration score?
+- Complications
+during
+pregnancy
+such
+as
+infections or medication.
+- Complications after birth (such as hypoglycemia,
+infection) hospitalization (for example cerebral damage by
+complications during operation, cerebral infection).
+- Severe cerebral trauma.
+- Developmental milestones (for example delayed motor
+development or delays in speech, cognition) education
+(regular or special need).
+- Anomalies on neuroimaging (MRI).
+- Genetic diagnosis, if available.
+Second, with regard to the medical history, the questioning
+with regard to the following items are advised when assessing for
+CVI:
+All questionnaires show a relatively moderate or good
+sensitivity or specificity, however, for screening all children this
+is too low, because too many false positive and false negative
+outcomes are found. We advise to use the questionnaire only in
+children with a risk on CVI.
+- Use the PREVIAS in children younger than 24 months.
+- Use the Flemish questionnaire (Ortibus E. et al., 2011)
+and the SCQI (Philip et al., 2016) in children of 3
+to 5 years of age.
+- Refer children that are reviewed due to complications
+in neonatal care, children with cerebral palsy (GMFCS 1
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+9
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 10]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+Ruberto et al. (2006) studied OCT and HRT findings in
+CVI and describes characteristic anatomical findings of the
+optic nerve: the optic nerve was smaller, the cup/disk ratio
+larger, the rim smaller and the RNFL thinner in CVI compared
+to typically developing children. Van der Zee and Evenhuis
+(2017), see Supplementary Appendix Table 2A, found more
+crowding deficit in children with CVI compared to typically
+developing children.
+
+Moderate
+GRADE
+
+Ocular motricity (and in particular fixation and saccades) were
+compromised in presence of subcortical brain damage (Tinelli et al.,
+2020).
+
+Very low
+GRADE
+
+Deviation in saccades are found more often in children with CVI.
+Ref (Fazzi et al., 2012; Barsingerhorn et al., 2019).
+Ophthalmological findings that are often found in CVI are
+strabismus (59%), optic atrophy (42%), nystagmus (12%) and
+significant refraction anomalies (20%). Visual functions also are
+deviating in CVI but in 50% of cases, these functions can develop in
+time (Khetpal and Donahue, 2007).
+
+Moderate
+GRADE
+
+In children with CVI optic nerve parameters (OCT, HRT) differ from
+typically developing children (optic disk surface, cup/disk ratio).
+(Ruberto et al., 2006)
+
+Question 2A: Evidence from literature
+For this question only observational cross-sectional studies
+were found, the level of evidence of these studies is low, see
+also Supplementary Appendix Table 2A. In the studies of
+Dutton et al. (1996); Fazzi et al. (2007, 2012), and Saidkasimova
+et al. (2007) there was no control group, for this reason the
+level of evidence is very low. Tanke et al. (2021) described the
+Developmental Eye Movement (DEM) test when assessing for
+CVI. 96 Normally sighted children, 33 visually impaired children
+and 30 children with CVI were compared. It was found that
+children with CVI or VI need significantly more time to read the
+DEM numbers than age-matched controls. Additionally, children
+with CVI needed more time than children with VI to read the
+horizontal DEM, but not the vertical DEM.
+Rating in levels of evidence: Rating is related to each paper
+which has been included.
+
+With OCT retrograde transsynnaptic (RTSD) degeneration can be
+detected (Lennartsson et al., 2021) The ganglion cell thinning
+corresponded with the visual field defects and the extent and
+location of the primary brain damage. The most important sign of
+RTSD was asymmetry of the ganglion cell topography within the
+macular area (Jacobson et al., 2019).
+Low
+GRADE
+
+In children with CVI the full field peritest (FFP) had best reliability
+with 44% “good” scores versus 22% for Goldmann perimetry
+(Portengen et al., 2020).
+
+Question 2A:
+Very low
+GRADE
+
+Children with CVI seem to have a suboptimal visual acuity and a
+lower discrimination speed.
+(Fazzi et al., 2007; Barsingerhorn et al., 2018)
+
+Moderate
+GRADE
+
+Visual acuity, visual field, stereopsis and color were compromised
+when a cortical damage was present (Tinelli et al., 2020).
+
+Low
+GRADE
+
+The ratio between grating visual acuity and crowded visual acuity
+was significantly higher in children with pathology of the eye and/or
+brain damage than in typically developing children A poorer
+crowding ratio is found in children with CVI compared to normally
+sighted (healthy) children. A higher crowding ratio was also found in
+nystagmus and amblyopia (Huurneman et al., 2012; van der Zee
+et al., 2017).
+
+Very low
+GRADE
+
+Children with CVI as a result of cerebral palsy more often seem to
+have reduced contrast sensitivity (Fazzi et al., 2007, 2012).
+
+Low
+GRADE
+
+DH log10 CS test can be used in children diagnosed with ocular
+disorders or CVI, Contrast sensitivity was reduced in CVI.
+Inter-examiner reliability was comparable to that of adults tested
+previously using the same stimuli and methods (Mayer et al., 2020).
+
+Very low
+GRADE
+
+Children with CVI seem to show abnormal optokinetic nystagmus
+more frequently. Strabismus is found more frequently in CVI.
+Abnormal smooth pursuit movements are found more often in CVI
+(Fazzi et al., 2007).
+
+Question 2B: Description of studies
+(Supplementary Appendix Table 2B).
+
+and
+
+in visual acuity (grating acuity). Clarke et al. (1997) used
+flash VEP in 44 children, and Frank et al. (1992) studied 60
+children with pattern VEP with CVI without ocular pathology,
+and based on observations. Good et al. (2012) studied 34
+children with binocular reduced visual acuity and without ocular
+pathology with sweep VEP. By Chang and Borchert (2021)
+visual acuity was assessed clinically in 16 children with CVI
+using a previously published six-level scale of visual behavior.
+Grating acuity was assessed by eye tracking using forced-choice
+preferential looking, this correlated well with clinical visual
+acuity measurement.
+In a systematic review Huurneman et al. (2012) described
+foveal crowding in children with CVI, two studies were included
+(Pike et al., 1994; Jacobson et al., 1996); larger effects of
+crowding were found in CVI than in healthy subjects. Pike et al.
+(1994) studied visual impairment in 42 children with different
+lesions on ultrasound examination at 35 weeks gestational age
+(leukomalacia, large intraventricular hemorrhages, or cerebral
+infarctions). Predictors of the amount of foveal crowding in
+children with CVI were: the type of lesions (ischemic lesions are
+associated with lower visual acuity than hemorrhagic lesions),
+oculomotor deviations (not being able to fixate), the presence of
+nystagmus and low visual acuity. Khetpal and Donahue (2007)
+described the results of ophthalmological examinations in 98
+children with CVI; most important ocular findings in CVI were:
+Exotropia (41%), esotropia (19%), mild optic atrophy (25%),
+nystagmus (21%), severe optic atrophy (17%), amblyopia (12%),
+photophobia (4%), and retinal abnormalities (3%). In a study of
+Sakki et al. (2021) three subgroups of children were described
+with differentiated visual function characteristics on a gradient
+
+results
+
+Cavascan et al. (2014) studied 115 children with CVI
+with sweep VEP. Small inter-ocular differences were found
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Children with CVI frequently show visual field abnormalities.;
+Hemianopia, upper or lower visual field defect, and constriction of
+visual field. Ref (Dutton et al., 1996; Fazzi et al., 2007;
+Saidkasimova et al., 2007; Luckman et al., 2020).
+
+10
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 11]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+(2014) there was no control group, therefore the level of
+evidence was very low.
+Rating in levels of evidence: Rating is related to each paper
+which has been included.
+
+of severity. One group showed selective visual perception and
+visuomotor deficits, the second group showed more severe and
+broader visual perception and visuomotor deficits, and variable
+visual acuity and a third group (B), lower-functioning group
+showed significant visual acuity reduction compared with the
+first group. Significant group differences were found according to
+the visual acuity and Hiding Heidi contrast sensitivity categories,
+with Group B having the lowest scores. The subgrouping method
+provides the first steps in developing a novel classification system
+to underpin future clinical diagnostics and profiling of early onset
+CVI.
+Kooiker et al. (2014) performed eye tracking in children with
+mild oculomotor deviations and children with CVI. A difference
+in reaction time was found between children with CVI and age
+matched controls, children with CVI were significantly slower.
+Lim et al. (2005) used VEP and preferential looking for an
+assessment in 19 children who were born at term with a history of
+cerebral damage before or during birth of hypoxia and evidence
+on MRI for cerebral damage, in a pattern which is typical
+for hypoxic ischemic encephalopathy. Preferential looking (PL)
+acuity showed to be lower than normal for this age for nearly
+all children. Between the first and last measurement the mean
+increased with one octave; this was also found in acuity VEP.
+Howes et al. (2022) investigated whether pattern reversal visual
+evoked potentials (PRVEPs) could predict future visual acuity in
+infants with CVI. It was found that VEPs in young children with
+CVI might have prognostic value regarding future acuity.
+Skoczenski and Good (2004) showed that grating acuity and
+Vernier acuity (the ability to discern two lines that do not fuse but
+run close together) was lowered in children with CVI compared
+to typically developing children. Graphical research showed that
+the Vernier acuity was more diminished than the grating acuity
+and therefore more sensitive in the detection of CVI.
+Watson et al. (2007, 2009) investigated 39 children with CVI
+with sweep VEP (Watson et al., 2009), grating acuity and Vernier
+acuity and preferential looking. Watson and HaegerstromPortnoy (2010) described 33 children with CVI, who were
+followed for 7 years; the Vernier acuity was more comparable to
+the PL test than the acuity VEP. Chandna (Chandna et al., 2021a)
+characterized neural motion processing deficits in children with
+CVI by using steady-state visual evoked potentials (SSVEP0 s)
+in 31 children with CVI and 28 age-matched healthy controls.
+Significant deficits in cerebral processing of relative and rotary
+motion was found but not of absolute motion in children with
+CVI compared with healthy controls. Vernier acuity, in keeping
+with good recognition acuity in both groups, was not different,
+nor were contour-related form responses.
+
+Question 2B:
+
+Question 2B: Evidence from literature
+One systematic review was found in which two small
+observational studies are described that were non-comparative in
+children with CVI with low level of evidence.
+Observational cross-sectional studies were found with
+low level of evidence. In the studies of Clarke et al. (1997),
+Sakai et al. (2002); Salati et al. (2002), Lim et al. (2005);
+Khetpal and Donahue (2007), Watson et al. (2007); Watson
+and Haegerstrom-Portnoy (2010), and Cavascan et al.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Very low
+GRADE
+
+The Flash VEP showed a sensitivity that was 85% of the normal
+VEP in CVI for visual acuity development. The specificity was only
+35%. Ref (Clarke et al., 1997)
+
+Low
+GRADE
+
+In VEP stimulation in CVI an abnormal response was found often,
+especially at the occipital pattern VEP (more than temporo -parietal
+pattern VEP).
+Ref (Frank et al., 1992)
+
+Moderate
+GRADE
+
+A subset of patients with CVI have abnormal visual orienting
+behaviors despite a normal VEP (visuomotor dysfunction; Kelly
+et al., 2021)
+
+Very low
+GRADE
+
+Sweep VEP nearly always deviating from normal controls, only in
+16% of children with CVI a normal (straight) eye position was found.
+In CVI usually strabismus is found as well as motility disorders of the
+eyes.
+Ref (Watson et al., 2007; Watson and Haegerstrom-Portnoy, 2010;
+Cavascan et al., 2014)
+
+Low
+GRADE
+
+A sweep VEP showed lower threshold values for grating acuity and
+contrast sensitivity in children with CVI compared to normal
+matched controls.
+Ref (Sakai et al., 2002; Lim et al., 2005; Good et al., 2012;
+Cavascan et al., 2014)
+
+Low
+GRADE
+
+The Sweep VEP test (Vernier acuity) is useful for prediction of
+behavioral visual acuity.
+Ref (Watson and Haegerstrom-Portnoy, 2010)
+
+Low
+GRADE
+
+Grating acuity and vernier acuity was lower in children with CVI than
+in healthy controls. In a graph vernier acuity was more reduced than
+grating acuity. Ref (Skoczenski and Good, 2004)
+Difference between VEP and Preferential Looking Test is higher in
+CVI than in normally sighted subjects (Raja et al., 2021).
+
+Low
+Grade
+
+With pattern reversal VEP a rough prediction can be made of future
+visual acuity (Howes et al., 2022).
+
+Low
+Grade
+
+In the horizontal part of the digital DEM (Developmental Eye
+Movement Test) children with CVI need more time than VI children
+of NS children (Tanke et al., 2021).
+
+Low
+Grade
+
+Vestibular–Ocular Reflexes are commonly impaired in children with
+CVI (Mansukhani et al., 2021).
+
+Very low
+GRADE
+
+Typical motility disorders of the eye in CVI are paroxysmal ocular
+deviations (78%), angle strabismus (86%), and reduced
+coordination of saccades (93%). Orientation in place (spatial; 88%)
+and fixation (84%) were also reduced. A deviant initiation of
+saccades and an abnormally preformed saccades were seen the
+absence of smooth pursuit, abnormal vergence, nystagmus beats
+and fixation instability were seen as well as problems with
+systematic orientation in space. Ref (Salati et al., 2002).
+
+The following items are advised in an examination for CVI in
+an academic or diagnostic center;
+In Italics the tests that are more specific for CVI;
+
+11
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 12]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+Moderate
+GRADE
+
+With Steady-state visual evoked potentials a deficit in processing
+on more complex relative and rotary motion was found in children
+with CVI compared to controls, while in processing absolute
+motion, vernier acuity and contour related form responses no
+differences were found (Chandna et al., 2021a)
+
+Low
+GRADE
+
+By the recording of eye movements with eye tracking it was shown
+that children with CVI reacted significantly slower on visual stimuli
+(cartoons and movies) than age-matched controls (Kooiker et al.,
+2014).
+Eye tracking demonstrates reliability for visual acuity assessment
+and high correlation with clinical assessment of visual acuity in
+pediatric CVI (Chang and Borchert, 2021).
+
+Moderate
+GRADE
+
+Eye tracking in children born very pre-term without apparent White
+and Gray matter damage on MRI: The infants in the preterm group
+had longer response times in detecting color patterns (red-green)
+and motion compared with infants in the comparison group. No
+impairments were detected in oculomotor functions (saccades,
+pursuit, and fixations; Pel et al., 2016).
+
+10 Investigate visual fields with a confrontative measurement
+(Donders method or behavioral method such as Stycar
+balls, the Behavioral Visual Field Testing (BEFIE test), the
+double arc perimetry or equivalent test when standard
+methods could not be performed (Koenraad, 2016).
+11 If possible, depending on the developmental age, make
+a visual field with standard perimetry Goldmann and/or
+automatic perimetry if possible.
+12 Analyze the anterior segment and media with a slit lamp (if
+no data are obtained before).
+13 Obtain refraction in mydriasis (cycloplegia) if no data have
+been obtained before.
+14 Analyze
+the
+optic
+media
+and
+fundus
+by
+ophthalmoscopy in mydriasis.
+15 Make OCT scan of the optic nerve and macula with RNFL
+analysis and Ganglion cell layer (GCL) analysis. In CVI the
+optic nerve can be smaller or a larger excavation is seen
+(Ruberto et al., 2006; Jacobson et al., 2019).
+16 If visual acuity has not been measured adequately, observe
+optokinetic nystagmus.
+17 If visual acuity has not been measured adequately and OCT
+does not provide enough information on the optic nerve,
+consider VEP.
+
+1 Analyze visual behavior, observe characteristic visual
+behavior such as overlooking or avoiding (grasping an
+object while looking the other way, localizing with the
+periphery of the visual field) or problems with recognition,
+orientation, perception of movements and simultaneous
+perception (like overlooking while listening or feeling an
+object) (Porro et al., 1998).
+2 Analyze motility of the eyes included nystagmus, if present,
+analyze eye position (strabismus, if present), fixation,
+saccades, pursuit movements and vergence. If possible,
+apply eye tracking to analyze eye movement disorders.
+3 Analyze head position and torticollis.
+4 Analyze pupil and pupil reflex and anisocoria and RAPD.
+A deviation in pupillary response can be a sign of optic
+nerve problems or pathology of chiasma (Naber et al.,
+2018). Pupillary responses are often normal in CVI even
+if mild bilateral optic atrophy is found. This part of the
+examination is also important in differential diagnosis.
+5 Analyze binocular vision (stereopsis).
+6 Measure visual acuity (matching or verbal test) near and
+at distance (for instance ETDRS, illiterate E, numbers,
+Landolt C, LH charts) and measure the crowding ratio at
+near binocular (Huurneman et al., 2012) and if possible,
+also monocular. A crowding ratio of 1 is found in typically
+developing children of about 7 years old, which means
+that there is no crowding deficit after 7 years. In visually
+impaired children and children with CVI, this reduction of
+crowding was not found.
+7 If visual acuity measurement at distance is not found or if it
+is not possible, try to measure visual acuity non-verbally for
+each eye and for both eyes for instance with Teller Acuity
+Cards (TAC) or Cardiff Acuity Test.
+8 Measure the contrast sensitivity verbally or non-verbally.
+For instance, with Vistech or Hiding Heidi in younger
+children, monocular and binocular. A reduced contrast
+sensitivity can be found in CVI.
+9 Measure accommodation with dynamic skiascopy or
+another measurement method.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+All items are meant to investigate CVI; deviations in fixation,
+saccades, accommodation, crowding ratio at near, visual field,
+and optic nerve are of specific importance for CVI.
+Besides the ophthalmological and orthoptic examination
+as performed in academic centers there are two
+important issues for CVI.
+1 Multidisciplinary cooperation is necessary. The
+multidisciplinary team for CVI diagnostics should
+minimally contain a pediatric ophthalmologist, pediatric
+neurologist, orthoptist or optometrist, neuropsychologist.
+After ophthalmological and orthoptic examination
+the ophthalmologist should organize multidisciplinary
+meetings to discuss the results and the possibilities
+for further assessments, if necessary. For instance, the
+ophthalmologist should discuss with the neurologist (or
+pediatrician with specialization in neurology) referral
+criteria if a neurological diagnosis is suspected or a
+neurodegenerative diagnosis is in the differential diagnosis.
+2 The academic (pediatric) ophthalmologist can refer the
+child to a rehabilitation center or a specialized center or
+school for visually impaired children if there is evidence of
+CVI and the etiology is clear.
+
+Topic Three: Neuropsychological
+Assessment
+Questions:
+Question 3: Which neuropsychological tests can be used in
+the neuropsychological examination of children with CVI?
+Question 3: Description of studies
+(Supplementary Appendix Table 3).
+
+12
+
+and
+
+results
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 13]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+memory showed poor AUCs 63%, sensitivity 71–73% and
+specificity 45–49%.
+Test-retest reliability is high for the complete MVPT
+in normally developed children and children with learning
+problems (ICCs = 0,63–0,79). For the TVPS, test- retest reliability
+is also high in children with learning problems (ICC = 0.81).
+No ICCs for the DTVP were reported. Internal consistency is
+high for the MVPT (Cronbach’s coefficient α 4–10 years = 0,69–
+0,87 > 11 years: 0,86–0,9). For the TVPS, studies report
+varying internal consistency (low-excellent). The DTVP shows
+a high internal consistency (Cronbach’s α coefficient- 0,8–0,97
+concerning the subtests; 0,93 or higher for the complete test).
+For the CVIT3–6, high correlations were found with tests
+with a strong visual perception component (L94: r = 0.74,
+p < 0.001; SON-R 2.5–7: r = 0.37, p = 0.01) and low
+correlations with other tests (Beery-VMI: r = 0.25, p = 0.09;
+SRS: r = 0–0.26, p = 0.09). Lowest scores were observed for
+children with CVI compared to the other validation groups
+[F(3,44) = 5.1, p = 0.003], supporting its validity. The tool
+specifically measures CVI-related visual perception deficits and
+is not mediated by intellectual abilities or low visual acuity. Good
+test-retest reliability (r = 0.82, p < 0.001, ICC = 0.80) was found
+(Vancleef et al., 2020).
+The most discriminating dimensions between CVI and no
+CVI were Object/picture recognition (r = 0.56), visual spatial
+perception (r = 0.52), visual discrimination and matching
+(r = 0.47), and figure-ground perception (r = 0.39; Ben Itzhak
+et al., 2021b). Gestalt perception was worse in children with CVI
+as compared to visual impaired children with ocular disorders
+(Van der Zee et al., 2019). Children with CVI performed
+extremely weak, i.e., 60% scored below the level of the weakest
+9% of healthy controls.
+Given the lack of evidence for the diagnostic value of
+individual tests for visual perception, an assessment protocol
+could be composed of the neuropsychological subtests as
+indicated by the Delphi study reported by Ben Itzhak and derived
+from the tests MVPT, DTVP, TVPS, L94, Beery VMI, RAKIT-2,
+PJLO, and NEPSY-II.
+• Dimension Object/picture recognition: L94 De Vostask, Visual matching, Line drawings occluded by noise,
+Overlapping line drawings, Unconventional object views,
+RAKIT-2 Figure recognition, Hidden figures, Motion defined form, and Biological motion.
+• Dimension Visual spatial perception: Beery VMI
+Perception, Motor-coordination, visual-motor integration,
+TVPS-3: Visual discrimination, Visual spatial relationships,
+Visual memory, Visual sequential memory, Visual
+figure-ground, Visual closure, L94 De Vos-task, and
+Visual matching.
+• Dimension Visual discrimination and matching: Beery
+VMI Perception, TVPS-3: Visual discrimination, Visual
+spatial relationships, Visual memory, Visual sequential
+memory, Visual figure-ground, Visual closure, L94 De Vostask, Visual matching Overlapping line drawings, RAKIT-2
+Hidden figures, and PJLO.
+• Dimension Figure-ground perception: TVPS-3: Visual
+figure-ground, Form constancy, L94 Line drawings
+
+A systematic review (Auld et al., 2011) describes the
+psychometric properties of assessment instruments for
+visual perception in children with hemiplegia. Because of
+the presence of CVI in a majority of children with cerebral
+palsy (CP)/hemiplegia this article is included in the literature
+analysis. Children with cerebral palsy (CP) often present with
+CVI up to 50% in an overview study by Ego et al. (2015)
+and more than 90% of children with CVI have multiple
+impairments (Khetpal and Donahue, 2007), including severe
+motor and language disorders. Ego described a systematic
+literature review to assess the frequency of visual–perceptual
+impairment and its relationship with patient characteristics.
+The systematic analysis (Auld et al., 2011) found 3 assessment
+instruments that met the inclusion criteria: the Motor Free
+Visual Perception test (MVPT), Test of Visual Perceptual skills
+(TVPS), and the Developmental Test of Visual Perception
+second edition (DTVP-2). For all tests psychometric data are
+available of normative studies, but not of studies with children
+with hemiplegia.
+Vancleef et al. (2020) measured CVI related visual perception
+deficits with the Children’s Visual Impairment Test, 3–
+6 years (CVIT3–6). The CVIT 3–6 is grounded in knowledge
+of visual perception. Reliability was assessed via test-retest
+correlation and intraclass correlation coefficient (ICC) in
+typically developing children, children with CVI, intellectual
+impairment, and simulated impaired vision (validation groups
+n = 59, mean developmental age = 4 year 10 month, 27
+females, 32 males).
+Ben Itzhak et al. (2021b) assessed the clinical records of
+630 children (median age 77 months, interquartile range
+63–98 months) referred to a CVI clinic and evaluated
+the diagnostic value of seven predefined dimensions of
+a visual perceptual schema: visual discrimination and
+matching, object or picture recognition, visual spatial
+perception, figure-ground perception, motion perception,
+visual short-term memory, and scene perception, using
+the combined results of a set of 23 subtests derived from
+the Beery Visual-Motor Integration test (VMI), TVPS,
+L94, Revised Amsterdam Children’s Intelligence Test
+(RAKIT-2), Preschool Judgment of Line Orientation (PJLO),
+Neuropsychological Assessment (NEPSY-II) and several motion
+perception tasks.
+Van der Zee et al. (2019) studied Gestalt perception using
+images of the Kaufman Assessment Battery for children’s subtest
+Gestalt Closure. They analyzed gaze behavior recorded by eye
+tracking of 20 children with CVI.
+
+Results
+Specificity and Sensitivity for CVI were reported for
+the dimensions of the visual perceptive schema of Ben
+Itzhak et al. (2021b). For object/picture recognition, a
+good area under curve (AUC) was found (AUC 83%,
+sensitivity 82%, specificity 69%; fair AUCs were found for
+visual spatial perception 80%, visual discrimination and
+matching 78%, figure-ground perception 73%; sensitivity
+ranging from 75 to 78% and specificity ranging from
+65 to 67%. Motion perception and visual short-term
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+13
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 14]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+- It is therefore advised to select subtests from the reported
+set of tests and adjust the protocol to the age-level and
+mental abilities of the child.
+- In addition the RAKIT-2, PJLO, NEPSY-II, Beery VMI, and
+Motion perception tasks can be used. Neuropsychological
+assessment of disorders in object/picture recognition, visual
+spatial perception, visual discrimination and matching,
+figure-ground perception, and visual organization or
+recognition in visual noise. There is no preferred test based
+on the literature.
+- Also assess other aspects of visual information processing:
+Visual selective attention, visuo-spatial perception (global
+versus local attention).
+- Discrepancies of the neurocognitive profile indicating
+weaknesses of visual information processing within the
+domains of attention, motor, and memory functions.
+
+occluded by noise, Overlapping line drawings, RAKIT-2
+Hidden figures, and Motion defined form.
+Given the wide variety of available subtests, the project group
+advises to adjust assessment protocols to the child’s age-level and
+mental abilities.
+Rating in levels of evidence: Rating is related to each paper
+which has been included.
+Question 3A:
+Low
+GRADE
+
+The Motor-free Visual Perception Test and the Developmental Test
+for Visual Perception seem to have a high internal consistency for
+the complete test (Auld et al., 2011)
+
+Low
+GRADE
+
+Eye tracking for gaze fixation duration and saccades. Children with
+visual impairments due to cerebral damage show weaker Gestalt
+perception and had different looking patterns than children with
+ocular or without visual impairments. Children with CVI and brain
+damage performed significantly worse on the animate items than
+the group without brain damage (Van der Zee et al., 2019)
+To study the selectivity of visual perceptual impairment in children
+with early brain injury, the L94can be administered. It discriminates
+between congenitally disabled children with and without risk for CVI
+(Stiers et al., 2001)
+
+Moderate
+GRADE
+
+The CVIT specifically measures CVI-related visual perception
+deficits and is not mediated by intellectual abilities or low visual
+acuity (Vancleef et al., 2020)
+
+Moderate
+GRADE
+
+The most discriminating dimensions between CVI and no CVI were
+object/picture recognition (r = 0.56), visual spatial perception
+(r = 0.52), visual discrimination and matching (r = 0.47), and
+figure-ground perception (r = 0.39; Ben Itzhak et al., 2021b).
+
+Furthermore the project group recommends to compare test
+results with normative data matched on mental developmental
+age. Verify whether disorders in visual attention and perception
+are associated with the medical history and the limitations
+reported in activity and participation in daily life.
+Discuss symptoms of other developmental disorders and/or
+differential diagnostic considerations with parents and caretakers
+of children suspected of CVI. In very young children and in
+case of doubt of the validity of assessment outcome, consider
+temporally using a “working diagnosis” CVI to provide access
+to care facilities, if needed. Plan follow-up assessment is case
+CVI has been diagnosed or if there are doubts about the exact
+type of dysfunction in visual attention or perception, until a
+developmental age of 12 years, or at least until no change
+in the diagnostic outcome is expected. Discuss the outcome
+of neuropsychological assessment in a multidisciplinary team
+and incorporate the findings in diagnostic decision making and
+follow up trajectory.
+
+Screening and Diagnostic Assessment
+If deficits in visual attention or visual perception are suspected,
+screening of visual perceptive functioning with the Motor-free
+Visual perception test is recommended and can be directive for
+further assessment. Refer for further assessment if test outcomes
+are typical for CVI. Referral can also be considered if MVPT
+results are normal since it does not measure all aspects of visual
+perceptive functioning. Refer for neuropsychological assessment
+for CVI to a specialized center if the neurocognitive profile shows
+discrepancies in disadvantage of the level of visual processing
+(i.e., visual selective attention, visual perception, visual memory,
+or visual processing speed).
+Diagnostic assessment. The following assessment is advised
+in a child with possible CVI. Conduct neuropsychological
+assessment in children suspected of deficits in visual attention
+or visual perception using the following neuropsychological tests
+and principles:
+
+Topic Four: Neuro-Radiological
+Evaluation and Magnetic Resonance
+Imaging
+Questions:
+Question 4A: How can neuro-radiological examination
+(imaging) be used to obtain a diagnosis of CVI in children?
+Question 4B: Is neuro-radiological examination necessary
+to obtain a diagnosis of CVI?
+Description of literature: Question 4 AB: Description of
+studies and results (Supplementary Appendix Table 4).
+In 53 premature babies with PVL a correlation was found
+between the presence and amount of damage to the occipital
+white and gray matter and CVI (Sie et al., 2005). MRI images
+were obtained at a mean age of 20 days after birth and at
+1,5 years Khetpal studied 98 children retrospectively (Khetpal and
+Donahue, 2007) with final diagnosis CVI, in 70% an MRI was
+made of which abnormalities were found in 83%. Lambert et al.
+(1987) included 75 children younger than 6 years with hypoxic
+seizure. CT scan was made in 28 children MRI in two children.
+
+- Assess visual perception with the DTVP, TVPS, L94,
+and CVIT 3–6. Recommendations for a fixed set of
+tests is not supported by evidence. The studies indicate
+several visual-perceptive dimensions that are sensitive to
+CVI, that, however, consist of the combined results of
+neuropsychological tests or subtests.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+14
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 15]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+pathway, connecting the occipital lobe to the temporal lobe and
+involved with orientation, visual memory and recognition of
+faces, shapes, objects, and words; (ii) dorsal stream (occipitoparietal pathway): also called “where” pathway, connecting the
+occipital lobe to the posterior parietal lobe and is responsible
+for subconscious mapping of the visual scene, triggering the
+frontal eye fields to bring about quick eye and head movement
+to the object of regard subserving visual attention movement and
+handling of complex visual scene (Milner and Goodale, 2006) .
+Tinelli et al. (2020) studied 72 children with PVL
+(periventricular leucomalacia), and found a significant
+correlation between brain lesion severity and visual function
+impairment in children with PVL. In a case control study (Pamir
+et al., 2021) compared 12 CVI children (17 years) with 18
+controls (19 years). They studied activation response profiles
+in functionally defined early (i.e., primary visual cortex; area
+V1) and higher order (i.e. middle temporal cortex; area hMT+)
+stages of motion processing. Mean motion coherence threshold
+for CVI participants (44.18% ± 23.3 SD) was significantly higher
+(i.e., indicative of worse performance) compared to controls.
+Specifically, increased motion coherence was associated with an
+increased BOLD signal response in area hMT + for CVI, but not
+for the control group.
+Rating in levels of evidence: Rating is related to each paper
+which has been included.
+
+In these children (all with diagnosis CVI) global atrophy was
+found in 12 children, PVL in 8 children, an infarction of the
+occipital lobe in and mild atrophy of the optic nerve in 6 children
+and watershed area infarction of the parieto-occipital lobe in
+2 children. The 2 children with normal scans had good visual
+outcome. Uggetti et al. (1996) studied 27 premature children
+with cerebral palsy as a result of periventricular leucomalacia, 17
+were diagnosed with CVI. The MRI findings corresponded with
+visual acuity. There was a relation between visual functions and a
+reduction of the peri-trigonal white matter and calcarin atrophy
+contra laterally.
+In a retrospective study 53 schoolchildren were described by
+van Genderen et al. (2012) with good binocular visual acuity
+but with suspected CVI. They were referred to a center for
+rehabilitation. The 30 children with diagnosis CVI (based on
+orthoptic and ophthalmological examination) had an abnormal
+medical history, 21 were born prematurely, 7 had perinatal
+asphyxia two children had trauma capitis, 20 children had
+cerebral palsy and 8 had epileptic seizures. In this group
+abnormalities on MRI were found in 86% of children. In the
+27 children who were not diagnosed with CVI 6 children (25%)
+had an abnormal medical history; prematurity in 4 children,
+hydrocephalus in one child, epileptic seizures in one child.
+Magnetic
+resonance
+imaging
+abnormalities.
+MRI
+abnormalities can also be found in genetic anomalies of brain or
+congenital infections like CZS (CZS) or congenital cytomegaly
+virus (CMV); (Bosch et al., 2014b; Henderson et al., 2021).
+In a review, (Philip et al., 2020) studied the relationship
+between brain structure and CVI in children with Cerebral Palsy.
+Based on the outcome of the search they reported the brain lesion
+on MRI linked to CP and CVI thus grouping the subjects into
+the brain maldevelopment group, the white matter lesion group,
+the gray matter lesion group, or the postnatal lesion group and a
+normal MRI group.
+1 Brain maldevelopment (lesions that occurred in the 1st and
+2nd trimester) accounting for 3% of all brain lesions. In
+this group, spastic subtype of CP was the most common
+presentation (84%, n = 103 subjects).
+2 White matter lesions (those occurring in early 3rd trimester
+or preterm babies) were the most common (83.5%, n = 665
+subjects) classified brain lesion on MRI. Periventricular
+leucomalacia was the most common MRI finding reported
+followed by ventricular dilation, thinning of the corpus
+callosum and gliosis of the occipital area. CVI was reported
+in all the 30 studies, with dorsal stream dysfunction
+described in 9 studies.
+3 Gray matter lesions (occurring in the late 3rd trimester of
+gestation or term) accounted for only 4% of all classified
+brain lesions with spastic CP seen in 103 subjects and
+non-spastic CP in 16 subjects.
+4 The fourth and the least common pattern of brain lesions
+are those that occurred in the post-natal period and
+accounted for 1.0% (n = 8) of all the brain lesions.
+
+Question 4AB:
+In children with CVI, MRI abnormalities were often found related to
+the visual pathways. The abnormalities are not identical. In children
+who have no CVI abnormalities on MRI are found less often.
+(Lambert et al., 1987; Uggetti et al., 1996; Sie et al., 2005; Khetpal
+and Donahue, 2007; van Genderen et al., 2012)
+
+Moderate
+GRADE
+
+Periventricular leucomalacia on MRI was found to have a strong
+association with CVI in all 30 studies. Only 13 (43%) studies
+described dorsal and/ventral stream dysfunction (Philip et al., 2020).
+
+Low
+GRADE
+
+MR imaging showed signs of cortical dysgenesis leading to
+congenital brain malformations such as polymicrogyria consistent
+with a prenatal timing of CNS injury (Ho et al., 2020).
+
+Moderate
+GRADE
+
+CVI participants have a significantly higher mean motion coherence
+threshold (determined using a random dot kinematogram pattern
+simulating optic flow motion) compared to controls. Using
+functional magnetic resonance imaging (fMRI; Pamir et al., 2021).
+
+Moderate
+GRADE
+
+Brain lesion severity strongly correlated with visual function total
+score. Moreover, visual acuity, visual field, stereopsis and color were
+compromised when a cortical damage was present, while ocular
+motricity (and in particular fixation and saccades) were
+compromised in presence of subcortical brain damage (Tinelli et al.,
+2020).
+
+The following steps are advised in a child with possible CVI.
+Always plan a consultation of a pediatric neurologist to
+organize MRI in CVI.
+Discuss the implications of MRI with parents or caretakers
+because of the burden and risk for the child. Also, it is advised
+to relativize the outcome of MRI for the diagnosis CVI.
+
+In 13 of the 30 studies, CVI was further characterized into
+ventral or dorsal stream function or both. (i) Ventral stream
+(occipito-temporal pathway): also called “what” (perceptual)
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Very low
+GRADE
+
+15
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 16]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+are no studies with large populations of persons with
+a specific genetic disorder that have been investigated
+on presence or absence of CVI. Behavioral features of
+CVI are common in children with Down syndrome 38%
+of parents reported CVI symptoms (visual perception
+difficulties; Wilton et al., 2021). Children with Down
+syndrome have significantly lower visual acuity than typically
+developing children at distance and at near that cannot
+be corrected by distant refraction. They often present
+with accommodation deficit, crowding and strabismus
+(de Weger et al., 2021) and need bifocals to correct this
+(de Weger et al., 2019).
+In several case series and reports, CVI was mentioned as
+one of the features. Although these reports are not of sufficient
+quality to include in the guidelines, a table is made of genetic
+diagnosis found if one of the features mentioned was CVI
+(Supplementary Appendix Table 5: Genetic cause found in case
+reports and case series).
+The following remarks must be made:
+
+Consider MRI when there are doubts about CVI, this is
+necessary to exclude other causes of visual impairment. MRI can
+give more information on the etiology of CVI. Structural and
+functional neuroimaging approaches in CVI can help gain insight
+into abnormalities of white matter connectivity and cortical
+activation patterns, respectively (Merabet et al., 2017).
+Discuss the results of MRI or ultrasound (in children younger
+than 1 year old) in CVI in a multidisciplinary team and take the
+considerations of different disciplines into account for diagnostic
+follow up. Potentially, MRI would be the best imaging modality
+to assess neonatal brain damage, but requires infant displacement
+from the neonatal intensive care unit (Sie et al., 2005), the
+additional value of early MRI as compared to cranial ultrasound
+was described previously. It was shown that early MRI can
+detect the precise site and extent of white matter injury at
+an earlier stage and allows a better differentiation of lesions
+than ultrasound.
+In CVI ophthalmological and orthoptic examinations applied
+in academic centers assessment can be accompanied by pediatric,
+neurological, neuropsychological and neuroradiological
+examinations. Therefore, a multidisciplinary CVI team is
+necessary, this team may also function between different
+(specialized) centers.
+
+- Cerebral visual impairment can be co-morbidity, without a
+causal relation, in a child with a genetic disorder.
+- The table does not provide information on frequencies
+of CVI found in this diagnosis and if referral for further
+investigation on CVI is justified.
+- Absence of a genetic disease in the table does not mean
+CVI cannot be found in this disease, because a structural
+examination on specific CVI items is not always performed
+or not mentioned in the title or abstract.
+
+Topic Five: Genetic Assessment
+Questions:
+Question 5 What is the role of the genetic diagnosis in the
+referral of a child for clinical investigation for CVI?
+Description of literature:
+Question 5: Description of studies
+(Supplementary Appendix Table 5).
+
+and
+
+results
+
+DISCUSSION
+
+The evidence from the literature for presence of CVI in
+children with a genetic disease is lowered with two levels
+to “low” as a result of the draw backs in the study design
+and lack of information about the control group and the low
+number of patients.
+Rating in levels of evidence: Rating is related to each paper
+which has been included.
+
+General Discussion and Organization of
+Care in Cerebral Visual Impairment
+Based on the results of the five topics, the project group
+made an inventory of relevant outcome measures for each
+search question. Outcome measures were rated according
+to their relative importance in recommendations: Essential,
+important (but not essential), and unimportant. The project
+group prioritized the essential outcome measures based on
+clinical relevance.
+Next the project group members approached authors
+in European countries in order to make an inventory
+of organizational possibilities for the diagnostics and
+referral in CVI.
+All aspects of the care in order to diagnose and
+refer in CVI such as coordination, communication,
+financial means, human resources, and infrastructure are
+concerned in the start of the care for CVI. Because of
+the diversity in CVI, the care is complex and difficult to
+specify. Explanation of how the diagnosis and referral
+of CVI is organized in different European countries, is
+integrated in this chapter. Organizational and financial
+interferences were signaled and possible solutions described
+(Francke et al., 2008).
+
+Question 5:
+Low
+GRADE
+
+The following genetic disorders seem to be associated with CVI:
+Down syndrome (trisomie 21), 1p36 deletion syndrome, 17p13.3
+deletion syndrome (Miller-Dieker syndrome), 22q13.3 deletion
+syndrome (Phelan-McDermid syndrome), CDG type 1a, complex I
+deficiency, Lissencephaly (gene DCX), Pelizaeus-Merzbacher
+syndrome (gene PLP1), atypical Rett syndrome (gene CDKL5),
+NGLY1, AHDC1, NR2F1, PGAP1and tuberous sclerosis.
+(Bosch et al., 2014a,b, 2016; Wan et al., 2019; Wilton et al., 2021)
+
+In all but five studies, a possible association between CVI and
+a genetic cause was found in case reports or case series. In general
+congenital anomalies of brain can give CVI.
+Research on genetic causes in a CVI population is
+only found in five studies (Bosch et al., 2014a,b, 2016)
+and only in persons with a visual acuity of ≤6/18. There
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+16
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 17]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+results were evaluated, in the group of children diagnosed
+with CVI there was no need for rehabilitation.
+In case of prematurity (Pregnancy < 37 weeks and/or Birth
+weight < 2,000 grams) and/or in case of clear evidence
+for CVI based on the structured medical history or the
+CVI questionnaires, it is important to refer the child to
+an ophthalmologist. Because of the multifactorial cause of
+CVI, it is not possible to formulate clear cut refer criteria
+based on the history or the CVI questionnaires. In Sweden
+1–2% of children with ROP and prematurity (<27 weeks
+and/or <1,500 gram) had CVI and low visual acuity
+(VA < 6/18)(Larsson et al., 2005; Holmström et al., 2014).
+These studies were not included in the search because
+ROP was the primary goal of the study and CVI was
+not mentioned in the abstract. As a result, the search did
+not specifically include CVI and subnormal visual acuity
+is missed. Therefore, it is possible that the mentioned
+numbers are an underestimation. The lower the birth
+weight and the shorter pregnancy duration the higher the
+risk of CVI (Jacobson and Dutton, 2000).
+Although there are just a few studies, the guideline-project
+group is convinced that children with severe prematurity
+should all be screened on CVI.
+A birth weight of 1500 grams or less is classified as
+severe prematurity.
+However, neonatologists (Federatie medisch special is ten,
+2015) advise a follow up for children born after 30 weeks
+and/or birth weight < 1,000 gram.
+
+Topic One: Medical History and Cerebral
+Visual Impairment (Search Question
+1A,B)
+Medical History
+The structured medical history is related to the general categories
+which can be defined for children with risks on CVI as a result of
+congenital anomalies of brain or events pre-peri or postnatal that
+lead to brain damage during cerebral development.
+None of the questionnaires offers sufficient screening in
+all CVI domains or for all age groups. In addition, children
+with behavior or emotional problems have a higher risk on
+false positive results with the current available questionnaires
+(Geldof et al., 2015).
+There are two ways in which children with possible CVI can
+start in the diagnostic chain:
+1 Parents are signaling deviant viewing behavior and are
+consulting a general physician, pediatrician or youth doctor
+or ophthalmologist. In this case a structured medical history
+(and if necessary a questionnaire) can be applied.
+2 Identifying children by a questionnaire by healthcare
+professionals, this can be organized when risk groups are
+defined.
+The use of a questionnaire is recommended, specially in
+high risk groups. A questionnaire provides a semi-structured
+interview about visual acuity and visual behavior. Some
+questionnaires clearly have an added value in screening when
+used during a first visit with a caretaker.
+High risk groups for CVI:
+
+Group II cerebral palsy:
+Children with cerebral palsy are at risk for CVI. Visual
+problems are seen more often in children with spastic
+quadriplegia than in children with spastic diplegia.
+In a review Colver (Colver et al., 2014) described
+visual problems (ocular pathology and CVI) in 35% of
+the children; therefore, ophthalmological examination is
+advised on a regular basis in all the children with cerebral
+palsy. The classification system in cerebral palsy Gross
+Motor functioning Classification System (GMFCS) consists
+of five classes, from 1 (less impaired to 5 most impaired).
+For children with GMFCS 1 t/m 5 screening by a
+questionnaire is proposed.
+Children who incur a cerebral trauma after the age of
+2 years (traumatic or non-traumatic) are at risk for CVI as
+well (Kivlin et al., 2000; Philip and Dutton, 2014). Although
+there are no guidelines for this group, we advise screening
+of visual functions by means of a questionnaire. Depending
+on the type of trauma and the developmental age the
+PREVIAS (preverbal visual assessment) CVI Questionnaire
+(Ortibus E. et al., 2011) or the motor questionnaire (Salavati
+et al., 2017) can be used.
+
+Children with events during brain development; Prenatal;
+Perinatal; Postnatal (Flanagan et al., 2003; Rahi and Cable,
+2003; Hellgren et al., 2016; Hellström et al., 2018; Philip
+et al., 2020); (group I and II) Children with congenital
+anomalies of brain (group II and III).
+Children that are at risk for CVI on a basis of their history
+should have a structured history taken. If there are risk
+factors found, a questionnaire on CVI can be applied.
+A referral at 24 months of age is always indicated for.
+I Children who are included in the follow up group
+for Neonatal Care; prematurity < 30 weeks and/or birth
+weight < 1,000 gram.
+II Children with Cerebral Palsy (GMFCS 1 t/m 5).
+III Children with a developmental delay or TBI
+(traumatic brain injury).
+In these groups, a CVI questionnaire is always indicated.
+Group I pregnancy < 30 weeks and/or birth weight < 1,000
+gram:
+Based on the classification system, which was made for
+research goals, (Geldof et al., 2015) has found 3,8 cases of
+CVI compared to one in the control group, this is 24%
+of children in a group born after 32 weeks of pregnancy
+and/or with a birth weight < 1,500 grams. Based on this
+research it is not possible to define in how many children
+the diagnosis CVI was finally made. At 5 years of age, the
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Group III Developmental delay:
+Children with developmental delay (independent of the
+cause) are at risk for CVI. In 5–20% of these children
+with intellectual disability, CVI and a low visual acuity is
+
+17
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 18]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+E: If available OCT, VEP and Eye tracking are helpful.
+
+found (Warburg, 2001; van Isterdael et al., 2006; Nielsen
+et al., 2007). For this group we advise screening with CVI
+screenings lists and questionnaires.
+Children older than 5 years, where there were previously no
+doubts about visual functioning and without risk factors for
+CVI can still have visual problems. It is therefore important
+for the professional caretaker to take a structured medical
+history and apply the CVI questionnaire when there are
+doubts on visual development.
+Although the Flemish CVI questionnaire shows a good
+AUC curve based on 7 selected items, the questionnaire
+has been studied in relation with a set of object recognition
+items with visual-spatial elements and attention specific
+items (dorsal stream items). In the research population,
+no children with only dorsal stream problems were
+included. The age-range of the included children was
+limited, only children with a developmental age between
+2,75–6,5 years were included. New evidence for this
+questionnaire was published by Gorrie et al. (2019) and
+Ben Itzhak et al. (2020). None of the questionnaires offers
+sufficient screening in all CVI domains or for all age groups.
+
+The outcome of the ophthalmological and orthoptic
+examination can be:
+A: Progressive cause of brain dysfunction; Referral to a
+pediatric neurologist or a specialized pediatrician.
+B: There are doubts about the etiology and/or the diagnosis
+CVI. Refer the child for neurological or genetic assessment.
+C: Cerebral visual impairment is diagnosed or suspected
+with a clear etiological factor (congenital abnormality of
+brain or, perinatal or postnatal brain damage); children can
+be referred to a center for rehabilitation of visual impaired
+or blind people.
+A diagnostic routing should be defined with neurological,
+neuropsychological, and genetic examinations. After this possible
+additional assessments or rehabilitation can be discussed in a
+multidisciplinary meeting with parents and medical specialists.
+The ophthalmologist can coordinate this process and
+is in charge of the diagnostic chain in case of CVI. The
+ophthalmologists can discuss the findings with the different
+professionals (orthoptist, child neurologist, neuropsychologist,
+neuroradiologist, clinical geneticist, child physiotherapist).
+Intensive dialog with a pediatric neurologist is recommended.
+The diagnostic process of CVI is complicated and needs a
+follow up of at least 2 years, depending on the developmental
+age at referral.
+
+Topic Two: Ophthalmological and
+Orthoptic Assessment (Search Question
+2A,B)
+It is important to differentiate CVI from other diagnoses that
+resemble CVI, such as visual impairment by ophthalmological
+causes, delayed visual maturation, optic hypoplasia, congenital
+and acquired deviations of the optic nerve, hereditary retinal
+abnormalities, tumors, or other causes of compression of the
+optic nerve and visual pathways.
+The diagnosis of children with CVI could be accomplished
+in academic or other specialized centers. A major problem
+is that diagnosing CVI is not included in the training of
+ophthalmologists. Another problem is that daily practice in
+ophthalmology is based on quick visits to the ophthalmologist.
+Children with CVI do not fit into this system because several
+assessments are needed. And the different assessments mentioned
+all add to the diagnosis. Priority can be given to the more specific
+tests in CVI in ophthalmological and orthoptic examination in
+this guideline (in italics) regardless of developmental age.
+If an ophthalmologist has doubts about the diagnosis CVI
+and/or about the etiology, the child can be referred to an
+academic center for more specialized ophthalmological and
+orthoptic examinations when one of the following results is found
+in combination with a history that is indicative for possible CVI.
+
+Topic Three: Neuropsychological
+Assessment
+Five neuropsychological tests were found with low to moderate
+evidence for diagnostic accuracy for CVI, the MVPT, DTVP, TVPS,
+L94 and the CVIT 3–6. Based on the psychometric properties,
+the MVPT is preferred for screening of visual perception and
+the DVTP, TVPS, L94 and CVIT 3–6 are preferred in the
+diagnostic assessment of CVI, because its subtests differentiate
+several aspects of visual perception. Also, the use of several other
+neuropsychological (sub)tests have been studied, but evidence
+for the diagnostic value of individual tests is lacking and most
+tests seem involved in multiple visual perceptive dimensions
+(Ben Itzhak et al., 2021b). Since performance differences on the
+DVTP were found between American and Asian children (Chan
+and Chow, 2005; Cheung et al., 2005), adaptation of normative
+data to local populations seems required. In addition, disorders
+in visual organization, in recognition in reduced circumstances
+and recognition in noise are likely typical disorders of visual
+processing in CVI (Stiers et al., 2001).
+The project group advises to estimate the level of mental
+development before assessing visual perception to avoid false
+positive assessment outcome and over-diagnosing CVI (Stiers
+et al., 2001). Follow-up of the neuropsychological assessment
+is recommended until 12 years of age, because of continuous
+cerebral development and subsequent development of perceptive
+visual functioning (Kovacs, 2000; Klaver et al., 2011).
+Despite limited evidence for the reliability and validity of
+neuropsychological tests for the assessment of CVI, it has
+been recommended to assess a wide range of visual perceptive
+
+A: binocular suboptimal visual acuity, pupil and pupil reflex,
+insufficient accommodation and/or a crowding ratio at near
+that is too high for the calendar age without an explanation
+such as amblyopia.
+B: abnormal findings of the optic nerve, such as: partial or
+total pallor, hypoplasia, a too large excavation, without any
+other explanation (such as genetic optic atrophy).
+C: anomaly in saccades (delay) and or fixation (fixation
+area), following movements and or vergence.
+D: visual field defect, reduction of contrast sensitivity.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+18
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 19]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+In situations where there is a strong clinical suspicion for CVI
+the authors recommend to consider MRI. Other causes of CVI,
+where therapy it needed, such as hydrocephalus, hypoglycemic
+damage, intracranial pressure on chiasm or retro chiasmal,
+for instance by a tumor, should be excluded by MRI before
+rehabilitation is started.
+
+functions (Fazzi et al., 2009; Boot et al., 2010; Ortibus E.
+L. et al., 2011). This is also recommended in models for
+neuropsychological assessment of visual processing functions
+derived from clinical practice, indicating assessment of visual
+selective attention, visual-spatial perception, visual identification,
+visuomotor functions, visual (working)memory, and visual
+processing speed (Fazzi et al., 2009; Zuidhoek, 2015; Zuidhoek
+et al., 2015). Furthermore, to indicate CVI, abnormal test results
+should be differentiated from disorders in visual sensory and
+oculomotor functions, executive, attention, memory, mental or
+auditory functioning to indicate CVI. Hence examining the
+existence of such potentially co-occurring dysfunctions could be
+necessary. Disorders in visual organization, recognition in less
+optimal conditions and recognition in visual noise seem typical
+for CVI may guide interpretation of the neuropsychological
+assessment of CVI (Stiers et al., 2001).
+Developmental disorders that could incorporate visual
+perceptive dysfunctions need to be considered during diagnostic
+decision-making. Visual dysfunctions found in children with
+developmental disorders include dysfunctions in visual attention,
+visual processing speed or visual memory (e.g., in ADHD and
+autism spectrum disorder), dysfunctions in visual identification
+(dyslexia) dysfunctions in visual spatial perception, visual-motor
+coordination (developmental coordination disorder). However,
+the comorbidity of CVI and developmental disorders has not
+been studied sufficiently (Grinter et al., 2010). Identified visual
+dysfunctions should therefore be evaluated in a multidisciplinary
+setting. Thereby, neuropsychological assessment can contribute
+to both accurate diagnostic decision-making as well as identifying
+to therapeutic possibilities.
+
+Topic Five: Genetic Assessment
+The authors suggest a case-to-case approach in which the clinical
+geneticist uses an actual literature search on the genetic disorder
+to decide whether screening on CVI in the specific patient is
+justified. If CVI has been described several times or even just
+once if only a few patients are known with the disease, we advise
+referral to an ophthalmologist for structural examination on CVI.
+In a subset of children with CVI, there is no plausible cause
+(Bosch et al., 2014b). These children need to be referred to
+a clinical geneticist. Genetic examination of a small group of
+patients (n = 56) with CVI without a plausible cause resulted
+in an explanation in 30–50% of cases (Bosch, 2015). Therefore,
+the authors recommend that children with CVI without a clear
+explanation for the CVI in their history and/or MRI of the
+brain, should be referred to a clinical geneticist. Except if genetic
+examination was performed in the last 3–5 years.
+The clinical geneticist can discuss advantages and disadvantages
+of genetic assessments. There can be several reasons to perform
+genetic testing.
+- To answer the “why” question.
+- Is there a recurrence risk (for the child, parents, or other
+family member) are co-morbidities to be expected and is
+screening or treatment indicated?
+- More information on the developmental possibilities and
+future perspectives.
+- Parents can contact other parents with a child with the same
+disorder.
+
+Topic Four: Neuro-Radiological
+Evaluation and Magnetic Resonance
+Imaging
+There is a relation between presence and quantity of MRI
+deviations (Tinelli et al., 2020) and visual functioning in children
+with a risk of CVI. Considerable damage, however, may be found
+in children with adequate visual functions.
+In children with deviations in visual functions that have
+been referred, a relation seems to be found between MRI
+abnormalities (global atrophy/ischemic encephalopathy
+or structural malformations, agenesis of corpus callosum,
+porencephalic cysts, lissencephaly, Chiari malformation) and the
+presence of CVI.
+Abnormalities of the MRI especially of the visual system can
+support the diagnosis CVI and can give more insight in the
+etiology of CVI. A normal MRI, however, does not exclude the
+diagnosis CVI. If making an MRI is considered this can be
+accompanied by a pediatric neurological examination.
+Sometimes general anesthesia is necessary for successful MRI.
+However, this is invasive and implies an increased risk for the
+child. Because of these reasons the authors advise to be reluctant
+with indications for MRI.
+Alternatives for anesthesia can be considered (McGuirt,
+2016). In young children (<1 year) ultrasound of the brains
+can be considered.
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Based on the recent data a genetic diagnosis alone has a limited
+role in the diagnosis of CVI. The genetic diagnosis is at most
+useful to support the diagnosis CVI.
+Besides ophthalmological and orthoptic examination,
+performed in specialized centers other assessments can be
+planned. Multi-disciplinary cooperation is necessary to organize
+this, if necessary, between different centers.
+When a genetic diagnosis is made, the geneticist can consider
+to refer to an ophthalmologist for examination for CVI if:
+Cerebral visual impairment is described several times in
+literature for this diagnosis.
+Cerebral visual impairment is described as least once in
+literature and only few persons are known with this genetic
+disorder.
+Discuss the outcome of the genetic examinations
+in a multidisciplinary team and use the findings in
+diagnostic follow up.
+
+19
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 20]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+and likewise the risks of missing a progressive disease in this
+diagnostic process.
+
+CAPACITY AND WORKING LOAD
+As a result of the recommendations mentioned, the availability
+of financial means and health care professionals as well as the
+applicability and necessity of measures play an important role.
+It is not always possible for diagnostic centers to organize
+an ophthalmologist and orthoptist and neuropsychologist with
+specific knowledge about CVI. Further training and schooling
+are necessary. Furthermore in a peripheral hospital setting and
+academic medical center visual fields are not often measured
+routinely and eye tracking or OCT are not performed regularly
+in children either.
+Neonatal encephalopathy (NE) is the clinical manifestation of
+disordered neonatal brain function (Kurinczuk et al., 2010). Lack
+of universal agreed definitions of NE and the sub-group with
+hypoxic Ischemic Encephalopathy (HIE) makes the estimation of
+incidence and the identification of risk factors problematic. NE
+incidence is estimated as 3.0 per 1,000 live births (95%CI 2.7 to
+3.3) and for HIE is 1.5 (95% CI 1.3 to 1.7), 60% of the children
+with severe Hypoxic Ischaemic Injury have CVI (Good et al.,
+2001; Fazzi et al., 2007; Solebo et al., 2017) and a large group of
+children with congenital abnormalities of brain have CVI as well.
+This means that in the least this group has to be examined for
+CVI by ophthalmologists and orthoptists. In several countries the
+incidence of VI and CVI has been investigated (Riise et al., 1992;
+Rosenberg et al., 1996; Rahi and Cable, 2003).
+The number of children that can actually been seen
+by an ophthalmologist, is dependent on the capacity of
+ophthalmologists. This may be different in different countries.
+However, this diagnostic work can be better performed by a
+medical specialist. It is also preferable that the whole diagnostic
+process is supervised by a medical specialist as there are too
+many factors involved that may influence the future of the child
+
+DATA AVAILABILITY STATEMENT
+The original contributions presented in this study are included
+in the article/Supplementary Material, further inquiries can be
+directed to the corresponding author.
+
+AUTHOR CONTRIBUTIONS
+All authors listed have made a substantial, direct, and intellectual
+contribution to the work, and approved it for publication.
+
+ACKNOWLEDGMENTS
+We thank Els Ortibus, Yvonne Koenraads, Cornelie Ensing, Tessa
+Geltink, and Annemarie Hagemeijer for their contribution to the
+process of guideline development and the application of GRADE
+and AGREE and OnYing Chan and Alice Tillema for the recent
+searches. We would also like to thank Margret Alers for editing
+the final version, Femke van der Veer for critical reading and
+Jannet Philip for editing the tables.
+
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fnhum.
+2022.727565/full#supplementary-material
+
+REFERENCES
+
+impairment questionnaire. Dev. Med Child Neurol. 62, 969–976. doi: 10.1111/
+dmcn.14448
+Bennett, C. R., Bauer, C. M., Bailin, E. S., and Merabet, L. B. (2020). Neuroplasticity
+in cerebral visual impairment (CVI): Assessing functional vision and the
+neurophysiological correlates of dorsal stream dysfunction. Neurosci. Biobehav.
+Rev. 108, 171–181. doi: 10.1016/j.neubiorev.2019.10.011
+Boonstra, N., Limburg H., Tijmes, N., van Genderen, M., Schuil, J., and Van Nispen,
+R. (2012). Changes in causes of low vision between 1988 and 2009 in a Dutch
+population of children. Acta Ophthalmol. 90, 277–86.
+Boot, F. H., Pel, J. J., van der Steen, J., and Evenhuis, H. M. (2010). Cerebral Visual
+Impairment: which perceptive visual dysfunctions can be expected in children
+with brain damage? A systematic review. Res. Dev. Disabil. 31, 1149–1159.
+doi: 10.1016/j.ridd.2010.08.001
+Bosch, D. G. M. B. (2015). Cerebral Visual Impairment from Clinic to Genetics.
+Rotterdam: Radboud Universiteit Nijmegen, Optima Grafische Communicatie.
+Bosch, D. G., Boonstra, F. N., de Leeuw, N., Pfundt, R., Nillesen, W. M., de Ligt, J.,
+et al. (2016). Novel genetic causes for cerebral visual impairment. Eur. J. Hum.
+Genet. 24, 660–665. doi: 10.1038/ejhg.2015.186
+Bosch, D. G., Boonstra, F. N., Reijnders, M. R., Pfundt, R., Cremers, F. P., and de
+Vries, B. B. (2014a). Chromosomal aberrations in cerebral visual impairment.
+Eur. J. Paediatr. Neurol. 18, 677–684. doi: 10.1016/j.ejpn.2014.05.002
+Bosch, D. G., Boonstra, F. N., Willemsen, M. A., Cremers, F. P., and de Vries, B. B.
+(2014b). Low vision due to cerebral visual impairment: differentiating between
+acquired and genetic causes. BMC Ophthalmol. 14:59. doi: 10.1186/1471-241514-59
+
+Auld, M., Boyd, R., Moseley, G. L., and Johnston, L. (2011). Seeing the gaps:
+a systematic review of visual perception tools for children with hemiplegia.
+Disabil. Rehabil. 33, 1854–1865. doi: 10.3109/09638288.2010.549896
+Barsingerhorn, A. D., Boonstra, F. N., and Goossens, J. (2018).
+Symbol Discrimination Speed in Children With Visual Impairments.
+Invest. Ophthalmol. Vis. Sci. 59, 3963–3972. doi: 10.1167/iovs.17-2
+3167
+Barsingerhorn, A. D., Boonstra, F. N., and Goossens, J. (2019).
+Saccade latencies during a preferential looking task and objective
+scoring of grating acuity in children with and without visual
+impairments. Acta ophthalmologica. 97, 616–625. doi: 10.1111/aos.1
+4011
+Bean Jaworski, J. L., White, M. T., DeMaso, D. R., Newburger, J. W., Bellinger,
+D. C., and Cassidy, A. R. (2018). Visuospatial processing in adolescents with
+critical congenital heart disease: Organization, integration, and implications
+for academic achievement. Child Neuropsychol.. 24, 451–468. doi: 10.1080/
+09297049.2017.1283396
+Ben Itzhak, N., Vancleef, K., Franki, I., Laenen, A., Wagemans, J., and Ortibus, E.
+(2021b). [Formula: see text] Quantifying visuoperceptual profiles of children
+with cerebral visual impairment. Child Neuropsychol. 27, 995–1023. doi: 10.
+1080/09297049.2021.1915265
+Ben Itzhak, N., Vancleef, K., Franki, I., Laenen, A., Wagemans, J., and Ortibus, E.
+(2020). Visuoperceptual profiles of children using the Flemish cerebral visual
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+20
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 21]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+Brouwers, M. C., Kho, M. E., Browman, G. P., Burgers, J. S., Cluzeau, F., Feder,
+G., et al. (2010). AGREE II: advancing guideline development, reporting and
+evaluation in health care. CMAJ. 182, E839–E842.
+Cavascan, N. N., Salomao, S. R., Sacai, P. Y., Pereira, J. M., Rocha, D. M., and
+Berezovsky, A. (2014). Contributing factors to VEP grating acuity deficit and
+inter-ocular acuity difference in children with cerebral visual impairment. Doc.
+Ophthalmol. 128, 91–99. doi: 10.1007/s10633-013-9423-9
+Chan, P. L., and Chow, S. M. (2005). Reliability and validity of the Test of
+Visual-Perceptual Skills (Non-Motor)- -Revised for Chinese preschoolers. Am.
+J. Occup. Ther. 59, 369–376. doi: 10.5014/ajot.59.4.369
+Chandna, A., Ghahghaei, S., Foster, S., and Kumar, R. (2021b). Higher Visual
+Function Deficits in Children With Cerebral Visual Impairment and Good
+Visual Acuity. Front. Hum. Neurosci. 15:711873. doi: 10.3389/fnhum.2021.
+711873
+Chandna, A., Nichiporuk, N., Nicholas, S., Kumar, R., and Norcia, A. M. (2021a).
+Motion Processing Deficits in Children With Cerebral Visual Impairment and
+Good Visual Acuity. Invest. Ophthalmol. Vis. Sci. 62:12. doi: 10.1167/iovs.62.14.
+12
+Chang, M. Y, and Borchert, M. S. (2021). Validity and reliability of eye tracking for
+visual acuity assessment in children with cortical visual impairment. J. AAPOS.
+25:334.e1-334.e5 doi: 10.1016/j.jaapos.2021.07.008
+Chaudhary, M. S. D., and Sharma, P. R. (2012). Ocular manifestations of meningitis
+in children. J. Nepal Paediatr. Soc. 32, 136–141.
+Chen, T. C., Weinberg, M. H., Catalano, R. A., Simon, J. W., and Wagle, W. A.
+(1992). Development of object vision in infants with permanent cortical visual
+impairment. Am. J. Ophthalmol. 114, 575–578.
+Cheung, P. P., Poon, M. Y., Leung, M., and Wong, R. (2005). The developmental
+test of visual perception-2 normative study on the visual-perceptual function
+for children in Hong Kong. Phys. Occup. Ther. Pediatr. 25, 29–43. doi: 10.1300/
+j006v25n04_03
+Cioni, G., Fazzi, B., Ipata, A. E., Canapicchi, R., and van Hof-van Duin, J. (1996).
+Correlation between cerebral visual impairment and magnetic resonance
+imaging in children with neonatal encephalopathy. Dev. Med. Child Neurol. 38,
+120–132. doi: 10.1111/j.1469-8749.1996.tb12083.x
+Clarke, M. P., Mitchell, K. W., and Gibson, M. (1997). The prognostic value of flash
+visual evoked potentials in the assessment of non-ocular visual impairment in
+infancy. Eye (Lond). 11(Pt. 3), 398–402. doi: 10.1038/eye.1997.84
+Coats, D. K., Demmler, G. J., Paysse, E. A., Du, L. T., and Libby, C.
+(2000). Ophthalmologic findings in children with congenital cytomegalovirus
+infection. J. AAPOS. 4, 110–116. doi: 10.1067/mpa.2000.103870
+Colver, A., Fairhurst, C., and Pharoah, P. O. D. (2014). Cerebral palsy. Lancet. 383,
+1240–1249.
+de Weger, C., Boonstra, F. N., and Goossens, J. (2021). Differences between
+children with Down syndrome and typically developing children in adaptive
+behaviour, executive functions and visual acuity. Sci. Rep. 11:7602. doi: 10.1038/
+s41598-021-85037-4
+de Weger, C., Boonstra, N., and Goossens, J. (2019). Effects of bifocals on visual
+acuity in children with Down syndrome: a randomized controlled trial. Acta
+Ophthalmologica. 97, 378–393. doi: 10.1111/aos.13944
+Dutton, G. N., Calvert, J., Ibrahim, H., Macdonald, E., McCulloch, D. L.,
+Macintyre-Beon, C., et al. (2010). Structured clinical history-taking for
+cognitive and perceptual visual dysfunction and for profound visual disabilities
+due to damage to the brain in children. Clin. Dev. Med. ∗ ,
+Dutton, G., Ballantyne, J., Boyd, G., Bradnam, M., Day, R., McCulloch, D., et al.
+(1996). Cortical visual dysfunction in children: a clinical study. Eye (Lond).
+10(Pt. 3), 302–309. doi: 10.1038/eye.1996.64
+Ego, A., Lidzba, K., Brovedani, P., Belmonti, V., Gonzalez-Monge, S., Boudia, B.,
+et al. (2015). Visual-perceptual impairment in children with cerebral palsy:
+a systematic review. Dev. Med. Child Neurol.. 57, 46–51. doi: 10.1111/dmcn.
+12687
+Fazzi, E., Bova, S., Giovenzana, A., Signorini, S., Uggetti, C., and Bianchi, P.
+(2009). Cognitive visual dysfunctions in preterm children with periventricular
+leukomalacia. Dev. Med. Child Neurol. 51, 974–981. doi: 10.1111/j.1469-8749.
+2009.03272.x
+Fazzi, E., Signorini, S. G., Bertone, C, Misefari, W, Galli, J, Balottin, U, Bianchi,
+P. E. et al., (2012). Neuro-ophthalmological disorders in cerebral palsy:
+ophthalmological, oculomotor, and visual aspects. Dev. Med. Child Neurol. 54,
+730–736. doi: 10.1111/j.1469-8749.2012.04324.x
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Fazzi, E., Signorini, S. G., Bova, S. M., La Piana, R., Ondei, P., Bertone, C.,
+et al. (2007). Spectrum of visual disorders in children with cerebral visual
+impairment. J Child Neurol. 22, 294–301. doi: 10.1177/08830738070220030801
+Federatie Medisch Special is ten (2015). Aanbeveling Landelijke Neonatale
+Follow-up- NICU Follow-up [Internet]. Available online at: https:
+//nvk.nl/themas/kwaliteit/richtlijnen/richtlijn?componentid=5537794&
+tagtitles=Intensive%2bCare%2cNeonatologie (accessed January 01, 2015).
+Flanagan, N. M., Jackson, A. J., and Hill, A. E. (2003). Visual impairment in
+childhood: insights from a community-based survey. Child Care Health Dev.
+29, 493–499. doi: 10.1046/j.1365-2214.2003.00369.x
+Francke, A. L., Smit, M. C., de Veer, A. J., and Mistiaen, P. (2008).
+Factors influencing the implementation of clinical guidelines for health care
+professionals: a systematic meta-review. BMC Med. Inform. Decis. Mak. 8:38.
+doi: 10.1186/1472-6947-8-38
+Frank, Y., Kurtzberg, D., Kreuzer, J. A., and Vaughan, H. G. Jr. (1992). Flash and
+pattern-reversal visual evoked potential abnormalities in infants and children
+with cerebral blindness. Dev. Med. Child Neurol. 34, 305–315. doi: 10.1111/j.
+1469-8749.1992.tb11434.x
+Garcia-Ormaechea, I., Gonzalez, I., Dupla, M., Andres, E., and Pueyo, V. (2014).
+Validation of the Preverbal Visual Assessment (PreViAs) questionnaire. Early
+Hum Dev. 90, 635–638. doi: 10.1016/j.earlhumdev.2014.08.002
+Geldof, C. J., van Wassenaer-Leemhuis, A. G., Dik, M., Kok, J. H., and Oosterlaan,
+J. (2015). A functional approach to cerebral visual impairments in very
+preterm/very-low-birth-weight children. Pediatr Res. 78, 190–197. doi: 10.1038/
+pr.2015.83
+Good, W. V., Hou, C., and Norcia, A. M. (2012). Spatial contrast sensitivity vision
+loss in children with cortical visual impairment. Invest. Ophthalmol. Vis. Sci. 53,
+7730–7734. doi: 10.1167/iovs.12-9775
+Good, W. V., Jan, J. E., Burden, S. K., Skoczenski, A., and Candy, R. (2001). Recent
+advances in cortical visual impairment. Dev. Med. Child Neurol. 43, 56–60.
+doi: 10.1017/s0012162201000093
+Gorrie, F., Goodall, K., Rush, R., and Ravenscroft, J. (2019). Towards population
+screening for cerebral visual impairment: validity of the five questions and the
+cvi questionnaire. PLoS One. 14:e0214290. doi: 10.1371/journal.pone.0214290
+Grinter, E. J., Maybery, M. T., and Badcock, D. R. (2010). Vision in developmental
+disorders: is there a dorsal stream deficit? Brain Res. bull. 82, 147–160. doi:
+10.1016/j.brainresbull.2010.02.016
+Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello,
+P., et al. (2008). GRADE: an emerging consensus on rating quality of evidence
+and strength of recommendations. BMJ 336, 924–926.
+Hamilton, R., McGlone, L., MacKinnon, J. R., Russell, H. C., Bradnam, M. S., and
+Mactier, H. (2010). Ophthalmic, clinical and visual electrophysiological findings
+in children born to mothers prescribed substitute methadone in pregnancy. Br.
+J. Ophthalmol. 94, 696–700. doi: 10.1136/bjo.2009.169284
+Hellgren, K. T. K., Jakobsson, P. G., Lundgren, P., Carlsson, B., Källén, K., Serenius,
+F., et al. (2016). Ophthalmologic Outcome of Extremely Preterm Infants at
+6.5 Years of Age Extremely Preterm Infants in Sweden Study (EXPRESS).
+JAMA Ophthalmol. 134, 555–562. doi: 10.1001/jamaophthalmol.2016.
+0391
+Hellgren, K., Jacobson, L., Frumento, P., Bolk, J., Aden, U., Libertus, M. E., et al.
+(2020). Cerebral visual impairment captured with a structured history inventory
+in extremely preterm born children aged 6.5 years. J. AAPOS 28, e1–e8. doi:
+10.1016/j.jaapos.2019.11.011
+Hellström, A., Källén, K., Carlsson, B., Holmström, G., Jakobsson, P., Lundgren,
+P., et al. (2018). Extreme prematurity, treated retinopathy, bronchopulmonary
+dysplasia and cerebral palsy are significant risk factors for ophthalmological
+abnormalities at 6.5 years of age. Acta Paediatr. 107, 811-821. doi: 10.1111/apa.
+14206
+Henderson, A. D., Ventura, C. V., Huisman, T., Meoded, A., Hazin, A. N., van
+der Linden, V., et al. (2021). Characterization of Visual Pathway Abnormalities
+in Infants With Congenital Zika Syndrome Using Computed Tomography and
+Magnetic Resonance Imaging. J. Neuroophthalmol. 41, e598–e605. doi: 10.1097/
+WNO.0000000000001127
+Ho, M. L., Mansukhani, S. A., and Brodsky, M. C. (2020). Prenatal or Perinatal
+Injury? Diagnosing the Cortically Blind Infant. Am. J. Ophthalmol. 211, 56–62.
+doi: 10.1016/j.ajo.2019.10.026
+Holmström, G. E., Källen, K., Hellström, A., Jakobsson, P. G., Serenius, F.,
+Stjernqvist, K., et al. (2014). Ophthalmologic outcome at 30 months’ corrected
+
+21
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 22]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+age of a prospective Swedish cohort of children born before 27 weeks of
+gestation: the extremely preterm infants in sweden study. JAMA Ophthalmol.
+132, 182-189. doi: 10.1001/jamaophthalmol.2013.5812
+Houliston, M. J., Taguri, A. H., Dutton, G. N., Hajivassiliou, C., and Young, D. G.
+(1999). Evidence of cognitive visual problems in children with hydrocephalus: a
+structured clinical history-taking strategy. Dev. Med Child Neurol. 41, 298–306.
+doi: 10.1017/s0012162299000675
+Howes, J., Thompson, D., Liasis, A., Oluonye, N., Dale, N., and Bowman, R. (2022).
+Prognostic value of transient pattern visual evoked potentials in children with
+cerebral visual impairment. Dev. Med. Child Neurol. 64, 618–624. doi: 10.1111/
+dmcn.15108
+Hoyt, C. S. (2003). Visual function in the brain-damaged child. Eye (Lond). 17,
+369–384. doi: 10.1038/sj.eye.6700364
+Hoyt, C. S. and Taylor, D. (2017). Pediatric Ophthalmology and strabismus 5th
+edition Amsterdam: Elsevier Health Sciences.
+Huo, R., Burden, S. K., Hoyt, C. S., and Good, W. V. (1999). Chronic cortical
+visual impairment in children: aetiology, prognosis, and associated neurological
+deficits. Br. J. Ophthalmol. 83, 670–675. doi: 10.1136/bjo.83.6.670
+Huurneman, B., Boonstra, F. N., Cox, R. F., Cillessen, A. H., and van Rens, G.
+(2012). A systematic review on ’Foveal Crowding’ in visually impaired children
+and perceptual learning as a method to reduce Crowding. BMC Ophthalmol.
+12:27. doi: 10.1186/1471-2415-12-27
+Jacobson, L. F. V., Flodmark, O., and Broberger, U. (1996). Visual Impairment
+In Preterm Children With Periventricular Leukomalacia — Visual, Cognitive
+And Neuropaediatric Characteristics Related To Cerebral Imaging. DMCN. 38,
+724–735. doi: 10.1111/j.1469-8749.1996.tb12142.x
+Jacobson, L. K., and Dutton, G. N. (2000). Periventricular Leukomalacia an
+important cause of visual and ocular motility dysfunction in children. Surv.
+Ophthalmol.. 45, 1–13. doi: 10.1016/s0039-6257(00)00134-x
+Jacobson, L., Lennartsson, F., and Nilsson, M. (2019). Ganglion Cell Topography
+Indicates Pre- or Postnatal Damage to the Retro-Geniculate Visual System,
+Predicts Visual Field Function and May Identify Cerebral Visual Impairment
+in Children - A Multiple Case Study. Neuroophthalmology. 43, 363–370. doi:
+10.1080/01658107.2019.1583760
+Kelly, J. P., Phillips, J. O., Saneto, R. P., Khalatbari, H., Poliakov, A., TarczyHornoch, K., et al. (2021). Cerebral visual impairment characterized by
+abnormal visual orienting behavior with preserved visual cortical activation.
+Invest. Ophthalmol. Vis. Sci. 62:15. doi: 10.1167/iovs.62.6.15
+Khan, R. I., O’Keefe, M., Kenny, D., and Nolan, L. (2007). Changing pattern of
+childhood blindness. Ir. Med J. 100, 458–461.
+Khetpal, V., and Donahue, S. P. (2007). Cortical visual impairment: etiology,
+associated findings, and prognosis in a tertiary care setting. J. AAPOS. 11,
+235–239. doi: 10.1016/j.jaapos.2007.01.122
+Kivlin, J. D., Simons, K. B., Lazoritz, S., and Ruttum, M. S. (2000). Shaken baby
+syndrome. Ophthalmology. 107, 1246–1254.
+Klaver, P., Marcar, V., and Martin, E. (2011). Neurodevelopment of the visual
+system in typically developing children. Prog. Brain Res. 189, 113–136. doi:
+10.1016/B978-0-444-53884-0.00021-X
+Koenraad, Y. (2016). Visual Field Examination in Children with Brain Disorders.
+Utrecht: Universiteit Utrecht, Proefschriftmaken.nl & Uitgeverij BOXPress.
+Kooiker, M. J., Pel, J. J., and van der Steen, J. (2014). Viewing behavior and related
+clinical characteristics in a population of children with visual impairments in
+the Netherlands. Res. Dev. Disabil. 35, 1393–1401. doi: 10.1016/j.ridd.2014.03.
+038
+Kovacs, I. (2000). Human development of perceptual organization. Vis. Res. 40,
+1301–1310. doi: 10.1016/s0042-6989(00)00055-9
+Kurinczuk, J. J., White-Koning, M., and Badawi, N. (2010). Epidemiology of
+neonatal encephalopathy and hypoxic-ischaemic encephalopathy. Early Hum.
+Dev. 86, 329–338. doi: 10.1016/j.earlhumdev.2010.05.010
+Lambert, S. R., Hoyt, C. S., Jan, J. E., Barkovich, J., and Flodmark, O. (1987).
+Visual recovery from hypoxic cortical blindness during childhood. Computed
+tomographic and magnetic resonance imaging predictors. Arch. Ophthalmol.
+105, 1371–1377. doi: 10.1001/archopht.1987.01060100073030
+Larsson, E. K., Rydberg, A. C., and Holmstrom, G. E. (2005). A population based study on the visual outcome in 10-year-old preterm and full term children. Arch. Ophthalmol. 123, 825–832. doi: 10.1001/archopht.123.
+6.825
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Lee, J., Kim, M. G., Park, H. Y., Nam, K. E., Park, J. H. (2012). Visual assessment of
+preterm and full-term infants under the age of 12 months using the Preverbal
+Visual Assessment questionnaire. Early Hum. Dev. 153:105289
+Lennartsson, F., Ohnell, H., Jacobson, L., and Nilsson, M. (2021). Pre-and Postnatal
+Damage to the Retro- Geniculate Visual Pathways Cause Retinal Degeneration
+Predictive for Visual Function. Front. Hum. Neurosci. 15:734193. doi: 10.3389/
+fnhum.2021.734193
+Lim, M., Soul, J. S., Hansen, R. M., Mayer, D. L., Moskowitz, A., and Fulton,
+A. B. (2005). Development of visual acuity in children with cerebral visual
+impairment. Arch. Ophthalmol. 123, 1215–1220. doi: 10.1001/archopht.123.9.
+1215
+Luckman, J., Chokron, S., Michowiz, S., Belenky, E., Toledano, H., Zahavi, A., et al.
+(2020). The Need to Look for Visual Deficit After Stroke in Children. Front.
+Neurol. 11:617. doi: 10.3389/fneur.2020.00617
+Macintyre-Beon, C., Young, D., Calvert, J., Ibrahim, H., Dutton, G. N., and
+Bowman, R. (2012). Reliability of a question inventory for structured history
+taking in children with cerebral visual impairment. Eye (Lond). 26:1393. doi:
+10.1038/eye.2012.154
+Macintyre-Beon, C., Young, D., Dutton, G. N., Mitchell, K., Simpson, J., Loffler,
+G., et al. (2013). Cerebral visual dysfunction in prematurely born children
+attending mainstream school. Doc. Ophthalmol. 127, 89–102. doi: 10.1007/
+s10633-013-9405-y
+Mansukhani, S. A., Ho, M. L., and Brodsky, M. C. (2021). Abnormal vestibularocular reflexes in children with cortical visual impairment. J. Neuroophthalmol.
+41, 531–536. doi: 10.1097/WNO.0000000000000999
+Mayer, D. L., Taylor, C. P., and Kran, B. S. A. (2020). New Contrast Sensitivity
+Test for Pediatric Patients: Feasibility and Inter-Examiner Reliability in Ocular
+Disorders and Cerebral Visual Impairment. Transl. Vis. Sci. Technol. 9:30. doi:
+10.1167/tvst.9.9.30
+McConnell, E. L., Saunders, K. J., and Little, J. A. (2021). What assessments are
+currently used to investigate and diagnose cerebral visual impairment (CVI)
+in children? A systematic review. Ophthalmic Physiol. Optics. 41, 224–244.
+doi: 10.1111/opo.12776
+McGuirt, D. (2016). Alternatives to sedation and general anesthesia in pediatric
+magnetic resonance imaging: a literature review. Radiol. Technol. 88, 18–26.
+Merabet, L. B., Mayer, D. L., Bauer, C. M., Wright, D., and Kran, B. S.
+(2017). Disentangling How the Brain is “Wired” in Cortical (Cerebral)
+Visual Impairment. Semin Pediatr. Neurol. 24, 83–91. doi: 10.1016/j.spen.2017.
+04.005
+Milner, D., and Goodale, M. (2006). The Visual Brain in Action. Oxford: OUP.
+Moon, J. H., Kim, G. H., Kim, S. K., Kim, S., Kim, Y. H., Kim, J., et al. (2021).
+Development of the Parental Questionnaire for Cerebral Visual Impairment in
+Children Younger than 72 Months. J. Clin. Neurol. 17, 354–362. doi: 10.3988/
+jcn.2021.17.3.354
+Naber, M., Roelofzen, C., Fracasso, A., Bergsma, D. P., van Genderen, M., Porro,
+G. L., et al. (2018). Gaze-Contingent flicker pupil perimetry detects scotomas
+in patients with cerebral visual impairments or glaucoma. Front. Neurol. 9:558.
+doi: 10.3389/fneur.2018.00558
+Nadeem, S., Hashmat, S., Defreitas, M. J., Westreich, K. D., Shatat, I. F., Selewski,
+D. T., et al. (2015). Renin Angiotensin System Blocker Fetopathy: A Midwest
+Pediatric Nephrology Consortium Report. J. Pediatr. 167, 881–885. doi: 10.
+1016/j.jpeds.2015.05.045
+Nielsen, L. S., Skov, L., and Jensen, H. (2007). Visual dysfunctions and ocular
+disorders in children with developmental delay. I. prevalence, diagnoses and
+aetiology of visual impairment. Acta Ophthalmol Scand. 85, 149–156. doi: 10.
+1111/j.1600-0420.2006.00867.x
+Ortibus, E. L., De Cock, P. P., and Lagae, L. G. (2011). Visual perception in
+preterm children: what are we currently measuring? Pediatr Neurol. 45, 1–10.
+doi: 10.1016/j.pediatrneurol.2011.02.008
+Ortibus, E., Laenen, A., Verhoeven, J., De Cock, P., Casteels, I., Schoolmeesters,
+B., et al. (2011). Screening for cerebral visual impairment: value of a
+CVI questionnaire. Neuropediatrics. 42, 138–147. doi: 10.1055/s-0031-128
+5908
+Ortibus, E., Lagae, L., Casteels, I., Demaerel, P., and Stiers, P. (2009). Assessment
+of cerebral visual impairment with the L94 visual perceptual battery: clinical
+value and correlation with MRI findings. Dev. Med. Child Neurol. 51, 209–217.
+doi: 10.1111/j.1469-8749.2008.03175.x
+
+22
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 23]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+Ozturk, T., Er, D., Yaman, A., and Berk, A. T. (2016). Changing trends over the
+last decade in the aetiology of childhood blindness: a study from a tertiary
+referral centre. Br. J. Ophthalmol. 100, 166–171. doi: 10.1136/bjophthalmol2015-306737
+Pamir, Z., Bauer, C. M., Bailin, E. S., Bex, P. J., Somers, D. C., and Merabet, L. B.
+(2021). Neural correlates associated with impaired global motion perception in
+cerebral visual impairment (CVI). Neuroimage Clin. 32:102821. doi: 10.1016/j.
+nicl.2021.102821
+Pearce, M. S., Salotti, J. A., Little, M. P., McHugh, K., Lee, C., Kim, K. P., et al.
+(2012). Radiation exposure from CT scans in childhood and subsequent risk
+of leukaemia and brain tumours: a retrospective cohort study. Lancet. 380,
+499–505. doi: 10.1016/S0140-6736(12)60815-0
+Pel, J. J., Dudink, J., Vonk, M., Plaisier, A., Reiss, I. K., and van der Steen, J. (2016).
+Early identification of cerebral visual impairments in infants born extremely
+preterm. Dev. Med. Child Neurol.. 58, 1030–1035. doi: 10.1111/dmcn.13115
+Philip, S. S., and Dutton, G. N. (2014). Identifying and characterising cerebral
+visual impairment in children: a review. Clin. Exp. Optom. 97, 196–208. doi:
+10.1111/cxo.12155
+Philip, S. S., Guzzetta, A., Chorna, O., Gole, G., and Boyd, R. N. (2020).
+Relationship between brain structure and Cerebral Visual Impairment in
+children with Cerebral Palsy: A systematic review. Res. Dev. Disabil. 99:103580.
+doi: 10.1016/j.ridd.2020.103580
+Philip, S. S., Tsherlinga, S., Thomas, M. M., Dutton, G. N., and Bowman, R. A.
+(2016). Validation of an Examination Protocol for Cerebral Visual Impairment
+Among Children in a Clinical Population in India. J. Clin. Diagn. Res. 10:NC01–
+NC4. doi: 10.7860/JCDR/2016/22222.8943
+Pike, M. G., Holmstrom, G., de Vries, L. S., Pennock, J. M., Drew, K. J., Sonksen,
+P. M., et al. (1994). Patterns of visual imparment assocated with lesions of the
+preterm infant brain. Dev. Med. Child Neurol. 36, 849–862.
+Poggi, G., Calori, G., Mancarella, G., Colombo, E., Profice, P., Martinelli, F., et al.
+(2000). Visual disorders after traumatic brain injury in developmental age. Brain
+Inj. 14, 833–845. doi: 10.1080/026990500421930
+Porro, G., Dekker, E. M., Van Nieuwenhuizen, O., Wittebol-Post, D., Schilder,
+M. B., Schenk-Rootlieb, A. J., et al. (1998). Visual behaviours of neurologically
+impaired children with cerebral visual impairment: an ethological study. Br. J.
+Ophthalmol. 82, 1231–1235. doi: 10.1136/bjo.82.11.1231
+Portengen, B. L., Koenraads, Y., Imhof, S. M., and Porro, G. L. (2020). Lessons
+Learned from 23 Years of Experience in Testing Visual Fields of Neurologically
+Impaired Children. Neuro-Ophthalmology. 44, 361–370. doi: 10.1080/01658107.
+2020.1762097
+Rahi, J. S., and Cable, N. (2003). British childhood visual impairment study g.
+severe visual impairment and blindness in children in the uk. Lancet. 362,
+1359–1365.
+Raja, S., Emadi, B. S., Gaier, E. D., Gise, R. A., Fulton, A. B., and Heidary,
+G. (2021). Evaluation of the Relationship Between Preferential Looking
+Testing and Visual Evoked Potentials as a Biomarker of Cerebral Visual
+Impairment. Front. Hum. Neurosci. 15:769259. doi: 10.3389/fnhum.2021.76
+9259
+Riise, R. F. T., Hansen, E., Rosenberg, T., Rudanko, S. L., Viggosson, G., Warburg,
+M., et al. (1992). Visual impairment in Nordic children I Nordi Registers and
+prevalence data. Acta Ophthalmol 70, 145–154. doi: 10.1111/j.1755-3768.1992.
+tb04118.x
+Rosenberg, T., Flage, T., Hansen, E., Riise, R., Rudanko, S. L., Viggosson,
+G., et al. (1996). Incidence of registered visual impairment in the
+Nordic child population. Br. J. Ophthalmol. 80, 49–53. doi: 10.1136/bjo.
+80.1.49
+Ruberto, G., Salati, R., Milano, G., Bertone, C., Tinelli, C., Fazzi, E., et al. (2006).
+Changes in the optic disc excavation of children affected by cerebral visual
+impairment: a tomographic analysis. Invest. Ophthalmol. Vis. Sci. 47, 484–488.
+doi: 10.1167/iovs.05-0529
+Saidkasimova, S., Bennett, D. M., Butler, S., and Dutton, G. N. (2007).
+Cognitive visual impairment with good visual acuity in children with posterior
+periventricular white matter injury: a series of 7 cases. J. AAPOS. 11, 426–430.
+doi: 10.1016/j.jaapos.2007.04.015
+Sakai, S., Hirayama, K., Iwasaki, S., Yamadori, A., Sato, N., Ito, A., et al. (2002).
+Contrast sensitivity of patients with severe motor and intellectual disabilities
+and cerebral visual impairment. J. Child Neurol. 17, 731–737. doi: 10.1177/
+08830738020170101201
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+Sakki, H. E. A., Dale, N. J., Sargent, J., Perez-Roche, T., and Bowman, R. (2018). Is
+there consensus in defining childhood cerebral visual impairment? A systematic
+review of terminology and definitions. Br. J. Ophthalmol. 102, 424–432. doi:
+10.1136/bjophthalmol-2017-310694
+Sakki, H., Bowman, R., Sargent, J., Kukadia, R., and Dale, N. (2021). Visual function
+subtyping in children with early-onset cerebral visual impairment. Dev. Med.
+Child Neurol. 63, 303–312. doi: 10.1111/dmcn.14710
+Salati, R., Borgatti, R., Giammari, G., and Jacobson, L. (2002). Oculomotor
+dysfunction in cerebral visual impairment following perinatal hypoxia. Dev.
+Med. Child Neurol. 44, 542–550. doi: 10.1017/s0012162201002535
+Salavati, M., Waninge, A., Rameckers, E. A., van der Steen, J., Krijnen, W. P., van
+der Schans, C. P., et al. (2017). Development and face validity of a cerebral visual
+impairment motor questionnaire for children with cerebral palsy. Child Care
+Health Dev. 43, 37–47. doi: 10.1111/cch.12377
+Shah, P. S., Beyene, J., To, T., Ohlsson, A., and Perlman, M. (2006). Postasphyxial
+hypoxic-ischemic encephalopathy in neonates: outcome prediction rule within
+4 hours of birth. Arch Pediatr. Adolesc Med. 160, 729–736. doi: 10.1001/
+archpedi.160.7.729
+Shen, Y., Drum, M., and Roth, S. (2009). The prevalence of perioperative visual loss
+in the United States: a 10–year study from 1996 to 2005 of spinal, orthopedic,
+cardiac, and general surgery. Anesth Analg. 109, 1534–1545. doi: 10.1213/ane.
+0b013e3181b0500b
+Sie, L. T., Hart, A. A., van Hof, J., de Groot, L., Lems, W., Lafeber, H. N.,
+et al. (2005). Predictive value of neonatal MRI with respect to late MRI
+findings and clinical outcome. A study in infants with periventricular densities
+on neonatal ultrasound. Neuropediatrics. 36, 78–89. doi: 10.1055/s-2005-83
+7574
+Skoczenski, A. M., and Good, W. V. (2004). Vernier acuity is selectively affected in
+infants and children with cortical visual impairment. Dev. Med. Child Neurol.
+46, 526–532. doi: 10.1017/s001216220400088x
+Solebo, A. L., Teoh, L., and Rahi, J. (2017). Epidemiology of blindness in children.
+Arch Dis Child. 102, 853–857.
+Stiers, P., van den Hout, B. M., Haers, M., Vanderkelen, R., de Vries, L. S., van
+Nieuwenhuizen, O., et al. (2001). The variety of visual perceptual impairments
+in pre-school children with perinatal brain damage. Brain Dev. 23, 333–348.
+doi: 10.1016/s0387-7604(01)00241-8
+Tanke, N., Barsingerhorn, A. D., Goossens, J., and Boonstra, F. N. (2021).
+The developmental eye movement test as a diagnostic aid in cerebral visual
+impairment. Front. Hum. Neurosci. 15:732927. doi: 10.3389/fnhum.2021.
+732927
+Tinelli, F., Guzzetta, A., Purpura, G., Pasquariello, R., Cioni, G., and Fiori, S.
+(2020). Structural brain damage and visual disorders in children with cerebral
+palsy due to periventricular leukomalacia. Neuroimage Clin. 28:102430. doi:
+10.1016/j.nicl.2020.102430
+Uggetti, C., Egitto, M. G., Fazzi, E., Bianchi, P. E., Bergamaschi, R., Zappoli, F.,
+et al. (1996). Cerebral visual impairment in periventricular leukomalacia: MR
+correlation. AJNR Am. J. Neuroradiol. 17, 979–985.
+Van der Zee, Y. J., Kooiker, M. J., Talamante Ojeda, M., and Pel, J. J. (2019). Gestalt
+Perception in Children With Visual Impairments: Item-Specific Performance
+and Looking Behavior. Dev. Neuropsychol.. 44, 296–309. doi: 10.1080/87565641.
+2019.1590836
+van der Zee, Y. J., Stiers, P., Evenhuis, H. M. (2017)Should we add visual acuity
+ratios to referral criteria for potential cerebral visual impairment? J. Optom. 10,
+95-103 doi: 10.1016/j.optom.2016.01.003
+van Genderen, M., Dekker, M., Pilon, F., and Bals, I. (2012). Diagnosing cerebral
+visual impairment in children with good visual acuity. Strabismus 20, 78–83.
+doi: 10.3109/09273972.2012.680232
+van Isterdael, C. E. D., Stilma, J. S., Bezemer, P. D., and Tijmes, N. T. (2006). 6,220
+institutionalised people with intellectual disability referred for visual assessment
+between 1993 and 2003: overview and trends. Br. J. Ophthalmol. 90, 1297–1303.
+doi: 10.1136/bjo.2006.096404
+Vancleef, K., Janssens, E., Petre, Y., Wagemans, J., and Ortibus, E. (2020).
+Assessment tool for visual perception deficits in cerebral visual impairment:
+reliability and validity. Dev. Med. Child Neurol. 62, 118–124. doi: 10.1111/dmcn.
+14304
+Ventura, L. O., Ventura, C. V., Lawrence, L., van der Linden, V., van der Linden,
+A., Gois, A. L., et al. (2017). Visual impairment in children with congenital Zika
+syndrome. J. AAPOS 21, 295–299.
+
+23
+
+June 2022 | Volume 16 | Article 727565
+
+
+[page 24]
+Boonstra et al.
+
+Multidisciplinary Guidelines Cerebral Visual Impairment
+
+Wan, M. J., Chan, K. L., Jastrzembski, B. G., and Ali, A. (2019). Neuroophthalmological manifestations of tuberous sclerosis: current perspectives. Eye
+Brain. 11, 13–23. doi: 10.2147/EB.S186306
+Warburg, M. (2001). Visual impairment in adult people with moderate, severe,
+and profound intellectual disability. Acta Ophthalmol. Scand. 79, 450–454. doi:
+10.1034/j.1600-0420.2001.790504.x
+Watson, T. O.-B. D., and Haegerstrom-Portnoy, G. (2010). Early visual evoked
+potential acuity and future behavioral acuity in cortical visual impairment.
+Optom. Vis. Sci. 87, 80–86. doi: 10.1097/OPX.0b013e3181c75184
+Watson, T., Orel-Bixler, D., and Haegerstrom-Portnoy, G. (2007).
+Longitudinal quantitative assessment of vision function in children
+with cortical visual impairment. Optom. Vis. Sci. 84, 471–480.
+doi: 10.1097/OPX.0b013e31806dba5f
+Watson, T., Orel-Bixler, D., and Haegerstrom-Portnoy, G. (2009). VEP
+vernier, VEP grating, and behavioral grating acuity in patients with
+cortical visual impairment. Optom. Vis. Sci. 86, 774–780. doi: 10.1097/OPX.
+0b013e3181a59d2a
+Wilton, G. J., Woodhouse, R., Vinuela-Navarro, V., England, R., and Woodhouse,
+J. M. (2021). Behavioural Features of Cerebral Visual Impairment Are Common
+in Children With Down Syndrome. Front Hum. Neurosci. 15:673342. doi: 10.
+3389/fnhum.2021.673342
+Wong, V. (1991). Cortical blindness in children: a study of etiology and prognosis.
+Pediatr. Neurol. 7, 178–185. doi: 10.1016/0887-8994(91)90081-u
+Yalnizoglu, D., Haliloglu, G., Turanli, G., Cila, A., and Topcu, M. (2007).
+Neurologic outcome in patients with MRI pattern of damage typical for
+neonatal hypoglycemia. Brain Dev. 29, 285–292. doi: 10.1016/j.braindev.2006.
+09.011
+
+Frontiers in Human Neuroscience | www.frontiersin.org
+
+van der Zee, Y. J., Stiers, P., and Evenhuis, H. M. (2017). Should we add visual acuity
+ratios to referral criteria for potential cerebral visual impairment? J. Optom. 10,
+95–103. doi: 10.1016/j.optom.2016.01.003
+Zuidhoek, S. (2015). The Role of Attention and Executive Brain Functions in Seeing
+and Behavior in Children with CVI. New York, NY: AFB Press.
+Zuidhoek, S., Hyvärinen, L., Jacob, N., and Henriksen, A. (2015). Assessment of
+visual processing in children with CVI,” in Vision and the Brain. Understanding
+Cerebral Visual Impairment in Children, eds A. H. Lueck and G. N. Dutton (New
+York, NY: AFB Press), 343–390.
+Conflict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be construed as a
+potential conflict of interest.
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their affiliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2022 Boonstra, Bosch, Geldof, Stellingwerf and Porro. This is an open access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) and the copyright owner(s) are credited and that the
+original publication in this journal is cited, in accordance with accepted academic
+practice. No use, distribution or reproduction is permitted which does not comply
+with these terms.
+
+24
+
+June 2022 | Volume 16 | Article 727565
+

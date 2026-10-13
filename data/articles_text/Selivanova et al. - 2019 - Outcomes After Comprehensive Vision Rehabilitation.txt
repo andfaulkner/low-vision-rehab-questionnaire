@@ -1,0 +1,1101 @@
+[page 1]
+ORIGINAL INVESTIGATION
+
+Outcomes After Comprehensive Vision Rehabilitation Using
+Vision-related Quality of Life Questionnaires: Impact of Vision
+Impairment and National Eye Institute Visual
+Functioning Questionnaire
+Alexandra Selivanova, BSc,1 Eva Fenwick, PhD,2,3,4 Ryan Man, PhD,3 William Seiple, PhD,5,6,7 and Mary Lou Jackson, MD1*
+
+Downloaded from http://journals.lww.com/optvissci by BhDMf5ePHKbH4TTImqenVJ2toCr/9wZZAM+Pag7yayk/RF4RJGZmDpaHs0jwFDwL90gvYJ94XX0= on 02/12/2019
+
+SIGNIFICANCE: This research is significant because, although vision-related quality of life (VRQoL) is improved
+after vision rehabilitation (VR), patients with certain characteristics respond less positively on VRQoL measures,
+and this should inform future care.
+PURPOSE: The purposes of this study were to evaluate how two VRQoL questionnaires compare in measuring
+change in patient-reported outcomes after VR and to determine if patient characteristics or occupational therapy
+(OT) predict higher scores after rehabilitation.
+METHODS: In a prospective clinical cohort study, 109 patients with low vision completed the Impact of Vision Impairment (IVI) and the National Eye Institute Visual Functioning Questionnaire (NEI VFQ-25) before and after VR.
+Comprehensive VR included consultation with an ophthalmologist and OT if required. The relationships of six baseline characteristics (age, sex, visual acuity, contrast sensitivity, field loss, diagnosis) and OT were assessed with
+VRQoL scores using multivariable logistic regression.
+RESULTS: The mean (SD) age was 68.5 (19.2) years, and 61 (56%) were female. After rehabilitation, increases in
+scores were observed in all IVI subscales (reading [P < .001], mobility [P = .002], well-being [P = .0003]) and all
+NEI VFQ-25 subscales (functional [P = .01], socioemotional [P = .003]). Those who were referred to OT but did not
+attend and those who had hemianopia/field loss were less likely to have higher VRQoL in IVI mobility and well being. Those attending OT for more than 3 hours were less likely to have better scores in emotional NEI VFQ.
+Men were less likely to have increased scores in functional and emotional NEI VFQ, whereas those with diagnoses
+of nonmacular diseases had higher odds of having increased scores on the emotional NEI VFQ (all, P < .05).
+CONCLUSION: Both the IVI and the NEI VFQ-25 detected change in patients' VRQoL after rehabilitation. Most of
+the patient characteristics we considered predicted a lower likelihood of increased scores in VRQoL.
+
+Optom Vis Sci 2019;96:87–94. doi:10.1097/OPX.0000000000001327
+Copyright © 2018 American Academy of Optometry
+
+Vision loss is a global health problem affecting 36 million who
+are blind and 217 million who are visually impaired.1 Vision rehabilitation is an option for those whose vision cannot be improved
+with treatment, surgery, or refractive correction, also referred to
+as low vision. Close to 4 million Americans have low vision or blindness.2 Vision rehabilitation aims to optimize patients' functional
+ability and quality of life with assistive devices, training, adaptive
+strategies, and psychosocial supports. Interventions vary depending on degree and pattern of vision loss.3
+There is great interest in measuring outcomes of vision rehabilitation to assess effectiveness. Patient-reported outcomes are commonly
+www.optvissci.com
+
+Author Afﬁliations:
+1
+Massachusetts Eye and Ear Infirmary,
+Department of Ophthalmology, Harvard
+Medical School, Boston, Massachusetts
+2
+Centre for Eye Research Australia,
+University of Melbourne, Royal Victorian
+Eye and Ear Hospital, Melbourne,
+Victoria, Australia
+3
+Singapore Eye Research Institute,
+Singapore National Eye Centre,
+Singapore, Singapore
+4
+Duke–NUS Medical School, National
+University of Singapore, Singapore,
+Singapore
+5
+Lighthouse Guild, New York, New York
+6
+Institut de la Vision, Aging in Vision and
+Action Lab, INSERM, Sorbonne
+Universités, UPMC University, Paris,
+France
+7
+Department of Ophthalmology, NYU
+School of Medicine, New York, New York
+*marylou@mljackson.ca
+
+used4,5; however, there is no consensus about best questionnaires.6 It
+has also become pertinent to understand if patient's sociodemographic or clinical variables predict who benefits most and least from
+rehabilitation. To address these questions, this study compared results of two commonly administered, validated vision-related quality of-life questionnaires before and after rehabilitation, and evaluated
+the relationship of baseline characteristics as well as completion of occupational therapy to change in patient-reported outcomes in a clinical population of low-vision patients undergoing vision rehabilitation.
+The two patient-reported outcome measures used in our study
+were the National Eye Institute Visual Functioning Questionnaire,
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+87
+
+
+[page 2]
+Vision Rehabilitation Outcomes — Selivanova et al.
+
+one of the most commonly used vision-related quality of life questionnaires in ophthalmic clinical research, and the Impact of Vision
+Impairment, a questionnaire specifically developed to measure
+outcomes from vision rehabilitation. Both questionnaires are used
+in vision rehabilitation research4,5; however, to our knowledge, they
+have never been evaluated together longitudinally in a low-vision
+population. Knowing which questionnaire is most sensitive to detect changes after rehabilitation may assist with future questionnaire selection for vision rehabilitation research. Based on vision
+rehabilitation literature and previous psychometric studies,7,8
+we hypothesize that the Impact of Vision Impairment and National
+Eye Institute Visual Functioning Questionnaire will differ in vision related quality-of-life measurement after vision rehabilitation in a
+population of low-vision patients.
+As part of usual care, the Vision Rehabilitation Centre at
+Massachusetts Eye and Ear collects many patient variables: demographics, visual function, diagnosis, field loss testing using a macular perimeter, and occupation therapy progress notes. Based on
+our clinical experience, we hypothesize that older patients with
+worse fields, worse visual function, and less occupational therapy
+would demonstrate less improvement in vision-related quality of
+life compared with their counterparts. Understanding which
+patient characteristics are associated with improved patient reported outcomes can inform effective models of care.
+
+METHODS
+Recruitment
+This prospective clinical cohort study was conducted at the Vision Rehabilitation Clinic of Massachusetts Eye and Ear Infirmary
+from December 2012 to December 2014. Patients attending the
+clinic for the first time were invited to participate. Participants were
+older than 18 years, English speaking, and without severe hearing
+or cognitive impairment as assessed by a clinician. Written consent
+was obtained from all participants. The research study was approved by the institutional review board at the Massachusetts Eye
+and Ear Infirmary and complied fully with the tenets of Declaration
+of Helsinki.
+
+Comprehensive Vision Rehabilitation
+The Vision Rehabilitation Clinic at the Massachusetts Eye and
+Ear Infirmary provides a multidisciplinary model of comprehensive
+vision rehabilitation that addresses five areas of patient function:
+reading, activities of daily living, safety, continuing to participate
+in activities despite vision loss, and psychosocial well-being
+(American Academy of Ophthalmology, 2013).3 All subjects had
+an assessment by an ophthalmologist (MLJ) who is a specialist in
+vision rehabilitation and were referred to occupational therapy if
+goals identified on the initial consultation could be addressed with
+training and/or training with devices. Occupational therapy included up to 11 hours of therapy at home or in the clinic and focused on addressing the patients' individual goals with appropriate
+training and devices, such as training patients to navigate pages of
+text with a magnifying device, using alternate strategies such as
+operating an audio book player, or using a computer with accessibility options. Occupational therapists also provided referral to
+other multidisciplinary services such as orientation and mobility
+training to use a long white cane. As appropriate, patients were
+offered resources and referral to support groups, counselors,
+and social work services.
+www.optvissci.com
+
+Baseline Characteristics
+Six baseline sociodemographic and clinical characteristics were
+extracted from patients' medical records: (1) age, (2) sex, (3) visual
+acuity, (4) contrast sensitivity, (5) visual field loss, and (6) diagnosis
+of eye condition. An additional variable, whether the subject completed occupational therapy, was also included. Best-corrected visual
+acuity in the better eye was measured using the Early Treatment Diabetic Retinopathy Study chart at 1 m or a projected chart (in logMAR).
+Binocular contrast sensitivity was measured using the Pelli-Robson
+chart at 1 m. Extent of central field loss was measured monocularly
+using the OPTOS scanning laser ophthalmoscope macular perimeter
+OPKO/OTI (OPKO Instrumentation, Miami, FL). The extent of the
+scotoma was estimated using monocular perimetry tests and by determining the scotoma that would overlap, viewing binocularly.9
+Peripheral field loss was obtained from patient notes.
+
+Administration of Questionnaires
+All patients were mailed the Impact of Vision Impairment questionnaire and National Eye Institute Visual Functioning Questionnaire 2 weeks before their baseline appointment at the clinic and
+asked to complete the questionnaires themselves or with the assistance of others (family, friends, or clinic staff ). Post-rehabilitation
+questionnaires were sent to subjects 1 month after discharge or
+within 3 months after last occupational therapy appointment for
+those who did not return for further occupational therapy treatment. Subjects were followed up by telephone if questionnaires
+were not returned, and questionnaires were administered by telephone if subjects wished it so. Administration of questionnaires
+was performed by the clinic research coordinator.
+
+National Eye Institute Visual
+Functioning Questionnaire
+The National Eye Institute Visual Functioning Questionnaire is a
+vision-related quality-of-life questionnaire that has been previously
+validated in patients with eye diseases (including age-related macular degeneration and low vision).7,8,10 The original questionnaire
+scoring has 12 vision-specific subscales.7–9 The driving subscale
+was not used in the current study, and three additional questions
+about near vision (A3, A4, and A5) were included in the hope that
+additional questions will help measure improvement in patients
+with central vision loss after rehabilitation.
+
+Impact of Vision Impairment Questionnaire
+The Impact of Vision Impairment is a vision-related quality of-life questionnaire that has been previously validated in a
+low-vision population.11 The questionnaire has a total scale12,13 and
+three subscales: reading and accessing information (reading), mobility
+and independence (mobility), and emotional well-being (well-being).
+
+Psychometric Assessment of the Outcome Measures
+Rasch analysis was used to assess the psychometric properties
+of the Impact of Vision Impairment and the National Eye Institute
+Visual Functioning Questionnaire using the Andrich rating scale
+model14 with Winsteps software (version 3.81; Chicago, IL).15
+Rasch analysis is a form of item response theory and enables ordinal raw questionnaire scores to be transformed to estimates of interval measures (expressed in log of the odds units, or logits),
+thus enabling subsequent parametric analyses to be confidently
+performed.16 In the case of the Impact of Vision Impairment and
+the National Eye Institute Visual Functioning Questionnaire, a high
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+88
+
+
+[page 3]
+Vision Rehabilitation Outcomes — Selivanova et al.
+
+person measure (in logits) indicates that a person possesses a high
+level of the assessed latent trait (e.g., vision-related quality of life).
+Rasch analysis also provides significant insight into the psychometric properties of the scale, including (a) appropriate
+use of response categories, (b) measurement precision, (c) how
+well items “fit” the underlying trait, (d) unidimensionality, (e)
+targeting of item difficulty to patients' ability, and (f) differential
+item functioning.17
+To generate valid pre-rehabilitation and post-rehabilitation person measures, the data were anchored to item measures and structure calibrations at baseline for the subsequent analyses, which is
+standard in pre/post–Rasch analyses.18,19 This approach reduces
+distortion of the estimated person measures by anchoring the Impact of Vision Impairment questionnaire and National Eye Institute
+Visual Functioning Questionnaire to baseline, thus ascertaining
+that the same instrument with identical measurement properties
+is used to repeatedly test participants over time. Baseline and
+follow-up data were also stacked to establish that differences between the scores for all outcome measures at baseline and follow up were valid indicators of changes over time.20
+Overall, the composite Impact of Vision Impairment scale
+displayed suboptimal fit to Rasch model parameters. Although
+scale precision and targeting were excellent, there was evidence
+of multidimensionality, which could be resolved only by splitting
+the Impact of Vision Impairment into three separate scales: reading
+(items 1, 3, 5 to 9, 14, and 15), mobility (items 2, 4, 10 to 13, and
+16 to 20), and well-being (items 21 to 28). These three scales—
+which were proposed in the original validation studies of the Impact of Vision Impairment21,22—were unidimensional, displayed
+excellent precision and targeting, were free from differential item
+functioning, and were used for our subsequent analysis.
+Previous Rasch analysis of the National Eye Institute Visual
+Functioning Questionnaire has demonstrated that the composite
+scale and 6 of the 12 proposed subscales are dysfunctional, and
+a two-factor structure—visual functioning and socioemotional—
+has been proposed.7,8 Guided both by this prior analysis and by
+the standardized residual loadings in principal components analysis from our own data, we used a similar two-factor structure. The
+National Eye Institute Visual Functioning Questionnaire has seven
+different rating scales for patients to record their responses. Our
+analysis found that rating scale 6 (items 17 to 19, all of the time
+to none of the time) and rating scale 7 (items 20 to 25, definitely
+true to definitely false) were disordered. To resolve disordered
+thresholds, categories 4 and 5 were collapsed for rating scale 6,
+and category 3 (“not sure”) was coded as missing data in rating
+scale 7, based on empirical evidence from a similar validation
+study of the National Eye Institute Visual Functioning Questionnaire using Rasch analysis.7,8 Rasch analysis of the National Eye
+Institute Visual Functioning Questionnaire also revealed that the
+scale was multidimensional, with a high eigenvalue (3.1) and
+seven misfitting items. The visual functioning scale (items 2, 4, 5
+to 14, 19, and A3 to A5) displayed good precision and targeting;
+however, multidimensionality was evident, with a high eigenvalue
+(2.7) and two misfitting items. There was also evidence of differential item functioning for sex for item A5 (“how much difficulty do
+you have doing things like shaving, styling your hair, or putting
+on makeup”). This item was more difficult for men than for
+women, despite the two groups having a similar underlying level
+of visual functioning. Therefore, we iteratively deleted items A3 to
+A5 to resolve multidimensionality and differential item functioning, and we deleted item 4 because of misfit. The remaining
+www.optvissci.com
+
+12 items displayed excellent fit to Rasch model parameters. The
+socioemotional scale (items 3, 17, 18, and 20 to 25, which relate
+to the original dependency, mental health, and role limitations
+subscales) displayed excellent psychometric properties and did
+not require any amendments to its structure. Thus, the two subscales of visual functioning and socioemotional were used for
+subsequent analysis.
+
+Statistical Analyses
+All statistical analyses were performed using Stata 14.2 for
+Windows (Stata Corp LLC, College Station, TX). Patients' baseline
+characteristics were reported as mean (standard deviation) for continuous variables and as frequency count (percent) for categorical
+variables. Independent-sample t test and χ2 test for continuous
+and categorical variables, respectively, were used to compare baseline characteristics between those who enrolled in the research
+study and those who declined and between patients who completed both questionnaires and those who did not complete the
+post-rehabilitation questionnaires. Paired t tests were then performed to determine if change in questionnaire scores was significantly different from pre-rehabilitation to post-rehabilitation, with
+Bonferroni adjustments used for multiple comparisons. A multivariable binary logistic regression model was then used to determine
+the impact of participants' basic demographic and clinical characteristics, together with occupational therapy attendance and duration, on post-rehabilitation vision-related quality-of-life scores in
+the subscales of the Impact of Vision Impairment and National
+Eye Institute Visual Functioning Questionnaire. A two-sided P value
+of less than .05 was considered statistically significant.
+
+RESULTS
+Participants
+A total of 189 patients agreed to participate in this study and
+completed pre-rehabilitation questionnaires. Patients (n = 219)
+who did not agree to participate in this study during the same period did not differ in age, sex, visual acuity, or contrast sensitivity
+(P > .05, data not shown). Only 109 (58%) of the 189 patients
+completed both pre-questionnaires and post-questionnaires, and
+the overall mean age (standard deviation) of these participants
+was 68.5 (19.2) years, with 61 (56%) being female. The reasons
+for failure to obtain post-rehabilitation questionnaires included
+(1) subjects not mailing questionnaires after reminders, (2) subjects lost to contact, (3) refusal, and (4) subjects reporting poor
+health that made it too difficult to complete questionnaires. When
+baseline characteristics of those who completed both questionnaires and those who did not complete post-rehabilitation questionnaires were compared, the groups did not differ significantly
+in sex (P = .42, χ2 test), age (P = .06), or visual acuity (P = .08).
+However, the group who did not complete post-rehabilitation questionnaires had significantly (P = .02) better average contrast sensitivity (mean [standard deviation], 1.30 [0.46]) than did the group
+who completed both pre-questionnaires and post-questionnaires
+(mean [standard deviation], 1.14 [0.43]). Table 1 shows the characteristics of patients who completed both pre-rehabilitation questionnaires and post-rehabilitation questionnaires and participated
+in the study. Patients who were not referred to occupational therapy
+included those who in the clinician's opinion did not require further
+training after the initial consultation.
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+89
+
+
+[page 4]
+Vision Rehabilitation Outcomes — Selivanova et al.
+
+TABLE 1. Characteristics of patients who completed pre-rehabilitation
+and post-rehabilitation questionnaires
+Variable
+
+n = 109
+
+Age (y), mean (SD)
+
+68.5 (19.2)
+
+Female, n (%)
+
+61 (56.0)
+
+Visual acuity in the better eye, mean logMAR (SD)
+
+0.52 (0.41)
+
+Contrast sensitivity in both eyes, mean log (SD)
+
+1.14 (0.43)
+
+Diagnosis, n (%)
+Macular disease
+
+61 (56.0)
+
+Glaucoma
+
+13 (11.9)
+
+Optic nerve disease
+
+6 (5.50)
+
+RP/peripheral retinal disease
+
+11 (10.1)
+
+Hemianopia
+
+5 (4.59)
+
+Other*
+
+13 (11.9)
+
+Field loss, n (%)
+Central
+
+67 (61.5)
+
+Central and peripheral
+
+29 (26.6)
+
+Peripheral loss
+
+3 (2.75)
+
+Hemianopia
+
+5 (4.59)
+
+No field loss
+
+5 (4.59)
+
+Total hours of OT, n (%)
+<1.5 h
+
+57 (52.3)
+
+≥1.5 h
+
+32 (29.4)
+
+≥3 h
+
+20 (18.3)
+
+OT completion, n (%)
+OT completed
+
+37 (33.9)
+
+OT not completed
+
+47 (43.1)
+
+Referred to OT but did not attend
+
+16 (14.7)
+
+Not referred to OT
+
+9 (8.26)
+
+*Five subjects (4.59%) had other types of field loss from neuroophthalmic disorders, two (1.83%) had cerebral palsy, one (0.92%)
+had keratitis, and another five (4.59%) had complicated diagnoses
+that involved having several ophthalmic diseases in one or both eyes.
+OT = occupational therapy; RP = retinitis pigmentosa.
+
+Change in Vision-related Quality-of-life Scores
+After Rehabilitation
+There was a significant increase in vision-related quality-of-life
+scores on all three Impact of Vision Impairment subscales after rehabilitation: reading (mean change, 0.59 logits; P < .001, paired t test),
+mobility (mean change, 0.38 logits; P = .002), and well-being (mean
+change, 0.68 logits; P = .0003; Table 2). Both National Eye Institute Visual Functioning Questionnaire visual functioning and
+socioemotional subscale scores also increased significantly after
+rehabilitation (P = .01 and P = .003, respectively). The effect
+sizes were moderate for Impact of Vision Impairment reading (Cohen
+d = 0.50) and small for Impact of Vision Impairment well-being
+(0.37), Impact of Vision Impairment mobility (0.31), and National
+Eye Institute Visual Functioning Questionnaire visual functioning
+(0.22) and socioemotional subscales (0.34).23
+
+Predicting Change in Vision-related Quality-of-life
+Scores from Patient Characteristics and
+Occupational Therapy
+Table 3 shows the independent associations of the baseline
+participant's demographic and clinical characteristics, and attendance and duration of occupational therapy, with pre/post-changes
+in vision-related quality of life as assessed using the Impact of Vision Impairment and National Eye Institute Visual Functioning
+Questionnaire. For the demographic variables, only male sex was
+associated with smaller odds of experiencing an increase in scores
+in both the functional (odds ratio, 0.29; 95% confidence interval,
+0.12 to 0.73; multivariable logistic regression) and emotional
+(odds ratio, 0.37; 95% confidence interval, 0.15 to 0.92) subscales
+of the National Eye Institute Visual Functioning Questionnaire. A diagnosis of nonmacular diseases was associated with a higher likelihood of having increased scores in the emotional aspect of the
+National Eye Institute Visual Functioning Questionnaire (Table 3).
+In contrast, patients with hemianopia and peripheral field loss had
+a lower likelihood of having increased scores on Impact of Vision Impairment well-being (odds ratio, 0.008; 95% confidence interval,
+0.001 to 0.54). Participants who were referred to but did not attend
+occupational therapy were less likely to experience a positive change
+after follow-up in Impact of Vision Impairment mobility scores as
+compared with those who did not need occupational therapy referrals (odds ratio, 0.04; 95% confidence interval, 0.001 to 0.95).
+
+TABLE 2. Change in vision-related quality-of-life scores of IVI and NEI VFQ-25 questionnaire before and after rehabilitation
+Mean (SD) in logits
+
+Pre-rehabilitation
+
+Post-rehabilitation
+
+Pre/post-change
+
+Effect size (Cohen d)
+
+P
+
+Reading
+
+−0.20 (1.22)
+
+0.48 (1.35)
+
+0.59
+
+0.50
+
+<.0001*
+
+Mobility
+
+−0.11 (1.18)
+
+0.26 (1.48)
+
+0.38
+
+0.31
+
+.002*
+
+Well-being
+
+−0.20 (1.85)
+
+0.39 (1.95)
+
+0.68
+
+0.37
+
+.0003*
+
+IVI Rasch scores
+
+NEI VFQ-25 Rasch scores
+Visual functioning
+
+0.16 (1.01)
+
+0.38 (1.16)
+
+0.22
+
+0.25
+
+.01
+
+Socioemotional
+
+0.23 (1.39)
+
+0.56 (1.49)
+
+0.34
+
+0.29
+
+.003*
+
+Rasch scores are in logits (range, −4.74 to 4.73). Effect size was calculated by dividing the difference between pre-rehabilitation and post-rehabilitation
+subscale means over the pooled SD for those means. *P < .05 after Bonferroni adjustments. IVI = Impact of Vision Impairment; NEI VFQ-25 = National
+Eye Institute Visual Functioning Questionnaire.
+
+www.optvissci.com
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+90
+
+
+[page 5]
+Vision Rehabilitation Outcomes — Selivanova et al.
+
+TABLE 3. Multivariable* linear regression model of the associations between baseline subject characteristics and change in vision-related quality of life
+IVI
+
+NEI-VFQ
+
+Reading,
+OR (95% CI)
+
+Mobility,
+OR (95% CI)
+
+Well-being,
+OR (95% CI)
+
+Functional,
+OR (95% CI)
+
+Emotional,
+OR (95% CI)
+
+0.98 (0.96–1.01)
+
+0.99 (0.97–1.04)
+
+1.01 (0.98–1.04)
+
+1.00 (0.97–1.02)
+
+1.00 (0.98–1.03)
+
+Patient characteristic
+Age
+Male sex
+
+0.87 (0.36–2.13)
+
+0.68 (0.29–1.55)
+
+0.45 (0.18–1.13)
+
+0.29 (0.12–0.73)
+
+0.37 (0.15–0.92)
+
+Visual acuity
+
+1.32 (0.45–3.89)
+
+1.26 (0.44–3.57)
+
+0.34 (0.09–1.25)
+
+0.68 (0.22–2.08)
+
+0.72 (0.24–2.18)
+
+Contrast sensitivity
+
+0.99 (0.97–1.02)
+
+0.98 (0.95–1.01)
+
+0.97 (0.93–1.01)
+
+0.99 (0.97–1.02)
+
+0.99 (0.97–1.02)
+
+Diagnosis
+Macular disease
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+1.20 (0.28–5.02)
+
+0.84 (0.24–2.91)
+
+1.70 (0.42–6.87)
+
+1.68 (0.43–6.43)
+
+4.22 (1.02–17.5)
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+Central and peripheral
+
+0.49 (0.03–7.30)
+
+0.64 (0.05–7.69)
+
+0.15 (0.004–5.92)
+
+1.05 (0.10–11.3)
+
+0.27 (0.02–4.61)
+
+Central
+
+1.44 (0.09–22.6)
+
+1.00 (0.07–12.9)
+
+0.10 (0.003–3.49)
+
+0.97 (0.10–9.87)
+
+0.39 (0.03–5.92)
+
+Hemianopia and peripheral loss
+
+0.34 (0.02–6.89)
+
+0.82 (0.05–12.2)
+
+0.008 (0.001–0.54)
+
+2.22 (0.13–37.8)
+
+0.45 (0.18–11.3)
+
+Others
+Type of field loss
+No field loss
+
+OT completion
+Not referred
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+Complete, discharged
+
+0.19 (0.02–2.39)
+
+0.09 (0.005–1.93)
+
+7.27 (0.73–72.8)
+
+1.53 (0.21–10.9)
+
+2.37 (0.32–17.5)
+
+Incomplete, no discharge
+
+0.13 (0.01–1.56)
+
+0.07 (0.004–1.54)
+
+3.88 (0.46–32.6)
+
+0.47 (0.07–3.08)
+
+0.85 (0.13–5.56)
+
+Referred, but did not attend
+
+0.13 (0.01–1.72)
+
+0.04 (0.001–0.95)
+
+1.04 (0.12–8.99)
+
+0.38 (0.05–2.84)
+
+0.65 (0.09–4.81)
+
+<1.5 h
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+Reference
+
+≥1.5 h
+
+1.52 (0.50–4.61)
+
+1.03 (0.37–2.86)
+
+0.32 (0.09–1.14)
+
+1.28 (0.40–4.06)
+
+0.38 (0.12–1.23)
+
+≥3 h
+
+2.67 (0.68–10.5)
+
+0.98 (0.30–3.29)
+
+0.35 (0.08–1.50)
+
+0.32 (0.08–1.28)
+
+0.20 (0.05–0.82)
+
+Length of OT
+
+Bold font indicates significant associations. *Adjusted for all variables in the model. CI = confidence interval; IVI = Impact of Vision Impairment; NEI
+VFQ-25 = National Eye Institute Visual Functioning Questionnaire; OR = odds ratio; OT = occupational therapy.
+
+Lastly, having attended occupational therapy sessions for at least
+3 hours decreased the likelihood of greater vision-related quality of-life scores in the emotional domain of the National Eye Institute
+Visual Functioning Questionnaire (odds ratio, 0.20; 95% confidence interval, 0.05 to 0.82). No other associations were found with
+other participant characteristics and vision-related quality of life.
+
+DISCUSSION
+Millions of people in the United States and worldwide have irreversible vision loss, and vision rehabilitation remains the only treatment option for these people. Unlike in most ophthalmology
+studies, measurement of visual function is not an outcome that reflects the contributions of vision rehabilitation. As a result, patient reported outcomes in the form of vision-related quality-of-life
+questionnaires have become the most commonly used outcome
+measure of rehabilitation.5 In our study, we measured perceived
+efficacy of our usual care vision rehabilitation at Massachusetts
+Eye and Ear Infirmary using two commonly used patient reported outcomes: Impact of Vision Impairment and National
+Eye Institute Visual Functioning Questionnaire. We found that indeed
+our usual care vision rehabilitation led to increased vision-related
+www.optvissci.com
+
+quality-of-life scores in our patient cohort. Because individual patients
+respond to vision rehabilitation differently, we examined the data
+to elucidate whether patient characteristics and participation in
+occupational therapy predicted a positive change in scores on
+vision-related quality of life. Surprisingly, sex, field loss, and occupational therapy attendance/duration predicted a less likelihood of
+higher scores, and only diagnosis other than macular disease was
+predictive of increases in vision-related quality-of-life scores.
+
+Change in Vision-related Quality-of-life Scores
+After Rehabilitation
+Our main result from the study was that perceived vision-related
+quality of life increased in all three Impact of Vision Impairment
+subscales and in the two National Eye Institute Visual Functioning
+Questionnaire subscales after comprehensive vision rehabilitation.
+The reading subscale of the Impact of Vision Impairment had the
+largest effect size (Cohen d = 0.50), and the National Eye Institute
+Visual Functioning Questionnaire socioemotional subscale had a
+smaller effect size (0.29) than did the similar Impact of Vision Impairment well-being subscale (0.37). Our effect sizes are similar to
+or a little larger than Impact of Vision Impairment effect sizes
+reported in published studies, for example, Lamoureux et al.11
+(mobility, 0.17; reading, 0.20; and well-being, 0.30) and
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+91
+
+
+[page 6]
+Vision Rehabilitation Outcomes — Selivanova et al.
+
+Wang et al.24 (mobility, 0.18 and 0.22). Although these previous
+studies had rehabilitation programs of different intensity from ours,
+all of the programs aimed to measure outcomes from usual care settings, which ultimately may be similar in their heterogeneity.11,24
+For the National Eye Institute Visual Functioning Questionnaire,
+only non–Rasch-scored subscale effect sizes ranging from 0.09
+to 0.55 (which is similar to our findings) have been published.25
+Although our effect sizes (between 0.2 and 0.5) are on par with
+most other low-vision rehabilitation outcome studies,26 several
+studies have reported larger effect sizes after vision rehabilitation.27,28 The LOVITT 1 trial by Stelmack et al.27 had effect sizes
+between 1.14 and 2.51 using the Veterans Affairs Low-Vision Visual
+Functioning Questionnaire patient-reported outcomes. The study
+offered intensive multidisciplinary rehabilitation and provided low vision devices at no cost to a sample of largely white, male veterans.
+Because it is unlikely to encounter such a homogeneous sample and
+uniform treatment paradigm in typical clinical practice, it is reasonable to assume that effect sizes for general vision rehabilitation are
+much smaller, and in fact, this has been the case in most studies.
+The effect sizes in the study by Goldstein et al.28 range between
+0.38 and 0.82 using Activity Inventory patient-reported outcomes. Our effect size range of 0.25 to 0.50 has a good concordance with that of Goldstein et al.28 as well as similar
+follow-up rates, which may contribute to selection bias. It is
+possible that their slightly larger effect sizes were a result of
+the instrument used (Activity Inventory) or study design, or a
+combination of both. Discrepancies in effect sizes, of course,
+can also be indicative of noise in questionnaires: high effect
+sizes may mean that the questionnaire is exaggerating the effect after treatment, whereas low effect sizes may mean that
+the questionnaire is understating the real treatment effect.
+Such discrepancies make extrapolating increased scores in
+vision-related quality of life to patient's actual improvement
+difficult. Ideally, both the Impact of Vision Impairment and
+the National Eye Institute Visual Functioning Questionnaire
+need to be psychometrically evaluated for reproducibility and
+reliability in our clinic population. However, such analysis was
+beyond the scope of the study.
+
+Predicting Change in Vision-related Quality-of-life
+Scores from Patient Characteristics and
+Occupational Therapy
+Results from our multivariable logistic regression show that patient characteristics such as being male, visual field loss, and treatment options such as referral to occupational therapy and length of
+occupational therapy predict less increase in vision-related quality of-life scores, whereas having a diagnosis other than macular disease
+predicts an increase in vision-related quality-of-life scores. Vision rehabilitation studies indicate that age rather than sex is a predictor of
+vision-related quality of life.27,28 Most associations depend on sample
+size and distribution, and it is possible that sex was not a predictor in
+our study because of small sample size and the uneven distribution of
+our age group (our participants' median age was 75 years). Because
+sex is not an established predictor in vision rehabilitation, perhaps
+men's lower likelihood of increased scores on vision-related quality
+of life reflects the idiosyncrasy of our study population. Field loss, especially hemianopia and peripheral field loss, predicted a lower likelihood of positive change in scores on vision-related quality of life. Field
+loss is known to negatively affect vision-related quality of life in glaucoma and hemianopia patients.29,30 In our study, higher scores on
+www.optvissci.com
+
+the Impact of Vision Impairment well-being subscale but not on the
+mobility subscale were reduced by visual field loss. However, this result should be interpreted with caution because there were only eight
+participants in the hemianopia and peripheral field loss group. Because the Impact of Vision Impairment was designed for patients with
+poor central vision, it is possible that it may not be sensitive enough to
+detect mobility-related vision-related quality-of-life change in patients
+with bad peripheral vision but good central vision.31 Our findings
+about occupational therapy completion and duration are unique because, to our knowledge, no one has looked at occupational therapy
+as a predictor of vision-related quality of life. It certainly seems intuitive that those who are referred to occupational therapy but do not attend do worse on the Impact of Vision Impairment mobility subscale,
+as our occupational therapists do training about mobility issues such
+as fall prevention strategies. It is also reasonable that those who attend
+more than 3 hours of occupational therapy do not do well on the
+socioemotional National Eye Institute Visual Functioning Questionnaire subscale. Longer occupational therapy hours often indicate patients with greater need for rehabilitation or more rehabilitation
+goals. It is worth noting that the “not referred” occupational therapy
+group, which was taken as a reference group in the analyses, had
+only nine participants in it, and thus, the results should be
+interpreted with caution. The small sample size in the group likely
+led to large confidence intervals for the occupational therapy completion variable in Table 3. In our study, diagnoses other than macular disease predicted greater scores on the National Eye Institute
+Visual Functioning Questionnaire socioemotional subscale. Because
+it is likely that nonmacular diseases often encompass diseases of peripheral vision, it is counterintuitive that those with visual field loss
+have decreased scores on Impact of Vision Impairment well-being,
+an opposite result with the National Eye Institute Visual Functioning
+Questionnaire. This discrepancy is an example of a discordance between the Impact of Vision Impairment questionnaire and the National Eye Institute Visual Functioning Questionnaire.
+
+Limitations
+There are several limitations to our study results. First, our results may not be generalizable to other populations or other models
+of vision rehabilitation. There was variability in how soon patients
+completed questionnaires after rehabilitation, which may have
+confounded results; however, such inconsistency is inevitable in
+usual care, and no significant relationship between follow-up time
+and effect size was reported in a systematic review of outcomes of
+vision rehabilitation.6 Second, those with better vision (i.e., better
+contrast sensitivity) were more likely to not respond to postrehabilitation questionnaires. This may have created a sample bias
+in our study population. Those who consented for the study and
+those who did not consent, however, did not differ significantly,
+thus showing that our overall sample was representative of all patients attending the clinic. Third, an adaptive response questionnaire, one that estimates a patient's goals and his/her difficulty
+based on their relevance and importance to the patient, was not
+used in this study. The use of one such questionnaire, Activity Inventory, has been advocated in vision rehabilitation research.25,27
+These questionnaires are generally lengthy to administer and do
+not include a well-being subscale, which we find important as an
+outcome of vision rehabilitation; however, comparing the performance of a quality-of-life questionnaire and an Activity Inventory–
+type questionnaire may be of interest in future studies. Lastly, as
+mentioned previously, the questionnaires needed to be analyzed
+more thoroughly because discrepancies in effect sizes, as well as
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+92
+
+
+[page 7]
+Vision Rehabilitation Outcomes — Selivanova et al.
+
+disagreement in some results, may imply questionnaire noise.
+Nonetheless, one strength of our study was our use of Rasch analysis to assess the psychometric properties of the Impact of Vision
+Impairment and the National Eye Institute Visual Functioning
+Questionnaire and to convert the raw, ordinal scores to interval level
+data. Rasch analysis improves measurement precision and ability to
+detect significant associations (Fenwick et al. 2013;32 Garamendi
+et al. 2006;33 Norquist et al. 200434).
+
+CONCLUSIONS
+In this study, we found that vision-related quality-of-life scores increased significantly after our usual care comprehensive vision rehabilitation at Massachusetts Eye and Ear Infirmary using both the
+Impact of Vision Impairment and the National Eye Institute Visual
+Functioning Questionnaire as patient-reported outcomes. Treatment
+effect size was biggest using the Impact of Vision Impairment; however, it is not clear if that means that Impact of Vision Impairment is
+
+ARTICLE INFORMATION
+Submitted: February 7, 2018
+Accepted: September 25, 2018
+Funding/Support: None of the authors have reported
+funding/support.
+Conflict of Interest Disclosure: None of the authors have
+reported a financial conflict of interest.
+Author Contributions and Acknowledgments: Conceptualization:
+AS, MLJ; Data Curation: AS; Formal Analysis: EF, RM; Project
+Administration: AS; Supervision: MLJ; Writing – Review &
+Editing: WS, MLJ.
+The authors would like to thank Ms. Rong Guo for her
+statistical assistance in the early preparation of the article.
+
+REFERENCES
+1. Bourne RRA, Flaxman SR, Braithwaite T, et al. Magnitude, Temporal Trends, and Projections of the Global
+Prevalence of Blindness and Distance and Near Vision
+Impairment: A Systematic Review and Meta-analysis.
+Lancet Glob Health 2017;5:e888–97.
+2. Chan T, Friedman DS, Bradley C, et al. Estimates of
+Incidence and Prevalence of Visual Impairment,
+Low Vision, and Blindness in the United States. JAMA
+Ophthalmol 2018;136:12–9.
+3. American Academy of Ophthalmology Vision Rehabilitation Committee. Preferred Practice Pattern
+Guidelines. Vision Rehabilitation for Adults. San Francisco,
+CA: American Academy of Ophthalmology; 2013: Available at: www.aao.org/ppp. Accessed January 8, 2018.
+4. Khadka J, McAlinden C, Pesudovs K. Quality Assessment of Ophthalmic Questionnaires: Review
+and Recommendations. Optom Vis Sci 2013;90:
+720–44.
+5. de Boer MR, Moll AC, de Vet HC, et al. Psychometric
+Properties of Vision-related Quality of Life Questionnaires: A Systematic Review. Ophthalmic Physiol Opt
+2004;24:257–73.
+
+www.optvissci.com
+
+more sensitive to vision rehabilitation or tends to exaggerate the
+treatment effect. As hypothesized, certain clinically relevant patient
+characteristics and treatment options were predictors of vision-related
+quality of life. Male sex, having field loss, not completing occupational
+therapy, or having more hours of occupational therapy may all indicate patients in need of different rehabilitation intervention, as they
+had less likelihood of having increased vision-related quality-of-life
+scores. Most important findings for vision rehabilitation clinicians include poor follow-through with occupational therapy (57.8% did not
+complete or attend occupational therapy) and that many patient variables did not predict change in vision-related quality of life, perhaps
+implying that there are other variables we did not measure that may
+play a more significant role in vision-related quality of life, such as
+motivation. A study design that allows for comparison of treatment
+versus nontreatment groups such as a crossover design would be optimal
+to better assess the unbiased effect of usual care vision rehabilitation. Future studies should focus on psychometrically comparing the Impact of
+Vision Impairment and the National Eye Institute Visual Functioning
+Questionnaire after vision rehabilitation and including a control group to
+elucidate effectiveness of vision rehabilitation in a general population.35
+
+6. Binns AM, Bunce C, Dickinson C, et al. How Effective
+Is Low Vision Service Provision? A Systematic Review.
+Surv Ophthalmol 2012;57:34–65.
+
+18. Wright B. Rasch Meas Trans. In: Rack and Stack: Time
+1 vs. Time 2 2003: Available at: https://www.rasch.org/rmt/
+rmt171a.htm. Accessed January 8, 2018.
+
+7. Marella M, Pesudovs K, Keeffe JE, et al. The Psychometric
+Validity of the NEI VFQ-25 for Use in a Low-vision Population.
+Invest Ophthalmol Vis Sci 2010;51:2878–84.
+
+19. Chien T. Repeated Measure Designs and Rasch. Rasch
+Meas Trans 2008; Available at: https://www.rasch.org/rmt/
+rmt223b.htm. Accessed January 8, 2018.
+
+8. Pesudovs K, Gothwal VK, Wright T, et al. Remediating
+Serious Flaws in the National Eye Institute Visual Function
+Questionnaire. J Cataract Refract Surg 2010;36:718–32.
+
+20. Wolfe EW, Chiu CW. Measuring Pretest-posttest
+Change with a Rasch Rating Scale Model. J Outcome
+Meas 1999;3:134–61.
+
+9. Jackson ML, Schoessow KA, Selivanova A, et al.
+Adding Access to a Video Magnifier to Standard Vision
+Rehabilitation: Initial Results on Reading Performance
+and Well-being from a Prospective, Randomized Study.
+Digit J Ophthalmol 2017;23:1–10.
+
+21. Lamoureux EL, Pallant JF, Pesudovs K, et al. The
+Impact of Vision Impairment Questionnaire: An Evaluation
+of Its Measurement Properties Using Rasch Analysis. Invest
+Ophthalmol Vis Sci 2006;47:4732–41.
+
+10. Mangione CM, Lee PP, Pitts J, et al. Psychometric
+Properties of the National Eye Institute Visual Function
+Questionnaire (NEI-VFQ). NEI-VFQ Field Test Investigators. Arch Ophthalmol 1998;116:1496–504.
+11. Lamoureux EL, Pallant JF, Pesudovs K, et al. The Effectiveness of Low-vision Rehabilitation on Participation
+in Daily Living and Quality of Life. Invest Ophthalmol Vis
+Sci 2007;48:1476–82.
+12. Finger RP, Fenwick E, Marella M, et al. The Impact
+of Vision Impairment on Vision-specific Quality of Life
+in Germany. Invest Ophthalmol Vis Sci 2011;52:
+3613–9.
+13. Finger RP, Fenwick E, Marella M, et al. The Relative
+Impact of Vision Impairment and Cardiovascular Disease
+on Quality of Life: The Example of Pseudoxanthoma
+Elasticum. Health Qual Life Outcomes 2011;9:113.
+14. Linacre J. A User's Guide to Winsteps: Rasch-model
+Computer Program. Chicago: MESA Press; 2002.
+15. Andrich D. A Rating Formulation for Ordered Response Categories. Psychometrika 1978;43:561–73.
+16. Mallinson T. Why Measurement Matters for Measuring Patient Vision Outcomes. Optom Vis Sci 2007;84:
+675–82.
+17. Lamoureux E, Pesudovs K. Vision-specific Quality of-life Research: A Need to Improve the Quality. Am J
+Ophthalmol 2011;151:195–7.e2.
+
+22. Lamoureux EL, Pallant JF, Pesudovs K, et al. The
+Impact of Vision Impairment Questionnaire: An Assessment of Its Domain Structure Using Confirmatory Factor
+Analysis and Rasch Analysis. Invest Ophthalmol Vis Sci
+2007;48:1001–6.
+23. Cohen J. Statistical Power Analysis for the Behavioral Sciences. 2nd ed. Hillsdale, NJ: L. Erlbaum
+Associates; 1988.
+24. Wang BZ, Pesudovs K, Keane MC, et al. Evaluating
+the Effectiveness of Multidisciplinary Low-vision Rehabilitation. Optom Vis Sci 2012;89:1399–408.
+25. Lloyd AJ, Loftus J, Turner M, et al. Psychometric
+Validation of the Visual Function Questionnaire-25 in
+Patients with Diabetic Macular Edema. Health Qual Life
+Outcomes 2013;11:10.
+26. Massof RW, Stelmack JA. Interpretation of Low vision Rehabilitation Outcome Measures. Optom Vis
+Sci 2013;90:788–98.
+27. Stelmack JA, Tang XC, Reda DJ, et al. Outcomes of
+the Veterans Affairs Low Vision Intervention Trial
+(LOVIT). Arch Ophthalmol 2008;126:608–17.
+28. Goldstein JE, Jackson ML, Fox SM, et al. Clinically
+Meaningful Rehabilitation Outcomes of Low Vision Patients Served by Outpatient Clinical Centers. JAMA
+Ophthalmol 2015;133:762–9.
+29. Medeiros FA, Gracitelli CP, Boer ER, et al. Longitudinal Changes in Quality of Life and Rates of Progressive
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+93
+
+
+[page 8]
+Vision Rehabilitation Outcomes — Selivanova et al.
+Visual Field Loss in Glaucoma Patients. Ophthalmology
+2015;122:293–301.
+30. Chen CS, Lee AW, Clarke G, et al. Vision-related Quality
+of Life in Patients with Complete Homonymous Hemianopia
+Post Stroke. Top Stroke Rehabil 2009;16:445–53.
+31. Lamoureux EL, Ferraro JG, Pallant JF, et al. Are
+Standard Instruments Valid for the Assessment of Quality of Life and Symptoms in Glaucoma? Optom Vis Sci
+2007;84:789–96.
+
+www.optvissci.com
+
+32. Fenwick EK, Xie J, Rees G, et al. Factors Associated
+with Knowledge of Diabetes in Patients with Type 2 Diabetes Using the Diabetes Knowledge Test Validated with
+Rasch Analysis. PLoS One 2013;8:e80593.
+
+34. Norquist JM, Fitzpatrick R, Dawson J, et al. Comparing Alternative Rasch-based Methods vs. Raw Scores in
+Measuring Change in Health. Med Care 2004;42:
+I25–36.
+
+33. Garamendi E, Pesudovs K, Stevens MJ, et al. The
+Refractive Status and Vision Profile: Evaluation of
+Psychometric Properties and Comparison of Rasch
+and Summated Likert-scaling. Vision Res 2006;46:
+1375–83.
+
+35. Mangione CM, Berry S, Spritzer K, et al. Identifying the
+Content Area for the 51-item National Eye Institute Visual
+Function Questionnaire: Results from Focus Groups
+with Visually Impaired Persons. Arch Ophthalmol
+1998;116:227–33.
+
+Optom Vis Sci 2019; Vol 96(2)
+
+Copyright © American Academy of Optometry. Unauthorized reproduction of this article is prohibited.
+
+94
+

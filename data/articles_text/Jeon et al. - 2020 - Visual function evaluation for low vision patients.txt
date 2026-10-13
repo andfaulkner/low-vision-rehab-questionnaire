@@ -1,0 +1,887 @@
+[page 1]
+Medicine
+
+®
+
+Observational Study
+
+OPEN
+
+Visual function evaluation for low vision patients
+with advanced glaucoma
+Soo Ji Jeon, MDa, Younhea Jung, MD, PhDb, Chang-Sub Jung, PhDc, Hae-Young Lopilly Park, MD, PhDa,
+∗
+Chan Kee Park, MD, PhDa,
+Abstract
+
+This study aimed to compare various visual function parameters for evaluating the quality of life (QOL) of patients with advanced
+glaucoma with low vision.
+In total, 44 eyes of advanced glaucoma patients with low vision were included in this cross-sectional study. A moving pattern edge
+band program was used to assess edge detection ability and the low vision quality-of-life (LVQOL) questionnaire was used for
+evaluating QOL scores of subjects. Correlation analyses between QOL scores and visual functional parameters including pattern
+edge band unit, visual acuity (VA), and Mean deviation (MD) of perimetry were performed. The areas under receiver operating
+characteristic curves (AUROCs) of diverse visual functional parameters were calculated.
+VA and pattern edge band unit were related to LVQOL score in all subjects. For patients with a decimal VA lower than 0.1, only the
+pattern edge band showed a signiﬁcant correlation with the QOL associated with distant activities (P = .031). However, the MD of
+perimetry was not related to the QOL score. After sorting subjects into 2 groups according to the LVQOL score, VA and pattern edge
+band unit were signiﬁcantly different (P < .01 and P = .029, respectively). The AUROC for edge detection ability using pattern edge
+band was higher than MD of perimetry.
+Assessment of edge detection ability using pattern edge band was meaningful for predicting QOL associated with visual
+performance in patients with far-advanced glaucoma. For these patients, edge detection could be used as an additional parameter
+for visual function with traditional VA and perimetry.
+Abbreviations: AUROC = area under receiver operating characteristic curves, CS = contrast sensitivity, FC = ﬁnger count, HM =
+hand movement, IOP = intraocular pressure, LVQOL = low vision quality-of-life, QOL = quality of life, RGCs = retinal ganglion cells,
+RNFL = retinal nerve ﬁber layer, SAP = standard automated perimetry, VF = visual ﬁeld.
+Keywords: advanced glaucoma, contrast sensitivity, edge detection, quality of life, visual function
+
+and rapid growth in the aging population,[2] the importance of
+age-related eye disease including age-related macular degeneration, diabetic retinopathy, and glaucoma has increased.[3] The
+estimated number of patients suffering from glaucoma may reach
+80 million by 2020, and 10% of those patients will be presumed
+blind.[4]
+The chronic features and irreversible blindness of glaucoma
+distinguish it from other vision-impairing eye disorders. The
+worry of blindness, pressure of lifetime treatment, and the side
+effects or cost of therapy could affect the quality of life (QOL) in
+glaucoma patients.[5] Several studies indeed showed lower QOL
+scores in glaucoma patients than those in normal subjects.[6–8]
+Therefore, the purpose of treatment in advanced glaucoma is to
+minimize disease progression and, at the same time, maintain
+proper QOL in daily life.
+However, patients with far-advanced glaucoma who have
+similar visual ﬁeld (VF) status often have different daily life
+activities. Among patients with the same total VF defect test
+results, some patients are able to successfully complete daily
+activities, but some patients need help. They have deﬁnitely
+different QOL, but a VF test could not fully predict or evaluate
+the daily life activity and vision-related QOL in advanced
+glaucoma patients. It is also known that retinal structure
+evaluation is insufﬁcient for advanced cases due to the “ﬂoor
+effect” of the retinal nerve ﬁber layer (RNFL) measuring.[9]
+Therefore, it is considered necessary to ﬁnd other parameters
+which can evaluate visual function that cannot be assessed by a
+VF test or retinal structure imaging in patients with advanced
+glaucoma.
+
+1. Introduction
+Glaucoma is one of the leading causes of visual impairment
+worldwide.[1] Due to the global trend of increased life expectancy
+Editor: Xiong Kun.
+The authors alone are responsible for the content and writing of the paper.
+None of the authors has any proprietary interests in any device mentioned in the
+article.
+This research was not supported by any funding or grant.
+The authors have no conﬂicts of interest to disclose.
+a
+
+Department of Ophthalmology, Seoul St. Mary’s Hospital, b Department of
+Ophthalmology, Yeouido St. Mary’s Hospital, c Natural Sciences Section,
+Department of Medical Lifescience, College of Medicine, The Catholic University
+of Korea, Seoul, Republic of Korea.
+∗
+
+Correspondence: Chan Kee Park, Department of Ophthalmology, Seoul St.
+Mary’s Hospital, College of Medicine, The Catholic University of Korea, 222
+Banpo-daero, Seocho-gu, Seoul 06591, Republic of Korea
+(e-mail: ckpark@catholic.ac.kr).
+
+Copyright © 2020 the Author(s). Published by Wolters Kluwer Health, Inc.
+This is an open access article distributed under the terms of the Creative
+Commons Attribution-Non Commercial License 4.0 (CCBY-NC), where it is
+permissible to download, share, remix, transform, and buildup the work provided
+it is properly cited. The work cannot be used commercially without permission
+from the journal.
+How to cite this article: Jeon SJ, Jung Y, Jung CS, Park HYL, Park CK. Visual
+function evaluation for low vision patients with advanced glaucoma. Medicine
+2020;99:7(e19149).
+Received: 16 September 2019 / Received in ﬁnal form: 10 January 2020 /
+Accepted: 12 January 2020
+http://dx.doi.org/10.1097/MD.0000000000019149
+
+1
+
+
+[page 2]
+Jeon et al. Medicine (2020) 99:7
+
+Medicine
+
+In glaucoma patients, it was reported that multiple contrast
+sensitivity (CS) tests were related to glaucoma severity or
+structural measurements and were shown to predict RNFL
+thickness.[10–12] However, the subjects of previous reports
+involving CS had a relatively better visual acuity even in the
+presence of severe glaucoma, and patients with a Snellen VA of
+lower than 2/20 were excluded. Patients with low vision were
+thought to have a different CS pattern,[13] and data from
+commercial CS tests mainly excluded patients with extremely low
+vision reached to ﬁnger count (FC) or hand movement (HM).[14–
+
+Therefore, the purpose of this study was to assess diverse
+parameters in evaluating the visual function of far-advanced
+glaucoma patients with low visual function, and to determine the
+clinical signiﬁcance of the pattern edge band parameter in
+supporting the quality of daily life for advanced glaucoma
+patients.
+
+Fine CS discriminating high spatial frequency contrast could be
+represented as visual acuity. However, it is also important to
+distinguish the contour of objects in daily life for low vision
+patients and this ability is owed to edge detection which is related
+to coarse CS.[17]
+Kim et al used a pattern edge triggering response to evaluate
+edge detection in goldﬁsh.[18] It is uncertain if goldﬁsh have the
+ability to distinguish high spatial frequency CS, but according to
+this report, goldﬁsh have the ability to detect an edge and move
+following the edge. The pattern band used in the above study was
+similar to the optokinetic band applied in humans (Fig. 1). In this
+regard, we hypothesized the possibility of assessing edge
+detection ability using a pattern edge band in low vision patients
+who have difﬁculty in discriminating high-frequency CS patterns
+on visual acuity charts.
+
+We recruited 44 patients with far-advanced glaucoma from the
+low vision clinic of Seoul St. Mary’s Hospital between March
+2016 and December 2018. This cross-sectional study was
+performed according to the tenets of the Declaration of Helsinki
+and was approved by the Institutional Review and Ethics Boards
+of Seoul St. Mary’s Hospital, South Korea. Informed consent was
+obtained from every subject.
+All subjects underwent comprehensive ophthalmic examinations including slit-lamp examination, Goldmann applanation
+tonometry, and dilated fundus bimicroscopy. The clinical
+variables including age, sex, type of glaucoma, number of
+glaucoma surgeries, visual acuity, and ocular comorbidity were
+obtained from medical records.
+Standard automated perimetry (SAP) using the Swedish
+Interactive Threshold Algorithm (SITA) 24-2 and 10-2 programs
+(Humphrey Visual Field Analyzer; Carl Zeiss Meditec, Dublin,
+CA) were performed in all subjects. Only subjects with Mean
+deviation (MD) of SITA 24-2 lower than 20 dB or decimal
+visual acuity lower than 0.3 in both eyes were included.[19,20]
+Decimal visual acuity was converted to the logMAR scale even in
+those with a VA of FC or HM.[21,22]
+An additional inclusion criterion for this study was a stable
+disease status with normal intraocular pressure (IOP). All
+patients were Koreans, literate, and understood enough Korean
+to respond to the QOL questionnaire. Patients were excluded if
+they had any history of brain lesions affecting visual pathways or
+optic neuropathy.
+According to previous studies, the better eye showed greater
+correlation with activity limitation and QOL in glaucoma
+patients.[23–26] Therefore, we performed evaluations on the better
+eye. The eye with a better visual acuity was chosen as the better
+eye, and if both eyes had the same visual acuity, MD of SITA 24-2
+was used to deﬁne the better eye. We used the following 4
+parameters to represent the visual function of patients: visual
+acuity, MDs of SITA 24-2 and 10-2, and pattern edge band.
+
+2. Materials and methods
+2.1. Subjects
+
+16]
+
+2.2. Pattern edge band response as a CS function
+Pattern edge band response was recorded by 1 glaucoma
+specialist (SJJ) using the moving band program, which had a
+similar pattern as the optokinetic nystagmus evaluation (Fig. 1).
+The moving band program was developed in our institution for
+noncommercial purposes (in the laboratory of CSJ). Subjects
+were seated in front of the display in a room with a constant
+background luminance of 200 lux. Each eye was examined
+separately.
+The pattern edge band on the Liquid crystal display (LCD)
+monitor display moved horizontally at various rates. An arbitrary
+unit was designed, and the temporal and spatial frequencies were
+calculated for each unit and are shown in Table 1. The unit
+was measured from 10 to 200 in 10-unit intervals. The display
+
+Figure 1. Pattern edge band display image with arbitrary unit of 10 (A) and 200
+(B).
+
+2
+
+
+[page 3]
+Jeon et al. Medicine (2020) 99:7
+
+www.md-journal.com
+
+Table 1
+
+Table 2
+
+Spatial frequency and temporal frequency according to arbitrary
+units of pattern edge band in the moving program.
+
+The detailed items of the low vision quality-of-life (LVQOL)
+questionnaire.
+
+Arbitrary unit
+
+Spatial frequency
+(cycles/degree)
+
+Temporal frequency
+(degree/second)
+
+0.64
+0.32
+0.21
+0.16
+0.13
+0.06
+0.04
+0.03
+
+34.02
+17.01
+11.34
+8.67
+6.67
+3.33
+2.33
+1.67
+
+10
+20
+30
+40
+50
+100
+150
+200
+
+How much of a problem do you have
+With your vision in general
+With your eyes getting tired (eg, only being able to do a task for a short period of
+time)
+With your vision at night inside the house
+Getting the right amount of light to be able to see
+With glare (eg, dazzled by car lights or the sun)
+Seeing street signs
+Seeing the television (appreciating the pictures)
+Seeing moving objects (eg, cars on the road)
+With judging the depth or distance of items (eg, reaching for a glass)
+Seeing steps or curbs
+Getting around outdoors (eg, on uneven pavements) because of our vision
+Crossing a road with trafﬁc because of your vision
+
+was 50 cm away from the patient. The mean luminance of the
+LCD monitor was 250 cd/m2, and a deﬁnite contrast edge
+between the black and white bands was maintained.
+The results of the pattern edge band test were reported as
+follows: the horizontal moving of the pattern edge band was
+randomly assigned to the right or left direction. Ten tests were
+performed for each eye, and it was assessed as a recognizable
+band when more than 7 tests were correct. The smallest pattern
+unit which the subject could recognize was recorded. The eye that
+had a VA of light perception was excluded because of the
+difﬁculty of recognizing the display monitor.
+
+Because of your vision, are you
+Unhappy at your situation in life
+Frustrated at not being able to do certain tasks
+Restricted in visiting friends or family
+How well has your eye condition been explained to you
+With your reading aids/glasses, if used, how much of a problem do you
+have
+Reading large print (eg, newspaper headlines)
+Reading newspaper text and books
+Reading labels (eg, on medicine bottles)
+Reading your letters and mail
+Having problems using tools (eg, threading a needle or cutting)
+Finding out the time for yourself
+Writing (eg, cheques or cards)
+Reading your own hand writing
+With your every day activities (eg, house-hold chores)
+
+2.3. QOL assessment
+To evaluate the subjects’ QOL, we used the low vision quality-oflife (LVQOL) questionnaire. The Korean version of the LVQOL
+questionnaire, which is composed of 25 items, was applied. The
+questionnaires were printed in a font size of 20 points. If the
+patient could not read the questionnaire, help with reading and
+explaining it by others was allowed. As described in previous
+studies, closed-ended questions that could draw scale scored
+responses (from 1 to 5) were used. The total score is the sum of the
+score for each item, ranging from 25 to 125. The lower the total
+score, the harder it is to perform daily life activities due to low
+vision.[27]
+The questions in the LVQOL questionnaire are subdivided into
+items for distant work or for near work. Questions 1 to 16 are the
+items for distant work and represent adjustments to outside daily
+life and mobility. Questions 17 to 25 are the near work items and
+represent reading and ﬁne work that mainly take place
+indoors.[28] A detailed description of the 25 items in the
+questionnaire has been included in Table 2.
+
+receiver operating characteristic curves (AUROC) were calculated to assess the diagnostic value of various visual functional
+parameters. All statistical analyses were performed with SPSS
+version 24.0 (SPSS Inc., Chicago, IL). P < .05 was considered to
+be statistically signiﬁcant.
+
+3. Results
+A total of 44 patients with advanced glaucoma were included in
+this study. Of the eyes from the included subjects, 12 eyes were
+excluded because of the VA of light perception. We also excluded
+3 more eyes with corneal opacity to minimize factors other than
+retinal neuronal damage that affect visual function. Finally, 73
+eyes were included in the analyses and the clinical characteristics
+of those eyes are summarized in Table 3.
+The correlation coefﬁcients between the LVQOL score and
+visual functional parameters were evaluated (Table 4). LVQOL
+score was also divided into the scores related to near activities or
+far activities. The total LVQOL score and the far activity score
+correlated with both visual acuity and pattern edge band (all
+P < .001 for visual acuity; P = .035 and 0.036 for pattern edge
+band). The near activity LVQOL score was only related to visual
+acuity (P = .018).
+The same correlation analyses were performed only in the
+groups of patients with a decimal VA of 0.1 or less (Table 5) and
+this group had 22 patients. Visual acuity and pattern edge band
+consistently correlated with total LVQOL score (P = .018 for VA
+
+2.4. Statistical analysis
+All data were presented as means ± standard deviations.
+According to subgrouping, the normality of visual functional
+parameters was altered. Therefore, we used the Shapiro–Wilk test
+to verify the normality of data every time we performed statistics.
+Student t tests and Chi-square test were used to compare the age,
+sex ratio, numbers of surgeries, and visual acuity after grouping
+the total subjects into better QOL and worse QOL. The Mann–
+Whitney U-test was used to compare mean values of MD of VF
+test and pattern edge band units because of the non-normal
+distribution. The correlation coefﬁcients were calculated using
+the Pearson or Spearman correlation analysis according to the
+normality of visual functional parameters. The areas under
+3
+
+
+[page 4]
+Jeon et al. Medicine (2020) 99:7
+
+Medicine
+
+signiﬁcantly different between the 2 groups (P < .001 and
+P = .029), however, MDs of SITA 24-2 and 10-2 were not.
+Table 7 represents the AUROC of visual functional parameters
+to detect severe difﬁculty in daily activities. The cut-off score for
+severe difﬁculty was speciﬁed as 31 or less.[29] Visual acuity
+showed the highest diagnostic value, followed by the pattern edge
+band. MDs of SITA 24-2 and 10-2 displayed lower diagnostic
+values than pattern edge band. When combined with visual
+acuity, the pattern edge band showed a good diagnostic power
+(AUROC = 0.874).
+
+Table 3
+Clinical characteristics of study subjects.
+Clinical characteristics (73 eyes of 44 subjects)
+Age, yr (subjects)
+Male: female (subjects)
+Type of glaucoma (eyes)
+POAG
+NVG
+Secondary glaucoma
+Surgical treatment (eyes)
+None
+Once
+More than twice
+Visual function parameters (eyes)
+Visual acuity (LogMAR)
+Visual acuity in the better-seeing eye (LogMAR)
+MD of SITA 24-2 (dB)
+MD of SITA 10-2 (dB)
+Pattern edge band (arbitrary unit)
+
+58.86 (±13.92)
+27:17
+58 (79.5%)
+3 (4.1%)
+12 (16.4%)
+41 (56.2%)
+28 (38.3%)
+4 (5.5%)
+
+4. Discussion
+Glaucoma is known to be an incurable disease, and the purpose
+of treatment is to maintain visual function with IOP control and
+vascular circulation improvement. For patients with advanced
+glaucoma, it is important to preserve the visual ability needed to
+perform daily life activities.
+Visual acuity is mainly used to evaluate QOL in low vision
+patients. Several studies have reported that the visual acuity in the
+better eye is associated with functional performance of low vision
+patients.[23–26] In the case of glaucoma patients with low visual
+ability, Okamoto et al suggested that the visual acuity in the
+better eye was meaningful for QOL assessment of patients.[30] In
+this study, the correlation between the QOL score and VA of the
+better eye was most noticeable, consistent with other studies.
+Another parameter used to assess the visual function of
+glaucoma patients is the VF test. There have been attempts to
+evaluate the visual ability of glaucoma patients making utility
+values with both visual acuity and VF test.[31,32] However, a faradvanced glaucomatous VF could have many confounding
+statistical indices and may not be enough to assess visual
+
+1.33 (±0.79)
+1.07 (±0.77)
+27.56 (±5.12)
+29.09 (±5.75)
+38.49 (±53.06)
+
+Data are presented as means (± standard deviation).
+
+and .037 for pattern edge band). However, for distant activity,
+only the pattern edge band signiﬁcantly correlated with the
+LVQOL score (P = .031). The results of the VF tests did not
+signiﬁcantly correlate with any of the LVQOL scores in Tables 4
+and 5.
+Table 6 shows the results of the comparisons between 2 groups
+after dividing the subjects into a worse half and a better half
+according to their LVQOL scores. The score of each group was
+56.59 ± 9.74 in the worse QOL group and 101.45 ± 29.86 in the
+better QOL group. Visual acuity and pattern edge band were
+
+Table 4
+Correlation coefﬁcients for LVQOL score with visual function parameters.
+Total score
+Visual acuity (LogMAR)
+MD of SITA 24-2
+MD of SITA 10-2
+Pattern edge band
+
+Near activities
+P-value
+
+r
+
+r
+
+∗
+
+<.001
+.107
+.665
+.035
+
+0.589
+0.262
+0.093
+0.319
+
+Far activities
+P-value
+∗
+
+.018
+.146
+.628
+.508
+
+0.354
+0.237
+0.104
+0.102
+
+r
+
+P-value
+
+0.551
+0.148
+0.052
+0.317
+
+<.001
+.370
+.810
+.036
+
+∗
+
+Unmarked P-values were obtained using the Spearman correlation analysis.
+(Only visual acuity showed parametric distribution and other 3 parameters showed nonparametric distribution using the Shapiro–Wilk test).
+Signiﬁcant values are shown in bold.
+∗
+Pearson correlation analysis was used.
+
+Table 5
+Correlation coefﬁcient for LVQOL score with visual function parameters in subject with decimal VA 0.1 (n = 22).
+Total score
+Visual acuity (LogMAR)
+MD of SITA 24–2
+MD of SITA 10–2
+Pattern edge band
+
+Near activities
+
+Far activities
+
+r
+
+P-value
+
+r
+
+P-value
+
+r
+
+P-value
+
+0.497
+0.168
+0.234
+0.448
+
+.018
+.518
+.613
+∗
+.037
+
+0.124
+0.165
+0.538
+0.208
+
+.583
+.526
+.213
+∗
+.353
+
+0.387
+0.053
+0.357
+0.460
+
+.075
+.840
+.432
+∗
+.031
+
+Unmarked P-values were obtained using the Spearman correlation analysis.
+(In subjects with decimal VA 0.1, only pattern edge band test showed a parametric distribution using the Shapiro–Wilk test).
+Signiﬁcant values are shown in bold.
+LVQOL = low vision quality-of-life, VA = visual acuity.
+∗
+Pearson correlation analysis was used.
+
+4
+
+
+[page 5]
+Jeon et al. Medicine (2020) 99:7
+
+www.md-journal.com
+
+and light.[39] Due to center-surround antagonism of on-RGC or
+off-RGC, the retina can transmit the edge representation through
+the neuronal circuit. The so-called “local edge detector” RGCs
+responded to the moving edge (which has light-dark contrast)
+within the receptive ﬁeld of the cell.[40]
+As glaucoma progresses, the density of RGCs decreases, and, in
+far-advanced stage, the RGC density might be very low across the
+retina. This means that the interval between living RGCs is
+widened. The lower the density of RGCs, the wider the gap
+between cells, and the wider the edge distance that could be
+distinguished. Therefore, the light-dark band adjusting distance
+between edges might be used as a parameter estimating RGC
+density in the retina.
+The pattern edge band in our study was composed of
+contrasting bands with diverse widths. Deﬁnite borders between
+white and black bands could be applied to assess the edge
+detection of RGC. For experimental evidence of an RGC
+receptive ﬁeld summation, a similar reversed band pattern was
+used and ﬁring of RGC was recorded.[41]
+Based on our results, the band arbitrary unit varied from 10 to
+200, and the band unit had a statistically meaningful relationship
+with the QOL score in patients with advanced glaucoma.
+Particularly in patients with extremely low VA (lower than 0.1 of
+decimal VA), only the pattern edge band showed a signiﬁcant
+correlation with the performance score for distant work. This
+means that the evaluation of edge detection ability using the
+pattern edge band can be an assistant for assessing the visual
+function of patients with poor VA.
+Two criteria were used in selecting the questionnaire to use in
+this study. First, the number of items in the questionnaire should
+not be too many because we thought that too many questions
+could make patients tired with low vision and lead to half-hearted
+answers. Second, we wanted a questionnaire with realistic
+questions related to daily life as this would better assess visual
+function. In our opinion, the “LVQOL questionnaire” proposed
+by Wolffsohn JS and Cochrane AL[27] ﬁtted our requirements.
+Our study had some limitations. We could not check the
+binocular vision or binocular edge detection in our subjects. The
+evaluation of binocular visual function might more closely reﬂect
+daily life, so in future studies, binocular vision and binocular edge
+detection should be examined. Also, the repeatability and
+reproducibility of pattern edge band evaluation should be
+checked for more active clinical applications. Another limitation
+was that the socio-economic status of subjects were not assessed,
+and those restrictions could affect LVQOL score in addition to
+visual function.
+Nevertheless, this study suggested that the use of edge detection
+in the evaluation of visual function for far-advanced glaucoma
+patients is meaningful. Assessment of edge detection ability using
+the pattern edge band may be a promising additive parameter for
+visual function in low vision patients. Furthermore, it might be
+expected to help in the evaluation of visual function improvement
+through neuroprotective treatment in advanced glaucoma.
+
+Table 6
+Comparisons of clinical characteristics of advanced glaucoma
+patients classiﬁed by LVQOL score.
+
+LVQOL score
+Age, yr
+Male: female
+Numbers of surgeries
+Visual acuity (LogMAR)
+MD of SITA 24-2 (dB)
+MD of SITA 10-2 (dB)
+Pattern edge band (arbitrary unit)
+
+Worse LVQOL
+score
+(n = 22)
+
+Better LVQOL
+score
+(n = 22)
+
+P-value
+
+101.45 (±29.86)
+60.14 (±5.12)
+14:8
+0.72 (±0.88)
+1.57 (±0.67)
+26.81 (±5.42)
+28.28 (±4.32)
+35.45 (±53.60)
+
+56.59 (±9.74)
+57.59 (±15.19)
+13:9
+0.50 (±0.60)
+0.57 (±0.48)
+25.51 (±5.69)
+26.88 (±7.06)
+18.64 (±19.34)
+
+<.001
+∗
+.551
+.757†
+∗
+.323
+∗
+<.001
+.322
+.924
+.029
+
+∗
+
+Unmarked P-values were obtained using the Mann–Whitney U-test.
+Signiﬁcant values are shown in bold.
+LVQOL = low vision quality-of-life.
+∗
+Student t test.
+†
+Chi-square test were used.
+
+function.[33] In addition, routinely used SAP such as the SITA
+program might be time-consuming and cause fatigue for
+advanced glaucoma patients. This situation can attenuate the
+clinical value of visual function assessment for advanced VF
+loss.[34] Chan et al reported that in advanced glaucoma patients
+with low MD values in VF tests, the psychosocial performance
+was affected by VA, but it was not related to VF results beyond a
+certain threshold.[35] According to our results, we also reported
+that the MD values in SITA 24-2 and 10-2 did not correlate with
+the QOL score and had lower diagnostic values than the visual
+acuity. In this situation, it is questionable whether other
+parameters could be applied to assess the visual function of
+patients with advanced glaucomatous damage.
+CS has consistently been proposed as a measurement of visual
+function. According to several studies, CS was more predictive of
+visual performance even in patients with the same visual
+acuity.[36,37] In glaucoma, there have also been attempts to
+evaluate visual function with CS in some studies. Fatehi et al
+reported that CS had fair correlations with macular thickness and
+VF in the center region.[12] Richman et al found that VA and CS
+were most capable of predicting the performance of glaucoma
+patients.[38] However, previous studies either included subjects
+with a diverse range of glaucomatous damage or included only
+mild glaucoma patients. In our view, this study is the ﬁrst to focus
+on assessing the performance ability of patients with faradvanced glaucoma using light-dark contrast such as edge
+detection.
+Some types of retinal ganglion cells (RGCs) have reponse to
+visual stimuli by detecting edges composed of contrasts of dark
+Table 7
+The area under receiver operating characteristic curve (AUROC) of
+visual functional parameters to detect severe difﬁculty in daily
+activities (LVQOL score 31).
+Visual acuity (LogMAR)
+MD of SITA 24-2
+MD of SITA 10-2
+Pattern edge band
+Visual acuity (LogMAR) + pattern edge band
+
+AUROC
+
+Author contributions
+
+0.862
+0.176
+0.363
+0.606
+0.874
+
+Conceptualization: Soo Ji Jeon, Younhea Jung, Chang-Sub Jung,
+Hae-Young Lopilly Park, Chan Kee Park.
+Data curation: Soo Ji Jeon.
+Formal analysis: Soo Ji Jeon.
+Investigation: Soo Ji Jeon.
+Methodology: Soo Ji Jeon, Chang-Sub Jung.
+
+AUROC = areas under receiver operating characteristic curves, LVQOL = low vision quality-of-life.
+
+5
+
+
+[page 6]
+Jeon et al. Medicine (2020) 99:7
+
+Medicine
+
+[21] Lange C, Feltgen N, Junker B, et al. Resolving the clinical acuity
+categories “hand motion” and “counting ﬁngers” using the Freiburg
+Visual Acuity Test (FrACT). Graefes Arch Clin Exp Ophthalmol
+2009;247:137–42.
+[22] Schulze-Bonsel K, Feltgen N, Burau H, et al. Visual acuities “hand
+motion” and “counting ﬁngers” can be quantiﬁed with the Freiburg
+visual acuity test. Invest Ophthalmol Vis Sci 2006;47:1236–40.
+[23] Daruka R, Kuzhuppilly NIR, Dev S, et al. Correlation of central ﬁeld
+index (10-2 visual ﬁeld analysis) and activity limitation with increasing
+severity of glaucoma using glaucoma activity limitation-9 questionnaire.
+Indian J Ophthalmol 2018;66:1098–103.
+[24] Wandell PE, Lundstrom M, Brorsson B, et al. Quality of life among
+patients with glaucoma in Sweden. Acta Ophthalmol Scand 1997;
+75:584–8.
+[25] Sawada H, Fukuchi T, Abe H. Evaluation of the relationship between
+quality of vision and visual function in Japanese glaucoma patients. Clin
+Ophthalmol 2011;5:259–67.
+[26] Chun YS, Sung KR, Park CK, et al. Factors inﬂuencing vision-related
+quality of life according to glaucoma severity. Acta Ophthalmol 2019;97:
+e216–24.
+[27] Wolffsohn JS, Cochrane AL. Design of the low vision quality-of-life
+questionnaire (LVQOL) and measuring the outcome of low-vision
+rehabilitation. Am J Ophthalmol 2000;130:793–802.
+[28] de Boer MR, de Vet HC, Terwee CB, et al. Changes to the subscales of
+two vision-related quality of life questionnaires are proposed. J Clin
+Epidemiol 2005;58:1260–8.
+[29] Omar R, Rahman MH, Knight VF, et al. Mental health state and quality
+of life questionnaire in low vision assessment: a case report. BMC Res
+Notes 2014;7:667.
+[30] Okamoto M, Sugisaki K, Murata H, et al. Impact of better and worse eye
+damage on quality of life in advanced glaucoma. Sci Rep 2014;4:
+4144.
+[31] Alavi Y, Jofre-Bonet M, Bunce C, et al. Developing an algorithm to
+convert routine measures of vision into utility values for glaucoma.
+Ophthalmic Epidemiol 2011;18:233–43.
+[32] Lin S, Mihailovic A, West SK, et al. Predicting visual disability in
+glaucoma with combinations of vision measures. Transl Vis Sci Technol
+2018;7:22.
+[33] Blumenthal EZ, Sapir-Pichhadze R. Misleading statistical calculations
+in far-advanced glaucomatous visual ﬁeld loss. Ophthalmology 2003;
+110:196–200.
+[34] Nevalainen J, Paetzold J, Krapp E, et al. The use of semi-automated
+kinetic perimetry (SKP) to monitor advanced glaucomatous visual ﬁeld
+loss. Graefes Arch Clin Exp Ophthalmol 2008;246:1331–9.
+[35] Chan EW, Chiang PP, Liao J, et al. Glaucoma and associated visual
+acuity and ﬁeld loss signiﬁcantly affect glaucoma-speciﬁc psychosocial
+functioning. Ophthalmology 2015;122:494–501.
+[36] Brabyn J, Schneck M, Haegerstrom-Portnoy G, et al. The SmithKettlewell Institute (SKI) longitudinal study of vision function and
+its impact among the elderly: an overview. Optom Vis Sci 2001;78:
+264–9.
+[37] Ginsburg AP, Evans DW, Sekule R, et al. Contrast sensitivity predicts
+pilots’ performance in aircraft simulators. Am J Optom Physiol Opt
+1982;59:105–9.
+[38] Richman J, Lorenzana LL, Lankaranian D, et al. Importance of
+visual acuity and contrast sensitivity in patients with glaucoma. Arch
+Ophthalmol 2010;128:1576–82.
+[39] Garvert MM, Gollisch T. Local and global contrast adaptation in retinal
+ganglion cells. Neuron 2013;77:915–28.
+[40] Levick WR. Receptive ﬁelds and trigger features of ganglion cells in the
+visual streak of the rabbits retina. J Physiol 1967;188:285–307.
+[41] Krieger B, Qiao M, Rousso DL, et al. Four alpha ganglion cell types in
+mouse retina: Function, structure, and molecular signatures. PLoS One
+2017;12:e0180091.
+
+Supervision: Hae-Young Lopilly Park, Chan Kee Park.
+Validation: Hae-Young Lopilly Park, Chan Kee Park.
+Writing – original draft: Soo Ji Jeon.
+Writing – review & editing: Hae-Young Lopilly Park, Chan Kee
+Park.
+
+References
+[1] Pascolini D, Mariotti SP. Global estimates of visual impairment: 2010. Br
+J Ophthalmol 2012;96:614–8.
+[2] United NationsWorld population to 2300. New York, United Nations:
+Department of Economic and Social Affairs. Population Division; 2004.
+[3] Ehrlich JR, Stagg BC, Andrews C, et al. Vision impairment and receipt of
+eye care among older adults in low- and middle-income countries. JAMA
+Ophthalmol 2018;137:146–58.
+[4] Quigley HA, Broman AT. The number of people with glaucoma
+worldwide in 2010 and 2020. Br J Ophthalmol 2006;90:262–7.
+[5] Guedes RA, Guedes VM, Freitas SM, et al. Quality of life of medically
+versus surgically treated glaucoma patients. J Glaucoma 2013;22:369–73.
+[6] Onakoya AO, Mbadugha CA, Aribaba OT, et al. Quality of life of
+primary open angle glaucoma patients in lagos, Nigeria: clinical and
+sociodemographic correlates. J Glaucoma 2012;21:287–95.
+[7] Kumar S, Ichhpujani P, Singh R, et al. The impact of primary open-angle
+glaucoma: quality of life in Indian patients. Indian J Ophthalmol
+2018;66:416–9.
+[8] McKean-Cowdin R, Wang Y, Wu J, et al. Impact of visual ﬁeld loss on
+health-related quality of life in glaucoma: the Los Angeles Latino Eye
+Study. Ophthalmology 2008;115:941–8.e1.
+[9] Bowd C, Zangwill LM, Weinreb RN, et al. Estimating optical coherence
+tomography structural measurement ﬂoors to improve detection of
+progression in advanced glaucoma. Am J Ophthalmol 2017;175:
+37–44.
+[10] Amanullah S, Okudolo J, Rahmatnejad K, et al. The relationship
+between contrast sensitivity and retinal nerve ﬁber layer thickness in
+patients with glaucoma. Graefes Arch Clin Exp Ophthalmol 2017;
+255:2415–22.
+[11] Thakur S, Ichhpujani P, Kumar S, et al. Assessment of contrast sensitivity
+by Spaeth Richman contrast sensitivity test and Pelli Robson chart test in
+patients with varying severity of glaucoma. Eye (Lond) 2018;32:1392–400.
+[12] Fatehi N, Nowroozizadeh S, Henry S, et al. Association of structural and
+functional measures with contrast sensitivity in glaucoma. Am J
+Ophthalmol 2017;178:129–39.
+[13] Chung ST, Legge GE. Comparing the shape of contrast sensitivity
+functions for normal and low vision. Invest Ophthalmol Vis Sci 2016;
+57:198–207.
+[14] Richman J, Zangalli C, Lu L, et al. The Spaeth/Richman contrast
+sensitivity test (SPARCS): design, reproducibility and ability to identify
+patients with glaucoma. Br J Ophthalmol 2015;99:16–20.
+[15] Mantyjarvi M, Laitinen T. Normal values for the Pelli-Robson contrast
+sensitivity test. J Cataract Refract Surg 2001;27:261–6.
+[16] Gupta L, Cvintal V, Delvadia R, et al. SPARCS and Pelli-Robson contrast
+sensitivity testing in normal controls and patients with cataract. Eye
+(Lond) 2017;31:753–61.
+[17] Johnson RP. Contrast based edge detection. Pattern Recognition 1990;
+23:311–8.
+[18] Kim SH, Jung CS. The role of the pattern edge in goldﬁsh visual motion
+detection. Korean J Physiol Pharmacol 2010;14:413–7.
+[19] Scheiman M, Scheiman M, Whittaker S. Low Vision Rehabilitation: A
+Practical Guide for Occupational Therapists. New Jersey: Slack
+Incorporated: Thorofare; 2007.
+[20] Rao HL, Senthil S, Choudhari NS, et al. Behavior of visual ﬁeld index in
+advanced glaucoma. Invest Ophthalmol Vis Sci 2013;54:307–12.
+
+6
+

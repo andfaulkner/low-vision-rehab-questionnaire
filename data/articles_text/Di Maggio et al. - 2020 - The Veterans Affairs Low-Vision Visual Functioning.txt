@@ -1,0 +1,805 @@
+[page 1]
+852016
+research-article2019
+
+EJO0010.1177/1120672119852016European Journal of OphthalmologyMucciolo et al.
+
+EJO
+
+Original research article
+
+The Veterans Affairs Low-Vision
+Visual Functioning Questionnaire-48
+(VA LV VFQ-48): Performance of the
+Italian version
+
+European
+Journal of
+Ophthalmology
+
+European Journal of Ophthalmology
+﻿1­–5
+© The Author(s) 2019
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/1120672119852016
+DOI:
+10.1177/1120672119852016
+journals.sagepub.com/home/ejo
+
+Ilaria Di Maggio1, Gianni Virgili2, Giovanni Giacomelli2,
+Vittoria Murro2, Giovanni Sato3, Filippo Amore4,
+Gianfrancesco Maria Villani5, Stefania Fortini4, Simona Turco4,
+Alfredo Pece6, Roberta Rizzo3, Alessandro Galan3,
+Lucia Giordani2, Dario Pasquale Mucciolo2 and Laura Nota1
+
+Abstract
+Purpose: The Veterans Affairs Low-Vision Visual Functioning Questionnaire-48 is among the most validated tools to
+collect patient-reported outcomes in a low-vision population. We have aimed to conduct a pilot validation of the Italian
+version of the Veterans Affairs Low-Vision Visual Functioning Questionnaire-48.
+Methods: The Veterans Affairs Low-Vision Visual Functioning Questionnaire-48 was translated using a standardized
+procedure and then administered to consecutive low-vision patients attending rehabilitation services in three centers.
+Patients were interviewed by a trained psychologist regarding the individual items of the tool.
+Results: We included 131 patients with a mean visual acuity of 0.91 logMAR (standard deviation: 0.42 logMAR), mostly
+affected by age-related macular degeneration. The Veterans Affairs Low-Vision Visual Functioning Questionnaire-48
+showed high internal consistency (Cronbach’s alpha: 0.98) and good item-test and item-rest correlation (median:
+0.73 and 0.71, respectively). Both the overall score and the subscale (reading, visual motor, mobility and visual
+information) scores significantly correlated with visual acuity, reading acuity and speed. Reading speed achieved
+the best absolute correlation with the Veterans Affairs Low-Vision Visual Functioning Questionnaire-48 scores
+(Spearman r: 0.39–0.49).
+Conclusion: The Italian version of the Veterans Affairs Low-Vision Visual Functioning Questionnaire-48 is a valid tool
+to assess patients attending low-vision services. Revising a few items may further improve the tool.
+Keywords
+Low-vision, rehabilitation, quality of life, activities of daily living, questionnaires
+Date received: 18 January 2019; accepted: 1 May 2019
+
+1University Centre for Disability, Rehabilitation and Inclusion,
+
+Department of Philosophy, Sociology, Pedagogy and Applied
+Psychology, University of Padova, Padova, Italy
+2Department of Neuroscience, Psychology, Drug Research and Child
+Health, University of Florence, Careggi Teaching Hospital, Florence,
+Italy
+3Centro Regionale Riabilitazione Visiva Ipovisione Complesso Socio San it ario dei Colli, AULSS6, Padova, Italy
+
+4National Centre of Services and Research for the Prevention
+
+of Blindness and Rehabilitation of the Visually Impaired, WHO
+Collaborating Centre, Rome, Italy
+5Ambulatorio Sanitario Professionale San Vito srls, Cerea (VR), Italy
+6Fondazione Retina 3000, Milano, Italy
+Corresponding author:
+Dario Pasquale Mucciolo, Department of Neuroscience, Psychology,
+Drug Research and Child Health, University of Florence, Careggi
+Teaching Hospital, Largo Brambilla, 3, 50134 Florence, Italy.
+Email: dario.mucciolo@gmail.com
+
+
+[page 2]
+2
+
+Introduction
+The aim of low vision rehabilitation (LVR) is to improve
+the quality of life (QOL) of incurable visually impaired
+people. The assessment of the needs and abilities of these
+patients, such as the outcomes of LVR, must be patient centered and measurable. Therefore, a tool for good
+patient-centered outcome (PCO) measures is necessary in
+order to assess and compare the QOL of each patient during LVR.
+A direct measure can be obtained during observation of
+a patient attempting a specific task, usually scored on the
+time required and/or on the number of errors made, but
+recently many authors have preferred a patient-reported
+outcome (PRO) measure to assess the ability to complete
+the same task.1 Some questionnaires have been developed
+in past years with this aim, in particular five instruments
+studying vision-related functions in low vision patients.2–6,7
+In particular, the Veterans Affairs Low-Vision Visual
+Functioning Questionnaire-48 (VA LV VFQ48)8 is a
+48-item questionnaire developed and validated by
+Stelmack to measure the PCO of low-vision patients
+undergoing LVR. The 48-item content reflects the activities that are targeted by LVR, which depend heavily on
+vision, and are important to most patients.9 This instrument is able to measure LVR results10 and was selected to
+be used in the “Low Vision Intervention Trial” (LOVIT
+and LOVIT II).11,12
+The aim of this study is to develop an Italian version of
+the VA LV VFQ48 to be integrated into a web-based register of visually impaired patients undergoing LVR in many
+LVR centers in Italy.
+
+Methods
+Adult patients (age 18 years or more) were recruited at
+three low-vision services located in Padua, Florence, and
+Rome. There was no selection based on visual acuity or
+disease, since we aimed to recruit a representative sample
+of patients in need of vision rehabilitation, including central or peripheral visual loss.
+The primary goal was to assess the usability and internal consistency of the translated version of the VA LV
+VFQ48, which was administered to all patients by trained
+psychologists. Visual acuity (Early Treatment Diabetic
+Retinopathy Study (ETDRS) charts), contrast sensitivity
+(Pelli–Robson charts) and reading performance data
+(MNREAD charts) were available for a subset of patients
+when an ophthalmic examination was conducted the same
+day as the psychological assessment.
+The back-translation procedure was used to translate
+and adapt the VA LV VFQ-48 questionnaire to the Italian
+context, based on Vijver and Tanzer’s suggestions.13 Once
+the back-translation was complete, the VA LV VFW-48 was
+administered (the assessment phase was conducted in two
+one-to-one interviews which lasted approximately 60 min
+
+European Journal of Ophthalmology 00(0)
+each), asking participants to respond and reformulate the
+items, indicate unclear words, and identify possible difficulties. The Italian version of the VA LV VFQ-48 (included
+in supplementary material) was used with other instruments
+to assess depression (Beck Depression Inventory),14 life
+satisfaction (Satisfaction with Life Scale),15 hope (The
+Hope Scale),16 optimism (Life Orientation Test),17 and
+courage (Courage scale).18 These instruments were used to
+examine the validity of the Italian version of the VA LV
+VFQ-48, which will be the subject of a separate report, and
+to provide all participants with a personalized report on the
+results achieved.
+We used descriptive statistics and histograms to report
+on the score and missing data structure of each item in the
+questionnaire. The internal consistency of the questionnaire was assessed using Cronbach’s alpha. Item-test correlation and item-rest correlation were also calculated.
+Criterion validity was studied using visual function measures as an external criterion, including visual acuity (logMAR), contrast sensitivity (log10 units), reading acuity
+(logMAR), and reading speed (words/minute). For this
+purpose, we computed Spearman correlation between the
+overall score and each subscale domain score with visual
+function measures. In order to check the robustness of our
+correlation estimates using the averages of the raw questionnaire scores (1 to 5), we also extracted the person-specific latent trait using an Item Response Theory model for
+ordinal responses (Graded Response Model, GRM)19 fitted
+by means of the irt grm command in Stata 15.1 (Stata Corp,
+College Station, TX), which was used for all our statistical
+analyses. The study followed the tenets of the Declaration
+of Helsinki and was approved by the Local Institutional
+Review Board.
+
+Results
+Sample characteristics and questionnaire
+performance
+For the validation of the Italian version of the VA-VFQ-48,
+we interviewed 131 patients who received the questionnaire and a battery of psychological tests and other questionnaires, with the purpose of confirming whether the
+translation met an Italian setting. This work was also
+based on a series of focus groups and will be the subject
+of a separate report. The mean age was 69 years (standard
+deviation (SD): 14 years) and 75 out of 131 patients
+(54%) were female. Age-Related Macular Degeneration
+(AMD) was the most common cause of visual impairment (58 subjects), followed by myopic macular degeneration (n = 27), diabetic retinopathy (n = 21), glaucoma
+(n = 14), and a miscellanea of acquired and inherited diseases (n = 21). In order to confirm the validity of the
+translated VFQ, using visual function and reading performance as external criteria, we computed Cronbach’s
+alpha and found it very high and reliable (alpha: 0.98).
+
+
+[page 3]
+3
+
+Mucciolo et al.
+Table 1. Mean score for each item, together with any missing data and test/rest correlation.
+Item
+
+Description
+
+Number
+responses
+
+Mean
+score
+
+SD
+
+%Missing
+
+Item-test
+correlation
+
+item-rest
+correlation
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+Physically get dressed
+Keep clean/keep your clothes clean
+Identify medicine
+Tell time
+Identify money
+Match clothes
+Groom yourself
+Identify food on plate
+Eat and drink neatly
+Fix a snack
+Prepare meals
+Use appliance dials
+Clean the house
+Handle finances
+Make out a check
+Take a message
+Find something on crowded shelf
+Find public restrooms
+Get around indoors in places you know
+Get around outdoors in places you know
+Get around in unfamiliar places
+Go out at night
+Get down steps in dim light
+Adjust to bright light
+Cross streets at a traffic light
+Use public transportation
+Get around in a crowd
+Avoid bumping into things
+Recognize persons up close
+Recognize persons across the room
+Read street signs and store names
+Read newspaper headlines
+Read menus
+Read newspapers/magazines
+Read mail
+Read small print on a package label
+Read print on TV
+Keep your place while reading
+Watch TV
+Play table and card games
+See photos
+Work on your favorite hobby
+Go to the movies
+Go to spectator events
+Play sports
+Do yard work
+Sign your name
+Read store signs
+
+116
+105
+127
+130
+130
+126
+126
+130
+129
+120
+104
+106
+85
+109
+75
+118
+129
+112
+127
+121
+119
+73
+114
+124
+121
+89
+109
+129
+129
+129
+126
+129
+121
+127
+127
+129
+128
+75
+128
+96
+127
+110
+57
+75
+58
+80
+129
+126
+
+1.10
+1.80
+1.70
+1.80
+2.10
+1.60
+1.60
+1.80
+1.60
+1.40
+1.70
+1.80
+1.90
+2.10
+2.70
+2.00
+2.10
+2.20
+1.30
+1.70
+2.70
+3.00
+2.30
+2.50
+2.00
+2.60
+2.20
+1.80
+1.90
+2.80
+2.80
+2.00
+2.90
+3.00
+2.80
+3.30
+3.10
+2.60
+2.10
+2.60
+2.40
+2.80
+2.60
+2.30
+2.50
+2.30
+1.80
+2.20
+
+0.41
+0.91
+0.83
+0.91
+0.79
+0.90
+0.70
+0.86
+0.71
+0.71
+0.91
+0.99
+0.91
+1.10
+1.10
+0.97
+0.92
+0.97
+0.61
+0.89
+0.97
+1.10
+0.90
+0.88
+1.00
+1.10
+1.00
+0.75
+0.97
+1.10
+1.10
+1.10
+1.10
+0.97
+1.10
+0.92
+1.00
+1.20
+0.96
+1.20
+1.10
+1.10
+1.10
+1.10
+1.30
+1.20
+0.85
+1.10
+
+11
+20
+3
+1
+1
+4
+4
+1
+2
+8
+21
+19
+35
+17
+43
+10
+2
+15
+3
+8
+9
+44
+13
+5
+8
+32
+17
+2
+2
+2
+4
+2
+8
+3
+3
+2
+2
+43
+2
+27
+3
+16
+56
+43
+56
+39
+2
+4
+
+0.25
+0.67
+0.60
+0.66
+0.64
+0.67
+0.54
+0.69
+0.54
+0.67
+0.78
+0.76
+0.78
+0.75
+0.72
+0.75
+0.73
+0.76
+0.55
+0.75
+0.81
+0.72
+0.70
+0.64
+0.79
+0.73
+0.72
+0.57
+0.69
+0.77
+0.77
+0.73
+0.78
+0.70
+0.79
+0.65
+0.73
+0.81
+0.75
+0.80
+0.79
+0.64
+0.79
+0.80
+0.72
+0.83
+0.62
+0.78
+
+0.24
+0.65
+0.58
+0.65
+0.62
+0.65
+0.52
+0.68
+0.52
+0.66
+0.76
+0.75
+0.77
+0.73
+0.70
+0.74
+0.71
+0.75
+0.53
+0.74
+0.80
+0.70
+0.68
+0.62
+0.78
+0.71
+0.71
+0.55
+0.67
+0.75
+0.76
+0.72
+0.77
+0.68
+0.78
+0.63
+0.71
+0.80
+0.73
+0.79
+0.77
+0.62
+0.77
+0.78
+0.70
+0.82
+0.60
+0.76
+
+SD: standard deviation.
+
+The median item-test correlation was 0.73 (interquartile
+interval: 0.67–0.77), with only one item (Item 1) having a
+correlation of less than 0.50 (0.26). Table 1 presents the
+
+mean score (SD) for each item, together with item-test and
+item-rest correlation. Figure 1 shows the distribution of the
+scores for each item. Ten items presented more than 25%
+
+
+[page 4]
+4
+
+European Journal of Ophthalmology 00(0)
+
+Figure 1. Distribution of the scores for each item, including missing data.
+
+Table 2. Pairwise correlation (Spearman r) between functional variables and questionnaire overall as well as subscale scores.
+
+Visual acuity
+Reading acuity
+Contrast sensitivity
+Reading speed
+
+Overall
+score
+
+Latent trait (Graded
+Response Model)
+
+Reading
+subscale
+
+Visual motor
+subscale
+
+Mobility
+subscale
+
+Visual information
+subscale
+
+0.34
+−0.37
+0.29
+−0.44
+
+0.36
+−0.39
+0.31
+0.48
+
+0.37
+−0.30
+0.30
+−0.44
+
+0.31
+−0.32
+0.31
+−0.39
+
+0.24
+−0.34
+0.18
+−0.39
+
+0.38
+−0.40
+0.33
+−0.49
+
+missing responses, ranging from 27% for “Play table and
+card games” to 56% for “Go to movies.” Considering the
+high frequency of omitted items and based on participants’
+indications, the following items request rephrasing: 1, 11,
+13, 14, 15, 16, 22, 38, 40, 45, 46.
+
+Association with visual and reading function
+data
+Questionnaire data could be linked with best-corrected
+visual acuity (BCVA) data for 106 patients and with reading performance and contrast sensitivity data for 76
+patients. There was minimal and non-significant Spearman
+correlation between age and overall or subscale scores
+(Spearman r between −0.02 and −0.13 in absolute values)
+and no association was found with sex in regression
+models.
+Table 2 presents pairwise correlation (Spearman r)
+between the functional variables and the overall scores of
+the questionnaire, as well as the subscale scores. All coefficients were in the range of low to moderate correlation
+but statistically significant, except for the lowest value
+(reading acuity with mobility subscale score). Although
+we did not conduct formal comparisons of the associations
+between visual function measures and questionnaire
+scores, we observed that the highest correlation was
+reached for reading speed with the overall score, as well as
+with all subscale scores.
+
+Discussion
+The VA LV VFQ48 questionnaire is the most extensively
+validated tool to assess PROs in patients attending low vision services and has been used in large-scale randomized clinical trials.12
+To the best of our knowledge, no other studies have
+been published that report on the translation and validating
+of the VA LV VFQ 48 in non-English speaking countries.
+We have reported on the first translation of the VA LV
+VFQ48 questionnaire, which we have adapted to the
+Italian low-vision rehabilitation setting. The VA LV
+VFQ48 proved to be usable with minimal adaptation, as
+shown by the low rate of missing values for most items. As
+we expected, we found a moderate correlation with all
+visual function measures, which was higher for reading
+speed.
+Based on this initial assessment, we plan to develop a
+refined version in which specific items are rephrased or
+adapted to the Italian low-vision setting. Considering the
+participants’ observations collected during the interviews,
+the high frequency of omitted items is due to the following: (a) the activity is not performed for age reasons: for
+example, some participants reported that they did not play
+sport because they were no longer young; (b) the activity is
+not performed for lack of availability: for example, some
+participants reported that they did not have a garden; (c)
+the activity is not performed for lack of interest:
+
+
+[page 5]
+Mucciolo et al.
+for example, some participants reported that they had not
+written checks because they did not need to; (e) the activity is generally carried out by other people: for example, a
+female spouse or a support figure usually carried out
+domestic cleaning; and (f) the activity is not performed
+due to impairment or health problems: for example, some
+participants reported that they were unable to come down
+the stairs because they had other disabilities.
+A limitation of this study was that we did not use
+Rasch analysis for the statement check and selection and
+to assess the psychometric properties of the questionnaire. Since this is a preliminary study, we used simple
+methods, such as Cronbach’s alpha and correlations. We
+plan to use more sophisticated analytic techniques to
+validate a revised version of the Italian VA LV VFQ48
+on a larger sample.
+Based on the data collected in this study, we believe
+that the Italian version of the VA LV VFQ48 can be used
+as a structured interview in clinical practice during LVR
+in order to understand individual patient’s needs regarding day-to-day activities and their perceived functional
+ability. Therefore, we recommend that further studies
+investigating the QOL in low-vision patients undergoing LVR in Italy use the VA LV VFQ48 as a measurement tool.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+
+Funding
+The author(s) disclosed receipt of the following financial support
+for the research, authorship, and/or publication of this article:
+This study was partially funded by Fondazione Retina 3000,
+Milano, Italy.
+
+References
+1. Ehrlich JR, Spaeth GL, Carlozzi NE, et al. Patient-centered
+outcome measures to assess functioning in randomized controlled trials of low-vision rehabilitation: a review. Patient
+2017; 10(1): 39–49.
+2. Massof RW. A systems model for low vision rehabilitation:
+II. Measurement of vision disabilities. Optom Vis Sci 1998;
+75(5): 349–373.
+3. Becker SW, Lambert RW, Schulz EM, et al. An instrument
+to measure the activity level of the blind. Int J Rehabil Res
+1985; 8(4): 415–424.
+
+5
+4. Weih LM, Hassell JB and Keeffe J. Assessment of the
+impact of vision impairment. Invest Ophthalmol Vis Sci
+2002; 43: 927–935.
+5. Wolffsohn JS and Cochrane AL. Design of the low vision
+quality-of life questionnaire (LVQOL) and measuring the
+outcome of low vision rehabilitation. Am J Ophthalmol
+2000; 130(6): 793–802.
+6. Stelmack JA, Szlyk JP, Stelmack TR, et al. Psychometric
+properties of the veterans affairs low-vision visual functioning questionnaire. Invest Ophthalmol Vis Sci 2004; 45(11):
+3919–3928.
+7. Khadka J, McAlinden C and Pesudovs K. Quality assessment of ophthalmic questionnaires: review and recommendations. Optom Vis Sci 2013; 90(8): 720–744.
+8. Szlyk JP, Stelmack J, Massof RW, et al. Performance of the
+veterans affairs low vision visual functioning questionnaire.
+J Vis Impair Blind 2004; 98: 261–275.
+9. Stelmack JA, Rosenbloom AA, Brenneman CS, et al.
+Patient’s perception of need for low vision devices. J Vis
+Impair Blind 2003; 97: 521–535.
+10. Stelmack JA, Szlyk JP, Stelmack TR, et al. Measuring outcomes of vision rehabilitation with the veterans affairs low
+vision visual functioning questionnaire. Invest Ophthalmol
+Vis Sci 2006; 47(8): 3253–3261.
+11. Stelmack JA, Tang XC, Reda DJ, et al. Outcomes of the
+veterans affairs low vision intervention trial (LOVIT). Arch
+Ophthalmol 2008; 126: 608–617.
+12. Stelmack JA, Tang XC, Reda DJ, et al. VA LOVIT II: a
+protocol to compare low vision rehabilitation and basic low
+vision. Ophthalmic Physiol Opt 2012; 32(6): 461–471.
+13. Van de Vijver F and Tanzer NK. Bias and equivalence
+in cross-cultural assessment: an overview. Eur Rev Appl
+Psychol 2004; 54: 119–135.
+14. Beck AT, Steer RA and Carbin MG. Psychometric properties of the beck depression inventory: twenty-five years of
+evaluation. Clin Psychol Rev 1988; 8: 77–100.
+15. Diener ED, Emmons RA, Larsen RJ, et al. The satisfaction
+with life scale. J Personal Assess 1985; 49: 71–75.
+16. Snyder CR, Harris C, Anderson JR, et al. The will and the
+ways: development and validation of an individual-differences
+measure of hope. J Pers Soc Psychol 1991; 60(4): 570–585.
+17. Scheier MF, Carver CS and Bridges MW. Distinguishing
+optimism from neuroticism (and trait anxiety, self-mastery,
+and self-esteem): a reevaluation of the life orientation test. J
+Pers Soc Psychol 1994; 67(6): 1063–1078.
+18. Norton PJ and Weiss BJ. The role of courage on behavioral approach in a fear-eliciting situation: a proof-of-concept
+pilot study. J Anxiety Disord 2009; 23(2): 212–217.
+19. Wang C, Su S and Weiss DJ. Robustness of parameter estimation to assumptions of normality in the multidimensional
+graded response model. Multivariate Behav Res 2018;
+53(3): 403–418.
+

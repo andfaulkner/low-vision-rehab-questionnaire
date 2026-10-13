@@ -1,0 +1,1922 @@
+[page 1]
+Low Vision
+
+Factors Influencing Self-reported Vision-Related Activity
+Limitation in the Visually Impaired
+Daryl R. Tabrett1,2 and Keziah Latham1,2
+PURPOSE. The use of patient-reported outcome (PRO) measures
+to assess self-reported difficulty in visual activities is common
+in patients with impaired vision. This study determines the
+visual and psychosocial factors influencing patients’ responses
+to self-report measures, to aid in understanding what is being
+measured.
+METHODS. One hundred visually impaired participants completed the Activity Inventory (AI), which assesses self-reported,
+vision-related activity limitation (VRAL) in the task domains of
+reading, mobility, visual information, and visual motor tasks.
+Participants also completed clinical tests of visual function
+(distance visual acuity and near reading performance both with
+and without low vision aids [LVAs], contrast sensitivity, visual
+fields, and depth discrimination), and questionnaires assessing
+depressive symptoms, social support, adjustment to visual loss,
+and personality.
+RESULTS. Multiple regression analyses identified that an acuity
+measure (distance or near), and, to a lesser extent, near reading
+performance without LVAs, visual fields, and contrast sensitivity best explained self-reported VRAL (28%–50% variance explained). Significant psychosocial correlates were depression
+and adjustment, explaining an additional 6% to 19% unique
+variance. Dependent on task domain, the parameters assessed
+explained 59% to 71% of the variance in self-reported VRAL.
+CONCLUSIONS. Visual function, most notably acuity without
+LVAs, is the best predictor of self-reported VRAL assessed by
+the AI. Depression and adjustment to visual loss also significantly influence self-reported VRAL, largely independent of the
+severity of visual loss and most notably in the less vision specific tasks. The results suggest that rehabilitation strategies
+addressing depression and adjustment could improve perceived visual disability. (Invest Ophthalmol Vis Sci. 2011;52:
+5293–5302) DOI:10.1167/iovs.10-7055
+
+From the 1Department of Vision and Hearing Sciences and the
+Vision and Eye Research Unit, Anglia Ruskin University, Cambridge,
+United Kingdom.
+Supported by a College of Optometrists’ Research Scholarship
+(DRT).
+Submitted for publication December 14, 2010; revised March 18,
+April 14, and May 10, 2011; accepted May 12, 2011.
+Disclosure: D.R. Tabrett, None; K. Latham, None
+Corresponding author: Keziah Latham, Anglia Ruskin University,
+East Road, Cambridge, CB1 1PT, UK; keziah.latham@anglia.ac.uk.
+
+rienced in ADL as a result of vision loss. To better understand
+what PRO instruments are assessing, we asked how both visual
+and nonvisual factors influence self-reported, vision-related activity limitation (VRAL) of the visually impaired.
+It has been shown that self-reported VRAL as measured
+by items in common visual function assessment instruments
+(or questionnaires), represents a unidimensional construct,
+or the measurement of a single attribute.2,5,6 The Activity
+Inventory (AI) is an adaptive instrument designed to provide
+an individualized assessment of difficulties for a visually
+impaired respondent.6 The AI consists of a hierarchal structure in which specific cognitive and motor visual tasks (e.g.,
+pouring or mixing without spilling) underlie more global
+goals (e.g., preparing meals). Disabilities (or activity limitations, according to the World Health Organization’s International Classification of Functioning [WHO ICF] 7) occur
+when an individual reports abnormal difficulties in achieving important goals and difficulties achieving a goal are said
+to depend on the difficulty experienced in the tasks that
+underlie each goal.6
+Although self-reported VRAL represents the functional limitations and resultant disability caused by visual impairment,
+only a modest relationship has been seen between self-report
+and clinically measured visual function (previously reviewed in
+Ref. 8). Approximately 50% of the variance in reported difficulty can be explained by clinical measures of visual function
+including acuity, contrast sensitivity, and visual fields.8 –12
+One possible explanation of the modest relationship between clinical and self-reported visual function may reflect
+that most instruments ask respondents to report their difficulties under their usual day-to-day conditions, which would
+include the use of any compensatory strategies such as
+low-vision aids (LVAs). However, clinical tests of visual function are usually performed under standardized conditions
+using only refractive correction (either habitual or best
+corrected). It is possible that despite a decline in clinical
+visual function, individuals can fully compensate for the
+decline by using strategies such as LVAs. These patients are
+said to exhibit preclinical disability as they are at risk of
+disability, but do not perceive difficulties due to their use of
+compensatory strategies.13 However, it is not clear whether
+self-reported VRAL best reflects the severity of vision loss
+(clinical function without aids) or the visual function attained when using LVAs.
+Factors other than clinical visual function, represented
+within the WHO ICF, have also been suggested to influence the
+self-reported VRAL of the visually impaired.14,15 Depression
+has often been associated with worse self-reported function in
+the visually impaired, sometimes independent of the severity of
+vision loss as characterized by visual acuity.16 Better social
+support has been associated with better ADL function in non–
+vision-specific research,17,18 yet greater instrumental support
+from family members has correlated with worse reported VRAL
+in the visually impaired.19 Better adaptation and adjustment to
+vision loss has been significantly associated with fewer re-
+
+Investigative Ophthalmology & Visual Science, July 2011, Vol. 52, No. 8
+Copyright 2011 The Association for Research in Vision and Ophthalmology, Inc.
+
+5293
+
+P
+
+atient-reported outcome (PRO) measures are of increasing
+importance in vision science and ophthalmology. Such
+assessments are used to determine the effect of interventions
+and to guide rehabilitation in the visually impaired by identifying areas of difficulty.1,2 A wide range of PRO instruments is
+available to assess health-related or vision-related quality of life
+and vision-related difficulty in activities of daily living (ADL)
+(reviewed in Refs. 3, 4). In this study, we considered the aspect
+of self-report concerned with the perceived difficulties expe-
+
+2
+
+
+[page 2]
+5294
+
+Talbrett and Latham
+
+ported functional limitations in ADL as a consequence of vision
+loss19 and with greater improvement in reported VRAL after
+low vision rehabilitation.20 Personality may also affect self reported function. Individuals higher in the personality trait of
+neuroticism have been found to have significantly worse mobility function21 and poorer self-reported function in ADL18 in
+non–vision-specific research.
+The purpose of this study was to characterize the relationship between self-reported VRAL as measured by the AI
+and not only a range of visual function measures, but also
+nonvisual psychosocial factors in a sample of adults with
+visual impairment. The purpose was to assess the relative
+roles of these factors in determining self-reported VRAL,
+such that what PROs are measuring can be better understood.
+
+METHODS
+Subjects
+One hundred people participated in the study, which was performed
+at Essex County and Clacton and District Hospitals and Anglia Ruskin
+University Eye Clinic. Participants at each location were approached,
+after having attended low vision support and rehabilitation sessions,
+and were included if they had experienced vision loss for more than 6
+months that they felt caused restriction in their daily life. Those who
+were under 18 years of age, were unable to perform verbal evaluations
+in English, had no perception of light in both eyes, or were cognitively
+impaired (as determined by the Mini-Mental State Examination22) were
+excluded. Ethical approval was granted by Anglia Ruskin University
+Research Ethics Committee and NHS Essex Ethics Committee. The
+study complied with the tenets of the Declaration of Helsinki, and all
+subjects gave informed consent after the nature and possible consequences of the study were explained.
+All study interviews and assessments were performed by the same
+examiner, a qualified optometrist (DRT), usually on the same day, but
+occasionally in two appointments within 2 weeks of each other.
+Participation was at least 2 weeks after patients’ routine low vision
+assessments, which were not conducted by DRT. Patients did not need
+to have been prescribed low vision aids (LVAs) to participate.
+
+Demographics
+A structured face-to-face interview elicited key demographics including age, gender, primary cause of visual impairment, and the length of
+time since ocular diagnosis of each eye, living arrangements, and
+education. The presence of any co-morbidity from a list of 12 common
+medical conditions23 and details of any prescribed medications were
+recorded and used to represent general health. Focimetry of any
+current spectacles was undertaken and recorded.
+
+Self-reported VRAL
+Self-reported VRAL was assessed using the AI6 and the results analyzed
+at goal level, at task level, and for each functional domain at task level
+(i.e., reading, mobility, visual motor and visual information). The AI
+contains a wide range of items specifically chosen to represent the
+visual abilities of a mixed visually impaired population. Adaptive testing is used so that only the difficulty of goals rated as having some
+importance to the respondent are investigated further. This helps to
+reduce administration time and produces a tailored set of items for
+each individual.
+Some goals of the original AI that were less relevant in the United
+Kingdom and deemed less essential in the current sample were not
+administered (e.g., hunting and shooting). The instrument implemented contained 30 goals and 235 tasks across three objectives
+(Table 1). The importance of each goal was rated on a four-point scale
+(not important, slightly important, moderately important, and very
+important), and the difficulty of important goals and the tasks under-
+
+IOVS, July 2011, Vol. 52, No. 8
+TABLE 1. The 30 Goals of the AI, Nested under Their Associated
+Objectives
+Daily Living
+Take care of yourself, such as shave, trim nails, make-up
+Take care of health needs
+Eat meals
+Prepare meals
+Perform everyday household tasks such as cleaning, laundry
+Recognize people, see expressions and make eye contact
+Correspond with others such as mail and letters
+Follow news and keep up with current events
+Read the time and follow a schedule
+Pay bills, manage personal or household finances
+Shop for food, clothes, and other necessities
+Use the telephone
+Choose clothes and dress
+Social Interactions
+Attend parties and other functions
+Entertain guests
+Cook or bake for social occasions
+Dine out
+Attend meetings, such as a club, church, or civic group
+Recreational
+Provide yourself with leisure entertainment
+Exercise
+Sew or do needlework
+Knit or crochet
+Do wood working
+Paint or draw
+Travel
+Perform outdoor recreational activities
+Garden for pleasure
+Use a computer
+Read the newspaper
+Do photography
+
+pinning these goals were then graded by the respondent on a five-point
+scale (not difficult, slightly difficult, moderately difficult, very difficult,
+and impossible without assistance). The typical AI administration time
+was approximately 35 minutes.
+
+Clinical Visual Function
+Distance visual acuity was measured binocularly with an externally
+illuminated Bailey-Lovie chart24 at 3 m (chart luminance, 95–100 cd/
+m2). Acuity was measured on a per letter basis until no letters on a line
+could be correctly identified.25,26 A measure of clinical visual function
+was assessed with any habitual distance spectacle prescription, and a
+further measure was obtained with any low-vision aid commonly used
+for distance tasks (if applicable).
+Contrast sensitivity was measured binocularly with a Pelli-Robson
+Chart27 at 1 m (chart luminance 95–110 cd/m2). Participants wore any
+habitual distance spectacle prescription with a ⫹1.00-D addition
+where necessary. Contrast sensitivity was measured per letter, until no
+letters in a triplet could be correctly identified.28
+Near reading performance was measured binocularly with an
+MNRead Chart.29 Reading performance was assessed binocularly at 40
+cm with a static reading stand with participants wearing any habitual
+distance spectacle prescription and a corresponding ⫹2.50-D addition
+where necessary. If the largest text at this distance could not be seen,
+the chart was moved closer in a log unit progression until the participant was able to read at least the largest text and the reading addition
+was altered appropriately. The chart luminance was between 110 and
+150 cd/m2. Text size was expressed in terms of its angular size (logMAR).
+A further assessment of reading function with LVAs was made using
+a different version of the MNRead chart. Any habitual spectacle correction and LVA commonly worn for reading tasks was used. Chart
+
+
+[page 3]
+IOVS, July 2011, Vol. 52, No. 8
+
+Self-Reported Activity Limitation in the Visually Impaired
+
+luminance varied throughout the evaluation (e.g., with the use of
+illuminated LVAs and variable working distances) depending on participant preference. Since the working distance varied during the
+assessment, altering the angular degree of the text subtended at the
+eye, logMAR notation was inappropriate. The physical print size accessed was instead noted in terms of x-height (in centimeters).30
+For both magnifier-aided and unaided measures, near word acuity,
+maximum reading speed (MRS), and critical print size (CPS) were
+determined according to the MNRead manufacturer’s instructions.31 As
+the MRS is unable to differentiate between participants reading text at
+different sizes and the CPS is unable to distinguish between participants reading at different speeds, the reading index was calculated.11
+The reading index, which represents MRS as a function of CPS, has
+been seen to predict self-reported VRAL better than speed and print
+size separately.11
+Static threshold binocular central visual fields were conducted
+with a visual field perimeter (Humphrey Field Analyzer using a Central
+30-2 SITA-Fast strategy; Carl Zeiss Meditec, Oberkochen, Germany).32,33 Participants wore any habitual distance spectacle prescription with a ⫹3.00-D addition where necessary. If the participant could
+not see the central fixation target, the small then large diamond targets
+were presented from the test menu and selected if subjectively preferred.34
+Fixation was manually monitored via the instrument camera view
+and graded: Good corresponded to the equivalent of less than 30%
+fixation losses (FL); moderate, ⬍50% FL; and poor, ⬎50% FL. False
+positives and false negatives were also reviewed as determinants of test
+reliability. The mean thresholds33,35,36 of the central 10° and outer 10°
+to 30° were calculated and used for analysis, to represent macular and
+nonmacular function, respectively.
+Depth discrimination was assessed using the Frisby Stereotest.37
+Participants wore any habitual distance spectacle prescription with an
+appropriate reading addition corresponding to the test distance where
+necessary. Depth discrimination tested potentially ranged from 600 to
+40 min arc.
+
+Psychosocial Function
+Depressive symptoms were assessed with the 15-item Geriatric Depression Scale (GDS).38 Questions are answered on a dichotomous
+response scale of yes or no.
+Social support was assessed using the 12-item Interpersonal Support Evaluation List (ISEL).39 The ISEL is designed to assess perceived
+available support in three areas: appraisal (four statements), belonging
+(four statements), and tangible support (four statements). Each item is
+rated on a four-point response scale of definitely true, probably true,
+probably false, and definitely false.
+Adjustment to vision loss was assessed using the 19-item Acceptance and Self-Worth Adjustment Scale (AS-WAS).40 The AS-WAS evaluates the aspects of adjustment concerned with self-esteem, attitudes,
+locus of control, self-efficacy, and acceptance. Items are assessed on a
+four-point response scale of strongly agree, agree, disagree, and
+strongly disagree.
+Personality was assessed according to the five-factor model
+using the Neuroticism, Extraversion, Openness Five Factor Inventory (NEO FFI).41 The NEO FFI contains 60 statements relating to
+the traits of neuroticism, extraversion, agreeableness, conscientiousness, and openness to experience. Each item is rated on a
+five-point response scale of strongly disagree, disagree, neutral,
+agree, and strongly agree.
+
+Statistical Analysis
+All data were double entered and corrected for errors before data
+analysis. Rasch analysis42 was conducted using Winsteps version
+3.69.143 on responses to all self-report instruments to provide person
+measure estimates for each construct. Person measures were derived
+from the AI for overall self-reported VRAL at goal and task level and for
+each functional domain.
+Univariate analyses were first undertaken to explore the demographic, visual function, and psychosocial variables. Bivariate analyses
+in the form of linear correlation coefficients were then conducted to
+investigate the association between the predictor variables and self-
+
+TABLE 2. Descriptive statistics for demographic variables
+Sex, n/%
+Age, y
+Primary ocular diagnosis, n/%
+Macular dysfunction, including AMD
+Optic neuropathy, including glaucoma
+Diabetic retinopathy
+Retinal, including myopic degeneration
+Undiagnosed
+Cataract
+Corneal
+Other
+Time since most recent 1° diagnosis, y
+Habitual best vision sphere, D
+Education, n/%
+Standard school leaving age
+A-level or equivalent
+Further education
+Higher education
+Bachelors degree
+Post graduate qualification
+Living arrangements, n/%
+Alone
+With partner
+With other
+Warden assisted
+Number of prescribed medications
+Number of co-morbidities
+
+5295
+
+39 male, 61 female
+81 (73–86)
+Right eye
+54
+11
+7
+5
+8
+2
+3
+10
+
+Left eye
+57
+11
+8
+5
+9
+2
+2
+6
+5 (3–12)
+
+Right eye
+0.00 (⫺0.50 to ⫹1.22)
+
+Left eye
+0.00 (⫺0.72 to ⫹1.44)
+59
+13
+12
+2
+10
+4
+
+40
+51
+6
+3
+4 (2–6.75)
+1.5 (1–3)
+
+n ⫽ 100. As the distribution of data was significantly different from normal, the median (25%–75%
+interquartiles) values are given.
+
+
+[page 4]
+5296
+
+Talbrett and Latham
+
+IOVS, July 2011, Vol. 52, No. 8
+
+RESULTS
+
+TABLE 3. Details of Aids Chosen and Used by Participants for
+Distance and Near Visual Function Assessments with LVAs
+LVA
+Distance
+Telescope
+None
+Near
+Illuminated hand magnifier
+Illuminated stand magnifier
+Non-illuminated hand magnifier
+Reading spectacles
+Illuminated flat-field magnifier*
+Other (e.g. reduced working distance, additional light)
+
+(%)
+
+29
+71
+31
+28
+16
+9
+8
+8
+
+n ⫽ 100.
+* Makrolux; Eschenbach Optik of America, Danbury, CT.
+reported VRAL. Next, significantly correlated variables were entered
+into separate demographic, visual function, and psychosocial factor
+stepwise regression analyses. Finally, the variables identified as significant predictors were entered into an overall multiple regression
+model. Conducting separate regression analyses initially and then together in overall regression analyses allowed the amount of unique
+variance of self-reported VRAL explained by visual and nonvisual factors to be calculated in addition to determining the degree of shared
+variance they explain.
+
+Table 2 summarizes the descriptive characteristics of the study
+population. Table 3 provides details of the aids used by participants for the assessment of magnifier-aided visual function. Details
+of the self-reported and visual function measures and psychosocial
+factors within the sample are given in Table 4. As only eight
+participants had measurable depth discrimination, participants
+were said either to be able to achieve a positive result on the
+Frisby Stereotest or not to be able, which was used in further
+analyses. For binocular visual field assessment, similar to automatically determined monocular fixation distributions,44 fixation was
+rated as good in 64% of participants and 98% were adjudged to
+have at least moderate fixation. Ninety-seven percent of false positive statistics were 20% or less and 99% were 25% or less, and
+88% of false negatives were 20% or less and 91% were 25% or less.
+For the self-report instruments, more positive logit values correspond to greater amounts of the construct measured, and greater
+visual ability in regards to the AI.
+Further details of the Rasch analyses of the psychosocial
+instruments are given in Table 5. The MNSQ infit and outfit
+statistics indicated broadly acceptable item fit for all scales
+(where values between 0.60 and 1.40 are deemed acceptable).45 Principal component analysis of the residuals identified
+sufficient unidimensionality (first contrast eigenvalues between 1.8 and 2.3, where eigenvalues up to between 2.046 and
+
+TABLE 4. Descriptive Statistics of the Self-reported and Clinical Visual Function Assessments
+
+Self-reported VRAL
+AI goals person measure (logits)
+AI all tasks person measure (logits)
+AI reading person measure (logits)
+AI mobility person measure (logits)
+AI visual motor person measure (logits)
+AI visual information person measure (logits)
+Clinical Visual Function
+Distance visual acuity, logMAR
+Distance visual acuity with LVA, logMAR*
+Contrast sensitivity, logCS units
+Reading acuity, logMAR
+CPS, logMAR
+MRS, wpm
+Reading index, MRS/CPS
+Reading acuity with LVA, x-height, cm
+CPS with LVA, x-height, cm
+MRS with LVA, wpm
+Reading index with LVA, MRS/CPS
+Central 30–2 mean threshold, dB
+Central 10 mean threshold, dB
+Central 10 to 30 degree mean threshold, dB
+Depth discrimination, sec arc
+Yes, n ⫽ 8
+No, n ⫽ 92
+Psychosocial Factors
+Depression, GDS, logits
+Social support, ISEL, logits
+Adjustment to vision loss, AS-WAS, logits
+Personality, NEO FFI, logits
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+
+Average
+
+Min–Max
+
+1.98 ⫾ 1.74
+1.30 ⫾ 1.23
+0.60 ⫾ 1.70
+2.44 ⫾ 1.84
+1.76 ⫾ 1.33
+1.69 ⫾ 1.56
+
+⫺2.96–8.14
+⫺2.31–5.20
+⫺4.45–5.73
+⫺2.47–6.70
+⫺1.88–5.77
+⫺2.77–7.59
+
+0.84 ⫾ 0.36
+0.59 ⫾ 0.40
+1.10 (0.88–1.35)
+0.81 ⫾ 0.45
+1.00 (0.80–1.30)
+107.36 (45.95–143.7)
+105.62 (35.76–190.31)
+0.077 (0.056–0.15)
+0.18 (0.12–0.35)
+100.84 (43.41–142.52)
+510.64 (122.55–1089.20)
+22.28 (14.21–26.40)
+22.91 (14.06–27.31)
+21.58 (13.04–26.31)
+
+0.08–1.64
+⫺0.20–1.36
+0.15–1.75
+⫺0.04–2.00
+0.10–2.00
+1.34–210.52
+0.67–1758.50
+0.024–1.27
+0.05–1.16
+3.10–200.67
+2.67–4013.40
+0.11–30.32
+0.50–34.25
+0.00–29.27
+
+396.88 ⫾ 192.63
+—
+
+55–600
+—
+
+⫺2.40 (⫺3.36–⫺1.26)
+1.28 ⫾ 1.07
+1.53 (0.84–1.93)
+
+⫺4.77–3.15
+⫺1.37–4.96
+0.71–4.69
+
+⫺0.84 (⫺1.33–⫺0.25)
+0.33 ⫾ 0.67
+0.05 ⫾ 0.52
+1.39 ⫾ 0.73
+1.23 (0.70–2.19)
+
+⫺5.15–2.80
+⫺1.05–1.93
+⫺1.43–1.30
+⫺0.25–4.31
+⫺0.44–4.72
+
+n ⫽ 100. The mean ⫾ SD is provided for the variables whose frequency distributions were not
+significantly different from normal. For all others, the median (25%–75% interquartiles) is given.
+* n ⫽ 29.
+
+
+[page 5]
+Self-Reported Activity Limitation in the Visually Impaired
+
+IOVS, July 2011, Vol. 52, No. 8
+
+5297
+
+TABLE 5. Psychometric Properties of the GDS, ISEL, AS-WAS, and NEO FFI Following Rasch Analysis
+Infit MNSQ
+
+GDS
+ISEL
+AS-WAS
+NEO FFI
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+
+Variance Explained
+(%)
+
+Outfit MNSQ
+
+Mean ⴞ SD
+
+Range
+
+Mean ⴞ SD
+
+Range
+
+Targeting
+
+Person
+Separation
+
+Item
+Separation
+
+1st contrast
+Eigenvalue
+
+Empirical
+
+Modelled
+
+0.98 ⫾ 0.19
+1.01 ⫾ 0.14
+1.01 ⫾ 0.11
+
+1.39–0.77
+1.32–0.84
+1.25–0.76
+
+0.99 ⫾ 0.38
+0.98 ⫾ 0.15
+0.99 ⫾ 0.15
+
+1.78–0.47
+1.25–0.86
+1.29–0.72
+
+⫺2.09
+1.28
+1.49
+
+1.11
+1.93
+2.38
+
+3.48
+2.80
+5.32
+
+1.8
+2.1
+2.0
+
+35.3
+38.3
+46.7
+
+33.6
+38.3
+47.4
+
+1.02 ⫾ 0.22
+0.99 ⫾ 0.16
+0.99 ⫾ 0.32
+1.02 ⫾ 0.27
+0.99 ⫾ 0.25
+
+1.33–0.61
+1.25–0.78
+1.57–0.56
+1.67–0.48
+1.33–0.61
+
+1.01 ⫾ 0.20
+0.99 ⫾ 0.16
+1.03 ⫾ 0.34
+0.99 ⫾ 0.24
+1.02 ⫾ 0.25
+
+1.37–0.64
+1.34–0.81
+1.68–0.59
+1.45–0.52
+1.42–0.63
+
+⫺0.91
+0.33
+0.05
+1.39
+1.49
+
+2.61
+1.74
+1.68
+1.45
+2.21
+
+3.24
+7.15
+4.95
+6.74
+3.88
+
+2.1
+2.3
+2.2
+2.0
+2.0
+
+50.1
+48.2
+35.2
+46.5
+39.8
+
+50.2
+44.7
+33.4
+47.7
+40.4
+
+Mean ⫾ SD are given for normally distributed person measures and the median (interquartile range) provided when significantly different to
+normal.
+
+3.047 have been used previously to indicate unidimensionality).
+Person separation was greater than 2.0 for the AS-WAS, neuroticism, and conscientiousness scales, a value that indicates
+sufficiently reliable person ordering,1 but was less than 2.0 for
+all other psychosocial scales. Notably, the GDS had a less than
+optimal person separation of 1.1, most likely due to the few
+items targeted toward the less depressed48: suboptimal person
+separations have previously been noted with depression scales
+(Ahmadian L, et al. IOVS 2008;49:ARVO E-Abstract3755).49
+Item separation was greater than 2.0 for all scales, indicating
+reliable item ordering. The psychosocial scale measures determined were used in further analyses as shown, with no adaptations made to adjust the psychometric properties of the
+scales on the basis of the Rasch analysis.
+Table 6 shows the variables significantly correlated with
+self-reported VRAL in bivariate analyses (Spearman’s r). Because of the multiple number of comparisons performed (n ⫽
+156), a Bonferroni correction would result in a significance
+level of P ⫽ 0.00032 (0.05/156) at the 5% level. However,
+because of the exploratory nature of the analyses and in accordance with others,8 the corrected P value could be considered
+excessively stringent.50 In its place, it should be noted that
+approximately eight (156 ⫻ 0.05) correlations would be expected to be significant by chance alone at the P ⫽ 0.05 level.
+Depth discrimination, personality (except neuroticism), and
+demographic variables (except age with self-reported reading
+function) were not significantly associated with any domain of
+the AI.
+The visual functions and psychosocial variables significantly
+associated with self-reported VRAL, along with age, were entered into separate stepwise regression analyses (Table 7). For
+
+visual function, magnifier-aided distance visual acuity was not
+included as a predictor variable, as it correlated strongly with
+visual acuity without magnifiers (r ⫽ 0.92, P ⬍ 0.001), risking
+multicollinearity, and was underrepresented in the sample
+(n ⫽ 29, see Table 4).
+Table 7 shows that in most domains, either near word (RA)
+or distance letter (VA) acuity, and reading index (RI), along
+with visual field function of the central 10° to 30° (OR), best
+explained the self-reported VRAL. For self-reported reading
+function, contrast sensitivity (CS) replaced visual fields as a
+significant predictor, and contrast sensitivity along with the
+central 10° to 30° field best explained mobility function. With
+regard to nonvisual psychosocial factors, depression (GDS)
+and/or adjustment (AS-WAS) were significant predictors of
+self-reported VRAL. Social support and neuroticism lost significance when considered alongside depression and adjustment.
+Age did not remain significantly associated with self-reported
+function.
+Overall multiple regression analyses (Table 8) were conducted which included the significant predictors determined
+in the above regression analyses. The total variance in self reported VRAL explained by both visual function and psychosocial factors was between 59% and 71%. For each regression
+model, the residuals were normally distributed and the assumptions of homoscedasticity (the extent to which the variance of
+residuals was equal for all predicted values) and linearity were
+supported. The variation inflation factor was sufficiently low
+for all variables indicating absence of bias from multicollinearity. The standardized residuals supported adequate fit of the
+sample to the model.
+
+TABLE 6. Bivariate Analyses between Clinical Visual Function and Psychosocial Factors as Compared with Self-reported VRAL
+
+Goals
+All tasks
+Reading
+Mobility
+Visual motor
+Visual information
+
+VA
+
+MVA
+
+CS
+
+RA
+
+RI
+
+MRA
+
+MRI
+
+C10
+
+OR
+
+Depression
+
+Adjustment
+
+Neuroticism
+
+Social
+Support
+
+Age
+
+⫺0.60
+⫺0.66
+⫺0.71
+⫺0.27
+⫺0.56
+⫺0.61
+
+⫺0.39
+⫺0.47
+⫺0.56
+⫺0.08ns
+⫺0.44
+⫺0.45
+
+0.53
+0.59
+0.57
+0.47
+0.42
+0.55
+
+⫺0.64
+⫺0.69
+⫺0.75
+⫺0.30
+⫺0.59
+⫺0.64
+
+0.62
+0.67
+0.72
+0.33
+0.55
+0.62
+
+⫺0.49
+⫺0.52
+⫺0.63
+⫺0.18ns
+⫺0.43
+⫺0.43
+
+0.60
+0.63
+0.71
+0.29
+0.50
+0.56
+
+0.46
+0.51
+0.44
+0.49
+0.38
+0.53
+
+0.37
+0.42
+0.33
+0.61
+0.31
+0.42
+
+⫺0.52
+⫺0.50
+⫺0.40
+⫺0.50
+⫺0.51
+⫺0.49
+
+0.56
+0.51
+0.42
+0.52
+0.50
+0.47
+
+⫺0.40
+⫺0.41
+⫺0.26
+⫺0.55
+⫺0.43
+⫺0.40
+
+0.28*
+0.22*
+0.15ns
+0.31
+0.25*
+0.20*
+
+⫺0.09ns
+⫺0.08ns
+⫺0.21*
+0.13ns
+⫺0.03ns
+⫺0.07ns
+
+Nonparametric two-tailed Spearman’s correlation coefficients (r) are provided due to many variables being significantly differently distributed
+from normal. VA, distance visual acuity; MVA, magnifier-aided distance visual acuity; CS, contrast sensitivity; RA, near reading acuity; RI, reading
+index; MRA, magnifier-aided near reading acuity; MRI, magnifier-aided reading index; C10, central 10° mean threshold; OR, outer ring mean
+threshold (10°–30°).
+ns
+P ⬎ 0.05.
+* P ⬍ 0.05.
+Without symbol: P ⬍ 0.01.
+
+
+[page 6]
+5298
+
+Talbrett and Latham
+
+IOVS, July 2011, Vol. 52, No. 8
+
+TABLE 7. Results of Separate Stepwise Regression Analyses for Clinical Visual Function and Psychosocial Factors Predicting Self-reported VRAL
+Clinical Visual Function
+
+Goals
+Constant
+VA
+RI
+OR
+Total R2
+All tasks
+Constant
+RA
+OR
+RI
+Total R2
+Reading
+Constant
+RA
+CS
+RI
+Total R2
+Mobility
+Constant
+OR
+CS
+Total R2
+Visual motor
+Constant
+RA
+OR
+RI
+Total R2
+Visual information
+Constant
+VA
+OR
+RI
+Total R2
+
+B
+
+SE B
+
+2.40
+⫺2.03
+0.003
+0.05
+
+0.55
+0.42
+0.001
+0.016
+
+1.36
+⫺1.21
+0.036
+0.002
+0.38
+⫺1.73
+1.24
+0.002
+
+0.34
+0.23
+0.011
+0.001
+0.61
+0.32
+0.39
+0.001
+
+⫺0.95
+0.12
+1.09
+
+0.48
+0.02
+0.50
+
+1.94
+⫺1.23
+0.033
+0.001
+
+0.41
+0.28
+0.013
+0.001
+
+2.30
+⫺2.08
+0.048
+0.002
+
+0.049
+0.037
+0.014
+0.001
+
+␤
+
+⫺0.42***
+0.29**
+0.23**
+
+⫺0.45***
+0.24**
+0.27**
+
+⫺0.46***
+0.25**
+0.23**
+
+0.54***
+0.20*
+
+⫺0.42***
+0.21*
+0.21*
+
+⫺0.48***
+0.26**
+0.19*
+
+Psychosocial Factors
+R2 Change
+
+0.41***
+0.07**
+0.05**
+0.53
+0.46***
+0.06**
+0.05**
+0.57
+0.56***
+0.05**
+0.04**
+0.64
+0.40***
+0.03*
+0.43
+0.37***
+0.04**
+0.03*
+0.44
+0.43***
+0.07***
+0.03*
+0.52
+
+Goals
+Constant
+AS-WAS
+GDS
+
+B
+
+SE B
+
+␤
+
+R2 Change
+
+0.31
+0.62
+⫺0.36
+
+0.28
+0.18
+0.12
+
+0.34**
+⫺0.31**
+
+0.26***
+0.07**
+0.33
+
+All tasks
+Constant
+AS-WAS
+GDS
+
+0.15
+0.46
+⫺0.23
+
+0.20
+0.13
+0.08
+
+⫺0.36**
+⫺0.28**
+
+0.26***
+0.05**
+0.31
+
+Reading
+Constant
+AS-WAS
+
+⫺0.58
+0.79
+
+0.28
+0.16
+
+0.45***
+
+0.20***
+0.20
+
+Mobility
+Constant
+GDS
+AS-WAS
+
+0.72
+⫺0.46
+0.51
+
+0.30
+0.12
+0.19
+
+⫺0.38***
+0.26*
+
+0.27***
+0.05*
+0.32
+
+Visual motor
+Constant
+AS-WAS
+GDS
+
+0.53
+0.46
+⫺0.26
+
+0.22
+0.14
+0.09
+
+0.33**
+⫺0.30**
+
+0.25***
+0.06**
+0.31
+
+Visual information
+Constant
+GDS
+AS-WAS
+
+0.33
+⫺0.34
+0.43
+
+0.26
+0.11
+0.17
+
+⫺0.33**
+0.27*
+
+0.23***
+0.05*
+0.28
+
+Clinical visual function variables entered: VA, CS, RA, RI, MRA, MRI, C10, and OR (key: see Table 6). Psychosocial factor variables entered:
+depression (GDS), adjustment (AS-WAS), neuroticism and social support.
+* P ⬍ 0.05.
+** P ⬍ 0.01.
+*** P ⬍ 0.001.
+
+Using results from all regression analyses, the percentage of
+unique variance of self-reported VRAL explained by visual and
+nonvisual factors was determined (Table 9). The variance explained by visual function (total R2 value in Table 7) represents
+both variance explained solely by visual function (c) and variance shared with psychosocial factors (b). Similarly, the total
+variance explained by psychosocial factors in Table 7 represents both variance explained solely by psychosocial factors (a)
+and variance shared with visual function (b). As the total
+variance explained by all parameters (a ⫹ b ⫹ c) is known
+(total R2 values in Table 8), the unique variance accounted for
+solely by visual function (c) and uniquely by psychosocial
+factors (a) can be calculated as, for example: (c) ⫽ (a ⫹ b ⫹
+c) ⫺ (a ⫹ b). Finally, shared variance can be calculated as (b) ⫽
+(a ⫹ b ⫹ c) ⫺ (a) ⫺ (c) and represents the proportion of
+self-reported VRAL variance explained by both clinical visual
+function and psychosocial factors.
+Clinical visual function could explain between 28% and 50%
+unique variance of self-reported VRAL depending on functional
+domain and nonvisual psychosocial factors accounted for between 6% and 19% unique variance. These proportions demonstrate that both visual and nonvisual factors are associated
+with self-report independent of each other. In addition, due to
+the relatively constant level of shared variance (10%–17%), the
+
+results also suggest that the association of visual and nonvisual
+factors with self-report is to a certain extent dependent on the
+other, regardless of the self-reported visual domain. This relationship was therefore further explored (Table 10).
+In Table 10, the linear correlation coefficients between the
+visual and nonvisual factors show that adjustment, but not
+depression, was significantly associated with the severity of
+vision loss. Therefore, it can be said that depression is significantly associated with self-reported VRAL independent of vision loss severity, whereas the association of adjustment is
+partly dependent on the degree of vision loss. As the significant
+relationship between adjustment and clinical visual function
+was lost when self-reported VRAL is controlled for, the results
+indicate that adjustment is only associated with vision loss
+severity due to the (self-reported) functional limitations vision
+loss causes rather than the actual degree of visual loss itself.
+
+DISCUSSION
+The results of the study indicate that the nonvisual psychosocial factors of depression and adjustment can explain unique
+variance in self-reported VRAL not accounted for by the severity of vision loss as represented by clinical visual function. The
+
+
+[page 7]
+Self-Reported Activity Limitation in the Visually Impaired
+
+IOVS, July 2011, Vol. 52, No. 8
+
+5299
+
+TABLE 8. Overall Regression Analyses Indicating the Significant Predictors of Self-reported VRAL
+
+Goals
+Constant
+VA
+GDS
+RI
+OR
+AS-WAS
+Total R2
+Reading
+Constant
+RA
+AS-WAS
+CS
+RI
+Total R2
+Visual motor
+Constant
+RA
+GDS
+RI
+AS-WAS
+Total R2
+
+␤
+
+SE B
+
+1.35
+⫺1.81
+⫺0.36
+0.002
+0.03
+0.30
+
+0.47
+0.34
+0.80
+0.001
+0.013
+0.13
+
+⫺0.37***
+0.31***
+0.27***
+0.16*
+0.16*
+
+0.41***
+0.17***
+0.07***
+0.03**
+0.02*
+0.69
+
+⫺0.07
+⫺1.70
+0.45
+1.07
+0.002
+
+0.57
+0.29
+0.10
+0.36
+0.001
+
+⫺0.46***
+0.26***
+0.21**
+0.19**
+
+0.56***
+0.09***
+0.04**
+0.02**
+0.70
+
+1.59
+⫺1.18
+⫺0.26
+0.001
+0.27
+
+0.31
+0.24
+0.07
+0.001
+0.11
+
+B
+
+SE B
+
+␤
+
+R2 Change
+
+0.68
+⫺1.08
+0.22
+⫺0.22
+0.002
+0.03
+
+0.30
+0.19
+0.09
+0.06
+0.000
+0.009
+
+⫺0.40***
+0.17*
+⫺0.27***
+0.25***
+0.18**
+
+0.46***
+0.14***
+0.04**
+0.05***
+0.03**
+0.71
+
+⫺1.64
+0.10
+⫺0.51
+0.99
+
+0.42
+0.02
+0.08
+0.42
+
+0.46***
+⫺0.42***
+0.18*
+
+0.40***
+0.17***
+0.02*
+
+R2 Change
+
+B
+
+⫺0.40***
+⫺0.29***
+0.20*
+0.20*
+
+All tasks
+Constant
+RA
+AS-WAS
+GDS
+RI
+OR
+Total R2
+Mobility
+Constant
+OR
+GDS
+CS
+Total R2
+Visual information
+Constant
+VA
+GDS
+OR
+RI
+Total R2
+
+0.37***
+0.15***
+0.04**
+0.03*
+0.59
+
+0.60
+1.52
+⫺1.88
+⫺0.38
+0.04
+0.002
+
+0.44
+0.32
+0.06
+0.01
+0.001
+
+⫺0.43***
+⫺0.37***
+0.20**
+0.21**
+
+0.43***
+0.15***
+0.05**
+0.03**
+0.65
+
+Entered variables are the significant predictors from Table 7, and the key to the variables is given in Table 6
+* P ⬍ 0.05.
+** P ⬍ 0.01.
+*** P ⬍ 0.001.
+
+visual factors that are associated with self-reported difficulties
+correspond to visual function without, as opposed to with,
+LVAs. Adjustment, but not depression, is significantly associated with the degree of vision loss but only when self-reported
+function is not considered.
+The specific clinical visual functions best explaining self reported VRAL are visual acuity and reading performance without LVAs, contrast sensitivity, and a measure of visual fields.
+These visual functions have all previously been seen to significantly correlate with self-reported function.8 –12 As acuity
+without LVAs was the strongest predictor of self-reported
+VRAL in most instances, the findings of previous studies in
+which only visual acuity is considered to represent vision loss
+severity can be more strongly regarded.16
+The AI asks respondents about difficulty with tasks even
+when wearing glasses and using magnifiers or other LVAs. We
+hypothesized that visual acuity with LVAs would better predict
+reported activity limitation than standard clinical measures of
+acuity. Few participants used LVAs for distance tasks, also seen
+elsewhere,51 and so we were able to test this prediction only
+
+for reading ability. Contrary to the hypothesis, self-reported
+VRAL in all domains was better predicted by visual function
+without LVAs.
+It is understandable that reading performance with LVAs
+may not be a good representative of function in activities other
+than reading. However, this fails to explain why reading function with LVAs does not correlate well with reported habitual
+reading performance. As the study appointments followed low
+vision support with a separation of a minimum of 2 weeks, it
+is possible that participants were not accustomed to using any
+newly prescribed aids, affecting their perceived habitual limitations. Allowing a greater period to habituate with any aid may
+strengthen the relationship between self-reported VRAL and
+magnifier-aided visual function.
+However, all participants regularly used some form of reading aid. In addition, magnifier-aided near reading performance
+was better than function without aids, suggesting proficiency
+of use (median x-height values with LVAs [Table 4] correspond
+to print size of 0.49 logMAR [CPS] and 0.12 logMAR [acuity]
+viewed at 40 cm, smaller than the equivalent assessments
+
+TABLE 9. Proportions of Variance of Self-reported VRAL Explained by Clinical Visual Function and
+Psychosocial Factors for Each Domain of the AI
+
+Goals
+All tasks
+Reading
+Mobility*
+Visual motor†
+Visual information*
+
+Psychosocial
+Variables (a)
+
+Shared
+Variance (b)
+
+Clinical Visual
+Function (c)
+
+Total Variance
+Explained
+(aⴙbⴙc)
+
+16%
+14%
+6%
+17%
+19%
+13%
+
+17%
+17%
+14%
+10%
+12%
+10%
+
+36%
+40%
+50%
+33%
+28%
+42%
+
+69%
+71%
+70%
+60%
+59%
+65%
+
+* Values calculated excluding adjustment as it lost significance in the overall regression models for
+these domains (see Table 8).
+† Values calculated excluding central 10° to 30° degrees as it lost significance in the overall regression
+model for this domain (see Table 8).
+
+
+[page 8]
+5300
+
+Talbrett and Latham
+
+IOVS, July 2011, Vol. 52, No. 8
+
+TABLE 10. Bivariate Analyses between Clinical Visual Function and Psychosocial Factors
+Control
+Variables
+None
+Self-reported VRAL
+
+GDS
+AS-WAS
+GDS
+AS-WAS
+
+VA
+
+RA
+
+CS
+
+RI
+
+OR
+
+0.16ns
+⫺0.20*
+⫺0.16ns
+0.15ns
+
+0.17ns
+⫺0.21*
+⫺0.12ns
+0.12ns
+
+⫺0.13ns
+0.23*
+0.24ns
+⫺0.10ns
+
+⫺0.07ns
+0.26*
+0.24*
+0.10ns
+
+⫺0.17ns
+0.24*
+0.20ns
+⫺0.10ns
+
+Zero-order correlation coefficients and partial correlation coefficients where self-reported VRAL is
+controlled, are provided.
+* P ⬍ 0.05.
+ns
+P ⬎ 0.05.
+
+without LVAs: 1.00 logMAR and 0.81 logMAR, respectively).
+Therefore, at least when considering responses to the AI, it
+may also be that despite the use of aids, difficulty is still
+reported, with the difficulties reflective of the severity of vision
+loss as represented by standardized clinical visual function, as
+opposed to function with LVAs. Further, although all participants were instructed and reminded when required to report
+their difficulties when using any LVAs such as magnifiers, it is
+possible that individuals are more often without their magnifiers than using them, and this is what is reflected in self reported visual function.
+It should be noted that in the present study and others,11,52
+clinical visual function was best associated with self-reported
+VRAL in more vision-specific items, notably reading tasks (50%
+unique variance explained; Table 9). Reading items include
+tasks such as reading newspaper articles, which are closely
+reflected by clinical assessments such as reading performance
+and as a result there is perhaps less chance of individual
+interpretation and influence from psychosocial factors (6%
+unique variance explained). A greater influence of nonvisual
+psychosocial factors was seen when self-report included fewer
+vision-specific items, which may be open to greater individual
+interpretation, such as many of the mobility and visual motor
+items (up to 17% unique variance explained). Examples of such
+items include arranging and using transportation (mobility),
+and listening to the radio and using a computer (both visual
+motor). The visual requirements for these tasks are at face
+value less comparable to the clinical assessments of visual
+function resulting in a weaker relationship with clinical visual
+function (28%–33% unique variance explained). Therefore,
+when using PROs of ADLs the choice of questions or instrument should be driven by its intended purpose, depending on
+whether the aim is to reflect visual function (use vision specific
+tasks) or to give an overview of perceived disability (use less
+vision-specific tasks).
+With reference to the psychosocial factors, depression has
+been significantly associated with self-reported VRAL,16,19,53
+explaining up to 20% variance after regression analyses.54,55
+The results of the present study demonstrate that, except for
+reported reading function, depression explains variance in
+self-reported responses not accountable for by visual impairment severity, including as much as 17% of variance in self reported mobility function.
+Adjustment to vision loss depends on the psychosocial
+profile of an individual, although the exact process of adjustment is still largely unknown40,56 and individuals can vary
+enormously in their reactions to vision loss.57,58 Adjustment in
+the context of the present study refers to the unidimensional
+latent construct that involves aspects of self-esteem, acceptance, locus of control, attitudes, and self-efficacy, as measured
+by the 19-item AS-WAS.40 The results indicate, consistent with
+previous studies,19,59 that adjustment to vision loss is significantly associated with self-reported VRAL. The association between adjustment and self-reported limitation is not entirely
+
+independent of the severity of vision loss, but is only apparently related to the severity of vision loss due to the functional
+limitations caused by the visual impairment rather than with
+the degree of vision loss itself, since the significant relationship
+between adjustment and clinical visual function is lost when
+self-reported VRAL is controlled. Therefore, greater vision loss
+does not necessarily indicate poorer adjustment. Clinically this
+is important as although greater vision loss may be related to
+poorer adjustment the effects could be limited by reducing the
+functional limitations through rehabilitation.
+Despite being significantly associated with self-reported
+VRAL (Table 6), the effect of social support is lost when the
+levels of depression and adjustment are also considered (Table
+8). Together with the findings of others,60 it appears that social
+support does not directly influence self-reported activity limitation; rather it is depression and adjustment to which social
+support is related.59,61 Similarly, and in agreement with other
+studies,62,63 the significance of personality, namely neuroticism, in influencing self-report is also lost when depression and
+adjustment are considered. However, neuroticism may be related to depression64,65 which does predict self-reported VRAL.
+Although low vision rehabilitation often seeks to improve
+visual function with the use of optical and adaptive devices,66
+the results of the present study suggest that difficulty in ADL
+may still be perceived despite implementing compensatory
+strategies such as LVAs. As vision loss is generally irreversible,
+and since depression and aspects in the adjustment process
+such as self-esteem and self-efficacy are dynamic,67 it may be
+advisable to also target psychosocial functioning to help alter
+perceptions of visual function with rehabilitation. Indeed, improvements in depression and adjustment post rehabilitation
+have paralleled improvements in self-reported VRAL.68 –71
+Nonetheless, it appears the next step in research is to study
+multiple time points, including the impact of different interventions72 and structural equation modeling techniques,73 to
+further investigate the importance of depression, adjustment,
+and severity of vision loss on self-reported limitations as identified in the present study.
+
+Limitations
+Because of ethical considerations, participation in the study
+was entirely voluntary, which may have led to response bias.
+However, the ocular diagnoses of the current sample are comparable to the U.K. Blind Register74 with a large range of vision
+loss severity represented (Table 4). A wide variation in levels of
+depression and adjustment was also seen, with a significant
+number (23%) exhibiting at least mild depressive symptoms
+(raw score, ⱖ5; Table 4).
+Although the psychosocial instruments were chosen as established measures, it should be acknowledged that some of
+the psychometric properties (namely, person separation) of
+the instruments were less than optimal. In future, scales with
+more items spanning a wider ability range are advisable.
+
+
+[page 9]
+IOVS, July 2011, Vol. 52, No. 8
+
+Self-Reported Activity Limitation in the Visually Impaired
+
+Although the AI was originally designed to assess VRALs, it
+is possible that activity limitations caused by factors other than
+vision loss may influence responses. However, neither health
+co-morbidities nor the number of prescribed medications were
+related to AI person measures, suggesting that when administered face-to-face in a vision rehabilitation environment the
+responses to the questions do primarily reflect VRALs. The
+potential impact of non–vision-related limitations is an issue
+shared with other instruments, which could be minimized by
+specifically asking whether the difficulties are due to vision
+loss.75 The present findings may therefore generalize only to
+others using the AI in a similar context, and further work is
+needed to examine whether the findings, such as the lack of
+relationship between activity limitation and function with
+LVAs, are specific to the AI or general to all VRAL instruments.
+
+CONCLUSION
+As stated by Freeman et al.76 it is important to understand the
+different components that are related to self-reported VRAL to
+either improve that element or else to teach patients how to
+cope better with loss of that type. From the results of the
+present study, self-reported VRAL, as assessed by the AI at the
+goal and all-task level, and for visual information and visual
+motor task domains is most influenced by acuity without LVAs,
+reading index without the use of LVAs, and visual field function
+of the central 10° to 30°. For reading tasks, contrast sensitivity
+takes the place of visual fields in importance, and for mobility
+tasks contrast sensitivity and the visual field function of the
+central 10° to 30° are relevant, but acuity is not. The psychosocial factors of depression and adjustment to vision loss are
+also related to all domains of self-reported VRAL, independent
+of clinical visual function, especially when self-reported VRAL
+is assessed using less vision-specific items. These findings can
+be used to guide the interpretation of AI measures and future
+derivations of self-report instruments.
+
+References
+1. Pesudovs K, Burr JM, Harley C, et al. The development, assessment, and selection of questionnaires. Optom Vis Sci. 2007;84:
+663– 674.
+2. Pesudovs K. Item banking: a generational change in patient-reported outcome measurement. Optom Vis Sci. 2010;87:285–293.
+3. Massof RW, Rubin GS. Visual function assessment questionnaires.
+Surv Ophthalmol. 2001;45:531–548.
+4. de Boer MR, Moll AC, De Vet HC, et al. Psychometric properties of
+vision-related quality of life questionnaires: a systematic review.
+Ophthalmic Physiol Opt. 2004;24:257–273.
+5. Massof RW. An interval-scaled scoring algorithm for visual function
+questionnaires. Optom Vis Sci. 2007;84:689 –704.
+6. Massof RW, Ahmadian L, Grover LL, et al. The Activity Inventory:
+an adaptive visual function questionnaire. Optom Vis Sci. 2007;84:
+763–774.
+7. World Health Organization. International Classification of Functioning, Disability, and Health. Geneva: WHO; 2001.
+8. Haymes SA, Johnston AW, Heyes AD. Relationship between vision
+impairment and ability to perform activities of daily living. Ophthalmic Physiol Opt. 2002;22:79 –91.
+9. Turano KA, Geruschat DR, Stahl JW, et al. Perceived visual ability
+for independent mobility in persons with retinitis pigmentosa.
+Invest Ophthalmol Vis Sci. 1999;40:865– 877.
+10. Hazel CA, Latham Petre K, Armstrong RA, et al. Visual function and
+subjective quality of life compared in subjects with acquired macular disease. Invest Ophthalmol Vis Sci. 2000;41:1309 –1315.
+11. McClure ME, Hart PM, Fackson AF, et al. Macular degeneration: do
+conventional measurements of impaired visual function equate
+with visual disability? BMJ. 2000;84:244 –250.
+12. Bibby SA, Maslin ER, McIlraith R, et al. Vision and self-reported
+mobility performance in patients with low vision. Clin Exp Optom.
+2007;90:115–123.
+
+5301
+
+13. Fried LP, Herdman SJ, Kuhn KE, et al. Preclinical disability: hypotheses about the bottom of the iceberg. J Aging Health. 1991;
+3:285–300.
+14. Haymes S, Guest D, Heyes A, et al. Mobility of people with retinitis
+pigmentosa as a function of vision and psychological variables.
+Optom Vis Sci. 1996;73:621– 637.
+15. Latham K, Usherwood C. Assessing visual activities of daily living
+in the visually impaired. Ophthalmic Physiol Opt. 2010;30:55– 65.
+16. Casten RJ, Rovner BW. Depression in age-related macular degeneration. J Vis Impair Blind. 2008;102:591–599.
+17. Oxman TE, Hull JG. Social support, depression, and activities of
+daily living in older heart surgery patients. J Gerontol. 1997;52:
+P1–P14.
+18. Jang Y, Haley WE, Mortimer JA, et al. Moderating effects of psychosocial attributes on the association between risk factors and
+disability in later life. Aging Ment Health. 2003;7:163–170.
+19. Reinhardt JP. Effects of positive and negative support received and
+provided on adaptation to chronic visual impairment. App Develop
+Sci. 2001;5:76 – 85.
+20. Wolffsohn JS, Cochrane AL.Design of the low vision quality-of-life
+questionnaire (LVQOL) and measuring the outcome of low-vision
+rehabilitation. Am J Ophthalmol. 2000;130:793– 802.
+21. Jang Y, Mortimer JA, Haley WE, et al. The role of neuroticism in the
+association between performance-based and self-reported measures of mobility. J Aging Health. 2002;14:495–508.
+22. Folstein M, Folstein S, McHugh P. “Mini-mental state”: a practical
+method for grading the cognitive state of patients for the clinician.
+J Psychiatr Res. 1975;12:189 –198.
+23. van Nispen RMA, Hoeijmakers JGJ, de Boer MR, et al. Agreement
+between self-reported co-morbidity of visually impaired older patients and reports from their general practitioners. Vis Impair Res.
+2008;10:49 –56.
+24. Bailey IL, Lovie JE. New design principles for visual acuity letter
+charts. Am J Optom Physiol Opt. 1976;53:740 –745.
+25. Carkeet A. Modeling logMAR visual acuity scores: effects of termination rules and alternative forced-choice options. Optom Vis Sci.
+2001;78:529 –538.
+26. Hazel CA, Elliott DB. The dependency of logMAR visual acuity
+measurements on chart design and scoring rule. Optom Vis Sci.
+2002;79:788 –792.
+27. Pelli DG, Robson JG, Wilkins AJ. The design of a new letter chart
+for measuring contrast sensitivity. Clin Vis Sci. 1988;2:187–199.
+28. Elliott DB, Bullimore MA, Bailey IL. Improving the reliability of the
+Pelli-Robson contrast sensitivity test. Clin Vis Sci. 1991;6:471– 475.
+29. Ahn SJ, Legge GE, Luebker A. Printed cards for measuring low vision reading speed. Vis Res. 1995;35:1939 –1944.
+30. Legge GE. Psychophysics of Reading in Normal and Low Vision.
+Mahwah, NJ: Lawrence Erlbaum Associates; 2007.
+31. The Vision Research Laboratories, University of Minnesota.
+MNRead acuity charts; 2010, http://vision.psych.umn.edu/
+groups/gellab/MNREAD/mnread.pdf. Accessed on August 18,
+2010.
+32. Nelson-Quigg JM, Cello K, Johnson CA. Predicting binocular visual
+field sensitivity from monocular visual field results. Invest Ophthalmol Vis Sci. 2000;41:2212–2221.
+33. Tabrett DR, Latham K. Assessing functional visual fields in the
+visually impaired. Ophthalmic Physiol Opt. 2009;29:668 – 669.
+34. Bellmann C, Feely M, Crossland MD, et al. Fixation stability using
+central and pericentral fixation targets in patients with age-related
+macular degeneration. Ophthalmology. 2004;111:2265–2270.
+35. Jampel HD, Friedman DS, Quigley H, et al. Correlation of the
+binocular visual field with patient assessment of vision. Invest
+Ophthalmol Vis Sci. 2002;43:1059 –1067.
+36. Crabb DP, Viswanathan AC. Integrated visual fields: a new approach to measuring the binocular field of view and visual disability. Graefes Arch Clin Exp Ophthalmol. 2005;243:210 –216.
+37. The Frisby Stereotest; 2010. http://www.frisbystereotest.co.uk/
+index.htm, Accessed on September 12, 2010.
+38. Sheikh JI, Yesavage JA. Geriatric Depression Scale (GDS): recent
+evidence and development of a shorter version. Clin Gerontol.
+1986;5:165–173.
+
+
+[page 10]
+5302
+
+Talbrett and Latham
+
+39. Carnegie Mellon University. Interpersonal Support Evaluation List
+(ISEL); 2010. http://www.psy.cmu.edu/⬃scohen/isel.html. Accessed on September 15, 2010.
+40. Tabrett DR, Latham K. Derivation of the Acceptance and Self Worth Adjustment Scale. Optom Vis Sci. 2010;87:899 –907.
+41. Costa PT, McCrae RR. Professional Manual: Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor Inventory (NEO
+FFI). Odessa, Florida: Psychological Assessment Resources; 1992.
+42. Rasch, G. Probabilistic Models for Some Intelligence and Attainment Tests. Chicago: MESA Press; 1993.
+43. Linacre J. WINSTEPS Rasch Measurement. Version 3.69.1.
+Chicago: Winsteps.com; 2010.
+44. Katz J, Sommer A. Asymmetry and variation in the normal hill of
+vision. Arch Ophthalmol. 1986;104:65– 68.
+45. Wright BD, Linacre JM. Reasonable mean-square fit values. Rasch
+Meas Trans. 1994;8:370. Available at: http://www.rasch.org/rmt/
+rmt83b.htm. Accessed on November 11, 2009.
+46. Gothwal V, Wright T, Lamoureux E, et al. Validity of the adaptation
+to age-related vision loss scale in an Australian cataract population.
+J Optom. 2009;2:142–147.
+47. Marella M, Gothwal VK, Pesudovs K, et al. Validation of the Visual
+Disability Questionnaire (VDQ) in India. Optom Vis Sci. 2009;86:
+E826 –E835.
+48. Tabrett DR, Latham K. Evaluation of the Geriatric Depression Scale
+(GDS) in the visually impaired using Rasch analysis. 10th International Conference on Low Vision 2011. Kuala Lumpur, Malaysia.
+February 20 –24, 2011.
+49. Richter P, Werner J, Heerlein A, et al. On the validity of the Beck
+Depression Inventory. Psychopathology. 1998;31:160 –168.
+50. Browner W, Newman T. Are all significant P values created
+equal?—the analogy between diagnostic tests and clinical research. JAMA. 1987;257:2459 –2463.
+51. Haymes SA, Roberts KF, Cruess AF, et al. The letter contrast
+sensitivity test: clinical evaluation of a new design. Invest Ophthalmol Vis Sci. 2006;47:2739 –2745.
+52. Szlyk JP, Seiple W, Fishman GA, et al. Perceived and actual performance of daily tasks: relationship to visual function tests in individuals
+with retinitis pigmentosa. Ophthalmology. 2001;108:65–75.
+53. Brody BL, Gamst AC, Williams RA, et al. Depression, visual acuity,
+comorbidity, and disability associated with age-related macular
+degeneration. Ophthalmol. 2001;108:1893–1900.
+54. Rovner BW, Shmuely-Dulitzki Y. Screening for depression in low vision elderly. Int J Geriatr Psychol. 1997;12:955–959.
+55. Shmuely-Dulitzki Y, Rovner B, Zisselman P. The impact of depression on functioning in elderly patients with low vision. Am J
+Geriatr Psychol. 1995;3:325–329.
+56. Stanford P, Waterman H, Russell WB, et al. Psychosocial adjustment in age related macular degeneration. Br J Vis Impair. 2009;
+27:129 –146.
+57. Berman K, Brodaty H. Psychosocial effects of age-related macular
+degeneration. Int Psychogeriatr. 2006;18:415– 428.
+58. Cox DJ, Kiernan BD, Schroeder DB, et al. Psychosocial sequelae of
+visual loss in diabetes. Diab Educ. 1998;24:481– 484.
+
+IOVS, July 2011, Vol. 52, No. 8
+59. Travis LA, Boerner K, Reinhardt JP, et al. Exploring functional
+disability in older adults with low vision. J Vis Impair Blind.
+2004;98:534 –545.
+60. Brody BL, Roch-Levecq A-C, Thomas RG, et al. Self-management of
+age-related macular degeneration at the 6-month follow-up: a randomized controlled trial. Arch Ophthalmol. 2005;123:46 –53.
+61. Travis LA, Lyness JM, Shields CG, et al. Social support, depression,
+and functional disability in older adult primary-care patients. Am J
+Geriatr Psychiatr. 2004;12:265–271.
+62. Rovner BW, Casten RJ. Neuroticism predicts depression and disability in age-related macular degeneration. J Am Geriatr Soc.
+2001;49:1097–1100.
+63. Glazer KM, Emery CF, Frid DJ, et al. Psychological predictors of
+adherence and outcomes among patients in cardiac rehabilitation.
+J Cardiopulm Rehabil Prev. 2002;22:40 – 46.
+64. Henderson A, Korten AE, Jacomb PA, et al. The course of depression in the elderly: a longitudinal community-based study in Australia. Psychol Med. 1997;27:119 –129.
+65. Kendler KS, Gardner CO, Gatz M, et al. The sources of co-morbidity between major depression and generalized anxiety disorder in
+a Swedish national twin sample. Psychol Med. 2007;37(3):453–
+462.
+66. Culham LE, Ryan B, Jackson AJ, et al. Low vision services for vision
+rehabilitation in the United Kingdom. Br J Ophthalmol. 2002;86:
+743–747.
+67. Gist ME, Mitchell TR. Self-efficacy: a theoretical analysis of its
+determinants and malleability. Acad Manage Rev. 1992;17:183–
+211.
+68. Pankow L, Luchins D, Studebaker J, et al. Evaluation of a vision
+rehabilitation program for older adults with visual impairment.
+Top Geriatr Rehabil. 2004;20:223–232.
+69. Hyman LG, Komaroff E, Heijl A, et al. Treatment and vision-related
+quality of life in the early manifest glaucoma trial. Ophthalmology.
+2005;112:1505–1513.
+70. Horowitz A, Leonard R, Reinhardt J. Measuring psychosocial and
+functional outcomes of a group model of vision rehabilitation
+services for older adults. J Vis Impair Blind. 2000;94:328 –337.
+71. Rovner BW, Casten RJ, Hegel MT, et al. Preventing depression in
+age-related macular degeneration. Arch Gen Psychiatr. 2007;64:
+886 – 893.
+72. Horowitz A, Brennan M, Reinhardt JP, et al. The impact of assistive
+device use on disability and depression among older adults with
+age-related vision impairments. J Gerontol. 2006;61:S274 –S280.
+73. Rees G, Tee HW, Marella M, et al. Vision-specific distress and
+depressive symptoms in people with vision impairment. Invest
+Ophthalmol Vis Sci. 2010;51:2891–2896.
+74. Bunce C, Wormald R. Leading causes of certification for blindness
+and partial sight in England and Wales. BMC Public Health. 2006;
+6:58 – 64.
+75. Stelmack JA, Szlyk JP, Stelmack TR, et al. Psychometric properties
+of the Veterans Affairs Low-Vision Visual Functioning Questionnaire. Invest Ophthalmol Vis Sci. 2004;45:3919 –3928.
+76. Freeman EE, Muñoz B, Turano KA, et al. Dynamic measures of
+visual function and their relationship to self-report of visual functioning. Invest Ophthalmol Vis Sci. 2006;47:4762– 4766.
+

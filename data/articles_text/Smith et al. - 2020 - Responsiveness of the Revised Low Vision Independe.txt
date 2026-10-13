@@ -1,0 +1,961 @@
+[page 1]
+Research Article
+
+Responsiveness of the Revised Low Vision
+Independence Measure (LVIM–R)
+Theresa M. Smith, Ickpyo Hong, Timothy A. Reistetter
+
+Importance: The Low Vision Independence Measure (LVIM) was designed to measure the effectiveness of occupational therapy
+to improve visual ability in low vision rehabilitation.
+Objective: To validate the Revised LVIM (LVIM–R) as an outcome measure by determining its sensitivity to visual ability changes
+after occupational therapy.
+Design: In this observational study, LVIM–R scores were collected before and after customary low vision intervention.
+Setting: Home health agency or outpatient facility.
+Participants: Forty-four participants with a mean age of 80.2 yr (standard deviation = 11.2) and an average length of visual
+impairment of 6.2 yr. Twenty-three participants (52.3%) were treated in an outpatient setting, and 21 (47.7%) were treated in the
+home. The majority of participants were non-Hispanic White (92.8%) and had macular degeneration (54.5%).
+Intervention: Customary low vision intervention by occupational therapists.
+Outcomes and Measures: LVIM–R scores were collected before and after intervention, and participants’ pre- and posttest scores
+were anchored into Rasch-calibrated item parameters.
+Results: Paired t tests demonstrated signiﬁcant increases in person measures with large effect sizes for both constructs of the
+LVIM–R, the visual ﬁeld or scotoma (t [43] = 6.46, p < .0001; Cohen’s d = 0.92) and visual acuity (t [43] = 9.08, p < .0001; Cohen’s
+d = 1.14) constructs.
+Conclusions and Relevance: The LVIM–R is sensitive to changes in visual ability in clients who have good rehabilitation potential
+and can be used to examine the effectiveness of occupational therapy for low vision.
+What This Article Adds: The LVIM–R is useful for measuring occupational therapy outcomes in low vision rehabilitation in the home
+or in outpatient settings.
+
+A
+
+pproximately 3.22 million people in the United States had low vision in 2015, and this number is expected
+to increase to 6.95 million by 2050 (Varma et al., 2016). Low vision can signiﬁcantly limit a person’s ability
+
+to perform activities of daily living (ADLs) and instrumental activities of daily living (IADLs; Crews & Campbell, 2001)
+even with best correction (American Optometric Association, 2019). Activities commonly affected include reading,
+ﬁnancial management, meal preparation, medication management, home management, leisure participation, functional
+mobility, out-of-home mobility, and driving (Brown et al., 2014; Crews & Campbell, 2001; Liu et al., 2013).
+Visual impairments reduce visual ability, and the goal of low vision rehabilitation is to increase clients’ ability to
+perform vision-dependent ADLs and IADLs. Low vision rehabilitation services have been shown to improve clients’
+clinical and functional ability outcomes (Binns et al., 2012). The extent of improvement has ranged from small to
+signiﬁcant (Binns et al., 2012; Liu et al., 2013), and the variance in treatment effectiveness has been attributed in part to
+differences in intervention approaches and outcome measures used (Liu et al., 2013).
+To assess the effectiveness of low vision rehabilitation, outcome measures must be accurate and precise
+and, to be clinically meaningful, they must be responsive to change. Instruments to measure outcomes of low
+vision rehabilitation must target the occupations and goals normally included in the treatment plans of clients with
+Citation: Smith, T. M., Hong, I., & Reistetter, T. A. (2020). Responsiveness of the Revised Low Vision Independence Measure (LVIM–R). American Journal
+of Occupational Therapy, 74, 7405205040. https://doi.org/10.5014/ajot.2020.038307
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p1
+
+
+[page 2]
+Research Article
+low vision. The Low Vision Independence Measure (LVIM) was designed to measure the visual ability of clients with
+a variety of diagnoses resulting in low vision (Smith, 2013). Visual ability is the “overall ability to perform activities
+that depend on vision” (Goldstein et al., 2014, p. 1170). When the LVIM was initially developed, many existing
+outcome measures for vision-dependent activities had been developed for a speciﬁc diagnosis, such as macular
+degeneration (Dahlin-Ivanoff et al., 2001), or focused heavily on performance skills such as reading (Haymes et al.,
+2001). The National Eye Institute (NEI) Visual Function Questionnaire–51 (Mangione et al., 1998) and the NEI Visual
+Function Questionnaire–25 (Mangione et al., 2001), commonly used at that time, address one vision-dependent
+activity, driving.
+The LVIM was designed as a patient-reported outcome measure to support client-centered practice (Kyte et al.,
+2015) and aid in eliminating therapist bias from the assessment process (Wolfson et al., 2000). Although the number of
+client-reported instruments designed to measure visual ability outcomes has grown in recent years, many apply to
+medical treatment, including surgery for glaucoma, dry eye, refractive errors, amblyopia, cataract, macular diseases,
+and strabismus (Khadka et al., 2013). There remains a need for instruments that can be used to measure clients’
+responsiveness to low vision rehabilitation that addresses performance of a range of vision-dependent ADLs and
+IADLs. Assessments that contain items that may not need to be addressed in low vision rehabilitation, such as
+depression, could dilute measurement of the overall outcomes of the intervention. If constructs are measured for
+which the instrument was not designed, a null result can occur.
+In a systematic review, Liu et al. (2013) found few studies that could demonstrate the effectiveness of occupational
+therapy in low vision rehabilitation, in part because some of the outcome measures conﬂated well-being with
+ADL and IADL performance. The American Occupational Therapy Association (AOTA; 2014a) listed the following
+intervention strategies for clients with low vision to maximize their independence and safety in preferred occupations:
+contrast enhancement, organizational strategies, lighting, glare reduction, ﬁlters to manage glare, sensory substitution,
+and magniﬁcation.
+The LVIM was developed to measure outcomes of low vision rehabilitation targeted to improve occupational
+performance of vision-dependent ADLs and IADLs and increase participation (Smith, 2013). After initial development,
+expert feedback and the literature were used to conﬁrm inclusion of problematic vision-dependent ADLs and IADLs.
+Items of the LVIM were organized into subscales that align with occupations named in the Occupational Therapy
+Practice Framework: Domain and Process (3rd ed.; OTPF–3; AOTA, 2014b) rather than being sorted into performance
+skills such as reading, visual–motor skills, and visual information, as is common in other visual function questionnaires
+(Massof et al., 2007). The focus of the LVIM on occupations is consistent with the domain of occupation therapy as
+outlined in the OTPF–3: the interaction of occupations, client factors, performance skills, performance patterns, and
+context and environment.
+The LVIM was recently revised (LVIM–R), and its validity and reliability were established with the Rasch model
+as a measure of visual ability for both home health and outpatient clients with various causes of visual impairment
+(Smith et al., 2019). The instrument consists of two measurement constructs: (1) visual ﬁeld or scotoma and (2) visual
+acuity. The purpose of the study described in this article was to validate the LVIM–R as an outcome measure by
+determining its responsiveness to changes after usual and customary occupational therapy interventions had been
+provided to clients with low vision.
+
+Method
+Design
+In this observational study, collaborating occupational therapists administered the LVIM–R to clients before and after
+occupational therapy for low vision. We exercised no control over the speciﬁc occupational therapy interventions
+participants received.
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p2
+
+
+[page 3]
+Research Article
+Participants
+Eight occupational therapists from six states, known by or referred to the ﬁrst author (Theresa M. Smith), recruited
+participants from their caseload. The therapists’ experience in low vision rehabilitation ranged from 1 to 12 yr
+(mean [M] = 5.2, standard deviation [SD] = 3.0). One of the therapists had earned special certiﬁcation in low vision and
+certiﬁed low vision therapist credentials. Three had completed the Graduate Certiﬁcate in Low Vision Rehabilitation
+from the University of Alabama, Birmingham, and another had less than a year left
+to ﬁnish.
+Clients who met the following inclusion criteria were asked by their treating therapist if they would be interested
+in participating in the study: (1) had been diagnosed with low vision because of an eye disease such as, but not
+limited to, diabetic retinopathy, age-related macular degeneration, cataract, or glaucoma; (2) was identiﬁed by the
+treating therapist as having good rehabilitation potential to meet plan-of-care goals established in collaboration
+with the client; and (3) was a new client of the treating therapist. Clients were excluded if they were currently receiving
+rehabilitation for any other health condition or were not ﬂuent in English. The institutional review board of the authors’
+afﬁliated university approved the study and the informed consent form used to obtain consent before data collection.
+
+Instruments
+Revised Low Vision Independence Measure
+The LVIM–R is a client-reported rating scale questionnaire designed to measure visual ability using difﬁculty ratings for
+vision-dependent ADLs and IADLs (Smith et al., 2019). It contains 46 items (activities) in eight subscales: Self-Care,
+Food Preparation, Home Management, Communication, Financial Management, Leisure, Shopping, and Mobility
+(Table 1). Level of difﬁculty for each activity is rated on a 4-point ordinal scale (1 = unable, 2 = very difﬁcult, 3 =
+moderately difﬁcult, and 4 = not difﬁcult). If an activity is not relevant to a client, he or she can select not applicable, and
+the item response is not scored or is treated as missing data. Administration of the LVIM–R takes approximately
+15 min.
+The LVIM–R consists of two measurement constructs: (1) visual ﬁeld or scotoma (24 items) and (2) visual acuity (22
+items; Smith et al., 2019). Two of the Leisure items, “Reading books/newspapers/magazines” and “Using technology/
+iPads/e-books,” can also be used for the Communication subscale. Fit statistics, item difﬁculty hierarchy, and differential item functioning for the visual ﬁeld or scotoma and visual acuity constructs were detailed in a previous article
+(Smith et al., 2019).
+Participant Trait Survey
+Treating occupational therapists obtained data on participants’ demographic characteristics, health history, and other
+traits using a standard interview survey. The survey included closed-ended questions about gender, age, diagnosis,
+comorbidities, and duration of the low vision condition.
+
+Procedures
+Data Collection
+Collaborating occupational therapists were oriented to the study by the ﬁrst author and provided with data forms with
+code number identiﬁers to maintain participant anonymity and conform to privacy requirements (Health Insurance
+Portability and Accountability Act of 1996, Pub. L. 104-191). In the ﬁrst treatment session with each participant, the
+therapist read the questions aloud to complete the trait survey and then administered the LVIM–R pretest. The therapist
+then provided the participant with the course of treatment usually provided for clients with low vision. On average, clients
+were seen 1×/wk for 1 hour. LVIM–R posttest data were collected at discharge from occupational therapy services in
+either the participant’s home or the outpatient clinic.
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p3
+
+
+[page 4]
+Research Article
+Table 1. Subscales and Items of the Revised Low Vision
+Independence Measure
+Subscale
+Self-Care
+
+Items
+Brushing teeth/cleaning dentures
+Identifying foods when eating
+Cutting food on plate
+Keeping food on utensil
+
+Data Analysis
+We generated descriptive statistics for participant traits using
+IBM SPSS Statistics Version 19 (IBM Corp., Armonk, NY). We
+performed a Rasch analysis with the Andrich (1979) rating
+scale model separately for the pre- and postintervention data
+using Winsteps Version 3.93.2 (Beaverton, OR).
+
+Managing medication
+Identifying clothing
+Food Preparation
+
+Reading recipes
+Pouring liquids
+Measuring food
+Slicing and peeling food
+Seasoning food
+Determining food doneness
+Using microwave
+Using stove
+Identifying cans
+
+Home Management
+
+Cleaning ﬂoors
+Cleaning counters
+
+scotoma and visual acuity constructs were obtained using
+the pre- and posttest raw scores based on the item parameters
+
+estimations at pre- and posttest, we created item maps for
+the two constructs with the person measures and item difﬁculty
+measures on the same linear continuum (logit) across the two
+
+Documenting appointments
+Using computer/cell phone
+
+time points.
+
+Identifying coins and paper money
+
+Changes in Visual Ability
+
+Writing checks
+Balancing accounts
+Banking online
+Watching television
+Playing games/cards
+Reading books/newspaper/magazines
+
+Once the person measures at pre- and posttest for the two
+constructs were obtained, we ran separate paired t tests to
+examine the person measure changes between the time points.
+Effect size (ES; Cohen’s d) for the magnitude of person measure
+
+Using technology/iPads/e-books
+
+changes was calculated by dividing the mean difference between pre- and posttest scores by the pooled standard devi-
+
+Doing crafts
+
+ation (Cohen, 1988).
+
+Eating out
+
+ESs of 0.0 < d < 0.2 were considered small, 0.3 < d < 0.5
+medium, and d > 0.6 large (Middel & van Sonderen, 2002). In
+
+Participating in community
+Preparing a shopping list
+Locating items
+Reading labels or prices
+Determining expiration dates
+Paying for items
+Mobility
+
+For example, the person measures of the visual ﬁeld or
+
+Operating washer and dryer
+
+Reading bills and receipts
+
+Shopping
+
+on the basis of the LVIM–R validation study (Smith et al., 2019)
+to create the same measurement across the two time points.
+
+Writing notes/letters/envelopes
+Locating/dialing a phone number
+
+Leisure
+
+information from the mean item difﬁculty and rating scale
+response categories with three-step thresholds generated
+
+Organizing cabinets
+
+Signing your name
+
+Financial Management
+
+Person measures for the pre- and posttests were obtained using
+
+of the 24 items and 22 items, respectively (Wright, 1993). To
+conduct visual comparisons between the person measure
+
+Washing dishes
+
+Communication
+
+Person Measure Estimations
+
+Crossing streets
+Getting to appointments
+Visiting friends and family
+Using public transportation
+
+addition, we calculated standardized response means (SRMs)
+as an ES index. SRM is the mean change in score divided by the
+standard deviation of the change score (Husted et al., 2000).
+SRMs of 0.0 < d < 0.2 were considered small, 0.3 < d < 0.7
+medium, and d > 0.8 large (Middel & van Sonderen, 2002).
+Our sample size was small; many occupational therapists
+providing low vision rehabilitation do not see clients with low
+vision exclusively because the census of low vision clients can
+
+be much lower relative to clients with other diagnoses. Because of the small sample size, bootstrapping was used for
+1,000 samples with replacement when estimating 95% conﬁdence intervals (CIs) for the ESs and SRMs (Efron &
+Tibshirani, 1993).
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p4
+
+
+[page 5]
+Research Article
+Results
+Participant Traits
+A total of 44 participants completed the LVIM–R at both pre- and posttest. Twenty-three participants (52.3%)
+were treated in outpatient settings, and 21 (47.7%) received services from a home health agency. Participants
+included 11 men (25.0%), 32 women (72.7%), and 1 participant (2.3%) whose gender was not reported; ages
+ranged from 42 to 96 (M = 80.2, SD = 11.2). The majority of participants were non-Hispanic White (92.8%); 4.7%
+were Hispanic, and 2.4% were non-Hispanic Black. The average duration of visual impairment was 6.2 yr (SD = 5.4,
+range = 0.25–23.00). The most frequently reported primary visual disorder diagnosis was macular degeneration
+(n = 24), followed by cataract (n = 9), other (n = 5), glaucoma (n = 3), visual ﬁeld deﬁcit (n = 2), and diabetic retinopathy
+(n = 1).
+
+Changes in Visual Ability
+The mean person measure for the visual ﬁeld or scotoma construct was 1.50 logits (SD = 1.11) at pretest and
+2.80 logits (SD = 1.64) at posttest. The mean person measure for the visual acuity construct was 0.20 logits
+(SD = 1.20) at pretest and 1.72 logits (SD = 1.51) at posttest (Figure 1). Paired t tests demonstrated signiﬁcantly
+increased person measures at posttest for visual ﬁeld or scotoma, D = 1.30, t(43) = 6.46, p < .0001, and visual acuity,
+
+Figure 1. Pre- and posttest results for the visual ﬁeld or scotoma and visual acuity constructs.
+7
+Person Measures, Mean (Logits)
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+Visual Field/Scotoma Pretest
+
+Visual Field/Scotoma Posttest
+
+Visual Acuity Pretest
+
+Visual Acuity Posttest
+
+Visual Field/Scotoma Posttest
+
+Visual Acuity Pretest
+
+Visual Acuity Posttest
+
+100
+90
+
+Raw Score
+
+80
+70
+60
+50
+40
+30
+20
+Visual Field/Scotoma Pretest
+
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p5
+
+
+[page 6]
+Research Article
+D = 1.52, t(43) = 9.08, p < .0001. These increases indicate large ESs for visual ﬁeld or scotoma (d = 0.92, 95% CI
+[0.66, 1.18]; SRM = 0.97, 95% CI [0.58, 1.21]) and visual acuity (d = 1.14, 95% CI [0.93, 1.37]; SRM = 1.37, 95% CI
+[1.09, 1.63]).
+We ran a sensitivity analysis stratifying the outpatient and home health settings to examine whether responsiveness
+to change was different by setting. No signiﬁcant differences were found in pretest scores by setting for either visual ﬁeld
+or scotoma, t(42) = 0.86, p = .39, or visual acuity, t(42) = 1.04, p = .30. Overall, the participants who received home
+health services demonstrated greater improvements (visual ﬁeld or scotoma: d = 1.39, 95% CI [1.08, 1.86]; SRM =
+1.57, 95% CI [1.16, 2.11]; visual acuity: d = 1.43, 95% CI [1.11, 1.81]; SRM = 1.91, 95% CI [1.44, 2.56]) compared with
+those who received outpatient services (visual ﬁeld or scotoma: d = 0.52, 95% CI [0.16, 0.84]; SRM = 0.62, 95% CI
+[0.08, 0.84]; visual acuity: d = 0.87, 95% CI [0.62, 1.13]; SRM = 1.07, 95% CI [0.75, 1.36]).
+Figures 2 and 3 present the person measure distributions between the pre- and posttests for the visual ﬁeld or
+scotoma and visual acuity constructs with the person measures at pre- and posttest calibrated into the same linear
+interval scale (logits). Whereas 4 participants had person measure values greater than 3.0 at pretest on the visual ﬁeld
+or scotoma construct (left panel in Figure 2), at posttest 18 participants’ measures were greater than 3.0, and 9 had the
+maximum score (right panel in Figure 2). Similarly, whereas no participants had person measure values greater than 3.0
+at pretest for the visual acuity construct (left panel in Figure 3), at posttest 9 participants had person measures greater
+than 3.0, and 3 had the maximum score (right panel in Figure 3).
+
+Discussion
+The aim of this study was to determine the responsiveness of the LVIM–R to change in visual ability after low
+vision rehabilitation. After participants received occupational therapy, the LVIM–R captured person measure
+differences for the constructs of visual ﬁeld or scotoma and visual acuity; therefore, the LVIM–R can be considered
+responsive to change as a result of occupational therapy intervention for low vision in clients with good rehabilitation
+potential.
+Stelmack et al. (2017) found that low vision rehabilitation was effective only for people with best corrected visual
+acuity worse than 20/63. Massof and Stelmack (2013) demonstrated that lower visual ability at baseline was associated
+with larger change scores and higher visual ability at baseline with smaller change scores; person measure differences
+varied by setting. We did not collect data on visual acuity but determined that participants who received low vision
+rehabilitation services in the home had greater person measure differences than those who received services in an
+outpatient setting. There may be clinical differences between homes and outpatient clinics, but we did not ﬁnd any
+literature on instrument responsiveness related to these speciﬁc treatment settings.
+At baseline, participants had difﬁculty with an average of 10 IADLs in the visual acuity construct. After occupational
+therapy, the mean person measure increased for these IADLs, meaning that participants had improved visual ability and
+experienced fewer difﬁculties with these tasks. Given the nature of the disease process in diagnoses that result in low
+vision, the expectation would be a decline in visual ability and not an increase. Improvement in this construct indicates
+that participants gained independence in IADLs after receiving occupational therapy.
+Although participants also showed signiﬁcant improvement in the visual ﬁeld or scotoma construct, they had less
+difﬁculty with most of these items before receiving occupational therapy than with items in the visual acuity construct.
+This ﬁnding may be attributable in part to the large percentage of participants who had macular degeneration, which
+affects the central vision needed for visual acuity (Berdeaux et al., 2005). The two constructs need to be measured
+together to accurately capture visual ability improvements from occupational therapy.
+Other researchers have addressed the responsiveness of an assessment to low vision rehabilitation. Haymes and
+colleagues (2001) determined in a study with 22 participants that the Melbourne Low Vision ADL Index was responsive
+
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p6
+
+
+[page 7]
+Research Article
+
+Figure 2. Person–item map for the visual ﬁeld or scotoma construct between the pretest (left) and posttest (right).
+Visual Field/Scotoma – Pretest
+
+Visual Field/Scotoma – Posttest
+MEASURE PERSON – MAP – ITEM
+
+MEASURE PERSON – MAP – ITEM
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+<more>|<rare>
+
+<more>|<rare>
+
++
+I
+I
+I
+I
+x I
++
+I
+TI
+I
+I
+X I
+xx +
+I
+XXX S I
+X I
+XXX I
+xx I
+X + FP9
+XXX I
+xxxx I
+XXXXX M I
+xx I T
+XXX I
+X + M49
+xx I
+xx I S
+XXX I FP11
+S I FP12
+I M52
+xx +M FPIO
+I FP14
+I FP13
+I SC8
+X T IS
+I
++
+X I HM20
+X IT
+I
+I
+I SC3
++
+I
+I
+I
+I
+I
++
+
+5 xxxxxxxxx +
+I
+I
+I
+I
+Tl
+4
+X +
+X I
+I
+X I
+xx I
+X SI
+3
+XXX +
+X I
+X I
+XXX I
+XXX I
+X Ml
+XXX + FP9
+2
+xx I
+xx I
+X I
+X IT
+xxxx SI
+X + M49
+1
+I
+X IS
+I FP11
+X I FP12
+T l M52
++M FP1O
+0
+I FP14
+I FP13
+I SC8
+X IS
+I
++
+-1
+I HM20
+IT
+I
+I
+I SC3
++
+-2
+I
+I
+I
+I
+I
++
+-3
+
+FP16
+HM18
+SC7
+HM19
+
+FP17
+
+HM22
+
+SC5
+
+HM21
+
+M50
+
+SC4
+
+FP15
+
+M51
+
+SC6
+
+<less>l<freq>
+
+FP16
+HM18
+SC7
+HM19
+SC4
+FP15
+
+FP17
+
+HM22
+
+SC5
+
+HM21
+
+M50
+
+M5I
+
+SC6
+
+<less>l<freq>
+
+Note. Numbers on the left side indicate the measures of person ability and item difﬁculty in logits. Each X on the left side of the map indicates 1
+participant; items are located on the right side of the map. The M to the left of the vertical line is the mean of the person abilities, and the M to the
+right of the vertical line is the mean of the item difﬁculties. Ss indicate 1 standard deviation and Ts indicate 2 standard deviations for item difﬁculty
+and person ability, respectively. C = Communication, FM = Financial Management, FP = Food Preparation, HM = Home Management, L = Leisure,
+M = Mobility; S = Shopping, SC = Self-Care.
+
+(ES = 0.78) to changes after a low vision rehabilitation program for clients with macular degeneration. Administration of
+the Melbourne Low Vision ADL Index requires observation of the performance of 16 complex IADLs and ratings on nine
+questionnaire ADL items, making it time intensive to administer.
+Stelmack et al. (2006) evaluated the sensitivity to change of the Veterans Affairs (VA) Low Vision Visual Functioning
+Questionnaire (LV VFQ–48) for 285 veterans who underwent vision rehabilitation. They found ESs of 1.90 for veterans
+who received inpatient rehabilitation and 0.29 for those who received outpatient rehabilitation.
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p7
+
+
+[page 8]
+Research Article
+
+Figure 3. Person–item map for the visual acuity construct between the pretest (left) and posttest (right).
+Visual Acuity – Posttest
+
+Visual Acuity – Pretest
+MEASURE PERSON – MAP – ITEM
+
+MEASURE PERSON – MAP – ITEM
+
+<more>l<rare>
+
+5
+
+<more>l<rare>
+
++
+
+5
+
+xx +
+
+4
+
+x I+
+
+I
+I
+I
+I
+I
+
+4
+
++
+
+x
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
++
+I
+I
+Tl
+X I
+xx I
+X +
+X I
+IT L38
+xx I S46
+XX S I
+xx I
++ S45
+xx I S C25
+XXX I L40
+X I FM32
+xxxxx I FM33
+XXX MI S44
+xxxx +M C30
+xxxx I FM35
+I
+x I C26
+x I
+X I S C27
+
+3
+
+X
+XXX
+X
+
++
+I
+SI
+xx I
+XXX I
+I
+X +
+xx I
+xx I T L38
+XX Ml S46
+X I
+xxxx I
+XXX + S45
+IS C25
+xx I L40
+XXX I FM32
+X SI FM33
+I S44
+XXX +M C30
+XXX I FM35
+I
+I C26
+I
+TIS C27
+X +
+I FM31
+I
+I S47
+IT
+I
++
+I
+I
+I
+I
+I
++
+
+xx
+
+2
+
+1
+
+FM34
+L39
+
+L37
+
+0
+C29
+
+L42
+
+L36
+
+L41
+
+S43
+
+xx s+
+I FM31
+I
+xx I S47
+X IT
+I
+xx +
+Tl
+I
+I
+I
+I
+X +
+
+<less>l<freq>
+
+-1
+
+-2
+
+-3
+
+FM34
+L39
+
+L37
+
+C29
+
+L42
+
+L36
+
+L41
+
+S43
+
+<less>l<freq>
+
+Note. Numbers on the left side indicate the measures of person ability and item difﬁculty in logits. Each X on the left side of the map indicates 1
+participant; items are located on the right side of the map. The M to the left of the vertical line is the mean of the person abilities, and the
+M to the right of the vertical line is the mean of the item difﬁculties. Ss indicate 1 standard deviation and Ts indicate 2 standard deviations for item
+difﬁculty and person ability, respectively. C = Communication, FM = Financial Management, FP = Food Preparation, HM = Home Management,
+L = Leisure, M = Mobility; S = Shopping, SC = Self-Care.
+
+Stelmack and colleagues (2008, 2017) have documented improvements in participant visual ability in different VA
+settings, in response to different levels of intervention, and for participants with varying levels of visual acuity (Rubin, 2017).
+Approximately 90% of participants in Stelmack and colleagues’ studies were White men with macular degeneration.
+Clients seen for low vision rehabilitation at the VA are provided prescribed optical devices at no cost and with no
+
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p8
+
+
+[page 9]
+Research Article
+expense spared in types of equipment dispensed (Rubin, 2017). Responsiveness to change of the LV VFQ–48 has
+been established only for VA participants.
+Massof et al. (2007) developed the Activity Inventory, a visual function questionnaire, to be administered adaptively
+through a computer-assisted interview. The Activity Inventory is well validated (Goldstein et al., 2014) and is used
+frequently to measure the effectiveness of low vision rehabilitation. However, it contains 510 items used in querying
+difﬁculty in performance and importance to the client, and a computer is needed to administer it. In addition, this
+assessment is time intensive to administer.
+
+Study Limitations
+This study has several limitations. First, we did not gather data on the interventions used by the collaborating occupational therapists, who had different levels of experience, or on variations in interventions across settings. Second,
+all participants were rated at baseline as having good rehabilitation potential; results may differ for clients with other
+levels of rehabilitation potential. In addition, we collected no information on participants’ visual skills at the client factor
+or performance skill level. Third, we used bootstrapping to account for the small sample size, and we were unable to
+determine minimal clinically important difference (MCID). Moreover, although we found some differences in person
+measures across settings, we could not evaluate differential item functioning across settings because of the small
+sample size and the risk of inﬂating Type II error rates. Finally, the implications of our ﬁndings are limited to the study
+participants and are not generalizable to other people with different levels of visual ability.
+
+Implications for Occupational Therapy Practice
+The ﬁndings of this study have the following implications for occupational therapy practice:
+n
+
+The LVIM–R is responsive to change in visual ability resulting from occupational therapy for clients with a range of
+visual diagnoses resulting in low vision.
+
+n
+
+The LVIM–R is useful for measuring occupational therapy outcomes in low vision rehabilitation.
+
+n
+
+The LVIM–R is responsive to change for occupational therapy provided in both home health and outpatient settings.
+
+Conclusion
+The LVIM–R is responsive to changes in clients’ visual ability after low vision rehabilitation provided by occupational
+therapists and can be used in settings including home health and outpatient clinics. The instrument’s two distinct vision
+constructs cover a wide spectrum of visual ability related to ADLs and IADLs. Future studies of the LVIM–R are needed
+to determine the MCID, to compare the results of intervention and control groups, and to demonstrate which interventions are most effective in various settings and with clients of varying levels of visual ability.
+
+References
+American Occupational Therapy Association. (2014a). Low vision FAQ. Retrieved from https://www.aota.org/Practice/Productive-Aging/Low-Vision/FAQ.
+aspx
+American Occupational Therapy Association. (2014b). Occupational therapy practice framework: Domain and process (3rd ed.). American Journal of
+Occupational Therapy, 68(Suppl. 1), S1–S48. https://doi.org/10.5014/ajot.2014.68200
+American Optometric Association. (2019). Low vision. Retrieved from https://www.aoa.org/patients-and-public/caring-for-your-vision/low-vision
+Andrich, D. (1979). A model for contingency tables having an ordered response classiﬁcation. Biometrics, 35, 403–415. https://doi.org/10.2307/2530343
+Berdeaux, G. H., Nordmann, J. P., Colin, E., & Arnould, B. (2005). Vision-related quality of life in patients suffering from age-related macular degeneration.
+American Journal of Ophthalmology, 139, 271–279. https://doi.org/10.1016/j.ajo.2004.09.028
+Binns, A. M., Bunce, C., Dickinson, C., Harper, R., Tudor-Edwards, R., Woodhouse, M., . . . Margrain, T. H. (2012). How effective is low vision service
+provision? A systematic review. Survey of Ophthalmology, 57, 34–65. https://doi.org/10.1016/j.survophthal.2011.06.006
+Brown, J. C., Goldstein, J. E., Chan, T. L., Massof, R., & Ramulu, P.; Low Vision Research Network Study Group. (2014). Characterizing functional complaints in
+patients seeking outpatient low-vision services in the United States. American Academy of Ophthalmology, 121, 1655–1662.e1. https://doi.org/10.1016/j.
+ophtha.2014.02.030
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p9
+
+
+[page 10]
+Research Article
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Erlbaum.
+Crews, J. E., & Campbell, V. A. (2001). Health conditions, activity limitations, and participation restrictions among older people with visual impairments.
+Journal of Visual Impairment and Blindness, 95, 453–467. https://doi.org/10.1177/0145482X0109500802
+Dahlin-Ivanoff, S., Sonn, U., & Svensson, E. (2001). Development of an ADL instrument targeting elderly persons with age-related macular degeneration.
+Disability and Rehabilitation, 23, 69–79. https://doi.org/10.1080/096382801750058152
+Efron, B., & Tibshirani, R. J. (1993). An introduction to the bootstrap. New York: Chapman and Hall. https://doi.org/10.1007/978-1-4899-4541-9
+Goldstein, J. E., Chun, M. W., Fletcher, D. C., Deremeik, J. T., & Massof, R. W.; Low Vision Research Network Study Group. (2014). Visual ability of
+patients seeking outpatient low vision services in the United States. JAMA Ophthalmology, 132, 1169–1177. https://doi.org/10.1001/jamaophthalmol.
+2014.1747
+Haymes, S. A., Johnston, A. W., & Heyes, A. D. (2001). The development of the Melbourne Low-Vision ADL Index: A measure of vision disability. Investigative
+Ophthalmology and Visual Science, 42, 1215–1225.
+Health Insurance Portability and Accountability Act of 1996 (HIPAA), Pub. L. 104-191, 42 U.S.C. § 300gg, 29 U.S.C §§ 1181–1183, and 42 U.S.C. §§
+1320d–1320d9.
+Husted, J. A., Cook, R. J., Farewell, V. T., & Gladman, D. D. (2000). Methods for assessing responsiveness: A critical review and recommendations. Journal
+of Clinical Epidemiology, 53, 459–468. https://doi.org/10.1016/S0895-4356(99)00206-1
+Khadka, J., McAlinden, C., & Pesudovs, K. (2013). Quality assessment of ophthalmic questionnaires: Review and recommendations. Optometry and Vision
+Science, 90, 720–744. https://doi.org/10.1097/OPX.0000000000000001
+Kyte, D. G., Calvert, M., van der Wees, P. J., ten Hove, R., Tolan, S., & Hill, J. C. (2015). An introduction to patient-reported outcome measures (PROMs) in
+physiotherapy. Physiotherapy, 101, 119–125. https://doi.org/10.1016/j.physio.2014.11.003
+Liu, C. J., Brost, M. A., Horton, V. E., Kenyon, S. B., & Mears, K. E. (2013). Occupational therapy interventions to improve performance of daily activities at
+home for older adults with low vision: A systematic review. American Journal of Occupational Therapy, 67, 279–287. https://doi.org/10.5014/ajot.2013.
+005512
+Mangione, C. M., Lee, P. P., Gutierrez, P. R., Spritzer, K., Berry, S., & Hays, R. D. (2001). Development of the 25-item National Eye Institute Visual Function
+Questionnaire. Archives of Ophthalmology, 119, 1050–1058. https://doi.org/10.1001/archopht.119.7.1050
+Mangione, C. M., Lee, P. P., Pitts, J., Gutierrez, P., Berry, S., & Hays, R. D.; NEI–VFQ Field Test Investigators. (1998). Psychometric properties of the
+National Eye Institute Visual Function Questionnaire (NEI–VFQ). Archives of Ophthalmology, 116, 1496–1504. https://doi.org/10.1001/archopht.116.11.
+1496
+Massof, R. W., Ahmadian, L., Grover, L. L., Deremeik, J. T., Goldstein, J. E., Rainey, C., . . . Barnett, G. D. (2007). The Activity Inventory: An adaptive visual
+function questionnaire. Optometry and Vision Science, 84, 763–774. https://doi.org/10.1097/OPX.0b013e3181339efd
+Massof, R. W., & Stelmack, J. A. (2013). Interpretation of low-vision rehabilitation outcome measures. Optometry and Vision Science, 90, 788–798. https://doi.
+org/10.1097/OPX.0000000000000011
+Middel, B., & van Sonderen, E. (2002). Statistical signiﬁcant change versus relevant or important change in (quasi) experimental design: Some conceptual
+and methodological problems in estimating magnitude of intervention-related change in health services research. International Journal of Integrated
+Care, 2(4). https://doi.org/10.5334/ijic.65
+Rubin, G. S. (2017). Demonstrating the effectiveness of low-vision rehabilitation with outcomes of the Veterans Affairs Low Vision Intervention Trial II (LOVIT
+II). JAMA Ophthalmology, 135, 105–106. https://doi.org/10.1001/jamaophthalmol.2016.4778
+Smith, T. M. (2013). Reﬁnement of the Low Vision Independence Measure: A qualitative study. Physical and Occupational Therapy in Geriatrics, 31, 182–196.
+https://doi.org/10.3109/02703181.2013.813619
+Smith, T. M., Krishnan, S., Hong, I., & Reistetter, T. A. (2019). Measurement validity of the Low Vision Independence Measure (LVIM). American Journal of
+Occupational Therapy, 73, 7303205070. https://doi.org/10.5014/ajot.2019.031070
+Stelmack, J. A., Szlyk, J. P., Stelmack, T. R., Demers-Turco, P., Williams, R. T., Moran, D., & Massof, R. W. (2006). Measuring outcomes of vision rehabilitation
+with the Veterans Affairs Low Vision Visual Functioning Questionnaire. Investigative Ophthalmology and Visual Science, 47, 3253–3261. https://doi.org/
+10.1167/iovs.05-1319
+Stelmack, J. A., Tang, X. C., Reda, D. J., Rinne, S., & Massof, R. W.; LOVIT Study Group. (2008). Outcomes of the Veterans Affairs Low Vision Intervention Trial
+(LOVIT). Archives of Ophthalmology, 126, 608–617. https://doi:10.1001/archopht.126.5.608
+Stelmack, J. A., Tang, X. C., Wei, Y., Wilcox, D. T., Morand, T., Brahm, K., . . . Massof, R. W.; LOVIT II Study Group. (2017). Outcomes of the Veterans
+Affairs Low Vision Intervention Trial II (LOVIT II): A randomized clinical trial. JAMA Ophthalmology, 135, 96–104. https://doi.org/10.1001/jamaophthalmol.
+2016.4742
+Varma, R., Vajaranant, T. S., Burkemper, B., Wu, S., Torres, M., Hsu, C., . . . McKean-Cowdin, R. (2016). Visual impairment and blindness in adults
+in the United States: Demographic and geographic variations from 2015 to 2050. JAMA Ophthalmology, 134, 802–809. https://doi.org/10.1001/
+jamaophthalmol.2016.1284
+Wolfson, A. M., Doctor, J. N., & Burns, S. P. (2000). Clinician judgments of functional outcomes: How bias and perceived accuracy affect rating. Archives of
+Physical Medicine and Rehabilitation, 81, 1567–1574. https://doi.org/10.1053/apmr.2000.16345
+Wright, B. D. (1993). “Logits”? Rasch Measurement Transactions, 7, 288. Retrieved from https://www.rasch.org/rmt/rmt72e.htm
+
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p10
+
+
+[page 11]
+Research Article
+
+Theresa M. Smith, PhD, OTR, CLVT, is Associate Professor, Department of Occupational Therapy, Texas Woman’s University, Houston.
+Ickpyo Hong, PhD, OTR, is Assistant Professor, Department of Occupational Therapy, College of Health Sciences, Yonsei University, Wonju, South
+Korea; ihong@yonsei.ac.kr
+Timothy A. Reistetter, PhD, OTR, FAOTA, is Professor, Department of Occupational Therapy, University of Texas Health Science Center at San
+Antonio.
+
+Acknowledgments
+This research was supported in part by Grant K12 HD055929 from the National Institutes of Health (NIH). Its contents are solely the
+responsibility of the authors and do not necessarily represent the ofﬁcial views of NIH. The authors declare that there is no conﬂict
+of interest. This research was conducted at the Department of Occupational Therapy and Division of Rehabilitation Sciences,
+University of Texas Medical Branch, Galveston (Reference No. 15-0257).
+
+The American Journal of Occupational Therapy, September/October 2020, Vol. 74, No. 5
+
+7405205040p11
+

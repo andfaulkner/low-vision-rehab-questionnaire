@@ -1,0 +1,1699 @@
+[page 1]
+Research
+
+Original Investigation
+
+Clinically Meaningful Rehabilitation Outcomes of Low Vision
+Patients Served by Outpatient Clinical Centers
+Judith E. Goldstein, OD; Mary Lou Jackson, MD; Sandra M. Fox, OD; James T. Deremeik, CLVT; Robert W. Massof, PhD;
+for the Low Vision Research Network Study Group
+
+IMPORTANCE To facilitate comparative clinical outcome research in low vision rehabilitation,
+we must use patient-centered measurements that reflect clinically meaningful changes in
+visual ability.
+OBJECTIVE To quantify the effects of currently provided low vision rehabilitation (LVR) on
+patients who present for outpatient LVR services in the United States.
+DESIGN, SETTING, AND PARTICIPANTS Prospective, observational study of new patients
+seeking outpatient LVR services. From April 2008 through May 2011, 779 patients from 28
+clinical centers in the United States were enrolled in the Low Vision Rehabilitation Outcomes
+Study. The Activity Inventory, a visual function questionnaire, was administered to measure
+overall visual ability and visual ability in 4 functional domains (reading, mobility, visual motor
+function, and visual information processing) at baseline and 6 to 9 months after usual LVR
+care. The Geriatric Depression Scale, Telephone Interview for Cognitive Status, and Medical
+Outcomes Study 36-Item Short-Form Health Survey physical functioning questionnaires were
+also administered to measure patients’ psychological, cognitive, and physical health states,
+respectively, and clinical findings of patients were provided by study centers.
+MAIN OUTCOMES AND MEASURES Mean changes in the study population and minimum
+clinically important differences in the individual in overall visual ability and in visual ability in 4
+functional domains as measured by the Activity Inventory.
+RESULTS Baseline and post-rehabilitation measures were obtained for 468 patients.
+Minimum clinically important differences (95% CIs) were observed in nearly half (47% [95%
+CI, 44%-50%]) of patients in overall visual ability. The prevalence rates of patients with
+minimum clinically important differences in visual ability in functional domains were reading
+(44% [95% CI, 42%-48%]), visual motor function (38% [95% CI, 36%-42%]), visual
+information processing (33% [95% CI, 31%-37%]), and mobility (27% [95% CI, 25%-31%]).
+The largest average effect size (Cohen d = 0.87) for the population was observed in overall
+visual ability. Age (P = .006) was an independent predictor of changes in overall visual ability,
+and logMAR visual acuity (P = .002) was predictive of changes in visual information
+processing.
+CONCLUSIONS AND RELEVANCE Forty-four to fifty percent of patients presenting for
+outpatient LVR show clinically meaningful differences in overall visual ability after LVR, and
+the average effect sizes in overall visual ability are large, close to 1 SD.
+Author Affiliations: Author
+affiliations are listed at the end of this
+article.
+Group Information: The Low Vision
+Research Network Study Group
+members are listed at the end of this
+article.
+
+JAMA Ophthalmol. 2015;133(7):762-769. doi:10.1001/jamaophthalmol.2015.0693
+Published online April 9, 2015.
+762
+
+Corresponding Author: Judith E.
+Goldstein, OD, Lions Vision Research
+and Rehabilitation Center, Wilmer Eye
+Institute, The Johns Hopkins
+University School of Medicine, 600 N
+Wolfe St, Wilmer 317, Baltimore, MD
+21287 (jgolds28@jhmi.edu).
+(Reprinted) jamaophthalmology.com
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+
+[page 2]
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+C
+
+linically meaningful outcome measures are needed to
+advance low vision rehabilitation (LVR) and provide effective treatment for patients with vision impairment.
+A recent review 1 described 47 different LVR outcome
+measures used by 52 different studies. Early LVR studies incorporated patient satisfaction measures and assessed the frequency of use of vision-assistive equipment.2-4 A transition
+then occurred to using fixed-item Likert-scale visual function questionnaires and clinic-based performance measures
+(eg, reading speed and navigation accuracy).5-13 Over time, however, the flaws in Likert scaling were recognized, and there was
+a transition to interval scaling of visual function questionnaire responses using Rasch analysis.14-20 In addition, it became evident that the meaningfulness of clinic-based performance measures is limited because they typically are measures
+of efficacy, which reflect how well an intervention works under ideal conditions, rather than measures of effectiveness,
+which reflect the benefits of intervention under “real-world”
+conditions.
+Because LVR is a patient-centered type of rehabilitation,
+it is necessary to use a patient-reported outcome measure
+(PROM) that is relevant to the treatment objective, viz, to improve the ability of patients to perform activities that depend
+on vision, a latent variable that we will call visual ability. In
+contrast to medical or surgical treatment that improves vision (eg, cataract surgery), for which the improvement in visual acuity improves visual ability for all activities, LVR intervenes at the task level, primarily by modifying an activity and
+making it easier to perform without improving the patient’s
+visual acuity.21,22 Because LVR is a goal-directed intervention
+and, therefore, governed by individual patient preferences, the
+PROM must be adaptive rather than a “one-size-fits-all” questionnaire. The PROM for LVR must allow patients to self identify their rehabilitation goals by determining what is individually important to them, must contain only items that
+have room for improvement (and therefore are appropriate targets of intervention), and must place all patients on the same
+scale in the same units, regardless of their goals.23
+Given the complexity of the individualized nature of rehabilitation, the variability of the sample, and the random
+variation associated with measurement error, the PROM must
+have enough precision to detect a minimum meaningful change
+in visual ability at the individual level, not just overall mean
+changes for the population. The Cohen effect size (d = change
+score/standard deviation of the change score) offers a well accepted index for scaling the magnitude of the average overall effects of intervention for the sample (assuming homoscedasticity of estimation errors in the sample). At the individual
+level, a minimum clinically important difference (MCID) is one
+in which the change score significantly exceeds the estimation error for the individual’s measure.24 Measuring the effect of the intervention at the individual level is important because even groups with negligible mean changes could include
+individual patients whose improvements are significant.
+The aim of the Low Vision Rehabilitation Outcomes Study
+is to measure the effectiveness of usual outpatient LVR across
+the United States using a well-validated, adaptively administered measure of the effects of goal-directed interventions.
+jamaophthalmology.com
+
+Original Investigation Research
+
+Overall visual ability (50 goals), as measured by the Activity
+Inventory (AI), an adaptive visual function questionnaire, was
+the primary outcome measure, whereas the 4 functional domains (reading, mobility, visual motor function, and visual information processing) in the AI were the secondary outcome
+measures.
+
+Methods
+Study Methods
+The Low Vision Rehabilitation Outcomes Study was designed
+to evaluate the effectiveness of usual outpatient LVR for new
+patients. This study was conducted using a network of 28 outpatient centers providing LVR. The study protocol and the obtaining of oral informed consent were approved by the Johns
+Hopkins University institutional review board and adhered to
+the tenets of the Declaration of Helsinki. In addition, all study
+sites complied with the requirements of the Health Insurance
+Portability and Accountability Act and, when required, also obtained separate institutional review board approval for their
+participating centers. All patients provided oral informed consent for their study participation.
+
+Study Populations
+Participants were new low vision patients seeking outpatient
+LVR services at 1 of the 28 collaborating clinical centers. The
+study design, the participants’ traits, and the data collection
+methods were described in a previous report.25 Eligible patients were 18 years of age or older and were new to the physician (ie, defined as new to the physician by not having received LVR services from the clinical center within the past 3
+years). Exclusion criteria were non-English speaking and hearing loss so severe that questions could not be heard over the
+telephone. There were no visual acuity, visual field, or diagnosis requirements because the aim of the study was to observe outcomes of typical low vision patients receiving usual
+LVR care.
+
+Protocol Design
+New patients scheduled for outpatient LVR services at each of
+the 28 clinical centers were recruited to participate in the Low
+Vision Rehabilitation Outcomes Study. Enrolled patients were
+administered several health status questionnaires over the telephone by research assistants at the coordinating center prior to
+their clinical evaluation. Questionnaires included the AI to measure overall visual ability and its different functional
+domains,21,22,26,27 the Telephone Interview for Cognitive Status (TICS),28 the Geriatric Depression Scale (GDS),29 the physical functioning subscale of the Medical Outcomes Study 36Item Short-Form Health Survey (SF-36),30 and a standardized
+“check-box” intake survey that acquired a patient’s trait and history information.25 Patient interviews were conducted over 1 or
+2 sessions, depending on a patient’s availability. The average
+interview time was 62 minutes.
+The AI is a well-validated 510-item visual function questionnaire that is administered adaptively by computer assisted interview. The hierarchical structure of the question(Reprinted) JAMA Ophthalmology July 2015 Volume 133, Number 7
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+763
+
+
+[page 3]
+Research Original Investigation
+
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+Figure 1. Flowchart of Study Participants
+779 Patients enrolled
+191 (25%) Ended participation
+in study before eligible for
+follow-up interview
+
+588 (75%) Eligible for
+follow-up interview
+
+120 Excluded
+8 (1%) Died before follow-up
+39 (7%) Unable to contact
+39 (7%) Declined follow-up
+32 (5%) No-show for visit
+2 (0.3%) Loss of hearing
+
+468 (80%) Completed follow-up
+interview (60% of baseline)
+
+naire organizes the interview into 50 goals and 460 tasks
+surrounding daily living, social, and recreation-related activities. The patient is asked to rate the importance of each goal.
+If the goal is “not important,” then the interviewer moves onto
+the next goal; otherwise, the patient is asked to rate the difficulty of the goal. If a goal is at least slightly important and at
+least slightly difficult, then the patient is asked to rate the difficulty of subsidiary tasks (using the same difficulty ratings)
+or identify the task as not applicable.
+Prior to the patient’s appointment, questionnaire results
+were provided to the physician. Included were summaries of
+the intake history, TICS and GDS raw scores with questionnaire suggested cutoff scores for screening disorders, and both itemized and summarized AI results. Results of the SF-36 were not
+included in the report because there are no defined cutoff values for this instrument. Five AI summary scores were included in the report: overall visual ability (estimated from difficulty ratings of AI goals), reading, mobility, visual information
+processing, and visual motor functions (estimated from difficulty ratings of different subsets of AI tasks). In addition to the
+numeric scoring (logits), the report included a listing of the specific AI goals and tasks that were identified by the study participant as at least “somewhat important” and “somewhat difficult” to perform. If the goal was not important or if the task
+was not difficult, then it was not listed in the physician report
+because it would not be included in the individualized rehabilitation plan.
+Participating centers included university-based clinics, private practices, and multidisciplinary rehabilitation centers.
+Usual LVR services, which included evaluation of visual function by the physician (optometrist or ophthalmologist), were
+provided. Depending on an individual clinic’s practices, the
+evaluation and/or treatment by an occupational therapist, vision rehabilitation therapist, ophthalmic technician, social
+worker, and/or orientation and mobility instructor also may
+have been provided on the first visit. Subsequent follow-up visits may have occurred with any member of the rehabilitation
+team, depending on the usual practices of the clinical site and
+764
+
+the patient’s needs. Clinical findings from the initial evaluation, including visual acuity, contrast sensitivity, visual field
+test results, and disorder diagnosis, were entered online along
+with details of how each test was performed.25
+Low vision rehabilitation outcomes were assessed by telephone 6 to 9 months after initial evaluation through the administration of the AI. Post-rehabilitation interviews were completed for 468 of 779 patients. Figure 1 illustrates a breakdown
+of patient attrition in a CONSORT (Consolidated Standards of
+Reporting Trials)–type diagram. Baseline patient characteristics, visual acuity, and visual ability measures were compared between patients who did and patients who did not participate in post-rehabilitation interviews.
+
+Assessment of Outcomes
+The primary outcome measure was the change in overall visual ability, estimated from a participant’s difficulty ratings of
+AI goals at baseline and at 6 to 9 months after the initial evaluation. Secondary outcome measures were reading, mobility,
+visual information processing, and visual motor function estimated from the patient’s difficulty ratings of respective subsets of tasks in the AI. Item measures (visual ability demanded by each goal and task in the AI) and structure
+calibrations (response thresholds for each difficulty rating category) were calibrated from the responses of 3177 low vision
+patients at baseline, as described elsewhere.31 Visual ability was
+estimated from the participant’s responses to items that were
+reported to be important and at least slightly difficult at baseline because these items were in need of rehabilitation and
+therefore eligible to be targeted by the plan of care. Items identified as “not important” or “not difficult” at baseline were filtered out and did not contribute to the outcome measures.
+
+Statistical Analyses
+Rasch analysis was used to estimate interval-scaled measures
+from AI difficulty ratings.32,33 Using the Andrich Rating Scale
+Model (Winsteps statistical software, version 3.65), we performed Rasch analysis on a larger data set of baseline AI responses (described elsewhere)31 to anchor item measures and
+response category thresholds to calibrated values for the low
+vision population. Using these calibrated values, we performed Rasch analysis on filtered baseline and postrehabilitation AI difficulty ratings to estimate 5-person measures for each patient (overall visual ability and visual ability in
+each of the 4 functional domains). Mean values and standard
+deviations were calculated for the respective distributions of
+changes in overall visual ability measures and changes in each
+of the 4 functional domains from baseline to post-LVR follow up. To evaluate whether changes in each patient’s visual ability measures were clinically meaningful, an MCID was calculated for each measure from the ratio of the change in visual
+ability to 1.95 SEs of the estimated change (ie, the ratio represents the change as a fraction of the 95% CI on the estimated
+change). To assess potential bias and provide a pragmatic estimate of the benefit of a change in visual ability, an intention to-treat analysis was performed presuming an effect size of 0
+for the 12% of total eligible patients who declined a follow-up
+interview or who did not show for the clinic visit.
+
+JAMA Ophthalmology July 2015 Volume 133, Number 7 (Reprinted)
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+jamaophthalmology.com
+
+
+[page 4]
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+Original Investigation Research
+
+Table 1. Baseline Characteristics and Visual Ability Measures in LVROS Patients With or Without Follow-up Data
+Follow-up Data
+
+No Follow-up Data
+
+Characteristic or Measure
+
+Unit Value
+
+Total No.
+
+Unit Value
+
+Total No.
+
+Δ
+
+t Value
+
+df
+
+P Value
+
+Age, mean (SD), y
+
+73.9 (14.0)
+
+441
+
+69.4 (17.8)
+
+278
+
+−4.53
+
+3.60
+
+487.38
+
+<.001
+
+Male sex, No. (%)
+
+135 (30.6)
+
+441
+
+107 (38.5)
+
+278
+
+NP
+
+NP
+
+NP
+
+NP
+
+3.2 (1.8)
+
+441
+
+2.9 (1.7)
+
+278
+
+−0.28
+
+2.15
+
+605.82
+
+.03
+
+Living alone, No. (%)
+
+175 (39.7)
+
+441
+
+101 (36.3)
+
+278
+
+NP
+
+NP
+
+NP
+
+NP
+
+Support provided, No. (%)
+
+378 (85.7)
+
+441
+
+232 (83.5)
+
+278
+
+NP
+
+NP
+
+NP
+
+NP
+
+1.19 (0.79-1.80)
+
+Driving, No. (%)
+
+143 (32.4)
+
+441
+
+71 (25.5)
+
+278
+
+NP
+
+NP
+
+NP
+
+NP
+
+1.40 (1.00-1.96)
+
+0.66 (0.48)
+
+204
+
+−0.03
+
+0.85
+
+393.30
+
+.39
+
+Symptomatic comorbidities, mean (SD), No.
+
+OR (95% CI)
+0.70 (0.51-0.97)
+1.15 (0.85-1.57)
+
+Visual acuity
+logMAR, mean (SD)
+
+0.69 (0.45)
+
+Snellen equivalent
+
+20/100
+
+388
+
+20/100
+
+Baseline functional ability score,a
+mean (SD), logits
+Goals or overall visual ability
+
+1.01 (1.18)
+
+468
+
+0.93 (1.38)
+
+311
+
+−0.08
+
+0.81
+
+650.57
+
+.42
+
+Reading
+
+0.82 (1.28)
+
+427
+
+0.78 (1.47)
+
+312
+
+−0.03
+
+0.33
+
+612.96
+
+.74
+
+Mobility
+
+0.61 (1.10)
+
+331
+
+0.40 (1.14)
+
+243
+
+−0.21
+
+2.24
+
+508.83
+
+.03
+
+Visual information processing
+
+0.79 (1.04)
+
+403
+
+0.60 (1.16)
+
+297
+
+−0.19
+
+2.21
+
+595.54
+
+.03
+
+Visual motor function
+
+0.84 (1.06)
+
+423
+
+0.67 (1.15)
+
+305
+
+−0.16
+
+1.93
+
+621.97
+
+.05
+
+GDS Rasch score,b mean (SD)
+
+−2.26 (1.69)
+
+441
+
+−1.85 (1.81)
+
+259
+
+0.37
+
+2.71
+
+511.66
+
+.01
+
+SF-36 physical functioning Rasch score,
+mean (SD)
+
+0.56 (2.36)
+
+445
+
+0.6 (2.49)
+
+313
+
+0.04
+
+0.21
+
+649.28
+
+.83
+
+TICS raw score,c mean (SD)
+
+38.59 (6.45)
+
+441
+
+37.86 (7.22)
+
+306
+
+−0.72
+
+1.40
+
+607.15
+
+.16
+
+Abbreviations: GDS, Geriatric Depression Scale; LVROS, Low Vision
+Rehabilitation Outcomes Study; NP, not performed in sample; OR, odds ratio;
+SF-36, Medical Outcomes Study 36-Item Short Form Health Survey; TICS,
+Telephone Interview for Cognitive Status.
+
+a
+
+Higher score indicates better ability or less difficulty performing activities.
+
+b
+
+Higher score indicates greater risk of depression.
+
+c
+
+Raw scores greater than 30 indicate normal cognition.
+
+Rasch analysis was performed on the responses to the GDS
+and SF-36 to estimate continuous interval-scaled measures for
+depressed mood and physical ability, respectively. Rasch analysis was not performed on the TICS responses because the raw
+scores were heavily skewed toward the ceiling; therefore, raw
+scores were used as the continuous variables for cognitive ability, which is expected to be a monotonic function of an interval measure that would be estimated from Rasch analysis.34
+One-way analysis of variance (ANOVA) was performed with
+change in overall visual ability as the dependent variable and
+categorical baseline traits as independent variables. Multivariable predictive regression models for changes in overall visual ability and changes in each functional domain were tested
+using continuous variables that previously were observed to
+be predictors of baseline visual ability (SF-36 physical, GDS,
+logMAR, and TICS) and significant from the ANOVA (age) to
+determine if any combination of measures were predictors of
+primary or secondary outcome measures.31
+
+[Snellen equivalent, 20/100] for patients without), mean baseline visual ability score (1.01 vs 0.93), mean baseline reading
+ability score (0.82 vs 0.78), mean baseline visual motor function score (0.84 vs 0.67), mean SF-36 score (0.56 vs 0.60), and
+mean TICS score (38.59 vs 37.86). Compared with the patients without follow-up data, the patients with follow-up data
+were older (mean age, 73.9 years vs 69.36 years), had better mobility function (mean score, 0.61 vs 0.40), had better visual information processing (mean score, 0.79 vs 0.60), and lower depressed mood (mean score, −2.29 vs −1.85) at baseline.
+However, the magnitudes of the differences were small. The
+ORs showed that patients with follow-up data were more likely
+to be female (OR, 1.42) and to drive (OR, 1.40).
+Table 2 details the mean changes in visual ability after rehabilitation at the goal and domain levels and the percentage
+of patients with MCID ratios greater than 1.0, for patients with
+follow-up data and for patients in the intention-to-treat group.
+Mean changes in visual ability score were greatest at the goal
+level (0.89), followed by visual motor function (0.54), mobility (0.50), reading (0.45), and visual information processing
+(0.42). After rehabilitation, nearly half (47% [95% CI, 44%50%]) of patients exhibited changes in overall visual ability that
+exceeded the MCID criterion. The prevalence of patients with
+MCID ratios greater than 1.0 in 4 functional domains were as
+follows: reading (44% [95% CI, 42%-48%]), visual motor function (38% [95% CI, 36%-42%]), visual information processing
+(33% [95% CI, 31%-37%]), and mobility (27% [95% CI, 25%31%]). The intention-to-treat analysis showed that the prevalence of patients exceeding the MCID criteria was 42% in over-
+
+Results
+Patient characteristics, visual impairment measures, and baseline ability were obtained for 779 patients. Table 1 shows the
+comparison of baseline characteristics of patients with AI follow-up data (n = 468) and patients without (n = 311) using the
+t test and odds ratios (ORs). The t test showed no differences
+between groups in mean logMAR visual acuity (0.69 [Snellen
+equivalent, 20/100] for patients with AI follow-up data vs 0.66
+jamaophthalmology.com
+
+(Reprinted) JAMA Ophthalmology July 2015 Volume 133, Number 7
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+765
+
+
+[page 5]
+Research Original Investigation
+
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+Table 2. Effects of Low Vision Rehabilitation Intervention
+MCID Criteria,a %
+
+AI Change Score, Logits
+
+Achieved
+(95% CI)
+
+Achieved
+(ITT Sample)
+
+Visual Ability
+
+Mean (SD)
+
+ITT Sample
+
+Effect Size
+(ITT Sample), d
+
+Goals/overall visual ability
+(n = 468)
+
+0.89 (1.02)
+
+0.79
+
+0.87 (0.82)
+
+47 (44-50)
+
+(41)
+
+Reading
+(n = 422)
+
+0.45 (1.12)
+
+0.40
+
+0.40 (0.38)
+
+44 (42-48)
+
+(40)
+
+Mobility
+(n = 269)
+
+0.50 (1.25)
+
+0.45
+
+0.40 (0.38)
+
+27 (25-31)
+
+(25)
+
+Visual information processing
+(n = 393)
+
+0.42 (0.83)
+
+0.38
+
+0.51 (0.46)
+
+33 (31-37)
+
+(30)
+
+Visual motor function
+(n = 398)
+
+0.54 (1.13)
+
+0.48
+
+0.48 (0.45)
+
+38 (36-42)
+
+(34)
+
+Abbreviations: AI, activity inventory;
+ITT, intention-to-treat;
+MCID, minimum clinically important
+difference.
+a
+
+Criterion is met if the change score
+exceeds 1.96 (standard errors of the
+change score estimate).
+
+Table 3. Association of Overall Visual Ability With Patient Characteristics: Analysis of Variancea
+Variable
+
+Sum of Squares
+
+df
+
+Mean Square
+
+F Ratio
+
+Ageb
+
+9.582
+
+3
+
+3.194
+
+3.051
+
+.03
+
+Sex
+
+0.107
+
+1
+
+0.107
+
+0.1
+
+.75
+
+logMAR visual acuityc
+
+8.78
+
+3
+
+2.927
+
+2.908
+
+.04
+
+Logarithm of contrast sensitivityd
+
+1.148
+
+2
+
+0.574
+
+0.542
+
+.58
+
+Depressed
+
+0.033
+
+1
+
+0.033
+
+0.031
+
+.86
+
+Geriatric Depression Scalee
+
+0.646
+
+3
+
+0.215
+
+0.201
+
+.90
+
+No. of symptomatic comorbidities
+
+6.944
+
+9
+
+0.772
+
+0.723
+
+.69
+
+SF-36 physical componentf
+
+1.477
+
+3
+
+0.492
+
+0.464
+
+.71
+
+Telephone Interview for Cognitive Statusg
+
+2.382
+
+3
+
+0.794
+
+0.744
+
+.53
+
+Support services needed (eg, none or family)
+
+0.716
+
+1
+
+0.716
+
+0.702
+
+.40
+
+Living alone
+
+1.666
+
+1
+
+1.666
+
+1.571
+
+.21
+
+Driving status
+
+0.016
+
+1
+
+0.016
+
+0.015
+
+.90
+
+Abbreviation: SF-36, Medical Outcomes Study 36-Item Short Form Health
+Survey.
+
+d
+
+Contrast sensitivity is defined as log contrast sensitivity categorized into
+normal (0.8-1.6) and abnormal (<0.8).
+
+a
+
+Incorporating a correction for multiple comparisons, we found that P < .004 is
+statistically significant for a criterion of α < .05.
+
+e
+
+Depression is defined as a Geriatric Depression Scale continuous variable
+made categorical into quartiles.
+
+b
+
+Age in years is categorized into 66 years of age or younger, from older than 66
+years of age to 76 years of age or younger, from 76 years of age to 84 years of
+age or younger, and older than 84 years.
+
+f
+
+Physical is defined as an SF-36 physical component continuous variable made
+categorical into quartiles.
+
+g
+
+c
+
+Visual acuity is categorized into mild, moderate, severe, and profound vision loss.
+
+Cognition is defined as a Telephone Interview for Cognitive Status continuous
+variable made categorical into quartiles.
+
+all visual ability, 40% in reading, 34% in visual motor function,
+30% in visual information processing, and 25% in mobility.
+Table 3 displays the results of 1-way ANOVA of change in
+patients’ overall visual ability (dependent variable) and patients’ characteristics (independent variables). Because of ceiling effects, many of the trait distributions were not normal;
+therefore, continuous independent variables were categorized into quartiles for this analysis. Significant main effects
+were seen only with age and visual acuity as the independent
+variables, but after correction for post hoc multiple comparisons, neither achieved the 5% α level.
+Table 4 displays regression model coefficients for continuous independent variables previously identified as having independent effects on overall visual ability measures at baseline and for variables that were potential predictors from the
+ANOVA (age and visual acuity).31 Regression model coefficients were displayed for the same continuous independent
+variables when functional domain measures were dependent
+variables. After Bonferroni correction, age (P = .006) was an
+independent predictor of changes in overall visual ability at the
+goal level, and logMAR visual acuity (P = .002) was predictive
+766
+
+P Value
+
+of changes in visual information processing. Despite the independent effects of these variables, the β coefficients were
+small. No variable was predictive of changes in reading ability or visual motor function.
+logMAR visual acuity was a significant predictor of visual
+information processing (P < .002) but not overall visual ability (P = .10) in the multivariable regression model, and the effect of logMAR on visual ability (P = .04) was minimized in the
+ANOVA once a correction was made for post hoc comparisons. Figure 2 shows changes in overall visual ability by
+logMAR visual acuity categorized as mild, moderate, severe,
+and profound. Similar magnitude changes in visual ability were
+seen across all categories of visual impairment with the exception of moderate visual impairment, for which the visual
+ability change score was smaller (95% CI, 0.54-0.88).
+
+Discussion
+We learned that outpatient LVR services across the United
+States were effective in improving overall visual ability in nearly
+
+JAMA Ophthalmology July 2015 Volume 133, Number 7 (Reprinted)
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+jamaophthalmology.com
+
+
+[page 6]
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+Original Investigation Research
+
+Table 4. Regression Analysis of Overall Visual Ability and Domains
+Effect
+
+r2 Coefficient (SE)
+
+Goals
+
+0.027
+
+β Coefficient
+
+t Value
+
+2-Tailed P Value
+.93
+
+Constant
+
+−0.041 (0.487)
+
+0
+
+−0.084
+
+SF-36 physical
+
+0.047 (0.024)
+
+0.106
+
+1.927
+
+.06
+
+GDS
+
+0.058 (0.033)
+
+0.094
+
+1.766
+
+.08
+
+logMAR
+
+−0.17 (0.103)
+
+−0.08
+
+−1.648
+
+.10
+
+TICS
+
+0.011 (0.009)
+
+0.058
+
+1.141
+
+.26
+
+Age
+
+0.01 (0.004)
+
+0.14
+
+2.74
+
+.006a
+.88
+
+Reading
+
+0.004
+
+Constant
+
+−0.093 (0.586)
+
+0
+
+−0.158
+
+SF-36 physical
+
+0.023 (0.03)
+
+0.047
+
+0.777
+
+.44
+
+GDS
+
+0.055 (0.039)
+
+0.081
+
+1.405
+
+.16
+
+logMAR
+
+0.082 (0.125)
+
+0.035
+
+0.656
+
+.51
+
+TICS
+
+0.007 (0.011)
+
+0.032
+
+0.588
+
+.56
+
+Age
+
+0.005 (0.004)
+
+0.06
+
+1.07
+
+.29
+.006
+
+Mobility
+
+0.007
+
+Constant
+
+2.351 (0.842)
+
+0
+
+2.793
+
+SF-36 physical
+
+0.029 (0.404)
+
+0.056
+
+0.724
+
+.47
+
+GDS
+
+0.046 (0.052)
+
+0.065
+
+0.894
+
+.37
+
+logMAR
+
+−0.225 (0.175)
+
+−0.086
+
+−1.285
+
+.200
+
+TICS
+
+−0.034 (0.016)
+
+−0.147
+
+−2.054
+
+.04
+
+Age
+
+−0.005 (0.006)
+
+−0.057
+
+−0.778
+
+.44
+.35
+
+Visual information
+
+0.008
+
+Constant
+
+0.417 (0.445)
+
+0
+
+0.938
+
+SF-36 physical
+
+0.008 (0.022)
+
+0.022
+
+0.356
+
+.72
+
+GDS
+
+0.033 (0.03)
+
+0.066
+
+1.11
+
+.27
+
+logMAR
+
+−0.298 (0.095)
+
+−0.17
+
+−3.145
+
+.002a
+
+TICS
+
+0 (0.009)
+
+0
+
+−0.005
+
+.10
+
+Age
+
+0.004 (0.003)
+
+0.075
+
+1.31
+
+.19
+
+Visual motor
+
+0.001
+
+Constant
+
+0.33 (0.619)
+
+0
+
+0.533
+
+.59
+
+SF-36 physical
+
+0.021 (0.031)
+
+0.041
+
+0.669
+
+.50
+
+GDS
+
+−0.012 (0.041)
+
+−0.018
+
+−0.295
+
+.77
+
+logMAR
+
+0.022 (0.132)
+
+0.009
+
+0.169
+
+.87
+
+TICS
+
+0 (0.012)
+
+−0.001
+
+−0.013
+
+.99
+
+Age
+
+0.003 (0.005)
+
+0.037
+
+0.636
+
+.53
+
+half (47%) of patients, with large average effect sizes (Cohen
+d = 0.87). At the domain level, the effect sizes were moderate
+(Cohen d = 0.40-0.51), with 28% to 45% of patients meeting the
+MCID change criteria. The visual ability effect sizes from this
+study slightly exceeded those of prior outpatient studies (Cohen d = 0.25-0.75).16,18,35 However, they did not achieve the very
+large effects (Cohen d = 1.96)15 seen in the Department of Veterans Affairs Blind Rehabilitation Center, which offers an intense 4- to 6-week inpatient LVR program with full coverage
+of vision-assistive equipment costs.
+The regression analysis demonstrated that there were
+no consistent, strong predictors of LVR outcomes. Our findings showed that age was predictive of improved overall
+visual ability (measured at the goal level) and that visual
+acuity was predictive of improved visual information processing. However, neither showed strong effects, and there
+were no interactive effects between the 2 variables. This
+jamaophthalmology.com
+
+Abbreviations: GDS, Geriatric
+Depression Scale; SF-36, Medical
+Outcomes Study 36-Item Short Form
+Health Survey; TICS, Telephone
+Interview for Cognitive Status.
+a
+
+Statistically significant after
+Bonferroni correction.
+
+observation agrees with anecdotal reports of the difficulty
+predicting which patients will benefit from LVR, and it supports prior study results showing poor agreement between
+physician predictions of outcomes and observed changes in
+patients.36
+Patients with a visual acuity of greater than 20/60 or less
+than 20/200 showed the greatest effects from LVR. Smaller effects were observed for patients with moderate loss of visual
+acuity (<20/70 to >20/200) and may be related to the patients
+not obtaining the necessary vision-assistive equipment (eg, because it was not covered by their insurance), the need for more
+intensive LVR training, or the lack of effective rehabilitation
+solutions for this subgroup. The beneficial changes seen in patients with greater than 20/60 visual acuity may result from
+simpler interventions, such as an increase in reading spectacle power and lighting enhancement. Patients with severe
+to profound loss of visual acuity may have had better LVR out(Reprinted) JAMA Ophthalmology July 2015 Volume 133, Number 7
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+767
+
+
+[page 7]
+Research Original Investigation
+
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+Figure 2. Change in Overall Visual Ability by Degree of Visual Impairment
+1.6
+
+AI Change Score, Logits
+
+1.4
+1.2
+1.0
+
+Conclusions
+
+0.8
+0.6
+0.4
+0.2
+0
+Mild VA
+(>20/60)
+
+Moderate VA
+(<20/70 to
+>20/200)
+
+Severe VA
+(<20/200 to
+20/500)
+
+Profound VA
+(<20/500 to
+NLP)
+
+Level of Vision Impairment
+
+Patients with a visual acuity (VA) of better than 20/60 or worse than 20/200
+show the greatest effects of low vision rehabilitation. Smaller effects are observed
+in patients with moderate loss of VA (<20/70 to >20/200). AI indicates Activity
+Inventory; NLP, no light perception. Error bars indicate 95% CIs.
+
+comes because they may have had time to adapt to their gradually deteriorating vision, and they may have had prior experience with rehabilitation strategies and vision-assistive
+
+ARTICLE INFORMATION
+Submitted for Publication: October 14, 2014; final
+revision received February 6, 2015; accepted
+February 10, 2015.
+Published Online: April 9, 2015.
+doi:10.1001/jamaophthalmol.2015.0693.
+Author Affiliations: Lions Vision Research and
+Rehabilitation Center, Wilmer Eye Institute, The
+Johns Hopkins University School of Medicine,
+Baltimore, Maryland (Goldstein, Deremeik,
+Massof); Massachusetts Eye and Ear, Department
+of Ophthalmology, Harvard Medical School, Boston
+(Jackson); San Antonio Polytrauma Rehabilitation
+Center, South Texas Veterans Health Care System,
+San Antonio (Fox); Lions Low Vision Center of
+Texas, The University of Texas Health Science
+Center School at San Antonio (Fox).
+Author Contributions: Drs Massof and Goldstein
+had full access to all of the data in the study and
+take responsibility for the integrity of the data and
+the accuracy of the data analysis.
+Study concept and design: Goldstein, Jackson,
+Deremeik, Massof.
+Acquisition, analysis, or interpretation of data:
+Goldstein, Jackson, Fox, Massof.
+Drafting of the manuscript: Goldstein.
+Critical revision of the manuscript for important
+intellectual content: All authors.
+Statistical analysis: Goldstein, Massof.
+Obtained funding: Goldstein, Deremeik, Massof.
+Administrative, technical, or material support:
+Goldstein, Fox.
+Study supervision: Goldstein.
+Conflict of Interest Disclosures: All authors have
+completed and submitted the ICMJE Form for
+Disclosure of Potential Conflicts of Interest, and Dr
+Massof reports serving as a consultant on
+
+768
+
+equipment. Because visual acuity is not a good predictor of improvement in visual ability and because patients with visual
+acuity better than 20/60 show the greatest mean improvement after rehabilitation, these results suggest that visual acuity should not be the only basis for a referral to LVR services.
+
+The strength of the MCID is that it provides a meaningful clinical end point to determine when beneficial effects from LVR
+are observed. The ability to quantify the percentage of
+patients who benefit from outpatient LVR services across
+the United States lays the foundation to test new surgical,
+electronic, and optical rehabilitation solutions. A limitation
+of our research is that it is an observational study without
+the presence of a control group. A randomized controlled
+clinical trial is still necessary to provide incontrovertible
+evidence of the effectiveness of outpatient LVR. With a
+well-validated, clinically meaningful PROM available, we
+are positioned to conduct such trials and develop and test
+new LVR treatments to improve visual ability in the 53% of
+patients for whom no clinically meaningful benefit was
+observed and to further increase the effectiveness of LVR
+for all patients.
+
+patient-reported outcome measures for Alcon. No
+other disclosures are reported.
+Funding/Support: This work was supported by
+grants EY012045 and EY018696 from the National
+Eye Institute, National Institutes of Health,
+Bethesda, Maryland, and a grant from Reader’s
+Digest Partners for Sight Foundation.
+Role of the Funder/Sponsor: The funders/
+sponsors had no role in the design and conduct of
+the study; collection, management, analysis, or
+interpretation of the data; preparation, review, or
+approval of the manuscript; and decision to submit
+the manuscript for publication.
+Group Information: The Low Vision Research
+Network Study Group includes the following
+members: Association for the Blind and Visually
+Impaired, Rochester, New York: Katherine White,
+OD, Ray Gottlieb, OD, Elizabeth Harvey, OD, Paul
+Caito, OD, and Gwen Sterns, MD. Casey Eye
+Institute, Oregon Health and Science University,
+Portland, Oregon: John Boyer, OD, and Grace Tran,
+OD. Center for Retina and Macular Disease, Winter
+Haven, Florida: Sonya Braudway, OD, and Alice
+Enault, OTR, CLVT. Emory Eye Center, Atlanta,
+Georgia: Susan Primo, OD, Kenneth Rosengren, OD,
+and Thao Vu, OD. Ensight Skills Center, Fort Collins,
+Colorado: Mark DeGeorge, OD, and Cori Layton,
+SCLV/OTR. Envision Vision Rehabilitation Center,
+Wichita, Kansas: William Park, OD, and Karen
+Kendrick, OTR/L. The Frank Stein and Paul S. May
+Center for Low Vision Rehabilitation at California
+Pacific Medical Center, San Francisco: Donald
+Fletcher, MD, and Karen Myers, OTR/L. Indianapolis
+Eye Care Center, Indiana University School of
+Optometry, Indianapolis: Kevin Houston, OD. The
+Jewish Guild for the Blind, New York, New York:
+Laura Sperazza, OD, and Susan Weinstein, OD. Jules
+Stein Eye Institute, Los Angeles, California: Melissa
+Chun, OD, and Jennie Kageyama, OD. Low Vision
+
+Associates, Bingham Farms, Michigan: Susan
+Gormezano, OD. Massachusetts Eye and Ear,
+Department of Ophthalmology, Harvard Medical
+School, Boston: Mary Lou Jackson, MD, and Kim
+Schoessow, OTD, OTR/L. Medical College of
+Wisconsin, Milwaukee: Scott Robison, OD. Modesto
+Optometric Vision Center, Modesto, California: Brian
+Elliott, OD. Retina Consultants of Southwest Florida,
+Fort Myers: Donald Fletcher, MD, and Heather
+Holderfield, OTR/L. Richard E. Hoover Low Vision
+Rehabilitation Services, Greater Baltimore Medical
+Center, Baltimore, Maryland: Janet S. Sunness, MD,
+and Susan Garber, OTR/L, CLVT. Richmond Eye and
+Ear Healthcare Alliance, Richmond, Virginia: Jeffrey
+Michaels, OD, and Mary Bullock, OTR/L. Spectrios
+Institute for Low Vision, Wheaton, Illinois: John
+Coalter, OD, Connie Arends, MSEd, CVRT, and R.
+Tracy Williams, OD. St Luke’s Cataract and Laser
+Institute, Tarpon Springs, Florida: Ed Huggett, OD.
+Storm Eye Institute Low Vision Rehabilitation at the
+Medical University of South Carolina, Charleston:
+Stephen E. Morse, OD, MPH, PhD, and Kelly
+Singleton, MS, OD. The University of Iowa
+Department of Ophthalmology and Visual Sciences,
+Iowa City, Iowa: Mark Wilkinson, OD. University of
+Michigan Kellogg Eye Center, Ann Arbor: Donna
+Wicker, OD, Sherry Day, OD, and Karen Murphy,
+OTR. The University of Texas Health Science Center
+School at San Antonio, Lion’s Low Vision Center of
+Texas, San Antonio: Sandra M. Fox, OD, and Melva
+Perez, OTR/L. Vanderbilt Eye Institute, Nashville,
+Tennessee: K. Bradley Kehler, OD. ViewFinder Low
+Vision Resource Center, Mesa, Arizona: Lynne Noon,
+OD, and Kevin Huff, OD. Visionary Eye Center, Reno,
+Nevada: Jason Bolenbaker, OD. Washington
+University School of Medicine, St Louis, Missouri:
+Carrie Gaines, OD, and Monica Perlmutter, OTR/L.
+The Wilmer Eye Institute at Johns Hopkins School of
+Medicine, Baltimore, Maryland: Judith E. Goldstein,
+
+JAMA Ophthalmology July 2015 Volume 133, Number 7 (Reprinted)
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+jamaophthalmology.com
+
+
+[page 8]
+Clinically Meaningful Low Vision Rehabilitation Outcomes
+
+OD, Alexis Malkin, OD, James T. Deremeik, CLVT,
+Katherine Cleveland, OTR/L, and Robert W. Massof,
+PhD.
+REFERENCES
+1. Binns AM, Bunce C, Dickinson C, et al. How
+effective is low vision service provision?
+a systematic review. Surv Ophthalmol. 2012;57(1):
+34-65.
+2. McIlwaine GG, Bell JA, Dutton GN. Low vision
+aids—is our service cost effective? Eye (Lond). 1991;
+5(pt 5):607-611.
+3. Harper R, Doorduyn K, Reeves B, Slater L.
+Evaluating the outcomes of low vision
+rehabilitation. Ophthalmic Physiol Opt. 1999;19(1):
+3-11.
+4. Rees G, Keeffe JE, Hassell J, Larizza M,
+Lamoureux E. A self-management program for low
+vision: program overview and pilot evaluation.
+Disabil Rehabil. 2010;32(10):808-815.
+5. Scott IU, Smiddy WE, Schiffman J, Feuer WJ,
+Pappas CJ. Quality of life of low-vision patients and
+the impact of low-vision services. Am J Ophthalmol.
+1999;128(1):54-62.
+6. McCabe P, Nason F, Demers Turco P, Friedman D,
+Seddon JM. Evaluating the effectiveness of a vision
+rehabilitation intervention using an objective and
+subjective measure of functional performance.
+Ophthalmic Epidemiol. 2000;7(4):259-270.
+7. Hinds A, Sinclair A, Park J, Suttie A, Paterson H,
+Macdonald M. Impact of an interdisciplinary low
+vision service on the quality of life of low vision
+patients. Br J Ophthalmol. 2003;87(11):1391-1396.
+8. Lamoureux EL, Hassell JB, Keeffe JE. The
+determinants of participation in activities of daily
+living in people with impaired vision. Am J
+Ophthalmol. 2004;137(2):265-270.
+9. Reeves BC, Harper RA, Russell WB. Enhanced
+low vision rehabilitation for people with age related
+macular degeneration: a randomised controlled
+trial. Br J Ophthalmol. 2004;88(11):1443-1449.
+10. La Grow SJ. The effectiveness of
+comprehensive low vision services for older
+persons with visual impairments in New Zealand.
+J Vis Impair Blind. 2004;98(11):679-692. http://eric
+.ed.gov/?id=EJ683813. Accessed March 3, 2015.
+11. de Boer MR, Twisk J, Moll AC, Völker-Dieben HJ,
+de Vet HC, van Rens GH. Outcomes of low-vision
+services using optometric and multidisciplinary
+approaches: a non-randomized comparison.
+Ophthalmic Physiol Opt. 2006;26(6):535-544.
+
+jamaophthalmology.com
+
+Original Investigation Research
+
+12. Court H, Ryan B, Bunce C, Margrain TH. How
+effective is the new community-based Welsh low
+vision service? Br J Ophthalmol. 2011;95(2):178-184.
+13. Ryan B, Khadka J, Bunce C, Court H.
+Effectiveness of the community-based Low Vision
+Service Wales: a long-term outcome study. Br J
+Ophthalmol. 2013;97(4):487-491.
+14. Smith HJ, Dickinson CM, Cacho I, Reeves BC,
+Harper RA. A randomized controlled trial to
+determine the effectiveness of prism spectacles for
+patients with age-related macular degeneration.
+Arch Ophthalmol. 2005;123(8):1042-1050.
+15. Stelmack JA, Szlyk JP, Stelmack TR, et al.
+Measuring outcomes of vision rehabilitation with
+the veterans affairs low vision visual functioning
+questionnaire. Invest Ophthalmol Vis Sci. 2006;47
+(8):3253-3261.
+16. Lamoureux EL, Pallant JF, Pesudovs K, Rees G,
+Hassell JB, Keeffe JE. The effectiveness of
+low-vision rehabilitation on participation in daily
+living and quality of life. Invest Ophthalmol Vis Sci.
+2007;48(4):1476-1482.
+17. Stelmack JA, Tang XC, Reda DJ, Rinne S, Mancil
+RM, Massof RW; LOVIT Study Group. Outcomes of
+the veterans affairs low vision intervention trial
+(LOVIT). Arch Ophthalmol. 2008;126(5):608-617.
+18. Pearce E, Crossland MD, Rubin GS. The efficacy
+of low vision device training in a hospital-based low
+vision clinic. Br J Ophthalmol. 2011;95(1):105-108.
+19. Stelmack JA, Tang XC, Wei Y, Massof RW;
+Low-Vision Intervention Trial Study Group. The
+effectiveness of low-vision rehabilitation in 2
+cohorts derived from the Veterans Affairs
+Low-Vision Intervention Trial. Arch Ophthalmol.
+2012;130(9):1162-1168.
+20. Velozo CA, Warren M, Hicks E, Berger KA.
+Generating clinical outputs for self-reports of visual
+functioning. Optom Vis Sci. 2013;90(8):765-775.
+21. Massof RW, Hsu CT, Baker FH, et al. Visual
+disability variables, I: the importance and difficulty
+of activity goals for a sample of low-vision patients.
+Arch Phys Med Rehabil. 2005;86(5):946-953.
+
+25. Goldstein JE, Massof RW, Deremeik JT, et al;
+Low Vision Research Network Study Group.
+Baseline traits of low vision patients served by
+private outpatient clinical centers in the United
+States. Arch Ophthalmol. 2012;130(8):1028-1037.
+26. Massof RW. A systems model for low vision
+rehabilitation, I: basic concepts. Optom Vis Sci.
+1995;72(10):725-736.
+27. Massof RW, Ahmadian L, Grover LL, et al. The
+Activity Inventory: an adaptive visual function
+questionnaire. Optom Vis Sci. 2007;84(8):763-774.
+28. Manly JJ, Schupf N, Stern Y, Brickman AM, Tang
+MX, Mayeux R. Telephone-based identification of
+mild cognitive impairment and dementia in a
+multicultural cohort. Arch Neurol. 2011;68(5):607614.
+29. Lyness JM, Noel TK, Cox C, King DA, Conwell Y,
+Caine ED. Screening for depression in elderly
+primary care patients: a comparison of the Center
+for Epidemiologic Studies-Depression Scale and the
+Geriatric Depression Scale. Arch Intern Med. 1997;
+157(4):449-454.
+30. Cooper JK, Kohlmann T, Michael JA, Haffer SC,
+Stevic M. Health outcomes: new quality measure
+for Medicare. Int J Qual Health Care. 2001;13(1):9-16.
+31. Goldstein JE, Chun MW, Fletcher DC, Deremeik
+JT, Massof RW; Low Vision Research Network Study
+Group. Visual ability of patients seeking outpatient
+low vision services in the United States. JAMA
+Ophthalmol. 2014;132(10):1169-1177.
+32. Bond TG, Fox CM. Applying the Rasch Model:
+Fundamental Measurement in the Human Sciences.
+2nd ed. Routledge: New York, NY; 1977:314.
+33. Massof RW. Understanding Rasch and item
+response theory models: applications to the
+estimation and validation of interval latent trait
+measures from responses to rating scale
+questionnaires. Ophthalmic Epidemiol. 2011;18(1):119.
+34. Zelinski EM, Gilewski MJ. Effects of
+demographic and health variables on Rasch scaled
+cognitive scores. J Aging Health. 2003;15(3):435-464.
+
+22. Massof RW, Hsu CT, Baker FH, et al. Visual
+disability variables, II: the difficulty of tasks for a
+sample of low-vision patients. Arch Phys Med Rehabil.
+2005;86(5):954-967.
+
+35. Wolffsohn JS, Cochrane AL. Design of the Low
+Vision Quality-of-Life Questionnaire (LVQOL) and
+measuring the outcome of low-vision rehabilitation.
+Am J Ophthalmol. 2000;130(6):793-802.
+
+23. Massof RW, Stelmack JA. Interpretation of
+low-vision rehabilitation outcome measures. Optom
+Vis Sci. 2013;90(8):788-798.
+
+36. Chan TL, Goldstein JE, Massof RW; Low Vision
+Research Network Study Group. Comparison of
+clinician-predicted to measured low vision
+outcomes. Optom Vis Sci. 2013;90(8):776-787.
+
+24. Copay AG, Subach BR, Glassman SD, Polly DW
+Jr, Schuler TC. Understanding the minimum
+clinically important difference: a review of concepts
+and methods. Spine J. 2007;7(5):541-546.
+
+(Reprinted) JAMA Ophthalmology July 2015 Volume 133, Number 7
+
+Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://archopht.jamanetwork.com/ by a Central Michigan University User on 11/02/2015
+
+769
+

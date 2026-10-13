@@ -1,0 +1,460 @@
+[page 1]
+Original Article
+Is the high contrast visual acuity chart a good predictor of improvement in
+visual acuity with low vision aids?
+Anupam Sahu, Deepshikha Agrawal1, Priyavrat Bhatia2
+Purpose: To assess whether the objective improvement seen with HCVA chart using LVAs correlates
+with subjective improvement in the quality of life as measured on low vision quality of life (LVQOL)
+questionnaire of such patients. Methods: This was a prospective, consecutive, observational study. Objective
+improvement in visual function was assessed using LVAs with high contrast LogMAR visual acuity chart
+for near and distance. Subjective improvement for distance was assessed using LVQOL score for “distance
+mobility and lighting”, whereas for near it was assessed using the LVQOL score for “near and fine work”.
+A total of 46 patients completed one follow‑up after low vision trial and were included in the study.
+Results: Improvement in objective visual acuity was highly significant for both near and distance (P < 0.001)
+with LVAs. LVQOL score improved from 65.85 to 76.83 after one of using low vision aids (P < 0.001). The
+improvement in LVQOL score for distance and mobility was also highly significant (2.55; P < 0.001); and
+so was for near and fine work (5.89; P < 0.001). However, Spearman rank correlation coefficient showed
+no correlation between improvement in visual acuity for distance and LVQOL score improvement for
+distance (rs = –.086; P = 0.57). For near also, improvement in acuity did not correlate with the LVQOL
+score improvement for near and fine work (rs = 0.036; P = 0.81). Conclusion: No statistical correlation was
+observed between the improvements measured by objective HCVA charts and subjective improved as
+perceived by the patient after use of low vision devices.
+
+Access this article online
+Website:
+www.ijo.in
+DOI:
+10.4103/ijo.IJO_2625_20
+PMID:
+*****
+Quick Response Code:
+
+Key words: Low vision aids, low vision, quality of life, visual acuity
+
+The high contrast visual acuity chart (HCVA) has been
+utilized for visual acuity measurement since the time
+Snellen described his chart in 1862.[1] There is considerable
+debate about the use of other forms of vision testing, as
+HCVA testing does not reflect the contrasts available in
+everyday life.[2‑4] This lacuna becomes even more magnified
+in visually impaired (VI) patients where contrast sensitivity
+is substantially decreased.[5,6] However, VI patients are still
+identified in the clinic based on the acuity from high contrast
+charts. The WHO working definition of low vision is also
+based on the visual acuity derived from such charts.[7] Though
+contrast sensitivity, low contrast acuity, real‑life simulations
+are done in low vision clinics, the outcome of low vision aids
+is still measured in terms of HCVA charts.
+Another method of evaluating the effectiveness of
+low vision aids is the validated Low Vision Quality Of
+Life (LVQOL) questionnaire. Wolffsohn et al. designed LVQOL
+questionnaire is an internally consistent, reliable, and fast
+method for measuring the vision‑specific quality of life of the
+visually impaired in a clinical setting. It is a validated 25 item
+questionnaire with a minimum score of 0 (low quality of life)
+and a maximum of 125 (high quality of life).[8]
+Consultant, Pediatric Ophthalmology and Strabismus Services, MGM
+Eye Institute, 1Consultant, Cornea and Anterior Segment Services,
+MGM Eye Institute, Low Vision Services, 2Ex‑DNB Trainee, MGM Eye
+Institute, Raipur, Chhattisgarh, India
+Correspondence to: Dr. Anupam Sahu, Pediatric Ophthalmology
+and Strabismus Services, Low Vision Services MGM Eye Institute,
+5th Mile, Vidhan Sabha Road, Raipur ‑ 493 111, Chhattisgarh, India.
+E‑mail: anupam@mgmeye.org
+Received: 17-Aug-2020
+Accepted: 09-Feb-2021
+
+Revision: 25-Jan-2021
+Published: 18-Jun-2021
+
+Though the LVQOL has repeatedly been shown to be
+a reliable indicator of visual outcome after low vision
+aids (LVAs), its correlation with the improvement seen in the
+HCVA chart with LVAs has not been assessed previously.[8,9]
+It is crucial, as the HCVA chart is still the main criteria to
+identify low vision patients and also to dispense low vision
+aids to them. In our study, we aim to find out whether the
+objective improvement seen with the HCVA chart using LVAs
+correlates with the subjective improvement in the quality of
+life of such patients.
+
+Methods
+The study was approved by the institutional ethics committee
+and conducted according to the principles of the declaration
+of Helsinki. This study was a prospective observational study
+carried out in Central India from July 2015 to December 2016.
+All patients referred to the Low Vision Clinic were included,
+after ruling out any treatable ocular condition. Patients
+previously using low vision aids, those having a mental
+disability or unable to understand the questionnaire, those
+with no perception of light in either eye were excluded. Written
+This is an open access journal, and articles are distributed under the terms of
+the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 License,
+which allows others to remix, tweak, and build upon the work non‑commercially,
+as long as appropriate credit is given and the new creations are licensed under
+the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+Cite this article as: Sahu A, Agrawal D, Bhatia P. Is the high contrast visual
+acuity chart a good predictor of improvement in visual acuity with low vision
+aids? Indian J Ophthalmol 2021;69:1872-5.
+
+© 2021 Indian Journal of Ophthalmology | Published by Wolters Kluwer - Medknow
+
+
+[page 2]
+July 2021
+
+1873
+
+Sahu, et al.: High contrast visual acuity in low vision patients
+
+and verbally informed consent was taken from all patients
+recruited for the study.
+This study included 48 cases. It was calculated based on
+the number of patients visiting the Low Vision Clinic of the
+institute in the past 24 months, with a 95% confidence level and
+5% margin of error. The effect size was 1.5 and a power of 80%.
+All patients were reassessed in Low vision clinic. Objective
+distance visual acuity assessment was done with high contrast
+LogMAR chart for patients who could read the English
+alphabets. High contrast Log MAR E‑chart was used for
+patients who could not read the English alphabets. Vision
+was not described as ‘count fingers’ or ‘hand movements.’
+The test distance was reduced to obtain a measure of distance
+visual acuity. Near visual acuity was assessed by high contrast
+reduced Snellen’s Chart with overhead illumination, asking the
+patient to read from a distance from which he/she is habitual
+or accustomed to reading.
+The patient was instructed to answer a questionnaire before
+the trial of low vision aids (LVAs). The questionnaire used
+was the LVQOL survey questionnaire, initially designed by
+Wolffsohn and Cochrane in the year 2000 which consists of 25
+questions to assess four areas of quality of life: (1) Mobility,
+distance vision, and lighting; (2) adjustment; (3) reading
+and fine work; and (4) activities of daily living. Based on the
+patients’ requirement trial of LVAs, both for distance and near,
+was done. Best‑corrected visual acuity (BCVA) for both distance
+and near were recorded along with the best visual acuity with
+the low vision aid accepted by the patient. Distance acuity
+was recorded with log MAR chart, and near visual acuity was
+recorded in N notation, which was converted to M notation
+for statistical calculations. All patients were asked to review
+after one and were again instructed to answer the LVQOL
+questionnaire.
+Objective improvement in visual function was assessed by
+improvement in visual acuity using LVAs with high contrast
+LogMAR visual acuity chart for near and distance. Subjective
+perception of improvement in visual function was assessed
+by LVQOL scores during the follow‑up visit. Subjective
+improvement for distance was assessed using the LVQOL score
+for “distance mobility and lighting,” whereas for near, it was
+assessed using the LVQOL score for “near and fine work.”
+Statistical analysis
+A perusal of medical records of subjects, including outpatient
+work up sheets, follow‑up sheets, and questionnaire forms
+were done. Data pertaining to demographic details and clinical
+investigations were recorded in a predesigned format, and data
+was transferred to a Microsoft Excel spreadsheet.
+Continuous variables like LogMAR visual acuity and
+LVQOL score were expressed as “mean ± standard deviation.”
+Wilcoxon signed‑rank test was used to compare baseline (before
+low vision trial) and follow‑up LVQOL scores; and also to
+compare LogMAR visual acuity for distance and M notation
+near visual acuity before and after low vision trial. Two‑tailed
+Spearman rank correlation coefficient was used to correlate
+improvement in distance visual acuity noted with HCVA chart
+with improvement in ‘distance and mobility’ score of LVQOL
+questionnaire, and similarly near visual acuity improvement
+was correlated with improvement in ‘reading and fine work’
+
+component of LVQOL questionnaire. A “P” value of 0.05 was
+considered statistically significant. Statistical analysis was done
+using the software SPSS version 16.0.
+
+Results
+A total of 48 patients were included in the study. Two were
+lost to follow‑up, so they were excluded from statistical
+calculations. Of the 46 patients, 27 were male, and 19 were
+female. The average age at presentation was 29.2 years.
+Visual acuity by HCVA chart
+The mean presenting logMAR visual acuity for distance was
+0.94 ± 0.24 (20/160), which improved to 0.46 ± 0.24 (20/50)
+after the prescription of low vision aids (P < 0.001). The
+mean presenting visual acuity for near in M notation was
+2.02 ± 1.09 (corresponds to N16 in N notation). It improved to
+0.98 ± 0.57 (N8) (P < 0.001). Near vision calculations were done
+for 45 patients as low vision aid for near was not prescribed
+for one patient [Table 1].
+LVQOL score
+The mean LVQOL score before performing the low vision trial
+was 65.85 ± 15.9. The mean score for “distance, mobility, and
+lighting” was 32.80 ± 9.03, whereas the mean score for “near and
+fine work” was 10.48 ± 4.4. After the prescription of low vision
+aids, the mean LVQOL score improved to 76.83 ± 16.3 (P < 0.001);
+whereas the mean score for “distance, mobility, and lighting
+improved to 35.35 ± 8.79 (P < 0.01) and for “near and fine work”
+improved to 16.37 ± 5.41 (P < 0.01) [Table 2].
+Correlation between improvement in visual acuity and
+LVQOL score
+Using two‑tailed Spearman rank correlation coefficient, no
+correlation was observed between improvement in visual
+acuity for distance and LVQOL score improvement for
+distance (rs = –.086; P = 0.57). For near, improvement in acuity
+did not correlate with the LVQOL score improvement for near
+and fine work (rs = 0.036; P = 0.81). [Figs. 1 and 2] Since no
+association could be shown between the variables, no further
+statistical tests were performed.
+
+Discussion
+Traditionally, low vision is defined as per the working
+definition proposed by WHO in 1992, i.e., ‘A person with low
+vision is one who has impairment of visual functioning even
+after treatment and/or standard refractive correction, and has
+a visual acuity of less than 6/18 to light perception, or a visual
+field less than 10 degrees from the point of fixation, but who
+uses, or is potentially able to use, vision for the planning and/
+or execution of a task for which vision is essential’.[7] Clinically,
+low vision patients are diagnosed applying the above definition
+to high contrast visual acuity, and then the patients are referred
+to low vision clinics. Even low vision aids are prescribed based
+Table 1: Improvement in HCVA chart visual acuity with low
+vision aids
+Without With LVA Improvement
+LVA
+Distance visual acuity 0.94±0.24 0.46±0.23
+Near visual acuity
+2.02±1.08 0.98±0.57
+
+0.48
+1.04
+
+P
+<0.001
+<0.001
+
+
+[page 3]
+1874
+
+Indian Journal of Ophthalmology
+
+Volume 69 Issue 7
+
+Table 2: Improvement in LVQOL questionnaire score with low vision aids
+Total LVQOL Score
+
+LVQOL Score For Distance, Mobility and Lighting
+
+LVQOL Score For Near And Fine Work
+
+Before LV trial
+
+65.85±15.89
+
+32.80±9.03
+
+10.48±4.40
+
+After LV trial
+
+76.83±16.29
+
+35.35±8.79
+
+16.37±5.41
+
+Improvement
+P
+
+10.98
+<0.001
+
+2.55
+<0.001
+
+5.89
+<0.001
+
+Figure 1: Scatter plot showing no statistical correlation between
+improvement in distance visual acuity and improvement in distance
+LVQOL score
+
+Figure 2: Scatter plot showing no statistical correlation between
+improvement in near visual acuity and improvement in near LVQOL
+score
+
+on the improvement in high contrast visual acuity. Other visual
+functions like contrast sensitivity, visual fields, colour vision,
+and light sensitivity are evaluated, but as yet do not play a
+significant role in management.[5,6] Little et al., in their study on
+Down’s syndrome and cerebral palsy children noted that 2.5%
+low contrast visual acuity test along with HCVA assessment
+is valuable to fully describe an individual’s visual function.[2]
+Balcer et al., noted that deficits in low contrast letter acuity and
+vision‑specific quality of life have been found many years after
+an episode of optic neuritis, even when HCVA has recovered.[3]
+Use of such low contrast acuity tests should be further explored
+in the field of low vision.
+
+Wolffson et al. showed that rehabilitation improved the LVQOL
+score of those with low vision by an average of 6.8 ± 15.6.[8] Anna
+et al. from South India, demonstrated a 4.55 point improvement
+in quality of life, from 77.77 at baseline to 82.33 points at
+follow‑up.[9] In our study, we noted a 10.97 point improvement
+in Total LVQOL score.
+
+Our study showed a statistically significant improvement
+in both distance and near visual acuity with low vision aids as
+measured objectively with the HCVA chart. Tunay et al. in their
+study on school‑age children, showed similar improvement
+for logMAR visual acuity for distance, which improved from
+1.02 (20/200) at presentation to 0.26 (20/32‑3) after low vision
+aids.[10] Similarly, for near, they noted improvement in M
+notation from 4.20 (N30) to 1.38 (N10). In another study on
+the elderly, Tunay et al. showed mean logMAR visual acuity
+for distance improved from 0.92 (20/160) to 0.24 (20/32‑2) and
+for near it improved from 4.75 (N36) to 1.44 (N12) with low
+vision aids.[11]
+De Boer et al., in their systematic review of vision‑related
+quality of life questionnaires, report that the LVQOL
+questionnaire is one of the best for use in low vision patients.[12]
+Though its use in the clinic is limited, it has been content
+validated through several studies, including in India.[8,9,13,14]
+
+However, our study also shows that while LVAs lead
+to a significant improvement in both objective measures
+of improvement in visual acuity and subjective measures
+of improvement in the quality of life, these improvements
+do not correlate with each other. That is, a patient showing
+improvement of visual acuity on HCVA charts may not show
+a similar improvement in his quality of life. Ours is the first
+study in our knowledge to compare different subsets of the
+LVQOL questionnaire with different clinical examinations
+usually done for low vision patients. In their study, Trillo
+et al. found a statistically significant correlation between total
+LVQOL scores and clinical visual measures like visual acuity at
+distance (r = –0.347; P < 0.01) and visual acuity at near (r = –0.265;
+P < 0.01). However, they did not consider different subsets of
+the LVQOL questionnaire for comparison with distance and
+near visual acuity. They instead used the final total LVQOL
+scores and visual acuities rather than improvements. In such
+a scenario, a low vision patient with better visual acuity will
+be expected to have a better quality of life.[15]
+Limitations
+Studies have shown that non‑visual variables, such as physical
+and mental health, may affect the outcomes of vision‑related
+questionnaires in low vision patients. However, such studies
+
+
+[page 4]
+July 2021
+
+Sahu, et al.: High contrast visual acuity in low vision patients
+
+have usually taken the total LVQOL score rather than the
+subsets, which may skew the outcomes.[15] Assessment of
+physical and mental health of the patient were out of the scope
+of present study.
+
+Conclusion
+Our study has shown that low vision devices lead to significant
+improvement in both the high contrast visual acuity as assessed
+by logMAR chart and the quality of life as assessed by LVQOL
+questionnaire amongst low vision patients.
+However, no association was observed between the
+improvement measured by objective measures on HCVA
+chart and subjective improvement as perceived by the patient
+after the use of low vision devices in our study. This lack of
+correlation suggests a lacuna in our clinical examination of low
+vision patients. While questionnaires may not be practical in
+all low vision clinics, a different set of objective visual acuity
+assessments, which correlate with the outcome expected by the
+patient, may be needed. A low vision person able to read off
+our charts, should not be our aim; low vision patient actually
+benefitting out of the devices, should.
+Acknowledgements
+Dr. Pradip Kumar Chourasia has helped us with entire
+statistical analysis.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+
+References
+
+1875
+
+Invest Ophthalmol Vis Sci 2013;54:251‑7.
+3.
+
+Balcer LJ, Raynowska J, Nolan R, Galetta SL, Kapoor R, Benedict R,
+et al. Validity of low‑contrast letter acuity as a visual performance
+outcome measure for multiple sclerosis. Mult Scler 2017;23:734‑47.
+
+4.
+
+Duggan E, Donoghue O, Kenny RA, Cronin H, Loughman J,
+Finucane C. Time to refocus assessment of vision in older adults?
+Contrast sensitivity but not visual acuity is associated with gait in
+older adults. J Gerontol A Biol Sci Med Sci 2017;72:1663‑8.
+
+5.
+
+Jin CJ, Wu DZ, Wu L. The contrast sensitivity function in low
+vision. Yan Ke Xue Bao 1992;8:45‑8.
+
+6.
+
+Hyvärinen L. Contrast sensitivity in visually impaired children.
+Acta Ophthalmol Suppl 1983;157:58‑62.
+
+7.
+
+WHO | Priority eye diseases [Internet]. WHO [Last cited on 2019
+Mar 09]; Available from: http://www.who.int/blindness/causes
+/priority/en/.
+
+8.
+
+Wolffsohn JS, Cochrane AL. Design of the low vision quality‑of‑life
+questionnaire (LVQOL) and measuring the outcome of low‑vision
+rehabilitation. Am J Ophthalmol 2000;130:793‑802.
+
+9.
+
+Do AT, Ilango K, Ramasamy D, Kalidasan S, Balakrishnan V,
+Chang RT. Effectiveness of low vision services in improving
+patient quality of life at Aravind eye hospital. Indian J Ophthalmol
+2014;62:1125‑31.
+
+10. Özen Tunay Z, Çalışkan D, İdil A, Öztuna D. Clinical characteristics
+and low vision rehabilitation methods for partially sighted
+school‑age children. Turk J Ophthalmol 2016;46:68‑72.
+11. Özen Tunay Z, İdil A, Seza Petriçli İ, Özdemir Ö. Low vision
+rehabilitation in older adults. Turk J Ophthalmol 2016;46:118‑22.
+12. de Boer MR, Moll AC, de Vet HCW, Terwee CB, Völker‑Dieben HJM,
+van Rens GHMB. Psychometric properties of vision‑related quality
+of life questionnaires: A systematic review. Ophthalmic Physiol
+Opt 2004;24:257‑73.
+13. Zou H, Zhang X, Xu X, Bai L, Wolffsohn JS. Development and
+psychometric tests of the Chinese‑version low vision quality of
+life questionnaire. Qual Life Res 2005;14:1633‑9.
+
+1.
+
+Bailey IL, Lovie‑Kitchin JE. Visual acuity testing. From the
+laboratory to the clinic. Vision Res 2013;90:2‑9.
+
+14. Yingyong P. Evaluation of the Thai, Low vision quality‑of‑life
+questionnaire (LVQOL). J Med Assoc Thai 2007;90:2658‑61.
+
+2.
+
+Little J‑A, McCullough S, McClelland J, Jackson AJ, Saunders KJ.
+Low‑contrast acuity measurement: Does it add value in the visual
+assessment of down syndrome and cerebral palsy populations?
+
+15. Trillo AH, Dickinson CM. The impact of visual and nonvisual
+factors on quality of life and adaptation in adults with visual
+impairment. Invest Ophthalmol Vis Sci 2012;53:4234‑41.
+
