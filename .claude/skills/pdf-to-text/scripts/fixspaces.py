@@ -162,11 +162,11 @@ class Splitter:
             return None
         # A real word ("baseline", "lifespan") stays unless the split is far likelier, but
         # repeated glue ("ofthe" x 30) still loses to its common pieces. Running headers
-        # repeat glue many times, so a run with a capital or a common word inside
-        # ("UnilateralVisualImpairmentandMortality") is never taken for one rare word.
+        # repeat glue many times, so a run with a capital inside, or 3+ pieces including a
+        # common word ("UnilateralVisualImpairmentandMortality"), is never one rare word.
         n = self.counts[run.lower()]
         inner = any(x[-1].islower() and y[0].isupper() for x, y in zip(pieces, pieces[1:])) \
-            or any(p.lower() in COMMON for p in pieces)
+            or len(pieces) >= 3 and any(p.lower() in COMMON for p in pieces)
         if self.in_dictionary(run.lower()) or (not inner and (n >= 5 or n >= 2 and len(pieces) == 2)):
             if cost >= math.log(self.total / max(n, 0.5)) + 1.0:
                 return None
