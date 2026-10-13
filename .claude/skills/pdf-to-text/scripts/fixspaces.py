@@ -69,8 +69,10 @@ class Splitter:
         """-log(probability) of a piece (original case), or None if it can't be a piece."""
         w = piece.lower()
         if len(w) <= 3:
-            # Short pieces: common words, or acronyms seen standalone often ("VA", "PRL").
+            # Short pieces: common words, frequent lowercase words ("raw"), or acronyms
+            # seen standalone often ("VA", "PRL").
             ok = (w in COMMON and (len(w) > 1 or w == "a")) or \
+                 (len(w) == 3 and piece.islower() and self.counts[w] >= 20) or \
                  (len(w) > 1 and piece.isupper() and self.exact[piece] >= 3)
         else:
             ok = w in self.system or self.counts[w] >= 2
@@ -120,7 +122,7 @@ class Splitter:
         common = sum(p in COMMON for p in low)
         if common == len(pieces):            # "ofthe", "andthe"; not names like "Anand", "Arean"
             return run.islower()
-        if len(run) / len(pieces) < 4:       # stops "Tornando" -> "Torn an do"
+        if len(run) / len(pieces) < (3.3 if len(pieces) >= 4 else 4):   # not "Tornando" -> "Torn an do"
             return False
         # Lowercase then capital ("visionControl", "aHealthier"), or a surname glued to its
         # initials ("MassofRW"). Title+Title ("VectorVision") is often a brand name, so it
@@ -128,8 +130,10 @@ class Splitter:
         if len(pieces) <= 3 and (pieces[0][0].islower() and not pieces[-1].islower()
                                  or pieces[-1].isupper() and len(pieces[-1]) <= 3 and pieces[0][0].isupper()):
             return True
-        if len(pieces) >= 3:                 # PDFKit-style runs: "Weanalyzeddatafrom"
-            return pairs_seen or 2 * common >= len(pieces)
+        if len(pieces) >= 4:                 # PDFKit-style runs: "Whenthesecondpartisused"
+            return True
+        if len(pieces) == 3:                 # "TheQualitativeReport", "datafromthe"
+            return pairs_seen or common >= 2 or all(p[0].isupper() for p in pieces)
         # Two words: only if they also appear side by side elsewhere ("pilot trial",
         # "injury-related"). Keeps surnames ("Rosenstein") and compounds ("Bluetooth") intact.
         return pairs_seen
@@ -167,7 +171,11 @@ class Splitter:
         n = self.counts[run.lower()]
         inner = any(x[-1].islower() and y[0].isupper() for x, y in zip(pieces, pieces[1:])) \
             or len(pieces) >= 3 and any(p.lower() in COMMON for p in pieces)
-        if self.in_dictionary(run.lower()) or (not inner and (n >= 5 or n >= 2 and len(pieces) == 2)):
+        # Two words count as one if they're glued at least as often as spaced out:
+        # "endpoint" (8 vs 5) stays, "diabetesmellitus" (2 vs 22) is split.
+        pair = self.pairs[tuple(p.lower() for p in pieces)] if len(pieces) == 2 else 0
+        if self.in_dictionary(run.lower()) or \
+           (not inner and (n >= 5 and len(pieces) > 2 or n >= max(2, pair) and len(pieces) == 2)):
             if cost >= math.log(self.total / max(n, 0.5)) + 1.0:
                 return None
         return pieces
