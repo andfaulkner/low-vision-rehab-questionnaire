@@ -1,13 +1,18 @@
 """Re-insert spaces that PDF text extraction dropped ("Weanalyzeddatafrom385adults").
 
-Usage: python3 -I fixspaces.py [--lexicon FILE ...] TXT...
-Edits each TXT in place and prints "fixes<TAB>words<TAB>path" per file.
+Usage: python3 -I fixspaces.py [--files-from LIST] [--lexicon PATH ...] [--dry-run] [TXT ...]
+  --files-from LIST  NUL-separated list of text files to fix (as well as any TXT args)
+  --lexicon PATH     extra text file, or folder of .txt files, to learn words from
+  --dry-run          print each change instead of editing the files
+Edits each file in place and prints "fixes<TAB>left<TAB>words<TAB>path" per file, where
+"left" counts letter runs of 20+ characters that still look like run-together words.
 
-Word frequencies come from the text files themselves (plus any --lexicon files and
-the system word list), so domain terms like "logMAR" or "VA" are known words.
-A run of letters is only split when every piece is a known word and the split is
-far more likely than the run being one word, so normal text is left alone.
+Word frequencies come from the text files themselves (plus the lexicon and the
+system word list), so domain terms like "logMAR" or "VA" are known words. A run of
+letters is only split when every piece is a known word and there is evidence the run
+is glue (e.g. the same words appear side by side elsewhere), so normal text is left alone.
 """
+import argparse
 import math
 import re
 import sys
@@ -28,14 +33,15 @@ neuro oculo opto para peri photo poly pseudo psycho quasi retro semi socio super
 uni visuo""".split())
 
 # Word endings that are never words of their own ("charcaterisation" -> "... is ation").
-SUFFIX_PIECES = set("""ability able ably ally ation ations ement ible ings ism ist ists ities
-ity ive ized ised izing ising less ment ments ness ology tion tions""".split())
+# "able" is a word only after a common one ("wereable" -> "were able").
+SUFFIX_PIECES = set("""ably ally ation ations ement ible ings ism ist ists ities ity ive ized
+ised izing ising less ment ments ness ology tion tions""".split())
 
 LETTERS = r"[^\W\d_]+"   # unicode letters, so "Rodríguez" stays one word
-WORD = re.compile(LETTERS)
 # Whitespace-separated tokens to leave alone: URLs, paths, emails, DOIs, dot leaders.
-SKIP = re.compile(r"://|www\.|@|/|doi|\.\.\.|^[\W\d_]*$|\b10\.\d{4}"
-                  r"|\w\.(com|org|net|edu|gov|int|io|ca|uk|au|br|de|fr|es|it|nl)\b", re.I)
+# A single "/" is fine (Snellen "20/200"); two or more is a path.
+SKIP = re.compile(r"://|www\.|@|/.*/|\bdoi[:.]|\b10\.\d{4,}/|\.\.\.|^[\W\d_]*$"
+                  r"|[a-z]\.(com|org|net|edu|gov|int|io)\b|[a-z]\.(ca|uk|au|br|de|fr|es|it|nl)(/|$)", re.I)
 # Missing space after punctuation between words: "Prospective,observational",
 # "services.From". Not "e.g.", "index.html", "U.S.A" or "1,000".
 PUNCT = re.compile(r"(?<=[^\W\d_]{3})[,;:](?=[^\W\d_]{3})|(?<=[a-z]{3})\.(?=[A-Z][a-z]{2})")
@@ -47,7 +53,7 @@ SUFFIXES = [("ies", "y"), ("es", ""), ("s", ""), ("ed", ""), ("ed", "e"), ("ing"
 def load_system_words():
     for path in ("/usr/share/dict/words", "/usr/share/dict/web2"):
         try:
-            return {w.lower() for w in Path(path).read_text(errors="ignore").split() if len(w) >= 4}
+            return {w.lower() for w in Path(path).read_text(errors="ignore").split() if len(w) >= 3}
         except OSError:
             pass
     return set()
@@ -76,7 +82,7 @@ class Splitter:
             # Short pieces: common words, frequent lowercase words ("raw"), or acronyms
             # seen standalone often ("VA", "PRL").
             ok = (w in COMMON and (len(w) > 1 or w == "a")) or \
-                 (len(w) == 3 and piece.islower() and self.counts[w] >= 20) or \
+                 (len(w) == 3 and not piece.isupper() and self.counts[w] >= 20 and w in self.system) or \
                  (len(w) > 1 and piece.isupper() and self.exact[piece] >= 3)
         else:
             ok = w in self.system or self.counts[w] >= 2
@@ -118,8 +124,10 @@ class Splitter:
         low = [p.lower() for p in pieces]
         if len(pieces) < 2 or low[-1] == "a":   # names often end in "a": "Suzana" is not "Suzan a"
             return False
-        if len(pieces) == 2 and low[0] in PREFIXES or any(p in SUFFIX_PIECES for p in low[1:]):
-            return False
+        if len(pieces) == 2 and low[0] in PREFIXES or any(p in SUFFIX_PIECES for p in low[1:]) \
+                or any(y == "able" and x not in COMMON for x, y in zip(low, low[1:])) \
+                or any(y == "is" and z == "able" and x not in COMMON for x, y, z in zip(low, low[1:], low[2:])):
+            return False   # "customisable" is not "custom is able"
         # Pairs with a short common word ("program as") need more evidence than other pairs.
         pairs_seen = any(self.pairs[(x, y)] >= (3 if min(len(x), len(y)) <= 3 else 1)
                          for x, y in zip(low, low[1:]))
@@ -137,7 +145,11 @@ class Splitter:
         if len(pieces) >= 4:                 # PDFKit-style runs: "Whenthesecondpartisused"
             return True
         if len(pieces) == 3:                 # "TheQualitativeReport", "datafromthe"
-            return pairs_seen or common >= 2 or all(p[0].isupper() for p in pieces)
+            return pairs_seen or common >= 2 or all(p[0].isupper() for p in pieces) \
+                or common and len(run) >= 20
+        # Two long, frequent words: "rehabilitationinterviews".
+        if len(run) >= 18 and all(len(p) >= 6 and self.counts[p] >= 10 for p in low):
+            return True
         # Two words: only if they also appear side by side elsewhere ("pilot trial",
         # "injury-related"). Keeps surnames ("Rosenstein") and compounds ("Bluetooth") intact.
         return pairs_seen
@@ -175,11 +187,11 @@ class Splitter:
         n = self.counts[run.lower()]
         inner = any(x[-1].islower() and y[0].isupper() for x, y in zip(pieces, pieces[1:])) \
             or len(pieces) >= 3 and any(p.lower() in COMMON for p in pieces)
-        # Two words count as one if they're often glued ("healthcare") or glued at least as
-        # often as spaced out: "endpoint" (8 vs 5) stays, "diabetesmellitus" (2 vs 22) is split.
+        # Two words count as one if glued at least a quarter as often as spaced out:
+        # "healthcare" (81 vs 121) and "endpoint" stay; "visualacuity" (5 vs 2174) is split.
         pair = self.pairs[tuple(p.lower() for p in pieces)] if len(pieces) == 2 else 0
         if self.in_dictionary(run.lower()) or \
-           (not inner and (n >= 5 or n >= max(2, pair) and len(pieces) == 2)):
+           (not inner and (n >= 5 and len(pieces) > 2 or n >= 2 and 4 * n >= pair and len(pieces) == 2)):
             if cost >= math.log(self.total / max(n, 0.5)) + 1.0:
                 return None
         return pieces
@@ -211,19 +223,24 @@ class Splitter:
 
 
 def main(argv):
-    lex, files, dry = [], [], False
-    i = 0
-    while i < len(argv):
-        if argv[i] == "--lexicon":
-            lex.append(argv[i + 1])
-            i += 1
-        elif argv[i] == "--dry-run":   # print each change instead of editing files
-            dry = True
-        else:
-            files.append(argv[i])
-        i += 1
+    ap = argparse.ArgumentParser(add_help=False)
+    ap.add_argument("files", nargs="*")
+    ap.add_argument("--files-from")
+    ap.add_argument("--lexicon", action="append", default=[])
+    ap.add_argument("--dry-run", action="store_true")
+    args = ap.parse_args(argv)
+    files = list(args.files)
+    if args.files_from:
+        files += [f for f in Path(args.files_from).read_text().split("\0") if f]
     texts = {f: Path(f).read_text(errors="ignore") for f in files}
-    extra = [Path(f).read_text(errors="ignore") for f in lex if f not in texts]
+    # Don't count a file twice (as a file to fix and as part of the lexicon): its glue
+    # would then look like a word that recurs.
+    seen, extra = {Path(f).resolve() for f in texts}, []
+    for lex in args.lexicon:
+        for q in sorted(Path(lex).glob("*.txt")) if Path(lex).is_dir() else [Path(lex)]:
+            if q.is_file() and q.resolve() not in seen:
+                seen.add(q.resolve())
+                extra.append(q.read_text(errors="ignore"))
     sp = Splitter(list(texts.values()) + extra)
     for f, text in texts.items():
         fixes = 0
@@ -231,15 +248,16 @@ def main(argv):
         def repl(m):
             nonlocal fixes
             new, n = sp.fix_token(m.group())
-            if n and dry:
+            if n and args.dry_run:
                 print(f"  {m.group()}  ->  {new}")
             fixes += n
             return new
 
         fixed = re.sub(r"\S{5,}", repl, text)
-        if fixes and not dry:
+        if fixes and not args.dry_run:
             Path(f).write_text(fixed)
-        print(f"{fixes}\t{len(text.split())}\t{f}")
+        left = sum(1 for w in re.findall(r"[^\W\d_]{20,}", fixed) if not sp.in_dictionary(w.lower()))
+        print(f"{fixes}\t{left}\t{len(text.split())}\t{f}")
 
 
 if __name__ == "__main__":
