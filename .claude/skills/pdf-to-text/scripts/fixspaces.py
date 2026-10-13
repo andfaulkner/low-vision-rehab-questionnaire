@@ -27,6 +27,10 @@ PREFIXES = set("""anti auto bio electro hemi hyper hypo inter intra macro micro 
 neuro oculo opto para peri photo poly pseudo psycho quasi retro semi socio super tele ultra
 uni visuo""".split())
 
+# Word endings that are never words of their own ("charcaterisation" -> "... is ation").
+SUFFIX_PIECES = set("""ability able ably ally ation ations ement ible ings ism ist ists ities
+ity ive ized ised izing ising less ment ments ness ology tion tions""".split())
+
 LETTERS = r"[^\W\d_]+"   # unicode letters, so "Rodríguez" stays one word
 WORD = re.compile(LETTERS)
 # Whitespace-separated tokens to leave alone: URLs, paths, emails, DOIs, dot leaders.
@@ -114,7 +118,7 @@ class Splitter:
         low = [p.lower() for p in pieces]
         if len(pieces) < 2 or low[-1] == "a":   # names often end in "a": "Suzana" is not "Suzan a"
             return False
-        if len(pieces) == 2 and low[0] in PREFIXES:
+        if len(pieces) == 2 and low[0] in PREFIXES or any(p in SUFFIX_PIECES for p in low[1:]):
             return False
         # Pairs with a short common word ("program as") need more evidence than other pairs.
         pairs_seen = any(self.pairs[(x, y)] >= (3 if min(len(x), len(y)) <= 3 else 1)
@@ -171,11 +175,11 @@ class Splitter:
         n = self.counts[run.lower()]
         inner = any(x[-1].islower() and y[0].isupper() for x, y in zip(pieces, pieces[1:])) \
             or len(pieces) >= 3 and any(p.lower() in COMMON for p in pieces)
-        # Two words count as one if they're glued at least as often as spaced out:
-        # "endpoint" (8 vs 5) stays, "diabetesmellitus" (2 vs 22) is split.
+        # Two words count as one if they're often glued ("healthcare") or glued at least as
+        # often as spaced out: "endpoint" (8 vs 5) stays, "diabetesmellitus" (2 vs 22) is split.
         pair = self.pairs[tuple(p.lower() for p in pieces)] if len(pieces) == 2 else 0
         if self.in_dictionary(run.lower()) or \
-           (not inner and (n >= 5 and len(pieces) > 2 or n >= max(2, pair) and len(pieces) == 2)):
+           (not inner and (n >= 5 or n >= max(2, pair) and len(pieces) == 2)):
             if cost >= math.log(self.total / max(n, 0.5)) + 1.0:
                 return None
         return pieces
