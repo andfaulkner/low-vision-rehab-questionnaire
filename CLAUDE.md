@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-There is no code here. This is the data folder for a systematic literature review: title/abstract and full-text screening of studies on **self-report questionnaires and screening items for low vision rehabilitation (LVR)**. It has no build, lint or test steps, and it is not a git repository.
+There is no code here. This is the data folder for a systematic literature review: title/abstract and full-text screening of studies on **self-report questionnaires and screening items for low vision rehabilitation (LVR)**. It has no build, lint or test steps, and it is a git repository pushed to the private GitHub repo `andfaulkner/low-vision-rehab-questionnaire`. Commits and pushes use the `andfaulkner` account through a repo-local identity and credential helper, not the active `gh` account.
 
 - `data/LVR_screening_sheet_2.xlsx` is the **source of truth**: a screening workbook with formulas and drop-down validation.
 - `data/LVR_screening_sheet_2_<Sheet>.csv` are flat exports of each tab, one file per tab, for easy reading. They are snapshots: formulas are flattened to their cached values, and they go out of date whenever the xlsx changes. Regenerate them rather than editing them.
