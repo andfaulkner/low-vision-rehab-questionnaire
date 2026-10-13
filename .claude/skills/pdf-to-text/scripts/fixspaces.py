@@ -78,13 +78,17 @@ class Splitter:
             return None
         return math.log(self.total / max(self.counts[w], 0.5)) + 1.0   # +1 per piece favours fewer pieces
 
-    def segment(self, run):
-        """Cheapest split of a run into 2+ valid pieces: (cost, pieces) or (inf, None)."""
+    def segment(self, run, fragments=False):
+        """Cheapest split of a run into 2+ valid pieces: (cost, pieces) or (inf, None).
+        With fragments, the first and last piece may also be part of a word cut off at a
+        line-break hyphen ("isons" + "should be interpreted cautiously")."""
         n = len(run)
         best = [(0.0, 0)] + [(math.inf, 0)] * n
         for end in range(1, n + 1):
             for start in range(max(0, end - self.maxlen, 1 if end == n else 0), end):
                 c = self.cost(run[start:end])
+                if c is None and fragments and (start == 0 or end == n) and end - start <= 10:
+                    c = 30.0
                 if c is not None and best[start][0] + c < best[end][0]:
                     best[end] = (best[start][0] + c, start)
         if best[n][0] == math.inf:
@@ -130,27 +134,43 @@ class Splitter:
         # "injury-related"). Keeps surnames ("Rosenstein") and compounds ("Bluetooth") intact.
         return pairs_seen
 
-    def split(self, run):
+    def split(self, run, top=True):
         """Pieces to replace a letter run with, or None to leave it as is."""
-        if run not in self.cache:
-            self.cache[run] = None   # guards the recursion below
-            cost, pieces = self.segment(run)
-            result = None
+        key = (run, top)
+        if key in self.cache:
+            return self.cache[key]
+        self.cache[key] = None   # guards the recursion below
+        result = self.try_split(run, self.segment(run))
+        if result is None and top and len(run) >= 15:
+            cost, pieces = self.segment(run, fragments=True)
             if pieces:
-                # Pieces can be glue that recurs elsewhere ("and" + "visualinformationprocessing").
-                pieces = [q for p in pieces for q in (self.split(p) if len(p) >= 5 else None) or [p]]
-            if pieces and self.plausible(run, pieces):
-                # A real word ("baseline", "lifespan") stays unless the split is far likelier;
-                # repeated glue ("ofthe" x 30) still loses to its common pieces. Glue of 3+
-                # words that recurs a few times (page headers) doesn't count as a word.
-                n = self.counts[run.lower()]
-                whole = math.log(self.total / max(n, 0.5)) + 1.0 \
-                    if self.in_dictionary(run.lower()) or n >= 5 or (n >= 2 and len(pieces) == 2) \
-                    else math.inf
-                if cost < whole:
+                words = [p for i, p in enumerate(pieces)
+                         if not (i in (0, len(pieces) - 1) and self.cost(p) is None)]
+                # Fragments need strong evidence: 3+ real words that are plausible on their own.
+                if len(words) >= 3 and self.try_split("".join(words), (cost, words)):
                     result = pieces
-            self.cache[run] = result
-        return self.cache[run]
+        self.cache[key] = result
+        return result
+
+    def try_split(self, run, segmentation):
+        cost, pieces = segmentation
+        if not pieces:
+            return None
+        # Pieces can be glue that recurs elsewhere ("and" + "visualinformationprocessing").
+        pieces = [q for p in pieces for q in (self.split(p, False) if len(p) >= 5 else None) or [p]]
+        if not self.plausible(run, pieces):
+            return None
+        # A real word ("baseline", "lifespan") stays unless the split is far likelier, but
+        # repeated glue ("ofthe" x 30) still loses to its common pieces. Running headers
+        # repeat glue many times, so a run with a capital or a common word inside
+        # ("UnilateralVisualImpairmentandMortality") is never taken for one rare word.
+        n = self.counts[run.lower()]
+        inner = any(x[-1].islower() and y[0].isupper() for x, y in zip(pieces, pieces[1:])) \
+            or any(p.lower() in COMMON for p in pieces)
+        if self.in_dictionary(run.lower()) or (not inner and (n >= 5 or n >= 2 and len(pieces) == 2)):
+            if cost >= math.log(self.total / max(n, 0.5)) + 1.0:
+                return None
+        return pieces
 
     def fix_token(self, tok):
         """Return (fixed token, number of words split out)."""
