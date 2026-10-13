@@ -82,7 +82,7 @@ One agent sees the step-2 summaries of all survivors and keeps the 30 most relev
 
 - **Strict decision (AI):** `Include` or `Exclude`.
 - **Strict rationale (AI):** 1–3 sentences that give the step the decision was made at (Step 1, 2 or 3), the instrument (if any), the evidence type, and the specific reason. They also say whether the full text or only the abstract was used.
-- **Article link:** for each Include, a link to the article: the DOI link, or a PubMed title search for the two records that have no DOI (65 and 93). It is blank for every Exclude.
+- **Article link:** for each Include, a link to the article: the DOI link, or for the two records that have no DOI, the PubMed record (65, PMID 12202503) or the NCBI Bookshelf report (93, NBK35192). It is blank for every Exclude.
 
 ## Outcome of the run on 13 Oct 2026
 
