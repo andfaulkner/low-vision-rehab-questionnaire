@@ -1,6 +1,6 @@
 # AI title/abstract screening rules
 
-These are the calibrated rules used to produce the AI columns Q and R on the Screening tab of `data/LVR_screening_sheet_2.xlsx`: "Independent T/A decision (AI)" and "Independent rationale (AI)". They apply the criteria in the Instructions tab and `data/LVR_Q_Study_Outline.md`, and add tie-breakers so that every record is judged on the same threshold.
+These are the calibrated rules used to produce the AI columns Q–S on the Screening tab of `data/LVR_screening_sheet_2.xlsx`: "Independent T/A decision (AI)", "Independent exclusion reason (AI)" and "Independent rationale (AI)". They apply the criteria in the Instructions tab and `data/LVR_Q_Study_Outline.md`, and add tie-breakers so that every record is judged on the same threshold.
 
 Like columns N–P, these decisions are advisory only. They are not the reviewer's decisions, and the review's methods must report that AI assistance was used.
 
