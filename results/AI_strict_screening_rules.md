@@ -92,7 +92,7 @@ One agent sees the step-2 summaries of all survivors and keeps the 30 most relev
 
 ## Key sources added by hand
 
-Eight of the key sources in `data/LVR_Q_Study_Outline.md` were not found by the PubMed and Scopus searches, so they were not among the 127 records. They were added to the results as records 128–135, below the 29 screened includes, and marked Include **without being screened**. Their "Strict rationale (AI)" says so. They were not added to the screening workbook (`data/LVR_screening_sheet_2.xlsx`), so its Counts tab and PRISMA numbers do not include them.
+Eight of the key sources in `data/LVR_Q_Study_Outline.md` were not found by the PubMed and Scopus searches, so they were not among the 127 records. They were added to the results as records 128–135, below the 29 screened includes, and marked Include **without being screened**. Their "Strict rationale (AI)" says so. They were also added to the screening workbook (`data/LVR_screening_sheet_2.xlsx`) as rows 129–136, with the reviewer columns left blank for screening. They are counted on its Counts tab as "Records identified – other sources" (8). That brings the total identified to 174 and records screened to 135, while duplicates removed stays at 39.
 
 | ID | Source |
 |---|---|
