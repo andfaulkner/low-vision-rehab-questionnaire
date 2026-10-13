@@ -14,14 +14,16 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-COMMON = """a about after all also an and any are as at be been between both but by can
-could did do does each either for from had has have he her his how i if in into is it
-its may more most no not of on one only or other our out over per she so some such than
-that the their them then there these they this those through to two under up use used
-using was we were what when where which while who whom why will with within without
-would you your""".split()
+# Short words allowed as pieces of a split. Other 1-3 letter pieces are rejected, which
+# stops names and foreign words being chopped into fragments ("Barbazetto" -> "Barb az et to").
+COMMON = set("""a act add age aid aim all an and any are as ask at bad be big but by can car
+day did do due end eye far few for get go had has he her him his how i if in is it its key
+low man may me men my net new no nor not now of off old on one or our out own per put red
+run say see set sex she six so sum ten the too top try two up us use via was way we who why
+yes yet you""".split())
 
-WORD = re.compile(r"[A-Za-z]+")
+LETTERS = r"[^\W\d_]+"   # unicode letters, so "Rodríguez" stays one word
+WORD = re.compile(LETTERS)
 # Whitespace-separated tokens to leave alone: URLs, emails, DOIs, dot leaders.
 SKIP = re.compile(r"://|www\.|@|doi|\.\.\.|^[\W\d_]*$", re.I)
 
@@ -37,37 +39,39 @@ def load_system_words():
 
 class Splitter:
     def __init__(self, texts):
-        self.counts = Counter(w.lower() for t in texts for w in WORD.findall(t))
+        words = [w for t in texts for w in WORD.findall(t)]
+        self.exact = Counter(words)
+        self.counts = Counter(w.lower() for w in words)
         self.total = sum(self.counts.values()) or 1
         self.system = load_system_words()
-        self.common = set(COMMON)
         self.maxlen = 30
         self.cache = {}
 
     def known(self, w):
-        return w in self.system or w in self.common or self.counts[w] >= 3
+        return w in self.system or w in COMMON or self.counts[w] >= 2
 
-    def cost(self, w):
-        """-log(probability) of w as a piece, or None if w can't be a piece."""
-        n = self.counts[w]
-        if len(w) == 1 and w not in ("a", "i"):
+    def cost(self, piece):
+        """-log(probability) of a piece (original case), or None if it can't be a piece."""
+        w = piece.lower()
+        if len(w) <= 3:
+            # Short pieces: common words, or acronyms seen standalone often ("VA", "PRL").
+            ok = (w in COMMON and (len(w) > 1 or w == "a")) or \
+                 (len(w) > 1 and piece.isupper() and self.exact[piece] >= 3)
+        else:
+            ok = w in self.system or self.counts[w] >= 2
+        if not ok:
             return None
-        if len(w) <= 3 and w not in self.common and n < 3:
-            return None   # keep junk like "ae", "nds" out of splits
-        if n < 2 and w not in self.common and w not in self.system:
-            return None
-        return math.log(self.total / max(n, 0.5)) + 1.0   # +1 per piece favours fewer pieces
+        return math.log(self.total / max(self.counts[w], 0.5)) + 1.0   # +1 per piece favours fewer pieces
 
     def split(self, run):
         """Best segmentation of a letter run, or None to leave it as is."""
-        key = run.lower()
-        if key in self.cache:
-            return self.cache[key]
-        n = len(key)
+        if run in self.cache:
+            return self.cache[run]
+        n = len(run)
         best = [(0.0, 0)] + [(math.inf, 0)] * n
         for end in range(1, n + 1):
             for start in range(max(0, end - self.maxlen), end):
-                c = self.cost(key[start:end])
+                c = self.cost(run[start:end])
                 if c is not None and best[start][0] + c < best[end][0]:
                     best[end] = (best[start][0] + c, start)
         result = None
@@ -78,10 +82,18 @@ class Splitter:
                 pieces.append(run[start:end])
                 end = start
             pieces.reverse()
-            whole = self.cost(key) if self.known(key) else None
-            if len(pieces) > 1 and (whole is None or best[n][0] < whole):
+            key = run.lower()
+            whole = math.log(self.total / self.counts[key]) + 1.0 if self.known(key) and self.counts[key] else None
+            plausible = (
+                len(pieces) > 1
+                and pieces[-1].lower() != "a"   # names often end in "a": "Suzana" is not "Suzan a"
+                # Unless every piece is a common word ("ofthe"), pieces must be long on average,
+                # so foreign words aren't split into short English ones ("Tornando" -> "Torn an do").
+                and (all(p.lower() in COMMON for p in pieces) or n / len(pieces) >= 4)
+            )
+            if plausible and (whole is None if self.known(key) is False else whole is not None and best[n][0] < whole):
                 result = pieces
-        self.cache[key] = result
+        self.cache[run] = result
         return result
 
     def fix_token(self, tok):
@@ -89,7 +101,7 @@ class Splitter:
         if SKIP.search(tok):
             return tok, 0
         parts, fixes = [], 0
-        for m in re.finditer(r"[A-Za-z]+|\d+(?:\.\d+)*|[^A-Za-z\d]+", tok):
+        for m in re.finditer(LETTERS + r"|\d+(?:\.\d+)*|[\W_]+", tok):
             s = m.group()
             pieces = self.split(s) if s[0].isalpha() and len(s) >= 5 else None
             if pieces:
@@ -103,9 +115,9 @@ class Splitter:
         out = parts[0]
         for prev, cur in zip(parts, parts[1:]):
             a, b = prev[-1], cur[0]
-            if (a.isalpha() and len(prev) > 2 and cur.isdigit()) or \
+            if (a.isalpha() and len(prev) > 2 and cur[0].isdigit()) or \
                (a.isdigit() and b.isalpha() and len(cur) > 2) or \
-               (a in ".,;:" and b.isalpha() and prev[:-1][-2:].isalpha()):
+               (a in ".,;:" and len(prev) == 1 and b.isalpha() and out[-2:].isalpha()):
                 out += " "
             out += cur
         return out, fixes
