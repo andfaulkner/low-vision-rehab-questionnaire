@@ -1,0 +1,29 @@
+statistic,value
+stage,ta
+rater_a,Title/abstract decision
+rater_b,Suggested decision (AI)
+maybe_as,include
+n_paired,40
+n_unpaired_a,0
+n_unpaired_b,95
+count_a_Include,4
+count_b_Include,6
+count_a_Exclude,27
+count_b_Exclude,29
+count_a_Maybe,9
+count_b_Maybe,5
+po,0.7500
+pe,0.5787
+kappa,0.4065
+se,0.1555
+ci_low,0.1018
+ci_high,0.7112
+pabak,0.5000
+prevalence_index,-0.4000
+bias_index,0.0500
+b_recall_of_a_pos,0.5385
+b_specificity_vs_a,0.8519
+specific_agreement_Include,0.5833
+specific_agreement_Exclude,0.8214
+n_disagreements,10
+same_reason_when_both_exclude,9/23

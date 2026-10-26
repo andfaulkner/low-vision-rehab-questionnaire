@@ -1,0 +1,137 @@
+{
+  "by_times_linked": {
+    "2": 32,
+    "3": 3,
+    "5": 1
+  },
+  "cache_hits": 0,
+  "candidates_total": 516,
+  "date": "2026-10-26",
+  "direction": "backward",
+  "duplicates_of_screening": 9,
+  "min_links": 2,
+  "requests_made": 30,
+  "screening_rows": 135,
+  "seeds": [
+    {
+      "backward": 33,
+      "doi": "10.3109/09286586.2012.712192",
+      "forward": 0,
+      "label": "5",
+      "openalex_id": "https://openalex.org/W1970055556",
+      "pmid": "22978532",
+      "source": "openalex"
+    },
+    {
+      "backward": 38,
+      "doi": "10.1001/jamaophthalmol.2015.0693",
+      "forward": 0,
+      "label": "18",
+      "openalex_id": "https://openalex.org/W1983025577",
+      "pmid": "25856370",
+      "source": "openalex"
+    },
+    {
+      "backward": 14,
+      "doi": "10.4274/tjo.galenos.2018.65928",
+      "forward": 0,
+      "label": "20",
+      "openalex_id": "https://openalex.org/W2943698396",
+      "pmid": "31055894",
+      "source": "openalex"
+    },
+    {
+      "backward": 42,
+      "doi": "10.1016/s0002-9394(00)00610-3",
+      "forward": 0,
+      "label": "26",
+      "openalex_id": "https://openalex.org/W2089782153",
+      "pmid": "11124300",
+      "source": "openalex"
+    },
+    {
+      "backward": 24,
+      "doi": "10.1093/ageing/afx202",
+      "forward": 0,
+      "label": "27",
+      "openalex_id": "https://openalex.org/W2791076288",
+      "pmid": "29385405",
+      "source": "openalex"
+    },
+    {
+      "backward": 48,
+      "doi": "10.1097/opx.0b013e3181b180a6",
+      "forward": 0,
+      "label": "29",
+      "openalex_id": "https://openalex.org/W2062087660",
+      "pmid": "19593240",
+      "source": "openalex"
+    },
+    {
+      "backward": 41,
+      "doi": "10.1097/opx.0000000000002236",
+      "forward": 0,
+      "label": "30",
+      "openalex_id": "https://openalex.org/W4407590869",
+      "pmid": "39951057",
+      "source": "openalex"
+    },
+    {
+      "backward": 53,
+      "doi": "10.1359/jbmr.040504",
+      "forward": 0,
+      "label": "31",
+      "openalex_id": "https://openalex.org/W2024792158",
+      "pmid": "15312256",
+      "source": "openalex"
+    },
+    {
+      "backward": 21,
+      "doi": "10.1001/jamaophthalmol.2018.0797",
+      "forward": 0,
+      "label": "34",
+      "openalex_id": "https://openalex.org/W2796598609",
+      "pmid": "29800250",
+      "source": "openalex"
+    },
+    {
+      "backward": 40,
+      "doi": "10.1186/s12886-022-02419-6",
+      "forward": 0,
+      "label": "36",
+      "openalex_id": "https://openalex.org/W4225116075",
+      "pmid": "35484529",
+      "source": "openalex"
+    },
+    {
+      "backward": 30,
+      "doi": "10.1016/j.eclinm.2026.103858",
+      "forward": 0,
+      "label": "37",
+      "openalex_id": "https://openalex.org/W7147312810",
+      "pmid": "42005933",
+      "source": "openalex"
+    },
+    {
+      "backward": 160,
+      "doi": "10.1177/23969873251314693",
+      "forward": 0,
+      "label": "38",
+      "openalex_id": "https://openalex.org/W4410589358",
+      "pmid": "40401755",
+      "source": "openalex"
+    },
+    {
+      "backward": 22,
+      "doi": "10.1682/jrrd.2004.07.0080",
+      "forward": 0,
+      "label": "39",
+      "openalex_id": "https://openalex.org/W1993115258",
+      "pmid": "16320144",
+      "source": "openalex"
+    }
+  ],
+  "seeds_resolved": 13,
+  "title_threshold": 0.85,
+  "written": 36
+}

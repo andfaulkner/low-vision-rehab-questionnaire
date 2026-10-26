@@ -1,0 +1,75 @@
+# PRISMA 2020 checklist
+
+Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. Item wording is condensed from the published checklist; the official PDF/Word versions are at prisma-statement.org and should be the ones submitted if a journal asks for the checklist itself.
+
+Fill the last column with the manuscript section and page (or line) where the item is reported, "N/A: reason" when it does not apply (e.g. 13d when no meta-analysis was done; say "no meta-analysis, see Synthesis"), and leave it blank until it is reported. Check progress with:
+
+```bash
+python3 -I .claude/skills/prisma-reporting/scripts/checklist_status.py paper/checklists/prisma2020_checklist.md
+```
+
+| Item | Section / topic | Checklist item | Where reported (section/page) |
+|---|---|---|---|
+| 1 | Title | Identify the report as a systematic review. | Title and dek (section 1): labelled 'systematic search with narrative synthesis' (see decision note, methods_draft.md) |
+| 2 | Abstract | See the PRISMA 2020 for Abstracts checklist (table below). | N/A: magazine dek replaces a structured abstract; see PRISMA 2020 for Abstracts table |
+| 3 | Rationale | Describe the rationale for the review in the context of existing knowledge. | Introduction: the referral gap (section 2); How glaucoma disables beyond visual acuity (section 3) |
+| 4 | Objectives | Provide an explicit statement of the objective(s) or question(s) the review addresses. | Introduction: the referral gap (section 2) (purpose paragraph); Methods paragraph (section 8, Future directions and Methods) |
+| 5 | Eligibility criteria | Specify the inclusion and exclusion criteria for the review and how studies were grouped for the syntheses. | Methods paragraph (section 8, Future directions and Methods) (Eligibility criteria; grouping by instrument, reference standard, threshold) |
+| 6 | Information sources | Specify all databases, registers, websites, organisations, reference lists and other sources searched or consulted to identify studies. Specify the date when each source was last searched or consulted. | Methods paragraph (section 8, Future directions and Methods) (Information sources; search dates 4 Oct 2026); Supplementary search log (paper/search_log.md) |
+| 7 | Search strategy | Present the full search strategies for all databases, registers and websites, including any filters and limits used. | Supplementary Table S1 (paper/search_log.md, paper/search_strategy_note.md); Methods paragraph (section 8, Future directions and Methods) summarises |
+| 8 | Selection process | Specify the methods used to decide whether a study met the inclusion criteria, including how many reviewers screened each record and each report retrieved, whether they worked independently, and, if applicable, details of automation tools used in the process. | Methods paragraph (section 8, Future directions and Methods) (Selection process, AI-assistance disclosure) |
+| 9 | Data collection process | Specify the methods used to collect data from reports, including how many reviewers collected data from each report, whether they worked independently, any processes for obtaining or confirming data from study investigators, and, if applicable, details of automation tools used. | Methods paragraph (section 8, Future directions and Methods) (Data collection process, AI-assistance disclosure) |
+| 10a | Data items (outcomes) | List and define all outcomes for which data were sought. Specify whether all results compatible with each outcome domain in each study were sought (e.g. for all measures, time points, analyses), and if not, the methods used to decide which results to collect. | Methods paragraph (section 8, Future directions and Methods) (Data items) |
+| 10b | Data items (other variables) | List and define all other variables for which data were sought (e.g. participant and intervention characteristics, funding sources). Describe any assumptions made about missing or unclear information. | Methods paragraph (section 8, Future directions and Methods) (Data items; assumptions in analysis/extraction/resolutions.csv) |
+| 11 | Study risk of bias assessment | Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they worked independently, and, if applicable, details of automation tools used. | Methods paragraph (section 8, Future directions and Methods) (Risk of bias: QUADAS-2, COSMIN, AGREE II; AI-assistance disclosure) |
+| 12 | Effect measures | Specify for each outcome the effect measure(s) (e.g. risk ratio, mean difference) used in the synthesis or presentation of results. | Methods paragraph (section 8, Future directions and Methods) (Effect measures) |
+| 13a | Synthesis methods (eligibility) | Describe the processes used to decide which studies were eligible for each synthesis (e.g. tabulating study characteristics and comparing against the planned groups for each synthesis, item 5). | Methods paragraph (section 8, Future directions and Methods) (Synthesis: independent datasets, grouping) |
+| 13b | Synthesis methods (data preparation) | Describe any methods required to prepare the data for presentation or synthesis, such as handling of missing summary statistics or data conversions. | Methods paragraph (section 8, Future directions and Methods) (Synthesis: Wilson CIs, 2x2 reconstruction) |
+| 13c | Synthesis methods (display) | Describe any methods used to tabulate or visually display results of individual studies and syntheses. | Methods paragraph (section 8, Future directions and Methods); tables and figures in Full-length questionnaires (section 4); The two-question approach (section 5) |
+| 13d | Synthesis methods (synthesis) | Describe any methods used to synthesize results and provide a rationale for the choice(s). If meta-analysis was performed, describe the model(s), method(s) to identify the presence and extent of statistical heterogeneity, and software package(s) used. | Methods paragraph (section 8, Future directions and Methods) (SWiM narrative synthesis; rationale for not pooling) |
+| 13e | Synthesis methods (heterogeneity) | Describe any methods used to explore possible causes of heterogeneity among study results (e.g. subgroup analysis, meta-regression). | Methods paragraph (section 8, Future directions and Methods) (heterogeneity examined narratively, SWiM item 5) |
+| 13f | Synthesis methods (sensitivity) | Describe any sensitivity analyses conducted to assess robustness of the synthesized results. | N/A: no meta-analysis, so no sensitivity analysis of a pooled estimate |
+| 14 | Reporting bias assessment | Describe any methods used to assess risk of bias due to missing results in a synthesis (arising from reporting biases). | Methods paragraph (section 8, Future directions and Methods) (reporting bias not assessed: fewer than 10 studies, no pooled estimate) |
+| 15 | Certainty assessment | Describe any methods used to assess certainty (or confidence) in the body of evidence for an outcome. | Methods paragraph (section 8, Future directions and Methods) (Certainty of evidence: GRADE without pooling) |
+| 16a | Study selection (flow) | Describe the results of the search and selection process, from the number of records identified in the search to the number of studies included in the review, ideally using a flow diagram. | The two-question approach (section 5) and Methods paragraph (section 8, Future directions and Methods) (study selection paragraph); Figure 1 (PRISMA flow diagram) |
+| 16b | Study selection (near-misses) | Cite studies that might appear to meet the inclusion criteria but which were excluded, and explain why they were excluded. | Supplement: list of full-text exclusions with reasons (analysis/screening/ft_ai_decisions.csv) |
+| 17 | Study characteristics | Cite each included study and present its characteristics. | Full-length questionnaires (section 4); The two-question approach (section 5): study-characteristics table; References (section 9) |
+| 18 | Risk of bias in studies | Present assessments of risk of bias for each included study. | Full-length questionnaires (section 4); The two-question approach (section 5); Will it work in an LVR clinic? (section 6): QUADAS-2 and COSMIN tables and traffic-light plot |
+| 19 | Results of individual studies | For all outcomes, present, for each study: (a) summary statistics for each group (where appropriate) and (b) an effect estimate and its precision (e.g. confidence/credible interval), ideally using structured tables or plots. | The two-question approach (section 5): per-study accuracy table and unpooled forest plot |
+| 20a | Results of syntheses (overview) | For each synthesis, briefly summarise the characteristics and risk of bias among contributing studies. | The two-question approach (section 5); Full-length questionnaires (section 4) |
+| 20b | Results of syntheses (estimates) | Present results of all statistical syntheses conducted. If meta-analysis was done, present for each the summary estimate and its precision (e.g. confidence/credible interval) and measures of statistical heterogeneity. If comparing groups, describe the direction of the effect. | The two-question approach (section 5) (per-study estimates; no pooled estimate was computed) |
+| 20c | Results of syntheses (heterogeneity) | Present results of all investigations of possible causes of heterogeneity among study results. | The two-question approach (section 5); Will it work in an LVR clinic? (section 6) (narrative heterogeneity) |
+| 20d | Results of syntheses (sensitivity) | Present results of all sensitivity analyses conducted to assess the robustness of the synthesized results. | N/A: no meta-analysis |
+| 21 | Reporting biases | Present assessments of risk of bias due to missing results (arising from reporting biases) for each synthesis assessed. | N/A: reporting bias not formally assessable (see Methods paragraph) |
+| 22 | Certainty of evidence | Present assessments of certainty (or confidence) in the body of evidence for each outcome assessed. | The two-question approach (section 5); Will it work in an LVR clinic? (section 6): certainty ratings per group |
+| 23a | Discussion (interpretation) | Provide a general interpretation of the results in the context of other evidence. | Will it work in an LVR clinic? (section 6) |
+| 23b | Discussion (evidence limitations) | Discuss any limitations of the evidence included in the review. | Will it work in an LVR clinic? (section 6) |
+| 23c | Discussion (process limitations) | Discuss any limitations of the review processes used. | Will it work in an LVR clinic? (section 6); Methods paragraph (section 8, Future directions and Methods) (single reviewer, AI assistance, provisional inclusion) |
+| 23d | Discussion (implications) | Discuss implications of the results for practice, policy, and future research. | Proposed technician work-up protocol (section 7); Will it work in an LVR clinic? (section 6) (Future directions) |
+| 24a | Registration | Provide registration information for the review, including register name and registration number, or state that the review was not registered. | Methods paragraph (section 8, Future directions and Methods) (registration statement; status not recorded in the plan: [VERIFY]) |
+| 24b | Protocol | Indicate where the review protocol can be accessed, or state that a protocol was not prepared. | Methods paragraph (section 8, Future directions and Methods) (protocol statement: study outline only; [VERIFY]) |
+| 24c | Amendments | Describe and explain any amendments to information provided at registration or in the protocol. | Methods paragraph (section 8, Future directions and Methods) (departures from the outline, including the search revision decision) |
+| 25 | Support | Describe sources of financial or non-financial support for the review, and the role of the funders or sponsors in the review. | Author block and disclosures (section 1); [VERIFY: funding statement] |
+| 26 | Competing interests | Declare any competing interests of review authors. | Author block and disclosures (section 1); [VERIFY: competing interests] |
+| 27 | Availability of data, code and other materials | Report which of the following are publicly available and where they can be found: template data collection forms; data extracted from included studies; data used for all analyses; analytic code; any other materials used in the review. | Methods paragraph (section 8, Future directions and Methods) (data and code availability); Supplement |
+
+Items 8, 9 and 11 are where the AI-assisted screening, extraction and risk-of-bias support belong ("details of automation tools used"): name the tool and model, what it did, and that the reviewer made every decision. Item 27 is where to say whether the screening workbook, extraction CSVs and scripts are shared.
+
+## PRISMA 2020 for Abstracts
+
+Page MJ, et al. BMJ 2021;372:n71, Table 2. Needed if the journal uses a structured abstract; for a short trade-journal abstract, cover as many items as the word limit allows and note the rest here as "N/A: abstract word limit".
+
+| Item | Section / topic | Checklist item | Where reported (section/page) |
+|---|---|---|---|
+| A1 | Title | Identify the report as a systematic review. | N/A: abstract word limit |
+| A2 | Objectives | Provide an explicit statement of the main objective(s) or question(s) the review addresses. | N/A: abstract word limit |
+| A3 | Eligibility criteria | Specify the inclusion and exclusion criteria for the review. | N/A: abstract word limit |
+| A4 | Information sources | Specify the information sources (e.g. databases, registers) used to identify studies and the date when each was last searched. | N/A: abstract word limit |
+| A5 | Risk of bias | Specify the methods used to assess risk of bias in the included studies. | N/A: abstract word limit |
+| A6 | Synthesis of results | Specify the methods used to present and synthesise results. | N/A: abstract word limit |
+| A7 | Included studies | Give the total number of included studies and participants and summarise relevant characteristics of studies. | N/A: abstract word limit |
+| A8 | Synthesis of results | Present results for main outcomes, preferably indicating the number of included studies and participants for each. If meta-analysis was done, report the summary estimate and confidence/credible interval. If comparing groups, indicate the direction of the effect. | N/A: abstract word limit |
+| A9 | Limitations of evidence | Provide a brief summary of the limitations of the evidence included in the review (e.g. study risk of bias, inconsistency and imprecision). | N/A: abstract word limit |
+| A10 | Interpretation | Provide a general interpretation of the results and important implications. | N/A: abstract word limit |
+| A11 | Funding | Specify the primary source of funding for the review. | N/A: abstract word limit |
+| A12 | Registration | Provide the register name and registration number. | N/A: abstract word limit |

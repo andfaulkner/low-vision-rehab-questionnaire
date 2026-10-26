@@ -1,0 +1,15 @@
+ID,a_decision,a_reason,b_decision,b_reason,title
+16,Include,,Exclude,No accuracy/validation data,Characteristics of Glaucoma Patients Attending a Vision Rehabilitation Service.
+37,Maybe,,Exclude,No accuracy/validation data,"Estimating the prevalence of visual impairment in the Netherlands, with forecasts up to 2050: a meta-analysis of national databases"
+43,Exclude,No accuracy/validation data,Maybe,,Exploring vision tests as a surrogate for depression screening in patients with a visual impairment: A cross-sectional study
+51,Exclude,No accuracy/validation data,Maybe,,Identifying low vision rehabilitation priorities using a conjoint analysis approach
+52,Exclude,Not about low vision/visual function,Maybe,,Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson's Disease.
+56,Exclude,Intervention study only,Maybe,,Is the high contrast visual acuity chart a good predictor of improvement in visual acuity with low vision aids?
+67,Maybe,,Exclude,Review/opinion/editorial,Measuring reading performance.
+76,Exclude,No accuracy/validation data,Maybe,,Predicting perceived quality of life scores from the National Eye Institute 25-item Visual Function Questionnaire.
+85,Exclude,No accuracy/validation data,Maybe,,Refinement of the Low Vision Independence Measure: A Qualitative Study
+88,Exclude,Intervention study only,Maybe,,Responsiveness of the EQ‐5D to the Effects of Low Vision Rehabilitation
+95,Exclude,No accuracy/validation data,Include,,Self-reported importance and difficulty of driving in a low-vision clinic population.
+97,Exclude,No accuracy/validation data,Include,,Spatial localization in visual impairment.
+114,Exclude,Other (see notes),Include,,Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patients With Visual Impairment
+117,Maybe,,Exclude,Not about low vision/visual function,"Utilizing visual symptoms to distinguish dry eye from glaucoma, cataract, and suspect glaucoma patients: a cross-sectional study."
