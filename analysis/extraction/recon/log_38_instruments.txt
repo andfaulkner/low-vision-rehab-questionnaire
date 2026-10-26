@@ -1,0 +1,31 @@
+A: analysis/extraction/passA/38/instruments.csv (1 rows)
+B: analysis/extraction/passB/38/instruments.csv (1 rows)
+key: instrument
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (3):
+  [Cerebral Vision Screening Questionnaire]
+    domains            A: 'symptoms-based; items reported in this guideline: reading problems, blurred vision, depth/reaching, dark vision'
+                       B: 'symptoms-based; items named in this paper: reading problems, blurred vision, depth/reaching, dark vision'
+  [Cerebral Vision Screening Questionnaire]
+    validation_method  A: 'criterion validity'
+                       B: 'criterion validity; ROC'
+  [Cerebral Vision Screening Questionnaire]
+    target_population  A: 'adult stroke survivors (acute period)'
+                       B: 'adult stroke survivors'
+
+agreement by column:
+  full_name                1/1 agree
+  n_items                  1/1 agree
+  domains                  0/1 agree  <- 1 to resolve
+  response_scale           1/1 agree
+  scoring                  1/1 agree
+  validation_method        0/1 agree  <- 1 to resolve
+  languages                1/1 agree
+  time_to_administer_min   1/1 agree
+  target_population        0/1 agree  <- 1 to resolve
+  source_refs              1/1 agree
+
+overall: 7/10 cells agree (70.0%)
+disagreement list written to analysis/extraction/recon/dis_38_instruments.csv (fill resolved_value / resolved_by, then apply to the master CSV)

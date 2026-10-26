@@ -1,0 +1,6 @@
+key,column,A,B,match,resolved_value,resolved_by
+27,setting,"university optometry clinics (Waterloo Optometry and Vision Science: Primary Care, Ocular Health, Low Vision clinics)","university optometry clinics (Waterloo Optometry and Vision Science: primary care, ocular health and low vision clinics)",exact,,
+27,diagnosis_mix,NR (impairment groups only: central loss/VA/CS n=31; asymmetric acuities n=44; peripheral field loss n=10; any impairment n=60; normal n=29; Table 2 p4),NR (various visual impairments associated with falls),exact,,
+27,recruitment,consecutive from three clinics; sample deliberately enriched with visually impaired by recruiting from Ocular Health and Low Vision clinics; full eye exam within previous 4 months; telephone interviews May-Aug 2013 and 2014; retrospective chart review,"consecutive from three clinics, deliberately enriched with visually impaired patients from Ocular Health and Low Vision clinics; full eye exam within previous 4 months; phone interviews May-Aug 2013 and 2014; retrospective chart review",exact,,
+27,instruments,Visual Impairment as a Risk for Falls Questionnaire (VIRFQ),VIRFQ,exact,,
+27,page,"2, 4","1, 2, 4",exact,,

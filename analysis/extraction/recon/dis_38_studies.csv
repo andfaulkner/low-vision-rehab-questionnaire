@@ -1,0 +1,7 @@
+key,column,A,B,match,resolved_value,resolved_by
+38,setting,"stroke care (pre-hospital, acute and out-patient settings; guideline)","stroke survivors; variety of settings (pre-hospital, acute, out-patient) across included studies (Table 1.1 p7-8)",exact,,
+38,n,NR,461,exact,,
+38,diagnosis_mix,NR (adult stroke survivors),stroke survivors; no ocular diagnosis breakdown (Table 4.1 p16),exact,,
+38,recruitment,NR (guideline based on systematic review; not a primary study),"guideline-level systematic review of vision screening in stroke (PICO 1-10); CVSQ evidence comes from one included study (ref 34, 461 non-aphasic individuals post stroke) so recruitment is NR here",exact,,
+38,cohort,CVSQ data come from a single primary study cited as ref 34 (Neumann et al.); 461 participants,"CVSQ figures are secondary data from a single included primary study (ref 34, Neumann 2016); not the guideline's own cohort",exact,,
+38,page,"7, 15, 16, 21","7, 8, 16, 21",exact,,

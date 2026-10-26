@@ -1,0 +1,26 @@
+A: analysis/extraction/passA/79/effects.csv (10 rows)
+B: analysis/extraction/passB/79/effects.csv (4 rows)
+key: study_id, outcome_type, measure, instrument, comparator, unit, subgroup
+columns ignored: notes
+matched rows: 0 (0 by fuzzy key)
+
+rows only in A (10):
+  A row 2: 79 | proportion | prevalence of reported near-vision disability, both sexes (weighted to remove effect of differing sampling fractions) | Statistics Canada HALS vision questions | none | person | 
+  A row 3: 79 | proportion | prevalence of reported distance-vision disability, both sexes (weighted to remove effect of differing sampling fractions) | Statistics Canada HALS vision questions | none | person | 
+  A row 4: 79 | proportion | prevalence of at least one positive response (Statistics Canada criterion), both sexes (weighted to remove effect of differing sampling fractions) | Statistics Canada HALS vision questions | none | person | 
+  A row 5: 79 | proportion | prevalence of two positive responses (both near and distance), both sexes (weighted to remove effect of differing sampling fractions) | Statistics Canada HALS vision questions | none | person | 
+  A row 6: 79 | proportion | adjusted prevalence of mild functional impairment or worse (Choi formula) | Statistics Canada HALS vision questions | presenting VA <= 6/12 | person | 
+  A row 7: 79 | proportion | adjusted prevalence of moderate functional impairment or worse (Choi formula) | Statistics Canada HALS vision questions | presenting VA <= 6/21 | person | 
+  A row 8: 79 | proportion | participation rate in validation (visual examination) stage | Statistics Canada HALS vision questions | none | person | 
+  A row 9: 79 | proportion | utilization of rehabilitation centers among those with both positive responses (weighted to remove effect of differing sampling fractions) | Statistics Canada HALS vision questions | none | person | 
+  A row 10: 79 | proportion | utilization of nonprofit agencies among those with both positive responses (weighted to remove effect of differing sampling fractions) | Statistics Canada HALS vision questions | none | person | 
+  A row 11: 79 | proportion | utilization of rehabilitation centers adjusted to those with confirmed moderate or worse impairment (x 0.57 PPV) | Statistics Canada HALS vision questions | none | person | 
+
+rows only in B (4):
+  B row 2: 79 | proportion | weighted prevalence of reported near-vision task impairment, age 65+ | HALS two-question visual disability screen | none | person | 
+  B row 3: 79 | proportion | weighted prevalence of reported distance-vision task impairment, age 65+ | HALS two-question visual disability screen | none | person | 
+  B row 4: 79 | proportion | weighted prevalence of at least one positive response, age 65+ | HALS two-question visual disability screen | none | person | 
+  B row 5: 79 | proportion | weighted prevalence of two positive responses (both near and distance), age 65+ | HALS two-question visual disability screen | none | person | 
+
+agreement by column:
+disagreement list written to analysis/extraction/recon/dis_79_effects.csv (fill resolved_value / resolved_by, then apply to the master CSV)

@@ -1,0 +1,14 @@
+A: analysis/extraction/passA/119/dta.csv (1 rows)
+B: analysis/extraction/passB/119/dta.csv (1 rows)
+key: study_id, instrument, item_text, threshold, reference_standard, ref_threshold, unit, subgroup
+columns ignored: notes
+matched rows: 0 (0 by fuzzy key)
+
+rows only in A (1):
+  A row 2: 119 | SLVQOL | total score | cut-off score of 105 or 106 (paper does not state which side is positive or whether the score must be <= or <; lower score = lower quality of life, so score below cut-off presumed positive for visual impairment) | visual acuity | visual impairment group: best-corrected distance visual acuity in the best eye 'equal or inferior to 0.30 logMAR or 0.52 logMAR when recruited from a public hospital or a private clinic, respectively'; healthy group: best-corrected distance VA 'equal or superior to 0.10 logMAR in the worst eye'; case/control group membership vs questionnaire (p2) | person | 
+
+rows only in B (1):
+  B row 2: 119 | SLVQOL | total score | cut-off score of 105 or 106 (paper does not state direction; lower score = lower QoL = visual impairment, so score at or below cut-off = positive) | visual acuity | Visual impairment group: best-corrected distance visual acuity in the best eye equal or inferior to 0.30 logMAR (public hospital) or 0.52 logMAR (private clinic); healthy group: best-corrected distance VA equal or superior to 0.10 logMAR in the worst eye (p2) | person | 
+
+agreement by column:
+disagreement list written to analysis/extraction/recon/dis_119_dta.csv (fill resolved_value / resolved_by, then apply to the master CSV)

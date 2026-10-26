@@ -1,0 +1,34 @@
+A: analysis/extraction/passA/128/instruments.csv (1 rows)
+B: analysis/extraction/passB/128/instruments.csv (1 rows)
+key: instrument
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (4):
+  [100-item Visual Acuity Survey]
+    full_name          A: 'VA survey: 100 yes/no questions on recognising everyday objects at typical viewing distances'
+                       B: 'VA Survey (100 yes/no questions about recognising everyday objects at typical viewing distances)'
+  [100-item Visual Acuity Survey]
+    domains            A: 'self-reported recognition of object details at given viewing distances (single latent trait, vision ability)'
+                       B: 'single construct: vision ability to recognise object details (acuity demand: object size and viewing distance)'
+  [100-item Visual Acuity Survey]
+    scoring            A: '2PL IRT (mirt v1.40 in R) vision ability theta; linear regression converts theta to estimated VA (Estimated VA = 0.59 - 0.33 x theta, logMAR)'
+                       B: '2PL IRT (mirt, R) vision ability theta; linear regression to estimated VA (Estimated VA = 0.59 - 0.33 x theta)'
+  [100-item Visual Acuity Survey]
+    target_population  A: 'adults 18+ across the full VA range (-0.3 to 2 logMAR)'
+                       B: 'adults 18+ with a wide range of VA and diagnoses'
+
+agreement by column:
+  full_name                0/1 agree  <- 1 to resolve
+  n_items                  1/1 agree
+  domains                  0/1 agree  <- 1 to resolve
+  response_scale           1/1 agree
+  scoring                  0/1 agree  <- 1 to resolve
+  validation_method        1/1 agree
+  languages                1/1 agree
+  time_to_administer_min   1/1 agree
+  target_population        0/1 agree  <- 1 to resolve
+  source_refs              1/1 agree
+
+overall: 6/10 cells agree (60.0%)
+disagreement list written to analysis/extraction/recon/dis_128_instruments.csv (fill resolved_value / resolved_by, then apply to the master CSV)

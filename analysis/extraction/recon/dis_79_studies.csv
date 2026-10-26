@@ -1,0 +1,9 @@
+key,column,A,B,match,resolved_value,resolved_by
+79,setting,community-residing elderly; home interview and home visual examination,"community (home interview; Canadian Study of Health and Aging, Montreal-area subsample for examination)",exact,,
+79,n_enrolled,144,1777,exact,,
+79,age_range,NR,65+ (eligibility: at least 65 years),exact,,
+79,pct_female,NR,62.2,exact,,
+79,recruitment,"Stage 1: random sample of community residents aged 65+ in Quebec (CSHA 1991-1992; 1777 completed, 98.7%; ages 75+ oversampled). Stage 2 (validation): Montreal-area subjects not eligible for other CSHA components; all positives plus a random sample of negatives; 144 eligible, 31 lost, 42 refused, 6 unscheduled, 65 examined (45.1%); work-up (verification) bias acknowledged","random community sample of Quebec residents aged 65+ drawn around 4 CSHA centres, 1991-1992, ages 75+ oversampled; 98.7% of eligible completed questionnaire. Validation: Montreal-area subjects not eligible for other CSHA components; all screen-positive plus random sample of screen-negative invited; 144 eligible, 31 lost, 42 refused, 6 not scheduled, 65 examined (participation 45.1%)",exact,,
+79,instruments,Statistics Canada HALS vision questions,HALS two-question visual disability screen,exact,,
+79,cohort,"Canadian Study of Health and Aging, Quebec community sample (stage 2 is a subsample of Montreal-area participants)",CSHA Quebec community sample (1800 sampled; 1777 completed),exact,,
+79,page,"2, 3, 4","2, 3",exact,,

@@ -1,0 +1,19 @@
+A: analysis/extraction/passA/38/dta.csv (5 rows)
+B: analysis/extraction/passB/38/dta.csv (2 rows)
+key: study_id, instrument, item_text, threshold, reference_standard, ref_threshold, unit, subgroup
+columns ignored: notes
+matched rows: 0 (0 by fuzzy key)
+
+rows only in A (5):
+  A row 2: 38 | Cerebral Vision Screening Questionnaire | reading problems (CVSQ symptom item/domain) | NR (positivity rule for CVSQ symptom item not reported in this guideline) | ophthalmic exam | Specialist visual assessment; central visual impairment / visual acuity loss (Table 4.1 p16); acuity cut-off, eye and correction NR | person | 
+  A row 3: 38 | Cerebral Vision Screening Questionnaire | blurred vision (CVSQ symptom item/domain) | NR (positivity rule for CVSQ symptom item not reported in this guideline) | ophthalmic exam | Specialist visual assessment; central visual impairment / visual acuity loss (Table 4.1 p16); acuity cut-off, eye and correction NR | person | 
+  A row 4: 38 | Cerebral Vision Screening Questionnaire | depth/reaching (CVSQ symptom item/domain) | NR (positivity rule for CVSQ symptom item not reported in this guideline) | ophthalmic exam | Specialist visual assessment; visual perceptual disorders (Table 6.1 p21); criteria NR | person | 
+  A row 5: 38 | Cerebral Vision Screening Questionnaire | dark vision (CVSQ symptom item/domain) | NR (positivity rule for CVSQ symptom item not reported in this guideline) | ophthalmic exam | Specialist visual assessment; visual perceptual disorders (Table 6.1 p21); criteria NR | person | 
+  A row 6: 38 | Cerebral Vision Screening Questionnaire | NR | NR | other | Alternative vision screening (Table 1.1 p7: 'Reference standard: No routine screen or alterative vision screening'); any post-stroke visual impairment; criteria NR | person | 
+
+rows only in B (2):
+  B row 2: 38 | Cerebral Vision Screening Questionnaire | reading problems (symptom item; wording NR) | NR (positive response definition not given in the guideline) | ophthalmic exam | Specialist visual assessment for post-stroke visual acuity loss (Table 4.1 p16); eye, correction and cut-off NR | person | 
+  B row 3: 38 | Cerebral Vision Screening Questionnaire | blurred vision (symptom item; wording NR) | NR (positive response definition not given in the guideline) | ophthalmic exam | Specialist visual assessment for post-stroke visual acuity loss (Table 4.1 p16); eye, correction and cut-off NR | person | 
+
+agreement by column:
+disagreement list written to analysis/extraction/recon/dis_38_dta.csv (fill resolved_value / resolved_by, then apply to the master CSV)

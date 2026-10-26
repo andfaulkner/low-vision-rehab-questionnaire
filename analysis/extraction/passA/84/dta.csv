@@ -1,0 +1,1 @@
+study_id,label,instrument,item_text,threshold,reference_standard,ref_threshold,ref_threshold_logmar,unit,subgroup,n,n_positive,prevalence,TP,FP,FN,TN,sens,spec,ppv,npv,sens_ci_low,sens_ci_high,spec_ci_low,spec_ci_high,auc,auc_ci_low,auc_ci_high,ci_level,page,derivation,notes
