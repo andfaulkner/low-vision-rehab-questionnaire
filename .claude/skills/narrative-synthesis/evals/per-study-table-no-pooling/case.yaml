@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: per-study-table-no-pooling
+expected_outcome: |
+  The assistant runs accuracy_table.py with --studies and --rob, hands back the grouped
+  per-study table (accuracy_table.md) and the forest-without-pooling and ROC-space figures,
+  and gives no pooled sensitivity or specificity. It notes that Garcia 2019's CIs are
+  approximate because the paper gave only proportions (marked †), that Wu 2026's 0.85 is
+  (sens+spec)/2 and not a ROC area (§), that the two Wu rows are one dataset (‡), and that
+  the single question vs VA group has 5 independent datasets at the "better eye worse than
+  6/12" threshold, which is a candidate for dta-meta-analysis (dta_pool.py validate decides),
+  while the VFQ-25 vs clinician judgement group is a single study to present as-is. It says the
+  table is AI-drafted and the reviewer checks numbers against the papers.
+context:
+  scaffold_script: place-files.sh

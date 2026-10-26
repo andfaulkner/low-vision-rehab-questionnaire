@@ -1,0 +1,226 @@
+{
+ "aliases": {
+  "pmid:17311573": "doi:10.1111/j.1444-0938.2007.00120.x",
+  "pmid:17535505": "doi:10.1348/135910707x209835",
+  "pmid:39292468": "doi:10.1167/tvst.13.9.20",
+  "pmid:41528105": "doi:10.1167/iovs.67.1.28"
+ },
+ "entries": {
+  "doi:10.1111/j.1444-0938.2007.00120.x": {
+   "accessed": "",
+   "authors": [
+    {
+     "family": "Bibby",
+     "given": "Sarah A"
+    },
+    {
+     "family": "Maslin",
+     "given": "Erin R"
+    },
+    {
+     "family": "Mcilraith",
+     "given": "Roberta"
+    },
+    {
+     "family": "Soong",
+     "given": "Grace P"
+    }
+   ],
+   "container_abbrev": "Clin Exp Optom",
+   "container_title": "Clinical and Experimental Optometry",
+   "doi": "10.1111/j.1444-0938.2007.00120.x",
+   "edition": "",
+   "editors": [],
+   "fetched": "2026-10-26",
+   "id": "doi:10.1111/j.1444-0938.2007.00120.x",
+   "issue": "2",
+   "month": "3",
+   "note": "",
+   "pages": "115-123",
+   "pmid": "17311573",
+   "published": "",
+   "publisher": "Informa UK Limited",
+   "publisher_place": "",
+   "source": "crossref+pubmed",
+   "text_file": "",
+   "title": "Vision and self-reported mobility performance in patients with low vision",
+   "type": "journal",
+   "updated": "",
+   "url": "https://doi.org/10.1111/j.1444-0938.2007.00120.x",
+   "volume": "90",
+   "year": "2007"
+  },
+  "doi:10.1167/iovs.67.1.28": {
+   "accessed": "",
+   "authors": [
+    {
+     "family": "Wu",
+     "given": "Yueh-Hsun"
+    },
+    {
+     "family": "Yu",
+     "given": "Deyue"
+    },
+    {
+     "family": "Goldstein",
+     "given": "Judith"
+    },
+    {
+     "family": "Kwon",
+     "given": "MiYoung"
+    },
+    {
+     "family": "Wang",
+     "given": "Chun"
+    },
+    {
+     "family": "Legge",
+     "given": "Gordon E."
+    }
+   ],
+   "container_abbrev": "Invest Ophthalmol Vis Sci",
+   "container_title": "Investigative Ophthalmology & Visual Science",
+   "doi": "10.1167/iovs.67.1.28",
+   "edition": "",
+   "editors": [],
+   "fetched": "2026-10-26",
+   "id": "doi:10.1167/iovs.67.1.28",
+   "issue": "1",
+   "month": "1",
+   "note": "",
+   "pages": "28",
+   "pmid": "41528105",
+   "published": "",
+   "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+   "publisher_place": "",
+   "source": "crossref+pubmed",
+   "text_file": "",
+   "title": "Screening Questions to Identify Low Vision and Acuity-Defined Legal Blindness",
+   "type": "journal",
+   "updated": "",
+   "url": "https://doi.org/10.1167/iovs.67.1.28",
+   "volume": "67",
+   "year": "2026"
+  },
+  "doi:10.1167/tvst.13.9.20": {
+   "accessed": "",
+   "authors": [
+    {
+     "family": "Wu",
+     "given": "Yueh-Hsun"
+    },
+    {
+     "family": "Yu",
+     "given": "Deyue"
+    },
+    {
+     "family": "Goldstein",
+     "given": "Judith E."
+    },
+    {
+     "family": "Kwon",
+     "given": "MiYoung"
+    },
+    {
+     "family": "Gobeille",
+     "given": "Micaela"
+    },
+    {
+     "family": "Watson",
+     "given": "Emily"
+    },
+    {
+     "family": "Waked",
+     "given": "Luc"
+    },
+    {
+     "family": "Gage",
+     "given": "Rachel"
+    },
+    {
+     "family": "Wang",
+     "given": "Chun"
+    },
+    {
+     "family": "Legge",
+     "given": "Gordon E."
+    }
+   ],
+   "container_abbrev": "Transl Vis Sci Technol",
+   "container_title": "Translational Vision Science & Technology",
+   "doi": "10.1167/tvst.13.9.20",
+   "edition": "",
+   "editors": [],
+   "fetched": "2026-10-26",
+   "id": "doi:10.1167/tvst.13.9.20",
+   "issue": "9",
+   "month": "9",
+   "note": "",
+   "pages": "20",
+   "pmid": "39292468",
+   "published": "",
+   "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+   "publisher_place": "",
+   "source": "crossref+pubmed",
+   "text_file": "",
+   "title": "Estimating Visual Acuity Without a Visual Acuity Chart",
+   "type": "journal",
+   "updated": "",
+   "url": "https://doi.org/10.1167/tvst.13.9.20",
+   "volume": "13",
+   "year": "2024"
+  },
+  "doi:10.1348/135910707x209835": {
+   "accessed": "",
+   "authors": [
+    {
+     "family": "Dreer",
+     "given": "Laura E."
+    },
+    {
+     "family": "Elliott",
+     "given": "Timothy R."
+    },
+    {
+     "family": "Berry",
+     "given": "Jack"
+    },
+    {
+     "family": "Fletcher",
+     "given": "Donald C."
+    },
+    {
+     "family": "Swanson",
+     "given": "Marsha"
+    },
+    {
+     "family": "Christopher",
+     "given": "J. McNeal"
+    }
+   ],
+   "container_abbrev": "Br J Health Psychol",
+   "container_title": "British Journal of Health Psychology",
+   "doi": "10.1348/135910707X209835",
+   "edition": "",
+   "editors": [],
+   "fetched": "2026-10-26",
+   "id": "doi:10.1348/135910707x209835",
+   "issue": "3",
+   "month": "9",
+   "note": "",
+   "pages": "449-461",
+   "pmid": "17535505",
+   "published": "",
+   "publisher": "Wiley",
+   "publisher_place": "",
+   "source": "crossref+pubmed",
+   "text_file": "",
+   "title": "Cognitive appraisals, distress and disability among persons in low vision rehabilitation",
+   "type": "journal",
+   "updated": "",
+   "url": "https://doi.org/10.1348/135910707x209835",
+   "volume": "13",
+   "year": "2008"
+  }
+ }
+}

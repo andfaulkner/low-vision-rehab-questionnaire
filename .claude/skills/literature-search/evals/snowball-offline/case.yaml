@@ -1,0 +1,20 @@
+schema_version: "1.1"
+name: snowball-offline
+expected_outcome: |
+  Claude runs the skill's snowball.py with --seeds seeds.txt,
+  --screening-csv screening_records.csv, --cache ./cache and --offline (no
+  network), producing candidates.csv (columns doi, pmid, year, authors,
+  title, journal, abstract, times_linked, link_type, source_ids, ...)
+  sorted by times_linked descending. From the cache the two seeds (IDs 128
+  and 92) yield 64 linked works, 6 of which are already in the sheet (IDs
+  12, 23, 46, 92, 128, 135) and are excluded, leaving 58 candidates, 3 of
+  them linked to both seeds: "Visual Acuity" (2022, 10.1016/j.xops.2022.100215),
+  "Is the NEI-VFQ-25 a useful tool in identifying visual impairment..."
+  (2006, 10.1186/1471-2415-6-24) and "How does visual impairment affect
+  performance on tasks of everyday life" (2002, 10.1001/archopht.120.6.774).
+  Claude names those three, explains that candidates linked from 2+ seeds
+  are screened first, and says the candidates still need title/abstract
+  screening by the reviewer (the study-screening skill) before any is added
+  to the workbook; it does not write to a workbook.
+context:
+  scaffold_script: place-files.sh

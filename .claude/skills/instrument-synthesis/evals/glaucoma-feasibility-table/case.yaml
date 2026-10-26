@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: glaucoma-feasibility-table
+expected_outcome: |
+  The skill's instrument_table.py is run (python3 -I) with --instruments instruments.csv,
+  --studies studies.csv, --ratings summary_of_findings.csv and --for glaucoma, writing
+  comparison_table.md and feasibility_table.md (plus CSVs) under paper/tables/ or a
+  directory the user is told about. Both tables carry the field/contrast coverage column.
+  The reply tells the user that catalogue rows are marked with a dagger because the facts
+  are AI-compiled and unverified, and that each must be checked against the development
+  paper before publication. It points out that GQL-15, GAL-9 and APEDS-VFQ have explicit
+  field or contrast items while the two-item acuity screen and the 100-item acuity survey
+  have none by design, and that AI assistance must be disclosed.
+context:
+  scaffold_script: place-files.sh

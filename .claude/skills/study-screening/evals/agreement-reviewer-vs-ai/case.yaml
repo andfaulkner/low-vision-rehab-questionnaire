@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: agreement-reviewer-vs-ai
+expected_outcome: |
+  Claude runs the skill's agreement.py on the Screening CSV (reviewer column
+  "Title/abstract decision" vs "Suggested decision (AI)", --maybe-as include)
+  and reports: 20 records compared, observed agreement 0.80 (16/20), Cohen's
+  kappa 0.583 with a 95% CI of roughly 0.22 to 0.95 and PABAK 0.60, with the
+  2x2 confusion matrix (6 both include, 2 reviewer-in/AI-out, 2 reviewer-out/
+  AI-in, 10 both exclude). It lists the four disagreements, IDs 7, 8, 9 and
+  10, with the reason on each side, says the kappa bands are only a rough
+  guide and that the AI suggestions are advisory, and does not write anything
+  to the reviewer's columns.
+context:
+  scaffold_script: place-files.sh

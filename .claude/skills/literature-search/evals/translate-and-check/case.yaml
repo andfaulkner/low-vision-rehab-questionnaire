@@ -1,0 +1,17 @@
+schema_version: "1.1"
+name: translate-and-check
+expected_outcome: |
+  Claude runs syntax_translate.py on the 14-line PubMed history (expanding
+  the #N references) and returns a Scopus draft in which [ti] terms are in
+  TITLE(...), [tiab] in TITLE-ABS(...) or TITLE-ABS-KEY(...), MeSH/Majr terms in
+  INDEXTERMS(...) with the warning that Scopus cannot restrict to major
+  headings or explode the tree, [la] as a language limit, 2000:3000[dp] as
+  PUBYEAR > 1999 and the [ti:~2] proximity phrases as W/2 chains with a
+  warning that the semantics differ. It reports "Practice Guideline"[pt]
+  and "Guideline"[pt] as untranslatable, says AND NOT must go at the end of
+  a Scopus string, and states clearly that the output is a draft a person
+  must review and test in Scopus. For broken.txt it runs --check-balance
+  --dialect scopus and reports the unclosed parenthesis and the bare NOT
+  (Scopus needs AND NOT).
+context:
+  scaffold_script: place-files.sh

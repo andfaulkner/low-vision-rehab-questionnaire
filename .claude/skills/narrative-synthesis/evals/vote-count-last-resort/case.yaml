@@ -1,0 +1,15 @@
+schema_version: "1.1"
+name: vote-count-last-resort
+expected_outcome: |
+  The assistant declines to count statistically significant studies and explains why
+  (significance depends on sample size; the Cochrane Handbook and SWiM allow vote counting on
+  direction only, and only as a last resort). It points out that four Pearson correlations
+  with n are comparable effect sizes, so the better summary is a table of r with CIs or a
+  Fisher-z random-effects pool via the effect-size-meta-analysis skill, and offers that first.
+  If it produces a direction summary it uses evidence_map.py / effect_direction.md: 3 of 4
+  independent datasets in the expected direction (Patel's negative r counted as positive
+  because the row is marked flip), 1 null (Lee, CI includes 0), sign test p = 0.25, with a
+  sentence saying the count ignores magnitude and precision. It does not write a sentence
+  of the form "3 of 4 studies found a significant association".
+context:
+  scaffold_script: place-files.sh

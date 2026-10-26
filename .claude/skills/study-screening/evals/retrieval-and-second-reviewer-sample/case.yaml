@@ -1,0 +1,17 @@
+schema_version: "1.1"
+name: retrieval-and-second-reviewer-sample
+expected_outcome: |
+  Claude reads the reviewer's column H (Include for IDs 2 and 5, Maybe for 3
+  and 6) and runs sample_records.py --retrieval with --text-dir ./articles_text
+  (or an equivalent surname+year match), reporting that records 2 (Cherny
+  2020) and 5 (Gothwal 2012) have a text file while 3 (Tabrett 2012) and 6
+  (Lai 2020) do not, so "reports not retrieved" is 2. It then runs
+  sample_records.py --fraction 0.5 --seed 11 --stratify "Suggested decision
+  (AI)", which draws 5 of the 10 records (with the script: IDs 4, 5, 6, 9, 10;
+  4 from the 9 AI-Exclude records and the single AI-Maybe record), writes a
+  blank decision sheet holding only bibliographic columns plus empty
+  "Second reviewer decision / reason / notes" columns, and states the seed and
+  the IDs. The workbook is only read, never written or saved with openpyxl,
+  and the AI columns are not presented as the reviewer's decisions.
+context:
+  scaffold_script: place-files.sh

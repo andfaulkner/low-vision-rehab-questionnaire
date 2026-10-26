@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: collapse-overlapping-cohort
+expected_outcome: |
+  The assistant runs independent_datasets.py (with --screening screening.csv and ideally
+  --dta dta.csv and --assign) rather than eyeballing the files, reports that Wu 2024 (ID 128)
+  and Wu 2026 (ID 92) are one dataset at high confidence because the cohort column
+  cross-references ID 128, the author lists share five surnames, n is 385 in both and the
+  recruitment window is the same, and concludes that the single question vs visual acuity
+  group has 6 independent datasets from 7 reports (5 at the "worse than 6/12" threshold plus
+  the Wu cohort at 20/40). It says the grouping is a suggestion the reviewer confirms, and
+  that the Wu pair should be counted once with the larger or more complete report in the
+  main table.
+context:
+  scaffold_script: place-files.sh

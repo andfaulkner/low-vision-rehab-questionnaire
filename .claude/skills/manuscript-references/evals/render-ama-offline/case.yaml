@@ -1,0 +1,15 @@
+schema_version: "1.1"
+name: render-ama-offline
+expected_outcome: |
+  The agent runs cite.py check/render (python3 -I) with --style ama against the cached
+  bibliography.json and the manual CSV, without any network call. references.md has 8
+  numbered entries in first-appearance order: 1 the AAO guideline, 2 the CNIB web page,
+  3 Bibby 2007, 4 Wu 2026 (Invest Ophthalmol Vis Sci), 5 Wu 2024 (Transl Vis Sci
+  Technol), 6 Dreer 2008, 7 Verdina 2020, 8 an UNRESOLVED placeholder for
+  key:missing-key. The paper cited as both @doi:10.1167/tvst.13.9.20 and @pmid:39292468
+  gets one number (5), and the sentence "Adding a second item..." carries ^4,5^. The
+  agent tells the user that key:missing-key is not defined and must be added to the
+  manual CSV or replaced, and that the pmid/doi pair was merged; it does not invent a
+  reference for the missing key.
+context:
+  scaffold_script: place-files.sh

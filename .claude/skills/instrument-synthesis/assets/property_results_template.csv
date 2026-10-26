@@ -1,0 +1,10 @@
+study_id,label,instrument,property,statistic,value,n,subscale,model,mic,hypothesis,confirmed,override,override_reason,page,notes
+26,Wolffsohn 2000,LVQOL,Internal consistency,Cronbach alpha,0.88,150,,,,,,,,5,summed score over 25 items; 150 low-vision patients (p1)
+26,Wolffsohn 2000,LVQOL,Reliability,ICC,0.72,150,,,,,,,,5,"4-week test-retest; ICC named as the reliability statistic in Methods (p3)"
+26,Wolffsohn 2000,LVQOL,Structural validity,EFA,yes,150,,EFA,,,,,,5,varimax factor analysis identified up to four factors (p5); EFA alone rates '?'
+119,Perez-Mana 2022,LVQOL,Reliability,Spearman test-retest,0.864,73,,,,,,,,5,retest after 19.5 days; no ICC so rated '?'
+5,Gothwal 2012,APEDS-VFQ,Structural validity,infit MNSQ,0.7-1.54,351,,Rasch,,,,,,1,one item misfit (infit 1.54) (p1)
+5,Gothwal 2012,APEDS-VFQ,Structural validity,unidimensionality,no,351,,Rasch,,,,,,1,"fit pattern suggested the construct is not unidimensional (p1)"
+120,Bibby 2007,self-reported mobility questionnaire,Hypotheses testing,Pearson r with binocular visual field,-0.762,30,,,,|r|>=0.50,,,,4,"hypothesis stated by the reviewer in the protocol, not by the authors; Table 2 p4"
+66,Stelmack 2006,VA LV VFQ-48,Responsiveness,effect size (inpatient BRC),1.9,285,,,,>=0.50,,,,1,"hypothesis (large change after inpatient rehabilitation) must be pre-specified in the review protocol for this to count"
+66,Stelmack 2006,VA LV VFQ-48,Cross-cultural validity,DIF items,7/48,285,,,,,,+,"DIF small relative to baseline change in item difficulty (authors, p1); reviewer judged not important",1,example of an override with its reason

@@ -1,0 +1,35 @@
+[page 1]
+Screening Questions to Identify Low Vision and Acuity-Defined Legal Blindness
+(synthetic excerpt for testing; not the article)
+
+PURPOSE. Visual acuity (VA) testing is costly at scale. We asked whether single items from a
+validated VA survey with 100 yes/no questions can screen for low vision (VA worse than 20/40)
+and for legal blindness (VA 20/200 or worse).
+
+METHODS. We analyzed data from 385 adults with measured VA who completed the survey.
+
+RESULTS. For low vision, "In a fast-food restaurant, can you read the posted menus?"
+yielded AUC = 0.85 (sensitivity = 0.89; specificity = 0.81). For legal blindness, "When
+seated in front of a computer, are you able to read the letters on the keyboard keys?"
+produced AUC = 0.80 (sensitivity = 0.89; specificity = 0.71). For both screening thresholds,
+adding a second item increased AUC by at most 0.05; a third item gave no further improvement.
+
+[page 2]
+Participants were recruited at four institutions between June 2019 and February 2022.
+Binocular VA with habitual correction was measured with a letter chart.
+
+[page 3]
+TABLE 1. Sample Characteristics (N = 385)
+Characteristic Value
+Female gender, n (%) 221 (57.4)
+Age (y), mean +/- SD (range) 55.71 +/- 20.54 (18-98)
+VA better than 20/40, n 121
+Glaucoma, n (%) 65 (16.9)
+
+[page 4]
+TABLE 2. Top single items for low vision screening (AUC = (sensitivity + specificity)/2)
+Q97 Restaurant menus 0.85
+Q30 Keyboard keys 0.80
+Q62 Arm's length faces 0.79
+
+Each screening question takes a few seconds to ask and answer.

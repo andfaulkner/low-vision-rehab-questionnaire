@@ -1,0 +1,13 @@
+study_id,instrument,measurement_property,n_standards_rated,overall_rating,worst_standards
+S1,VFQ-X,Structural validity,4,Very good,
+S1,VFQ-X,Internal consistency,3,Very good,
+S2,VFQ-X,Internal consistency,3,Adequate,4.2
+S1,VFQ-X,Reliability,5,Adequate,6.4
+S3,VFQ-X,Reliability,5,Doubtful,6.2
+S2,VFQ-X,Reliability,5,Doubtful,6.4
+S1,VFQ-X,Hypotheses testing,3,Adequate,9a.2
+S4,SHORT-Q,Internal consistency,3,Doubtful,4.1
+S4,SHORT-Q,Criterion validity,3,Doubtful,8.3
+S5,SHORT-Q,Criterion validity,3,Adequate,8.3
+S4,SHORT-Q,Measurement error,5,Doubtful,7.4
+S2,VFQ-X,Cross-cultural validity,3,Adequate,

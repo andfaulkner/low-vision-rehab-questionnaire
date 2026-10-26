@@ -1,0 +1,45 @@
+{
+  "name": "Vancouver / NLM Citing Medicine (numbered, bracketed)",
+  "notes": "ICMJE 'Vancouver' style as described in NLM Citing Medicine (2nd ed.). Bracketed numbers before the full stop; up to 6 authors then et al.; NLM abbreviations without italics; year Mon D;vol(issue):pages with the end page condensed; 'doi: ' with a space; PMID optional (add [ PMID: {pmid}] to the journal template if the journal wants it). In templates, [ ... ] is an optional group dropped when a placeholder inside is empty; write \\[ \\] for literal brackets.",
+  "in_text": {
+    "format": "bracket",
+    "open": "[",
+    "close": "]",
+    "separator": ",",
+    "range_dash": "-",
+    "collapse_ranges": true,
+    "after_punctuation": false
+  },
+  "reference_list": {
+    "heading": "## References",
+    "number_format": "{n}. "
+  },
+  "authors": {
+    "max_listed": 6,
+    "list_first_if_more": 6,
+    "et_al": "et al",
+    "et_al_separator": ", ",
+    "separator": ", ",
+    "final_separator": ", ",
+    "family_first": true,
+    "initials_separator": "",
+    "initials_suffix": "",
+    "keep_hyphen": false
+  },
+  "editors": {"single": "editor", "plural": "editors"},
+  "title": {"case": "sentence", "sentence_case_types": ["journal", "chapter", "preprint"], "strip_trailing_period": true},
+  "journal": {"abbreviate": true, "italic": false},
+  "pages": {"condense": true},
+  "dates": {"format": "{YYYY} {Mon} {D}"},
+  "doi": {"omit_when_url": false},
+  "templates": {
+    "journal": "{authors}. {title}. {journal}. {year}[;{volume}][({issue})][:{pages}].[ doi: {doi}]",
+    "preprint": "{authors}. {title}. {container_title} [Preprint]. {year}.[ doi: {doi}]",
+    "chapter": "{authors}. {title}. In: [{editors}, {eds}. ]{book_title}.[ {edition} ed.] [{publisher_place}: ]{publisher}; {year}[. p. {pages}].[ Available from: {url}]",
+    "book": "{authors}. {book_title}.[ {edition} ed.] [{publisher_place}: ]{publisher}; {year}.[ Available from: {url}]",
+    "report": "{authors}. {title}. [{publisher_place}: ]{publisher}; {year}.[ Available from: {url}]",
+    "guideline": "{authors}. {title}.[ {container_title}.] [{publisher_place}: ]{publisher}; {year}.[ Available from: {url}]",
+    "web": "{authors}. {title} \\[Internet\\]. [{publisher_place}: ]{container_title};[ {published}][ \\[{updated_cited}\\]].[ Available from: {url}]",
+    "other": "{authors}. {title}.[ {container_title}.][ {publisher};] {year}.[ doi: {doi}][ Available from: {url}]"
+  }
+}

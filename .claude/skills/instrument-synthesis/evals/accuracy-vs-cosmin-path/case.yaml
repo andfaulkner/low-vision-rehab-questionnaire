@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: accuracy-vs-cosmin-path
+expected_outcome: |
+  The reply explains that the Wu 2026 sensitivity/specificity is diagnostic accuracy and
+  belongs on the QUADAS-2 / DTA path (per-study table, not pooled with one cohort), that
+  COSMIN does not rate sensitivity and specificity on their own, and that same-sample item
+  selection is a QUADAS-2 index-test (D2) concern that makes the accuracy optimistic. It
+  explains that Di Maggio's alpha goes to COSMIN internal consistency but is indeterminate
+  without evidence of structural validity for the Italian version (or needs the development
+  Rasch evidence asserted), and that the correlations are hypotheses testing that stay
+  indeterminate without pre-specified hypotheses. It describes how the recommendation joins
+  the two paths (accuracy plus construct coverage, especially field/contrast loss in
+  glaucoma, plus COSMIN category and feasibility) and says the ratings are advisory.

@@ -1,0 +1,9 @@
+study_id,label,year,country,setting,design,n_enrolled,n,age_mean,age_sd,age_range,pct_female,pct_glaucoma,diagnosis_mix,recruitment,instruments,n_items,administration_mode,time_to_administer_min,language,unit_of_analysis,cohort,page,notes
+92,Wu 2026,2026,USA,four US research sites,cross-sectional,385,385,55.7,20.5,18-98,57.4,16.9,AMD 19%; glaucoma 17%,convenience sample recruited Jun 2019-Feb 2022,Single question,1,self,NR,English,person,same 385 participants as Wu 2024 TVST (Screening ID 128),"2, 3",secondary analysis
+128,Wu 2024,2024,USA,four US research sites,cross-sectional,385,385,55.7,20.5,18-98,57.4,16.9,AMD 19%; glaucoma 17%,convenience sample recruited June 2019 to February 2022,100-item Visual Acuity Survey; Single question,100,self,NR,English,person,,"2, 3",IRT validation of the survey
+11,Smith 2015,2015,UK,low vision clinic,cross-sectional,210,202,71,11,45-92,60,20,mixed,consecutive attenders 2013-2014,Single question,1,interviewer,1,English,person,,3,
+23,Lee 2018,2018,Australia,eye clinic,cross-sectional,160,160,68,12,40-90,55,35,glaucoma 35%,consecutive 2016,Single question,1,self,1,English,person,,4,
+37,Garcia 2019,2019,Spain,community,cross-sectional,320,310,66,13,50-85,58,10,mixed,population-based 2017-2018,Single question,1,telephone,2,Spanish,person,,2,
+54,Patel 2021,2021,India,eye clinic,cross-sectional,250,250,63,14,18-88,47,25,mixed,consecutive 2019,Single question,1,interviewer,1,Hindi,person,,3,
+61,Brown 2022,2022,USA,veterans,cross-sectional,180,175,74,9,55-93,8,30,glaucoma 30%,consecutive 2020-2021,Single question,1,self,1,English,person,,3,
+77,Nguyen 2020,2020,USA,glaucoma clinic,cross-sectional,120,118,70,10,50-90,52,100,glaucoma 100%,consecutive 2018,NEI VFQ-25,25,self,12,English,person,,4,

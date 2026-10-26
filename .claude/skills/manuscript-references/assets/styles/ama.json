@@ -1,0 +1,45 @@
+{
+  "name": "AMA Manual of Style, 11th ed. (numbered, superscript)",
+  "notes": "Default for Glaucoma Today (US clinical magazine; its own references are AMA-like). Journal names are NLM abbreviations in italics; up to 6 authors, first 3 + et al when more; article titles in sentence case; year;volume(issue):pages; doi:... without a URL. Edit templates to match a real reference from the target issue once you have one.",
+  "in_text": {
+    "format": "superscript",
+    "open": "^",
+    "close": "^",
+    "separator": ",",
+    "range_dash": "-",
+    "collapse_ranges": true,
+    "after_punctuation": true
+  },
+  "reference_list": {
+    "heading": "## References",
+    "number_format": "{n}. "
+  },
+  "authors": {
+    "max_listed": 6,
+    "list_first_if_more": 3,
+    "et_al": "et al",
+    "et_al_separator": ", ",
+    "separator": ", ",
+    "final_separator": ", ",
+    "family_first": true,
+    "initials_separator": "",
+    "initials_suffix": "",
+    "keep_hyphen": false
+  },
+  "editors": {"single": "ed", "plural": "eds"},
+  "title": {"case": "sentence", "sentence_case_types": ["journal", "chapter", "preprint"], "strip_trailing_period": true},
+  "journal": {"abbreviate": true, "italic": true},
+  "pages": {"condense": false},
+  "dates": {"format": "{Month} {D}, {YYYY}"},
+  "doi": {"omit_when_url": false},
+  "templates": {
+    "journal": "{authors}. {title}. {journal}. {year}[;{volume}][({issue})][:{pages}].[ doi:{doi}]",
+    "preprint": "{authors}. {title}. {container_title}. Preprint posted online {year}.[ doi:{doi}]",
+    "chapter": "{authors}. {title}. In: [{editors}, {eds}. ]{book_title}.[ {edition} ed.] {publisher}; {year}[:{pages}].[ Accessed {accessed}.][ {url}]",
+    "book": "{authors}. {book_title}.[ {edition} ed.] {publisher}; {year}.[ Accessed {accessed}.][ {url}]",
+    "report": "{authors}. {title}. {publisher}; {year}.[ Accessed {accessed}.][ {url}]",
+    "guideline": "{authors}. {title}.[ {container_title}.] {publisher}; {year}.[ Accessed {accessed}.][ {url}]",
+    "web": "{authors}. {title}. {container_title}.[ Published {published}.][ Updated {updated}.][ Accessed {accessed}.] {url}",
+    "other": "{authors}. {title}.[ {container_title}.][ {publisher};] {year}.[ doi:{doi}][ Accessed {accessed}.][ {url}]"
+  }
+}

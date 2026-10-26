@@ -1,0 +1,6 @@
+id,decision,reason,rationale
+2,Exclude,Intervention study only,Multifocal RGP fitting plus low vision care; no questionnaire evaluated
+4,Exclude,Review / opinion,Narrative review of low vision services
+5,Include,,Rasch validation of the APEDS-VFQ in 351 visually impaired adults
+6,Maybe,Other (see notes),Nursing-home teleophthalmology; questionnaire use unclear
+9,Exclude,No questionnaire/screening item,"AI-assisted visual acuity screening device, no self-report item"

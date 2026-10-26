@@ -1,0 +1,12 @@
+instrument,property,k,k_indeterminate,total_n,results,per_study,summary_rating,summary_word,summary_note,rob_ratings,rob_judgement,downgrades,imprecision,indirectness,quality_of_evidence
+LVQOL,Structural validity,1,1,150,,26 Wolffsohn 2000: ? (n=150),?,indeterminate,all results indeterminate,unrated,,,,none,not graded (indeterminate)
+APEDS-VFQ,Structural validity,1,0,351,,5 Gothwal 2012: - (n=351),-,insufficient,1 insufficient,unrated,no --rob file: risk of bias not applied,RoB +0; inconsistency +0; imprecision +0; indirectness +0,total n = 351 > 100,none,High (RoB not applied)
+LVQOL,Internal consistency,2,2,515,,26 Wolffsohn 2000: ? (n=150); 119 Perez-Mana 2022: ? (n=365),?,indeterminate,all results indeterminate,unrated; unrated,,,,none,not graded (indeterminate)
+LVQOL,Reliability,1,1,150,ICC 0.72,26 Wolffsohn 2000: + (n=150); 119 Perez-Mana 2022: ? (n=73),+,sufficient,"1 sufficient, 1 indeterminate (ignored)",unrated,no --rob file: risk of bias not applied,RoB +0; inconsistency +0; imprecision +0; indirectness +0,total n = 150 > 100,none,High (RoB not applied)
+LVQOL,Hypotheses testing,1,0,220,,26 Wolffsohn 2000: + (n=220),+,sufficient,1 sufficient,unrated,no --rob file: risk of bias not applied,RoB +0; inconsistency +0; imprecision +0; indirectness +0,total n = 220 > 100,none,High (RoB not applied)
+LVQOL,Criterion validity,1,1,365,,119 Perez-Mana 2022: ? (n=365),?,indeterminate,all results indeterminate,unrated,,,,none,not graded (indeterminate)
+VA LV VFQ-48,Internal consistency,2,0,248,reliability (alpha/PSR) 0.94; alpha/omega 0.98,74 Szlyk 2004: + (n=117); 105 Di Maggio 2020: + (n=131),+,sufficient,2 sufficient,unrated; unrated,no --rob file: risk of bias not applied,RoB +0; inconsistency +0; imprecision +0; indirectness +0,total n = 248 > 100,none,High (RoB not applied)
+VA LV VFQ-48,Hypotheses testing,1,1,131,,105 Di Maggio 2020: ? (n=131),?,indeterminate,all results indeterminate,unrated,,,,none,not graded (indeterminate)
+VA LV VFQ-48,Responsiveness,1,1,285,,66 Stelmack 2006: ? (n=285),?,indeterminate,all results indeterminate,unrated,,,,none,not graded (indeterminate)
+VA LV VFQ-48,Cross-cultural validity,1,1,285,,66 Stelmack 2006: ? (n=285),?,indeterminate,all results indeterminate,unrated,,,,none,not graded (indeterminate)
+APEDS-VFQ,Internal consistency,1,1,351,,5 Gothwal 2012: ? (n=351),?,indeterminate,all results indeterminate,unrated,,,,none,not graded (indeterminate)

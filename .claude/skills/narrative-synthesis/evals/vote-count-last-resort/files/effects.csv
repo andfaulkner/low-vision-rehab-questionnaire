@@ -1,0 +1,7 @@
+study_id,label,outcome_type,measure,instrument,comparator,estimate,ci_low,ci_high,se,sd,events,n,n_pos,n_neg,m1,sd1,n1,m2,sd2,n2,unit,subgroup,p_value,page,derivation,notes,direction
+77,Nguyen 2020,auc,ROC AUC (DeLong CI),NEI VFQ-25,clinician judgement,0.82,0.74,0.90,,,,118,45,73,,,,,,,person,,,4,reported,,
+11,Smith 2015,correlation,Pearson r,Single question,VA (logMAR better eye),0.45,0.33,0.55,,,,202,,,,,,,,,person,,0.001,3,reported,,
+23,Lee 2018,correlation,Pearson r,Single question,VA (logMAR better eye),0.12,-0.04,0.27,,,,160,,,,,,,,,person,,0.14,4,reported,,
+54,Patel 2021,correlation,Pearson r,Single question,VA (logMAR better eye),-0.35,-0.45,-0.24,,,,250,,,,,,,,,person,,0.001,3,reported,negative because score reversed,flip
+61,Brown 2022,correlation,Pearson r,Single question,VA (logMAR better eye),0.31,NR,NR,,,,175,,,,,,,,,person,,0.001,3,reported,,
+77,Nguyen 2020,proportion,completion rate,NEI VFQ-25,none,0.95,,,,,112,118,,,,,,,,,person,,,4,reported,,

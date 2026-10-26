@@ -1,0 +1,16 @@
+schema_version: "1.1"
+name: rate-synthetic-properties
+expected_outcome: |
+  The skill's rate_properties.py is run (python3 -I) on property_results.csv with --rob
+  cosmin_ratings.csv and produces property_ratings.csv, study_property_ratings.csv and
+  summary_of_findings.csv/.md. The reply reports that VFQ-X reliability is inconsistent
+  (ICC 0.85 sufficient in S1, ICC 0.62 insufficient in S3, the S2 Pearson test-retest
+  correlation indeterminate because no ICC was reported), that SHORT-Q internal consistency
+  is indeterminate because no structural-validity evidence exists (alpha 0.82 cannot be
+  rated), that SHORT-Q measurement error is Very low certainty (one doubtful study, n = 40)
+  and VFQ-X internal consistency is High, and advises looking for an explanation of the
+  reliability inconsistency (population, interval, mode) or reporting it as inconsistent
+  rather than silently taking a majority. It says the ratings are advisory and that AI
+  assistance must be disclosed in Methods.
+context:
+  scaffold_script: place-files.sh

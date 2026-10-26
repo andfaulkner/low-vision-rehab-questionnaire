@@ -1,0 +1,16 @@
+schema_version: "1.1"
+name: apply-ai-pass-refuses-bad-strings
+expected_outcome: |
+  Claude runs apply_decisions.py --target ai2 (dry run first) and the
+  validation refuses the file: line 3 (ID 4) has the reason "Review / opinion"
+  which is not a Lists string (it should be "Review/opinion/editorial"), and
+  line 5 (ID 6) is a Maybe carrying a reason ("Other (see notes)"), which a
+  Maybe must not. Claude fixes or asks about those two lines (the obvious fix:
+  the exact reason string for ID 4, and a blank reason for ID 6 with the
+  explanation left in the rationale), then applies the five decisions to
+  columns Q, R and S only (rows 3, 5, 6, 7 and 10 for IDs 2, 4, 5, 6, 9),
+  with --export so the CSVs follow. The reviewer's columns H-L are never
+  written, the workbook is never saved through openpyxl, and the reply says
+  the decisions are AI suggestions that the reviewer decides on.
+context:
+  scaffold_script: place-files.sh

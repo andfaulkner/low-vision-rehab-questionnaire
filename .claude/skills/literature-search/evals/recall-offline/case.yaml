@@ -1,0 +1,15 @@
+schema_version: "1.1"
+name: recall-offline
+expected_outcome: |
+  Claude runs the skill's pubmed_recall.py with --from-doc on the strategy
+  document and --cache ./cache --offline (no network call), and reports from
+  the cached responses that the revised string retrieves 593 PubMed records,
+  finds 35 of the 36 key sources (97.2%), missing only record 84, Murro 2017
+  (PMID 28430335, Stargardt reading ability and quality of life), and finds
+  12 of the 14 held-out papers, missing Mangione 2001 (NEI VFQ-25
+  development, PMID 11448327) and Nelson 2003 (GQL-15, PMID 12671469). It
+  notes that recall on the held-out set is the honest figure because the
+  string was tuned on the key sources, and does not modify the strategy
+  document or the cache.
+context:
+  scaffold_script: place-files.sh

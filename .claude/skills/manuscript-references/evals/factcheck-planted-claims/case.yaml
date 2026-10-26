@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: factcheck-planted-claims
+expected_outcome: |
+  The agent runs factcheck.py (python3 -I) with --screening screening.csv --text-dir
+  articles_text --extraction extraction --prisma prisma_counts.md and reports: "385
+  adults" FOUND on page 1 and matching studies.n; sensitivity 0.89 FOUND and matching
+  dta.sens; specificity 0.81 FOUND in the paper but a MISMATCH against dta.spec = 0.78
+  (so the extraction table, not the manuscript, needs a second look); "264 of 385" NOT
+  FOUND in the text (the paper reports 121 better than 20/40; 264 is derived) with a CSV
+  CHECK pointing at n_positive; "Twelve studies were included" a PRISMA MISMATCH against
+  10 in prisma_counts.md; and the uncited "roughly 10%" sentence listed for verification.
+  It does not edit manuscript.md or the CSVs and does not replace numbers itself.
+context:
+  scaffold_script: place-files.sh

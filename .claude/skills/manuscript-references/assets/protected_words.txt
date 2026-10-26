@@ -1,0 +1,51 @@
+# Words and phrases kept capitalised when a style converts titles to sentence case.
+# One per line; phrases may contain spaces. Add proper nouns as you meet them.
+Veterans Affairs
+Veterans Affairs Low Vision Visual Functioning Questionnaire
+National Eye Institute
+National Eye Institute Visual Function Questionnaire
+Visual Function Questionnaire
+Activity Inventory
+Impact of Vision Impairment
+Glaucoma Quality of Life
+Low Vision Quality of Life Questionnaire
+Rasch
+Snellen
+Bailey-Lovie
+Pelli-Robson
+Likert
+Mokken
+Chinese
+English
+French
+Spanish
+Portuguese
+German
+Dutch
+Italian
+Japanese
+Korean
+Hindi
+Arabic
+Canada
+Canadian
+Australia
+Australian
+America
+American
+United States
+United Kingdom
+Europe
+European
+Africa
+African
+Asia
+Asian
+India
+Indian
+Singapore
+Netherlands
+New Zealand
+Hong Kong
+Medicare
+Medicaid

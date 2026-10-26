@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: check-finds-duplicates
+expected_outcome: |
+  The agent runs cite.py check (python3 -I, no render, no resolve without --offline) and
+  reports three things: the manual entry tvst-web shares DOI 10.1167/tvst.13.9.20 with the
+  cited @doi key, so the same paper would get two reference numbers and one of the two
+  citations must go; @pmid:39292468 and @doi:10.1167/tvst.13.9.20 are the same paper and
+  are merged into one number (not an error); and the manual entry cnib-legal-blindness is
+  never cited (the cached Bibby 2007 and Dreer 2008 DOIs are also reported as never
+  cited). No key is unresolved. The agent does not write references.md or a rendered
+  manuscript and does not edit the manuscript.
+context:
+  scaffold_script: place-files.sh

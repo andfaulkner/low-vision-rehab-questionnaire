@@ -38,15 +38,21 @@ The tabs depend on each other, so changing one can silently break another.
 - Every Exclude gets exactly one reason.
 - Fill both full-text columns for every Include or Maybe paper.
 
-## Meta-analysis skills
+## Systematic-review skills
 
-The skills under `.claude/skills/` form a pipeline from the screening workbook to a reported meta-analysis. Each one's SKILL.md says when to use it; the order below is the order of the work.
+The skills under `.claude/skills/` form a pipeline from the search to the manuscript. Each one's SKILL.md says when to use it; the order below is the order of the work.
 
-1. `screening-workbook`: read, edit and re-export the source xlsx safely, and list the included records.
-2. `data-extraction`: extract study characteristics, 2x2 tables and other effect sizes from `data/articles_text/` into evidence CSVs under `paper/`.
-3. `risk-of-bias`: QUADAS-2 (and COSMIN) assessments with traffic-light plots.
-4. `dta-meta-analysis`: bivariate pooling of sensitivity and specificity, SROC and forest plots.
-5. `effect-size-meta-analysis`: random-effects pooling of correlations, AUCs, proportions and means.
-6. `prisma-reporting`: PRISMA 2020 flow diagram from the Counts tab, checklists, GRADE summary of findings, Methods text including the AI-assistance disclosure.
+1. `literature-search`: test search-string recall against the key-source PMIDs, snowball from included studies, deduplicate candidates against the Screening tab, keep the PRISMA-S search log.
+2. `screening-workbook`: read, edit and re-export the source xlsx safely, and list the included records.
+3. `study-screening`: AI-assisted title/abstract and full-text screening into the AI columns, reviewer-vs-AI agreement (kappa), second-reviewer sample, full-text retrieval tracking.
+4. `data-extraction`: extract study characteristics, 2x2 tables and other effect sizes from `data/articles_text/` into evidence CSVs under `paper/`.
+5. `risk-of-bias`: QUADAS-2 (and COSMIN) assessments with traffic-light plots.
+6. `narrative-synthesis`: synthesis without meta-analysis (SWiM): independent-dataset grouping, per-study accuracy tables and unpooled forest plots, evidence maps, vote-counting rules.
+7. `instrument-synthesis`: the instrument comparison: COSMIN ratings of measurement properties per questionnaire, feasibility table for a technician work-up.
+8. `dta-meta-analysis` and `effect-size-meta-analysis`: pooling, only for a comparison with at least four independent studies.
+9. `prisma-reporting`: PRISMA 2020 flow diagram from the Counts tab, checklists, GRADE summary of findings, Methods text including the AI-assistance disclosure.
+10. `manuscript-references`: citation keys to a numbered reference list via Crossref/PubMed, and a fact-check of every cited number against the source text and the extraction CSVs.
 
-Their scripts need numpy, scipy and matplotlib; install with `python3 -m pip install --user --break-system-packages numpy scipy matplotlib` if an import fails. Every number an AI extracts or pools is advisory until the reviewer has checked it against the source text.
+The primary question cannot be meta-analysed: the two screening items (restaurant menu, keyboard) come from one research group's overlapping cohort (TVST 2024 and Wu 2026), so their accuracy is reported per study and the synthesis follows SWiM. Pool only where a comparison has four or more independent studies of the same test against the same reference standard.
+
+Scripts run as `python3 -I script.py`; those that need numpy, scipy or matplotlib re-add the user site-packages directory themselves. Install with `python3 -m pip install --user --break-system-packages numpy scipy matplotlib` if an import still fails. Every number an AI extracts, screens, rates or pools is advisory until the reviewer has checked it against the source text.
