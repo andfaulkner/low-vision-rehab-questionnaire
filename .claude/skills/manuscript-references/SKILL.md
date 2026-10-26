@@ -40,6 +40,7 @@ Write keys where the citation belongs, before or after the full stop:
 S=.claude/skills/manuscript-references/scripts
 python3 -I $S/cite.py resolve paper/manuscript.md --bib paper/bibliography.json --manual paper/bibliography_manual.csv
 python3 -I $S/cite.py check   paper/manuscript.md --bib paper/bibliography.json --manual paper/bibliography_manual.csv --style ama
+python3 -I $S/wordcount.py    paper/manuscript.md   # body words per section; excludes keys, [VERIFY] tags, <!-- box --> blocks, tables, captions, references, author block
 python3 -I $S/cite.py render  paper/manuscript.md --bib paper/bibliography.json --manual paper/bibliography_manual.csv --style ama --numbering paper/reference_numbers.csv
 python3 -I $S/factcheck.py    paper/manuscript.md --bib paper/bibliography.json --manual paper/bibliography_manual.csv --out paper/factcheck_report.md --json paper/factcheck_report.json
 ```
