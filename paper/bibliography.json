@@ -1,0 +1,1413 @@
+{
+  "aliases": {
+    "pmid:11124300": "doi:10.1016/s0002-9394(00)00610-3",
+    "pmid:11448327": "doi:10.1001/archopht.119.7.1050",
+    "pmid:12137395": "doi:10.1097/00006324-200207000-00009",
+    "pmid:12578777": "doi:10.1016/s0161-6420(02)01742-6",
+    "pmid:12671469": "doi:10.1097/00061198-200304000-00009",
+    "pmid:16877389": "doi:10.1167/iovs.05-1319",
+    "pmid:17311573": "doi:10.1111/j.1444-0938.2007.00120.x",
+    "pmid:17700341": "doi:10.1097/opx.0b013e31812f5f24",
+    "pmid:17962445": "doi:10.1167/iovs.06-0566",
+    "pmid:21613370": "doi:10.1167/iovs.10-7055",
+    "pmid:22007046": "doi:10.7326/0003-4819-155-8-201110180-00009",
+    "pmid:22978532": "doi:10.3109/09286586.2012.712192",
+    "pmid:25052992": "doi:10.1167/iovs.14-14138",
+    "pmid:27977474": "doi:10.1097/ijg.0000000000000600",
+    "pmid:29260445": "doi:10.1007/s11136-017-1765-4",
+    "pmid:29385405": "doi:10.1093/ageing/afx202",
+    "pmid:30589760": "doi:10.1097/opx.0000000000001327",
+    "pmid:31948937": "doi:10.1136/bmj.l6890",
+    "pmid:33879374": "doi:10.1016/j.optom.2021.01.004",
+    "pmid:36543605": "doi:10.1016/j.ophtha.2022.10.033",
+    "pmid:38871087": "doi:10.1016/j.ophtha.2024.06.009",
+    "pmid:39292468": "doi:10.1167/tvst.13.9.20",
+    "pmid:39951057": "doi:10.1097/opx.0000000000002236",
+    "pmid:40889625": "doi:10.1016/j.ajo.2025.08.051",
+    "pmid:40972235": "doi:10.1016/j.vhri.2025.101498",
+    "pmid:41528105": "doi:10.1167/iovs.67.1.28",
+    "pmid:41598168": "doi:10.3390/life16010012"
+  },
+  "entries": {
+    "doi:10.1001/archopht.119.7.1050": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Mangione",
+          "given": "Carol M."
+        },
+        {
+          "family": "Lee",
+          "given": "Paul P."
+        },
+        {
+          "family": "Gutierrez",
+          "given": "Peter R."
+        },
+        {
+          "family": "Spritzer",
+          "given": "Karen"
+        },
+        {
+          "family": "Berry",
+          "given": "Sandra"
+        },
+        {
+          "family": "Hays",
+          "given": "Ron D."
+        }
+      ],
+      "container_abbrev": "Arch Ophthalmol",
+      "container_title": "Archives of Ophthalmology",
+      "doi": "10.1001/archopht.119.7.1050",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1001/archopht.119.7.1050",
+      "issue": "7",
+      "month": "7",
+      "note": "",
+      "pages": "1050-1058",
+      "pmid": "11448327",
+      "published": "",
+      "publisher": "American Medical Association (AMA)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Development of the 25-list-item National Eye Institute Visual Function Questionnaire",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1001/archopht.119.7.1050",
+      "volume": "119",
+      "year": "2001"
+    },
+    "doi:10.1007/s11136-017-1765-4": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Mokkink",
+          "given": "L. B."
+        },
+        {
+          "family": "de Vet",
+          "given": "H. C. W."
+        },
+        {
+          "family": "Prinsen",
+          "given": "C. A. C."
+        },
+        {
+          "family": "Patrick",
+          "given": "D. L."
+        },
+        {
+          "family": "Alonso",
+          "given": "J."
+        },
+        {
+          "family": "Bouter",
+          "given": "L. M."
+        },
+        {
+          "family": "Terwee",
+          "given": "C. B."
+        }
+      ],
+      "container_abbrev": "Qual Life Res",
+      "container_title": "Quality of Life Research",
+      "doi": "10.1007/s11136-017-1765-4",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1007/s11136-017-1765-4",
+      "issue": "5",
+      "month": "12",
+      "note": "",
+      "pages": "1171-1179",
+      "pmid": "29260445",
+      "published": "",
+      "publisher": "Springer Science and Business Media LLC",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "COSMIN Risk of Bias checklist for systematic reviews of Patient-Reported Outcome Measures",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1007/s11136-017-1765-4",
+      "volume": "27",
+      "year": "2018"
+    },
+    "doi:10.1016/j.ajo.2025.08.051": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Agathos",
+          "given": "Catherine P."
+        },
+        {
+          "family": "Shanidze",
+          "given": "Natela M."
+        },
+        {
+          "family": "Fletcher",
+          "given": "Donald C."
+        }
+      ],
+      "container_abbrev": "Am J Ophthalmol",
+      "container_title": "American Journal of Ophthalmology",
+      "doi": "10.1016/j.ajo.2025.08.051",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/j.ajo.2025.08.051",
+      "issue": "",
+      "month": "12",
+      "note": "",
+      "pages": "481-492",
+      "pmid": "40889625",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Importance of Screening for Contrast Sensitivity, Falls, and Mobility Limitations in Older Adults With Maculopathy",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/j.ajo.2025.08.051",
+      "volume": "280",
+      "year": "2025"
+    },
+    "doi:10.1016/j.ophtha.2022.10.033": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Jackson",
+          "given": "Mary Lou"
+        },
+        {
+          "family": "Virgili",
+          "given": "Gianni"
+        },
+        {
+          "family": "Shepherd",
+          "given": "John D."
+        },
+        {
+          "family": "Di Nome",
+          "given": "Marie A."
+        },
+        {
+          "family": "Fletcher",
+          "given": "Donald Calvin"
+        },
+        {
+          "family": "Kaleem",
+          "given": "Mona A."
+        },
+        {
+          "family": "Lam",
+          "given": "Linda A."
+        },
+        {
+          "family": "Lawrence",
+          "given": "Linda M."
+        },
+        {
+          "family": "Sunness",
+          "given": "Janet S."
+        },
+        {
+          "family": "Riddering",
+          "given": "Anne T."
+        }
+      ],
+      "container_abbrev": "Ophthalmology",
+      "container_title": "Ophthalmology",
+      "doi": "10.1016/j.ophtha.2022.10.033",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/j.ophtha.2022.10.033",
+      "issue": "3",
+      "month": "3",
+      "note": "",
+      "pages": "P271-P335",
+      "pmid": "36543605",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Vision Rehabilitation Preferred Practice Pattern",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/j.ophtha.2022.10.033",
+      "volume": "130",
+      "year": "2023"
+    },
+    "doi:10.1016/j.ophtha.2024.06.009": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Potter",
+          "given": "Taylor"
+        },
+        {
+          "family": "Almidani",
+          "given": "Louay"
+        },
+        {
+          "family": "Diaz",
+          "given": "Mariah"
+        },
+        {
+          "family": "Varadaraj",
+          "given": "Varshini"
+        },
+        {
+          "family": "Mihailovic",
+          "given": "Aleksandra"
+        },
+        {
+          "family": "Ramulu",
+          "given": "Pradeep Y."
+        }
+      ],
+      "container_abbrev": "Ophthalmology",
+      "container_title": "Ophthalmology",
+      "doi": "10.1016/j.ophtha.2024.06.009",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/j.ophtha.2024.06.009",
+      "issue": "12",
+      "month": "12",
+      "note": "",
+      "pages": "1447-1456",
+      "pmid": "38871087",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Concordance between Self-Reported Visual Difficulty and Objective Visual Impairment",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/j.ophtha.2024.06.009",
+      "volume": "131",
+      "year": "2024"
+    },
+    "doi:10.1016/j.optom.2021.01.004": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Pérez-Mañá",
+          "given": "Luis"
+        },
+        {
+          "family": "Cardona",
+          "given": "Genis"
+        },
+        {
+          "family": "Pardo-Cladellas",
+          "given": "Yolanda"
+        },
+        {
+          "family": "Pérez-Mañá",
+          "given": "Clara"
+        },
+        {
+          "family": "Amorós-Martínez",
+          "given": "Jaume"
+        },
+        {
+          "family": "González-Sanchís",
+          "given": "Luis"
+        },
+        {
+          "family": "Wolffsohn",
+          "given": "James S."
+        },
+        {
+          "family": "Antón",
+          "given": "Alfonso"
+        }
+      ],
+      "container_abbrev": "J Optom",
+      "container_title": "Journal of Optometry",
+      "doi": "10.1016/j.optom.2021.01.004",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/j.optom.2021.01.004",
+      "issue": "3",
+      "month": "7",
+      "note": "",
+      "pages": "199-209",
+      "pmid": "33879374",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Validation of the Spanish version of the Low Vision Quality of Life Questionnaire",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/j.optom.2021.01.004",
+      "volume": "15",
+      "year": "2022"
+    },
+    "doi:10.1016/j.vhri.2025.101498": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Surawatsatien",
+          "given": "Nuntachai"
+        },
+        {
+          "family": "Pongsachareonnont",
+          "given": "Pear Ferreira"
+        },
+        {
+          "family": "Waoraweewon",
+          "given": "Sarinyaporn"
+        },
+        {
+          "family": "Homkong",
+          "given": "Gorawit"
+        },
+        {
+          "family": "Keereekeaw",
+          "given": "Anchisa"
+        },
+        {
+          "family": "Sakthong",
+          "given": "Phantipa"
+        }
+      ],
+      "container_abbrev": "Value Health Reg Issues",
+      "container_title": "Value in Health Regional Issues",
+      "doi": "10.1016/j.vhri.2025.101498",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/j.vhri.2025.101498",
+      "issue": "",
+      "month": "1",
+      "note": "",
+      "pages": "101498",
+      "pmid": "40972235",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patients With Visual Impairment",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/j.vhri.2025.101498",
+      "volume": "51",
+      "year": "2026"
+    },
+    "doi:10.1016/s0002-9394(00)00610-3": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Wolffsohn",
+          "given": "James S"
+        },
+        {
+          "family": "Cochrane",
+          "given": "Anthea L"
+        }
+      ],
+      "container_abbrev": "Am J Ophthalmol",
+      "container_title": "American Journal of Ophthalmology",
+      "doi": "10.1016/S0002-9394(00)00610-3",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/s0002-9394(00)00610-3",
+      "issue": "6",
+      "month": "12",
+      "note": "",
+      "pages": "793-802",
+      "pmid": "11124300",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Design of the low vision quality-of-life questionnaire (LVQOL) and measuring the outcome of low-vision rehabilitation",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/s0002-9394(00)00610-3",
+      "volume": "130",
+      "year": "2000"
+    },
+    "doi:10.1016/s0161-6420(02)01742-6": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Sumi",
+          "given": "Izumi"
+        },
+        {
+          "family": "Shirato",
+          "given": "Shiroaki"
+        },
+        {
+          "family": "Matsumoto",
+          "given": "Shun"
+        },
+        {
+          "family": "Araie",
+          "given": "Makoto"
+        }
+      ],
+      "container_abbrev": "Ophthalmology",
+      "container_title": "Ophthalmology",
+      "doi": "10.1016/S0161-6420(02)01742-6",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1016/s0161-6420(02)01742-6",
+      "issue": "2",
+      "month": "2",
+      "note": "",
+      "pages": "332-339",
+      "pmid": "12578777",
+      "published": "",
+      "publisher": "Elsevier BV",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "The relationship between visual disability and visual field in patients with glaucoma",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1016/s0161-6420(02)01742-6",
+      "volume": "110",
+      "year": "2003"
+    },
+    "doi:10.1093/ageing/afx202": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Labreche",
+          "given": "Tammy"
+        },
+        {
+          "family": "Nandakumar",
+          "given": "Krithika"
+        },
+        {
+          "family": "Althomali",
+          "given": "Mohammed"
+        },
+        {
+          "family": "Leat",
+          "given": "Susan J"
+        }
+      ],
+      "container_abbrev": "Age Ageing",
+      "container_title": "Age and Ageing",
+      "doi": "10.1093/ageing/afx202",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1093/ageing/afx202",
+      "issue": "3",
+      "month": "1",
+      "note": "",
+      "pages": "444-450",
+      "pmid": "29385405",
+      "published": "",
+      "publisher": "Oxford University Press (OUP)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Development and validation of Visual Impairment as a Risk for Falls Questionnaire",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1093/ageing/afx202",
+      "volume": "47",
+      "year": "2018"
+    },
+    "doi:10.1097/00006324-200207000-00009": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Gresset",
+          "given": "Jacques"
+        },
+        {
+          "family": "Baumgarten",
+          "given": "Mona"
+        }
+      ],
+      "container_abbrev": "Optom Vis Sci",
+      "container_title": "Optometry and Vision Science",
+      "doi": "10.1097/00006324-200207000-00009",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1097/00006324-200207000-00009",
+      "issue": "7",
+      "month": "7",
+      "note": "",
+      "pages": "416-423",
+      "pmid": "12137395",
+      "published": "",
+      "publisher": "Wiley",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Prevalence of Visual Impairment and Utilization of Rehabilitation Services in the Visually Impaired Elderly Population of Quebec",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1097/00006324-200207000-00009",
+      "volume": "79",
+      "year": "2002"
+    },
+    "doi:10.1097/00061198-200304000-00009": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Nelson",
+          "given": "Patricia"
+        },
+        {
+          "family": "Aspinall",
+          "given": "Peter"
+        },
+        {
+          "family": "Papasouliotis",
+          "given": "Orestis"
+        },
+        {
+          "family": "Worton",
+          "given": "Bruce"
+        },
+        {
+          "family": "O'Brien",
+          "given": "Colm"
+        }
+      ],
+      "container_abbrev": "J Glaucoma",
+      "container_title": "Journal of Glaucoma",
+      "doi": "10.1097/00061198-200304000-00009",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1097/00061198-200304000-00009",
+      "issue": "2",
+      "month": "4",
+      "note": "",
+      "pages": "139-150",
+      "pmid": "12671469",
+      "published": "",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Quality of Life in Glaucoma and Its Relationship with Visual Function",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1097/00061198-200304000-00009",
+      "volume": "12",
+      "year": "2003"
+    },
+    "doi:10.1097/ijg.0000000000000600": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Kaleem",
+          "given": "Mona A."
+        },
+        {
+          "family": "West",
+          "given": "Sheila K."
+        },
+        {
+          "family": "Im",
+          "given": "Lily T."
+        },
+        {
+          "family": "Swenor",
+          "given": "Bonnielin K."
+        }
+      ],
+      "container_abbrev": "J Glaucoma",
+      "container_title": "Journal of Glaucoma",
+      "doi": "10.1097/IJG.0000000000000600",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1097/ijg.0000000000000600",
+      "issue": "2",
+      "month": "2",
+      "note": "",
+      "pages": "e115-e120",
+      "pmid": "27977474",
+      "published": "",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Referral to Low Vision Services for Glaucoma Patients: Referral Patterns and Characteristics of Those Who Refer",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1097/ijg.0000000000000600",
+      "volume": "26",
+      "year": "2017"
+    },
+    "doi:10.1097/opx.0000000000001327": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Selivanova",
+          "given": "Alexandra"
+        },
+        {
+          "family": "Fenwick",
+          "given": "Eva"
+        },
+        {
+          "family": "Man",
+          "given": "Ryan"
+        },
+        {
+          "family": "Seiple",
+          "given": "William"
+        },
+        {
+          "family": "Jackson",
+          "given": "Mary Lou"
+        }
+      ],
+      "container_abbrev": "Optom Vis Sci",
+      "container_title": "Optometry and Vision Science",
+      "doi": "10.1097/OPX.0000000000001327",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1097/opx.0000000000001327",
+      "issue": "2",
+      "month": "2",
+      "note": "",
+      "pages": "87-94",
+      "pmid": "30589760",
+      "published": "",
+      "publisher": "Wiley",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Outcomes After Comprehensive Vision Rehabilitation Using Vision-related Quality of Life Questionnaires: Impact of Vision Impairment and National Eye Institute Visual Functioning Questionnaire",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1097/opx.0000000000001327",
+      "volume": "96",
+      "year": "2019"
+    },
+    "doi:10.1097/opx.0000000000002236": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Stalin",
+          "given": "Amritha"
+        },
+        {
+          "family": "Khan",
+          "given": "Shamrozé"
+        },
+        {
+          "family": "Labreche",
+          "given": "Tammy"
+        },
+        {
+          "family": "Narayan",
+          "given": "Abhishek"
+        },
+        {
+          "family": "Christian",
+          "given": "Lisa W. T."
+        },
+        {
+          "family": "Stanberry",
+          "given": "Andre"
+        },
+        {
+          "family": "Leat",
+          "given": "Susan J."
+        }
+      ],
+      "container_abbrev": "Optom Vis Sci",
+      "container_title": "Optometry and Vision Science",
+      "doi": "10.1097/OPX.0000000000002236",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1097/opx.0000000000002236",
+      "issue": "4",
+      "month": "4",
+      "note": "",
+      "pages": "221-227",
+      "pmid": "39951057",
+      "published": "",
+      "publisher": "Wiley",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Development of a screening tool for reduced vision among inpatients of hospital rehabilitation units",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1097/opx.0000000000002236",
+      "volume": "102",
+      "year": "2025"
+    },
+    "doi:10.1097/opx.0b013e31812f5f24": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "La Grow",
+          "given": "Steven J."
+        }
+      ],
+      "container_abbrev": "Optom Vis Sci",
+      "container_title": "Optometry and Vision Science",
+      "doi": "10.1097/OPX.0b013e31812f5f24",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1097/opx.0b013e31812f5f24",
+      "issue": "8",
+      "month": "8",
+      "note": "",
+      "pages": "785-788",
+      "pmid": "17700341",
+      "published": "",
+      "publisher": "Wiley",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Predicting Perceived Quality of Life Scores From the National Eye Institute 25-item Visual Function Questionnaire",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1097/opx.0b013e31812f5f24",
+      "volume": "84",
+      "year": "2007"
+    },
+    "doi:10.1111/j.1444-0938.2007.00120.x": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Bibby",
+          "given": "Sarah A"
+        },
+        {
+          "family": "Maslin",
+          "given": "Erin R"
+        },
+        {
+          "family": "McIlraith",
+          "given": "Roberta"
+        },
+        {
+          "family": "Soong",
+          "given": "Grace P"
+        }
+      ],
+      "container_abbrev": "Clin Exp Optom",
+      "container_title": "Clinical and Experimental Optometry",
+      "doi": "10.1111/j.1444-0938.2007.00120.x",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1111/j.1444-0938.2007.00120.x",
+      "issue": "2",
+      "month": "3",
+      "note": "",
+      "pages": "115-123",
+      "pmid": "17311573",
+      "published": "",
+      "publisher": "Informa UK Limited",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Vision and self-reported mobility performance in patients with low vision",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1111/j.1444-0938.2007.00120.x",
+      "volume": "90",
+      "year": "2007"
+    },
+    "doi:10.1136/bmj.l6890": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Campbell",
+          "given": "Mhairi"
+        },
+        {
+          "family": "McKenzie",
+          "given": "Joanne E"
+        },
+        {
+          "family": "Sowden",
+          "given": "Amanda"
+        },
+        {
+          "family": "Katikireddi",
+          "given": "Srinivasa Vittal"
+        },
+        {
+          "family": "Brennan",
+          "given": "Sue E"
+        },
+        {
+          "family": "Ellis",
+          "given": "Simon"
+        },
+        {
+          "family": "Hartmann-Boyce",
+          "given": "Jamie"
+        },
+        {
+          "family": "Ryan",
+          "given": "Rebecca"
+        },
+        {
+          "family": "Shepperd",
+          "given": "Sasha"
+        },
+        {
+          "family": "Thomas",
+          "given": "James"
+        },
+        {
+          "family": "Welch",
+          "given": "Vivian"
+        },
+        {
+          "family": "Thomson",
+          "given": "Hilary"
+        }
+      ],
+      "container_abbrev": "BMJ",
+      "container_title": "BMJ",
+      "doi": "10.1136/bmj.l6890",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1136/bmj.l6890",
+      "issue": "",
+      "month": "1",
+      "note": "",
+      "pages": "l6890",
+      "pmid": "31948937",
+      "published": "",
+      "publisher": "BMJ",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1136/bmj.l6890",
+      "volume": "368",
+      "year": "2020"
+    },
+    "doi:10.1167/iovs.05-1319": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Stelmack",
+          "given": "Joan A."
+        },
+        {
+          "family": "Szlyk",
+          "given": "Janet P."
+        },
+        {
+          "family": "Stelmack",
+          "given": "Thomas R."
+        },
+        {
+          "family": "Demers-Turco",
+          "given": "Paulette"
+        },
+        {
+          "family": "Williams",
+          "given": "R. Tracy"
+        },
+        {
+          "family": "Moran",
+          "given": "D’Anna"
+        },
+        {
+          "family": "Massof",
+          "given": "Robert W."
+        }
+      ],
+      "container_abbrev": "Invest Ophthalmol Vis Sci",
+      "container_title": "Investigative Opthalmology & Visual Science",
+      "doi": "10.1167/iovs.05-1319",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1167/iovs.05-1319",
+      "issue": "8",
+      "month": "8",
+      "note": "",
+      "pages": "3253-3261",
+      "pmid": "16877389",
+      "published": "",
+      "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Measuring Outcomes of Vision Rehabilitation with the Veterans Affairs Low Vision Visual Functioning Questionnaire",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1167/iovs.05-1319",
+      "volume": "47",
+      "year": "2006"
+    },
+    "doi:10.1167/iovs.06-0566": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Massof",
+          "given": "Robert W."
+        },
+        {
+          "family": "Deremeik",
+          "given": "James T."
+        },
+        {
+          "family": "Park",
+          "given": "William L."
+        },
+        {
+          "family": "Grover",
+          "given": "Lori L."
+        }
+      ],
+      "container_abbrev": "Invest Ophthalmol Vis Sci",
+      "container_title": "Investigative Opthalmology & Visual Science",
+      "doi": "10.1167/iovs.06-0566",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1167/iovs.06-0566",
+      "issue": "11",
+      "month": "11",
+      "note": "",
+      "pages": "4955-4962",
+      "pmid": "17962445",
+      "published": "",
+      "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Self-reported importance and difficulty of driving in a low-vision clinic population",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1167/iovs.06-0566",
+      "volume": "48",
+      "year": "2007"
+    },
+    "doi:10.1167/iovs.10-7055": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Tabrett",
+          "given": "Daryl R."
+        },
+        {
+          "family": "Latham",
+          "given": "Keziah"
+        }
+      ],
+      "container_abbrev": "Invest Ophthalmol Vis Sci",
+      "container_title": "Investigative Opthalmology & Visual Science",
+      "doi": "10.1167/iovs.10-7055",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1167/iovs.10-7055",
+      "issue": "8",
+      "month": "7",
+      "note": "",
+      "pages": "5293-5302",
+      "pmid": "21613370",
+      "published": "",
+      "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Factors Influencing Self-reported Vision-Related Activity Limitation in the Visually Impaired",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1167/iovs.10-7055",
+      "volume": "52",
+      "year": "2011"
+    },
+    "doi:10.1167/iovs.14-14138": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Nguyen",
+          "given": "Angeline M."
+        },
+        {
+          "family": "van Landingham",
+          "given": "Suzanne W."
+        },
+        {
+          "family": "Massof",
+          "given": "Robert W."
+        },
+        {
+          "family": "Rubin",
+          "given": "Gary S."
+        },
+        {
+          "family": "Ramulu",
+          "given": "Pradeep Y."
+        }
+      ],
+      "container_abbrev": "Invest Ophthalmol Vis Sci",
+      "container_title": "Investigative Opthalmology & Visual Science",
+      "doi": "10.1167/iovs.14-14138",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1167/iovs.14-14138",
+      "issue": "8",
+      "month": "8",
+      "note": "",
+      "pages": "5284-5290",
+      "pmid": "25052992",
+      "published": "",
+      "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Reading Ability and Reading Engagement in Older Adults With Glaucoma",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1167/iovs.14-14138",
+      "volume": "55",
+      "year": "2014"
+    },
+    "doi:10.1167/iovs.67.1.28": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Wu",
+          "given": "Yueh-Hsun"
+        },
+        {
+          "family": "Yu",
+          "given": "Deyue"
+        },
+        {
+          "family": "Goldstein",
+          "given": "Judith"
+        },
+        {
+          "family": "Kwon",
+          "given": "MiYoung"
+        },
+        {
+          "family": "Wang",
+          "given": "Chun"
+        },
+        {
+          "family": "Legge",
+          "given": "Gordon E."
+        }
+      ],
+      "container_abbrev": "Invest Ophthalmol Vis Sci",
+      "container_title": "Investigative Ophthalmology & Visual Science",
+      "doi": "10.1167/iovs.67.1.28",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1167/iovs.67.1.28",
+      "issue": "1",
+      "month": "1",
+      "note": "",
+      "pages": "28",
+      "pmid": "41528105",
+      "published": "",
+      "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Screening Questions to Identify Low Vision and Acuity-Defined Legal Blindness",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1167/iovs.67.1.28",
+      "volume": "67",
+      "year": "2026"
+    },
+    "doi:10.1167/tvst.13.9.20": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Wu",
+          "given": "Yueh-Hsun"
+        },
+        {
+          "family": "Yu",
+          "given": "Deyue"
+        },
+        {
+          "family": "Goldstein",
+          "given": "Judith E."
+        },
+        {
+          "family": "Kwon",
+          "given": "MiYoung"
+        },
+        {
+          "family": "Gobeille",
+          "given": "Micaela"
+        },
+        {
+          "family": "Watson",
+          "given": "Emily"
+        },
+        {
+          "family": "Waked",
+          "given": "Luc"
+        },
+        {
+          "family": "Gage",
+          "given": "Rachel"
+        },
+        {
+          "family": "Wang",
+          "given": "Chun"
+        },
+        {
+          "family": "Legge",
+          "given": "Gordon E."
+        }
+      ],
+      "container_abbrev": "Transl Vis Sci Technol",
+      "container_title": "Translational Vision Science & Technology",
+      "doi": "10.1167/tvst.13.9.20",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.1167/tvst.13.9.20",
+      "issue": "9",
+      "month": "9",
+      "note": "",
+      "pages": "20",
+      "pmid": "39292468",
+      "published": "",
+      "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Estimating Visual Acuity Without a Visual Acuity Chart",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.1167/tvst.13.9.20",
+      "volume": "13",
+      "year": "2024"
+    },
+    "doi:10.3109/09286586.2012.712192": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Gothwal",
+          "given": "Vijaya K."
+        },
+        {
+          "family": "Bagga",
+          "given": "Deepak K."
+        }
+      ],
+      "container_abbrev": "Ophthalmic Epidemiol",
+      "container_title": "Ophthalmic Epidemiology",
+      "doi": "10.3109/09286586.2012.712192",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.3109/09286586.2012.712192",
+      "issue": "5",
+      "month": "9",
+      "note": "",
+      "pages": "306-316",
+      "pmid": "22978532",
+      "published": "",
+      "publisher": "Informa UK Limited",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Andhra Pradesh Eye Disease Study – Visual Function Questionnaire: Further Improvements in Psychometric Properties using Rasch Analysis",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.3109/09286586.2012.712192",
+      "volume": "19",
+      "year": "2012"
+    },
+    "doi:10.3390/life16010012": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Ernst",
+          "given": "Julia"
+        },
+        {
+          "family": "Huang",
+          "given": "Janice"
+        },
+        {
+          "family": "Tsosie",
+          "given": "Jakob"
+        },
+        {
+          "family": "Ramsey",
+          "given": "David J."
+        }
+      ],
+      "container_abbrev": "Life (Basel)",
+      "container_title": "Life",
+      "doi": "10.3390/life16010012",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.3390/life16010012",
+      "issue": "1",
+      "month": "12",
+      "note": "",
+      "pages": "12",
+      "pmid": "41598168",
+      "published": "",
+      "publisher": "MDPI AG",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "Factors Associated with Referral to Low Vision for Patients with Advanced Glaucoma",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.3390/life16010012",
+      "volume": "16",
+      "year": "2025"
+    },
+    "doi:10.7326/0003-4819-155-8-201110180-00009": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Whiting",
+          "given": "Penny F."
+        },
+        {
+          "family": "Rutjes",
+          "given": "Anne W.S."
+        },
+        {
+          "family": "Westwood",
+          "given": "Marie E."
+        },
+        {
+          "family": "Mallett",
+          "given": "Susan"
+        },
+        {
+          "family": "Deeks",
+          "given": "Jonathan J."
+        },
+        {
+          "family": "Reitsma",
+          "given": "Johannes B."
+        },
+        {
+          "family": "Leeflang",
+          "given": "Mariska M.G."
+        },
+        {
+          "family": "Sterne",
+          "given": "Jonathan A.C."
+        },
+        {
+          "family": "Bossuyt",
+          "given": "Patrick M.M."
+        },
+        {
+          "family": "the QUADAS-2 Group*",
+          "given": ""
+        }
+      ],
+      "container_abbrev": "Ann Intern Med",
+      "container_title": "Annals of Internal Medicine",
+      "doi": "10.7326/0003-4819-155-8-201110180-00009",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "doi:10.7326/0003-4819-155-8-201110180-00009",
+      "issue": "8",
+      "month": "10",
+      "note": "",
+      "pages": "529-536",
+      "pmid": "22007046",
+      "published": "",
+      "publisher": "American College of Physicians",
+      "publisher_place": "",
+      "source": "crossref+pubmed",
+      "text_file": "",
+      "title": "QUADAS-2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies",
+      "type": "journal",
+      "updated": "",
+      "url": "https://doi.org/10.7326/0003-4819-155-8-201110180-00009",
+      "volume": "155",
+      "year": "2011"
+    },
+    "pmid:12202503": {
+      "accessed": "",
+      "authors": [
+        {
+          "family": "Stelmack",
+          "given": "JA"
+        },
+        {
+          "family": "Stelmack",
+          "given": "TR"
+        },
+        {
+          "family": "Massof",
+          "given": "RW"
+        }
+      ],
+      "container_abbrev": "Invest Ophthalmol Vis Sci",
+      "container_title": "Investigative ophthalmology & visual science",
+      "doi": "",
+      "edition": "",
+      "editors": [],
+      "fetched": "2026-10-26",
+      "id": "pmid:12202503",
+      "issue": "9",
+      "month": "Sep",
+      "note": "",
+      "pages": "2859-2868",
+      "pmid": "12202503",
+      "published": "",
+      "publisher": "",
+      "publisher_place": "",
+      "source": "pubmed",
+      "text_file": "",
+      "title": "Measuring low-vision rehabilitation outcomes with the NEI VFQ-25.",
+      "type": "journal",
+      "updated": "",
+      "url": "",
+      "volume": "43",
+      "year": "2002"
+    }
+  }
+}

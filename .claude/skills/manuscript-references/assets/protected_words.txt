@@ -49,3 +49,13 @@ New Zealand
 Hong Kong
 Medicare
 Medicaid
+Andhra Pradesh Eye Disease Study
+Quebec
+Thai
+Visual Impairment as a Risk for Falls Questionnaire
+National Eye Institute Visual Functioning Questionnaire
+Low Vision Visual Functioning Questionnaire
+Impact of Vision Impairment
+Spanish
+COSMIN
+QUADAS-2
