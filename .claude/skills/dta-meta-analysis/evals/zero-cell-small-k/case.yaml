@@ -1,0 +1,15 @@
+schema_version: "1.1"
+name: zero-cell-small-k
+expected_outcome: |
+  Claude runs dta_pool.py validate and then run on dta.csv (k = 5, two zero cells) with
+  --subgroup population, producing analysis/dta/<name>/ with results.json, summary.md,
+  per_study.csv, sroc and forest figures. The reply reports pooled sensitivity about 0.85
+  and specificity about 0.92 with 95% CIs, says the 0.5 continuity correction was applied
+  only to the two zero-cell studies and only for LR/DOR/normal-approximation inputs, warns
+  that with k = 5 the between-study variance and correlation are unstable (correlation at
+  the boundary, so the HSROC curve and prediction region are not trustworthy), notes the
+  community subgroup has only 2 studies and the LRT is not significant, says Deeks' test
+  was not done because k < 10, gives a methods paragraph citing Reitsma 2005 / Chu & Cole
+  2006 and states AI assistance must be disclosed.
+context:
+  scaffold_script: place-files.sh

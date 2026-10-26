@@ -1,0 +1,12 @@
+schema_version: "1.1"
+name: refuses-to-pool-three-studies
+expected_outcome: |
+  Claude runs the script, which refuses to fit the bivariate model because k = 3 < 4, and
+  the reply explains that the three between-study variance parameters cannot be estimated
+  from three studies. It presents the per-study sensitivities and specificities with exact
+  CIs (and the forest plot), gives the range rather than a single pooled number as the
+  recommended way to report, and if it mentions the univariate fixed/random pooled values
+  it labels them as descriptive only. It does not present a bivariate pooled estimate as
+  if it were valid, and it recommends how to phrase the result in the paper.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: flow-incomplete-screening
+expected_outcome: |
+  The Counts export comes from a workbook whose title/abstract screening is only partly
+  done (40 of 135 records decided, no full-text decisions). Running scripts/prisma_flow.py
+  reports that screening is incomplete and prints discrepancies (135 screened minus 27
+  excluded is not 13 sought; 13 sought is not 0 assessed), exits with status 2 and stamps
+  the diagram DRAFT. The response tells the user that the diagram and the Results paragraph
+  are provisional because screening is unfinished, and does not present 0 included studies
+  (or any other number below the screening box) as a final result. It must not silently
+  "fix" the numbers with --override to make them reconcile.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,7 @@
+study_id,label,outcome_type,instrument,comparator,estimate,ci_low,ci_high,se,n,n_pos,n_neg,events,setting
+p01,Khan 2012,proportion,clinician judgement,unmet LVR need,,,,,40,,,3,clinic
+p02,Lim 2014,proportion,clinician judgement,unmet LVR need,,,,,25,,,0,clinic
+p03,Moore 2016,proportion,clinician judgement,unmet LVR need,,,,,90,,,20,clinic
+p04,Nair 2018,proportion,clinician judgement,unmet LVR need,,,,,120,,,35,community
+p05,Owen 2020,proportion,clinician judgement,unmet LVR need,,,,,50,,,12,community
+p06,Park 2022,proportion,clinician judgement,unmet LVR need,,,,,160,,,48,community

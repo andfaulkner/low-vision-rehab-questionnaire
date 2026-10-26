@@ -1,0 +1,16 @@
+schema_version: "1.1"
+name: record-reviewer-decisions
+expected_outcome: |
+  Because the user states their own screening decisions, Claude records them
+  in the reviewer's yellow columns with set_cells.py --reviewer and the exact
+  Lists strings: record 1 (row 2) H = Exclude, I = "Wrong population (not
+  adults)"; record 2 (row 3) H = Exclude, I = "No questionnaire/screening
+  item"; record 5 (row 6) H = Include, I left blank. The Counts cached values
+  are recomputed (Screened so far 3, Excluded at title/abstract 2,
+  Included + Maybe 1, Wrong population 1, No questionnaire 1) and all four
+  CSV exports regenerated so Counts.csv shows those numbers. Claude then runs
+  included.py and reports that record 5 (Gothwal 2012) goes to full text,
+  matched to "Gothwal and Bagga - 2012 - Andhra Pradesh Eye Disease Study -
+  Visual Function.txt". The workbook is never saved through openpyxl.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,21 @@
+study_id,domain,signalling_q1,signalling_q2,signalling_q3,signalling_q4,support_quote,page,rob_judgement,applicability_judgement,assessor,notes,n
+Wu2026,Patient selection,U,U,Y,Y,"The recruitment aimed to include individuals across a broad spectrum of visual function",2,Unclear,High,AF,,385
+Wu2026,Index test,U,N,N,U,"The 20 items with the highest AUC at each threshold were retained as primary candidates for subsequent pairing.",3,High,High,AF,,385
+Wu2026,Reference standard,Y,U,Y,U,"VA with habitual correction was assessed using standardized charts (Bailey–Lovie, ETDRS, or Snellen).",2,Unclear,Low,AF,,385
+Wu2026,Flow and timing,U,Y,N,Y,"This analysis included 385 participants from a cohort described previously.",3,Unclear,NA,AF,q3 minor; kept Unclear,385
+Gresset2002,Patient selection,Y,Y,Y,N,"all positive subjects, along with a random sample of negative subjects, were selected to undergo a visual examination at home.",2,High,Low,AF,,65
+Gresset2002,Index test,Y,Y,Y,Y,"Data on visual impairment were collected during a home interview carried out as part of the CSHA study.",2,Low,Low,AF,,65
+Gresset2002,Reference standard,Y,Y,Y,Y,"The first author (JG), an optometrist who was not aware of the subjects’ questionnaire responses at the time of the examination, carried out the visual assessment.",2,Low,Low,AF,,65
+Gresset2002,Flow and timing,N,N,Y,Y,"The final participation rate was 45.1%",3,High,NA,AF,,65
+Kim2019,Patient selection,Y,Y,Y,Y,"Consecutive patients attending the general eye clinic were invited.",4,Low,Low,AF,,212
+Kim2019,Index test,Y,U,NA,Y,"The questionnaire was completed in the waiting room before examination.",4,Low,Low,AF,,212
+Kim2019,Reference standard,Y,Y,Y,Y,"Best-corrected visual acuity was measured with an ETDRS chart at 4 m by a masked orthoptist.",5,Low,Low,AF,,212
+Kim2019,Flow and timing,Y,Y,Y,Y,"All 212 participants completed both the questionnaire and the examination on the same day.",5,Low,NA,AF,,212
+Lopez2015,Patient selection,N,N,Y,Y,"Patients were recruited from the low vision clinic and controls from hospital staff.",3,High,High,AF,,96
+Lopez2015,Index test,Y,N,N,Y,"The cut-off was chosen to maximise the Youden index.",6,High,Low,AF,,96
+Lopez2015,Reference standard,Y,U,Y,Y,"Visual acuity was recorded from the clinical notes of the same visit.",3,Unclear,Low,AF,,96
+Lopez2015,Flow and timing,Y,Y,Y,U,"Eighty-nine of the 96 participants had complete data.",6,Unclear,NA,AF,,96
+Nair2022,Patient selection,Y,Y,U,Y,"A random sample of 1,040 adults aged 50 years and over was drawn from the electoral roll.",2,Unclear,Low,AF,,1040
+Nair2022,Index test,Y,Y,NA,Y,"Participants answered the single question before any vision testing.",3,Low,Low,AF,,1040
+Nair2022,Reference standard,Y,Y,Y,Y,"Presenting visual acuity was measured with a logMAR chart at 3 m following the RAAB protocol.",3,Low,Unclear,AF,target condition VA<6/18 only,1040
+Nair2022,Flow and timing,Y,Y,Y,Y,"All 1,040 participants were examined on the day of interview and included in the analysis.",4,Low,NA,AF,,1040

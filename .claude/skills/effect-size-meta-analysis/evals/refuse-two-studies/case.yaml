@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: refuse-two-studies
+expected_outcome: |
+  Only two studies report the AUC, one with a CI and one with only n_pos/n_neg. The assistant
+  does not present a random-effects pooled AUC as a result for the abstract. It explains that
+  with k = 2 between-study variance cannot be estimated, presents the two AUCs side by side
+  (deriving the second SE with Hanley-McNeil via convert.py or pool.py), and at most quotes the
+  script's fixed-effect average labelled as descriptive only, recommending the abstract report
+  the range of the two studies instead.
+context:
+  scaffold_script: place-files.sh

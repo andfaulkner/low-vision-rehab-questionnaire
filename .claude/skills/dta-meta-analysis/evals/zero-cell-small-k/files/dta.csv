@@ -1,0 +1,6 @@
+study_id,label,instrument,threshold,reference_standard,TP,FP,FN,TN,population
+S1,Alpha 2015,Single item,>=1,VA<6/12,28,10,0,62,clinic
+S2,Bravo 2017,Single item,>=1,VA<6/12,45,22,7,140,clinic
+S3,Charlie 2018,Single item,>=1,VA<6/12,19,5,4,51,community
+S4,Delta 2020,Single item,>=1,VA<6/12,60,31,12,210,community
+S5,Echo 2022,Single item,>=1,VA<6/12,33,0,9,88,clinic

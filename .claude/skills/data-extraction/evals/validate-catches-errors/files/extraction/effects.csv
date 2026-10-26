@@ -1,0 +1,5 @@
+study_id,label,outcome_type,measure,instrument,comparator,estimate,ci_low,ci_high,se,sd,events,n,n_pos,n_neg,m1,sd1,n1,m2,sd2,n2,unit,subgroup,p_value,page,derivation,notes
+203,Fake 2020,spearman,Spearman rho,NEI VFQ-25,VA (logMAR),-0.55,-0.67,-0.40,,,,118,,,,,,,,,person,,0.001,8,reported directly,
+202,Fake 2018,spearman,Spearman rho,NEI VFQ-25,VA (logMAR),-0.48,-0.60,-0.34,,,,310,,,,,,,,,person,,0.001,6,reported directly,
+201,Fake 2015,correlation,Pearson r,NEI VFQ-25,VA (logMAR),-1.3,,,,,,480,,,,,,,,,person,,,7,reported directly,
+203,Fake 2020,mean,minutes to administer,NEI VFQ-25,none,10.5,,,,2.1,,118,,,,,,,,,person,,,8,reported directly,

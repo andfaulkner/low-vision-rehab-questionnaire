@@ -1,0 +1,12 @@
+schema_version: "1.1"
+name: reconcile-two-passes
+expected_outcome: |
+  The agent runs reconcile.py (python3 -I) on the two files and reports, with both values:
+  FP 90 vs 91 and TN 222 vs 221 for the Wu 2026 keyboard-keys row, prevalence 0.6857 vs
+  0.69 for the fast-food row (a precision difference), differing derivation text, and the
+  study 94 row that exists only in pass A. It matches the keyboard-keys rows despite the
+  comma difference in item_text. It does not pick a winner; it tells the reviewer to
+  resolve each from the cited page and offers the disagreement CSV with resolved_value /
+  resolved_by columns.
+context:
+  scaffold_script: place-files.sh

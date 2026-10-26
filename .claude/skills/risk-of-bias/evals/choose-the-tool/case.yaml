@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: choose-the-tool
+expected_outcome: |
+  The reply assigns the COSMIN Risk of Bias checklist (structural validity / internal
+  consistency / reliability boxes) to the Rasch study, QUADAS-2 to the single-question
+  accuracy study, and AGREE II to the guideline, with a one-line reason for each. For the
+  accuracy study it names the four QUADAS-2 domains (patient selection, index test,
+  reference standard, flow and timing) and the review-specific issues: whether the question
+  was answered blind to and before the VA measurement, whether the positive-answer threshold
+  was pre-specified, whether VA was measured with a standard chart under a stated protocol,
+  and whether everyone got the reference standard and appears in the 2x2. It notes that
+  judgements are Low/High/Unclear with no score, and that AI-drafted assessments are advisory
+  and must be disclosed.

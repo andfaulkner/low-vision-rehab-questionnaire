@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: validate-catches-errors
+expected_outcome: |
+  The agent runs validate_extraction.py (python3 -I) on extraction/ and reports the
+  planted faults: a sensitivity of 1.2 (impossible), a dta row with no page citation, two
+  duplicate dta rows for study 204, a row where TP + FN (105) does not equal n_positive
+  (100), study 205 in dta.csv with no studies.csv row, and a correlation of -1.3 in
+  effects.csv. It does not edit the numbers; it tells the reviewer to go back to the cited
+  pages. It reports that the single question x VA 20/40 group has five study IDs (four
+  with a studies.csv row plus the orphan 205), so a bivariate fit is possible once the
+  errors are fixed, and that the NEI VFQ-25 and visual-field groups have one study each
+  and cannot be pooled.
+context:
+  scaffold_script: place-files.sh

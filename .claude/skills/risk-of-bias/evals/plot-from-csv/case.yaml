@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: plot-from-csv
+expected_outcome: |
+  The skill's rob_plots.py is run (with python3 -I if that works) on the CSV with
+  --weight, producing quadas2_traffic_light.svg/.png, quadas2_summary.svg/.png and
+  quadas2_table.md under analysis/risk_of_bias/ (or a directory the user is told about).
+  The run reports the validation warning that Kim2019's Index test row records Low while its
+  signalling answers (q2 = U) imply Unclear, and the reply relays that to the user instead of
+  silently changing the judgement. The reply gives or points to the Markdown table and reminds
+  the user that AI involvement in the assessments must be disclosed in Methods if any rows
+  were AI-drafted.
+context:
+  scaffold_script: place-files.sh

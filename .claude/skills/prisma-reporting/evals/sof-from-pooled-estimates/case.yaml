@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: sof-from-pooled-estimates
+expected_outcome: |
+  Runs scripts/sof_table.py with the given sensitivity/specificity and CIs, 4 studies,
+  1234 participants, prevalences 0.1 0.3 0.5, risk of bias rated serious (case-control
+  design) and inconsistency rated serious (sensitivity 0.55 to 0.92), each with a footnote.
+  The Markdown table gives, at 30% prevalence, TP 240 (210 to 264), FN 60 (36 to 90),
+  TN 525 (455 to 581) and FP 175 (119 to 245) per 1000, and the certainty is LOW
+  (high minus two levels). The response states the certainty as low with the two
+  reasons, and notes that the judgements are the reviewer's to confirm.

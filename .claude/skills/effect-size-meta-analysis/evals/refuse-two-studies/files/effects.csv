@@ -1,0 +1,4 @@
+study_id,label,outcome_type,instrument,comparator,estimate,ci_low,ci_high,se,n,n_pos,n_neg
+a01,Hernandez 2015,auc,single item (menu reading),VA<20/40,0.81,0.74,0.88,,220,,
+a02,Ito 2019,auc,single item (menu reading),VA<20/40,0.76,,,,180,45,135
+c01,Hernandez 2015,correlation,single item (menu reading),logMAR VA,0.38,,,,220,,

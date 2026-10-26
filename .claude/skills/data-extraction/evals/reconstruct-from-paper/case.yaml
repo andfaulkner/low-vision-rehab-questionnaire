@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: reconstruct-from-paper
+expected_outcome: |
+  The agent reads paper.txt (not any PDF), greps for the accuracy numbers, writes
+  extraction/dta.csv with one row for the single screening question against better-eye
+  presenting VA worse than 6/12 (ref_threshold_logmar 0.3), n = 240, n_positive = 60,
+  sens 0.75, spec 0.80, and reconstructs the 2x2 as TP 45, FP 36, FN 15, TN 144 by running
+  scripts/reconstruct_2x2.py with python3 -I (not by hand), recording the arithmetic in the
+  derivation column. Every row cites a page. Time to administer and the proportion of
+  glaucoma are written as NR because the paper does not report them, and the final message
+  says so. Nothing is estimated or taken from memory.
+context:
+  scaffold_script: place-files.sh

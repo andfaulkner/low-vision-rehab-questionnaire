@@ -1,0 +1,9 @@
+study_id,label,instrument,item_text,threshold,reference_standard,ref_threshold,ref_threshold_logmar,unit,subgroup,n,n_positive,prevalence,TP,FP,FN,TN,sens,spec,ppv,npv,sens_ci_low,sens_ci_high,spec_ci_low,spec_ci_high,auc,auc_ci_low,auc_ci_high,ci_level,page,derivation,notes
+201,Fake 2015,Single question,Do you have trouble seeing?,answer Yes = positive,visual acuity,VA 20/40 or worse,0.3,person,,480,96,0.2,70,80,26,304,0.73,0.79,,,,,,,,,,95,7,reported directly (Table 3),
+202,Fake 2018,Single question,Do you have trouble seeing?,answer Yes = positive,visual acuity,VA 20/40 or worse,0.3,person,,310,62,0.2,50,60,12,188,0.81,0.76,,,,,,,,,,95,5,reported directly (Table 2),
+203,Fake 2020,NEI VFQ-25,total score,composite < 70,visual acuity,VA 20/40 or worse,0.3,person,,118,40,0.34,30,20,10,58,0.75,0.74,,,,,,,0.80,0.72,0.88,95,8,reported directly (Table 4),
+204,Fake 2022,Single question,Do you have trouble seeing?,answer Yes = positive,visual acuity,VA 20/40 or worse,0.3,person,,150,30,0.2,25,30,5,90,1.2,0.75,,,,,,,,,,95,,reported directly,
+204,Fake 2022,Single question,Do you have trouble seeing?,answer Yes = positive,visual acuity,VA 20/40 or worse,0.3,person,,150,30,0.2,25,30,5,90,0.83,0.75,,,,,,,,,,95,4,reported directly,
+202,Fake 2018,Single question,Do you have trouble seeing?,answer Yes = positive,visual field,MD worse than -6 dB,,person,,310,100,0.32,60,50,45,155,0.60,0.76,,,,,,,,,,95,5,reported directly,
+205,Fake 2024,Single question,Do you have trouble seeing?,answer Yes = positive,visual acuity,VA 20/40 or worse,0.3,person,,200,40,0.2,30,40,10,120,0.75,0.75,,,,,,,,,,95,3,reported directly,
+206,Fake 2023,Single question,Do you have trouble seeing?,answer Yes = positive,visual acuity,VA 20/40 or worse,0.3,person,,200,50,0.25,38,35,12,115,0.76,0.77,,,,,,,,,,95,4,reported directly (Table 2),

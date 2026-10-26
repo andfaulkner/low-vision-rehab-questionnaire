@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: pool-correlations-small-k
+expected_outcome: |
+  The assistant runs scripts/pool.py on effects.csv with --outcome correlation, pooling only
+  the five Pearson VFQ-25 vs logMAR VA rows (the two Spearman rows are kept out, or pooled
+  separately, with the reason stated). The flipped-sign study (direction=flip) is included
+  with its sign reversed rather than dropped. The reply reports a random-effects pooled r
+  near 0.45 with an HKSJ confidence interval, the 95% prediction interval, tau^2 and I^2,
+  notes that with five studies the heterogeneity statistics are imprecise, points to
+  analysis/effects/<name>/summary.md and forest.svg, and reminds the reviewer that AI
+  assistance must be disclosed in the Methods.
+context:
+  scaffold_script: place-files.sh

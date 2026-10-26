@@ -1,0 +1,8 @@
+study_id,label,outcome_type,instrument,comparator,estimate,ci_low,ci_high,se,n,n_pos,n_neg,direction,setting
+s01,Abara 2014,correlation,VFQ-25,logMAR VA,-0.52,,,,138,,,flip,clinic
+s02,Bell 2016,correlation,VFQ-25,logMAR VA,-0.41,,,,96,,,flip,clinic
+s03,Cho 2018,correlation,VFQ-25,logMAR VA,-0.47,,,,210,,,flip,community
+s04,Diaz 2019,correlation,VFQ-25,logMAR VA,-0.36,,,,72,,,flip,community
+s05,Evans 2021,correlation,VFQ-25,logMAR VA,-0.49,,,,164,,,flip,clinic
+s06,Fox 2017,spearman,VFQ-25,logMAR VA,-0.44,,,,88,,,flip,clinic
+s07,Gupta 2020,spearman,VFQ-25,logMAR VA,-0.39,,,,120,,,flip,community

@@ -1,0 +1,9 @@
+study_id,label,instrument,threshold,reference_standard,TP,FP,FN,TN
+S1,Alpha 2015,VFQ-25,<80,VA<6/12,28,10,4,62
+S1,Alpha 2015,VFQ-25,<70,VA<6/12,22,4,10,68
+S2,Bravo 2017,VFQ-25,<80,VA<6/12,45,22,7,140
+S2,Bravo 2017,VFQ-25,<70,VA<6/12,38,9,14,153
+S3,Charlie 2018,VFQ-25,<75,VA<6/12,19,5,4,51
+S4,Delta 2020,VFQ-25,<80,VA<6/12,60,31,12,210
+S5,Echo 2022,VFQ-25,<70,VA<6/12,33,6,9,88
+S6,Foxtrot 2023,LVQOL,<60,VA<6/12,20,8,6,70

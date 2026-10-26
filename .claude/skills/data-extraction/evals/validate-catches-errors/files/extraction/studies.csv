@@ -1,0 +1,6 @@
+study_id,label,year,country,setting,design,n_enrolled,n,age_mean,age_sd,age_range,pct_female,pct_glaucoma,diagnosis_mix,recruitment,instruments,n_items,administration_mode,time_to_administer_min,language,unit_of_analysis,cohort,page,notes
+201,Fake 2015,2015,Canada,community,cross-sectional,500,480,72,8,65-95,55,100,glaucoma,population,Single question,1,telephone,1,English,person,,5,
+202,Fake 2018,2018,UK,eye clinic,cross-sectional,320,310,70,9,60-90,52,40,glaucoma 40%; AMD 60%,consecutive,Single question; NEI VFQ-25,26,self,8,English,person,,4,
+203,Fake 2020,2020,France,low vision clinic,cohort,120,118,68,11,45-92,60,NR,mixed,consecutive,NEI VFQ-25,25,interviewer,10,French,person,,6,
+204,Fake 2022,2022,Australia,community,case-control,150,150,74,7,65-90,50,0,none,volunteers,Single question,1,online,1,English,person,,3,
+206,Fake 2023,2023,USA,primary care,cross-sectional,220,200,71,6,65-88,48,NR,NR,consecutive,Single question,1,interviewer,NR,English,person,,4,

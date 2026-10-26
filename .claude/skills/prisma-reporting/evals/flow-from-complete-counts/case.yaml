@@ -1,0 +1,12 @@
+schema_version: "1.1"
+name: flow-from-complete-counts
+expected_outcome: |
+  Runs scripts/prisma_flow.py on the supplied Counts CSV (python3 -I), which reconciles
+  without discrepancies (exit 0): 166 database records (PubMed 78, Scopus 88) plus 8 from
+  other sources, 39 duplicates removed, 135 screened, 110 excluded, 25 reports sought,
+  1 not retrieved (moved out of "Full text not available"), 24 assessed, 12 excluded with
+  reasons (no accuracy/validation data 9, conference abstract only 2, other 1), 12 studies
+  included. Produces the SVG and PNG diagram and prisma_counts.md, and quotes a Results
+  sentence with those numbers. Does not report the numbers as a discrepancy or as draft.
+context:
+  scaffold_script: place-files.sh

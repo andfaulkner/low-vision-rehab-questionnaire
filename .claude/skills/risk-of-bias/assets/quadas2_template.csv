@@ -1,0 +1,5 @@
+study_id,domain,signalling_q1,signalling_q2,signalling_q3,signalling_q4,support_quote,page,rob_judgement,applicability_judgement,assessor,notes
+STUDY_ID,Patient selection,,,,,,,,,,
+STUDY_ID,Index test,,,,,,,,,,
+STUDY_ID,Reference standard,,,,,,,,,,
+STUDY_ID,Flow and timing,,,,,,,,NA,,

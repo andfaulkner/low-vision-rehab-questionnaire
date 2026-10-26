@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: multiple-thresholds-per-study
+expected_outcome: |
+  Claude validates the CSV, notices that S1 and S2 contribute two thresholds each and that
+  the LVQOL row is a different instrument, and runs the analysis with --filter
+  instrument=VFQ-25 and --one-per-study closest:80 (the pre-specified threshold), so that
+  five VFQ-25 studies with one table each are pooled. It excludes the single LVQOL study
+  from pooling and reports it separately. It explains that the bivariate model assumes one
+  2x2 per study, states the selection rule for the Methods, mentions that the
+  multiple-thresholds model (Steinhauser 2016) would use all thresholds but is not
+  implemented, and flags the k = 5 small-sample caveats.
+context:
+  scaffold_script: place-files.sh

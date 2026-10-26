@@ -1,0 +1,72 @@
+[page 1]
+Journal of Test Ophthalmology 2019; 12(3): 101-106
+
+A single question to identify visual impairment in community-dwelling older adults
+
+Jane Doe, Alan Roe, Priya Nair
+
+Purpose: To estimate the accuracy of one self-report question for detecting presenting visual
+impairment among adults aged 65 and over attending a community health fair.
+Methods: Cross-sectional study. Participants answered the question "Do you have difficulty
+reading ordinary newspaper print, even with your glasses?" (yes/no) before presenting
+distance visual acuity was measured in each eye with a Snellen chart at 6 m. Visual impairment
+was defined as presenting visual acuity worse than 6/12 in the better eye.
+Results: 240 adults took part. Sixty (25%) had visual impairment. The question had a
+sensitivity of 0.75 and a specificity of 0.80.
+Conclusion: A single question identifies three quarters of older adults with presenting visual
+impairment and is brief enough for routine use.
+
+[page 2]
+INTRODUCTION
+Uncorrected refractive error and untreated cataract remain the leading causes of visual
+impairment in older adults, and many affected people are not in contact with eye services.
+A question that can be asked by non-specialists would allow targeted referral. We tested one
+such question against measured acuity.
+
+METHODS
+Design and participants
+We recruited consecutive attenders aged 65 years or older at a community health fair held in
+Somewhere, Ontario, in May 2018. People who could not communicate in English or who had a
+cognitive impairment documented by a carer were excluded. Of 262 people approached, 240
+agreed to take part and completed both the question and the acuity test. Mean age was 74.2
+years (SD 6.1; range 65 to 93) and 138 (57.5%) were women. Ocular diagnoses were not
+collected.
+
+Index test
+Before any vision test, a trained volunteer asked: "Do you have difficulty reading ordinary
+newspaper print, even with your glasses?" The answer was recorded as yes or no. A "yes" answer
+was taken as screen positive.
+
+[page 3]
+Reference standard
+Presenting distance visual acuity (with the spectacles the participant was wearing, if any)
+was measured in each eye with a standard Snellen chart at 6 m by an optometrist who did not
+know the answer to the question. Visual impairment was defined as acuity worse than 6/12
+(20/40) in the better eye.
+
+Analysis
+We calculated sensitivity, specificity and their 95% confidence intervals, treating the
+optometrist's classification as the reference standard. Analyses were done in Stata 15.
+
+RESULTS
+Table 1. Participant characteristics (n = 240)
+Characteristic                              Value
+Age, years, mean (SD)                       74.2 (6.1)
+Women, n (%)                                138 (57.5)
+Wearing distance spectacles, n (%)          171 (71.3)
+Better-eye presenting acuity 6/12 or better, n (%)   180 (75.0)
+Better-eye presenting acuity worse than 6/12, n (%)  60 (25.0)
+
+[page 4]
+Table 2. Accuracy of the question against the reference standard (n = 240)
+Measure           Estimate (95% CI)
+Sensitivity       0.75 (0.63 to 0.85)
+Specificity       0.80 (0.74 to 0.86)
+
+Eighty-one participants answered "yes" to the question. The question took well under a
+minute to ask but we did not time it.
+
+DISCUSSION
+One question detected 75% of older adults with presenting visual impairment. Specificity was
+moderate, so one in five unimpaired people would be referred. Our sample came from a single
+health fair and may over-represent people with concerns about their vision.

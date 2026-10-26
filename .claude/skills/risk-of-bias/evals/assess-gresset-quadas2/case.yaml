@@ -1,0 +1,14 @@
+schema_version: "1.1"
+name: assess-gresset-quadas2
+expected_outcome: |
+  A quadas2.csv with exactly four rows for Gresset2002 (Patient selection, Index test,
+  Reference standard, Flow and timing), each with Y/N/U answers to the tailored signalling
+  questions, a verbatim supporting quote with its [page N], a risk-of-bias judgement in
+  {Low, High, Unclear} and an applicability judgement (NA for flow and timing). Flow and
+  timing is judged High because of the ~6-month interval and the 45.1% verification rate;
+  the reference standard is judged Low (ETDRS charts, examiner blinded to questionnaire
+  answers). The reply says the judgements are AI drafts for the reviewer to confirm and that
+  the sampling of the validation subsample on the questionnaire answers means the crude
+  sensitivity/specificity do not apply to an unselected population.
+context:
+  scaffold_script: place-files.sh

@@ -21,7 +21,7 @@ The tabs depend on each other, so changing one can silently break another.
   - A–G are bibliographic: ID, Year, Authors, Title, Journal, DOI link, Abstract. In the xlsx, the DOI cell shows "Open" and the URL is a hyperlink behind it; the CSV holds the URL itself. "No link" means there is no DOI. "Missing" in Abstract means there is no abstract.
   - **H–L (yellow) are filled in by the human reviewer:** Title/abstract decision, Exclusion reason (T/A), Full-text decision, Exclusion reason (FT), Notes.
   - M is the Zotero key, which links the row back to the reviewer's Zotero library.
-  - **N–P (grey) are AI suggestions:** Suggested decision, Suggested reason, and a one-line AI rationale. They are advisory only. Never copy them into H–L as if they were the reviewer's decisions. The review's methods must report that AI assistance was used.
+  - **N–P (grey) are AI suggestions:** Suggested decision, Suggested reason, and a one-line AI rationale. Q–S hold a second, independent AI pass (decision, reason, rationale) for IDs 1–127; see `.claude/skills/screening-workbook/references/workbook-layout.md`. They are advisory only. Never copy them into H–L as if they were the reviewer's decisions. The review's methods must report that AI assistance was used.
 - **Lists**: the allowed values for the drop-downs. T/A decision: Include / Exclude / Maybe. Full-text decision: Include / Exclude. There are 10 fixed exclusion reasons, for example "No questionnaire/screening item" and "Other (see notes)". Values in Screening must match these strings exactly, or the counts will miss them.
 - **Counts**: the numbers for the PRISMA flow diagram, computed by `COUNTA`/`COUNTIF`/`SUMPRODUCT` over the Screening ranges `$H$2:$H$136`, `$I`, `$J`, `$K` and `$N`.
   - PubMed (78) and Scopus (88) are typed in by hand from the search log dated 4 Oct 2026. "Other sources" (8) is typed in by hand too: it counts records 128–135.
@@ -37,3 +37,16 @@ The tabs depend on each other, so changing one can silently break another.
 - Include and Maybe at title/abstract both go on to full-text review.
 - Every Exclude gets exactly one reason.
 - Fill both full-text columns for every Include or Maybe paper.
+
+## Meta-analysis skills
+
+The skills under `.claude/skills/` form a pipeline from the screening workbook to a reported meta-analysis. Each one's SKILL.md says when to use it; the order below is the order of the work.
+
+1. `screening-workbook`: read, edit and re-export the source xlsx safely, and list the included records.
+2. `data-extraction`: extract study characteristics, 2x2 tables and other effect sizes from `data/articles_text/` into evidence CSVs under `paper/`.
+3. `risk-of-bias`: QUADAS-2 (and COSMIN) assessments with traffic-light plots.
+4. `dta-meta-analysis`: bivariate pooling of sensitivity and specificity, SROC and forest plots.
+5. `effect-size-meta-analysis`: random-effects pooling of correlations, AUCs, proportions and means.
+6. `prisma-reporting`: PRISMA 2020 flow diagram from the Counts tab, checklists, GRADE summary of findings, Methods text including the AI-assistance disclosure.
+
+Their scripts need numpy, scipy and matplotlib; install with `python3 -m pip install --user --break-system-packages numpy scipy matplotlib` if an import fails. Every number an AI extracts or pools is advisory until the reviewer has checked it against the source text.

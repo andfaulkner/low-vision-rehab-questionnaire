@@ -1,0 +1,3 @@
+study_id,label,outcome_type,measure,instrument,comparator,estimate,ci_low,ci_high,se,sd,events,n,n_pos,n_neg,m1,sd1,n1,m2,sd2,n2,unit,subgroup,p_value,page,derivation,notes
+120,Bibby 2007,correlation,Pearson r (Rasch person measure vs vision measure),self-reported mobility questionnaire,high-contrast VA (logMAR; binocular; habitual correction),0.410,NR,NR,NR,,,30,,,,,,,,,person,,0.024,4,reported directly (Table 2 p4),32 recruited and 2 excluded after cataract surgery (p3); Pearson used after normality check (p4)
+120,Bibby 2007,correlation,Pearson r (Rasch person measure vs vision measure),self-reported mobility questionnaire,binocular visual field (% of a sphere),-0.762,NR,NR,NR,,,30,,,,,,,,,person,,0.000,4,reported directly (Table 2 p4),p reported as 0.000

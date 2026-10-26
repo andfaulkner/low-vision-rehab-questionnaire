@@ -1,0 +1,12 @@
+schema_version: "1.1"
+name: check-stale-exports
+expected_outcome: |
+  Claude runs the skill's xlsx_to_csv.py --check (or an equivalent comparison
+  of cached cell values against the CSVs), reports that only
+  LVR_screening_sheet_2_Screening.csv is stale (it lacks the last record,
+  ID 10) while Counts, Lists and Instructions are up to date, regenerates the
+  Screening export so it holds IDs 1-10 in the repo's format (stem title line,
+  URL in the DOI column), leaves the other three files and the workbook
+  untouched, and never saves the workbook with openpyxl.
+context:
+  scaffold_script: place-files.sh

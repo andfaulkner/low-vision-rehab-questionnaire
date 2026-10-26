@@ -1,0 +1,21 @@
+LVR Screening Questionnaires – Title/Abstract & Full-Text Screening,
+,
+How to use,
+1,"Go to the ""Screening"" tab. Read the title; open the abstract only if the title does not settle it."
+2,Yellow columns are the ones you fill in. Pick from the drop-down lists only.
+3,"Title/abstract decision: Include, Exclude, or Maybe (unsure). Include + Maybe both go to full text."
+4,"If you choose Exclude, also choose ONE reason in the next column."
+5,"Rows marked ""Missing"" in the Abstract column have no abstract: click the DOI link to read it online."
+6,"After full-text review, fill the two full-text columns for every Include/Maybe paper."
+7,"The ""Counts"" tab updates automatically and gives the numbers for your flow diagram."
+,
+Inclusion criteria,
+Include,"Adults (18+); evaluates a self-report questionnaire or screening item against a measure of vision or LVR need; reports accuracy, validation, or clinical use; glaucoma PROM studies; LVR referral guidelines."
+Exclude,Children only; rehabilitation interventions with no questionnaire data; no questionnaire/screening item; conference abstract without data; not English/French; case reports or opinion.
+,
+Example of a filled row,
+Title/abstract decision,Exclude
+Reason,No questionnaire/screening item
+Notes,Population study of VI prevalence; no self-report tool evaluated
+,
+AI suggestions,"Grey columns N–P hold AI-suggested decisions with a one-line rationale. They are suggestions only: read each title/abstract, then enter YOUR decision in the yellow columns. Report AI assistance in your methods."

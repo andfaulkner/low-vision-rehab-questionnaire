@@ -1,0 +1,13 @@
+schema_version: "1.1"
+name: proportions-two-transforms
+expected_outcome: |
+  Six studies report events and n, one with zero events. The assistant pools on the logit
+  scale by default and, because a study has 0% events, also runs the Freeman-Tukey transform
+  as a sensitivity analysis and reports whether the two agree, citing why (Schwarzer 2019 /
+  Barker 2021). It declines to run Egger's test, explaining that funnel-plot tests are
+  unsuitable for proportions (and that k < 10 anyway), rather than reporting a publication
+  bias p-value. The reply gives a pooled prevalence with a Hartung-Knapp CI, the prediction
+  interval, and notes the mixed settings (clinic vs community) as a reason for caution or runs
+  them as subgroups.
+context:
+  scaffold_script: place-files.sh

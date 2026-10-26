@@ -1,0 +1,3 @@
+instrument,full_name,n_items,domains,response_scale,scoring,validation_method,languages,time_to_administer_min,target_population,source_refs,notes
+Single question,Single screening question on trouble seeing,1,global vision,yes/no,yes = positive,ROC,English,1,adults,201; 202; 204; 206,
+NEI VFQ-25,National Eye Institute Visual Function Questionnaire 25,25,12 subscales,5-6 point Likert,0-100 composite,CTT; Rasch,English; French,10,adults with eye disease,202; 203,
