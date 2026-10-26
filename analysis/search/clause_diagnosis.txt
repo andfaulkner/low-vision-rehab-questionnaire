@@ -1,0 +1,44 @@
+== 39292468
+C1 ALL 0
+    "Vision, Low"[Majr] 0
+    "low vision"[ti] 0
+    "visual impairment"[ti] 0
+    "legal blindness"[tiab] 0
+    "legally blind"[tiab] 0
+C2 ALL 1
+    questionnaire*[tiab] 0
+    "self-report*"[tiab] 1
+    "screening question*"[tiab] 0
+    "single question"[tiab] 0
+    survey[ti] 0
+C3 ALL 0
+    "Sensitivity and Specificity"[Mesh] 0
+    "ROC Curve"[Mesh] 0
+    sensitivity[tiab] 0
+    specificity[tiab] 0
+    "area under the curve"[tiab] 0
+    "diagnostic accuracy"[tiab] 0
+lang 1 date 1 child 0
+extra: visual impairment tiab 0 low vision tiab 1 vision impairment tiab 1 Self Report mesh 1 survey tiab 1 visual acuity ti 1 glaucoma ti 0 reading ti 0 Rasch tiab 0 item response tiab 1 screening question tiab 0 self-report tiab 1 questions tiab 1
+== 25052992
+C1 ALL 0
+    "Vision, Low"[Majr] 0
+    "low vision"[ti] 0
+    "visual impairment"[ti] 0
+    "legal blindness"[tiab] 0
+    "legally blind"[tiab] 0
+C2 ALL 0
+    questionnaire*[tiab] 0
+    "self-report*"[tiab] 0
+    "screening question*"[tiab] 0
+    "single question"[tiab] 0
+    survey[ti] 0
+C3 ALL 1
+    "Sensitivity and Specificity"[Mesh] 0
+    "ROC Curve"[Mesh] 0
+    sensitivity[tiab] 1
+    specificity[tiab] 0
+    "area under the curve"[tiab] 0
+    "diagnostic accuracy"[tiab] 0
+lang 1 date 1 child 0
+extra: visual impairment tiab 0 low vision tiab 1 vision impairment tiab 0 Self Report mesh 0 survey tiab 0 visual acuity ti 0 glaucoma ti 1 reading ti 1 Rasch tiab 1 item response tiab 0 screening question tiab 0 self-report tiab 0 questions tiab 0

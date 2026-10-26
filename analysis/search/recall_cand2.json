@@ -1,0 +1,230 @@
+{
+  "arms": null,
+  "count": 381,
+  "date": "2026-10-26",
+  "evaluated_line": null,
+  "held_out": {
+    "found": 5,
+    "hits": [
+      {
+        "label": "GQL-15 (Nelson 2003)",
+        "pmid": "12671469"
+      },
+      {
+        "label": "IVI Rasch analysis (Lamoureux 2006)",
+        "pmid": "17065481"
+      },
+      {
+        "label": "VA LV VFQ-48 and LV VFQ-20 in LVR (2007)",
+        "pmid": "17700334"
+      },
+      {
+        "label": "The Activity Inventory (Massof 2007)",
+        "pmid": "17700339"
+      },
+      {
+        "label": "GAL-9 (Khadka 2011)",
+        "pmid": "21810983"
+      }
+    ],
+    "misses": [
+      {
+        "label": "Melbourne Low-Vision ADL Index (2001)",
+        "pmid": "11328730"
+      },
+      {
+        "label": "NEI VFQ-25 development (Mangione 2001)",
+        "pmid": "11448327"
+      },
+      {
+        "label": "Glaucoma and reading speed (Ramulu 2009)",
+        "pmid": "19139345"
+      },
+      {
+        "label": "Low-vision rehabilitation services in the US (Owsley 2009)",
+        "pmid": "19433720"
+      },
+      {
+        "label": "Salisbury self-report vs. VA concordance (2012)",
+        "pmid": "21962256"
+      },
+      {
+        "label": "Italian Glaucoma Symptom Scale (2013)",
+        "pmid": "23076040"
+      },
+      {
+        "label": "Salisbury self-rated vision score (El-Gasim 2013)",
+        "pmid": "23812494"
+      },
+      {
+        "label": "Vision Rehabilitation PPP (2018)",
+        "pmid": "29108747"
+      },
+      {
+        "label": "Referral pathways to low vision services (2023)",
+        "pmid": "36681848"
+      }
+    ],
+    "n": 14,
+    "recall": 0.35714285714285715
+  },
+  "history_lines": {},
+  "key": {
+    "found": 23,
+    "hits": [
+      {
+        "label": "65",
+        "pmid": "12202503"
+      },
+      {
+        "label": "110",
+        "pmid": "12578777"
+      },
+      {
+        "label": "74",
+        "pmid": "15505037"
+      },
+      {
+        "label": "39",
+        "pmid": "16320144"
+      },
+      {
+        "label": "97",
+        "pmid": "16384947"
+      },
+      {
+        "label": "66",
+        "pmid": "16877389"
+      },
+      {
+        "label": "76",
+        "pmid": "17700341"
+      },
+      {
+        "label": "95",
+        "pmid": "17962445"
+      },
+      {
+        "label": "93",
+        "pmid": "20722170"
+      },
+      {
+        "label": "46",
+        "pmid": "21613370"
+      },
+      {
+        "label": "5",
+        "pmid": "22978532"
+      },
+      {
+        "label": "112",
+        "pmid": "23803778"
+      },
+      {
+        "label": "133",
+        "pmid": "25052992"
+      },
+      {
+        "label": "84",
+        "pmid": "28430335"
+      },
+      {
+        "label": "27",
+        "pmid": "29385405"
+      },
+      {
+        "label": "72",
+        "pmid": "30589760"
+      },
+      {
+        "label": "86",
+        "pmid": "30776848"
+      },
+      {
+        "label": "119",
+        "pmid": "33879374"
+      },
+      {
+        "label": "52",
+        "pmid": "35466953"
+      },
+      {
+        "label": "23",
+        "pmid": "38871087"
+      },
+      {
+        "label": "128",
+        "pmid": "39292468"
+      },
+      {
+        "label": "30",
+        "pmid": "39951057"
+      },
+      {
+        "label": "92",
+        "pmid": "41528105"
+      }
+    ],
+    "misses": [
+      {
+        "label": "26",
+        "pmid": "11124300"
+      },
+      {
+        "label": "79",
+        "pmid": "12137395"
+      },
+      {
+        "label": "120",
+        "pmid": "17311573"
+      },
+      {
+        "label": "134",
+        "pmid": "27977474"
+      },
+      {
+        "label": "131",
+        "pmid": "28460047"
+      },
+      {
+        "label": "105",
+        "pmid": "31113297"
+      },
+      {
+        "label": "89",
+        "pmid": "32804622"
+      },
+      {
+        "label": "56",
+        "pmid": "34146047"
+      },
+      {
+        "label": "135",
+        "pmid": "36543605"
+      },
+      {
+        "label": "129",
+        "pmid": "37142217"
+      },
+      {
+        "label": "38",
+        "pmid": "40401755"
+      },
+      {
+        "label": "114",
+        "pmid": "40972235"
+      },
+      {
+        "label": "130",
+        "pmid": "41598168"
+      }
+    ],
+    "n": 36,
+    "recall": 0.6388888888888888
+  },
+  "not_in_pubmed": [],
+  "query": "(\"Vision, Low\"[Majr] OR \"low vision\"[ti] OR \"visual impairment\"[ti] OR \"legal blindness\"[tiab] OR \"legally blind\"[tiab] OR \"visual acuity\"[ti] OR glaucoma*[ti]) AND (questionnaire*[tiab] OR \"self-report*\"[tiab] OR \"screening question*\"[tiab] OR \"single question\"[tiab] OR survey[ti] OR \"self-rated\"[tiab]) AND (\"Sensitivity and Specificity\"[Mesh] OR \"ROC Curve\"[Mesh] OR sensitivity[tiab] OR specificity[tiab] OR \"area under the curve\"[tiab] OR \"diagnostic accuracy\"[tiab] OR \"item response\"[tiab] OR Rasch[tiab]) AND (english[la] OR french[la]) AND 2000:3000[dp] NOT (child*[ti] OR pediatric[ti] OR paediatric[ti])",
+  "query_chars": 615,
+  "query_translation": "((\"vision, low\"[MeSH Major Topic] OR \"low vision\"[Title] OR \"visual impairment\"[Title] OR \"legal blindness\"[Title/Abstract] OR \"legally blind\"[Title/Abstract] OR \"visual acuity\"[Title] OR \"glaucoma*\"[Title]) AND (\"questionnaire*\"[Title/Abstract] OR \"self report*\"[Title/Abstract] OR \"screening question*\"[Title/Abstract] OR \"single question\"[Title/Abstract] OR \"survey\"[Title] OR \"self-rated\"[Title/Abstract]) AND (\"Sensitivity and Specificity\"[MeSH Terms] OR \"ROC Curve\"[MeSH Terms] OR \"sensitivity\"[Title/Abstract] OR \"specificity\"[Title/Abstract] OR \"area under the curve\"[Title/Abstract] OR \"diagnostic accuracy\"[Title/Abstract] OR \"item response\"[Title/Abstract] OR \"Rasch\"[Title/Abstract]) AND (\"english\"[Language] OR \"french\"[Language]) AND 2000/01/01:3000/12/31[Date - Publication]) NOT (\"child*\"[Title] OR \"pediatric\"[Title] OR \"paediatric\"[Title])",
+  "source": "docs/LVR_search_strategy.md"
+}

@@ -1,0 +1,26 @@
+statistic,value
+stage,ta
+rater_a,Title/abstract decision
+rater_b,Independent T/A decision (AI)
+maybe_as,separate
+n_paired,40
+n_unpaired_a,0
+n_unpaired_b,87
+count_a_Include,4
+count_b_Include,7
+count_a_Exclude,27
+count_b_Exclude,31
+count_a_Maybe,9
+count_b_Maybe,2
+po,0.6750
+pe,0.5519
+kappa,0.2748
+se,0.1233
+ci_low,0.0331
+ci_high,0.5164
+pabak,0.5125
+specific_agreement_Include,0.5455
+specific_agreement_Exclude,0.8276
+specific_agreement_Maybe,0.0000
+n_disagreements,13
+same_reason_when_both_exclude,11/24

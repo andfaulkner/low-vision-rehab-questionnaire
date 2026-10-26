@@ -1,0 +1,385 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2025//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Curated"><PMID Version="1">39292468</PMID><DateCompleted><Year>2024</Year><Month>09</Month><Day>18</Day></DateCompleted><DateRevised><Year>2025</Year><Month>08</Month><Day>25</Day></DateRevised><Article PubModel="Print"><Journal><ISSN IssnType="Electronic">2164-2591</ISSN><JournalIssue CitedMedium="Internet"><Volume>13</Volume><Issue>9</Issue><PubDate><Year>2024</Year><Month>Sep</Month><Day>03</Day></PubDate></JournalIssue><Title>Translational vision science &amp; technology</Title><ISOAbbreviation>Transl Vis Sci Technol</ISOAbbreviation></Journal><ArticleTitle>Estimating Visual Acuity Without a Visual Acuity Chart.</ArticleTitle><Pagination><StartPage>20</StartPage><MedlinePgn>20</MedlinePgn></Pagination><ELocationID EIdType="pii" ValidYN="Y">20</ELocationID><ELocationID EIdType="doi" ValidYN="Y">10.1167/tvst.13.9.20</ELocationID><Abstract><AbstractText Label="PURPOSE">This study explored whether visual acuity (VA) can be inferred from self-reported ability to recognize everyday objects using a set of yes/no questions.</AbstractText><AbstractText Label="METHODS">Participants answered 100 yes/no questions designed to assess their ability to recognize familiar objects at typical viewing distances, such as distinguishing between a full moon and a half moon on a clear night. The questions demanded VA ranging from normal to severe vision impairment. Responses were analyzed using item response theory, and the results were compared with participants' VA values.</AbstractText><AbstractText Label="RESULTS">We recruited 385 participants from 4 sites in the United States. Participants had a mean age of 56.7&#xa0;years with VA ranging from -0.3 to 2.0 logarithm of the minimum angle of resolution (logMAR) (mean = 0.58). A strong relationship was observed between participants' estimated vision ability and their VA (r = -0.72). The linear relationship can be used to predict each participant's VA based on their estimated vision ability. The average signed and unsigned prediction errors were 0 and 0.24 logMAR, respectively, with a coefficient of repeatability of 0.59 logMAR between the estimated VA and measured VA. The same linear function was used to determine the VA limit required for each question. For instance, the VA limit for the moon question was 1.0 logMAR.</AbstractText><AbstractText Label="CONCLUSIONS">Yes/no questions about everyday visual activities have the potential to estimate an individual's VA. Future refinements may enhance reliability.</AbstractText><AbstractText Label="TRANSLATIONAL RELEVANCE">The survey provides insights into the real-world visual capabilities of people with low vision, making it potentially useful for telehealth applications.</AbstractText></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Wu</LastName><ForeName>Yueh-Hsun</ForeName><Initials>YH</Initials><AffiliationInfo><Affiliation>College of Optometry, The Ohio State University, Columbus, OH, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Department of Psychology, University of Minnesota, Minneapolis, MN, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Yu</LastName><ForeName>Deyue</ForeName><Initials>D</Initials><AffiliationInfo><Affiliation>College of Optometry, The Ohio State University, Columbus, OH, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Goldstein</LastName><ForeName>Judith E</ForeName><Initials>JE</Initials><AffiliationInfo><Affiliation>Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Kwon</LastName><ForeName>MiYoung</ForeName><Initials>M</Initials><AffiliationInfo><Affiliation>Department of Psychology, Northeastern University, Boston, MA, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Gobeille</LastName><ForeName>Micaela</ForeName><Initials>M</Initials><AffiliationInfo><Affiliation>The New England College of Optometry, Boston, MA, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Watson</LastName><ForeName>Emily</ForeName><Initials>E</Initials><AffiliationInfo><Affiliation>College of Optometry, The Ohio State University, Columbus, OH, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Waked</LastName><ForeName>Luc</ForeName><Initials>L</Initials><AffiliationInfo><Affiliation>College of Optometry, The Ohio State University, Columbus, OH, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Gage</LastName><ForeName>Rachel</ForeName><Initials>R</Initials><AffiliationInfo><Affiliation>Department of Psychology, University of Minnesota, Minneapolis, MN, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Wang</LastName><ForeName>Chun</ForeName><Initials>C</Initials><AffiliationInfo><Affiliation>Measurement and Statistics, College of Education, University of Washington, Seattle, WA, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Legge</LastName><ForeName>Gordon E</ForeName><Initials>GE</Initials><AffiliationInfo><Affiliation>Department of Psychology, University of Minnesota, Minneapolis, MN, USA.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><GrantList CompleteYN="Y"><Grant><GrantID>R01 EY002934</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant><Grant><GrantID>R01 EY025658</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant><Grant><GrantID>R01 EY027857</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant></GrantList><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType><PublicationType UI="D016448">Multicenter Study</PublicationType><PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType></PublicationTypeList></Article><MedlineJournalInfo><Country>United States</Country><MedlineTA>Transl Vis Sci Technol</MedlineTA><NlmUniqueID>101595919</NlmUniqueID><ISSNLinking>2164-2591</ISSNLinking></MedlineJournalInfo><CitationSubset>IM</CitationSubset><MeshHeadingList><MeshHeading><DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D014792" MajorTopicYN="Y">Visual Acuity</DescriptorName><QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName></MeshHeading><MeshHeading><DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D014787" MajorTopicYN="Y">Vision Tests</DescriptorName><QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName></MeshHeading><MeshHeading><DescriptorName UI="D057566" MajorTopicYN="N">Self Report</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName></MeshHeading></MeshHeadingList><CoiStatement>Disclosure: <b>Y.-H. Wu</b>, None; <b>D. Yu</b>, None; <b>J.E. Goldstein</b>, None; <b>M. Kwom</b>, None; <b>M. Gobeille</b>, None; <b>E. Watson</b>, None; <b>L. Waked</b>, None; <b>R. Gage</b>, None; <b>C. Wang</b>, None; <b>G.E. Legge</b>, None</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="medline"><Year>2024</Year><Month>9</Month><Day>18</Day><Hour>12</Hour><Minute>52</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2024</Year><Month>9</Month><Day>18</Day><Hour>12</Hour><Minute>51</Minute></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2024</Year><Month>9</Month><Day>18</Day><Hour>11</Hour><Minute>33</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2024</Year><Month>9</Month><Day>18</Day></PubMedPubDate></History><PublicationStatus>ppublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">39292468</ArticleId><ArticleId IdType="pmc">PMC11412607</ArticleId><ArticleId IdType="doi">10.1167/tvst.13.9.20</ArticleId><ArticleId IdType="pii">2800813</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>
+Goldstein JE, Chun MW, Fletcher DC, Deremeik JT, Massof RW; Low Vision Research Network Study Group. Visual ability of patients seeking outpatient low vision services in the united states. <i>JAMA Ophthalmol</i>. 2014; 132(10): 1169&#x2013;1177, doi: 10.1001/jamaophthalmol.2014.1747.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamaophthalmol.2014.1747</ArticleId><ArticleId IdType="pmc">PMC6746572</ArticleId><ArticleId IdType="pubmed">25073745</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Massof RW, Ahmadian L, Grover LL, et al.. 
+The Activity Inventory: an adaptive visual function questionnaire. <i>Optom Vis Sci</i>. 2007; 84(8): 763&#x2013;774, doi: 10.1097/OPX.0b013e3181339efd.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/OPX.0b013e3181339efd</ArticleId><ArticleId IdType="pmc">PMC6742517</ArticleId><ArticleId IdType="pubmed">17700339</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Massof RW, Hsu CT, Baker FH, et al.. 
+Visual disability variables. I: the importance and difficulty of activity goals for a sample of low-vision patients. <i>Arch Phys Med Rehabil</i>. 2005; 86(5): 946&#x2013;953, doi: 10.1016/j.apmr.2004.09.016.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.apmr.2004.09.016</ArticleId><ArticleId IdType="pubmed">15895341</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Massof RW, Hsu CT, Baker FH, et al.. 
+Visual disability variables. II: the difficulty of tasks for a sample of low-vision patients. <i>Arch Phys Med Rehabil</i>. 2005; 86(5): 954&#x2013;967, doi: 10.1016/j.apmr.2004.09.017.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.apmr.2004.09.017</ArticleId><ArticleId IdType="pubmed">15895342</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Orr P, Rentz AM, Margolis MK, et al.. 
+Validation of the National Eye Institute Visual Function Questionnaire-25 (NEI VFQ-25) in age-related macular degeneration. <i>Invest Ophthalmol Vis Sci</i>. 2011; 52(6): 3354&#x2013;3359, doi: 10.1167/iovs.10-5645.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/iovs.10-5645</ArticleId><ArticleId IdType="pubmed">21282568</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Massof RW, Fletcher DC.. 
+Evaluation of the NEI visual functioning questionnaire as an interval measure of visual ability in low vision. <i>Vision Res</i>. 2001; 41(3): 397&#x2013;413, doi: 10.1016/S0042-6989(00)00249-2.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/S0042-6989(00)00249-2</ArticleId><ArticleId IdType="pubmed">11164454</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Mangione CM, Phillips RS, Seddon JM, et al.. 
+Development of the &#x201c;activities of daily vision scale&#x201d;: a measure of visual functional status. <i>Med Care</i>. 1992; 30(12): 1111&#x2013;1126.
+</Citation><ArticleIdList><ArticleId IdType="pubmed">1453816</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Steinberg EP, Tielsch JM, Schein OD, et al.. 
+The VF-14. An index of functional impairment in patients with cataract. <i>Arch Ophthalmol</i>. 1994; 112(5): 630&#x2013;638, doi: 10.1001/archopht.1994.01090170074026.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/archopht.1994.01090170074026</ArticleId><ArticleId IdType="pubmed">8185520</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Sloane ME, Ball K, Owsley C, Bruni JR, Roenker DL.. 
+The Visual Activities Questionnaire: developing an instrument for assessing problems in everyday visual tasks. In: <i>Noninvasive Assessment of the Visual System</i>. Vol. 1. New York: Optical Society of America; 1992: 26&#x2013;29, doi: 10.1364/NAVS.1992.SuB4.</Citation><ArticleIdList><ArticleId IdType="doi">10.1364/NAVS.1992.SuB4</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Fink DJ, Terheyden JH, Pondorfer SG, Holz FG, Finger RP.. 
+Test&#x2013;retest reliability of the impact of vision impairment&#x2013;Very Low Vision Questionnaire. <i>Transl Vis Sci Technol</i>. 2023; 12(6): 6, doi: 10.1167/tvst.12.6.6.</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/tvst.12.6.6</ArticleId><ArticleId IdType="pmc">PMC10266551</ArticleId><ArticleId IdType="pubmed">37306995</ArticleId></ArticleIdList></Reference><Reference><Citation>
+West SK, Rubin GS, Broman AT, et al.. 
+How does visual impairment affect performance on tasks of everyday life? The SEE project. <i>Arch Ophthalmol</i>. 2002; 120(6): 774&#x2013;780, doi: 10.1001/archopht.120.6.774.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/archopht.120.6.774</ArticleId><ArticleId IdType="pubmed">12049583</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Rubin GS, Bandeen&#x2013;Roche K, Huang GH, et al.. 
+the association of multiple visual impairments with self-reported visual disability: SEE project. <i>Invest Ophthalmol Vis Sci</i>. 2001; 42(1): 64&#x2013;72.
+</Citation><ArticleIdList><ArticleId IdType="pubmed">11133849</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Arditi A, Legge G, Granquist C, Gage R, Clark D.. 
+Reduced visual acuity is mirrored in low vision imagery. <i>Br J Psychol</i>. 2021; 112(3): 611&#x2013;627, doi: 10.1111/bjop.12493.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/bjop.12493</ArticleId><ArticleId IdType="pmc">PMC8273082</ArticleId><ArticleId IdType="pubmed">33543491</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Coren S, Hakstian AR.. 
+Visual screening without the use of technical equipment: preliminary development of a behaviorally validated questionnaire. <i>Appl Opt</i>. 1987; 26(8): 1468&#x2013;1472, doi: 10.1364/AO.26.001468.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1364/AO.26.001468</ArticleId><ArticleId IdType="pubmed">20454345</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Owen CG, Rudnicka AR, Smeeth L, Evans JR, Wormald RP, Fletcher AE.. 
+Is the NEI-VFQ-25 a useful tool in identifying visual impairment in an elderly population?
+<i>BMC Ophthalmol</i>. 2006; 6(1): 24, doi: 10.1186/1471-2415-6-24.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/1471-2415-6-24</ArticleId><ArticleId IdType="pmc">PMC1523367</ArticleId><ArticleId IdType="pubmed">16764714</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Rasch G.
+<i>Probabilistic Models for Some Intelligence and Attainment Tests</i>. San Diego, CA: MESA Press; 1993.</Citation></Reference><Reference><Citation>
+Birnbaum A.
+Some latent trait models and their use in inferring an examinee's ability. In: Lord FM, Novick MR, eds. <i>Statistical Theories of Mental Test Scores</i>. Reading, MA: Addison-Wesley; 1968: 397&#x2013;479.</Citation></Reference><Reference><Citation>
+Chalmers RP. mirt: a multidimensional item response theory package for the R environment. <i>J Stat Softw</i>. 2012; 48: 1&#x2013;29, doi: 10.18637/jss.v048.i06.</Citation><ArticleIdList><ArticleId IdType="doi">10.18637/jss.v048.i06</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kiser AK, Mladenovich D, Eshraghi F, Bourdeau D, Dagnelie G.. 
+Reliability and consistency of visual acuity and contrast sensitivity measures in advanced eye disease. <i>Optom Vis Sci</i>. 2005; 82(11): 946&#x2013;954, doi: 10.1097/01.opx.0000187863.12609.7b.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/01.opx.0000187863.12609.7b</ArticleId><ArticleId IdType="pubmed">16317369</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Macedo AF, Ramos PL, Hernandez-Moreno L, et al.. 
+Visual and health outcomes, measured with the activity inventory and the EQ-5D, in visual impairment. <i>Acta Ophthalmol (Copenh)</i>. 2017; 95(8): e783&#x2013;e791, doi: 10.1111/aos.13430.</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/aos.13430</ArticleId><ArticleId IdType="pubmed">28371261</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Tabrett DR, Latham K.. 
+Factors influencing self-reported vision-related activity limitation in the visually impaired. <i>Invest Ophthalmol Vis Sci</i>. 2011; 52(8): 5293&#x2013;5302, doi: 10.1167/iovs.10-7055.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/iovs.10-7055</ArticleId><ArticleId IdType="pubmed">21613370</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Xiong YZ, Kwon M, Bittner AK, Virgili G, Giacomelli G, Legge GE.. 
+Relationship between acuity and contrast sensitivity: differences due to eye disease. <i>Invest Ophthalmol Vis Sci</i>. 2020; 61(6): 40, doi: 10.1167/iovs.61.6.40.</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/iovs.61.6.40</ArticleId><ArticleId IdType="pmc">PMC7415312</ArticleId><ArticleId IdType="pubmed">38755787</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Goldstein JE, Massof RW, Deremeik JT, et al.. 
+Baseline traits of low vision patients served by private outpatient clinical centers in the United States. <i>Arch Ophthalmol</i>. 2012; 130(8): 1028&#x2013;1037, doi: 10.1001/archophthalmol.2012.1197.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/archophthalmol.2012.1197</ArticleId><ArticleId IdType="pmc">PMC6739234</ArticleId><ArticleId IdType="pubmed">22893074</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Owsley C, Sloane ME.. 
+Contrast sensitivity, acuity, and the perception of &#x201c;real-world&#x201d; targets. <i>Br J Ophthalmol</i>. 1987; 71(10): 791&#x2013;796, doi: 10.1136/bjo.71.10.791.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1136/bjo.71.10.791</ArticleId><ArticleId IdType="pmc">PMC1041308</ArticleId><ArticleId IdType="pubmed">3676151</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Wittich W, Overbury O, Kapusta MA, Watanabe DH.. 
+Differences between recognition and resolution acuity in patients undergoing macular hole surgery. <i>Invest Ophthalmol Vis Sci</i>. 2006; 47(8): 3690&#x2013;3694, doi: 10.1167/iovs.05-1307.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/iovs.05-1307</ArticleId><ArticleId IdType="pubmed">16877444</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Goldstein JE, Bradley C, Gross AL, Jackson M, Bressler N, Massof RW.. 
+The NEI VFQ-25C: calibrating items in the National Eye Institute Visual Function Questionnaire-25 to enable comparison of outcome measures. <i>Transl Vis Sci Technol</i>. 2022; 11(5): 10, doi: 10.1167/tvst.11.5.10.</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/tvst.11.5.10</ArticleId><ArticleId IdType="pmc">PMC9100478</ArticleId><ArticleId IdType="pubmed">35543680</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Goldstein JE, Fenwick E, Finger RP, et al.. 
+Calibrating the Impact of Vision Impairment (IVI): creation of a sample-independent visual function measure for patient-centered outcomes research. <i>Transl Vis Sci Technol</i>. 2018; 7(6): 38, doi: 10.1167/tvst.7.6.38.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/tvst.7.6.38</ArticleId><ArticleId IdType="pmc">PMC6314226</ArticleId><ArticleId IdType="pubmed">30619658</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Goldstein JE, Guo X, Boland MV, Smith KE.. 
+Visual acuity: assessment of data quality and usability in an electronic health record system. <i>Ophthalmol Sci</i>. 2023; 3(1): 100215, doi: 10.1016/j.xops.2022.100215.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.xops.2022.100215</ArticleId><ArticleId IdType="pmc">PMC9574716</ArticleId><ArticleId IdType="pubmed">36275199</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Bastawrous A, Rono HK, Livingstone IAT, et al.. 
+Development and validation of a smartphone-based visual acuity test (Peek Acuity) for clinical practice and community-based fieldwork. <i>JAMA Ophthalmol</i>. 2015; 133(8): 930&#x2013;937, doi: 10.1001/jamaophthalmol.2015.1468.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamaophthalmol.2015.1468</ArticleId><ArticleId IdType="pmc">PMC5321502</ArticleId><ArticleId IdType="pubmed">26022921</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Han X, Scheetz J, Keel S, et al.. 
+Development and validation of a smartphone-based visual acuity test (Vision at Home). <i>Transl Vis Sci Technol</i>. 2019; 8(4): 27, doi: 10.1167/tvst.8.4.27.</Citation><ArticleIdList><ArticleId IdType="doi">10.1167/tvst.8.4.27</ArticleId><ArticleId IdType="pmc">PMC6701871</ArticleId><ArticleId IdType="pubmed">31440424</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Chen TA, Li J, Schallhorn JM, Sun CQ.. 
+Comparing a home vision self-assessment test to office-based Snellen visual acuity. <i>Clin Ophthalmol</i>. 2021; 15: 3205&#x2013;3211, doi: 10.2147/OPTH.S309727.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.2147/OPTH.S309727</ArticleId><ArticleId IdType="pmc">PMC8326937</ArticleId><ArticleId IdType="pubmed">34349497</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle><PubmedArticle><MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Manual"><PMID Version="1">25052992</PMID><DateCompleted><Year>2014</Year><Month>10</Month><Day>09</Day></DateCompleted><DateRevised><Year>2022</Year><Month>03</Month><Day>10</Day></DateRevised><Article PubModel="Electronic"><Journal><ISSN IssnType="Electronic">1552-5783</ISSN><JournalIssue CitedMedium="Internet"><Volume>55</Volume><Issue>8</Issue><PubDate><Year>2014</Year><Month>Jul</Month><Day>22</Day></PubDate></JournalIssue><Title>Investigative ophthalmology &amp; visual science</Title><ISOAbbreviation>Invest Ophthalmol Vis Sci</ISOAbbreviation></Journal><ArticleTitle>Reading ability and reading engagement in older adults with glaucoma.</ArticleTitle><Pagination><StartPage>5284</StartPage><EndPage>5290</EndPage><MedlinePgn>5284-90</MedlinePgn></Pagination><ELocationID EIdType="doi" ValidYN="Y">10.1167/iovs.14-14138</ELocationID><Abstract><AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We evaluated the impact of glaucoma-related vision loss on reading ability and reading engagement in 10 reading activities.</AbstractText><AbstractText Label="METHODS" NlmCategory="METHODS">A total of 63 glaucoma patients and 59 glaucoma suspect controls self-rated their level of reading difficulty for 10 reading items, and responses were analyzed using Rasch analysis to determine reading ability. Reading engagement was assessed by asking subjects to report the number of days per week they engaged in each reading activity. Reading restriction was determined as a decrement in engagement.</AbstractText><AbstractText Label="RESULTS" NlmCategory="RESULTS">Glaucoma subjects more often described greater reading difficulty than controls for all tasks except puzzles (P &lt; 0.05). The most difficult reading tasks involved puzzles, books, and finances, while the least difficult reading tasks involved notes, bills, and mail. In multivariable weighted least squares regression models of Rasch-estimated person measures of reading ability, less reading ability was found for glaucoma patients compared to controls (&#x3b2; = -1.60 logits, P &lt; 0.001). Among glaucoma patients, less reading ability was associated with more severe visual field (VF) loss (&#x3b2; = -0.68 logits per 5-dB decrement in better-eye VF mean deviation [MD], P &lt; 0.001) and contrast sensitivity (&#x3b2; = -0.76 logits per 0.1-unit lower log CS, P &lt; 0.001). Each 5-dB decrement in the better-eye VF MD was associated with book reading on 18% fewer days (P = 0.003) and newspaper reading on 10% fewer days (P = 0.008). No statistically significant reading restriction was observed for other reading activities (P &gt; 0.05).</AbstractText><AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Glaucoma patients have less reading ability and engage less in a variety of different reading activities, particularly those requiring sustained reading. Future work should evaluate the mechanisms underlying reading disability in glaucoma to determine how patients can maintain reading ability and engagement.</AbstractText><CopyrightInformation>Copyright 2014 The Association for Research in Vision and Ophthalmology, Inc.</CopyrightInformation></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Nguyen</LastName><ForeName>Angeline M</ForeName><Initials>AM</Initials><AffiliationInfo><Affiliation>Wilmer Eye Institute, Johns Hopkins University, Baltimore, Maryland, United States.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>van Landingham</LastName><ForeName>Suzanne W</ForeName><Initials>SW</Initials><AffiliationInfo><Affiliation>Wilmer Eye Institute, Johns Hopkins University, Baltimore, Maryland, United States.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Massof</LastName><ForeName>Robert W</ForeName><Initials>RW</Initials><AffiliationInfo><Affiliation>Wilmer Eye Institute, Johns Hopkins University, Baltimore, Maryland, United States.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Rubin</LastName><ForeName>Gary S</ForeName><Initials>GS</Initials><AffiliationInfo><Affiliation>National Institute for Health Research Biomedical Research Centre (NIHR BRC) for Ophthalmology, University College London (UCL) Institute of Ophthalmology and Moorfields Eye Hospital, London, United Kingdom Visual Neuroscience, UCL Institute of Ophthalmology, London, United Kingdom.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Ramulu</LastName><ForeName>Pradeep Y</ForeName><Initials>PY</Initials><AffiliationInfo><Affiliation>Wilmer Eye Institute, Johns Hopkins University, Baltimore, Maryland, United States.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><GrantList CompleteYN="Y"><Grant><GrantID>K23 EY018595</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant><Grant><GrantID>R01 EY022976</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant><Grant><GrantID>EY022976</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant><Grant><GrantID>EY018595</GrantID><Acronym>EY</Acronym><Agency>NEI NIH HHS</Agency><Country>United States</Country></Grant></GrantList><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType><PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType><PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2014</Year><Month>07</Month><Day>22</Day></ArticleDate></Article><MedlineJournalInfo><Country>United States</Country><MedlineTA>Invest Ophthalmol Vis Sci</MedlineTA><NlmUniqueID>7703701</NlmUniqueID><ISSNLinking>0146-0404</ISSNLinking></MedlineJournalInfo><CitationSubset>IM</CitationSubset><MeshHeadingList><MeshHeading><DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D015350" MajorTopicYN="N">Contrast Sensitivity</DescriptorName><QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName></MeshHeading><MeshHeading><DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D005901" MajorTopicYN="N">Glaucoma</DescriptorName><QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName><QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName></MeshHeading><MeshHeading><DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D011932" MajorTopicYN="Y">Reading</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName></MeshHeading><MeshHeading><DescriptorName UI="D014786" MajorTopicYN="N">Vision Disorders</DescriptorName><QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName><QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName></MeshHeading><MeshHeading><DescriptorName UI="D014794" MajorTopicYN="N">Visual Fields</DescriptorName><QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName></MeshHeading></MeshHeadingList><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">glaucoma</Keyword><Keyword MajorTopicYN="N">low vision</Keyword><Keyword MajorTopicYN="N">quality of life</Keyword><Keyword MajorTopicYN="N">reading</Keyword></KeywordList></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="entrez"><Year>2014</Year><Month>7</Month><Day>24</Day><Hour>6</Hour><Minute>0</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2014</Year><Month>7</Month><Day>24</Day><Hour>6</Hour><Minute>0</Minute></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2014</Year><Month>10</Month><Day>10</Day><Hour>6</Hour><Minute>0</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2015</Year><Month>2</Month><Day>1</Day></PubMedPubDate></History><PublicationStatus>epublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">25052992</ArticleId><ArticleId IdType="pmc">PMC4142770</ArticleId><ArticleId IdType="doi">10.1167/iovs.14-14138</ArticleId><ArticleId IdType="pii">iovs.14-14138</ArticleId><ArticleId IdType="sici">iovs-55-07-91</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>
+Brown JC, Goldstein JE, Chan TL, Massof R, Ramulu PY.
+the Low Vision Research Network Study Group.
+Description of functional complaints in patients seeking outpatient low vision services in the United States
+[published online ahead of print April 23,
+2014]. 
+<i>Ophthalmology</i>.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6746569</ArticleId><ArticleId IdType="pubmed">24768243</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Aspinall PA, Johnson ZK, Azuara-Blanco A, Montarzino A, Brice R, Vickers A.
+Evaluation of quality of life and priorities of patients with glaucoma.
+<i>Invest Ophthalmol Vis Sci</i>.
+2008;
+49:
+1907&#x2013;1915
+</Citation><ArticleIdList><ArticleId IdType="pubmed">18436824</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Sewo Sampaio PY, Ito E.
+Activities with higher influence on quality of life in older adults in Japan.
+<i>Occup Ther Int</i>.
+2012;
+20:
+1&#x2013;10
+</Citation><ArticleIdList><ArticleId IdType="pubmed">22700357</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Mangione CM, Berry S, Spritzer, et al. 
+Identifying the content area for the 51-item National Eye Institute Visual Function Questionnaire: results from focus groups with visually impaired persons.
+<i>Arch Ophthalmol</i>.
+1998;
+116:
+227&#x2013;233
+</Citation><ArticleIdList><ArticleId IdType="pubmed">9488276</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Burr JM, Kilonzo M, Vale L, Ryan M.
+Developing a preference-based Glaucoma Utility Index using a discrete choice experiment.
+<i>Optom Vis Sci</i>.
+2007;
+84<i>:</i>
+E797&#x2013;E809
+</Citation><ArticleIdList><ArticleId IdType="pubmed">17700343</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Legge GE, Ross JA, Isenberg LM, Lamay JM.
+Psychophysics of reading. Clinical predictors of low-vision reading speed.
+<i>Invest Ophthalmol Vis Sci</i>.
+1992;
+33:
+677&#x2013;687
+</Citation><ArticleIdList><ArticleId IdType="pubmed">1544792</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Whittaker SG, Lovie-Kitchin JAN.
+Visual requirements for reading.
+<i>Optom Vis Sci</i>.
+1993;
+70:
+54&#x2013;65
+</Citation><ArticleIdList><ArticleId IdType="pubmed">8430009</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Fine SL, Berger JW, Maguire MG, Ho AC.
+Age-related macular degeneration.
+<i>N Engl J Med</i>.
+2000;
+342:
+483&#x2013;492
+</Citation><ArticleIdList><ArticleId IdType="pubmed">10675430</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ramulu PY, West SK, Munoz B, Jampel HD, Friedman DS.
+Glaucoma and reading speed: the Salisbury Eye Evaluation project.
+<i>Arch Ophthalmol</i>.
+2009;
+127:
+82&#x2013;87
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC2728116</ArticleId><ArticleId IdType="pubmed">19139345</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Nelson P, Aspinall P, O'Brien C.
+Patients' perception of visual impairment in glaucoma: a pilot study.
+<i>Br J Ophthalmol</i>.
+1999;
+83:
+546&#x2013;552
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC1723044</ArticleId><ArticleId IdType="pubmed">10216052</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Mangione CM, Lee PP, Gutierrez PR, Spritzer K, Berry S, Hays RD.
+Development of the 25-item national eye institute visual function questionnaire.
+<i>Arch Ophthalmol</i>.
+2001;
+119:
+1050&#x2013;1058
+</Citation><ArticleIdList><ArticleId IdType="pubmed">11448327</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Altangerel U, Spaeth GL, Steinmann WC.
+Assessment of Function Related to Vision (AFREV).
+<i>Ophthalmic Epidemiol</i>.
+2006;
+13:
+67&#x2013;80
+</Citation><ArticleIdList><ArticleId IdType="pubmed">16510349</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ramulu PY, Swenor BK, Jefferys JL, Friedman DS, Rubin GS.
+Difficulty with out-loud and silent reading in glaucoma.
+<i>Invest Ophthalmol Vis Sci</i>.
+2013;
+54:
+666&#x2013;672
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3559070</ArticleId><ArticleId IdType="pubmed">23074207</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Massof RW.
+The measurement of vision disability.
+<i>Optom Vis Sci</i>.
+2002;
+79:
+516&#x2013;52
+</Citation><ArticleIdList><ArticleId IdType="pubmed">12199545</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Arora KS, Boland MV, Friedman DS, Jefferys JL, West SK, Ramulu PY.
+The relationship between better-eye and integrated visual field mean deviation and visual disability.
+<i>Ophthalmology</i>.
+2013;
+120:
+2476&#x2013;2484
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3834089</ArticleId><ArticleId IdType="pubmed">23993358</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Massof RW, Ahmadian L, Grover LL, et al. 
+The Activity Inventory (AI): an adaptive visual function questionnaire.
+<i>Optom Vis Sci</i>.
+2007;
+84:
+763&#x2013;774
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6742517</ArticleId><ArticleId IdType="pubmed">17700339</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ferris FL III, Kassoff A, Bresnick GH, Bailey I.
+New visual acuity charts for clinical research.
+<i>Am J Ophthalmol</i>.
+1982;
+94:
+91&#x2013;96
+</Citation><ArticleIdList><ArticleId IdType="pubmed">7091289</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Bailey IL, Bullimore MA, Raasch TW, Taylor HR.
+Clinical grading and the effects of scaling.
+<i>Invest Ophthalmol Vis Sci</i>.
+1991;
+32:
+422&#x2013;443
+</Citation><ArticleIdList><ArticleId IdType="pubmed">1993595</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Elliott DB, Bullimore MA, Bailey IL.
+Improving the reliability of the Pelli-Robson contrast sensitivity test.
+<i>Clin Vision Sci</i>.
+1991;
+6:
+471&#x2013;475
+</Citation></Reference><Reference><Citation>
+Weiss BD, Reed RL, Kligman EW.
+Literacy skills and communication methods of low-income older persons.
+<i>Patient Educ Couns</i>.
+1995;
+25:
+109&#x2013;119
+</Citation><ArticleIdList><ArticleId IdType="pubmed">7659623</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Blazer DG.
+Depression in the elderly.
+<i>N Engl J Med</i>.
+1989;
+320:
+164&#x2013;166
+</Citation><ArticleIdList><ArticleId IdType="pubmed">2643044</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Lewinsohn PM, MacPhillamy DJ.
+The relationship between age and engagement in pleasant activities.
+<i>J Gerontol</i>.
+1974;
+29:
+290&#x2013;294
+</Citation><ArticleIdList><ArticleId IdType="pubmed">4150752</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Folstein MF, Folstein SE, McHugh PR.
+&#x201d;Mini-mental state.&#x201d; A practical method for grading the cognitive state of patients for the clinician.
+<i>J Psychiatr Res</i>.
+1975;
+12:
+189&#x2013;198
+</Citation><ArticleIdList><ArticleId IdType="pubmed">1202204</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Goldberg DP, Hillier VF.
+A scaled version of the general health questionnaire.
+<i>Psychol Med</i>.
+1979;
+9:
+139&#x2013;145
+</Citation><ArticleIdList><ArticleId IdType="pubmed">424481</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Goldstein JE, Chun MW, Fletcher DC, Deremeik JT, Massof RW.
+Low Vision Research Network Study Group.
+Visual ability of patients seeking outpatient low vision services in the United States [published online ahead of print June 19,
+2014]. 
+<i>JAMA Ophthalmol</i>.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6746572</ArticleId><ArticleId IdType="pubmed">25073745</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Mantel N, Haenszel W.
+Statistical aspects of the analysis of data from retrospective studies of disease.
+<i>J Natl Cancer Inst</i>.
+1959;
+2:
+719&#x2013;748
+</Citation><ArticleIdList><ArticleId IdType="pubmed">13655060</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Wright B, Masters GN.
+<i>Rating Scale Analysis: Rasch Measurement</i>.
+Chicago, IL:
+Mesa Press;
+1982. 
+</Citation></Reference><Reference><Citation>
+Ruxton GD.
+The unequal variance t-test is an underused alternative to Student's <i>t</i>-test and the Mann&#x2013;Whitney <i>U</i> test.
+<i>Behav Ecol</i>.
+2006;
+17:
+688&#x2013;690
+</Citation></Reference><Reference><Citation>
+McGaw B, Glass GV.
+Choice of the metric for effect size in meta-analysis.
+<i>Am Educ Res J</i>.
+1980;
+17:
+325&#x2013;337
+</Citation></Reference><Reference><Citation>
+Richman J, Lorenzana LL, Lankaranian D, et al. 
+Importance of visual acuity and contrast sensitivity in patients with glaucoma.
+<i>Arch Ophthalmol</i>.
+2010;
+128:
+1576&#x2013;1582
+</Citation><ArticleIdList><ArticleId IdType="pubmed">21149782</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Bhorade AM, Perlmutter MS, Wilson B, et al. 
+Differences in vision between clinic and home and the effect of lighting in older adults with and without glaucoma.
+<i>JAMA Ophthalmol</i>.
+2013;
+131:
+1554&#x2013;1562
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4377300</ArticleId><ArticleId IdType="pubmed">24263699</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Friedman SM, Munoz B, Rubin GS, West SK, Bandeen-Roche K, Fried LP.
+Characteristics of discrepancies between self-reported visual function and measured reading speed. Salisbury Eye Evaluation Project Team.
+<i>Invest Ophthalmol Vis Sci</i>.
+1999;
+40:
+858&#x2013;864
+</Citation><ArticleIdList><ArticleId IdType="pubmed">10102282</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Viswanathan AC, McNaught AI, Poinoosawmy D, et al. 
+Severity and stability of glaucoma: patient perception compared with objective measurement.
+<i>Arch Ophthalmol</i>.
+1999;
+117:
+450&#x2013;454
+</Citation><ArticleIdList><ArticleId IdType="pubmed">10206571</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Crabb DP, Smith ND, Rauscher FG, et al. 
+Exploring eye movements in patients with glaucoma when viewing a driving scene.
+<i>PLoS One</i>.
+2010;
+5:
+e9710
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC2838788</ArticleId><ArticleId IdType="pubmed">20300522</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Smith ND, Crabb DP, Garway-Heath DF.
+An exploratory study of visual search performance in glaucoma.
+<i>Ophthalmic Physiol Opt</i>.
+2011a;
+31:
+225&#x2013;232
+</Citation><ArticleIdList><ArticleId IdType="pubmed">21470272</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Smith ND, Crabb DP, Glen FC, Burton R, Garway-Heath DF.
+Eye movements in patients with glaucoma when viewing images of everyday scenes.
+<i>Seeing Perceiving</i>.
+2011b;
+25:
+471&#x2013;492
+</Citation><ArticleIdList><ArticleId IdType="pubmed">23193606</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Smith ND, Glen FC, Crabb DP.
+Eye movements during visual search in patients with glaucoma.
+<i>BMC Ophthalmol</i>.
+2012;
+12:
+45
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3505163</ArticleId><ArticleId IdType="pubmed">22937814</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Burton R, Crabb DP, Smith ND, Glen FC, Garway-Heath DF.
+Glaucoma and reading: exploring the effects of contrast lowering of text.
+<i>Optom Vis Sci</i>.
+2012;
+89:
+1282&#x2013;1287
+</Citation><ArticleIdList><ArticleId IdType="pubmed">22885786</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Bowers AR, Meek C, Illumination Stewart N.
+and reading performance in age-related macular degeneration.
+<i>Clin Exp Optom</i>.
+2001;
+84:
+139&#x2013;147
+</Citation><ArticleIdList><ArticleId IdType="pubmed">12366325</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Owsley C, McGwin G Jr, Lee PP, Wasserman N, Searcey K.
+Characteristics of low-vision rehabilitation services in the United States.
+<i>Arch Ophthalmol</i>.
+2009;
+127:
+681
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC2737181</ArticleId><ArticleId IdType="pubmed">19433720</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Seiple W, Szlyk JP, McMahon T, Pulido J, Fishman GA.
+Eye-movement training for reading in patients with age-related macular degeneration.
+<i>Invest Ophthalmol Vis Sci</i>.
+2005;
+46:
+2886&#x2013;2896
+</Citation><ArticleIdList><ArticleId IdType="pubmed">16043863</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Kerkhoff G, M&#xfc;n&#xdf;inger U, Haaf E, Eberle-Strauss G, St&#xf6;gerer E.
+Rehabilitation of homonymous scotomata in patients with postgeniculate damage of the visual system: saccadic compensation training.
+<i>Restor Neurol Neurosci</i>.
+1992;
+4:
+245&#x2013;254
+</Citation><ArticleIdList><ArticleId IdType="pubmed">21551879</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Virgili G, Acosta R, Grover LL, Bhentley SA, Giacomelli G.
+Reading aids for adults with low vision.
+<i>Cochrane Database Syst Rev</i>.
+2013;
+10:CD003303
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4288929</ArticleId><ArticleId IdType="pubmed">24154864</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle></PubmedArticleSet>

@@ -313,14 +313,14 @@ def main(argv=None):
             verdict = f"{k_ind} independent datasets (< {args.min_k}): describe per study with CIs and the range; a bivariate model cannot be fitted"
         verdicts.append((head, k_studies, k_ind, verdict))
         md += [f"## {head}", "", f"{k_studies} study/ies, {k_ind} independent dataset(s). **Verdict:** {verdict}.", "",
-               "| Study | Dataset | n | Prevalence | Test threshold | Reference threshold | Sensitivity (95% CI) | Specificity (95% CI) | AUC (95% CI) | QUADAS-2 overall |",
-               "|---|---|---|---|---|---|---|---|---|---|"]
+               "| Study | Item | Dataset | n | Prevalence | Test threshold | Reference threshold | Sensitivity (95% CI) | Specificity (95% CI) | AUC (95% CI) | QUADAS-2 overall |",
+               "|---|---|---|---|---|---|---|---|---|---|---|"]
         for t in items:
             fl_s = "†" if "approx" in t["flags"] else ""
             fl_a = "§" if "auc_single" in t["flags"] else ("‡" if "auc_effects" in t["flags"] else "")
             sub = f" ({t['subgroup']})" if t["subgroup"] else ""
             md.append("| " + " | ".join([
-                t["label"] + sub, t["dataset_id"], str(t["n"]) if t["n"] is not None else "NR", fmt(t["prevalence"]),
+                t["label"] + sub, (t["item_text"] or "NR").replace("|", "/"), t["dataset_id"], str(t["n"]) if t["n"] is not None else "NR", fmt(t["prevalence"]),
                 t["threshold"] or "NR", t["ref_threshold"] or "NR",
                 fmt_ci(t["sens"], t["sens_lo"], t["sens_hi"], fl_s), fmt_ci(t["spec"], t["spec_lo"], t["spec_hi"], fl_s),
                 fmt_ci(t["auc"], t["auc_lo"], t["auc_hi"], fl_a),
@@ -337,7 +337,7 @@ def main(argv=None):
     with open(os.path.join(args.out_dir, "accuracy_table.md"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(md))
 
-    csv_cols = ["group", "study_id", "label", "dataset_id", "subgroup", "unit", "n", "n_positive", "prevalence", "threshold", "ref_threshold",
+    csv_cols = ["group", "study_id", "label", "item_text", "dataset_id", "subgroup", "unit", "n", "n_positive", "prevalence", "threshold", "ref_threshold",
                 "sens", "sens_lo", "sens_hi", "sens_src", "spec", "spec_lo", "spec_hi", "spec_src", "auc", "auc_lo", "auc_hi",
                 "rob_overall", "rob_domains", "flags", "page"]
     with open(os.path.join(args.out_dir, "accuracy_table.csv"), "w", newline="", encoding="utf-8") as fh:
@@ -366,7 +366,11 @@ def forest(groups, group_cols, args, outbase):
         shared = {d for d in [t["dataset_id"] for t in items] if [t["dataset_id"] for t in items].count(d) > 1}
         for t in items:
             lab = t["label"] + (f" ({t['subgroup']})" if t["subgroup"] else "")
-            thr = t["threshold"] if len(t["threshold"]) <= 38 else t["threshold"][:36] + "..."
+            src = t["item_text"] or t["threshold"]
+            thr_l = (t["threshold"] or "").lower()
+            tag = "pair: " if "both items" in thr_l else ("triplet: " if "three items" in thr_l else "")
+            src = tag + src
+            thr = src if len(src) <= 38 else src[:36] + "..."
             mark = (" ‡" if t["dataset_id"] in shared else "") + (" †" if "approx" in t["flags"] else "")
             rows.append(("item", f"{lab}{mark} · {thr} · n={t['n'] if t['n'] is not None else 'NR'}", t))
     n_rows = len(rows)
@@ -406,7 +410,7 @@ def forest(groups, group_cols, args, outbase):
     fig.text(0.01, 0.005, "No pooled estimate: studies are shown individually (synthesis without meta-analysis, SWiM). "
              "Squares scale with n. ‡ same participants as another row (one dataset). † approximate CI.",
              fontsize=7.5, color=C_MUTED, ha="left", va="bottom")
-    fig.subplots_adjust(left=0.38, right=0.9, top=0.9, bottom=max(0.08, 0.5 / height), wspace=0.48)
+    fig.subplots_adjust(left=0.40, right=0.9, top=0.9, bottom=max(0.08, 0.5 / height), wspace=0.48)
     fig.savefig(outbase + ".svg", metadata={"Date": None})
     fig.savefig(outbase + ".png", dpi=200, metadata={"Software": None})
     plt.close(fig)

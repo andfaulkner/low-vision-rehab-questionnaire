@@ -1,0 +1,4 @@
+study_id_a,label_a,study_id_b,label_b,confidence,merged,reasons
+92,Wu 2026,128,Wu 2024,high,yes,"cross-ref: Wu 2026 cohort/notes cite ID 128 | authors: 2 shared surname(s) (wu, yueh hsun); Jaccard 1.00 | identical n: 385 | recruitment years overlap: 2019-2024 vs 2019-2022"
+65,Stelmack 2002,66,Stelmack 2006,possible,no,"authors: 2 shared surname(s) (joan, stelmack); Jaccard 1.00"
+85,Smith 2013,89,Smith 2020,possible,no,"authors: 2 shared surname(s) (smith, theresa); Jaccard 1.00"

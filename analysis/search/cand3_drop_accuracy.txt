@@ -1,0 +1,1 @@
+("Vision, Low"[Majr] OR "low vision"[tiab] OR "visual impairment"[ti] OR "legal blindness"[tiab] OR "legally blind"[tiab]) AND (questionnaire*[tiab] OR "self-report*"[tiab] OR "screening question*"[tiab] OR "single question"[tiab] OR survey[ti] OR "self-rated"[tiab]) AND (english[la] OR french[la]) AND 2000:3000[dp] NOT (child*[ti] OR pediatric[ti] OR paediatric[ti])

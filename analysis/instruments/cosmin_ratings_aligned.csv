@@ -1,0 +1,40 @@
+study_id,instrument,measurement_property,n_standards_rated,overall_rating,worst_standards
+5,APEDS-VFQ,Structural validity,4,Doubtful,3.4
+5,APEDS-VFQ,Internal consistency,3,Doubtful,4.1; 4.3
+5,APEDS-VFQ,Hypotheses testing,4,Doubtful,9.3
+26,LVQOL,Structural validity,4,Doubtful,3.1; 3.2; 3.4
+26,LVQOL,Internal consistency,3,Doubtful,4.1; 4.3
+26,LVQOL,Reliability,5,Doubtful,6.1; 6.5
+26,LVQOL,Hypotheses testing,6,Doubtful,9a.2; 9a.3; 9.3
+26,LVQOL,Responsiveness,4,Doubtful,10b.1; 10b.3; 10.4
+39,VA-13,Structural validity,4,Doubtful,3.1; 3.3; 3.4
+39,VA-13,Internal consistency,3,Doubtful,4.3
+39,VA-13,Responsiveness,4,Doubtful,10b.1; 10b.2; 10b.3; 10.4
+46,Activity Inventory,Hypotheses testing,4,Doubtful,9a.2; 9a.3; 9.3
+65,NEI VFQ-25,Structural validity,4,Doubtful,3.2; 3.4
+65,NEI VFQ-25,Responsiveness,3,Doubtful,10.4
+66,VA LV VFQ-48,Reliability,5,Doubtful,6.2; 6.3; 6.4; 6.5
+66,VA LV VFQ-48,Responsiveness,3,Doubtful,10.4
+72,IVI,Structural validity,4,Doubtful,3.2; 3.3; 3.4
+72,IVI,Responsiveness,4,Doubtful,10b.1; 10.4
+74,VA LV VFQ-48,Structural validity,4,Doubtful,3.1; 3.3; 3.4
+74,VA LV VFQ-48,Internal consistency,3,Doubtful,4.1; 4.2; 4.3
+86,Participation and Activity Inventory,Structural validity,4,Doubtful,3.1; 3.2; 3.3; 3.4
+86,Participation and Activity Inventory,Internal consistency,3,Doubtful,4.1
+86,Participation and Activity Inventory,Hypotheses testing,6,Doubtful,9a.2; 9a.3; 9b.2; 9.3
+88,EQ-5D,Responsiveness,4,Doubtful,10b.1; 10.4
+89,LVIM-R,Responsiveness,3,Doubtful,10b.2; 10b.3; 10.4
+105,VA LV VFQ-48,Internal consistency,3,Doubtful,4.1; 4.3
+105,VA LV VFQ-48,Hypotheses testing,4,Doubtful,9a.2; 9.3
+110,Sumi revised visual disability questionnaire,Structural validity,4,Inadequate,3.2
+110,Sumi revised visual disability questionnaire,Internal consistency,3,Doubtful,4.3
+110,Sumi revised visual disability questionnaire,Reliability,5,Doubtful,6.1; 6.3; 6.5
+110,Sumi revised visual disability questionnaire,Measurement error,5,Doubtful,7.1; 7.3; 7.4; 7.5
+110,Sumi revised visual disability questionnaire,Hypotheses testing,3,Doubtful,9.3
+114,EQ-5D vision bolt-on,Reliability,5,Doubtful,6.3; 6.5
+114,EQ-5D vision bolt-on,Hypotheses testing,6,Doubtful,9a.2; 9.3
+114,EQ-5D vision bolt-on,Responsiveness,4,Doubtful,10b.1; 10b.2; 10b.3; 10.4
+119,SLVQOL,Structural validity,4,Doubtful,3.2; 3.4
+119,SLVQOL,Internal consistency,3,Doubtful,4.1; 4.3
+119,SLVQOL,Reliability,5,Doubtful,6.3; 6.4
+119,SLVQOL,Hypotheses testing,6,Doubtful,9a.3; 9.3

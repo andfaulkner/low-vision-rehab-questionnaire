@@ -1,0 +1,49 @@
+study_id,label,instrument,property,n,rating,rating_word,reason,cosmin_rob
+26,Wolffsohn 2000,LVQOL,Structural validity,150,?,indeterminate,EFA/PCA only,doubtful
+119,Pérez-Mañá 2022,SLVQOL,Structural validity,365,?,indeterminate,no rateable statistic,doubtful
+5,Gothwal 2012,APEDS-VFQ,Structural validity,351,-,insufficient,"criterion violated for: model fit, unidimensionality",doubtful
+39,Babcock-Parziale 2005,VA-13,Structural validity,190,?,indeterminate,"Rasch/IRT: not all information for '+' reported; missing unidimensionality, local independence, monotonicity",doubtful
+65,Stelmack 2002,NEI VFQ-25,Structural validity,128,?,indeterminate,"Rasch/IRT: not all information for '+' reported; missing unidimensionality, local independence, monotonicity, model fit",doubtful
+72,Selivanova 2019,IVI,Structural validity,109,-,insufficient,criterion violated for: unidimensionality,doubtful
+74,Szlyk 2004,VA LV VFQ-48,Structural validity,117,?,indeterminate,"Rasch/IRT: not all information for '+' reported; missing unidimensionality, local independence, monotonicity, model fit",doubtful
+86,Macnaughton 2019,Participation and Activity Inventory,Structural validity,60,?,indeterminate,"Rasch/IRT: not all information for '+' reported; missing unidimensionality, local independence, monotonicity, model fit",doubtful
+110,Sumi 2003,Sumi revised visual disability questionnaire,Structural validity,102,?,indeterminate,no rateable statistic,inadequate
+26,Wolffsohn 2000,LVQOL,Internal consistency,150,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+26,Wolffsohn 2000,LVQOL,Reliability,150,+,sufficient,all results meet the criterion,doubtful
+26,Wolffsohn 2000,LVQOL,Hypotheses testing,278,+,sufficient,3/3 hypotheses confirmed (100%),doubtful
+26,Wolffsohn 2000,LVQOL,Responsiveness,278,+,sufficient,1/1 hypotheses confirmed (100%),doubtful
+119,Pérez-Mañá 2022,SLVQOL,Internal consistency,365,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+119,Pérez-Mañá 2022,SLVQOL,Reliability,73,?,indeterminate,ICC or weighted kappa not reported (a Pearson/Spearman correlation ignores systematic change),doubtful
+119,Pérez-Mañá 2022,SLVQOL,Hypotheses testing,365,+,sufficient,3/3 hypotheses confirmed (100%),doubtful
+5,Gothwal 2012,APEDS-VFQ,Internal consistency,351,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (structural validity rated insufficient); alpha/PSR >= 0.70,doubtful
+5,Gothwal 2012,APEDS-VFQ,Hypotheses testing,351,-,insufficient,0/1 hypotheses confirmed (0%),doubtful
+39,Babcock-Parziale 2005,VA-13,Internal consistency,190,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+39,Babcock-Parziale 2005,VA-13,Responsiveness,190,?,indeterminate,no a-priori hypotheses,doubtful
+65,Stelmack 2002,NEI VFQ-25,Responsiveness,77,?,indeterminate,no a-priori hypotheses,doubtful
+66,Stelmack 2006,VA LV VFQ-48,Reliability,30,?,indeterminate,ICC or weighted kappa not reported (a Pearson/Spearman correlation ignores systematic change),doubtful
+66,Stelmack 2006,VA LV VFQ-48,Responsiveness,139,+,sufficient,3/3 hypotheses confirmed (100%),doubtful
+66,Stelmack 2006,VA LV VFQ-48,Cross-cultural validity,285,?,indeterminate,number of DIF items given; the reviewer judges whether the DIF is important (use override),
+72,Selivanova 2019,IVI,Responsiveness,109,+,sufficient,3/3 hypotheses confirmed (100%),doubtful
+74,Szlyk 2004,VA LV VFQ-48,Internal consistency,117,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+86,Macnaughton 2019,Participation and Activity Inventory,Internal consistency,60,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+86,Macnaughton 2019,Participation and Activity Inventory,Hypotheses testing,60,+,sufficient,3/3 hypotheses confirmed (100%),doubtful
+88,Malkin 2013,EQ-5D,Responsiveness,77,-,insufficient,0/2 hypotheses confirmed (0%),doubtful
+88,Malkin 2013,EQ-5D,Hypotheses testing,77,-,insufficient,1/2 hypotheses confirmed (50%),
+89,Smith 2020,LVIM-R,Responsiveness,44,+,sufficient,2/2 hypotheses confirmed (100%),doubtful
+105,Di Maggio 2020,VA LV VFQ-48,Internal consistency,131,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+105,Di Maggio 2020,VA LV VFQ-48,Hypotheses testing,106,-,insufficient,2/3 hypotheses confirmed (67%),doubtful
+110,Sumi 2003,Sumi revised visual disability questionnaire,Internal consistency,NR,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,doubtful
+110,Sumi 2003,Sumi revised visual disability questionnaire,Reliability,NR,+,sufficient,all results meet the criterion,doubtful
+110,Sumi 2003,Sumi revised visual disability questionnaire,Measurement error,NR,?,indeterminate,"SDC, LoA or SEM not reported",doubtful
+110,Sumi 2003,Sumi revised visual disability questionnaire,Hypotheses testing,147,+,sufficient,2/2 hypotheses confirmed (100%),doubtful
+114,Surawatsatien 2026,EQ-5D vision bolt-on,Reliability,NR,-,insufficient,at least one (sub)scale or result below the criterion,doubtful
+114,Surawatsatien 2026,EQ-5D vision bolt-on,Hypotheses testing,301,+,sufficient,2/2 hypotheses confirmed (100%),doubtful
+114,Surawatsatien 2026,EQ-5D vision bolt-on,Responsiveness,121,?,indeterminate,no a-priori hypotheses,doubtful
+120,Bibby 2007,self-reported mobility questionnaire,Internal consistency,30,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,
+120,Bibby 2007,self-reported mobility questionnaire,Hypotheses testing,30,+,sufficient,3/3 hypotheses confirmed (100%),
+95,Massof 2007,Activity Inventory driving tasks,Internal consistency,405,?,indeterminate,criterion 'at least low evidence for sufficient structural validity' not met (no structural validity evidence in this CSV; use --structural-ok if it exists elsewhere); alpha/PSR >= 0.70,
+95,Massof 2007,Activity Inventory driving tasks,Hypotheses testing,405,-,insufficient,1/2 hypotheses confirmed (50%),
+46,Tabrett 2011,Activity Inventory,Hypotheses testing,100,+,sufficient,3/3 hypotheses confirmed (100%),doubtful
+55,Agathos 2025,GAL-9,Hypotheses testing,125,+,sufficient,1/1 hypotheses confirmed (100%),
+97,Subramanian 2006,Spatial Localization Questionnaire,Hypotheses testing,42,+,sufficient,2/2 hypotheses confirmed (100%),
+128,Wu 2024,100-item Visual Acuity Survey,Criterion validity,385,+,sufficient,all results meet the criterion,

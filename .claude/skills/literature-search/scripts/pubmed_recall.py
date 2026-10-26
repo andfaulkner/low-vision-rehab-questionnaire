@@ -180,7 +180,7 @@ def main():
     sys.stdout.write(report)
     if args.md:
         os.makedirs(os.path.dirname(os.path.abspath(args.md)) or ".", exist_ok=True)
-    with open(args.md, "w", encoding="utf-8") as fh:
+        with open(args.md, "w", encoding="utf-8") as fh:
             fh.write(report)
     if args.out:
         ls.write_json(args.out, result)
