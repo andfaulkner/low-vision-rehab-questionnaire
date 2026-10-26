@@ -1,8 +1,16 @@
 #!/usr/bin/env bash
 # Dispatcher for utility scripts in scripts/.
 # Usage: ./lvr <command> [args...]
+#
+# Any scripts/<name>.sh or scripts/<name>.py becomes `./lvr <name>`. The
+# one-line description shown by `./lvr help` is the first comment line after
+# the shebang (.sh) or the first line of the module docstring (.py).
 
 set -euo pipefail
+
+# Where the user ran us from, so scripts can resolve relative paths they were
+# given even though we cd to the repo root below.
+export LVR_CALLER_PWD="$PWD"
 
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
@@ -15,11 +23,31 @@ list_commands() {
   done | sort -u
 }
 
+# One-line description of a command, taken from its script header.
+describe_command() {
+  local cmd="$1"
+  if [ -f "scripts/$cmd.sh" ]; then
+    awk 'NR > 1 && NR <= 5 && /^# / { sub(/^# /, ""); print; exit }' "scripts/$cmd.sh"
+  elif [ -f "scripts/$cmd.py" ]; then
+    awk 'NR <= 5 && /^"""/ { sub(/^"""/, ""); sub(/"""$/, ""); print; exit }' "scripts/$cmd.py"
+  fi
+}
+
 usage() {
+  local cmd desc
   echo "Usage: ./lvr <command> [args...]"
   echo
   echo "Commands:"
-  list_commands | sed 's/^/  /'
+  while IFS= read -r cmd; do
+    desc="$(describe_command "$cmd")"
+    if [ -n "$desc" ]; then
+      printf '  %-14s %s\n' "$cmd" "$desc"
+    else
+      printf '  %s\n' "$cmd"
+    fi
+  done < <(list_commands)
+  echo
+  echo "Run './lvr <command> --help' for a command's own options."
 }
 
 cmd="${1:-help}"
