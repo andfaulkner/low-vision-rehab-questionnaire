@@ -3,3 +3,4 @@
 .~lock.*
 __pycache__
 *.code-workspace
+.claude/worktrees/
