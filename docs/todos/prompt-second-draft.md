@@ -14,4 +14,4 @@ Overall: we're writing a lit review for Glaucoma Today
   2. When seated in front of a computer, are you able to read the letters on the keyboard keys?
   - We also want to determine what other questions might be useful
 
-Start off of the Study outline
+Start off of the Study outline. Find the csv with the large number of articles, and mine through that. Note that each article is stored in the articles directory.
