@@ -1,0 +1,56 @@
+#!/usr/bin/env bash
+# Dispatcher for utility scripts in scripts/.
+# Usage: ./lvr <command> [args...]
+
+set -euo pipefail
+
+cd "$(dirname "${BASH_SOURCE[0]}")"
+
+list_commands() {
+  local f name
+  for f in scripts/*.py scripts/*.sh; do
+    [ -e "$f" ] || continue
+    name="${f##*/}"
+    echo "${name%.*}"
+  done | sort -u
+}
+
+usage() {
+  echo "Usage: ./lvr <command> [args...]"
+  echo
+  echo "Commands:"
+  list_commands | sed 's/^/  /'
+}
+
+cmd="${1:-help}"
+
+case "$cmd" in
+  help|--help|-h)
+    usage
+    exit 0
+    ;;
+  --list)
+    list_commands
+    exit 0
+    ;;
+esac
+
+shift
+
+# Reject names with path separators so only files directly in scripts/ run.
+case "$cmd" in
+  */*|.*)
+    echo "lvr: invalid command '$cmd'" >&2
+    exit 1
+    ;;
+esac
+
+if [ -f "scripts/$cmd.py" ]; then
+  exec python3 "scripts/$cmd.py" "$@"
+elif [ -f "scripts/$cmd.sh" ]; then
+  exec bash "scripts/$cmd.sh" "$@"
+fi
+
+echo "lvr: unknown command '$cmd'" >&2
+echo "Run './lvr help' to see available commands." >&2
+exit 1
