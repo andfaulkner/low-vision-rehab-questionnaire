@@ -1,0 +1,104 @@
+A: analysis/extraction/passA/128/effects.csv (10 rows)
+B: analysis/extraction/passB/128/effects.csv (11 rows)
+key: study_id, outcome_type, measure, instrument, comparator, unit, subgroup
+columns ignored: notes
+matched rows: 9 (9 by fuzzy key)
+
+rows only in A (1):
+  A row 11: 128 | proportion | proportion of participants with significant person misfit (Zh outside +/-1.96) | 100-item Visual Acuity Survey | none | person | 
+
+rows only in B (2):
+  B row 6: 128 | correlation | Pearson r (VA vs contrast sensitivity) | 100-item Visual Acuity Survey | contrast sensitivity (measure NR) | person | 
+  B row 12: 128 | mean | mean measured VA of sample, logMAR | 100-item Visual Acuity Survey | none | person | 
+
+cell disagreements (22):
+  [128 | mean | mean unsigned prediction error (|estimated VA - measured VA|) | 100-item Visual Acuity Survey | none | person | NR]
+    <key>       A: '128 | mean | mean unsigned prediction error (|estimated VA - measured VA|) | 100-item Visual Acuity Survey | none | person | '
+                B: '128 | mean | mean unsigned prediction error (estimated VA - measured VA), logMAR | 100-item Visual Acuity Survey | none | person | '   (fuzzy 0.97 match)
+  [128 | mean | mean unsigned prediction error (|estimated VA - measured VA|) | 100-item Visual Acuity Survey | none | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.97 match)
+  [128 | mean | mean signed prediction error (estimated VA - measured VA) | 100-item Visual Acuity Survey | none | person | NR]
+    <key>       A: '128 | mean | mean signed prediction error (estimated VA - measured VA) | 100-item Visual Acuity Survey | none | person | '
+                B: '128 | mean | mean signed prediction error (estimated VA - measured VA), logMAR | 100-item Visual Acuity Survey | none | person | '   (fuzzy 0.97 match)
+  [128 | mean | mean signed prediction error (estimated VA - measured VA) | 100-item Visual Acuity Survey | none | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.97 match)
+  [128 | correlation | r (unsigned prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    <key>       A: '128 | correlation | r (unsigned prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | '
+                B: '128 | correlation | Pearson r (unsigned prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | '   (fuzzy 0.97 match)
+  [128 | correlation | r (unsigned prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    p_value     A: 'NR'
+                B: '0.001'   (fuzzy 0.97 match)
+  [128 | correlation | r (unsigned prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.97 match)
+  [128 | correlation | r (signed prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    <key>       A: '128 | correlation | r (signed prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | '
+                B: '128 | correlation | Pearson r (signed prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | '   (fuzzy 0.97 match)
+  [128 | correlation | r (signed prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    p_value     A: 'NR'
+                B: '0.01'   (fuzzy 0.97 match)
+  [128 | correlation | r (signed prediction error vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.97 match)
+  [128 | mean | coefficient of repeatability (95%) between estimated and measured VA | 100-item Visual Acuity Survey | none | person | NR]
+    <key>       A: '128 | mean | coefficient of repeatability (95%) between estimated and measured VA | 100-item Visual Acuity Survey | none | person | '
+                B: '128 | mean | coefficient of repeatability (0.95) between estimated and measured VA, logMAR | 100-item Visual Acuity Survey | none | person | '   (fuzzy 0.96 match)
+  [128 | mean | coefficient of repeatability (95%) between estimated and measured VA | 100-item Visual Acuity Survey | none | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.96 match)
+  [128 | correlation | r (unsigned prediction error vs contrast sensitivity) | 100-item Visual Acuity Survey | contrast sensitivity (measure NR) | person | VA 0.3 to 0.4 logMAR with CS measured]
+    <key>       A: '128 | correlation | r (unsigned prediction error vs contrast sensitivity) | 100-item Visual Acuity Survey | contrast sensitivity (measure NR) | person | VA 0.3 to 0.4 logMAR with CS measured'
+                B: '128 | correlation | Pearson r (unsigned prediction error vs contrast sensitivity) | 100-item Visual Acuity Survey | contrast sensitivity (measure NR) | person | VA 0.3-0.4 logMAR with CS'   (fuzzy 0.94 match)
+  [128 | correlation | r (unsigned prediction error vs contrast sensitivity) | 100-item Visual Acuity Survey | contrast sensitivity (measure NR) | person | VA 0.3 to 0.4 logMAR with CS measured]
+    page        A: '1 (Discussion, paragraph on contrast sensitivity)'
+                B: '1 (Discussion)'   (fuzzy 0.94 match)
+  [128 | correlation | r (unsigned prediction error vs contrast sensitivity) | 100-item Visual Acuity Survey | contrast sensitivity (measure NR) | person | VA 0.3 to 0.4 logMAR with CS measured]
+    derivation  A: 'reported directly (Discussion text)'
+                B: 'reported directly'   (fuzzy 0.94 match)
+  [128 | proportion | proportion of participants with prediction error within +/-0.24 logMAR | 100-item Visual Acuity Survey | none | person | NR]
+    <key>       A: '128 | proportion | proportion of participants with prediction error within +/-0.24 logMAR | 100-item Visual Acuity Survey | none | person | '
+                B: '128 | proportion | proportion with prediction error within +/-0.24 logMAR | 100-item Visual Acuity Survey | none | person | '   (fuzzy 0.94 match)
+  [128 | proportion | proportion of participants with prediction error within +/-0.24 logMAR | 100-item Visual Acuity Survey | none | person | NR]
+    derivation  A: 'reported directly (Results text: 60%)'
+                B: 'paper says 60%; events NR'   (fuzzy 0.94 match)
+  [128 | correlation | Pearson r (2PL IRT vision ability theta vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR; eye and correction NR) | person | NR]
+    <key>       A: '128 | correlation | Pearson r (2PL IRT vision ability theta vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR; eye and correction NR) | person | '
+                B: '128 | correlation | Pearson r (IRT vision ability theta vs measured VA; linear regression) | 100-item Visual Acuity Survey | measured VA (logMAR; eye/correction NR) | person | '   (fuzzy 0.92 match)
+  [128 | correlation | Pearson r (2PL IRT vision ability theta vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR; eye and correction NR) | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.92 match)
+  [128 | correlation | r (estimated VA vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    <key>       A: '128 | correlation | r (estimated VA vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | '
+                B: '128 | correlation | Pearson r (estimated VA vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR; eye/correction NR) | person | '   (fuzzy 0.90 match)
+  [128 | correlation | r (estimated VA vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    p_value     A: 'NR'
+                B: '0.001'   (fuzzy 0.90 match)
+  [128 | correlation | r (estimated VA vs measured VA) | 100-item Visual Acuity Survey | measured VA (logMAR) | person | NR]
+    derivation  A: 'reported directly (Results text)'
+                B: 'reported directly'   (fuzzy 0.90 match)
+
+agreement by column:
+  label                    9/9 agree
+  estimate                 9/9 agree
+  ci_low                   9/9 agree
+  ci_high                  9/9 agree
+  se                       9/9 agree
+  sd                       9/9 agree
+  events                   9/9 agree
+  n                        9/9 agree
+  n_pos                    9/9 agree
+  n_neg                    9/9 agree
+  m1                       9/9 agree
+  sd1                      9/9 agree
+  n1                       9/9 agree
+  m2                       9/9 agree
+  sd2                      9/9 agree
+  n2                       9/9 agree
+  p_value                  6/9 agree  <- 3 to resolve
+  page                     8/9 agree  <- 1 to resolve
+  derivation               0/9 agree  <- 9 to resolve
+
+overall: 158/171 cells agree (92.4%)
+disagreement list written to analysis/extraction/recon/dis_128_effects.csv (fill resolved_value / resolved_by, then apply to the master CSV)

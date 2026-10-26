@@ -1,0 +1,58 @@
+A: analysis/extraction/passA/79/studies.csv (1 rows)
+B: analysis/extraction/passB/79/studies.csv (1 rows)
+key: study_id
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (8):
+  [79]
+    setting      A: 'community-residing elderly; home interview and home visual examination'
+                 B: 'community (home interview; Canadian Study of Health and Aging, Montreal-area subsample for examination)'
+  [79]
+    n_enrolled   A: '144'
+                 B: '1777'
+  [79]
+    age_range    A: 'NR'
+                 B: '65+ (eligibility: at least 65 years)'
+  [79]
+    pct_female   A: 'NR'
+                 B: '62.2'
+  [79]
+    recruitment  A: 'Stage 1: random sample of community residents aged 65+ in Quebec (CSHA 1991-1992; 1777 completed, 98.7%; ages 75+ oversampled). Stage 2 (validation): Montreal-area subjects not eligible for other CSHA components; all positives plus a random sample of negatives; 144 eligible, 31 lost, 42 refused, 6 unscheduled, 65 examined (45.1%); work-up (verification) bias acknowledged'
+                 B: 'random community sample of Quebec residents aged 65+ drawn around 4 CSHA centres, 1991-1992, ages 75+ oversampled; 98.7% of eligible completed questionnaire. Validation: Montreal-area subjects not eligible for other CSHA components; all screen-positive plus random sample of screen-negative invited; 144 eligible, 31 lost, 42 refused, 6 not scheduled, 65 examined (participation 45.1%)'
+  [79]
+    instruments  A: 'Statistics Canada HALS vision questions'
+                 B: 'HALS two-question visual disability screen'
+  [79]
+    cohort       A: 'Canadian Study of Health and Aging, Quebec community sample (stage 2 is a subsample of Montreal-area participants)'
+                 B: 'CSHA Quebec community sample (1800 sampled; 1777 completed)'
+  [79]
+    page         A: '2, 3, 4'
+                 B: '2, 3'
+
+agreement by column:
+  label                    1/1 agree
+  year                     1/1 agree
+  country                  1/1 agree
+  setting                  0/1 agree  <- 1 to resolve
+  design                   1/1 agree
+  n_enrolled               0/1 agree  <- 1 to resolve
+  n                        1/1 agree
+  age_mean                 1/1 agree
+  age_sd                   1/1 agree
+  age_range                0/1 agree  <- 1 to resolve
+  pct_female               0/1 agree  <- 1 to resolve
+  pct_glaucoma             1/1 agree
+  diagnosis_mix            1/1 agree
+  recruitment              0/1 agree  <- 1 to resolve
+  instruments              0/1 agree  <- 1 to resolve
+  n_items                  1/1 agree
+  administration_mode      1/1 agree
+  time_to_administer_min   1/1 agree
+  language                 1/1 agree
+  unit_of_analysis         1/1 agree
+  cohort                   0/1 agree  <- 1 to resolve
+  page                     0/1 agree  <- 1 to resolve
+
+overall: 14/22 cells agree (63.6%)
+disagreement list written to analysis/extraction/recon/dis_79_studies.csv (fill resolved_value / resolved_by, then apply to the master CSV)

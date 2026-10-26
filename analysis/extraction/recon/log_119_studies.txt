@@ -1,0 +1,49 @@
+A: analysis/extraction/passA/119/studies.csv (1 rows)
+B: analysis/extraction/passB/119/studies.csv (1 rows)
+key: study_id
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (5):
+  [119]
+    setting        A: 'public hospital ophthalmology consultation (Hospital de la Esperanza, Parc de Salut Mar) and private ophthalmology clinic (Institut Català de la Retina), Barcelona'
+                   B: 'public hospital ophthalmology consultation (Hospital de la Esperanza, Barcelona, n=257) and private ophthalmology clinic (Institut Català de la Retina, n=108)'
+  [119]
+    pct_female     A: 'NR'
+                   B: '55.3'
+  [119]
+    pct_glaucoma   A: 'NR'
+                   B: '11.2'
+  [119]
+    diagnosis_mix  A: 'visual impairment group (n=170): dry AMD 25.3% (n=43); exudative AMD 32.9% (n=56); cataracts 28.2% (n=48); glaucoma 11.2% (n=19); diabetic retinopathy 8.8% (n=15); other 12.9% (n=22); healthy controls n=195'
+                   B: 'visual impairment group (n=170): dry AMD 25.3% (43); exudative AMD 32.9% (56); cataracts 28.2% (48); glaucoma 11.2% (19); diabetic retinopathy 8.8% (15); other 12.9% (22); healthy group n=195, diagnoses NR'
+  [119]
+    recruitment    A: 'consecutive patients attending ophthalmology consultation; stable visual parameters (VA change <0.1 logMAR in last 6 months); visual impairment vs healthy groups defined by best-corrected VA (clear-cut cases and controls, authors note possible overestimation of accuracy); public hospital n=257 (119 VI, 138 healthy), private clinic n=108 (51 VI, 57 healthy); dates NR'
+                   B: '365 consecutive patients; stable visual parameters (VA change <0.1 logMAR in last 6 months); VI group BCVA best eye equal or inferior to 0.30 logMAR (public) or 0.52 logMAR (private); healthy group BCVA worst eye equal or superior to 0.10 logMAR; clear-cut case and control groups (authors note possible over-estimation); healthy group younger than VI group'
+
+agreement by column:
+  label                    1/1 agree
+  year                     1/1 agree
+  country                  1/1 agree
+  setting                  0/1 agree  <- 1 to resolve
+  design                   1/1 agree
+  n_enrolled               1/1 agree
+  n                        1/1 agree
+  age_mean                 1/1 agree
+  age_sd                   1/1 agree
+  age_range                1/1 agree
+  pct_female               0/1 agree  <- 1 to resolve
+  pct_glaucoma             0/1 agree  <- 1 to resolve
+  diagnosis_mix            0/1 agree  <- 1 to resolve
+  recruitment              0/1 agree  <- 1 to resolve
+  instruments              1/1 agree
+  n_items                  1/1 agree
+  administration_mode      1/1 agree
+  time_to_administer_min   1/1 agree
+  language                 1/1 agree
+  unit_of_analysis         1/1 agree
+  cohort                   1/1 agree
+  page                     1/1 agree
+
+overall: 17/22 cells agree (77.3%)
+disagreement list written to analysis/extraction/recon/dis_119_studies.csv (fill resolved_value / resolved_by, then apply to the master CSV)

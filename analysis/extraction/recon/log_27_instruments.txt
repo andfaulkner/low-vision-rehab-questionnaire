@@ -1,0 +1,14 @@
+A: analysis/extraction/passA/27/instruments.csv (1 rows)
+B: analysis/extraction/passB/27/instruments.csv (1 rows)
+key: instrument
+columns ignored: notes
+matched rows: 0 (0 by fuzzy key)
+
+rows only in A (1):
+  A row 2: Visual Impairment as a Risk for Falls Questionnaire (VIRFQ)
+
+rows only in B (1):
+  B row 2: VIRFQ
+
+agreement by column:
+disagreement list written to analysis/extraction/recon/dis_27_instruments.csv (fill resolved_value / resolved_by, then apply to the master CSV)

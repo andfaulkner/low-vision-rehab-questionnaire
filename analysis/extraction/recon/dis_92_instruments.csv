@@ -1,0 +1,5 @@
+key,column,A,B,match,resolved_value,resolved_by
+100-item Visual Acuity Survey,full_name,100-item visual acuity survey (100 yes/no everyday-task items linked to acuity demand),100-item visual acuity survey (yes/no everyday-task items linked to acuity demand),exact,,
+100-item Visual Acuity Survey,domains,self-reported ability to recognise details of everyday objects at specific viewing distances,single construct: acuity-linked everyday visual tasks (item difficulties span ~0.15-1.47 logMAR),exact,,
+100-item Visual Acuity Survey,scoring,IRT two-parameter logistic ability (theta); estimated VA = 0.59 - 0.33 x theta (Equation 1 p6); single or combined items scored No = positive (all No for pairs/triplets),IRT two-parameter logistic model; ability theta mapped to VA by VA = 0.59 - 0.33 x theta (Equation 1); single items/sets screened with No = positive,exact,,
+100-item Visual Acuity Survey,target_population,adults 18+ spanning a broad VA range (-0.3 to 2.0 logMAR),adults 18+ across a broad VA range,exact,,

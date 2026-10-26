@@ -1,0 +1,5 @@
+key,column,A,B,match,resolved_value,resolved_by
+100-item Visual Acuity Survey,full_name,VA survey: 100 yes/no questions on recognising everyday objects at typical viewing distances,VA Survey (100 yes/no questions about recognising everyday objects at typical viewing distances),exact,,
+100-item Visual Acuity Survey,domains,"self-reported recognition of object details at given viewing distances (single latent trait, vision ability)",single construct: vision ability to recognise object details (acuity demand: object size and viewing distance),exact,,
+100-item Visual Acuity Survey,scoring,"2PL IRT (mirt v1.40 in R) vision ability theta; linear regression converts theta to estimated VA (Estimated VA = 0.59 - 0.33 x theta, logMAR)","2PL IRT (mirt, R) vision ability theta; linear regression to estimated VA (Estimated VA = 0.59 - 0.33 x theta)",exact,,
+100-item Visual Acuity Survey,target_population,adults 18+ across the full VA range (-0.3 to 2 logMAR),adults 18+ with a wide range of VA and diagnoses,exact,,

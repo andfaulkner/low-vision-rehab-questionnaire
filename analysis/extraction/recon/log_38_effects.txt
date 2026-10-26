@@ -1,0 +1,8 @@
+A: analysis/extraction/passA/38/effects.csv (0 rows)
+B: analysis/extraction/passB/38/effects.csv (0 rows)
+key: study_id, outcome_type, measure, instrument, comparator, unit, subgroup
+columns ignored: notes
+matched rows: 0 (0 by fuzzy key)
+
+agreement by column:
+disagreement list written to analysis/extraction/recon/dis_38_effects.csv (fill resolved_value / resolved_by, then apply to the master CSV)

@@ -1,0 +1,52 @@
+A: analysis/extraction/passA/38/studies.csv (1 rows)
+B: analysis/extraction/passB/38/studies.csv (1 rows)
+key: study_id
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (6):
+  [38]
+    setting        A: 'stroke care (pre-hospital, acute and out-patient settings; guideline)'
+                   B: 'stroke survivors; variety of settings (pre-hospital, acute, out-patient) across included studies (Table 1.1 p7-8)'
+  [38]
+    n              A: 'NR'
+                   B: '461'
+  [38]
+    diagnosis_mix  A: 'NR (adult stroke survivors)'
+                   B: 'stroke survivors; no ocular diagnosis breakdown (Table 4.1 p16)'
+  [38]
+    recruitment    A: 'NR (guideline based on systematic review; not a primary study)'
+                   B: 'guideline-level systematic review of vision screening in stroke (PICO 1-10); CVSQ evidence comes from one included study (ref 34, 461 non-aphasic individuals post stroke) so recruitment is NR here'
+  [38]
+    cohort         A: 'CVSQ data come from a single primary study cited as ref 34 (Neumann et al.); 461 participants'
+                   B: "CVSQ figures are secondary data from a single included primary study (ref 34, Neumann 2016); not the guideline's own cohort"
+  [38]
+    page           A: '7, 15, 16, 21'
+                   B: '7, 8, 16, 21'
+
+agreement by column:
+  label                    1/1 agree
+  year                     1/1 agree
+  country                  1/1 agree
+  setting                  0/1 agree  <- 1 to resolve
+  design                   1/1 agree
+  n_enrolled               1/1 agree
+  n                        0/1 agree  <- 1 to resolve
+  age_mean                 1/1 agree
+  age_sd                   1/1 agree
+  age_range                1/1 agree
+  pct_female               1/1 agree
+  pct_glaucoma             1/1 agree
+  diagnosis_mix            0/1 agree  <- 1 to resolve
+  recruitment              0/1 agree  <- 1 to resolve
+  instruments              1/1 agree
+  n_items                  1/1 agree
+  administration_mode      1/1 agree
+  time_to_administer_min   1/1 agree
+  language                 1/1 agree
+  unit_of_analysis         1/1 agree
+  cohort                   0/1 agree  <- 1 to resolve
+  page                     0/1 agree  <- 1 to resolve
+
+overall: 16/22 cells agree (72.7%)
+disagreement list written to analysis/extraction/recon/dis_38_studies.csv (fill resolved_value / resolved_by, then apply to the master CSV)

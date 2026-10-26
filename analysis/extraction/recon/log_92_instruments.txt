@@ -1,0 +1,34 @@
+A: analysis/extraction/passA/92/instruments.csv (1 rows)
+B: analysis/extraction/passB/92/instruments.csv (1 rows)
+key: instrument
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (4):
+  [100-item Visual Acuity Survey]
+    full_name          A: '100-item visual acuity survey (100 yes/no everyday-task items linked to acuity demand)'
+                       B: '100-item visual acuity survey (yes/no everyday-task items linked to acuity demand)'
+  [100-item Visual Acuity Survey]
+    domains            A: 'self-reported ability to recognise details of everyday objects at specific viewing distances'
+                       B: 'single construct: acuity-linked everyday visual tasks (item difficulties span ~0.15-1.47 logMAR)'
+  [100-item Visual Acuity Survey]
+    scoring            A: 'IRT two-parameter logistic ability (theta); estimated VA = 0.59 - 0.33 x theta (Equation 1 p6); single or combined items scored No = positive (all No for pairs/triplets)'
+                       B: 'IRT two-parameter logistic model; ability theta mapped to VA by VA = 0.59 - 0.33 x theta (Equation 1); single items/sets screened with No = positive'
+  [100-item Visual Acuity Survey]
+    target_population  A: 'adults 18+ spanning a broad VA range (-0.3 to 2.0 logMAR)'
+                       B: 'adults 18+ across a broad VA range'
+
+agreement by column:
+  full_name                0/1 agree  <- 1 to resolve
+  n_items                  1/1 agree
+  domains                  0/1 agree  <- 1 to resolve
+  response_scale           1/1 agree
+  scoring                  0/1 agree  <- 1 to resolve
+  validation_method        1/1 agree
+  languages                1/1 agree
+  time_to_administer_min   1/1 agree
+  target_population        0/1 agree  <- 1 to resolve
+  source_refs              1/1 agree
+
+overall: 6/10 cells agree (60.0%)
+disagreement list written to analysis/extraction/recon/dis_92_instruments.csv (fill resolved_value / resolved_by, then apply to the master CSV)

@@ -1,0 +1,6 @@
+key,column,A,B,match,resolved_value,resolved_by
+92,setting,four U.S. institutions (setting type NR),four US institutions (setting type not described beyond 'institutions'),exact,,
+92,diagnosis_mix,"macular degeneration 19.2%; glaucoma 16.9%; cataract 6.5% (primary diagnosis, not mutually exclusive)","macular degeneration 74 (19.2%); glaucoma 65 (16.9%); cataract 25 (6.5%) (primary diagnosis, not mutually exclusive)",exact,,
+92,recruitment,"recruited June 2019-February 2022 to span a broad range of visual function (binocular VA -0.3 to 2.0 logMAR, mean 0.58 +/- 0.44); adults 18+, VA data available, English; cohort described in ref 7 (Wu 2024 TVST); fewer normally sighted people than general population (p8)","recruited from four U.S. institutions June 2019-February 2022 to span a broad spectrum of visual function; sampling method (consecutive/convenience) NR in this paper (see original publication ref 7); inclusion: age >=18, VA data available, able to communicate in English; binocular VA -0.3 to 2.0 logMAR (mean 0.58, SD 0.44); fewer normally sighted people than general population (p8)",exact,,
+92,cohort,same 385 participants as Wu 2024 TVST (Screening ID 128),"same 385 participants as previously published cohort (ref 7; Wu 2024, Screening ID 128)",exact,,
+92,page,"2, 3, 8","2, 3 (Table 1), 8",exact,,

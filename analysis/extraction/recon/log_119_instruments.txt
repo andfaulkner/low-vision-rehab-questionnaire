@@ -1,0 +1,61 @@
+A: analysis/extraction/passA/119/instruments.csv (3 rows)
+B: analysis/extraction/passB/119/instruments.csv (3 rows)
+key: instrument
+columns ignored: notes
+matched rows: 3 (0 by fuzzy key)
+
+cell disagreements (13):
+  [SLVQOL]
+    full_name          A: 'Spanish Low Vision Quality of Life Questionnaire (Spanish translation of the LVQOL, Wolffsohn and Cochrane 2000)'
+                       B: 'Spanish Low Vision Quality of Life Questionnaire (Spanish version of the LVQOL, Wolffsohn and Cochrane)'
+  [SLVQOL]
+    response_scale     A: '0-5 (0 = can no longer perform the activity due to vision, 5 = no sight-related difficulty); N/A allowed'
+                       B: '0-5 (0 = can no longer perform activity due to vision; 5 = no difficulty); N/A allowed'
+  [SLVQOL]
+    scoring            A: 'sum of item scores, range 0-125 (N/A items allocated the questionnaire average); higher = better quality of life'
+                       B: 'sum of item scores, range 0-125 (N/A given average score); lower = lower quality of life'
+  [SLVQOL]
+    validation_method  A: 'CTT; internal consistency; test-retest; factor analysis; IRT; ROC; criterion validity'
+                       B: 'CTT; internal consistency; test-retest; criterion validity; ROC; IRT; factor analysis'
+  [SLVQOL]
+    target_population  A: 'adults with visual impairment (low vision)'
+                       B: 'adults with visual impairment'
+  [NEI VFQ-25]
+    full_name          A: 'National Eye Institute Visual Function Questionnaire, 25-item version (validated Spanish version)'
+                       B: 'National Eye Institute Visual Function Questionnaire 25'
+  [NEI VFQ-25]
+    scoring            A: 'dimension scores 0 (worst) to 100 (best); overall score also calculated'
+                       B: '0 (worst) to 100 (best) per dimension plus overall score'
+  [NEI VFQ-25]
+    languages          A: 'Spanish'
+                       B: 'Spanish (validated version used)'
+  [EQ 5D-5L]
+    full_name          A: 'EuroQol EQ 5D-5L (validated Spanish version)'
+                       B: 'EuroQol EQ 5D-5L'
+  [EQ 5D-5L]
+    domains            A: 'Mobility; Self-care; Usual activities; Pain/discomfort; Anxiety/depression; plus Visual Analogue Scale'
+                       B: 'Mobility; Self-care; Usual activities; Pain/discomfort; Anxiety/depression; plus VAS 0-100'
+  [EQ 5D-5L]
+    response_scale     A: "five levels from 'no problem' to 'extreme problems'; VAS 0-100"
+                       B: '5 levels from no problem to extreme problems'
+  [EQ 5D-5L]
+    languages          A: 'Spanish'
+                       B: 'Spanish (validated version used)'
+  [EQ 5D-5L]
+    target_population  A: 'general health status'
+                       B: 'general health, population surveys'
+
+agreement by column:
+  full_name                0/3 agree  <- 3 to resolve
+  n_items                  3/3 agree
+  domains                  2/3 agree  <- 1 to resolve
+  response_scale           1/3 agree  <- 2 to resolve
+  scoring                  1/3 agree  <- 2 to resolve
+  validation_method        2/3 agree  <- 1 to resolve
+  languages                1/3 agree  <- 2 to resolve
+  time_to_administer_min   3/3 agree
+  target_population        1/3 agree  <- 2 to resolve
+  source_refs              3/3 agree
+
+overall: 17/30 cells agree (56.7%)
+disagreement list written to analysis/extraction/recon/dis_119_instruments.csv (fill resolved_value / resolved_by, then apply to the master CSV)

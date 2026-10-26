@@ -1,0 +1,49 @@
+A: analysis/extraction/passA/92/studies.csv (1 rows)
+B: analysis/extraction/passB/92/studies.csv (1 rows)
+key: study_id
+columns ignored: notes
+matched rows: 1 (0 by fuzzy key)
+
+cell disagreements (5):
+  [92]
+    setting        A: 'four U.S. institutions (setting type NR)'
+                   B: "four US institutions (setting type not described beyond 'institutions')"
+  [92]
+    diagnosis_mix  A: 'macular degeneration 19.2%; glaucoma 16.9%; cataract 6.5% (primary diagnosis, not mutually exclusive)'
+                   B: 'macular degeneration 74 (19.2%); glaucoma 65 (16.9%); cataract 25 (6.5%) (primary diagnosis, not mutually exclusive)'
+  [92]
+    recruitment    A: 'recruited June 2019-February 2022 to span a broad range of visual function (binocular VA -0.3 to 2.0 logMAR, mean 0.58 +/- 0.44); adults 18+, VA data available, English; cohort described in ref 7 (Wu 2024 TVST); fewer normally sighted people than general population (p8)'
+                   B: 'recruited from four U.S. institutions June 2019-February 2022 to span a broad spectrum of visual function; sampling method (consecutive/convenience) NR in this paper (see original publication ref 7); inclusion: age >=18, VA data available, able to communicate in English; binocular VA -0.3 to 2.0 logMAR (mean 0.58, SD 0.44); fewer normally sighted people than general population (p8)'
+  [92]
+    cohort         A: 'same 385 participants as Wu 2024 TVST (Screening ID 128)'
+                   B: 'same 385 participants as previously published cohort (ref 7; Wu 2024, Screening ID 128)'
+  [92]
+    page           A: '2, 3, 8'
+                   B: '2, 3 (Table 1), 8'
+
+agreement by column:
+  label                    1/1 agree
+  year                     1/1 agree
+  country                  1/1 agree
+  setting                  0/1 agree  <- 1 to resolve
+  design                   1/1 agree
+  n_enrolled               1/1 agree
+  n                        1/1 agree
+  age_mean                 1/1 agree
+  age_sd                   1/1 agree
+  age_range                1/1 agree
+  pct_female               1/1 agree
+  pct_glaucoma             1/1 agree
+  diagnosis_mix            0/1 agree  <- 1 to resolve
+  recruitment              0/1 agree  <- 1 to resolve
+  instruments              1/1 agree
+  n_items                  1/1 agree
+  administration_mode      1/1 agree
+  time_to_administer_min   1/1 agree
+  language                 1/1 agree
+  unit_of_analysis         1/1 agree
+  cohort                   0/1 agree  <- 1 to resolve
+  page                     0/1 agree  <- 1 to resolve
+
+overall: 17/22 cells agree (77.3%)
+disagreement list written to analysis/extraction/recon/dis_92_studies.csv (fill resolved_value / resolved_by, then apply to the master CSV)

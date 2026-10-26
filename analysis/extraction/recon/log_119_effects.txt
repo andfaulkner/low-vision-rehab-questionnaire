@@ -1,0 +1,72 @@
+A: analysis/extraction/passA/119/effects.csv (11 rows)
+B: analysis/extraction/passB/119/effects.csv (9 rows)
+key: study_id, outcome_type, measure, instrument, comparator, unit, subgroup
+columns ignored: notes
+matched rows: 2 (2 by fuzzy key)
+
+rows only in A (9):
+  A row 2: 119 | spearman | Spearman rho (test-retest, SLVQOL total score) | SLVQOL | SLVQOL total score at retest (~19.5 days later) | person | 
+  A row 3: 119 | correlation | r (SLVQOL score vs BCVA; correlation type not named) | SLVQOL | best-corrected distance VA, best eye (logMAR) | person | visual impairment group
+  A row 4: 119 | correlation | r (SLVQOL score vs BCVA; correlation type not named) | SLVQOL | best-corrected distance VA, worst eye (logMAR) | person | visual impairment group
+  A row 6: 119 | correlation | r (SLVQOL score vs EQ 5D-5L Self-care dimension) | SLVQOL | EQ 5D-5L Self-care | person | public hospital sample
+  A row 7: 119 | correlation | r (SLVQOL score vs EQ 5D-5L Usual activities dimension) | SLVQOL | EQ 5D-5L Usual activities | person | public hospital sample
+  A row 9: 119 | mean | minutes to administer (converted from seconds) | SLVQOL | none | person | VI, public hospital (telephone)
+  A row 10: 119 | mean | minutes to administer (converted from seconds) | SLVQOL | none | person | VI, private clinic (face to face)
+  A row 11: 119 | mean | minutes to administer (converted from seconds) | SLVQOL | none | person | healthy, public hospital (telephone)
+  A row 12: 119 | mean | minutes to administer (converted from seconds) | SLVQOL | none | person | healthy, private clinic (face to face)
+
+rows only in B (7):
+  B row 2: 119 | correlation | r (SLVQOL score vs BCVA; test not named) | SLVQOL | BCVA best eye (logMAR, best-corrected distance) | person | 
+  B row 3: 119 | correlation | r (SLVQOL score vs BCVA; test not named) | SLVQOL | BCVA worst eye (logMAR, best-corrected distance) | person | 
+  B row 5: 119 | spearman | Spearman rho (test-retest, about 15 days; mean 19.5 +/- 5.07 days) | SLVQOL | SLVQOL retest score | person | 
+  B row 7: 119 | mean | administration time (seconds), mean | SLVQOL | none | person | VI, public hospital, telephone
+  B row 8: 119 | mean | administration time (seconds), mean | SLVQOL | none | person | VI, private clinic, face-to-face
+  B row 9: 119 | mean | administration time (seconds), mean | SLVQOL | none | person | healthy, public hospital, telephone
+  B row 10: 119 | mean | administration time (seconds), mean | SLVQOL | none | person | healthy, private clinic, face-to-face
+
+cell disagreements (7):
+  [119 | md | mean SLVQOL score difference (visual impairment - healthy) | SLVQOL | none | person | NR]
+    <key>       A: '119 | md | mean SLVQOL score difference (visual impairment - healthy) | SLVQOL | none | person | '
+                B: '119 | md | mean score difference (visual impairment - healthy) | SLVQOL | healthy group | person | '   (fuzzy 0.89 match)
+  [119 | md | mean SLVQOL score difference (visual impairment - healthy) | SLVQOL | none | person | NR]
+    p_value     A: '0.000'
+                B: 'NR'   (fuzzy 0.89 match)
+  [119 | md | mean SLVQOL score difference (visual impairment - healthy) | SLVQOL | none | person | NR]
+    page        A: '4, 9'
+                B: '6 (Table 3)'   (fuzzy 0.89 match)
+  [119 | md | mean SLVQOL score difference (visual impairment - healthy) | SLVQOL | none | person | NR]
+    derivation  A: "m1 - m2 = 66.9 - 117.2 = -50.3; paper states 'difference of 50.3 points' (p9), means on p4"
+                B: 'reported difference 50.3 (Table 3 p6); sign as VI minus healthy'   (fuzzy 0.89 match)
+  [119 | correlation | r (SLVQOL score vs BCVA; correlation type not named) | SLVQOL | weighted arithmetic mean BCVA of both eyes (75% best eye, 25% worst eye; logMAR) | person | visual impairment group]
+    <key>       A: '119 | correlation | r (SLVQOL score vs BCVA; correlation type not named) | SLVQOL | weighted arithmetic mean BCVA of both eyes (75% best eye, 25% worst eye; logMAR) | person | visual impairment group'
+                B: '119 | correlation | r (SLVQOL score vs BCVA; test not named) | SLVQOL | weighted mean BCVA of both eyes (75% best eye, 25% worst eye; logMAR) | person | '   (fuzzy 0.85 match)
+  [119 | correlation | r (SLVQOL score vs BCVA; correlation type not named) | SLVQOL | weighted arithmetic mean BCVA of both eyes (75% best eye, 25% worst eye; logMAR) | person | visual impairment group]
+    p_value     A: '0.000'
+                B: 'NR'   (fuzzy 0.85 match)
+  [119 | correlation | r (SLVQOL score vs BCVA; correlation type not named) | SLVQOL | weighted arithmetic mean BCVA of both eyes (75% best eye, 25% worst eye; logMAR) | person | visual impairment group]
+    derivation  A: 'reported directly (Results p4); n = 170 VI patients'
+                B: 'reported directly (text p4); n = 170 = visual impairment group size (p4), not stated for this analysis (Table 4 p6 uses 157)'   (fuzzy 0.85 match)
+
+agreement by column:
+  label                    2/2 agree
+  estimate                 2/2 agree
+  ci_low                   2/2 agree
+  ci_high                  2/2 agree
+  se                       2/2 agree
+  sd                       2/2 agree
+  events                   2/2 agree
+  n                        2/2 agree
+  n_pos                    2/2 agree
+  n_neg                    2/2 agree
+  m1                       2/2 agree
+  sd1                      2/2 agree
+  n1                       2/2 agree
+  m2                       2/2 agree
+  sd2                      2/2 agree
+  n2                       2/2 agree
+  p_value                  0/2 agree  <- 2 to resolve
+  page                     1/2 agree  <- 1 to resolve
+  derivation               0/2 agree  <- 2 to resolve
+
+overall: 33/38 cells agree (86.8%)
+disagreement list written to analysis/extraction/recon/dis_119_effects.csv (fill resolved_value / resolved_by, then apply to the master CSV)
