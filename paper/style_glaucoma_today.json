@@ -1,0 +1,65 @@
+{
+  "name": "Glaucoma Today house style (AMA-like), checked against Sept/Oct 2026 Feature reference list",
+  "notes": "Copied from ama.json and checked against the 24-entry list in Johnson et al, Glaucoma Today Sept/Oct 2026 pp 41-45 and the 5-entry list in Berdahl, same issue. Observed: numbered by first appearance; all authors listed up to 6, first 3 + 'et al' when 7 or more (e.g. 'Zhao J, Solano MM, Oldenburg CE, et al.'); initials without periods; sentence-case article titles; NLM journal abbreviations; 'Year;vol(issue):pages' with full (uncondensed) page ranges, issue omitted in some entries; DOI printed as 'doi:10.xxxx' with no URL and no trailing period; superscript in-text numbers. NOT observed in the issue: any web page entry or 'Accessed' wording, so the AMA 'Accessed {date}.' wording is kept as an unverified default. Italic journal names could not be confirmed from the PDF text layer (an italic font is embedded); kept on.",
+  "in_text": {
+    "format": "superscript",
+    "open": "^",
+    "close": "^",
+    "separator": ",",
+    "range_dash": "-",
+    "collapse_ranges": true,
+    "after_punctuation": true
+  },
+  "reference_list": {
+    "heading": "## References",
+    "number_format": "{n}. "
+  },
+  "authors": {
+    "max_listed": 6,
+    "list_first_if_more": 3,
+    "et_al": "et al",
+    "et_al_separator": ", ",
+    "separator": ", ",
+    "final_separator": ", ",
+    "family_first": true,
+    "initials_separator": "",
+    "initials_suffix": "",
+    "keep_hyphen": false
+  },
+  "editors": {
+    "single": "ed",
+    "plural": "eds"
+  },
+  "title": {
+    "case": "sentence",
+    "sentence_case_types": [
+      "journal",
+      "chapter",
+      "preprint"
+    ],
+    "strip_trailing_period": true
+  },
+  "journal": {
+    "abbreviate": true,
+    "italic": true
+  },
+  "pages": {
+    "condense": false
+  },
+  "dates": {
+    "format": "{Month} {D}, {YYYY}"
+  },
+  "doi": {
+    "omit_when_url": false
+  },
+  "templates": {
+    "journal": "{authors}. {title}. {journal}. {year}[;{volume}][({issue})][:{pages}].[ doi:{doi}]",
+    "preprint": "{authors}. {title}. {container_title}. Preprint posted online {year}.[ doi:{doi}]",
+    "chapter": "{authors}. {title}. In: [{editors}, {eds}. ]{book_title}.[ {edition} ed.] {publisher}; {year}[:{pages}].[ Accessed {accessed}.][ {url}]",
+    "book": "{authors}. {book_title}.[ {edition} ed.] {publisher}; {year}.[ Accessed {accessed}.][ {url}]",
+    "report": "{authors}. {title}. {publisher}; {year}.[ Accessed {accessed}.][ {url}]",
+    "guideline": "{authors}. {title}.[ {container_title}.] {publisher}; {year}.[ Accessed {accessed}.][ {url}]",
+    "web": "{authors}. {title}. {container_title}.[ Published {published}.][ Updated {updated}.][ Accessed {accessed}.] {url}",
+    "other": "{authors}. {title}.[ {container_title}.][ {publisher};] {year}.[ doi:{doi}][ Accessed {accessed}.][ {url}]"
+  }
+}
