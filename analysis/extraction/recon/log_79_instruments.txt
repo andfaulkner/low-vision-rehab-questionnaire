@@ -1,0 +1,14 @@
+A: analysis/extraction/passA/79/instruments.csv (1 rows)
+B: analysis/extraction/passB/79/instruments.csv (1 rows)
+key: instrument
+columns ignored: notes
+matched rows: 0 (0 by fuzzy key)
+
+rows only in A (1):
+  A row 2: Statistics Canada HALS vision questions
+
+rows only in B (1):
+  B row 2: HALS two-question visual disability screen
+
+agreement by column:
+disagreement list written to analysis/extraction/recon/dis_79_instruments.csv (fill resolved_value / resolved_by, then apply to the master CSV)

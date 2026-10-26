@@ -1,0 +1,7 @@
+key,column,A,B,match,resolved_value,resolved_by
+128,setting,"four US sites (University of Minnesota, Ohio State University, Johns Hopkins University, University of Alabama at Birmingham); clinic or phone","four US sites (University of Minnesota, Ohio State University, Johns Hopkins University, University of Alabama at Birmingham); participants from previous studies or patients at each site",exact,,
+128,design,validation,cross-sectional,exact,,
+128,diagnosis_mix,top three diagnoses overall (Table): macular degeneration n = 74; glaucoma n = 65; cataract n = 25; other diagnoses not broken down,"macular degeneration n = 74; glaucoma n = 65; cataract n = 25 (three main diagnoses, Table ""All"")",exact,,
+128,recruitment,participants from previous studies or patients at each site contacted by researchers; recruited Jun 2019-Feb 2022; no VA/field/diagnosis requirement so as to span a wide VA range (-0.3 to 2 logMAR),"Recruited Jun 2019-Feb 2022; researchers contacted participants from previous studies or patients at each site; inclusion age 18+, VA data available, English; no VA/field/diagnosis requirement; sampling method otherwise NR",exact,,
+128,cohort,NR,same 385 participants as Wu 2026 (Screening ID 92),exact,,
+128,page,"1 (Methods, Participants; Results, Sample Characteristics; Table)","1 (Methods, Participants; Methods, VA Survey; Results, Table)",exact,,

@@ -1,0 +1,136 @@
+id,year,first_author,pdf,txt,status
+1,,,,,not-retrieved
+2,2020,cherny,Cherny et al. - 2020 - A novel collaboration Multifocal RGPs and low vis.pdf,Cherny et al. - 2020 - A novel collaboration Multifocal RGPs and low vis.txt,retrieved
+3,2012,tabrett,Tabrett and Latham - 2012 - Adjustment to vision loss in a mixed sample of adu.pdf,Tabrett and Latham - 2012 - Adjustment to vision loss in a mixed sample of adu.txt,retrieved
+4,2022,li,Li et al. - 2022 - An Overview of Preferred Retinal Locus and Its App.pdf,Li et al. - 2022 - An Overview of Preferred Retinal Locus and Its App.txt,retrieved
+5,2012,gothwal,Gothwal and Bagga - 2012 - Andhra Pradesh Eye Disease Study - Visual Function.pdf,Gothwal and Bagga - 2012 - Andhra Pradesh Eye Disease Study - Visual Function.txt,retrieved
+6,2020,lai,Lai et al. - 2020 - Assessment of Eye Disease and Visual Impairment in.pdf,Lai et al. - 2020 - Assessment of Eye Disease and Visual Impairment in.txt,retrieved
+7,2009,alves,Alves et al. - 2009 - Assistive technology applied to education of stude.pdf,Alves et al. - 2009 - Assistive technology applied to education of stude.txt,retrieved
+8,2021,zhu,Zhu et al. - 2021 - Association of visual impairment with risk for fut.pdf,Zhu et al. - 2021 - Association of visual impairment with risk for fut.txt,retrieved
+9,2026,chen,Chen et al. - 2026 - Evaluation of a Community-Based AI-Assisted Visual.pdf,Chen et al. - 2026 - Evaluation of a Community-Based AI-Assisted Visual.txt,retrieved
+10,2026,qin,"Qin et al. - 2026 - Associations between cMIND diet, mold exposure, an.pdf","Qin et al. - 2026 - Associations between cMIND diet, mold exposure, an.txt",retrieved
+11,2023,langer,,,not-retrieved
+12,2012,goldstein,Goldstein et al. - 2012 - Baseline traits of low vision patients served by p.pdf,Goldstein et al. - 2012 - Baseline traits of low vision patients served by p.txt,retrieved
+13,2019,crossland,Crossland et al. - 2019 - Benefit of an electronic head‐mounted low vision a.pdf,Crossland et al. - 2019 - Benefit of an electronic head‐mounted low vision a.txt,retrieved
+14,2020,verdina,Verdina et al. - 2020 - Biofeedback Low Vision Rehabilitation with Retimax.pdf,Verdina et al. - 2020 - Biofeedback Low Vision Rehabilitation with Retimax.txt,retrieved
+15,2019,ortibus,Ortibus et al. - 2019 - Cerebral Visual Impairment and Clinical Assessment.pdf,Ortibus et al. - 2019 - Cerebral Visual Impairment and Clinical Assessment.txt,retrieved
+16,2021,kaleem,,,not-retrieved
+17,2018,gobeille,Gobeille et al. - 2018 - Clinical outcomes of low vision rehabilitation del.pdf,Gobeille et al. - 2018 - Clinical outcomes of low vision rehabilitation del.txt,retrieved
+18,2015,goldstein,Goldstein et al. - 2015 - Clinically Meaningful Rehabilitation Outcomes of L.pdf,Goldstein et al. - 2015 - Clinically Meaningful Rehabilitation Outcomes of L.txt,retrieved
+19,2008,dreer,"Dreer et al. - 2008 - Cognitive appraisals, distress and disability amon.pdf","Dreer et al. - 2008 - Cognitive appraisals, distress and disability amon.txt",retrieved
+20,2019,sahl,Şahlı and İdil - 2019 - Common Approach to Low Vision Examination and Reh.pdf,Şahlı and İdil - 2019 - Common Approach to Low Vision Examination and Reh.txt,retrieved
+21,2018,clarke,Clarke et al. - 2018 - Community screening for visual impairment in older.pdf,Clarke et al. - 2018 - Community screening for visual impairment in older.txt,retrieved
+22,2013,claesson,Claesson et al. - 2013 - Comparison of visual acuity charts identifying vis.pdf,Claesson et al. - 2013 - Comparison of visual acuity charts identifying vis.txt,retrieved
+23,2024,potter,,,not-retrieved
+24,2020,hernandez moreno,Hernández-Moreno et al. - 2020 - Cost-effectiveness of basic vision rehabilitation.pdf,Hernández-Moreno et al. - 2020 - Cost-effectiveness of basic vision rehabilitation.txt,retrieved
+25,2015,holloway,Holloway et al. - 2015 - Depression screening among older adults attending.pdf,Holloway et al. - 2015 - Depression screening among older adults attending.txt,retrieved
+26,2000,wolffsohn,Wolffsohn and Cochrane - 2000 - Design of the low vision quality-of-life questionn.pdf,Wolffsohn and Cochrane - 2000 - Design of the low vision quality-of-life questionn.txt,retrieved
+27,2018,labreche,Labreche et al. - 2018 - Development and validation of Visual Impairment as.pdf,Labreche et al. - 2018 - Development and validation of Visual Impairment as.txt,retrieved
+28,2026,zhang,Zhang et al. - 2026 - Development and validation of a logistic regressio.pdf,Zhang et al. - 2026 - Development and validation of a logistic regressio.txt,retrieved
+29,2009,dougherty,Dougherty et al. - 2009 - Development of a battery of functional tests for l.pdf,Dougherty et al. - 2009 - Development of a battery of functional tests for l.txt,retrieved
+30,2025,stalin,,,not-retrieved
+31,2004,de boer,de Boer et al. - 2004 - Different aspects of visual impairment as risk fac.pdf,de Boer et al. - 2004 - Different aspects of visual impairment as risk fac.txt,retrieved
+32,2024,yong,Yong et al. - 2024 - Does the optimal level of illumination improve bot.pdf,Yong et al. - 2024 - Does the optimal level of illumination improve bot.txt,retrieved
+33,2014,sengupta,Sengupta et al. - 2014 - Driving habits in older patients with central visi.pdf,Sengupta et al. - 2014 - Driving habits in older patients with central visi.txt,retrieved
+34,2018,stroupe,Stroupe et al. - 2018 - Economic Evaluation of Low-Vision Rehabilitation f.pdf,Stroupe et al. - 2018 - Economic Evaluation of Low-Vision Rehabilitation f.txt,retrieved
+35,2021,jin,"Jin et al. - 2021 - Economic Hardship, Ocular Complications, and Poor.pdf","Jin et al. - 2021 - Economic Hardship, Ocular Complications, and Poor.txt",retrieved
+36,2022,qian,Qian et al. - 2022 - Efficacy of MP-3 microperimeter biofeedback fixati.pdf,Qian et al. - 2022 - Efficacy of MP-3 microperimeter biofeedback fixati.txt,retrieved
+37,2026,elsman,Elsman et al. - 2026 - Estimating the prevalence of visual impairment in .pdf,Elsman et al. - 2026 - Estimating the prevalence of visual impairment in .txt,retrieved
+38,2025,rowe,Rowe et al. - 2025 - European Stroke Organisation (ESO) guideline on vi.pdf,Rowe et al. - 2025 - European Stroke Organisation (ESO) guideline on vi.txt,retrieved
+39,2005,babcock parziale,Babcock-Parziale et al. - 2005 - Evaluating psychometric properties of a clinical a.pdf,Babcock-Parziale et al. - 2005 - Evaluating psychometric properties of a clinical a.txt,retrieved
+40,2026,chen,Chen et al. - 2026 - Evaluation of a Community-Based AI-Assisted Visual.pdf,Chen et al. - 2026 - Evaluation of a Community-Based AI-Assisted Visual.txt,retrieved
+41,2023,oviedo caceres,"Oviedo-Cáceres et al. - 2023 - Evidence-based recommendations for the diagnosis, .pdf","Oviedo-Cáceres et al. - 2023 - Evidence-based recommendations for the diagnosis, .txt",retrieved
+42,2022,martiniello,,,not-retrieved
+43,2025,eden,Eden et al. - 2025 - Exploring vision tests as a surrogate for depressi.pdf,Eden et al. - 2025 - Exploring vision tests as a surrogate for depressi.txt,retrieved
+44,2017,madsen,Madsen et al. - 2017 - Eye disorder differentiates seasonality outcomes i.pdf,Madsen et al. - 2017 - Eye disorder differentiates seasonality outcomes i.txt,retrieved
+45,2025,kapsecker,Kapsecker et al. - 2025 - Facial Landmark Analysis for Detecting Visual Impa.pdf,Kapsecker et al. - 2025 - Facial Landmark Analysis for Detecting Visual Impa.txt,retrieved
+46,2011,tabrett,Tabrett and Latham - 2011 - Factors influencing self-reported vision-related a.pdf,Tabrett and Latham - 2011 - Factors influencing self-reported vision-related a.txt,retrieved
+47,2017,subhi,Subhi et al. - 2017 - Functional visual fields relationship of visual f.pdf,Subhi et al. - 2017 - Functional visual fields relationship of visual f.txt,retrieved
+48,2011,chang,Chang - 2011 - Head-mounted low vision aid.pdf,Chang - 2011 - Head-mounted low vision aid.txt,suspect
+49,2008,kuyk,Kuyk et al. - 2008 - Health-related quality of life following blind reh.pdf,Kuyk et al. - 2008 - Health-related quality of life following blind reh.txt,retrieved
+50,2021,altinbay,Altinbay et al. - 2021 - How Much Do Clinical and Microperimetric Findings.pdf,Altinbay et al. - 2021 - How Much Do Clinical and Microperimetric Findings.txt,retrieved
+51,2005,hill,Hill et al. - 2005 - Identifying low vision rehabilitation priorities u.pdf,Hill et al. - 2005 - Identifying low vision rehabilitation priorities u.txt,retrieved
+52,2022,pengo,Pengo et al - Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease.pdf,Pengo et al - Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson’s Disease.txt,retrieved
+53,2022,choi,Choi et al. - 2022 - Impact of visual impairment on balance and visual .pdf,Choi et al. - 2022 - Impact of visual impairment on balance and visual .txt,retrieved
+54,2023,lulu,Lulu et al. - 2023 - Impacts of visual impairment on pragmatic impairme.pdf,Lulu et al. - 2023 - Impacts of visual impairment on pragmatic impairme.txt,retrieved
+55,2025,agathos,"Agathos et al. - 2025 - Importance of Screening for Contrast Sensitivity,.pdf","Agathos et al. - 2025 - Importance of Screening for Contrast Sensitivity,.txt",retrieved
+56,2021,sahu,Sahu et al. - 2021 - Is the high contrast visual acuity chart a good pr.pdf,Sahu et al. - 2021 - Is the high contrast visual acuity chart a good pr.txt,retrieved
+57,2022,ripa,,,not-retrieved
+58,2021,robinson,,,not-retrieved
+59,2025,di cesare,Di Cesare et al. - 2025 - Listening Effort and Its Relation to Spatial Local.pdf,Di Cesare et al. - 2025 - Listening Effort and Its Relation to Spatial Local.txt,retrieved
+60,2004,eklund,Eklund et al. - 2004 - Long-term evaluation of a health education program.pdf,Eklund et al. - 2004 - Long-term evaluation of a health education program.txt,retrieved
+61,2025,wang,Wang et al. - 2025 - Long-term exposure to fine particulate matter and.pdf,Wang et al. - 2025 - Long-term exposure to fine particulate matter and.txt,retrieved
+62,2026,bora,Bora et al. - 2026 - Low Vision Intervention in Individuals with Age-re.pdf,Bora et al. - 2026 - Low Vision Intervention in Individuals with Age-re.txt,retrieved
+63,2016,wu,Wu et al. - 2016 - Low luminance deficit and night vision symptoms in.pdf,Wu et al. - 2016 - Low luminance deficit and night vision symptoms in.txt,retrieved
+64,2009,vingolo,Vingolo et al. - 2009 - Low-Vision Rehabilitation by Means of MP-1 Biofeed.pdf,Vingolo et al. - 2009 - Low-Vision Rehabilitation by Means of MP-1 Biofeed.txt,retrieved
+65,2002,stelmack,Stelmack et al. - 2002 - Measuring low-vision rehabilitation outcomes with.pdf,Stelmack et al. - 2002 - Measuring low-vision rehabilitation outcomes with.txt,retrieved
+66,2006,stelmack,Stelmack et al. - 2006 - Measuring outcomes of vision rehabilitation with t.pdf,Stelmack et al. - 2006 - Measuring outcomes of vision rehabilitation with t.txt,retrieved
+67,2013,rubin,Rubin - 2013 - Measuring reading performance.pdf,Rubin - 2013 - Measuring reading performance.txt,retrieved
+68,2013,verboschi,Verboschi et al. - 2013 - New trends in visual rehabilitation with MP-1 micr.pdf,Verboschi et al. - 2013 - New trends in visual rehabilitation with MP-1 micr.txt,retrieved
+69,2025,stolowy,Stolowy et al. - 2025 - OCT-Based Retina Assessment Reflects Visual Impair.pdf,Stolowy et al. - 2025 - OCT-Based Retina Assessment Reflects Visual Impair.txt,suspect
+70,2023,killeen,,,not-retrieved
+71,2009,michels,Michels et al. - 2009 - Off‐label drug use – price analysis for Avastin® i.pdf,Michels et al. - 2009 - Off‐label drug use – price analysis for Avastin® i.txt,retrieved
+72,2019,selivanova,Selivanova et al. - 2019 - Outcomes After Comprehensive Vision Rehabilitation.pdf,Selivanova et al. - 2019 - Outcomes After Comprehensive Vision Rehabilitation.txt,retrieved
+73,2015,gothwal,Gothwal and Bharani - 2015 - Outcomes of Multidisciplinary Low Vision Rehabilit.pdf,Gothwal and Bharani - 2015 - Outcomes of Multidisciplinary Low Vision Rehabilit.txt,retrieved
+74,2004,szlyk,Szlyk et al. - 2004 - Performance of the Veterans Affairs Low Vision Vis.pdf,Szlyk et al. - 2004 - Performance of the Veterans Affairs Low Vision Vis.txt,retrieved
+75,2015,nguyen,Nguyen et al. - 2015 - Physical activity restriction in age-related eye d.pdf,Nguyen et al. - 2015 - Physical activity restriction in age-related eye d.txt,retrieved
+76,2007,la grow,La Grow - 2007 - Predicting perceived quality of life scores from t.pdf,La Grow - 2007 - Predicting perceived quality of life scores from t.txt,retrieved
+77,2019,barboni,Barboni et al. - 2019 - Preliminary Findings on the Optimization of Visual.pdf,Barboni et al. - 2019 - Preliminary Findings on the Optimization of Visual.txt,retrieved
+78,2022,subhi,Subhi et al. - 2022 - Prevalence of Charles Bonnet syndrome in low visio.pdf,Subhi et al. - 2022 - Prevalence of Charles Bonnet syndrome in low visio.txt,retrieved
+79,2002,gresset,Gresset and Baumgarten - 2002 - Prevalence of Visual Impairment and Utilization of.pdf,Gresset and Baumgarten - 2002 - Prevalence of Visual Impairment and Utilization of.txt,retrieved
+80,2018,wong,"Wong et al. - 2018 - Prevalence, Risk Factors, and Impact of Myopic Mac.pdf","Wong et al. - 2018 - Prevalence, Risk Factors, and Impact of Myopic Mac.txt",retrieved
+81,2026,harpster,Harpster et al. - 2026 - Preverbal visual assessment for screening cerebral.pdf,Harpster et al. - 2026 - Preverbal visual assessment for screening cerebral.txt,retrieved
+82,2006,markowitz,Markowitz - 2006 - Principles of modern low vision rehabilitation.pdf,Markowitz - 2006 - Principles of modern low vision rehabilitation.txt,retrieved
+83,2013,ortiz,Ortiz et al. - 2013 - Quantifying age-related differences in visual-disc.pdf,Ortiz et al. - 2013 - Quantifying age-related differences in visual-disc.txt,retrieved
+84,2017,murro,Murro et al. - 2017 - Reading Ability and Quality of Life in Stargardt D.pdf,Murro et al. - 2017 - Reading Ability and Quality of Life in Stargardt D.txt,retrieved
+85,2013,smith,Smith - 2013 - Refinement of the Low Vision Independence Measure.pdf,Smith - 2013 - Refinement of the Low Vision Independence Measure.txt,retrieved
+86,2019,macnaughton,Macnaughton et al. - 2019 - Rehabilitation needs and activity limitations of a.pdf,Macnaughton et al. - 2019 - Rehabilitation needs and activity limitations of a.txt,retrieved
+87,2014,donoghue,Donoghue et al. - 2014 - Relationship between fear of falling and mobility.pdf,Donoghue et al. - 2014 - Relationship between fear of falling and mobility.txt,retrieved
+88,2013,malkin,Malkin et al. - 2013 - Responsiveness of the EQ‐5D to the Effects of Low .pdf,Malkin et al. - 2013 - Responsiveness of the EQ‐5D to the Effects of Low .txt,retrieved
+89,2020,smith,Smith et al. - 2020 - Responsiveness of the Revised Low Vision Independe.pdf,Smith et al. - 2020 - Responsiveness of the Revised Low Vision Independe.txt,retrieved
+90,2011,wood,"Wood et al. - 2011 - Risk of falls, injurious falls, and other injuries.pdf","Wood et al. - 2011 - Risk of falls, injurious falls, and other injuries.txt",retrieved
+91,2020,peters,Peters et al. - 2020 - SSVEP BCI and Eye Tracking Use by Individuals With.pdf,Peters et al. - 2020 - SSVEP BCI and Eye Tracking Use by Individuals With.txt,retrieved
+92,2026,wu,Wu et al. - 2026 - Screening Questions to Identify Low Vision and Acu.pdf,Wu et al. - 2026 - Screening Questions to Identify Low Vision and Acu.txt,retrieved
+93,2009,chou,Chou et al. - 2009 - Screening for Visual Impairment in Older Adults S.pdf,Chou et al. - 2009 - Screening for Visual Impairment in Older Adults S.txt,retrieved
+94,2011,ortibus,Ortibus et al. - 2011 - Screening for cerebral visual impairment value of.pdf,Ortibus et al. - 2011 - Screening for cerebral visual impairment value of.txt,retrieved
+95,2007,massof,Massof et al. - 2007 - Self-reported importance and difficulty of driving.pdf,Massof et al. - 2007 - Self-reported importance and difficulty of driving.txt,retrieved
+96,2022,bozkurt oflaz,Bozkurt Oflaz et al. - 2022 - Short-Term Clinical Results of Preferred Retinal L.pdf,Bozkurt Oflaz et al. - 2022 - Short-Term Clinical Results of Preferred Retinal L.txt,retrieved
+97,2006,subramanian,Subramanian and Dickinson - 2006 - Spatial localization in visual impairment.pdf,Subramanian and Dickinson - 2006 - Spatial localization in visual impairment.txt,retrieved
+98,2022,ortiz peregrina,Ortiz-Peregrina et al. - 2022 - Speed management across road environments of varyi.pdf,Ortiz-Peregrina et al. - 2022 - Speed management across road environments of varyi.txt,retrieved
+99,2023,hernandez moreno,Hernández-Moreno et al. - 2023 - The Basic VRS-Effect Study Clinical Trial Outcome.pdf,Hernández-Moreno et al. - 2023 - The Basic VRS-Effect Study Clinical Trial Outcome.txt,retrieved
+100,2023,mahanna gabrielli,Mahanna-Gabrielli et al. - 2023 - The Effect of Self-Reported Visual Impairment and.pdf,Mahanna-Gabrielli et al. - 2023 - The Effect of Self-Reported Visual Impairment and.txt,retrieved
+101,2018,wittich,Wittich et al. - 2018 - The Effect of a Head-mounted Low Vision Device on.pdf,Wittich et al. - 2018 - The Effect of a Head-mounted Low Vision Device on.txt,retrieved
+102,2022,boonstra,Boonstra et al. - 2022 - The Multidisciplinary Guidelines for Diagnosis and.pdf,Boonstra et al. - 2022 - The Multidisciplinary Guidelines for Diagnosis and.txt,retrieved
+103,2026,xu,,,not-retrieved
+104,2024,van der linden,"van der Linden et al. - 2024 - The Role of Season, Sunlight, and Light Sensitivit.pdf","van der Linden et al. - 2024 - The Role of Season, Sunlight, and Light Sensitivit.txt",retrieved
+105,2020,di maggio,Di Maggio et al. - 2020 - The Veterans Affairs Low-Vision Visual Functioning.pdf,Di Maggio et al. - 2020 - The Veterans Affairs Low-Vision Visual Functioning.txt,retrieved
+106,2014,sheldon,Sheldon et al. - 2014 - The effect of central vision loss on perception of.pdf,Sheldon et al. - 2014 - The effect of central vision loss on perception of.txt,retrieved
+107,2012,hernandez trillo,Hernandez Trillo and Dickinson - 2012 - The impact of visual and nonvisual factors on qual.pdf,Hernandez Trillo and Dickinson - 2012 - The impact of visual and nonvisual factors on qual.txt,retrieved
+108,2002,broman,Broman et al. - 2002 - The impact of visual impairment and eye disease on.pdf,Broman et al. - 2002 - The impact of visual impairment and eye disease on.txt,retrieved
+109,2021,belevska,Belevska et al. - 2021 - The importance of individual predictors and psycho.pdf,Belevska et al. - 2021 - The importance of individual predictors and psycho.txt,retrieved
+110,2003,sumi,Sumi et al. - 2003 - The relationship between visual disability and vis.pdf,Sumi et al. - 2003 - The relationship between visual disability and vis.txt,retrieved
+111,2010,lamoureux,"Lamoureux et al. - 2010 - The relationship between visual function, duration.pdf","Lamoureux et al. - 2010 - The relationship between visual function, duration.txt",retrieved
+112,2012,dickson,Dickson et al. - 2012 - Time required for screening for visual impairment .pdf,Dickson et al. - 2012 - Time required for screening for visual impairment .txt,retrieved
+113,2019,gorrie,Gorrie et al. - 2019 - Towards population screening for Cerebral Visual I.pdf,Gorrie et al. - 2019 - Towards population screening for Cerebral Visual I.txt,retrieved
+114,2026,surawatsatien,Surawatsatien et al. - 2026 - Translation and Testing Psychometric Properties of.pdf,Surawatsatien et al. - 2026 - Translation and Testing Psychometric Properties of.txt,retrieved
+115,2019,perez mana,Pérez-Mañá et al. - 2019 - Traducción y adaptación cultural al español del cu.pdf,Pérez-Mañá et al. - 2019 - Traducción y adaptación cultural al español del cu.txt,retrieved
+116,2025,fu,Fu et al. - 2025 - Unilateral Visual Impairment and Increased Mortali.pdf,Fu et al. - 2025 - Unilateral Visual Impairment and Increased Mortali.txt,retrieved
+117,2024,zhao,Zhao et al. - 2024 - Utilizing visual symptoms to distinguish dry eye f.pdf,Zhao et al. - 2024 - Utilizing visual symptoms to distinguish dry eye f.txt,retrieved
+118,2023,mcdowell,McDowell and Butler - 2023 - Validation of the Austin Assessment A screening t.pdf,McDowell and Butler - 2023 - Validation of the Austin Assessment A screening t.txt,retrieved
+119,2022,perez mana,Pérez-Mañá et al. - 2022 - Validation of the Spanish version of the Low Visio.pdf,Pérez-Mañá et al. - 2022 - Validation of the Spanish version of the Low Visio.txt,retrieved
+120,2007,bibby,Bibby et al. - 2007 - Vision and self‐reported mobility performance in p.pdf,Bibby et al. - 2007 - Vision and self‐reported mobility performance in p.txt,retrieved
+121,2005,mcgregor,McGregor and Chaparro - 2005 - Visual difficulties reported by low-vision and non.pdf,McGregor and Chaparro - 2005 - Visual difficulties reported by low-vision and non.txt,retrieved
+122,2020,jeon,Jeon et al. - 2020 - Visual function evaluation for low vision patients.pdf,Jeon et al. - 2020 - Visual function evaluation for low vision patients.txt,retrieved
+123,2008,black,Black et al. - 2008 - Visual impairment and postural sway among older ad.pdf,Black et al. - 2008 - Visual impairment and postural sway among older ad.txt,retrieved
+124,2025,thompson,Thompson et al. - 2025 - Visual impairment predicts greater declines in phy.pdf,Thompson et al. - 2025 - Visual impairment predicts greater declines in phy.txt,retrieved
+125,2025,huang,"Huang et al. - 2025 - Visual impairment, age-related eye disease, and sl.pdf","Huang et al. - 2025 - Visual impairment, age-related eye disease, and sl.txt",retrieved
+126,2014,owsley,Owsley et al. - 2014 - Visually impaired drivers who use bioptic telescop.pdf,Owsley et al. - 2014 - Visually impaired drivers who use bioptic telescop.txt,retrieved
+127,2003,desmettre,,,not-retrieved
+128,2024,wu,,,not-retrieved
+129,2023,vinokurtseva,,,not-retrieved
+130,2025,ernst,,,not-retrieved
+131,2017,swenor,,,not-retrieved
+132,2022,healthwise staff,,,not-retrieved
+133,2014,nguyen,,,not-retrieved
+134,2017,kaleem,,,not-retrieved
+135,2023,jackson,,,not-retrieved

@@ -1,0 +1,24 @@
+WARNING: row 4 (27): non-numeric 2x2 cell, row dropped
+WARNING: row 5 (27): non-numeric 2x2 cell, row dropped
+WARNING: row 11 (27): non-numeric 2x2 cell, row dropped
+WARNING: row 20 (38): non-numeric 2x2 cell, row dropped
+WARNING: row 21 (38): non-numeric 2x2 cell, row dropped
+WARNING: row 22 (38): non-numeric 2x2 cell, row dropped
+WARNING: row 23 (38): non-numeric 2x2 cell, row dropped
+WARNING: row 24 (38): non-numeric 2x2 cell, row dropped
+WARNING: row 46 (92): non-numeric 2x2 cell, row dropped
+WARNING: row 47 (119): non-numeric 2x2 cell, row dropped
+rows: 36 usable of 46; distinct study_id: 3; rows with a zero cell: 4
+study_ids with >1 row (thresholds/instruments): 3
+  27: VIRFQ@answer Yes = positive vs composite; VIRFQ@answer Yes = positive vs composite; VIRFQ@answer No = positive (reversed item) vs composite; VIRFQ@answer No = positive (reversed item) vs composite; VIRFQ@answer Yes = positive vs composite; VIRFQ@answer Yes = positive vs composite; VIRFQ@answer Yes = positive vs composite; VIRFQ@answer Yes = positive vs visual field; VIRFQ@answer Yes = positive vs visual field; VIRFQ@answer Yes = positive vs visual field; VIRFQ@answer Yes = positive vs visual field; VIRFQ@answer Yes = positive vs visual field; VIRFQ@answer Yes = positive vs visual field; VIRFQ@any one of Q1-Q7 answered in the positive direction = positive (Q5: No = positive) vs composite; VIRFQ@any one of Q1-Q7 answered in the positive direction = positive (Q5: No = positive) vs composite
+  79: Statistics Canada HALS vision questions@positive response to the near-vision (reading) question vs negative response vs visual acuity; Statistics Canada HALS vision questions@positive response to the near-vision (reading) question vs negative response vs visual acuity; Statistics Canada HALS vision questions@positive response to the far distance-vision question vs negative response vs visual acuity; Statistics Canada HALS vision questions@positive response to the far distance-vision question vs negative response vs visual acuity; Statistics Canada HALS vision questions@at least one positive response versus two negative responses vs visual acuity; Statistics Canada HALS vision questions@at least one positive response versus two negative responses vs visual acuity; Statistics Canada HALS vision questions@two positive responses versus at least one negative response vs visual acuity; Statistics Canada HALS vision questions@two positive responses versus at least one negative response vs visual acuity
+  92: 100-item Visual Acuity Survey@answer No = positive vs visual acuity; 100-item Visual Acuity Survey@answer No = positive vs visual acuity; 100-item Visual Acuity Survey@answer No = positive vs visual acuity; 100-item Visual Acuity Survey@answer No to both items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@answer No to both items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@answer No to both items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@answer No to all three items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@answer No = positive vs visual acuity; 100-item Visual Acuity Survey@answer No = positive vs visual acuity; 100-item Visual Acuity Survey@answer No to both items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@answer No to both items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@answer No to all three items = positive (any Yes = negative) vs visual acuity; 100-item Visual Acuity Survey@predicted VA from all 100 items (Equation 1: 0.59 - 0.33 x ability) classified as low vision vs visual acuity
+
+candidate pooling units (instrument x reference_standard):
+  instrument                     reference_standard           rows studies  thresholds
+  100-item Visual Acuity Survey  visual acuity                  13       1  answer No = positive, answer No to all t  -> do not pool
+  VIRFQ                          composite                       9       1  answer No = positive (reversed item), an  -> do not pool
+  Statistics Canada HALS vision  visual acuity                   8       1  at least one positive response versus tw  -> do not pool
+  VIRFQ                          visual field                    6       1  answer Yes = positive  -> do not pool
+
+rules: k < 4 -> no bivariate model (per-study + univariate pooling with warnings); k = 4-10 -> bivariate fit but variance components unstable; k >= 10 -> Deeks' test reported.

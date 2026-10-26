@@ -1,0 +1,495 @@
+{
+  "arms": null,
+  "count": 593,
+  "date": "2026-10-26",
+  "evaluated_line": 14,
+  "held_out": {
+    "found": 12,
+    "hits": [
+      {
+        "authors": "Haymes SA; Johnston AW; Heyes AD",
+        "doi": "",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "Melbourne Low-Vision ADL Index (2001)",
+        "pmid": "11328730",
+        "title": "The development of the Melbourne low-vision ADL index: a measure of vision disability.",
+        "year": "2001"
+      },
+      {
+        "authors": "Lamoureux EL; Pallant JF; Pesudovs K; Hassell JB; Keeffe JE",
+        "doi": "10.1167/iovs.06-0220",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "IVI Rasch analysis (Lamoureux 2006)",
+        "pmid": "17065481",
+        "title": "The Impact of Vision Impairment Questionnaire: an evaluation of its measurement properties using Rasch analysis.",
+        "year": "2006"
+      },
+      {
+        "authors": "Stelmack JA; Massof RW",
+        "doi": "10.1097/opx.0b013e3181339f1a",
+        "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+        "label": "VA LV VFQ-48 and LV VFQ-20 in LVR (2007)",
+        "pmid": "17700334",
+        "title": "Using the VA LV VFQ-48 and LV VFQ-20 in low vision rehabilitation.",
+        "year": "2007"
+      },
+      {
+        "authors": "Massof RW; Ahmadian L; Grover LL; Deremeik JT; Goldstein JE; Rainey C; Epstein C; Barnett GD",
+        "doi": "10.1097/opx.0b013e3181339efd",
+        "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+        "label": "The Activity Inventory (Massof 2007)",
+        "pmid": "17700339",
+        "title": "The Activity Inventory: an adaptive visual function questionnaire.",
+        "year": "2007"
+      },
+      {
+        "authors": "Ramulu PY; West SK; Munoz B; Jampel HD; Friedman DS",
+        "doi": "10.1001/archophthalmol.2008.523",
+        "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+        "label": "Glaucoma and reading speed (Ramulu 2009)",
+        "pmid": "19139345",
+        "title": "Glaucoma and reading speed: the Salisbury Eye Evaluation project.",
+        "year": "2009"
+      },
+      {
+        "authors": "Owsley C; McGwin G Jr; Lee PP; Wasserman N; Searcey K",
+        "doi": "10.1001/archophthalmol.2009.55",
+        "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+        "label": "Low-vision rehabilitation services in the US (Owsley 2009)",
+        "pmid": "19433720",
+        "title": "Characteristics of low-vision rehabilitation services in the United States.",
+        "year": "2009"
+      },
+      {
+        "authors": "Khadka J; Pesudovs K; McAlinden C; Vogel M; Kernt M; Hirneiss C",
+        "doi": "10.1167/iovs.11-7423",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "GAL-9 (Khadka 2011)",
+        "pmid": "21810983",
+        "title": "Reengineering the glaucoma quality of life-15 questionnaire with rasch analysis.",
+        "year": "2011"
+      },
+      {
+        "authors": "El-Gasim M; Munoz B; West SK; Scott AW",
+        "doi": "10.1016/j.ophtha.2011.07.005",
+        "journal": "Ophthalmology",
+        "label": "Salisbury self-report vs. VA concordance (2012)",
+        "pmid": "21962256",
+        "title": "Discrepancies in the concordance of self-reported vision status and visual acuity in the Salisbury Eye Evaluation Study.",
+        "year": "2012"
+      },
+      {
+        "authors": "Rossi GC; Pasinetti GM; Scudeller L; Milano G; Mazzone A; Raimondi M; Bordin M; Lanteri S; Bianchi PE",
+        "doi": "10.1097/ijg.0b013e318225406c",
+        "journal": "Journal of glaucoma",
+        "label": "Italian Glaucoma Symptom Scale (2013)",
+        "pmid": "23076040",
+        "title": "The Italian version of the Glaucoma Symptom Scale Questionnaire: translation, validation, and reliability.",
+        "year": "2013"
+      },
+      {
+        "authors": "El-Gasim M; Munoz B; West SK; Scott AW",
+        "doi": "10.1167/iovs.12-11461",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "Salisbury self-rated vision score (El-Gasim 2013)",
+        "pmid": "23812494",
+        "title": "Associations between self-rated vision score, vision tests, and self-reported visual function in the Salisbury Eye Evaluation Study.",
+        "year": "2013"
+      },
+      {
+        "authors": "Fontenot JL; Bona MD; Kaleem MA; McLaughlin WM Jr; Morse AR; Schwartz TL; Shepherd JD; Jackson ML; American Academy of Ophthalmology Preferred Practice Pattern Vision Rehabilitation Committee",
+        "doi": "10.1016/j.ophtha.2017.09.030",
+        "journal": "Ophthalmology",
+        "label": "Vision Rehabilitation PPP (2018)",
+        "pmid": "29108747",
+        "title": "Vision Rehabilitation Preferred Practice Pattern®.",
+        "year": "2018"
+      },
+      {
+        "authors": "Stolwijk ML; van Nispen RMA; van der Ham AJ; Veenman E; van Rens GHMB",
+        "doi": "10.1186/s12913-022-09003-0",
+        "journal": "BMC health services research",
+        "label": "Referral pathways to low vision services (2023)",
+        "pmid": "36681848",
+        "title": "Barriers and facilitators in the referral pathways to low vision services from the perspective of patients and professionals: a qualitative study.",
+        "year": "2023"
+      }
+    ],
+    "misses": [
+      {
+        "authors": "Mangione CM; Lee PP; Gutierrez PR; Spritzer K; Berry S; Hays RD; National Eye Institute Visual Function Questionnaire Field Test Investigators",
+        "doi": "10.1001/archopht.119.7.1050",
+        "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+        "label": "NEI VFQ-25 development (Mangione 2001)",
+        "pmid": "11448327",
+        "title": "Development of the 25-item National Eye Institute Visual Function Questionnaire.",
+        "year": "2001"
+      },
+      {
+        "authors": "Nelson P; Aspinall P; Papasouliotis O; Worton B; O'Brien C",
+        "doi": "10.1097/00061198-200304000-00009",
+        "journal": "Journal of glaucoma",
+        "label": "GQL-15 (Nelson 2003)",
+        "pmid": "12671469",
+        "title": "Quality of life in glaucoma and its relationship with visual function.",
+        "year": "2003"
+      }
+    ],
+    "n": 14,
+    "recall": 0.8571428571428571
+  },
+  "history_lines": {
+    "1": "\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]",
+    "10": "((\"low vision\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti]) AND (referral*[ti] OR refer[ti] OR referred[ti] OR \"practice pattern*\"[ti])) OR (#1 AND (guideline*[ti] OR \"Practice Guideline\"[pt] OR \"Guideline\"[pt]) AND (rehabilitat*[tiab] OR referral*[tiab] OR management[tiab])) OR (#1 AND (service*[ti] OR utili*[ti] OR uptake[ti] OR barrier*[ti]) AND rehabilitat*[ti])",
+    "11": "#1 AND (\"vision-related quality of life\"[ti] OR \"vision related quality of life\"[ti] OR \"vision-related\"[ti] OR \"vision-specific\"[ti])",
+    "12": "\"low vision\"[ti] AND predict*[ti]",
+    "13": "#5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12",
+    "14": "#13 AND (english[la] OR french[la]) AND 2000:3000[dp] NOT (child*[ti] OR pediatric[ti] OR paediatric[ti] OR preschool*[ti] OR infant*[ti] OR neonat*[ti])",
+    "2": "#1 OR \"Vision, Low\"[Majr] OR \"Persons with Visual Disabilities\"[Majr] OR \"Blindness/rehabilitation\"[Majr]",
+    "3": "questionnaire*[ti] OR \"self-report*\"[ti] OR \"self report*\"[ti] OR \"self-rated\"[ti] OR \"self-assess*\"[ti] OR \"screening question*\"[ti] OR \"patient-reported\"[ti] OR PROM[ti] OR PROMs[ti] OR \"quality of life\"[ti] OR \"quality-of-life\"[ti] OR \"activity limitation*\"[ti] OR \"activities of daily living\"[ti] OR \"visual function*\"[ti] OR \"independence measure\"[ti] OR \"outcome measure*\"[ti] OR VFQ*[ti] OR \"activity inventory\"[ti] OR LVQOL[ti] OR \"impact of vision impairment\"[ti] OR LVIM*[ti] OR \"VF-14\"[ti] OR \"EQ-5D\"[ti] OR \"GQL-15\"[ti] OR \"GAL-9\"[ti] OR \"glaucoma symptom scale\"[ti] OR \"ADL index\"[ti]",
+    "4": "validat*[ti] OR validity[ti] OR psychometric*[ti] OR Rasch[ti] OR \"measurement properties\"[ti] OR reliab*[ti] OR reproducib*[ti] OR responsive*[ti] OR accuracy[ti] OR concordance[ti] OR agreement[ti] OR \"item response\"[ti] OR version[ti] OR translat*[ti] OR \"cross-cultural\"[ti] OR design[ti] OR development[ti] OR measuring[ti] OR measurement[ti] OR predict*[ti]",
+    "5": "((\"self reported vision\"[ti:~2] OR \"self reported visual\"[ti:~2] OR \"self reported sight\"[ti:~2] OR \"self reported eyesight\"[ti:~2] OR \"self reported blindness\"[ti:~2] OR \"self rated vision\"[ti:~2] OR \"self rated visual\"[ti:~2] OR \"self rated sight\"[ti:~2] OR \"self rated eyesight\"[ti:~2] OR \"self rated blindness\"[ti:~2] OR \"self assessed vision\"[ti:~2] OR \"self assessed visual\"[ti:~2] OR \"self assessed sight\"[ti:~2] OR \"self assessed eyesight\"[ti:~2] OR \"self assessed blindness\"[ti:~2] OR \"self perceived vision\"[ti:~2] OR \"self perceived visual\"[ti:~2] OR \"self perceived sight\"[ti:~2] OR \"self perceived eyesight\"[ti:~2] OR \"self perceived blindness\"[ti:~2]) AND (\"Visual Acuity\"[Mesh] OR \"visual acuity\"[tiab])) OR (\"Visual Acuity\"[Majr] AND \"Self Report\"[Mesh])",
+    "6": "(#1 AND screening[ti]) NOT (\"diabetic retinopathy\"[ti] OR cerebral[ti] OR cortical[ti])",
+    "7": "(#2 AND #3 AND #4) OR (#2 AND Rasch[tiab])",
+    "8": "glaucoma*[ti] AND #3 AND (validat*[ti] OR validity[ti] OR psychometric*[ti] OR Rasch[ti] OR \"measurement properties\"[ti] OR reliab*[ti] OR responsive*[ti] OR version[ti] OR translat*[ti])",
+    "9": "glaucoma*[ti] AND (reading[ti] OR \"Reading\"[Majr] OR disabilit*[ti])"
+  },
+  "key": {
+    "found": 35,
+    "hits": [
+      {
+        "authors": "Wolffsohn JS; Cochrane AL",
+        "doi": "10.1016/s0002-9394(00)00610-3",
+        "journal": "American journal of ophthalmology",
+        "label": "26",
+        "pmid": "11124300",
+        "title": "Design of the low vision quality-of-life questionnaire (LVQOL) and measuring the outcome of low-vision rehabilitation.",
+        "year": "2000"
+      },
+      {
+        "authors": "Gresset J; Baumgarten M",
+        "doi": "10.1097/00006324-200207000-00009",
+        "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+        "label": "79",
+        "pmid": "12137395",
+        "title": "Prevalence of visual impairment and utilization of rehabilitation services in the visually impaired elderly population of Quebec.",
+        "year": "2002"
+      },
+      {
+        "authors": "Stelmack JA; Stelmack TR; Massof RW",
+        "doi": "",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "65",
+        "pmid": "12202503",
+        "title": "Measuring low-vision rehabilitation outcomes with the NEI VFQ-25.",
+        "year": "2002"
+      },
+      {
+        "authors": "Sumi I; Shirato S; Matsumoto S; Araie M",
+        "doi": "10.1016/s0161-6420(02)01742-6",
+        "journal": "Ophthalmology",
+        "label": "110",
+        "pmid": "12578777",
+        "title": "The relationship between visual disability and visual field in patients with glaucoma.",
+        "year": "2003"
+      },
+      {
+        "authors": "Stelmack JA; Szlyk JP; Stelmack TR; Demers-Turco P; Williams RT; Moran D; Massof RW",
+        "doi": "10.1167/iovs.04-0208",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "74",
+        "pmid": "15505037",
+        "title": "Psychometric properties of the Veterans Affairs Low-Vision Visual Functioning Questionnaire.",
+        "year": "2004"
+      },
+      {
+        "authors": "Babcock-Parziale J; McKnight PE; Head DN",
+        "doi": "10.1682/jrrd.2004.07.0080",
+        "journal": "Journal of rehabilitation research and development",
+        "label": "39",
+        "pmid": "16320144",
+        "title": "Evaluating psychometric properties of a clinical and a self-report blind rehabilitation outcome measure.",
+        "year": "2005"
+      },
+      {
+        "authors": "Subramanian A; Dickinson C",
+        "doi": "10.1167/iovs.05-0137",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "97",
+        "pmid": "16384947",
+        "title": "Spatial localization in visual impairment.",
+        "year": "2006"
+      },
+      {
+        "authors": "Stelmack JA; Szlyk JP; Stelmack TR; Demers-Turco P; Williams RT; Moran D; Massof RW",
+        "doi": "10.1167/iovs.05-1319",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "66",
+        "pmid": "16877389",
+        "title": "Measuring outcomes of vision rehabilitation with the Veterans Affairs Low Vision Visual Functioning Questionnaire.",
+        "year": "2006"
+      },
+      {
+        "authors": "Bibby SA; Maslin ER; McIlraith R; Soong GP",
+        "doi": "10.1111/j.1444-0938.2007.00120.x",
+        "journal": "Clinical & experimental optometry",
+        "label": "120",
+        "pmid": "17311573",
+        "title": "Vision and self-reported mobility performance in patients with low vision.",
+        "year": "2007"
+      },
+      {
+        "authors": "La Grow SJ",
+        "doi": "10.1097/opx.0b013e31812f5f24",
+        "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+        "label": "76",
+        "pmid": "17700341",
+        "title": "Predicting perceived quality of life scores from the National Eye Institute 25-item Visual Function Questionnaire.",
+        "year": "2007"
+      },
+      {
+        "authors": "Massof RW; Deremeik JT; Park WL; Grover LL",
+        "doi": "10.1167/iovs.06-0566",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "95",
+        "pmid": "17962445",
+        "title": "Self-reported importance and difficulty of driving in a low-vision clinic population.",
+        "year": "2007"
+      },
+      {
+        "authors": "Chou R; Dana T; Bougatsos C",
+        "doi": "",
+        "journal": "Agency for Healthcare Research and Quality (US)",
+        "label": "93",
+        "pmid": "20722170",
+        "title": "Screening for Visual Impairment in Older Adults: Systematic Review to Update the 1996 U.S. Preventive Services Task Force Recommendation",
+        "year": "2009"
+      },
+      {
+        "authors": "Tabrett DR; Latham K",
+        "doi": "10.1167/iovs.10-7055",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "46",
+        "pmid": "21613370",
+        "title": "Factors influencing self-reported vision-related activity limitation in the visually impaired.",
+        "year": "2011"
+      },
+      {
+        "authors": "Gothwal VK; Bagga DK",
+        "doi": "10.3109/09286586.2012.712192",
+        "journal": "Ophthalmic epidemiology",
+        "label": "5",
+        "pmid": "22978532",
+        "title": "Andhra Pradesh Eye Disease Study - Visual Function Questionnaire: further improvements in psychometric properties using Rasch analysis.",
+        "year": "2012"
+      },
+      {
+        "authors": "Dickson G; Chesser A; Woods NK; Dong F; Kellerman R",
+        "doi": "10.1177/2150131911429824",
+        "journal": "Journal of primary care & community health",
+        "label": "112",
+        "pmid": "23803778",
+        "title": "Time required for screening for visual impairment in primary care: a randomized comparison of 3 common visual tests.",
+        "year": "2012"
+      },
+      {
+        "authors": "Nguyen AM; van Landingham SW; Massof RW; Rubin GS; Ramulu PY",
+        "doi": "10.1167/iovs.14-14138",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "133",
+        "pmid": "25052992",
+        "title": "Reading ability and reading engagement in older adults with glaucoma.",
+        "year": "2014"
+      },
+      {
+        "authors": "Kaleem MA; West SK; Im LT; Swenor BK",
+        "doi": "10.1097/ijg.0000000000000600",
+        "journal": "Journal of glaucoma",
+        "label": "134",
+        "pmid": "27977474",
+        "title": "Referral to Low Vision Services for Glaucoma Patients: Referral Patterns and Characteristics of Those Who Refer.",
+        "year": "2017"
+      },
+      {
+        "authors": "Swenor BK; Varadaraj V; Dave P; West SK; Rubin GS; Ramulu PY",
+        "doi": "10.1167/iovs.17-21520",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "131",
+        "pmid": "28460047",
+        "title": "Impact of the Ability to Divide Attention on Reading Performance in Glaucoma.",
+        "year": "2017"
+      },
+      {
+        "authors": "Labreche T; Nandakumar K; Althomali M; Leat SJ",
+        "doi": "10.1093/ageing/afx202",
+        "journal": "Age and ageing",
+        "label": "27",
+        "pmid": "29385405",
+        "title": "Development and validation of Visual Impairment as a Risk for Falls Questionnaire.",
+        "year": "2018"
+      },
+      {
+        "authors": "Selivanova A; Fenwick E; Man R; Seiple W; Jackson ML",
+        "doi": "10.1097/opx.0000000000001327",
+        "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+        "label": "72",
+        "pmid": "30589760",
+        "title": "Outcomes After Comprehensive Vision Rehabilitation Using Vision-related Quality of Life Questionnaires: Impact of Vision Impairment and National Eye Institute Visual Functioning Questionnaire.",
+        "year": "2019"
+      },
+      {
+        "authors": "Macnaughton J; Latham K; Vianya-Estopa M",
+        "doi": "10.1111/opo.12606",
+        "journal": "Ophthalmic & physiological optics : the journal of the British College of Ophthalmic Opticians (Optometrists)",
+        "label": "86",
+        "pmid": "30776848",
+        "title": "Rehabilitation needs and activity limitations of adults with a visual impairment entering a low vision rehabilitation service in England.",
+        "year": "2019"
+      },
+      {
+        "authors": "Di Maggio I; Virgili G; Giacomelli G; Murro V; Sato G; Amore F; Villani GM; Fortini S; Turco S; Pece A; Rizzo R; Galan A; Giordani L; Mucciolo DP; Nota L",
+        "doi": "10.1177/1120672119852016",
+        "journal": "European journal of ophthalmology",
+        "label": "105",
+        "pmid": "31113297",
+        "title": "The Veterans Affairs Low-Vision Visual Functioning Questionnaire-48 (VA LV VFQ-48): Performance of the Italian version.",
+        "year": "2020"
+      },
+      {
+        "authors": "Smith TM; Hong I; Reistetter TA",
+        "doi": "10.5014/ajot.2020.038307",
+        "journal": "The American journal of occupational therapy : official publication of the American Occupational Therapy Association",
+        "label": "89",
+        "pmid": "32804622",
+        "title": "Responsiveness of the Revised Low Vision Independence Measure (LVIM-R).",
+        "year": "2020"
+      },
+      {
+        "authors": "Pérez-Mañá L; Cardona G; Pardo-Cladellas Y; Pérez-Mañá C; Amorós-Martínez J; González-Sanchís L; Wolffsohn JS; Antón A",
+        "doi": "10.1016/j.optom.2021.01.004",
+        "journal": "Journal of optometry",
+        "label": "119",
+        "pmid": "33879374",
+        "title": "Validation of the Spanish version of the Low Vision Quality of Life Questionnaire.",
+        "year": "2022"
+      },
+      {
+        "authors": "Sahu A; Agrawal D; Bhatia P",
+        "doi": "10.4103/ijo.ijo_2625_20",
+        "journal": "Indian journal of ophthalmology",
+        "label": "56",
+        "pmid": "34146047",
+        "title": "Is the high contrast visual acuity chart a good predictor of improvement in visual acuity with low vision aids?",
+        "year": "2021"
+      },
+      {
+        "authors": "Pengo M; Murueta-Goyena A; Teijeira-Portas S; Acera M; Del Pino R; Sáez-Atxukarro O; Diez-Cirarda M; Tijero B; Fernández-Valle T; Gómez Esteban JC; Gabilondo I",
+        "doi": "10.3233/jpd-213143",
+        "journal": "Journal of Parkinson's disease",
+        "label": "52",
+        "pmid": "35466953",
+        "title": "Impact of Visual Impairment on Vision-Related Quality of Life in Parkinson's Disease.",
+        "year": "2022"
+      },
+      {
+        "authors": "Jackson ML; Virgili G; Shepherd JD; Di Nome MA; Fletcher DC; Kaleem MA; Lam LA; Lawrence LM; Sunness JS; Riddering AT; American Academy of Ophthalmology Preferred Practice Pattern Vision Rehabilitation Committee",
+        "doi": "10.1016/j.ophtha.2022.10.033",
+        "journal": "Ophthalmology",
+        "label": "135",
+        "pmid": "36543605",
+        "title": "Vision Rehabilitation Preferred Practice Pattern®.",
+        "year": "2023"
+      },
+      {
+        "authors": "Vinokurtseva A; Quinn MP; Wai M; Leung V; Malvankar-Mehta M; Hutnik CML",
+        "doi": "10.1016/j.ogla.2023.04.007",
+        "journal": "Ophthalmology. Glaucoma",
+        "label": "129",
+        "pmid": "37142217",
+        "title": "Evaluating Measurement Properties of Patient-Reported Outcome Measures in Glaucoma: A Systematic Review.",
+        "year": "2023"
+      },
+      {
+        "authors": "Potter T; Almidani L; Diaz M; Varadaraj V; Mihailovic A; Ramulu PY",
+        "doi": "10.1016/j.ophtha.2024.06.009",
+        "journal": "Ophthalmology",
+        "label": "23",
+        "pmid": "38871087",
+        "title": "Concordance between Self-Reported Visual Difficulty and Objective Visual Impairment: The National Health and Aging Trends Study.",
+        "year": "2024"
+      },
+      {
+        "authors": "Wu YH; Yu D; Goldstein JE; Kwon M; Gobeille M; Watson E; Waked L; Gage R; Wang C; Legge GE",
+        "doi": "10.1167/tvst.13.9.20",
+        "journal": "Translational vision science & technology",
+        "label": "128",
+        "pmid": "39292468",
+        "title": "Estimating Visual Acuity Without a Visual Acuity Chart.",
+        "year": "2024"
+      },
+      {
+        "authors": "Stalin A; Khan S; Labreche T; Narayan A; Christian LWT; Stanberry A; Leat SJ",
+        "doi": "10.1097/opx.0000000000002236",
+        "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+        "label": "30",
+        "pmid": "39951057",
+        "title": "Development of a screening tool for reduced vision among inpatients of hospital rehabilitation units.",
+        "year": "2025"
+      },
+      {
+        "authors": "Rowe FJ; Hepworth LR; Begoña Coco-Martin M; Gillebert CR; Leal-Vega L; Palmowski-Wolfe A; Papageorgiou E; Ryan SJ; Skorkovska K; Aamodt AH",
+        "doi": "10.1177/23969873251314693",
+        "journal": "European stroke journal",
+        "label": "38",
+        "pmid": "40401755",
+        "title": "European Stroke Organisation (ESO) guideline on visual impairment in stroke.",
+        "year": "2025"
+      },
+      {
+        "authors": "Surawatsatien N; Pongsachareonnont PF; Waoraweewon S; Homkong G; Keereekeaw A; Sakthong P",
+        "doi": "10.1016/j.vhri.2025.101498",
+        "journal": "Value in health regional issues",
+        "label": "114",
+        "pmid": "40972235",
+        "title": "Translation and Testing Psychometric Properties of the Thai Version of Vision Bolt-On EQ-5D in Patients With Visual Impairment.",
+        "year": "2026"
+      },
+      {
+        "authors": "Wu YH; Yu D; Goldstein J; Kwon M; Wang C; Legge GE",
+        "doi": "10.1167/iovs.67.1.28",
+        "journal": "Investigative ophthalmology & visual science",
+        "label": "92",
+        "pmid": "41528105",
+        "title": "Screening Questions to Identify Low Vision and Acuity-Defined Legal Blindness.",
+        "year": "2026"
+      },
+      {
+        "authors": "Ernst J; Huang J; Tsosie J; Ramsey DJ",
+        "doi": "10.3390/life16010012",
+        "journal": "Life (Basel, Switzerland)",
+        "label": "130",
+        "pmid": "41598168",
+        "title": "Factors Associated with Referral to Low Vision for Patients with Advanced Glaucoma.",
+        "year": "2025"
+      }
+    ],
+    "misses": [
+      {
+        "authors": "Murro V; Sodi A; Giacomelli G; Mucciolo DP; Pennino M; Virgili G; Rizzo S",
+        "doi": "10.5301/ejo.5000972",
+        "journal": "European journal of ophthalmology",
+        "label": "84",
+        "pmid": "28430335",
+        "title": "Reading Ability and Quality of Life in Stargardt Disease.",
+        "year": "2017"
+      }
+    ],
+    "n": 36,
+    "recall": 0.9722222222222222
+  },
+  "not_in_pubmed": [],
+  "query": "((((\"self reported vision\"[ti:~2] OR \"self reported visual\"[ti:~2] OR \"self reported sight\"[ti:~2] OR \"self reported eyesight\"[ti:~2] OR \"self reported blindness\"[ti:~2] OR \"self rated vision\"[ti:~2] OR \"self rated visual\"[ti:~2] OR \"self rated sight\"[ti:~2] OR \"self rated eyesight\"[ti:~2] OR \"self rated blindness\"[ti:~2] OR \"self assessed vision\"[ti:~2] OR \"self assessed visual\"[ti:~2] OR \"self assessed sight\"[ti:~2] OR \"self assessed eyesight\"[ti:~2] OR \"self assessed blindness\"[ti:~2] OR \"self perceived vision\"[ti:~2] OR \"self perceived visual\"[ti:~2] OR \"self perceived sight\"[ti:~2] OR \"self perceived eyesight\"[ti:~2] OR \"self perceived blindness\"[ti:~2]) AND (\"Visual Acuity\"[Mesh] OR \"visual acuity\"[tiab])) OR (\"Visual Acuity\"[Majr] AND \"Self Report\"[Mesh])) OR (((\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]) AND screening[ti]) NOT (\"diabetic retinopathy\"[ti] OR cerebral[ti] OR cortical[ti])) OR ((((\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]) OR \"Vision, Low\"[Majr] OR \"Persons with Visual Disabilities\"[Majr] OR \"Blindness/rehabilitation\"[Majr]) AND (questionnaire*[ti] OR \"self-report*\"[ti] OR \"self report*\"[ti] OR \"self-rated\"[ti] OR \"self-assess*\"[ti] OR \"screening question*\"[ti] OR \"patient-reported\"[ti] OR PROM[ti] OR PROMs[ti] OR \"quality of life\"[ti] OR \"quality-of-life\"[ti] OR \"activity limitation*\"[ti] OR \"activities of daily living\"[ti] OR \"visual function*\"[ti] OR \"independence measure\"[ti] OR \"outcome measure*\"[ti] OR VFQ*[ti] OR \"activity inventory\"[ti] OR LVQOL[ti] OR \"impact of vision impairment\"[ti] OR LVIM*[ti] OR \"VF-14\"[ti] OR \"EQ-5D\"[ti] OR \"GQL-15\"[ti] OR \"GAL-9\"[ti] OR \"glaucoma symptom scale\"[ti] OR \"ADL index\"[ti]) AND (validat*[ti] OR validity[ti] OR psychometric*[ti] OR Rasch[ti] OR \"measurement properties\"[ti] OR reliab*[ti] OR reproducib*[ti] OR responsive*[ti] OR accuracy[ti] OR concordance[ti] OR agreement[ti] OR \"item response\"[ti] OR version[ti] OR translat*[ti] OR \"cross-cultural\"[ti] OR design[ti] OR development[ti] OR measuring[ti] OR measurement[ti] OR predict*[ti])) OR (((\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]) OR \"Vision, Low\"[Majr] OR \"Persons with Visual Disabilities\"[Majr] OR \"Blindness/rehabilitation\"[Majr]) AND Rasch[tiab])) OR (glaucoma*[ti] AND (questionnaire*[ti] OR \"self-report*\"[ti] OR \"self report*\"[ti] OR \"self-rated\"[ti] OR \"self-assess*\"[ti] OR \"screening question*\"[ti] OR \"patient-reported\"[ti] OR PROM[ti] OR PROMs[ti] OR \"quality of life\"[ti] OR \"quality-of-life\"[ti] OR \"activity limitation*\"[ti] OR \"activities of daily living\"[ti] OR \"visual function*\"[ti] OR \"independence measure\"[ti] OR \"outcome measure*\"[ti] OR VFQ*[ti] OR \"activity inventory\"[ti] OR LVQOL[ti] OR \"impact of vision impairment\"[ti] OR LVIM*[ti] OR \"VF-14\"[ti] OR \"EQ-5D\"[ti] OR \"GQL-15\"[ti] OR \"GAL-9\"[ti] OR \"glaucoma symptom scale\"[ti] OR \"ADL index\"[ti]) AND (validat*[ti] OR validity[ti] OR psychometric*[ti] OR Rasch[ti] OR \"measurement properties\"[ti] OR reliab*[ti] OR responsive*[ti] OR version[ti] OR translat*[ti])) OR (glaucoma*[ti] AND (reading[ti] OR \"Reading\"[Majr] OR disabilit*[ti])) OR (((\"low vision\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti]) AND (referral*[ti] OR refer[ti] OR referred[ti] OR \"practice pattern*\"[ti])) OR ((\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]) AND (guideline*[ti] OR \"Practice Guideline\"[pt] OR \"Guideline\"[pt]) AND (rehabilitat*[tiab] OR referral*[tiab] OR management[tiab])) OR ((\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]) AND (service*[ti] OR utili*[ti] OR uptake[ti] OR barrier*[ti]) AND rehabilitat*[ti])) OR ((\"low vision\"[ti] OR \"visual impairment*\"[ti] OR \"vision impairment*\"[ti] OR \"visually impaired\"[ti] OR \"impaired vision\"[ti] OR \"reduced vision\"[ti] OR \"visual disabilit*\"[ti] OR \"legal blindness\"[ti] OR \"legally blind\"[ti] OR \"vision loss\"[ti] OR \"sight loss\"[ti] OR \"partially sighted\"[ti] OR \"vision rehabilitation\"[ti] OR \"visual rehabilitation\"[ti] OR \"blind rehabilitation\"[ti]) AND (\"vision-related quality of life\"[ti] OR \"vision related quality of life\"[ti] OR \"vision-related\"[ti] OR \"vision-specific\"[ti])) OR (\"low vision\"[ti] AND predict*[ti])) AND (english[la] OR french[la]) AND 2000:3000[dp] NOT (child*[ti] OR pediatric[ti] OR paediatric[ti] OR preschool*[ti] OR infant*[ti] OR neonat*[ti])",
+  "query_chars": 5972,
+  "query_translation": "((((\"self reported vision\"[Title:~2] OR \"self reported visual\"[Title:~2] OR \"self reported sight\"[Title:~2] OR \"self reported eyesight\"[Title:~2] OR \"self reported blindness\"[Title:~2] OR \"self rated vision\"[Title:~2] OR \"self rated visual\"[Title:~2] OR \"self rated sight\"[Title:~2] OR \"self rated eyesight\"[Title:~2] OR \"self rated blindness\"[Title:~2] OR \"self assessed vision\"[Title:~2] OR \"self assessed visual\"[Title:~2] OR \"self assessed sight\"[Title:~2] OR \"self assessed eyesight\"[Title:~2] OR \"self assessed blindness\"[Title:~2] OR \"self perceived vision\"[Title:~2] OR \"self perceived visual\"[Title:~2] OR \"self perceived sight\"[Title:~2] OR \"self perceived eyesight\"[Title:~2] OR \"self perceived blindness\"[Title:~2]) AND (\"Visual Acuity\"[MeSH Terms] OR \"Visual Acuity\"[Title/Abstract])) OR (\"Visual Acuity\"[MeSH Major Topic] AND \"Self Report\"[MeSH Terms]) OR (((\"low vision\"[Title] OR \"visual impairment*\"[Title] OR \"vision impairment*\"[Title] OR \"visually impaired\"[Title] OR \"impaired vision\"[Title] OR \"reduced vision\"[Title] OR \"visual disabilit*\"[Title] OR \"legal blindness\"[Title] OR \"legally blind\"[Title] OR \"vision loss\"[Title] OR \"sight loss\"[Title] OR \"partially sighted\"[Title] OR \"vision rehabilitation\"[Title] OR \"visual rehabilitation\"[Title] OR \"blind rehabilitation\"[Title]) AND \"screening\"[Title]) NOT (\"diabetic retinopathy\"[Title] OR \"cerebral\"[Title] OR \"cortical\"[Title])) OR (((\"low vision\"[Title] OR \"visual impairment*\"[Title] OR \"vision impairment*\"[Title] OR \"visually impaired\"[Title] OR \"impaired vision\"[Title] OR \"reduced vision\"[Title] OR \"visual disabilit*\"[Title] OR \"legal blindness\"[Title] OR \"legally blind\"[Title] OR \"vision loss\"[Title] OR \"sight loss\"[Title] OR \"partially sighted\"[Title] OR \"vision rehabilitation\"[Title] OR \"visual rehabilitation\"[Title] OR \"blind rehabilitation\"[Title] OR \"vision, low\"[MeSH Major Topic] OR \"Persons with Visual Disabilities\"[MeSH Major Topic] OR \"blindness/rehabilitation\"[MeSH Major Topic]) AND (\"questionnaire",
+  "source": "docs/LVR_search_strategy.md"
+}

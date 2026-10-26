@@ -1,0 +1,34 @@
+study_id,label,tool,instrument_or_basis,status
+5,Gothwal 2012,COSMIN RoB,APEDS-VFQ,done
+26,Wolffsohn 2000,COSMIN RoB,LVQOL,done
+27,Labreche 2018,QUADAS-2,VIRFQ items vs composite VA/CS/field reference (dta.csv),done
+38,Rowe 2025,AGREE II (narrative),"ESO stroke guideline (AGREE II, by hand)",done (agree2_narrative.md)
+39,Babcock-Parziale 2005,COSMIN RoB,VA-13,done
+41,Oviedo-Cáceres 2023,AGREE II (narrative),"Colombian CPG (AGREE II, by hand)",done (agree2_narrative.md)
+46,Tabrett 2011,COSMIN RoB,Activity Inventory,done
+55,Agathos 2025,not assessed,GAL-9 used as correlate; no measurement property assessed,n/a
+56,Sahu 2021,not assessed,high-contrast chart is the index; LVQOL only an outcome,n/a
+63,Wu 2016,not assessed,NVQ-10 used as outcome of regression; not a validation,n/a
+65,Stelmack 2002,COSMIN RoB,NEI VFQ-25 (responsiveness),done
+66,Stelmack 2006,COSMIN RoB,VA LV VFQ-48,done
+72,Selivanova 2019,COSMIN RoB,IVI,done
+74,Szlyk 2004,COSMIN RoB,VA LV VFQ-48,done
+76,La Grow 2007,not assessed,NEI VFQ-25 used as correlate of QoL prediction,n/a
+79,Gresset 2002,QUADAS-2,HALS vision questions vs measured VA (dta.csv),done
+84,Murro 2017,not assessed,NEI VFQ-25 used as outcome in a clinical series,n/a
+85,Smith 2013,COSMIN RoB,LVIM,not assessable: qualitative content-validity study; template has no content-validity box (see summary.md)
+86,Macnaughton 2019,COSMIN RoB,Participation and Activity Inventory,done
+88,Malkin 2013,COSMIN RoB,EQ-5D / Activity Inventory,done
+89,Smith 2020,COSMIN RoB,LVIM-R,done
+92,Wu 2026,QUADAS-2,100-item survey items vs VA 0.3/1.0 logMAR (dta.csv),done
+93,Chou 2009,not assessed,systematic review (USPSTF); not a primary study; AMSTAR 2/ROBIS pointer only,n/a
+95,Massof 2007,not assessed,Activity Inventory driving items; descriptive importance/difficulty ratings,n/a
+97,Subramanian 2006,not assessed,"research psychophysics questionnaire; correlations only, no validation aim",n/a
+105,Di Maggio 2020,COSMIN RoB,VA LV VFQ-48,done
+110,Sumi 2003,COSMIN RoB,Sumi visual disability questionnaire,done
+112,Dickson 2012,not assessed,screening questionnaire time/feasibility RCT; no accuracy reported,n/a
+114,Surawatsatien 2026,COSMIN RoB,EQ-5D vision bolt-on,done
+119,Pérez-Mañá 2022,QUADAS-2,SLVQOL total-score cut-off vs case/control groups (dta.csv),done
+119,Pérez-Mañá 2022,COSMIN RoB,SLVQOL,done
+120,Bibby 2007,not assessed,self-reported mobility questionnaire used as outcome,n/a
+128,Wu 2024,QUADAS-2,100-item survey estimated VA vs measured VA (agreement/correlation; no sens/spec; assessed per plan),done

@@ -1,0 +1,10 @@
+key,column,A,B,match,resolved_value,resolved_by
+92 | proportion | proportion with VA worse than 0.3 logMAR (low vision) | 100-item Visual Acuity Survey | none | person | NR,<key>,92 | proportion | proportion with VA worse than 0.3 logMAR (low vision) | 100-item Visual Acuity Survey | none | person | ,92 | proportion | proportion with binocular VA worse than 0.3 logMAR (low vision) | 100-item Visual Acuity Survey | none | person | ,fuzzy 0.96,,
+92 | proportion | proportion with VA worse than 0.3 logMAR (low vision) | 100-item Visual Acuity Survey | none | person | NR,page,3,3 (Table 1),fuzzy 0.96,,
+92 | proportion | proportion with VA worse than 0.3 logMAR (low vision) | 100-item Visual Acuity Survey | none | person | NR,derivation,events = 385 - 121 (Table 1 p3); text reports 68.6%,264 = 385 - 121 (Table 1 p3); text p3 states 68.6%,fuzzy 0.96,,
+92 | logratio | odds ratio of low vision given a No response to Q97 | 100-item Visual Acuity Survey | VA 0.3 logMAR or worse (low vision) | person | ,<row>,present,absent,unmatched,,
+92 | mean | average unsigned prediction error (logMAR) of VA predicted from whole 100-item survey | 100-item Visual Acuity Survey | none | person | ,<row>,present,absent,unmatched,,
+92 | proportion | proportion with VA 1.0 logMAR or worse (legal blindness) | 100-item Visual Acuity Survey | none | person | ,<row>,present,absent,unmatched,,
+92 | proportion | proportion with VA at legal blindness criterion (<=1.0 logMAR) | 100-item Visual Acuity Survey | none | person | ,<row>,absent,present,unmatched,,
+"92 | mean | average unsigned prediction error of IRT-predicted VA (logMAR), whole 100-item survey | 100-item Visual Acuity Survey | measured binocular VA (logMAR) | person | ",<row>,absent,present,unmatched,,
+92 | logratio | odds ratio for low vision (VA worse than 0.3 logMAR) given a No response to Q97 | 100-item Visual Acuity Survey | Q97 No vs Yes | person | ,<row>,absent,present,unmatched,,

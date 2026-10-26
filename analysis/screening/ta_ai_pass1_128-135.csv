@@ -1,0 +1,9 @@
+id,decision,reason,rationale
+128,Include,,"100-item yes/no everyday-object vision survey (IRT); 385 adults with VI; compared with measured logMAR VA (r=-0.72, prediction error); accuracy evaluated."
+129,Include,,"Systematic review of glaucoma PROMs (GQL, GSS, NEI VFQ-25) in adults; COSMIN assessment of measurement properties, so glaucoma PROM evidence qualifies."
+130,Exclude,No questionnaire/screening item,"No instrument named; adults with severe glaucoma; retrospective chart review of LVR referral rates and VA/VF predictors, no self-report questionnaire evaluated."
+131,Exclude,No questionnaire/screening item,"MNRead, IRest and Brief Test of Attention are performance tests; adults with glaucoma; no self-report vision instrument involved or evaluated."
+132,Maybe,,"No abstract; title ""Legal blindness"" names no instrument or population; relevance to a self-report vision questionnaire cannot be judged without full text."
+133,Include,,"10-item self-rated reading difficulty questionnaire, Rasch-analysed; adults with glaucoma vs suspects; scores compared with visual field and contrast sensitivity."
+134,Exclude,No questionnaire/screening item,"No patient vision instrument; survey of American Glaucoma Society ophthalmologists on LVS referral habits; evaluates referrer characteristics and guideline adherence, not any questionnaire or screening item."
+135,Maybe,,No abstract. AAO vision rehabilitation clinical guideline; adult LVR population likely; unclear whether questionnaires or referral screening are covered or evaluated.

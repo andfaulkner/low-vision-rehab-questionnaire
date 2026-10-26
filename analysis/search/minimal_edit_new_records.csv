@@ -1,0 +1,60 @@
+pmid,year,title,journal,doi,doi_already_in_screening_csv
+41975887,2026,Psychological Profile and Visual Function in Charles Bonnet Syndrome: A Preliminary Cross-Sectional Study.,Healthcare (Basel),10.3390/healthcare14070885,no
+41469860,2025,Machine learning prediction models for visual impairment in Chinese adults aged ≥ 45 years with cardiovascular metabolic diseases: a population-based study using CHARLS.,BMC Ophthalmol,10.1186/s12886-025-04596-6,no
+41258201,2026,The role of full-field stimulus threshold in evaluating Bietti crystalline dystrophy.,Graefes Arch Clin Exp Ophthalmol,10.1007/s00417-025-07029-8,no
+41027995,2025,User cum expert judgement model for accessibility using fuzzy approach.,Sci Rep,10.1038/s41598-025-00117-z,no
+39873951,2025,"Self-perceived and measured visual function, the impact of eye-disease, wellbeing, social determinants, and personality traits in Swedish 70-year-olds-results from the Gothenburg H70 Study.",Acta Ophthalmol,10.1111/aos.17440,no
+39667696,2025,Pentosan Polysulfate Maculopathy: Final Outcomes from a 4-Year Prospective Study of Disease Progression after Drug Cessation.,Am J Ophthalmol,10.1016/j.ajo.2024.12.004,no
+39556084,2024,Development and Psychometric Assessment of a Chinese Version of the Ultra-Low Vision Visual Functioning Questionnaire-50.,Transl Vis Sci Technol,10.1167/tvst.13.11.20,no
+39552718,2024,Spectrum of Visual Dysfunction Detected by a Novel Testing Protocol Within a Special School Eye Care Service.,Br Ir Orthopt J,10.22599/bioj.391,no
+39333971,2024,Timed instrumental activities of daily living tasks in adults with irreversible vision impairment: validation to visual function and self-report.,BMC Ophthalmol,10.1186/s12886-024-03683-4,no
+39312049,2024,Visual activities of daily living survey for retinitis pigmentosa.,Jpn J Ophthalmol,10.1007/s10384-024-01122-x,no
+39292468,2024,Estimating Visual Acuity Without a Visual Acuity Chart.,Transl Vis Sci Technol,10.1167/tvst.13.9.20,yes
+38913502,2024,"Vision-related quality of life, photoaversion, and optical rehabilitation in achromatopsia.",Optom Vis Sci,10.1097/OPX.0000000000002143,no
+37608086,2024,The impact of visual function on staircase use performance in glaucoma.,Eye (Lond),10.1038/s41433-023-02696-5,no
+37407917,2023,Objective quantification of posterior capsule opacification after cataract surgery with swept-source optical coherence tomography.,BMC Ophthalmol,10.1186/s12886-023-03064-3,no
+37310736,2023,Development of The Chinese Version of Ultra-Low Vision Visual Functioning Questionnaire-150.,Transl Vis Sci Technol,10.1167/tvst.12.6.9,no
+37140038,2023,Positive feedback loop between vision-related anxiety and self-reported visual difficulty.,Ophthalmic Genet,10.1080/13816810.2023.2208211,no
+36440767,2023,Effects of duration and number of symptoms on vision-related anxiety in patients with Inherited Retinal Diseases.,Ophthalmic Genet,10.1080/13816810.2022.2144901,no
+34394327,2021,"Visual function, spectacle independence, and patients' satisfaction after cataract surgery- a study in the Central Region of Ghana.",Afr Health Sci,10.4314/ahs.v21i1.55,no
+34382220,2021,Association of vision loss and depressive symptomatology in older adults assessed for ocular health in senior living facilities.,Ophthalmic Physiol Opt,10.1111/opo.12869,no
+33556588,2021,Glaucoma and Computer Use: Do Contrast and Color Enhancements Improve Visual Comfort in Patients?,Ophthalmol Glaucoma,10.1016/j.ogla.2021.01.006,no
+33439361,2021,Vision-related quality of life in adults with severe peripheral vision loss: a qualitative interview study.,J Patient Rep Outcomes,10.1186/s41687-020-00281-y,no
+32653097,2020,"[Validation of the 13-30ARAMAV assessment, a new quality of life and autonomy questionnaire adapted to visually impaired patients].",J Fr Ophtalmol,10.1016/j.jfo.2019.10.031,no
+31912642,2020,Vision-related quality of life and visual function in a 70-year-old Swedish population.,Acta Ophthalmol,10.1111/aos.14341,no
+31109471,2019,Charles Bonnet syndrome: development and validation of a screening and multidimensional descriptive questionnaire.,Can J Ophthalmol,10.1016/j.jcjo.2018.05.008,no
+30886944,2019,Visual rehabilitation using video game stimulation for Stargardt disease.,Ther Adv Ophthalmol,10.1177/2515841419831158,no
+30782756,2019,Depressive symptoms in people with vision impairment: a cross-sectional study to identify who is most at risk.,BMJ Open,10.1136/bmjopen-2018-026163,no
+30280594,2019,"The efficacy of ""IOL-Vip Revolution"" telescopic intraocular lens in age-related macular degeneration cases with senile cataract.",Eur J Ophthalmol,10.1177/1120672118803831,no
+30157014,2018,Revised Self-Report Assessment of Functional Visual Performance (R-SRAFVP)-Part II: Construct Validation.,Am J Occup Ther,10.5014/ajot.2018.030205,no
+30046359,2018,COGEVIS: A New Scale to Evaluate Cognition in Patients with Visual Deficiency.,Behav Neurol,10.1155/2018/4295184,no
+29689064,2018,Association between vision-specific quality of life and falls in community-dwelling older adults: LOHAS.,PLoS One,10.1371/journal.pone.0195806,no
+29168192,2018,Seeing it differently: self-reported description of vision loss in dry age-related macular degeneration.,Ophthalmic Physiol Opt,10.1111/opo.12419,no
+29162576,2017,Functional visual fields: a cross-sectional UK study to determine which visual field paradigms best reflect difficulty with mobility function.,BMJ Open,10.1136/bmjopen-2017-018831,no
+29111632,2019,Rating of perceived capacity: a proposal to predict adequate levels of physical activity in visually impaired individuals.,J Sports Med Phys Fitness,10.23736/S0022-4707.17.08070-7,no
+27893095,2016,Functional Reading Independence (FRI) Index: A New Patient-Reported Outcome Measure for Patients With Geographic Atrophy.,Invest Ophthalmol Vis Sci,10.1167/iovs.16-20361,no
+27929613,2016,,,,no
+26657696,2016,Red-Tinted Contact Lenses May Improve Quality of Life in Retinal Diseases.,Optom Vis Sci,10.1097/OPX.0000000000000761,no
+26163943,2015,Equating Visual Function Scales to Facilitate Reporting of Medicare Functional G-Code Severity/Complexity Modifiers for Low-Vision Patients.,Arch Phys Med Rehabil,10.1016/j.apmr.2015.06.013,no
+25131813,2014,ClereMed: Lessons Learned From a Pilot Study of a Mobile Screening Tool to Identify and Support Adults Who Have Difficulty With Medication Labels.,JMIR Mhealth Uhealth,10.2196/mhealth.3250,no
+25052992,2014,Reading ability and reading engagement in older adults with glaucoma.,Invest Ophthalmol Vis Sci,10.1167/iovs.14-14138,yes
+24773463,2014,A pilot study of an acupuncture protocol to improve visual function in retinitis pigmentosa patients.,Clin Exp Optom,10.1111/cxo.12117,no
+24646899,2014,Visual functions and disability in diabetic retinopathy patients.,J Optom,10.1016/j.optom.2013.03.003,no
+24634868,2014,An enhanced functional ability questionnaire (faVIQ) to measure the impact of rehabilitation services on the visually impaired.,Int J Ophthalmol,10.3980/j.issn.2222-3959.2014.01.14,no
+23953097,2014,"Working-age cataract patients: visual results, reading performance, and quality of life with three diffractive multifocal intraocular lenses.",Ophthalmology,10.1016/j.ophtha.2013.06.034,no
+23472744,2013,Functional and perceived benefits of wearing coloured filters by patients with age-related macular degeneration.,Clin Exp Optom,10.1111/cxo.12031,no
+23427227,2014,A general theoretical framework for interpreting patient-reported outcomes estimated from ordinally scaled item responses.,Stat Methods Med Res,10.1177/0962280213476380,no
+22902420,2012,Use of prescribed optical devices in age-related macular degeneration.,Optom Vis Sci,10.1097/OPX.0b013e3182678db5,no
+22670892,2012,The development & evaluation of two vision screening tools for correctable visual loss in older people.,Ophthalmic Physiol Opt,10.1111/j.1475-1313.2012.00919.x,no
+22078121,2012,Development of a questionnaire to assess the relative subjective benefits of presbyopia correction.,J Cataract Refract Surg,10.1016/j.jcrs.2011.07.032,no
+21919062,2012,Visual functioning and quality of life among the older people in Hong Kong.,Int J Geriatr Psychiatry,10.1002/gps.2789,no
+21888648,2011,Re-evaluating a vision-related quality of life questionnaire with item response theory (IRT) and differential item functioning (DIF) analyses.,BMC Med Res Methodol,10.1186/1471-2288-11-125,no
+20029487,2009,Beyond visual acuity: functional outcome and patient satisfaction following treatment for age-related macular degeneration.,Can J Ophthalmol,10.3129/i09-163,no
+19766455,2010,A multilevel item response theory model was investigated for longitudinal vision-related quality-of-life data.,J Clin Epidemiol,10.1016/j.jclinepi.2009.06.012,no
+17956358,2007,Vision screening of older people.,Ophthalmic Physiol Opt,10.1111/j.1475-1313.2007.00525.x,no
+17700335,2007,Applying multilevel item response theory to vision-related quality of life in Dutch visually impaired elderly.,Optom Vis Sci,10.1097/OPX.0b013e31813375b8,no
+16893569,2006,Minimal depression and vision function in age-related macular degeneration.,Ophthalmology,10.1016/j.ophtha.2006.05.033,no
+16019693,2005,Application of stochastic measurement models to visual function rating scale questionnaires.,Ophthalmic Epidemiol,10.1080/09286580590932789,no
+12185131,2002,"Face recognition in age related macular degeneration: perceived disability, measured disability, and performance with a bioptic device.",Br J Ophthalmol,10.1136/bjo.86.9.1019,no
+12014491,2002,Relationship between vision impairment and ability to perform activities of daily living.,Ophthalmic Physiol Opt,10.1046/j.1475-1313.2002.00016.x,no
+11150266,2001,Perceived and actual performance of daily tasks: relationship to visual function tests in individuals with retinitis pigmentosa.,Ophthalmology,10.1016/s0161-6420(00)00413-9,no

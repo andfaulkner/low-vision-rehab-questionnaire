@@ -1,0 +1,11 @@
+ID,a_decision,a_reason,b_decision,b_reason,title
+12,Exclude,Not about low vision/visual function,Maybe,,Baseline traits of low vision patients served by private outpatient clinical centers in the United States.
+16,Exclude,No questionnaire/screening item,Include,,Characteristics of Glaucoma Patients Attending a Vision Rehabilitation Service.
+18,Maybe,,Exclude,Intervention study only,Clinically Meaningful Rehabilitation Outcomes of Low Vision Patients Served by Outpatient Clinical Centers.
+20,Maybe,,Exclude,Review/opinion/editorial,Common Approach to Low Vision: Examination and Rehabilitation of the Patient with Low Vision
+21,Exclude,No questionnaire/screening item,Include,,Community screening for visual impairment in older people.
+23,Exclude,No questionnaire/screening item,Include,,Concordance between Self-Reported Visual Difficulty and Objective Visual Impairment: The National Health and Aging Trends Study.
+29,Maybe,,Exclude,No questionnaire/screening item,Development of a battery of functional tests for low vision.
+31,Maybe,,Exclude,No accuracy/validation data,Different aspects of visual impairment as risk factors for falls and fractures in older men and women.
+34,Maybe,,Exclude,Intervention study only,Economic Evaluation of Low-Vision Rehabilitation for Veterans With Macular Diseases in the US Department of Veterans Affairs
+36,Maybe,,Exclude,Intervention study only,Efficacy of MP-3 microperimeter biofeedback fixation training for low vision rehabilitation in patients with maculopathy.

@@ -1,0 +1,22 @@
+block,domain,judgement,count,pct,weighted
+Risk of bias,Patient selection,Low,0,0.00,yes
+Risk of bias,Patient selection,Unclear,2,36.77,yes
+Risk of bias,Patient selection,High,3,63.23,yes
+Risk of bias,Index test,Low,1,5.04,yes
+Risk of bias,Index test,Unclear,1,6.90,yes
+Risk of bias,Index test,High,3,88.05,yes
+Risk of bias,Reference standard,Low,1,5.04,yes
+Risk of bias,Reference standard,Unclear,2,58.18,yes
+Risk of bias,Reference standard,High,2,36.77,yes
+Risk of bias,Flow and timing,Low,0,0.00,yes
+Risk of bias,Flow and timing,Unclear,3,65.09,yes
+Risk of bias,Flow and timing,High,2,34.91,yes
+Applicability,Patient selection,Low,1,5.04,yes
+Applicability,Patient selection,Unclear,0,0.00,yes
+Applicability,Patient selection,High,4,94.96,yes
+Applicability,Index test,Low,2,11.95,yes
+Applicability,Index test,Unclear,1,28.32,yes
+Applicability,Index test,High,2,59.74,yes
+Applicability,Reference standard,Low,3,64.78,yes
+Applicability,Reference standard,Unclear,1,28.32,yes
+Applicability,Reference standard,High,1,6.90,yes

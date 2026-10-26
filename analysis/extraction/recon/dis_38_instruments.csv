@@ -1,0 +1,4 @@
+key,column,A,B,match,resolved_value,resolved_by
+Cerebral Vision Screening Questionnaire,domains,"symptoms-based; items reported in this guideline: reading problems, blurred vision, depth/reaching, dark vision","symptoms-based; items named in this paper: reading problems, blurred vision, depth/reaching, dark vision",exact,,
+Cerebral Vision Screening Questionnaire,validation_method,criterion validity,criterion validity; ROC,exact,,
+Cerebral Vision Screening Questionnaire,target_population,adult stroke survivors (acute period),adult stroke survivors,exact,,
