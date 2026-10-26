@@ -94,3 +94,12 @@ Writing rules: every numeric claim carries a citation key and must exist in the 
 ## Status log
 
 Chain steps append `## Status — YYYY-MM-DD — step N: <name>` sections below this line.
+
+## Status — 2026-10-26 — step 2: format notes
+
+- **Issue used:** September/October 2026 (online). Read in full as PDFs: Johnson et al feature "Vascular Risk Factors in Normal-Tension Glaucoma" (pp 41-45) and Berdahl Cover Focus (pp 31-32). The Practice Pointers, Toric and Premium IOL articles and the About/Contact pages were seen only as fetch-tool summaries (article HTML returns 403 to curl).
+- **Word-count target:** 2,400 to 2,700 words of body text (the feature runs about 2,500), checklist range 2,200 to 3,000; 20 to 30 references.
+- **Verbatim reference (ref 3 of the feature):** `3. Zhao J, Solano MM, Oldenburg CE, et al. Prevalence of normal-tension glaucoma in the Chinese population: a systematic review and meta-analysis. Am J Ophthalmol. 2019;199:101-110. doi:10.1016/j.ajo.2018.10.017`
+- **Style file:** `paper/style_glaucoma_today.json` is ama.json with the name and notes rewritten. The numeric rules already matched the feature (up to 6 authors, first 3 + et al, no page condensing, DOI as `doi:...` with no URL), so nothing else changed. Two things are unconfirmed and kept as defaults: the "Accessed" wording (no web reference in either article) and italic journal names (the PDF has an italic font, but the text layer cannot show where it is used). JSON validated.
+- **Not in the plan doc:** no abstract and no At-a-Glance box in the feature (per-section "Clinical Takeaways" instead); ALL-CAPS unnumbered headings and no Introduction heading; a financial-disclosure line and email for every author in an end-of-article block; sidebars signed by a second expert; no published author guidelines or AI policy (submit by email to the Editor-in-Chief, subject "GT Article Submission").
+- **Needs from later steps:** rewrite the numbered outline as short capitalised heads; decide where the Methods paragraph goes; ask the editor about AI wording and the "Accessed" form. Files: `paper/format_notes.md`, `paper/format_checklist.md`. Nothing under `data/` touched; no commits made.
