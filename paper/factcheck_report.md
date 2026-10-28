@@ -618,3 +618,17 @@ Verdicts were written by nine Claude Sonnet 5.5 verifier subagents (medium effor
 - `[VERIFY]` tags remaining in the manuscript (4) plus `[UPDATE]` (1) and `[untested]` (1): Ernst 2025 referral proportion (ID 130, no text), AAO PPP referral criteria (ID 135, no text), the Box field threshold and PPP alignment, the reviewer-override count and the "counts of corrected values" line in the AI disclosure, the Box timing.
 - Catalogue values labelled "(unverified)" in Tables 1 and 2 (minutes for NEI VFQ-25, Activity Inventory, IVI, GQL-15, GAL-9; Activity Inventory task count).
 - The two index questions are quoted as printed in Wu 2026 Table 2 and the Discussion ("can you usually read the posted menus?"); the abstract omits "usually", and the plan doc's wording follows the abstract.
+
+## Second draft (2026-10-28)
+
+The manuscript was redrafted on 28 October 2026 (Claude Fable 5.1, no subagents). The per-item verdicts above belong to the 26 October text; sentences that were not changed keep them. The scripted check of the second draft is in `paper/factcheck_report_draft2.md` / `.json` (379 claims: FOUND 274, COUNTS 4, WEAK 7, NOT FOUND 11, NO TEXT 38, NO CITATION 45; exit 0). The 11 NOT FOUND and 7 WEAK items are the same Sumi 2003 Unicode-minus values, the derived Wu 2026 reference-positive counts (264, 73) and Box list numbers already justified above. New claims and their status:
+
+- Ernst 2025 (ID 130, no text): 522 patients, 88% qualifying as low vision, 14 referred (2.7%), referral associated with acuity not field. Source: the PubMed abstract in the Screening export. Tagged `[VERIFY: abstract values; full text not retrieved]`.
+- Kaleem 2017 (ID 134, no text): following the PPP went with 2.5 times the odds of being a high referrer; 22% followed it. Abstract only; tagged.
+- Potter 2024 (ID 23, no text): NHATS self-reported visual difficulty, sensitivity 0.16, specificity 0.96, 4,999 adults (abstract reports 15.8 and 96.3). Abstract only; tagged. Not in Table 3 because the report was not retrieved.
+- Stalin 2025 (ID 30, no text): 112 inpatients, reduced habitual vision 48.7%, three questions sensitivity 0.74. Abstract only; tagged. Not in Table 3.
+- Wittenborn ACS question via Wu 2026 p1-2: sensitivity 0.70, specificity 0.88 (legal blindness), sensitivity 0.43 (low vision), 438 patients. FOUND in the Wu 2026 text; the primary paper is not in the bibliography and is cited through Wu 2026.
+- Rowe 2025 (ID 38) CVSQ "reading problems": sensitivity 0.84, specificity 0.75, n = 461 (217 positive), Table 4.1 p16; CIs approximate (†). Matches `analysis/synthesis/accuracy_table.md`; new reference 28.
+- PPV near 0.34 at 10% prevalence: our arithmetic from sensitivity 0.89 and specificity 0.81 (0.089 / (0.089 + 0.171) = 0.34); labelled "(our arithmetic)".
+- Kappa 0.41 (95% CI, 0.10-0.71) for reviewer vs first-pass AI: `analysis/screening/ta_reviewer_vs_ai1*` via `paper/methods_draft.md`.
+- Minimal search edit 137 records and eight-arm revision 593 records: `paper/search_strategy_note.md`; 36 backward-citation candidates: plan doc step 3 status.
