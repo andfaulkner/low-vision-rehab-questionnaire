@@ -84,7 +84,7 @@ One row per study x threshold. CIs are 95% Wilson score intervals from the 2x2 c
 
 | Study | Item | Dataset | n | Prevalence | Test threshold | Reference threshold | Sensitivity (95% CI) | Specificity (95% CI) | AUC (95% CI) | QUADAS-2 overall |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Labreche 2018 | 3. Because of your eyesight, do you have difficulty noticing objects off to the side? | D03 | 89 | 0.11 | answer Yes = positive | Group 3: Methods p2 'Peripheral field defect' ('constriction' on confrontation fields, or any defect on perimetry) | 0.50 (0.20-0.80) | 0.86 (0.77-0.92) | NR | High (D1 U / D2 U / D3 H / D4 U) |
+| Labreche 2018 | 3. Because of your eyesight, do you have difficulty noticing objects off to the side? | D03 | 89 | 0.11 | answer Yes = positive | Group 3: Methods p2 'Peripheral field defect' ('constriction' on confrontation fields, or any defect on perimetry) | 0.50 (0.20-0.80) | 0.82 (0.72-0.89) | NR | High (D1 U / D2 U / D3 H / D4 U) |
 | Labreche 2018 | 4. Because of your eyesight, do you have difficulty going down steps or stairs or have trouble seeing a curb? | D03 | 89 | 0.11 | answer Yes = positive | Group 3: Methods p2 'Peripheral field defect' ('constriction' on confrontation fields, or any defect on perimetry) | 0.40 (0.14-0.73) | 0.81 (0.70-0.89) | NR | High (D1 U / D2 U / D3 H / D4 U) |
 | Labreche 2018 | 7. With your glasses on, do you trip over objects because you do not see them? | D03 | 89 | 0.11 | answer Yes = positive | Group 3: Methods p2 'Peripheral field defect' ('constriction' on confrontation fields, or any defect on perimetry) | 0.20 (0.04-0.56) | 0.86 (0.76-0.93) | NR | High (D1 U / D2 U / D3 H / D4 U) |
 

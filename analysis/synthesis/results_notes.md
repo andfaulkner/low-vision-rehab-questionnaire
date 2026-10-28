@@ -36,7 +36,7 @@ Groups are those of `grouping.md`. Independent datasets: 31 from 32 studies (Wu 
 ## G2. Single items vs visual field (Labreche 2018, ID 27)
 
 1. **Evidence base.** One dataset (the same 89 patients), three items aimed at field loss, reference "peripheral field defect" by confrontation or any perimetric defect (10 positive, prevalence 0.11; ID 27 p2, Table 1 p3). **No other included study tested any single item against a visual field.**
-2. **Finding.** Q3 "difficulty noticing objects off to the side" sensitivity 0.50 (0.20-0.80), specificity 0.86 (0.77-0.92); Q4 steps or curbs 0.40 (0.14-0.73) / 0.81 (0.70-0.89); Q7 tripping over unseen objects 0.20 (0.04-0.56) / 0.86 (0.76-0.93) (ID 27 Table 1 p3).
+2. **Finding.** Q3 "difficulty noticing objects off to the side" sensitivity 0.50 (0.20-0.80), specificity 0.82 (0.72-0.89) (step 10: the printed cell "65/79 86% (83-72)" is self-contradictory; the fraction is used, advisory); Q4 steps or curbs 0.40 (0.14-0.73) / 0.81 (0.70-0.89); Q7 tripping over unseen objects 0.20 (0.04-0.56) / 0.86 (0.76-0.93) (ID 27 Table 1 p3).
 3. **Heterogeneity.** Not assessable within one dataset; the reference ("constriction" on confrontation or any perimetric defect) is loose.
 4. **Risk of bias.** As G1c; with 10 field-positive participants every CI spans more than half the range.
 5. **Certainty.** Very low.
@@ -138,7 +138,7 @@ This section joins `paper/two_item_accuracy.md`, `paper/candidate_items.md`, the
 | Either HALS question | Gresset 2002 (79) | presenting VA <= 6/21 | 1.00 (0.40-1.00) | 0.75 (0.62-0.85) | 65 (4) | same | High | Table 4 p5 |
 | Published single self-rated vision questions (background, not extracted) | cited in Wu 2026 (92) | legal blindness; milder impairment | 0.70; 0.20-0.25 | 0.88; 0.92-0.97 | NR | NR | not assessed | p2 |
 | VIRFQ "yes to any of 7" | Labreche 2018 (27) | charted composite impairment | 0.88 (0.77-0.95) | 0.48 (0.30-0.67) | 89 (60) | enriched optometry clinics, 65+ | High (D3) | Table 1 p3 |
-| VIRFQ Q3 objects off to the side | Labreche 2018 (27) | peripheral field defect | 0.50 (0.20-0.80) | 0.86 (0.77-0.92) | 89 (10) | same | High | Table 1 p3 |
+| VIRFQ Q3 objects off to the side | Labreche 2018 (27) | peripheral field defect | 0.50 (0.20-0.80) | 0.82 (0.72-0.89) | 89 (10) | same | High | Table 1 p3 |
 | LVQOL (Spanish) total score <= 105/106 | Pérez-Mañá 2022 (119) | VI group vs healthy | 0.954 (approx. 0.91-0.98) | 0.918 (approx. 0.87-0.95) | 365 (170) | hospital and clinic vs volunteers | High (D1, D2) | p1, p4, p9 |
 | CVSQ "reading problems" item | Rowe 2025 (38), one primary study | specialist assessment, central impairment | 0.839 (approx. 0.78-0.88) | 0.747 (approx. 0.69-0.80) | 461 (217) | stroke survivors | guideline: "Medium" | Table 4.1 p16 |
 | CVSQ any impairment | Rowe 2025 (38) | alternative screen | 0.798 (0.598-0.965) | 0.817 (0.593-0.917) | 461 (444) | stroke | | Table 1.1 p7 |

@@ -327,7 +327,7 @@
   {
    "n": 17,
    "section": "HOW GLAUCOMA DISABLES BEYOND ACUITY",
-   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 to -0.63 [VERIFY: domain values read from a column-scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 and -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "147",
    "kind": "count",
    "keys": [
@@ -347,7 +347,7 @@
   {
    "n": 18,
    "section": "HOW GLAUCOMA DISABLES BEYOND ACUITY",
-   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 to -0.63 [VERIFY: domain values read from a column-scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 and -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "30",
    "kind": "count",
    "keys": [
@@ -356,7 +356,7 @@
    "inherited": false,
    "source": "Sumi 2003",
    "text_status": "FOUND",
-   "evidence": "p2: \"...g the revised questionnaire. The questionnaire, originally written in Japanese, contained 30 questions addressing 7 items: legibility of letters (letters), sentences, walking, usin...\" [terms: japanese, glaucoma, patient, item, visual, disability, questionnaire, walk, items, table]",
+   "evidence": "p2: \"...g the revised questionnaire. The questionnaire, originally written in Japanese, contained 30 questions addressing 7 items: legibility of letters (letters), sentences, walking, usin...\" [terms: japanese, glaucoma, patient, item, visual, disability, questionnaire, walk, items]",
    "page": 2,
    "csv_status": "MATCH",
    "csv_detail": "studies.n_items = 30 (near 'item')",
@@ -367,7 +367,7 @@
   {
    "n": 19,
    "section": "HOW GLAUCOMA DISABLES BEYOND ACUITY",
-   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 to -0.63 [VERIFY: domain values read from a column-scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 and -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "-0.64",
    "kind": "proportion",
    "keys": [
@@ -387,7 +387,7 @@
   {
    "n": 20,
    "section": "HOW GLAUCOMA DISABLES BEYOND ACUITY",
-   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 to -0.63 [VERIFY: domain values read from a column-scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 and -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "-0.61",
    "kind": "proportion",
    "keys": [
@@ -407,7 +407,7 @@
   {
    "n": 21,
    "section": "HOW GLAUCOMA DISABLES BEYOND ACUITY",
-   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 to -0.63 [VERIFY: domain values read from a column-scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "In 147 Japanese glaucoma patients who completed a 30-item visual disability questionnaire, the total disability index correlated with better-eye mean deviation at r = -0.64; the walking and going-out domains, which hold items such as \"Do you fail to see people or cars approaching you from the side?\", correlated with mean deviation at r = -0.61 and -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "-0.63",
    "kind": "proportion",
    "keys": [
@@ -760,7 +760,7 @@
   {
    "n": 38,
    "section": "FULL-LENGTH QUESTIONNAIRES",
-   "sentence": "The Activity Inventory is an adaptive interview of 50 goals and hundreds of tasks scored by Rasch analysis [@doi:10.1167/iovs.06-0566].",
+   "sentence": "The Activity Inventory is an adaptive interview of 50 goals, each with its own tasks, scored by Rasch analysis [@doi:10.1167/iovs.06-0566].",
    "number": "50",
    "kind": "count",
    "keys": [
@@ -1056,6 +1056,50 @@
   {
    "n": 52,
    "section": "FULL-LENGTH QUESTIONNAIRES",
+   "sentence": "Where a field measure was taken, mobility scores tracked it better than acuity in two low vision samples [@doi:10.1167/iovs.10-7055; @doi:10.1111/j.1444-0938.2007.00120.x]; in the glaucoma sample, acuity and field correlated with total disability about equally (r = 0.74 and -0.64) [@doi:10.1016/S0161-6420(02)01742-6].",
+   "number": "0.74",
+   "kind": "proportion",
+   "keys": [
+    "doi:10.1167/iovs.10-7055",
+    "doi:10.1111/j.1444-0938.2007.00120.x",
+    "doi:10.1016/s0161-6420(02)01742-6"
+   ],
+   "inherited": false,
+   "source": "Tabrett 2011",
+   "text_status": "FOUND",
+   "evidence": "p10: \"...symptoms in people with vision impairment. Invest Ophthalmol Vis Sci. 2010;51:2891–2896. 74. Bunce C, Wormald R. Leading causes of certification for blindness and partial sight in...\" [terms: vision]",
+   "page": 10,
+   "csv_status": "MATCH",
+   "csv_detail": "effects.estimate = -0.08, -0.27, -0.30, -0.39, -0.44, -0.45, -0.47, -0.56, -0.59, -0.60, -0.61, -0.64, -0.66, -0.662, -0.69, -0.71, -0.75, -0.762, -0.85, 0.31, 0.33, 0.37, 0.38, 0.410, 0.42, 0.44, 0.46, 0.47, 0.49, 0.5, 0.51, 0.53, 0.55, 0.56, 0.57, 0.576, 0.59, 0.61, 0.62, 0.63, 0.64, 0.67, 0.68, 0.7, 0.71, 0.72, 0.73, 0.74 (near 'r =')",
+   "prisma_status": "-",
+   "prisma_detail": "",
+   "verdict": ""
+  },
+  {
+   "n": 53,
+   "section": "FULL-LENGTH QUESTIONNAIRES",
+   "sentence": "Where a field measure was taken, mobility scores tracked it better than acuity in two low vision samples [@doi:10.1167/iovs.10-7055; @doi:10.1111/j.1444-0938.2007.00120.x]; in the glaucoma sample, acuity and field correlated with total disability about equally (r = 0.74 and -0.64) [@doi:10.1016/S0161-6420(02)01742-6].",
+   "number": "-0.64",
+   "kind": "proportion",
+   "keys": [
+    "doi:10.1167/iovs.10-7055",
+    "doi:10.1111/j.1444-0938.2007.00120.x",
+    "doi:10.1016/s0161-6420(02)01742-6"
+   ],
+   "inherited": false,
+   "source": "Tabrett 2011",
+   "text_status": "NOT FOUND",
+   "evidence": "-0.64 not in Tabrett and Latham - 2011 - Factors influencing self-reported vision-related a.txt",
+   "page": null,
+   "csv_status": "MATCH",
+   "csv_detail": "effects.estimate = -0.08, -0.27, -0.30, -0.39, -0.44, -0.45, -0.47, -0.56, -0.59, -0.60, -0.61, -0.64, -0.66, -0.662, -0.69, -0.71, -0.75, -0.762, -0.85, 0.31, 0.33, 0.37, 0.38, 0.410, 0.42, 0.44, 0.46, 0.47, 0.49, 0.5, 0.51, 0.53, 0.55, 0.56, 0.57, 0.576, 0.59, 0.61, 0.62, 0.63, 0.64, 0.67, 0.68, 0.7, 0.71, 0.72, 0.73, 0.74 (near 'r =')",
+   "prisma_status": "-",
+   "prisma_detail": "",
+   "verdict": ""
+  },
+  {
+   "n": 54,
+   "section": "FULL-LENGTH QUESTIONNAIRES",
    "sentence": "These instruments measure outcome, not need, and only the LVQOL, GAL-9 and GQL-15 are short enough for a technician work-up (Table 2).",
    "number": "2",
    "kind": "count",
@@ -1072,7 +1116,7 @@
    "verdict": ""
   },
   {
-   "n": 53,
+   "n": 55,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The Legge group built a 100-item survey of yes-or-no questions about recognizing everyday objects at fixed distances, calibrated each item with item-response theory, and showed that the ability estimated from the whole survey correlated with measured acuity at r = -0.73 in 385 adults recruited across the acuity range at four US sites [@doi:10.1167/tvst.13.9.20].",
    "number": "100",
@@ -1092,7 +1136,7 @@
    "verdict": ""
   },
   {
-   "n": 54,
+   "n": 56,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The Legge group built a 100-item survey of yes-or-no questions about recognizing everyday objects at fixed distances, calibrated each item with item-response theory, and showed that the ability estimated from the whole survey correlated with measured acuity at r = -0.73 in 385 adults recruited across the acuity range at four US sites [@doi:10.1167/tvst.13.9.20].",
    "number": "-0.73",
@@ -1112,7 +1156,7 @@
    "verdict": ""
   },
   {
-   "n": 55,
+   "n": 57,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The Legge group built a 100-item survey of yes-or-no questions about recognizing everyday objects at fixed distances, calibrated each item with item-response theory, and showed that the ability estimated from the whole survey correlated with measured acuity at r = -0.73 in 385 adults recruited across the acuity range at four US sites [@doi:10.1167/tvst.13.9.20].",
    "number": "385",
@@ -1132,7 +1176,7 @@
    "verdict": ""
   },
   {
-   "n": 56,
+   "n": 58,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The Legge group built a 100-item survey of yes-or-no questions about recognizing everyday objects at fixed distances, calibrated each item with item-response theory, and showed that the ability estimated from the whole survey correlated with measured acuity at r = -0.73 in 385 adults recruited across the acuity range at four US sites [@doi:10.1167/tvst.13.9.20].",
    "number": "four",
@@ -1152,7 +1196,7 @@
    "verdict": ""
   },
   {
-   "n": 57,
+   "n": 59,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "In the companion paper, the same 385 participants were used to ask which single items, pairs and triplets best classified low vision, defined as 0.3 logMAR (20/40) or worse, and acuity-defined legal blindness, 1.0 logMAR (20/200) or worse, against binocular habitual-correction acuity [@doi:10.1167/iovs.67.1.28].",
    "number": "385",
@@ -1172,7 +1216,7 @@
    "verdict": ""
   },
   {
-   "n": 58,
+   "n": 60,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "In the companion paper, the same 385 participants were used to ask which single items, pairs and triplets best classified low vision, defined as 0.3 logMAR (20/40) or worse, and acuity-defined legal blindness, 1.0 logMAR (20/200) or worse, against binocular habitual-correction acuity [@doi:10.1167/iovs.67.1.28].",
    "number": "0.3",
@@ -1192,7 +1236,7 @@
    "verdict": ""
   },
   {
-   "n": 59,
+   "n": 61,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "In the companion paper, the same 385 participants were used to ask which single items, pairs and triplets best classified low vision, defined as 0.3 logMAR (20/40) or worse, and acuity-defined legal blindness, 1.0 logMAR (20/200) or worse, against binocular habitual-correction acuity [@doi:10.1167/iovs.67.1.28].",
    "number": "20/40",
@@ -1212,7 +1256,7 @@
    "verdict": ""
   },
   {
-   "n": 60,
+   "n": 62,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "In the companion paper, the same 385 participants were used to ask which single items, pairs and triplets best classified low vision, defined as 0.3 logMAR (20/40) or worse, and acuity-defined legal blindness, 1.0 logMAR (20/200) or worse, against binocular habitual-correction acuity [@doi:10.1167/iovs.67.1.28].",
    "number": "1.0",
@@ -1232,7 +1276,7 @@
    "verdict": ""
   },
   {
-   "n": 61,
+   "n": 63,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "In the companion paper, the same 385 participants were used to ask which single items, pairs and triplets best classified low vision, defined as 0.3 logMAR (20/40) or worse, and acuity-defined legal blindness, 1.0 logMAR (20/200) or worse, against binocular habitual-correction acuity [@doi:10.1167/iovs.67.1.28].",
    "number": "20/200",
@@ -1252,7 +1296,7 @@
    "verdict": ""
   },
   {
-   "n": 62,
+   "n": 64,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The cohort had a mean age of 55.7 years, 57.4% were women, 16.9% had glaucoma, 19.2% had macular degeneration, and 68.6% had acuity worse than 0.3 logMAR [@doi:10.1167/iovs.67.1.28].",
    "number": "55.7",
@@ -1272,7 +1316,7 @@
    "verdict": ""
   },
   {
-   "n": 63,
+   "n": 65,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The cohort had a mean age of 55.7 years, 57.4% were women, 16.9% had glaucoma, 19.2% had macular degeneration, and 68.6% had acuity worse than 0.3 logMAR [@doi:10.1167/iovs.67.1.28].",
    "number": "57.4%",
@@ -1292,7 +1336,7 @@
    "verdict": ""
   },
   {
-   "n": 64,
+   "n": 66,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The cohort had a mean age of 55.7 years, 57.4% were women, 16.9% had glaucoma, 19.2% had macular degeneration, and 68.6% had acuity worse than 0.3 logMAR [@doi:10.1167/iovs.67.1.28].",
    "number": "16.9%",
@@ -1312,7 +1356,7 @@
    "verdict": ""
   },
   {
-   "n": 65,
+   "n": 67,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The cohort had a mean age of 55.7 years, 57.4% were women, 16.9% had glaucoma, 19.2% had macular degeneration, and 68.6% had acuity worse than 0.3 logMAR [@doi:10.1167/iovs.67.1.28].",
    "number": "19.2%",
@@ -1332,7 +1376,7 @@
    "verdict": ""
   },
   {
-   "n": 66,
+   "n": 68,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The cohort had a mean age of 55.7 years, 57.4% were women, 16.9% had glaucoma, 19.2% had macular degeneration, and 68.6% had acuity worse than 0.3 logMAR [@doi:10.1167/iovs.67.1.28].",
    "number": "68.6%",
@@ -1352,7 +1396,7 @@
    "verdict": ""
   },
   {
-   "n": 67,
+   "n": 69,
    "section": "WHERE THE TWO QUESTIONS CAME FROM",
    "sentence": "The cohort had a mean age of 55.7 years, 57.4% were women, 16.9% had glaucoma, 19.2% had macular degeneration, and 68.6% had acuity worse than 0.3 logMAR [@doi:10.1167/iovs.67.1.28].",
    "number": "0.3",
@@ -1372,7 +1416,7 @@
    "verdict": ""
   },
   {
-   "n": 68,
+   "n": 70,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.89",
@@ -1392,7 +1436,7 @@
    "verdict": ""
   },
   {
-   "n": 69,
+   "n": 71,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.81",
@@ -1412,7 +1456,7 @@
    "verdict": ""
   },
   {
-   "n": 70,
+   "n": 72,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.3",
@@ -1432,7 +1476,7 @@
    "verdict": ""
   },
   {
-   "n": 71,
+   "n": 73,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.89",
@@ -1452,7 +1496,7 @@
    "verdict": ""
   },
   {
-   "n": 72,
+   "n": 74,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.71",
@@ -1472,7 +1516,7 @@
    "verdict": ""
   },
   {
-   "n": 73,
+   "n": 75,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "1.0",
@@ -1492,7 +1536,7 @@
    "verdict": ""
   },
   {
-   "n": 74,
+   "n": 76,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "3",
@@ -1512,7 +1556,7 @@
    "verdict": ""
   },
   {
-   "n": 75,
+   "n": 77,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The menu item had sensitivity 0.89 (95% confidence interval [CI], 0.85-0.92) and specificity 0.81 (95% CI, 0.73-0.87) for acuity of 0.3 logMAR or worse; the keyboard item had sensitivity 0.89 (95% CI, 0.80-0.94) and specificity 0.71 (95% CI, 0.66-0.76) for acuity of 1.0 logMAR or worse (Table 3, Figure 2) [@doi:10.1167/iovs.67.1.28].",
    "number": "2",
@@ -1532,7 +1576,7 @@
    "verdict": ""
   },
   {
-   "n": 76,
+   "n": 78,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The paper's area-under-the-curve (AUC) values of 0.85 and 0.80 are the mean of sensitivity and specificity at a single cut point, not areas under a curve, as the authors state; the confidence intervals are ours, from reconstructed 2 x 2 tables [@doi:10.1167/iovs.67.1.28].",
    "number": "0.85",
@@ -1552,7 +1596,7 @@
    "verdict": ""
   },
   {
-   "n": 77,
+   "n": 79,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The paper's area-under-the-curve (AUC) values of 0.85 and 0.80 are the mean of sensitivity and specificity at a single cut point, not areas under a curve, as the authors state; the confidence intervals are ours, from reconstructed 2 x 2 tables [@doi:10.1167/iovs.67.1.28].",
    "number": "0.80",
@@ -1572,47 +1616,47 @@
    "verdict": ""
   },
   {
-   "n": 78,
-   "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "The paper's area-under-the-curve (AUC) values of 0.85 and 0.80 are the mean of sensitivity and specificity at a single cut point, not areas under a curve, as the authors state; the confidence intervals are ours, from reconstructed 2 x 2 tables [@doi:10.1167/iovs.67.1.28].",
-   "number": "2",
-   "kind": "count",
-   "keys": [
-    "doi:10.1167/iovs.67.1.28"
-   ],
-   "inherited": false,
-   "source": "Wu 2026",
-   "text_status": "FOUND",
-   "evidence": "p4: \"...VA (average measured VA = 0.05 logMAR). Low-Vision Screening Single-Item Results. Table 2 summarizes the top 10 items ranked by AUC for detecting participants with a VA worse th...\" [terms: mean, sensitivity, specificity, single, table]",
-   "page": 4,
-   "csv_status": "-",
-   "csv_detail": "no comparable value in extraction CSVs",
-   "prisma_status": "-",
-   "prisma_detail": "no PRISMA stage with this count",
-   "verdict": ""
-  },
-  {
-   "n": 79,
-   "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "The paper's area-under-the-curve (AUC) values of 0.85 and 0.80 are the mean of sensitivity and specificity at a single cut point, not areas under a curve, as the authors state; the confidence intervals are ours, from reconstructed 2 x 2 tables [@doi:10.1167/iovs.67.1.28].",
-   "number": "2",
-   "kind": "count",
-   "keys": [
-    "doi:10.1167/iovs.67.1.28"
-   ],
-   "inherited": false,
-   "source": "Wu 2026",
-   "text_status": "FOUND",
-   "evidence": "p4: \"...VA (average measured VA = 0.05 logMAR). Low-Vision Screening Single-Item Results. Table 2 summarizes the top 10 items ranked by AUC for detecting participants with a VA worse th...\" [terms: mean, sensitivity, specificity, single, table]",
-   "page": 4,
-   "csv_status": "-",
-   "csv_detail": "no comparable value in extraction CSVs",
-   "prisma_status": "-",
-   "prisma_detail": "no PRISMA stage with this count",
-   "verdict": ""
-  },
-  {
    "n": 80,
+   "section": "HOW ACCURATE ARE THEY?",
+   "sentence": "The paper's area-under-the-curve (AUC) values of 0.85 and 0.80 are the mean of sensitivity and specificity at a single cut point, not areas under a curve, as the authors state; the confidence intervals are ours, from reconstructed 2 x 2 tables [@doi:10.1167/iovs.67.1.28].",
+   "number": "2",
+   "kind": "count",
+   "keys": [
+    "doi:10.1167/iovs.67.1.28"
+   ],
+   "inherited": false,
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p4: \"...VA (average measured VA = 0.05 logMAR). Low-Vision Screening Single-Item Results. Table 2 summarizes the top 10 items ranked by AUC for detecting participants with a VA worse th...\" [terms: mean, sensitivity, specificity, single, table]",
+   "page": 4,
+   "csv_status": "-",
+   "csv_detail": "no comparable value in extraction CSVs",
+   "prisma_status": "-",
+   "prisma_detail": "no PRISMA stage with this count",
+   "verdict": ""
+  },
+  {
+   "n": 81,
+   "section": "HOW ACCURATE ARE THEY?",
+   "sentence": "The paper's area-under-the-curve (AUC) values of 0.85 and 0.80 are the mean of sensitivity and specificity at a single cut point, not areas under a curve, as the authors state; the confidence intervals are ours, from reconstructed 2 x 2 tables [@doi:10.1167/iovs.67.1.28].",
+   "number": "2",
+   "kind": "count",
+   "keys": [
+    "doi:10.1167/iovs.67.1.28"
+   ],
+   "inherited": false,
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p4: \"...VA (average measured VA = 0.05 logMAR). Low-Vision Screening Single-Item Results. Table 2 summarizes the top 10 items ranked by AUC for detecting participants with a VA worse th...\" [terms: mean, sensitivity, specificity, single, table]",
+   "page": 4,
+   "csv_status": "-",
+   "csv_detail": "no comparable value in extraction CSVs",
+   "prisma_status": "-",
+   "prisma_detail": "no PRISMA stage with this count",
+   "verdict": ""
+  },
+  {
+   "n": 82,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The best pair for low vision, the menu item plus a newspaper item, reached sensitivity 0.86 and specificity 0.88, and the best pair for legal blindness, the keyboard item plus a street-sign item, reached 0.88 and 0.77; a third item added nothing [@doi:10.1167/iovs.67.1.28].",
    "number": "0.86",
@@ -1632,7 +1676,7 @@
    "verdict": ""
   },
   {
-   "n": 81,
+   "n": 83,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The best pair for low vision, the menu item plus a newspaper item, reached sensitivity 0.86 and specificity 0.88, and the best pair for legal blindness, the keyboard item plus a street-sign item, reached 0.88 and 0.77; a third item added nothing [@doi:10.1167/iovs.67.1.28].",
    "number": "0.88",
@@ -1652,7 +1696,7 @@
    "verdict": ""
   },
   {
-   "n": 82,
+   "n": 84,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The best pair for low vision, the menu item plus a newspaper item, reached sensitivity 0.86 and specificity 0.88, and the best pair for legal blindness, the keyboard item plus a street-sign item, reached 0.88 and 0.77; a third item added nothing [@doi:10.1167/iovs.67.1.28].",
    "number": "0.88",
@@ -1672,7 +1716,7 @@
    "verdict": ""
   },
   {
-   "n": 83,
+   "n": 85,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The best pair for low vision, the menu item plus a newspaper item, reached sensitivity 0.86 and specificity 0.88, and the best pair for legal blindness, the keyboard item plus a street-sign item, reached 0.88 and 0.77; a third item added nothing [@doi:10.1167/iovs.67.1.28].",
    "number": "0.77",
@@ -1692,7 +1736,7 @@
    "verdict": ""
   },
   {
-   "n": 84,
+   "n": 86,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The whole 100-item survey, scored as predicted acuity, was less accurate than its single best item (sensitivity 0.94, specificity 0.66 for low vision) [@doi:10.1167/iovs.67.1.28].",
    "number": "100",
@@ -1712,7 +1756,7 @@
    "verdict": ""
   },
   {
-   "n": 85,
+   "n": 87,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The whole 100-item survey, scored as predicted acuity, was less accurate than its single best item (sensitivity 0.94, specificity 0.66 for low vision) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.94",
@@ -1732,7 +1776,7 @@
    "verdict": ""
   },
   {
-   "n": 86,
+   "n": 88,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "The whole 100-item survey, scored as predicted acuity, was less accurate than its single best item (sensitivity 0.94, specificity 0.66 for low vision) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.66",
@@ -1752,9 +1796,9 @@
    "verdict": ""
   },
   {
-   "n": 87,
+   "n": 89,
    "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "Second, the items were selected by ranking all 100 items by accuracy in the same 385 people that supply the reported accuracy, with no hold-out or external sample; picking the best of 100 noisy estimates inflates the winner by an unknown amount, so every figure here is a derivation-sample estimate that should be expected to fall on replication [@doi:10.1167/iovs.67.1.28; @doi:10.7326/0003-4819-155-8-201110180-00009].",
+   "sentence": "Second, the items were selected by ranking all 100 items by accuracy in the same 385 people that supply the reported accuracy, with no hold-out or external sample; picking the best of 100 noisy estimates inflates the winner, so every figure here is a derivation-sample estimate that should fall on replication [@doi:10.1167/iovs.67.1.28; @doi:10.7326/0003-4819-155-8-201110180-00009].",
    "number": "100",
    "kind": "count",
    "keys": [
@@ -1773,9 +1817,9 @@
    "verdict": ""
   },
   {
-   "n": 88,
+   "n": 90,
    "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "Second, the items were selected by ranking all 100 items by accuracy in the same 385 people that supply the reported accuracy, with no hold-out or external sample; picking the best of 100 noisy estimates inflates the winner by an unknown amount, so every figure here is a derivation-sample estimate that should be expected to fall on replication [@doi:10.1167/iovs.67.1.28; @doi:10.7326/0003-4819-155-8-201110180-00009].",
+   "sentence": "Second, the items were selected by ranking all 100 items by accuracy in the same 385 people that supply the reported accuracy, with no hold-out or external sample; picking the best of 100 noisy estimates inflates the winner, so every figure here is a derivation-sample estimate that should fall on replication [@doi:10.1167/iovs.67.1.28; @doi:10.7326/0003-4819-155-8-201110180-00009].",
    "number": "385",
    "kind": "count",
    "keys": [
@@ -1794,9 +1838,9 @@
    "verdict": ""
   },
   {
-   "n": 89,
+   "n": 91,
    "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "Second, the items were selected by ranking all 100 items by accuracy in the same 385 people that supply the reported accuracy, with no hold-out or external sample; picking the best of 100 noisy estimates inflates the winner by an unknown amount, so every figure here is a derivation-sample estimate that should be expected to fall on replication [@doi:10.1167/iovs.67.1.28; @doi:10.7326/0003-4819-155-8-201110180-00009].",
+   "sentence": "Second, the items were selected by ranking all 100 items by accuracy in the same 385 people that supply the reported accuracy, with no hold-out or external sample; picking the best of 100 noisy estimates inflates the winner, so every figure here is a derivation-sample estimate that should fall on replication [@doi:10.1167/iovs.67.1.28; @doi:10.7326/0003-4819-155-8-201110180-00009].",
    "number": "100",
    "kind": "count",
    "keys": [
@@ -1815,9 +1859,9 @@
    "verdict": ""
   },
   {
-   "n": 90,
+   "n": 92,
    "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "Third, predictive values depend on prevalence: the paper's positive predictive value of 0.93 for low vision comes from a sample in which 68.6% were acuity-impaired and will not transfer to a glaucoma clinic where most patients read 20/40 or better [@doi:10.1167/iovs.67.1.28].",
+   "sentence": "Third, predictive values depend on prevalence: the positive predictive value of 0.93 that the paper reports for one-item low vision screening comes from a sample in which 68.6% were acuity-impaired and will not transfer to a glaucoma clinic where most patients read 20/40 or better [@doi:10.1167/iovs.67.1.28].",
    "number": "0.93",
    "kind": "proportion",
    "keys": [
@@ -1826,7 +1870,7 @@
    "inherited": false,
    "source": "Wu 2026",
    "text_status": "FOUND",
-   "evidence": "p7: \"...items, pairs, and triplets. For low-vision screening, PPV was already high with one item (0.93) and increased only slightly with two (0.96) and three items (0.98), indicating minim...\" [terms: predictive, value, vision, read]",
+   "evidence": "p7: \"...items, pairs, and triplets. For low-vision screening, PPV was already high with one item (0.93) and increased only slightly with two (0.96) and three items (0.98), indicating minim...\" [terms: predictive, value, vision, screen, read]",
    "page": 7,
    "csv_status": "CHECK",
    "csv_detail": "sentence 0.93 equals dta.sens_ci_high = 0.9338, but the nearest term 'positive predictive' suggests dta.ppv = 0.4194, 0.4706, 0.4815, 0.537, 0.5413, 0.8581, 0.8856, 0.9109, 0.9163, 0.938, 0.9447, 0.95, 0.9667",
@@ -1835,9 +1879,9 @@
    "verdict": ""
   },
   {
-   "n": 91,
+   "n": 93,
    "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "Third, predictive values depend on prevalence: the paper's positive predictive value of 0.93 for low vision comes from a sample in which 68.6% were acuity-impaired and will not transfer to a glaucoma clinic where most patients read 20/40 or better [@doi:10.1167/iovs.67.1.28].",
+   "sentence": "Third, predictive values depend on prevalence: the positive predictive value of 0.93 that the paper reports for one-item low vision screening comes from a sample in which 68.6% were acuity-impaired and will not transfer to a glaucoma clinic where most patients read 20/40 or better [@doi:10.1167/iovs.67.1.28].",
    "number": "68.6%",
    "kind": "percent",
    "keys": [
@@ -1855,9 +1899,9 @@
    "verdict": ""
   },
   {
-   "n": 92,
+   "n": 94,
    "section": "HOW ACCURATE ARE THEY?",
-   "sentence": "Third, predictive values depend on prevalence: the paper's positive predictive value of 0.93 for low vision comes from a sample in which 68.6% were acuity-impaired and will not transfer to a glaucoma clinic where most patients read 20/40 or better [@doi:10.1167/iovs.67.1.28].",
+   "sentence": "Third, predictive values depend on prevalence: the positive predictive value of 0.93 that the paper reports for one-item low vision screening comes from a sample in which 68.6% were acuity-impaired and will not transfer to a glaucoma clinic where most patients read 20/40 or better [@doi:10.1167/iovs.67.1.28].",
    "number": "20/40",
    "kind": "snellen",
    "keys": [
@@ -1866,7 +1910,7 @@
    "inherited": false,
    "source": "Wu 2026",
    "text_status": "FOUND",
-   "evidence": "p1: \"...ted States, low vision is defined as a best-corrected visual acuity (BCVA) of 0.3 logMAR (20/40) or worse in the better-seeing eye,1 whereas legal blindness is defined as a BCVA of...\" [terms: vision, clinic, better]",
+   "evidence": "p1: \"...h 100 yes/no questions to identify screening questions for low vision (VA ≤ 0.3 logMAR or 20/40) and legal blindness as defined by the VA criterion (VA ≤ 1 logMAR or 20/200). METHO...\" [terms: positive, vision, screen]",
    "page": 1,
    "csv_status": "-",
    "csv_detail": "",
@@ -1875,7 +1919,7 @@
    "verdict": ""
   },
   {
-   "n": 93,
+   "n": 95,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "On the Quality Assessment of Diagnostic Accuracy Studies 2 (QUADAS-2) tool, the study is at high risk of bias in the index-test domain and unclear in the other three, with high applicability concerns (Figure 4) [@doi:10.7326/0003-4819-155-8-201110180-00009].",
    "number": "2",
@@ -1895,7 +1939,7 @@
    "verdict": ""
   },
   {
-   "n": 94,
+   "n": 96,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "On the Quality Assessment of Diagnostic Accuracy Studies 2 (QUADAS-2) tool, the study is at high risk of bias in the index-test domain and unclear in the other three, with high applicability concerns (Figure 4) [@doi:10.7326/0003-4819-155-8-201110180-00009].",
    "number": "three",
@@ -1915,7 +1959,7 @@
    "verdict": ""
   },
   {
-   "n": 95,
+   "n": 97,
    "section": "HOW ACCURATE ARE THEY?",
    "sentence": "On the Quality Assessment of Diagnostic Accuracy Studies 2 (QUADAS-2) tool, the study is at high risk of bias in the index-test domain and unclear in the other three, with high applicability concerns (Figure 4) [@doi:10.7326/0003-4819-155-8-201110180-00009].",
    "number": "4",
@@ -1935,7 +1979,7 @@
    "verdict": ""
   },
   {
-   "n": 96,
+   "n": 98,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "Few comparators exist, none better founded (Table 3).",
    "number": "3",
@@ -1957,7 +2001,7 @@
    "verdict": ""
   },
   {
-   "n": 97,
+   "n": 99,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "65",
@@ -1977,7 +2021,7 @@
    "verdict": ""
   },
   {
-   "n": 98,
+   "n": 100,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "two",
@@ -1997,7 +2041,7 @@
    "verdict": ""
   },
   {
-   "n": 99,
+   "n": 101,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "12",
@@ -2017,7 +2061,7 @@
    "verdict": ""
   },
   {
-   "n": 100,
+   "n": 102,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "0.83",
@@ -2037,7 +2081,7 @@
    "verdict": ""
   },
   {
-   "n": 101,
+   "n": 103,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "0.83",
@@ -2057,7 +2101,7 @@
    "verdict": ""
   },
   {
-   "n": 102,
+   "n": 104,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "6/12",
@@ -2077,7 +2121,7 @@
    "verdict": ""
   },
   {
-   "n": 103,
+   "n": 105,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "65",
@@ -2097,7 +2141,7 @@
    "verdict": ""
   },
   {
-   "n": 104,
+   "n": 106,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "In a Quebec community sample aged 65 and over, a positive answer to either of two Statistics Canada survey questions, trouble reading ordinary newsprint or trouble seeing a face at 12 feet with usual correction, had sensitivity 0.83 (95% CI, 0.52-0.98) and specificity 0.83 (95% CI, 0.71-0.92) for presenting acuity of 6/12 or worse; but only 65 of 144 eligible people were examined and verification depended on the answers, so the authors warn that the estimates cannot be applied to an unselected population [@doi:10.1097/00006324-200207000-00009].",
    "number": "144",
@@ -2117,7 +2161,7 @@
    "verdict": ""
   },
   {
-   "n": 105,
+   "n": 107,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "seven",
@@ -2137,7 +2181,7 @@
    "verdict": ""
   },
   {
-   "n": 106,
+   "n": 108,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "89",
@@ -2157,7 +2201,7 @@
    "verdict": ""
   },
   {
-   "n": 107,
+   "n": 109,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.88",
@@ -2177,7 +2221,7 @@
    "verdict": ""
   },
   {
-   "n": 108,
+   "n": 110,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.77",
@@ -2197,7 +2241,7 @@
    "verdict": ""
   },
   {
-   "n": 109,
+   "n": 111,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.95",
@@ -2217,7 +2261,7 @@
    "verdict": ""
   },
   {
-   "n": 110,
+   "n": 112,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.48",
@@ -2237,7 +2281,7 @@
    "verdict": ""
   },
   {
-   "n": 111,
+   "n": 113,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.30",
@@ -2257,7 +2301,7 @@
    "verdict": ""
   },
   {
-   "n": 112,
+   "n": 114,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.67",
@@ -2277,7 +2321,7 @@
    "verdict": ""
   },
   {
-   "n": 113,
+   "n": 115,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "three",
@@ -2297,7 +2341,7 @@
    "verdict": ""
   },
   {
-   "n": 114,
+   "n": 116,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.20",
@@ -2317,7 +2361,7 @@
    "verdict": ""
   },
   {
-   "n": 115,
+   "n": 117,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "The seven-item Visual Impairment as a Risk for Falls Questionnaire, developed in 89 older patients from enriched optometry clinics, was sensitive (0.88; 95% CI, 0.77-0.95) but unspecific (0.48; 95% CI, 0.30-0.67) for any charted impairment, and its three field-oriented items reached sensitivities of only 0.20 to 0.50 against a peripheral field defect [@doi:10.1093/ageing/afx202].",
    "number": "0.50",
@@ -2337,7 +2381,7 @@
    "verdict": ""
   },
   {
-   "n": 116,
+   "n": 118,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "A Spanish LVQOL total score at a cut-off of 105 or 106 separated 170 visually impaired patients from 195 healthy volunteers with sensitivity 0.954 and specificity 0.918, an easier task than finding, among clinic patients, those who need help [@doi:10.1016/j.optom.2021.01.004].",
    "number": "105",
@@ -2357,7 +2401,7 @@
    "verdict": ""
   },
   {
-   "n": 117,
+   "n": 119,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "A Spanish LVQOL total score at a cut-off of 105 or 106 separated 170 visually impaired patients from 195 healthy volunteers with sensitivity 0.954 and specificity 0.918, an easier task than finding, among clinic patients, those who need help [@doi:10.1016/j.optom.2021.01.004].",
    "number": "106",
@@ -2377,7 +2421,7 @@
    "verdict": ""
   },
   {
-   "n": 118,
+   "n": 120,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "A Spanish LVQOL total score at a cut-off of 105 or 106 separated 170 visually impaired patients from 195 healthy volunteers with sensitivity 0.954 and specificity 0.918, an easier task than finding, among clinic patients, those who need help [@doi:10.1016/j.optom.2021.01.004].",
    "number": "170",
@@ -2397,7 +2441,7 @@
    "verdict": ""
   },
   {
-   "n": 119,
+   "n": 121,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "A Spanish LVQOL total score at a cut-off of 105 or 106 separated 170 visually impaired patients from 195 healthy volunteers with sensitivity 0.954 and specificity 0.918, an easier task than finding, among clinic patients, those who need help [@doi:10.1016/j.optom.2021.01.004].",
    "number": "195",
@@ -2417,7 +2461,7 @@
    "verdict": ""
   },
   {
-   "n": 120,
+   "n": 122,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "A Spanish LVQOL total score at a cut-off of 105 or 106 separated 170 visually impaired patients from 195 healthy volunteers with sensitivity 0.954 and specificity 0.918, an easier task than finding, among clinic patients, those who need help [@doi:10.1016/j.optom.2021.01.004].",
    "number": "0.954",
@@ -2437,7 +2481,7 @@
    "verdict": ""
   },
   {
-   "n": 121,
+   "n": 123,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "A Spanish LVQOL total score at a cut-off of 105 or 106 separated 170 visually impaired patients from 195 healthy volunteers with sensitivity 0.954 and specificity 0.918, an easier task than finding, among clinic patients, those who need help [@doi:10.1016/j.optom.2021.01.004].",
    "number": "0.918",
@@ -2457,7 +2501,7 @@
    "verdict": ""
   },
   {
-   "n": 122,
+   "n": 124,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "Two relevant papers could not be retrieved in time: a screening tool for reduced habitual vision, defined to include field defects, in hospital rehabilitation inpatients [@doi:10.1097/OPX.0000000000002236], and the concordance between self-reported visual difficulty and measured impairment in the National Health and Aging Trends Study [@doi:10.1016/j.ophtha.2024.06.009].",
    "number": "Two",
@@ -2478,7 +2522,7 @@
    "verdict": ""
   },
   {
-   "n": 123,
+   "n": 125,
    "section": "OTHER BRIEF SCREENERS",
    "sentence": "Across every brief screener we found, specificity was the stable property; sensitivity was high only where the reference was acuity and the sample enriched (Figure 3).",
    "number": "3",
@@ -2499,7 +2543,7 @@
    "verdict": ""
   },
   {
-   "n": 124,
+   "n": 126,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "They were answered inside the 100-item survey, by a mode the paper does not state, and the authors warn that performance \"might differ if administered independently\" [@doi:10.1167/iovs.67.1.28].",
    "number": "100",
@@ -2519,9 +2563,9 @@
    "verdict": ""
   },
   {
-   "n": 125,
+   "n": 127,
    "section": "WILL IT WORK FOR GLAUCOMA?",
-   "sentence": "The strongest evidence is domain-level, from the one glaucoma sample with perimetry: the walking and going-out domains of the Japanese questionnaire, which hold the side-approach item and \"Do you feel uneasy going out at night because of your visual problems?\", correlated with mean deviation at r = -0.61 and r = -0.63 [VERIFY: scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "The strongest evidence is domain-level, from the one glaucoma sample with perimetry: the walking and going-out domains of the Japanese questionnaire, which hold the side-approach item and \"Do you feel uneasy going out at night because of your visual problems?\", correlated with mean deviation at r = -0.61 and r = -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "-0.61",
    "kind": "proportion",
    "keys": [
@@ -2539,9 +2583,9 @@
    "verdict": ""
   },
   {
-   "n": 126,
+   "n": 128,
    "section": "WILL IT WORK FOR GLAUCOMA?",
-   "sentence": "The strongest evidence is domain-level, from the one glaucoma sample with perimetry: the walking and going-out domains of the Japanese questionnaire, which hold the side-approach item and \"Do you feel uneasy going out at night because of your visual problems?\", correlated with mean deviation at r = -0.61 and r = -0.63 [VERIFY: scrambled table] [@doi:10.1016/S0161-6420(02)01742-6].",
+   "sentence": "The strongest evidence is domain-level, from the one glaucoma sample with perimetry: the walking and going-out domains of the Japanese questionnaire, which hold the side-approach item and \"Do you feel uneasy going out at night because of your visual problems?\", correlated with mean deviation at r = -0.61 and r = -0.63 [@doi:10.1016/S0161-6420(02)01742-6].",
    "number": "-0.63",
    "kind": "proportion",
    "keys": [
@@ -2559,7 +2603,7 @@
    "verdict": ""
   },
   {
-   "n": 127,
+   "n": 129,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "The GAL-9 offers English equivalents for side, night and dim-light scenarios, and its total score correlated with contrast sensitivity at rho = -0.62 (95% CI, -0.72 to -0.49), but in 125 maculopathy patients with glaucoma excluded [@doi:10.1016/j.ajo.2025.08.051].",
    "number": "-0.62",
@@ -2579,7 +2623,7 @@
    "verdict": ""
   },
   {
-   "n": 128,
+   "n": 130,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "The GAL-9 offers English equivalents for side, night and dim-light scenarios, and its total score correlated with contrast sensitivity at rho = -0.62 (95% CI, -0.72 to -0.49), but in 125 maculopathy patients with glaucoma excluded [@doi:10.1016/j.ajo.2025.08.051].",
    "number": "125",
@@ -2599,7 +2643,7 @@
    "verdict": ""
   },
   {
-   "n": 129,
+   "n": 131,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "A glare item is the weakest proposal: \"walking in high glare areas\" was the hardest of 35 mobility items in 30 low vision patients, and no included paper tested glare against an item [@doi:10.1111/j.1444-0938.2007.00120.x].",
    "number": "35",
@@ -2619,7 +2663,7 @@
    "verdict": ""
   },
   {
-   "n": 130,
+   "n": 132,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "A glare item is the weakest proposal: \"walking in high glare areas\" was the hardest of 35 mobility items in 30 low vision patients, and no included paper tested glare against an item [@doi:10.1111/j.1444-0938.2007.00120.x].",
    "number": "30",
@@ -2639,7 +2683,7 @@
    "verdict": ""
   },
   {
-   "n": 131,
+   "n": 133,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "A global mobility question, \"Do you have mobility problems because of your vision?\", was answered yes by 18.0%, 31.0% and 71.4% of patients with mild, moderate and severe contrast loss [@doi:10.1016/j.ajo.2025.08.051].",
    "number": "18.0%",
@@ -2659,7 +2703,7 @@
    "verdict": ""
   },
   {
-   "n": 132,
+   "n": 134,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "A global mobility question, \"Do you have mobility problems because of your vision?\", was answered yes by 18.0%, 31.0% and 71.4% of patients with mild, moderate and severe contrast loss [@doi:10.1016/j.ajo.2025.08.051].",
    "number": "31.0%",
@@ -2679,7 +2723,7 @@
    "verdict": ""
   },
   {
-   "n": 133,
+   "n": 135,
    "section": "WILL IT WORK FOR GLAUCOMA?",
    "sentence": "A global mobility question, \"Do you have mobility problems because of your vision?\", was answered yes by 18.0%, 31.0% and 71.4% of patients with mild, moderate and severe contrast loss [@doi:10.1016/j.ajo.2025.08.051].",
    "number": "71.4%",
@@ -2699,7 +2743,7 @@
    "verdict": ""
   },
   {
-   "n": 134,
+   "n": 136,
    "section": "PUTTING IT INTO PRACTICE",
    "sentence": "Everything in the Box except the two single-item accuracies is untested, so a clinic adopting it should treat the first months as a pilot: record the answers, the field and acuity, and the eventual LVR disposition, and compare them.",
    "number": "two",
@@ -2717,7 +2761,7 @@
    "verdict": ""
   },
   {
-   "n": 135,
+   "n": 137,
    "section": "HOW WE SEARCHED",
    "sentence": "We searched PubMed and Scopus on 4 October 2026 (2000 onward, English or French) for adult studies of self-report questionnaires or screening items evaluated against measured vision, a full-length instrument or clinician-judged LVR need; the strings are in the supplement.",
    "number": "2026",
@@ -2739,7 +2783,7 @@
    "verdict": ""
   },
   {
-   "n": 136,
+   "n": 138,
    "section": "HOW WE SEARCHED",
    "sentence": "We searched PubMed and Scopus on 4 October 2026 (2000 onward, English or French) for adult studies of self-report questionnaires or screening items evaluated against measured vision, a full-length instrument or clinician-judged LVR need; the strings are in the supplement.",
    "number": "2000",
@@ -2761,7 +2805,7 @@
    "verdict": ""
   },
   {
-   "n": 137,
+   "n": 139,
    "section": "HOW WE SEARCHED",
    "sentence": "The searches identified 166 records (PubMed, 78; Scopus, 88), and 8 further records came from sources known to the authors.",
    "number": "166",
@@ -2783,7 +2827,7 @@
    "verdict": ""
   },
   {
-   "n": 138,
+   "n": 140,
    "section": "HOW WE SEARCHED",
    "sentence": "The searches identified 166 records (PubMed, 78; Scopus, 88), and 8 further records came from sources known to the authors.",
    "number": "78",
@@ -2805,7 +2849,7 @@
    "verdict": ""
   },
   {
-   "n": 139,
+   "n": 141,
    "section": "HOW WE SEARCHED",
    "sentence": "The searches identified 166 records (PubMed, 78; Scopus, 88), and 8 further records came from sources known to the authors.",
    "number": "88",
@@ -2827,7 +2871,7 @@
    "verdict": ""
   },
   {
-   "n": 140,
+   "n": 142,
    "section": "HOW WE SEARCHED",
    "sentence": "The searches identified 166 records (PubMed, 78; Scopus, 88), and 8 further records came from sources known to the authors.",
    "number": "8",
@@ -2849,7 +2893,7 @@
    "verdict": ""
   },
   {
-   "n": 141,
+   "n": 143,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "39",
@@ -2871,7 +2915,7 @@
    "verdict": ""
   },
   {
-   "n": 142,
+   "n": 144,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "135",
@@ -2893,7 +2937,7 @@
    "verdict": ""
   },
   {
-   "n": 143,
+   "n": 145,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "81",
@@ -2915,7 +2959,7 @@
    "verdict": ""
   },
   {
-   "n": 144,
+   "n": 146,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "54",
@@ -2937,7 +2981,7 @@
    "verdict": ""
   },
   {
-   "n": 145,
+   "n": 147,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "6",
@@ -2959,7 +3003,7 @@
    "verdict": ""
   },
   {
-   "n": 146,
+   "n": 148,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "48",
@@ -2981,7 +3025,7 @@
    "verdict": ""
   },
   {
-   "n": 147,
+   "n": 149,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "17",
@@ -3003,7 +3047,7 @@
    "verdict": ""
   },
   {
-   "n": 148,
+   "n": 150,
    "section": "HOW WE SEARCHED",
    "sentence": "After 39 duplicates were removed, 135 records were screened and 81 excluded; 54 reports were sought, 6 could not be retrieved, 48 were assessed and 17 excluded, leaving 31 included reports (Figure 1), plus the survey development paper, which shares its cohort with the screening paper and counts with it as one dataset.",
    "number": "31",
@@ -3025,7 +3069,7 @@
    "verdict": ""
   },
   {
-   "n": 149,
+   "n": 151,
    "section": "HOW WE SEARCHED",
    "sentence": "One reviewer screened; a second will check a 20% sample.",
    "number": "20%",
@@ -3047,7 +3091,7 @@
    "verdict": ""
   },
   {
-   "n": 150,
+   "n": 152,
    "section": "HOW WE SEARCHED",
    "sentence": "**Use of artificial intelligence.** We used Anthropic large language models (Claude Fable 5.1, `claude-fable-5-1`, and Claude Sonnet 5.5, `claude-sonnet-5-5`; October 2026) to test the search strings, produce advisory screening suggestions recorded separately from the reviewer's decisions, convert PDFs to text, produce first-pass data extraction and draft QUADAS-2 and COSMIN assessments, write and run the analysis scripts, and draft this text.",
    "number": "5.1",
@@ -3065,7 +3109,7 @@
    "verdict": ""
   },
   {
-   "n": 151,
+   "n": 153,
    "section": "HOW WE SEARCHED",
    "sentence": "**Use of artificial intelligence.** We used Anthropic large language models (Claude Fable 5.1, `claude-fable-5-1`, and Claude Sonnet 5.5, `claude-sonnet-5-5`; October 2026) to test the search strings, produce advisory screening suggestions recorded separately from the reviewer's decisions, convert PDFs to text, produce first-pass data extraction and draft QUADAS-2 and COSMIN assessments, write and run the analysis scripts, and draft this text.",
    "number": "5.5",
@@ -3083,7 +3127,7 @@
    "verdict": ""
   },
   {
-   "n": 152,
+   "n": 154,
    "section": "HOW WE SEARCHED",
    "sentence": "**Use of artificial intelligence.** We used Anthropic large language models (Claude Fable 5.1, `claude-fable-5-1`, and Claude Sonnet 5.5, `claude-sonnet-5-5`; October 2026) to test the search strings, produce advisory screening suggestions recorded separately from the reviewer's decisions, convert PDFs to text, produce first-pass data extraction and draft QUADAS-2 and COSMIN assessments, write and run the analysis scripts, and draft this text.",
    "number": "5",
@@ -3101,7 +3145,7 @@
    "verdict": ""
   },
   {
-   "n": 153,
+   "n": 155,
    "section": "HOW WE SEARCHED",
    "sentence": "The reviewer's decision differed from the model's first-pass suggestion in 15 of 40 records screened so far (37.5%) [UPDATE when all 135 are decided].",
    "number": "15",
@@ -3119,7 +3163,7 @@
    "verdict": ""
   },
   {
-   "n": 154,
+   "n": 156,
    "section": "HOW WE SEARCHED",
    "sentence": "The reviewer's decision differed from the model's first-pass suggestion in 15 of 40 records screened so far (37.5%) [UPDATE when all 135 are decided].",
    "number": "40",
@@ -3137,7 +3181,7 @@
    "verdict": ""
   },
   {
-   "n": 155,
+   "n": 157,
    "section": "HOW WE SEARCHED",
    "sentence": "The reviewer's decision differed from the model's first-pass suggestion in 15 of 40 records screened so far (37.5%) [UPDATE when all 135 are decided].",
    "number": "37.5%",
@@ -3155,7 +3199,7 @@
    "verdict": ""
   },
   {
-   "n": 156,
+   "n": 158,
    "section": "HOW WE SEARCHED",
    "sentence": "The reviewer's decision differed from the model's first-pass suggestion in 15 of 40 records screened so far (37.5%) [UPDATE when all 135 are decided].",
    "number": "135",
@@ -3173,7 +3217,7 @@
    "verdict": ""
   },
   {
-   "n": 157,
+   "n": 159,
    "section": "FUTURE DIRECTIONS",
    "sentence": "The study the field needs is straightforward: give the two acuity items and a short set of field, night and glare items to consecutive glaucoma clinic patients, independently of any longer survey, and compare the answers with the same visit's acuity, the better-eye mean deviation or an Esterman binocular field, contrast sensitivity, and a masked LVR clinician's judgement of need.",
    "number": "two",
@@ -3191,7 +3235,7 @@
    "verdict": ""
   },
   {
-   "n": 158,
+   "n": 160,
    "section": "CONCLUSION",
    "sentence": "A glaucoma clinic can screen for LVR need during the technician work-up with two yes-or-no questions that have derivation-sample sensitivity near 0.9 for acuity loss [@doi:10.1167/iovs.67.1.28], provided it also asks about the side, the night and the glare, and reads the last field.",
    "number": "0.9",
@@ -3211,7 +3255,7 @@
    "verdict": ""
   },
   {
-   "n": 159,
+   "n": 161,
    "section": "CONCLUSION",
    "sentence": "**Figure 1.** PRISMA 2020 flow of records through the review (provisional: 95 of the 135 title/abstract decisions and all full-text decisions are AI suggestions pending the reviewer's; records from other sources were screened in the same pipeline as database records).",
    "number": "95",
@@ -3229,7 +3273,7 @@
    "verdict": ""
   },
   {
-   "n": 160,
+   "n": 162,
    "section": "CONCLUSION",
    "sentence": "**Figure 1.** PRISMA 2020 flow of records through the review (provisional: 95 of the 135 title/abstract decisions and all full-text decisions are AI suggestions pending the reviewer's; records from other sources were screened in the same pipeline as database records).",
    "number": "135",
@@ -3247,7 +3291,7 @@
    "verdict": ""
   },
   {
-   "n": 161,
+   "n": 163,
    "section": "CONCLUSION",
    "sentence": "**Figure 2.** Sensitivity and specificity of each self-report item or questionnaire threshold, per study, with 95% Wilson confidence intervals and no pooled estimate; rows sharing a dataset come from the same participants and count once.",
    "number": "2",
@@ -3265,7 +3309,7 @@
    "verdict": ""
   },
   {
-   "n": 162,
+   "n": 164,
    "section": "CONCLUSION",
    "sentence": "**Figure 2.** Sensitivity and specificity of each self-report item or questionnaire threshold, per study, with 95% Wilson confidence intervals and no pooled estimate; rows sharing a dataset come from the same participants and count once.",
    "number": "95%",
@@ -3283,7 +3327,7 @@
    "verdict": ""
   },
   {
-   "n": 163,
+   "n": 165,
    "section": "CONCLUSION",
    "sentence": "**Figure 3.** Evidence map of index test by reference standard, showing the number of independent datasets and participants in each cell and the empty column for clinician-judged rehabilitation need.",
    "number": "3",
@@ -3301,7 +3345,7 @@
    "verdict": ""
   },
   {
-   "n": 164,
+   "n": 166,
    "section": "CONCLUSION",
    "sentence": "**Figure 4.** QUADAS-2 risk-of-bias and applicability judgements for the five accuracy studies; the two Legge-group rows describe one cohort.",
    "number": "4",
@@ -3319,7 +3363,7 @@
    "verdict": ""
   },
   {
-   "n": 165,
+   "n": 167,
    "section": "CONCLUSION",
    "sentence": "**Figure 4.** QUADAS-2 risk-of-bias and applicability judgements for the five accuracy studies; the two Legge-group rows describe one cohort.",
    "number": "five",
@@ -3337,7 +3381,7 @@
    "verdict": ""
   },
   {
-   "n": 166,
+   "n": 168,
    "section": "CONCLUSION",
    "sentence": "**Figure 4.** QUADAS-2 risk-of-bias and applicability judgements for the five accuracy studies; the two Legge-group rows describe one cohort.",
    "number": "two",
@@ -3355,7 +3399,7 @@
    "verdict": ""
   },
   {
-   "n": 167,
+   "n": 169,
    "section": "CONCLUSION",
    "sentence": "Abbreviation: QUADAS-2 = Quality Assessment of Diagnostic Accuracy Studies 2.",
    "number": "2",
@@ -3373,7 +3417,7 @@
    "verdict": ""
   },
   {
-   "n": 168,
+   "n": 170,
    "section": "CONCLUSION",
    "sentence": "Instrument: NEI VFQ-25 [@doi:10.1001/archopht.119.7.1050; @pmid:12202503] | Items: 25 (+ 14-item appendix) | Minutes: about 10 (unverified) | Mode: interviewer or self | Field or contrast content: partial: one peripheral-vision item, night-driving items; no contrast item | Measurement-property evidence in this review (COSMIN): structural validity and responsiveness indeterminate (k = 1 each)",
    "number": "25",
@@ -3394,7 +3438,7 @@
    "verdict": ""
   },
   {
-   "n": 169,
+   "n": 171,
    "section": "CONCLUSION",
    "sentence": "Instrument: NEI VFQ-25 [@doi:10.1001/archopht.119.7.1050; @pmid:12202503] | Items: 25 (+ 14-item appendix) | Minutes: about 10 (unverified) | Mode: interviewer or self | Field or contrast content: partial: one peripheral-vision item, night-driving items; no contrast item | Measurement-property evidence in this review (COSMIN): structural validity and responsiveness indeterminate (k = 1 each)",
    "number": "14",
@@ -3415,7 +3459,7 @@
    "verdict": ""
   },
   {
-   "n": 170,
+   "n": 172,
    "section": "CONCLUSION",
    "sentence": "Instrument: NEI VFQ-25 [@doi:10.1001/archopht.119.7.1050; @pmid:12202503] | Items: 25 (+ 14-item appendix) | Minutes: about 10 (unverified) | Mode: interviewer or self | Field or contrast content: partial: one peripheral-vision item, night-driving items; no contrast item | Measurement-property evidence in this review (COSMIN): structural validity and responsiveness indeterminate (k = 1 each)",
    "number": "10",
@@ -3436,7 +3480,7 @@
    "verdict": ""
   },
   {
-   "n": 171,
+   "n": 173,
    "section": "CONCLUSION",
    "sentence": "Instrument: VA LV VFQ-48 [@doi:10.1167/iovs.05-1319] | Items: 48 | Minutes: 25-35 | Mode: telephone, trained interviewer | Field or contrast content: partial: navigation and peripheral-detection items; no contrast item | Measurement-property evidence in this review (COSMIN): responsiveness sufficient (low certainty); reliability indeterminate",
    "number": "48",
@@ -3456,7 +3500,7 @@
    "verdict": ""
   },
   {
-   "n": 172,
+   "n": 174,
    "section": "CONCLUSION",
    "sentence": "Instrument: VA LV VFQ-48 [@doi:10.1167/iovs.05-1319] | Items: 48 | Minutes: 25-35 | Mode: telephone, trained interviewer | Field or contrast content: partial: navigation and peripheral-detection items; no contrast item | Measurement-property evidence in this review (COSMIN): responsiveness sufficient (low certainty); reliability indeterminate",
    "number": "25",
@@ -3476,7 +3520,7 @@
    "verdict": ""
   },
   {
-   "n": 173,
+   "n": 175,
    "section": "CONCLUSION",
    "sentence": "Instrument: VA LV VFQ-48 [@doi:10.1167/iovs.05-1319] | Items: 48 | Minutes: 25-35 | Mode: telephone, trained interviewer | Field or contrast content: partial: navigation and peripheral-detection items; no contrast item | Measurement-property evidence in this review (COSMIN): responsiveness sufficient (low certainty); reliability indeterminate",
    "number": "35",
@@ -3496,9 +3540,9 @@
    "verdict": ""
   },
   {
-   "n": 174,
+   "n": 176,
    "section": "CONCLUSION",
-   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + up to 459 tasks | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
+   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + their tasks (count unverified) | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
    "number": "50",
    "kind": "count",
    "keys": [
@@ -3517,30 +3561,9 @@
    "verdict": ""
   },
   {
-   "n": 175,
+   "n": 177,
    "section": "CONCLUSION",
-   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + up to 459 tasks | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
-   "number": "459",
-   "kind": "count",
-   "keys": [
-    "doi:10.1167/iovs.06-0566",
-    "doi:10.1167/iovs.10-7055"
-   ],
-   "inherited": false,
-   "source": "Massof 2007",
-   "text_status": "NOT FOUND",
-   "evidence": "459 not in Massof et al. - 2007 - Self-reported importance and difficulty of driving.txt",
-   "page": null,
-   "csv_status": "MISMATCH",
-   "csv_detail": "sentence 459 vs studies.n_items = 21, 235 (near 'Items')",
-   "prisma_status": "-",
-   "prisma_detail": "",
-   "verdict": ""
-  },
-  {
-   "n": 176,
-   "section": "CONCLUSION",
-   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + up to 459 tasks | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
+   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + their tasks (count unverified) | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
    "number": "20",
    "kind": "count",
    "keys": [
@@ -3559,9 +3582,9 @@
    "verdict": ""
   },
   {
-   "n": 177,
+   "n": 178,
    "section": "CONCLUSION",
-   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + up to 459 tasks | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
+   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + their tasks (count unverified) | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
    "number": "30",
    "kind": "count",
    "keys": [
@@ -3580,9 +3603,9 @@
    "verdict": ""
   },
   {
-   "n": 178,
+   "n": 179,
    "section": "CONCLUSION",
-   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + up to 459 tasks | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
+   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566; @doi:10.1167/iovs.10-7055] | Items: 50 goals + their tasks (count unverified) | Minutes: 20-30 (unverified) | Mode: adaptive interview | Field or contrast content: partial: mobility goals; mobility measure vs outer field rho = 0.61 | Measurement-property evidence in this review (COSMIN): hypotheses testing sufficient (very low certainty)",
    "number": "0.61",
    "kind": "proportion",
    "keys": [
@@ -3601,7 +3624,7 @@
    "verdict": ""
   },
   {
-   "n": 179,
+   "n": 180,
    "section": "CONCLUSION",
    "sentence": "Instrument: IVI [@doi:10.1097/OPX.0000000000001327] | Items: 28 | Minutes: 10-15 (unverified) | Mode: self (mailed), telephone | Field or contrast content: partial: mobility subscale; built for central loss | Measurement-property evidence in this review (COSMIN): responsiveness sufficient (low); structural validity insufficient (low)",
    "number": "28",
@@ -3621,7 +3644,7 @@
    "verdict": ""
   },
   {
-   "n": 180,
+   "n": 181,
    "section": "CONCLUSION",
    "sentence": "Instrument: IVI [@doi:10.1097/OPX.0000000000001327] | Items: 28 | Minutes: 10-15 (unverified) | Mode: self (mailed), telephone | Field or contrast content: partial: mobility subscale; built for central loss | Measurement-property evidence in this review (COSMIN): responsiveness sufficient (low); structural validity insufficient (low)",
    "number": "10",
@@ -3641,7 +3664,7 @@
    "verdict": ""
   },
   {
-   "n": 181,
+   "n": 182,
    "section": "CONCLUSION",
    "sentence": "Instrument: IVI [@doi:10.1097/OPX.0000000000001327] | Items: 28 | Minutes: 10-15 (unverified) | Mode: self (mailed), telephone | Field or contrast content: partial: mobility subscale; built for central loss | Measurement-property evidence in this review (COSMIN): responsiveness sufficient (low); structural validity insufficient (low)",
    "number": "15",
@@ -3661,7 +3684,7 @@
    "verdict": ""
   },
   {
-   "n": 182,
+   "n": 183,
    "section": "CONCLUSION",
    "sentence": "Instrument: LVQOL [@doi:10.1016/S0002-9394(00)00610-3; @doi:10.1016/j.optom.2021.01.004] | Items: 25 | Minutes: 5-10 | Mode: self or interviewer | Field or contrast content: partial: one lighting item; no field item | Measurement-property evidence in this review (COSMIN): reliability, responsiveness and hypotheses sufficient (low)",
    "number": "25",
@@ -3682,7 +3705,7 @@
    "verdict": ""
   },
   {
-   "n": 183,
+   "n": 184,
    "section": "CONCLUSION",
    "sentence": "Instrument: LVQOL [@doi:10.1016/S0002-9394(00)00610-3; @doi:10.1016/j.optom.2021.01.004] | Items: 25 | Minutes: 5-10 | Mode: self or interviewer | Field or contrast content: partial: one lighting item; no field item | Measurement-property evidence in this review (COSMIN): reliability, responsiveness and hypotheses sufficient (low)",
    "number": "5",
@@ -3703,7 +3726,7 @@
    "verdict": ""
   },
   {
-   "n": 184,
+   "n": 185,
    "section": "CONCLUSION",
    "sentence": "Instrument: LVQOL [@doi:10.1016/S0002-9394(00)00610-3; @doi:10.1016/j.optom.2021.01.004] | Items: 25 | Minutes: 5-10 | Mode: self or interviewer | Field or contrast content: partial: one lighting item; no field item | Measurement-property evidence in this review (COSMIN): reliability, responsiveness and hypotheses sufficient (low)",
    "number": "10",
@@ -3724,7 +3747,7 @@
    "verdict": ""
   },
   {
-   "n": 185,
+   "n": 186,
    "section": "CONCLUSION",
    "sentence": "Instrument: GQL-15 [@doi:10.1097/00061198-200304000-00009] | Items: 15 | Minutes: about 5 (unverified) | Mode: self or interviewer | Field or contrast content: yes: peripheral-vision and dark-adaptation-and-glare factors | Measurement-property evidence in this review (COSMIN): no included study",
    "number": "15",
@@ -3744,7 +3767,7 @@
    "verdict": ""
   },
   {
-   "n": 186,
+   "n": 187,
    "section": "CONCLUSION",
    "sentence": "Instrument: GQL-15 [@doi:10.1097/00061198-200304000-00009] | Items: 15 | Minutes: about 5 (unverified) | Mode: self or interviewer | Field or contrast content: yes: peripheral-vision and dark-adaptation-and-glare factors | Measurement-property evidence in this review (COSMIN): no included study",
    "number": "5",
@@ -3764,7 +3787,7 @@
    "verdict": ""
   },
   {
-   "n": 187,
+   "n": 188,
    "section": "CONCLUSION",
    "sentence": "Instrument: GAL-9 [@doi:10.1016/j.ajo.2025.08.051] | Items: 9 | Minutes: about 3 (unverified) | Mode: self or interviewer | Field or contrast content: yes: night, dim light, light-dark transitions, uneven ground, objects from the side | Measurement-property evidence in this review (COSMIN): one hypothesis confirmed in maculopathy; not rated",
    "number": "9",
@@ -3784,7 +3807,7 @@
    "verdict": ""
   },
   {
-   "n": 188,
+   "n": 189,
    "section": "CONCLUSION",
    "sentence": "Instrument: GAL-9 [@doi:10.1016/j.ajo.2025.08.051] | Items: 9 | Minutes: about 3 (unverified) | Mode: self or interviewer | Field or contrast content: yes: night, dim light, light-dark transitions, uneven ground, objects from the side | Measurement-property evidence in this review (COSMIN): one hypothesis confirmed in maculopathy; not rated",
    "number": "3",
@@ -3804,7 +3827,7 @@
    "verdict": ""
   },
   {
-   "n": 189,
+   "n": 190,
    "section": "CONCLUSION",
    "sentence": "Instrument: APEDS-VFQ [@doi:10.3109/09286586.2012.712192] | Items: 16 | Minutes: NR | Mode: interviewer | Field or contrast content: yes: items grouped under contrast, illumination and peripheral vision | Measurement-property evidence in this review (COSMIN): structural validity insufficient (low); VA hypothesis not met",
    "number": "16",
@@ -3824,7 +3847,7 @@
    "verdict": ""
   },
   {
-   "n": 190,
+   "n": 191,
    "section": "CONCLUSION",
    "sentence": "Instrument: EQ-5D vision bolt-on [@doi:10.1016/j.vhri.2025.101498] | Items: 5 + 1 | Minutes: 0.3-0.4 | Mode: self | Field or contrast content: none: one global vision item | Measurement-property evidence in this review (COSMIN): test-retest reliability insufficient (very low)",
    "number": "5",
@@ -3844,7 +3867,7 @@
    "verdict": ""
   },
   {
-   "n": 191,
+   "n": 192,
    "section": "CONCLUSION",
    "sentence": "Instrument: EQ-5D vision bolt-on [@doi:10.1016/j.vhri.2025.101498] | Items: 5 + 1 | Minutes: 0.3-0.4 | Mode: self | Field or contrast content: none: one global vision item | Measurement-property evidence in this review (COSMIN): test-retest reliability insufficient (very low)",
    "number": "0.3",
@@ -3864,7 +3887,7 @@
    "verdict": ""
   },
   {
-   "n": 192,
+   "n": 193,
    "section": "CONCLUSION",
    "sentence": "Instrument: EQ-5D vision bolt-on [@doi:10.1016/j.vhri.2025.101498] | Items: 5 + 1 | Minutes: 0.3-0.4 | Mode: self | Field or contrast content: none: one global vision item | Measurement-property evidence in this review (COSMIN): test-retest reliability insufficient (very low)",
    "number": "0.4",
@@ -3884,7 +3907,7 @@
    "verdict": ""
   },
   {
-   "n": 193,
+   "n": 194,
    "section": "CONCLUSION",
    "sentence": "Instrument: Two-item acuity screen [@doi:10.1167/iovs.67.1.28] | Items: 2 | Minutes: < 1 (derived) | Mode: technician asks | Field or contrast content: none: acuity only by design | Measurement-property evidence in this review (COSMIN): accuracy only (Table 3)",
    "number": "2",
@@ -3904,7 +3927,7 @@
    "verdict": ""
   },
   {
-   "n": 194,
+   "n": 195,
    "section": "CONCLUSION",
    "sentence": "Instrument: Two-item acuity screen [@doi:10.1167/iovs.67.1.28] | Items: 2 | Minutes: < 1 (derived) | Mode: technician asks | Field or contrast content: none: acuity only by design | Measurement-property evidence in this review (COSMIN): accuracy only (Table 3)",
    "number": "3",
@@ -3924,7 +3947,7 @@
    "verdict": ""
   },
   {
-   "n": 195,
+   "n": 196,
    "section": "CONCLUSION",
    "sentence": "Instrument: Statistics Canada HALS questions [@doi:10.1097/00006324-200207000-00009] | Items: 2 | Minutes: < 1 (derived) | Mode: interviewer | Field or contrast content: none: reading and face-recognition items | Measurement-property evidence in this review (COSMIN): accuracy only (Table 3)",
    "number": "2",
@@ -3944,7 +3967,7 @@
    "verdict": ""
   },
   {
-   "n": 196,
+   "n": 197,
    "section": "CONCLUSION",
    "sentence": "Instrument: Statistics Canada HALS questions [@doi:10.1097/00006324-200207000-00009] | Items: 2 | Minutes: < 1 (derived) | Mode: interviewer | Field or contrast content: none: reading and face-recognition items | Measurement-property evidence in this review (COSMIN): accuracy only (Table 3)",
    "number": "3",
@@ -3964,7 +3987,7 @@
    "verdict": ""
   },
   {
-   "n": 197,
+   "n": 198,
    "section": "CONCLUSION",
    "sentence": "**Table 2.** Feasibility of each instrument for a technician work-up.",
    "number": "2",
@@ -3982,7 +4005,7 @@
    "verdict": ""
   },
   {
-   "n": 198,
+   "n": 199,
    "section": "CONCLUSION",
    "sentence": "Instrument: Two-item acuity screen [@doi:10.1167/iovs.67.1.28] | Scoring: none (\"No\" = positive) | Equipment: none | Licence: free (items printed in the paper) | Technician-ready?: yes, with caveats: no training or scoring, but derivation-sample accuracy only, the two items were never tested as a pair, and no field or contrast item",
    "number": "Two",
@@ -4002,7 +4025,7 @@
    "verdict": ""
   },
   {
-   "n": 199,
+   "n": 200,
    "section": "CONCLUSION",
    "sentence": "Instrument: Two-item acuity screen [@doi:10.1167/iovs.67.1.28] | Scoring: none (\"No\" = positive) | Equipment: none | Licence: free (items printed in the paper) | Technician-ready?: yes, with caveats: no training or scoring, but derivation-sample accuracy only, the two items were never tested as a pair, and no field or contrast item",
    "number": "two",
@@ -4022,7 +4045,7 @@
    "verdict": ""
   },
   {
-   "n": 200,
+   "n": 201,
    "section": "CONCLUSION",
    "sentence": "Instrument: HALS questions [@doi:10.1097/00006324-200207000-00009] | Scoring: none | Equipment: none | Licence: free (public survey items) | Technician-ready?: yes in form; accuracy from one verified subsample of 65 that the authors say cannot be generalized",
    "number": "65",
@@ -4042,7 +4065,7 @@
    "verdict": ""
   },
   {
-   "n": 201,
+   "n": 202,
    "section": "CONCLUSION",
    "sentence": "Instrument: GAL-9 [@doi:10.1016/j.ajo.2025.08.051] | Scoring: sum of 9 items | Equipment: paper form | Licence: free | Technician-ready?: yes in form; no accuracy data, and the only included study excluded glaucoma",
    "number": "9",
@@ -4062,7 +4085,7 @@
    "verdict": ""
   },
   {
-   "n": 202,
+   "n": 203,
    "section": "CONCLUSION",
    "sentence": "Instrument: GQL-15 [@doi:10.1097/00061198-200304000-00009] | Scoring: sum of 15 items | Equipment: paper form | Licence: free | Technician-ready?: yes in form; no included study reports its accuracy",
    "number": "15",
@@ -4082,7 +4105,7 @@
    "verdict": ""
   },
   {
-   "n": 203,
+   "n": 204,
    "section": "CONCLUSION",
    "sentence": "Instrument: LVQOL [@doi:10.1016/S0002-9394(00)00610-3] | Scoring: sum of 25 items | Equipment: paper form, large print | Licence: free | Technician-ready?: yes: 5 to 10 minutes, no training; but an outcome measure, with a cut-off tested only against healthy volunteers",
    "number": "25",
@@ -4102,7 +4125,7 @@
    "verdict": ""
   },
   {
-   "n": 204,
+   "n": 205,
    "section": "CONCLUSION",
    "sentence": "Instrument: LVQOL [@doi:10.1016/S0002-9394(00)00610-3] | Scoring: sum of 25 items | Equipment: paper form, large print | Licence: free | Technician-ready?: yes: 5 to 10 minutes, no training; but an outcome measure, with a cut-off tested only against healthy volunteers",
    "number": "5",
@@ -4122,7 +4145,7 @@
    "verdict": ""
   },
   {
-   "n": 205,
+   "n": 206,
    "section": "CONCLUSION",
    "sentence": "Instrument: LVQOL [@doi:10.1016/S0002-9394(00)00610-3] | Scoring: sum of 25 items | Equipment: paper form, large print | Licence: free | Technician-ready?: yes: 5 to 10 minutes, no training; but an outcome measure, with a cut-off tested only against healthy volunteers",
    "number": "10",
@@ -4142,7 +4165,7 @@
    "verdict": ""
   },
   {
-   "n": 206,
+   "n": 207,
    "section": "CONCLUSION",
    "sentence": "Instrument: NEI VFQ-25 [@pmid:12202503] | Scoring: 12 subscales by hand | Equipment: paper form or script | Licence: free | Technician-ready?: partly: about 10 minutes and 12 subscales make it an outcome measure",
    "number": "12",
@@ -4162,7 +4185,7 @@
    "verdict": ""
   },
   {
-   "n": 207,
+   "n": 208,
    "section": "CONCLUSION",
    "sentence": "Instrument: NEI VFQ-25 [@pmid:12202503] | Scoring: 12 subscales by hand | Equipment: paper form or script | Licence: free | Technician-ready?: partly: about 10 minutes and 12 subscales make it an outcome measure",
    "number": "10",
@@ -4182,7 +4205,7 @@
    "verdict": ""
   },
   {
-   "n": 208,
+   "n": 209,
    "section": "CONCLUSION",
    "sentence": "Instrument: NEI VFQ-25 [@pmid:12202503] | Scoring: 12 subscales by hand | Equipment: paper form or script | Licence: free | Technician-ready?: partly: about 10 minutes and 12 subscales make it an outcome measure",
    "number": "12",
@@ -4202,7 +4225,7 @@
    "verdict": ""
   },
   {
-   "n": 209,
+   "n": 210,
    "section": "CONCLUSION",
    "sentence": "Instrument: IVI [@doi:10.1097/OPX.0000000000001327] | Scoring: Rasch conversion table | Equipment: paper form | Licence: permission required | Technician-ready?: partly: self-completed but 10 to 15 minutes and \"generally lengthy\"",
    "number": "10",
@@ -4222,7 +4245,7 @@
    "verdict": ""
   },
   {
-   "n": 210,
+   "n": 211,
    "section": "CONCLUSION",
    "sentence": "Instrument: IVI [@doi:10.1097/OPX.0000000000001327] | Scoring: Rasch conversion table | Equipment: paper form | Licence: permission required | Technician-ready?: partly: self-completed but 10 to 15 minutes and \"generally lengthy\"",
    "number": "15",
@@ -4242,7 +4265,7 @@
    "verdict": ""
   },
   {
-   "n": 211,
+   "n": 212,
    "section": "CONCLUSION",
    "sentence": "Instrument: VA LV VFQ-48 [@doi:10.1167/iovs.05-1319] | Scoring: Rasch table, trained interviewers | Equipment: telephone script | Licence: free | Technician-ready?: no: 25 to 35 minutes",
    "number": "25",
@@ -4262,7 +4285,7 @@
    "verdict": ""
   },
   {
-   "n": 212,
+   "n": 213,
    "section": "CONCLUSION",
    "sentence": "Instrument: VA LV VFQ-48 [@doi:10.1167/iovs.05-1319] | Scoring: Rasch table, trained interviewers | Equipment: telephone script | Licence: free | Technician-ready?: no: 25 to 35 minutes",
    "number": "35",
@@ -4275,26 +4298,6 @@
    "text_status": "FOUND",
    "evidence": "p5: \"...scoring. Administration time for the VA LV VFQ-48 (all four questions) varied from 25 to 35 minutes. Analysis Rasch analysis21,22 with the Andrich Rating Scale Model was run sepa...\" [terms: instrument, scor, rasch, train, interviewer, minute]",
    "page": 5,
-   "csv_status": "-",
-   "csv_detail": "no comparable value in extraction CSVs",
-   "prisma_status": "-",
-   "prisma_detail": "",
-   "verdict": ""
-  },
-  {
-   "n": 213,
-   "section": "CONCLUSION",
-   "sentence": "Instrument: Activity Inventory [@doi:10.1167/iovs.06-0566] | Scoring: Rasch, author software | Equipment: interview, software | Licence: free for academic use | Technician-ready?: no: adaptive interview of 20 minutes or more; the right tool after referral",
-   "number": "20",
-   "kind": "count",
-   "keys": [
-    "doi:10.1167/iovs.06-0566"
-   ],
-   "inherited": false,
-   "source": "Massof 2007",
-   "text_status": "FOUND",
-   "evidence": "p8: \"...t BD. A User’s Guide to Winsteps Rasch-Model Computer Program. Chicago: MESA Press; 2001. 20. Mallinson T, Stelmack J, Velozo C. A comparison of the separation ratio and coefficien...\" [terms: rasch, right]",
-   "page": 8,
    "csv_status": "-",
    "csv_detail": "no comparable value in extraction CSVs",
    "prisma_status": "-",
@@ -5342,7 +5345,7 @@
   {
    "n": 266,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "2002",
    "kind": "year",
    "keys": [
@@ -5362,7 +5365,7 @@
   {
    "n": 267,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "12",
    "kind": "count",
    "keys": [
@@ -5382,7 +5385,7 @@
   {
    "n": 268,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "6/12",
    "kind": "snellen",
    "keys": [
@@ -5402,7 +5405,7 @@
   {
    "n": 269,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "65",
    "kind": "count",
    "keys": [
@@ -5422,7 +5425,7 @@
   {
    "n": 270,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "12",
    "kind": "count",
    "keys": [
@@ -5442,7 +5445,7 @@
   {
    "n": 271,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "0.83",
    "kind": "proportion",
    "keys": [
@@ -5462,7 +5465,7 @@
   {
    "n": 272,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "0.52",
    "kind": "proportion",
    "keys": [
@@ -5482,7 +5485,7 @@
   {
    "n": 273,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "0.98",
    "kind": "proportion",
    "keys": [
@@ -5502,7 +5505,7 @@
   {
    "n": 274,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "0.83",
    "kind": "proportion",
    "keys": [
@@ -5522,7 +5525,7 @@
   {
    "n": 275,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "0.71",
    "kind": "proportion",
    "keys": [
@@ -5542,7 +5545,7 @@
   {
    "n": 276,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12) | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question (newsprint; face at 12 feet) | Reference standard: presenting VA 6/12 or worse | n (positive): 65 (12)† | Sensitivity (95% CI): 0.83 (0.52-0.98) | Specificity (95% CI): 0.83 (0.71-0.92) | QUADAS-2 overall: high",
    "number": "0.92",
    "kind": "proportion",
    "keys": [
@@ -5562,7 +5565,7 @@
   {
    "n": 277,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "2002",
    "kind": "year",
    "keys": [
@@ -5582,7 +5585,7 @@
   {
    "n": 278,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "6/21",
    "kind": "snellen",
    "keys": [
@@ -5602,7 +5605,7 @@
   {
    "n": 279,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "65",
    "kind": "count",
    "keys": [
@@ -5622,7 +5625,7 @@
   {
    "n": 280,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "4",
    "kind": "count",
    "keys": [
@@ -5642,7 +5645,7 @@
   {
    "n": 281,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "1.00",
    "kind": "proportion",
    "keys": [
@@ -5662,7 +5665,7 @@
   {
    "n": 282,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "0.40",
    "kind": "proportion",
    "keys": [
@@ -5682,7 +5685,7 @@
   {
    "n": 283,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "1.00",
    "kind": "proportion",
    "keys": [
@@ -5702,7 +5705,7 @@
   {
    "n": 284,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "0.75",
    "kind": "proportion",
    "keys": [
@@ -5722,7 +5725,7 @@
   {
    "n": 285,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "0.62",
    "kind": "proportion",
    "keys": [
@@ -5742,7 +5745,7 @@
   {
    "n": 286,
    "section": "CONCLUSION",
-   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4) | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
+   "sentence": "Study: Gresset 2002 [@doi:10.1097/00006324-200207000-00009] | Index test (positive if): either HALS question | Reference standard: presenting VA 6/21 or worse | n (positive): 65 (4)† | Sensitivity (95% CI): 1.00 (0.40-1.00) | Specificity (95% CI): 0.75 (0.62-0.85) | QUADAS-2 overall: high",
    "number": "0.85",
    "kind": "proportion",
    "keys": [
@@ -5962,7 +5965,7 @@
   {
    "n": 297,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
    "number": "2018",
    "kind": "year",
    "keys": [
@@ -5982,7 +5985,7 @@
   {
    "n": 298,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
    "number": "89",
    "kind": "count",
    "keys": [
@@ -6002,7 +6005,7 @@
   {
    "n": 299,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
    "number": "10",
    "kind": "count",
    "keys": [
@@ -6022,7 +6025,7 @@
   {
    "n": 300,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
    "number": "0.50",
    "kind": "proportion",
    "keys": [
@@ -6042,7 +6045,7 @@
   {
    "n": 301,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
    "number": "0.20",
    "kind": "proportion",
    "keys": [
@@ -6062,7 +6065,7 @@
   {
    "n": 302,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
    "number": "0.80",
    "kind": "proportion",
    "keys": [
@@ -6082,8 +6085,8 @@
   {
    "n": 303,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
-   "number": "0.86",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
+   "number": "0.82",
    "kind": "proportion",
    "keys": [
     "doi:10.1093/ageing/afx202"
@@ -6091,8 +6094,8 @@
    "inherited": false,
    "source": "Labreche 2018",
    "text_status": "FOUND",
-   "evidence": "p4: \"...ng those only with TICS-M > 21. Questions 3, 4 and 7 for Group 3 gave high speciﬁcity (81–86%) but lower sensitivity. This did not change signiﬁcantly for those with TICS-M > 21. Q...\" [terms: positive, side, sensitivity, high]",
-   "page": 4,
+   "evidence": "p3: \"...up 3 TICs-M >21 (peripheral loss) 5/10 50% (20–80) 65/79 86% (83–72) 38% 3/8 38% (10–74) 82% 36/44 82% (67–91) Aggregate Impairment Aggregate Impairment TICS-M >21 Sens, sensitiv...\" [terms: peripheral, defect, sensitivity]",
+   "page": 3,
    "csv_status": "MATCH",
    "csv_detail": "dta.spec = 0.48, 0.55, 0.56, 0.58, 0.81, 0.82, 0.86, 0.87, 0.9, 0.92, 0.97, 0.98 (near 'Specificit')",
    "prisma_status": "-",
@@ -6102,8 +6105,8 @@
   {
    "n": 304,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
-   "number": "0.77",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
+   "number": "0.72",
    "kind": "proportion",
    "keys": [
     "doi:10.1093/ageing/afx202"
@@ -6111,10 +6114,10 @@
    "inherited": false,
    "source": "Labreche 2018",
    "text_status": "FOUND",
-   "evidence": "p3: \"...Group 1 (central loss) 23/31 74% (55–86) 50/58 86% (74–93) 13/15 87% (58–98) 34/37 92% (77–98) Group 1 TICs-M >21 (central loss) Group 2 (asymmetric acuities) Group 3 (peripher...\" [terms: peripheral]",
+   "evidence": "p3: \"...3 (peripheral loss) Group 3 TICs-M >21 (peripheral loss) 5/10 50% (20–80) 65/79 86% (83–72) 38% 3/8 38% (10–74) 82% 36/44 82% (67–91) Aggregate Impairment Aggregate Impairment T...\" [terms: peripheral, sensitivity]",
    "page": 3,
    "csv_status": "CHECK",
-   "csv_detail": "sentence 0.77 equals dta.spec_ci_low = 0.77, but the nearest term 'Specificit' suggests dta.spec = 0.48, 0.55, 0.56, 0.58, 0.81, 0.82, 0.86, 0.87, 0.9, 0.92, 0.97, 0.98",
+   "csv_detail": "sentence 0.72 equals dta.spec_ci_low = 0.7242, but the nearest term 'Specificit' suggests dta.spec = 0.48, 0.55, 0.56, 0.58, 0.81, 0.82, 0.86, 0.87, 0.9, 0.92, 0.97, 0.98",
    "prisma_status": "-",
    "prisma_detail": "",
    "verdict": ""
@@ -6122,19 +6125,19 @@
   {
    "n": 305,
    "section": "CONCLUSION",
-   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.86 (0.77-0.92) | QUADAS-2 overall: high",
-   "number": "0.92",
+   "sentence": "Study: Labreche 2018 [@doi:10.1093/ageing/afx202] | Index test (positive if): \"difficulty noticing objects off to the side\" | Reference standard: peripheral field defect | n (positive): 89 (10) | Sensitivity (95% CI): 0.50 (0.20-0.80) | Specificity (95% CI): 0.82 (0.72-0.89)‡ | QUADAS-2 overall: high",
+   "number": "0.89",
    "kind": "proportion",
    "keys": [
     "doi:10.1093/ageing/afx202"
    ],
    "inherited": false,
    "source": "Labreche 2018",
-   "text_status": "FOUND",
-   "evidence": "p4: \"...pairments. These values increased when considering only those with a TICS-M > 21–87% and 92%, respectively. Question 5 also gave good values with a sensitivity of 73% and speciﬁci...\" [terms: side, sensitivity, high]",
-   "page": 4,
-   "csv_status": "MATCH",
-   "csv_detail": "dta.spec = 0.48, 0.55, 0.56, 0.58, 0.81, 0.82, 0.86, 0.87, 0.9, 0.92, 0.97, 0.98 (near 'Specificit')",
+   "text_status": "WEAK",
+   "evidence": "p3: \"...828007 by Mount Royal University user on 04 February 2018 4/10 40% (14–73) 64/79 81% (70–89) 3/8 38% (10–74) 2/10 20% (3.5–56) 68/79 86% (76–93) 1/8 13% (0.07–53) 36/44 82% (67–...\" [terms: none]",
+   "page": 3,
+   "csv_status": "CHECK",
+   "csv_detail": "sentence 0.89 equals dta.n = 89, but the nearest term 'Specificit' suggests dta.spec = 0.48, 0.55, 0.56, 0.58, 0.81, 0.82, 0.86, 0.87, 0.9, 0.92, 0.97, 0.98",
    "prisma_status": "-",
    "prisma_detail": "",
    "verdict": ""
@@ -6380,7 +6383,7 @@
   {
    "n": 318,
    "section": "CONCLUSION",
-   "sentence": "Confidence intervals are Wilson intervals from the reported or reconstructed 2 x 2 tables; † from counts back-calculated from a reported proportion (approximate).",
+   "sentence": "Confidence intervals are the source's own where reported, otherwise Wilson intervals from the reported or reconstructed 2 x 2 tables; † counts or intervals back-calculated from reported proportions (approximate); ‡ the source prints 65/79 and 86% for this cell, which disagree, so the fraction is used.",
    "number": "2",
    "kind": "count",
    "keys": [],
@@ -6398,7 +6401,7 @@
   {
    "n": 319,
    "section": "CONCLUSION",
-   "sentence": "Confidence intervals are Wilson intervals from the reported or reconstructed 2 x 2 tables; † from counts back-calculated from a reported proportion (approximate).",
+   "sentence": "Confidence intervals are the source's own where reported, otherwise Wilson intervals from the reported or reconstructed 2 x 2 tables; † counts or intervals back-calculated from reported proportions (approximate); ‡ the source prints 65/79 and 86% for this cell, which disagree, so the fraction is used.",
    "number": "2",
    "kind": "count",
    "keys": [],
@@ -6416,6 +6419,42 @@
   {
    "n": 320,
    "section": "CONCLUSION",
+   "sentence": "Confidence intervals are the source's own where reported, otherwise Wilson intervals from the reported or reconstructed 2 x 2 tables; † counts or intervals back-calculated from reported proportions (approximate); ‡ the source prints 65/79 and 86% for this cell, which disagree, so the fraction is used.",
+   "number": "65/79",
+   "kind": "snellen",
+   "keys": [],
+   "inherited": false,
+   "source": "",
+   "text_status": "NO CITATION",
+   "evidence": "",
+   "page": null,
+   "csv_status": "-",
+   "csv_detail": "",
+   "prisma_status": "-",
+   "prisma_detail": "",
+   "verdict": ""
+  },
+  {
+   "n": 321,
+   "section": "CONCLUSION",
+   "sentence": "Confidence intervals are the source's own where reported, otherwise Wilson intervals from the reported or reconstructed 2 x 2 tables; † counts or intervals back-calculated from reported proportions (approximate); ‡ the source prints 65/79 and 86% for this cell, which disagree, so the fraction is used.",
+   "number": "86%",
+   "kind": "percent",
+   "keys": [],
+   "inherited": false,
+   "source": "",
+   "text_status": "NO CITATION",
+   "evidence": "",
+   "page": null,
+   "csv_status": "-",
+   "csv_detail": "",
+   "prisma_status": "-",
+   "prisma_detail": "",
+   "verdict": ""
+  },
+  {
+   "n": 322,
+   "section": "CONCLUSION",
    "sentence": "Yes / No 2.",
    "number": "2",
    "kind": "count",
@@ -6432,7 +6471,7 @@
    "verdict": ""
   },
   {
-   "n": 321,
+   "n": 323,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "20/40",
@@ -6452,7 +6491,7 @@
    "verdict": ""
   },
   {
-   "n": 322,
+   "n": 324,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.89",
@@ -6472,7 +6511,7 @@
    "verdict": ""
   },
   {
-   "n": 323,
+   "n": 325,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.81",
@@ -6492,7 +6531,7 @@
    "verdict": ""
   },
   {
-   "n": 324,
+   "n": 326,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "2",
@@ -6512,7 +6551,7 @@
    "verdict": ""
   },
   {
-   "n": 325,
+   "n": 327,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "20/200",
@@ -6532,7 +6571,7 @@
    "verdict": ""
   },
   {
-   "n": 326,
+   "n": 328,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.89",
@@ -6552,7 +6591,7 @@
    "verdict": ""
   },
   {
-   "n": 327,
+   "n": 329,
    "section": "CONCLUSION",
    "sentence": "A \"No\" to item 1 is a positive screen for acuity of 20/40 or worse (derivation-sample sensitivity 0.89, specificity 0.81); a \"No\" to item 2 is a positive screen for acuity of 20/200 or worse (sensitivity 0.89, specificity 0.71) [@doi:10.1167/iovs.67.1.28].",
    "number": "0.71",
@@ -6572,7 +6611,7 @@
    "verdict": ""
   },
   {
-   "n": 328,
+   "n": 330,
    "section": "CONCLUSION",
    "sentence": "**Step 2.",
    "number": "2",
@@ -6590,7 +6629,7 @@
    "verdict": ""
   },
   {
-   "n": 329,
+   "n": 331,
    "section": "CONCLUSION",
    "sentence": "Yes / No [@doi:10.1016/S0161-6420(02)01742-6; @doi:10.1016/j.ajo.2025.08.051] 4.",
    "number": "4",
@@ -6611,7 +6650,7 @@
    "verdict": ""
   },
   {
-   "n": 330,
+   "n": 332,
    "section": "CONCLUSION",
    "sentence": "Yes / No [@doi:10.1016/S0161-6420(02)01742-6; @doi:10.1016/j.ajo.2025.08.051] 5.",
    "number": "5",
@@ -6632,7 +6671,7 @@
    "verdict": ""
   },
   {
-   "n": 331,
+   "n": 333,
    "section": "CONCLUSION",
    "sentence": "Yes / No [@doi:10.1111/j.1444-0938.2007.00120.x] 6.",
    "number": "6",
@@ -6652,7 +6691,7 @@
    "verdict": ""
   },
   {
-   "n": 332,
+   "n": 334,
    "section": "CONCLUSION",
    "sentence": "**Step 3.",
    "number": "3",
@@ -6670,7 +6709,7 @@
    "verdict": ""
   },
   {
-   "n": 333,
+   "n": 335,
    "section": "CONCLUSION",
    "sentence": "Pull from the chart:** the last better-eye corrected acuity; the last visual field (better-eye mean deviation, and whether the central 10 degrees or the inferior field is involved); contrast sensitivity if measured.",
    "number": "10",
@@ -6688,61 +6727,22 @@
    "verdict": ""
   },
   {
-   "n": 334,
+   "n": 336,
    "section": "CONCLUSION",
-   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness].",
+   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness; @doi:10.1167/iovs.67.1.28].",
    "number": "2",
    "kind": "count",
    "keys": [
-    "key:healthlinkbc-legal-blindness"
+    "key:healthlinkbc-legal-blindness",
+    "doi:10.1167/iovs.67.1.28"
    ],
    "inherited": false,
-   "source": "HealthLink BC 2022",
-   "text_status": "NO TEXT",
-   "evidence": "no text file",
-   "page": null,
-   "csv_status": "-",
-   "csv_detail": "",
-   "prisma_status": "-",
-   "prisma_detail": "",
-   "verdict": ""
-  },
-  {
-   "n": 335,
-   "section": "CONCLUSION",
-   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness].",
-   "number": "3",
-   "kind": "count",
-   "keys": [
-    "key:healthlinkbc-legal-blindness"
-   ],
-   "inherited": false,
-   "source": "HealthLink BC 2022",
-   "text_status": "NO TEXT",
-   "evidence": "no text file",
-   "page": null,
-   "csv_status": "-",
-   "csv_detail": "",
-   "prisma_status": "-",
-   "prisma_detail": "",
-   "verdict": ""
-  },
-  {
-   "n": 336,
-   "section": "CONCLUSION",
-   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness].",
-   "number": "6",
-   "kind": "count",
-   "keys": [
-    "key:healthlinkbc-legal-blindness"
-   ],
-   "inherited": false,
-   "source": "HealthLink BC 2022",
-   "text_status": "NO TEXT",
-   "evidence": "no text file",
-   "page": null,
-   "csv_status": "-",
-   "csv_detail": "",
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p2: \"...g survey questions against specific IOVS | January 2026 | Vol. 67 | No. 1 | Article 28 | 2 VA thresholds, many of those questions were not initially constructed to target the func...\" [terms: holds, item, items, threshold, clinic, acuity]",
+   "page": 2,
+   "csv_status": "MISMATCH",
+   "csv_detail": "sentence 2 vs studies.n_items = 100 (near 'item')",
    "prisma_status": "-",
    "prisma_detail": "",
    "verdict": ""
@@ -6750,19 +6750,20 @@
   {
    "n": 337,
    "section": "CONCLUSION",
-   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness].",
-   "number": "20/40",
-   "kind": "snellen",
+   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness; @doi:10.1167/iovs.67.1.28].",
+   "number": "3",
+   "kind": "count",
    "keys": [
-    "key:healthlinkbc-legal-blindness"
+    "key:healthlinkbc-legal-blindness",
+    "doi:10.1167/iovs.67.1.28"
    ],
    "inherited": false,
-   "source": "HealthLink BC 2022",
-   "text_status": "NO TEXT",
-   "evidence": "no text file",
-   "page": null,
-   "csv_status": "-",
-   "csv_detail": "",
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p3: \"...R (legal blindness), we assessed the performance of individual items, two-item pairs, and three-item triplets using sensitivity, specificity, and AUC metrics. The item selection pr...\" [terms: follow, item, items, threshold, worse]",
+   "page": 3,
+   "csv_status": "CHECK",
+   "csv_detail": "sentence 3 equals effects.estimate = 3.28, but the nearest term 'items' suggests studies.n_items = 100",
    "prisma_status": "-",
    "prisma_detail": "",
    "verdict": ""
@@ -6770,19 +6771,20 @@
   {
    "n": 338,
    "section": "CONCLUSION",
-   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness].",
-   "number": "20",
+   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness; @doi:10.1167/iovs.67.1.28].",
+   "number": "6",
    "kind": "count",
    "keys": [
-    "key:healthlinkbc-legal-blindness"
+    "key:healthlinkbc-legal-blindness",
+    "doi:10.1167/iovs.67.1.28"
    ],
    "inherited": false,
-   "source": "HealthLink BC 2022",
-   "text_status": "NO TEXT",
-   "evidence": "no text file",
-   "page": null,
-   "csv_status": "-",
-   "csv_detail": "",
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p6: \"...0.77 0.79 0.78 0.84 0.80 0.84 0.83 0.89 0.82 0.85 0.81 0.87 0.84 0.85 0.79 0.84 [page 6] Low Vision and Legal Blindness Screening Questions IOVS | January 2026 | Vol. 67 | No....\" [terms: holds, item, items, threshold]",
+   "page": 6,
+   "csv_status": "MISMATCH",
+   "csv_detail": "sentence 6 vs studies.n_items = 100 (near 'items')",
    "prisma_status": "-",
    "prisma_detail": "",
    "verdict": ""
@@ -6790,25 +6792,68 @@
   {
    "n": 339,
    "section": "CONCLUSION",
+   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness; @doi:10.1167/iovs.67.1.28].",
+   "number": "20/40",
+   "kind": "snellen",
+   "keys": [
+    "key:healthlinkbc-legal-blindness",
+    "doi:10.1167/iovs.67.1.28"
+   ],
+   "inherited": false,
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p1: \"...ted States, low vision is defined as a best-corrected visual acuity (BCVA) of 0.3 logMAR (20/40) or worse in the better-seeing eye,1 whereas legal blindness is defined as a BCVA of...\" [terms: field, better, clinic, acuity, worse]",
+   "page": 1,
+   "csv_status": "-",
+   "csv_detail": "",
+   "prisma_status": "-",
+   "prisma_detail": "",
+   "verdict": ""
+  },
+  {
+   "n": 340,
+   "section": "CONCLUSION",
+   "sentence": "**Referral rule (proposed, untested):** offer an LVR evaluation when any of the following holds: \"No\" to item 1 or item 2; \"Yes\" to any of items 3 to 6 together with a documented glaucomatous field defect in the better eye [VERIFY: field threshold to be set by the clinic]; better-eye acuity of 20/40 or worse [VERIFY: align with the AAO PPP referral criteria]; or a field of 20 degrees or less in the better eye, the legal-blindness criterion [@healthlinkbc-legal-blindness; @doi:10.1167/iovs.67.1.28].",
+   "number": "20",
+   "kind": "count",
+   "keys": [
+    "key:healthlinkbc-legal-blindness",
+    "doi:10.1167/iovs.67.1.28"
+   ],
+   "inherited": false,
+   "source": "Wu 2026",
+   "text_status": "FOUND",
+   "evidence": "p8: \"...VA ≤ 1.0 logMAR) and do not detect legal blindness due to visual-field loss alone (e.g., ≤20°). As in many studies that estimate blindness prevalence using VA thresholds,16,17 our...\" [terms: holds, item, items, field, threshold, acuity]",
+   "page": 8,
+   "csv_status": "-",
+   "csv_detail": "no comparable value in extraction CSVs",
+   "prisma_status": "-",
+   "prisma_detail": "",
+   "verdict": ""
+  },
+  {
+   "n": 341,
+   "section": "CONCLUSION",
    "sentence": "Record all six answers in the chart whether or not a referral follows, so that the pilot can be audited.",
    "number": "six",
    "kind": "count",
    "keys": [
-    "key:healthlinkbc-legal-blindness"
+    "key:healthlinkbc-legal-blindness",
+    "doi:10.1167/iovs.67.1.28"
    ],
    "inherited": true,
-   "source": "HealthLink BC 2022",
-   "text_status": "NO TEXT",
-   "evidence": "(paragraph citation) no text file",
-   "page": null,
+   "source": "Wu 2026",
+   "text_status": "WEAK",
+   "evidence": "(paragraph citation) p1: \"...ined survey questions to probe individuals’ perceived vision status or vision abilities.3–6 For example, Wittenborn et al.3 conducted a validation study comparing telephone survey...\" [terms: none]",
+   "page": 1,
    "csv_status": "-",
-   "csv_detail": "",
+   "csv_detail": "no comparable value in extraction CSVs",
    "prisma_status": "MATCH",
    "prisma_detail": "equals prisma_counts 'Reports not retrieved'",
    "verdict": ""
   },
   {
-   "n": 340,
+   "n": 342,
    "section": "References",
    "sentence": "[AUTHOR 2 NAME IN CAPITALS], [DEGREE] - [Role], [Institution], [City] - [email] - Financial disclosure: [None / list]",
    "number": "2",
@@ -6826,7 +6871,7 @@
    "verdict": ""
   },
   {
-   "n": 341,
+   "n": 343,
    "section": "References",
    "sentence": "[AUTHOR 3 NAME IN CAPITALS], [DEGREE] - [Role], [Institution], [City] - [email] - Financial disclosure: [None / list]",
    "number": "3",
@@ -6844,7 +6889,7 @@
    "verdict": ""
   },
   {
-   "n": 342,
+   "n": 344,
    "section": "References",
    "sentence": "Search strategies as run (PubMed, Scopus, 4 October 2026), the minimal edit and the eight-arm revision with their recall tests, and the PRISMA-S search log (`paper/search_log.md`, `paper/search_strategy_note.md`). - S2.",
    "number": "eight",
